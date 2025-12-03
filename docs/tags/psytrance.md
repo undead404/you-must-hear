@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-16T13:00:21.096Z
+date: 2025-12-03T02:37:48.304Z
 permalink: tags/psytrance
 title: psytrance
 ---
 
 ## psytrance
 
-Last updated: <time datetime="2025-11-16T13:00:21.096Z">Sun Nov 16 2025 15:00:21 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T02:37:48.304Z">Wed Dec 03 2025 04:37:48 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,7 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 26</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -97,7 +97,7 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 49</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -116,7 +116,7 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 83</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -210,7 +210,7 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 73</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 74</li>
             <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 82</li>
         </ul>
       </td>
@@ -232,7 +232,7 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
       <td>
         <ul>
             <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 20</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 91</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -253,7 +253,7 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
       <td>
         <ul>
             <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 19</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 90</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -271,7 +271,7 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 19</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 20</li>
             <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 68</li>
         </ul>
       </td>
@@ -311,7 +311,7 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 78</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 79</li>
             <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 94</li>
         </ul>
       </td>
@@ -354,7 +354,7 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
       <td>
         <ul>
             <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 17</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 87</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -378,21 +378,19 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8b41c3d48234b75aeb0b4ad54d874e2.png" alt="Cover for Are You Shpongled?" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-10-01</td>
       <td>Shpongle</td>
       <td>Are You Shpongled?</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 60</li>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 89</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 95</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 14</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -414,7 +412,7 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
       <td>
         <ul>
             <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 63</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 94</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -435,7 +433,7 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 80</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 81</li>
             <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 99</li>
         </ul>
       </td>
@@ -476,8 +474,8 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
       <td>
         <ul>
             <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 9</li>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 18</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 60</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 23</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 61</li>
             <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 75</li>
         </ul>
       </td>
@@ -497,7 +495,7 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 18</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -606,7 +604,7 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 16</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 20</li>
             <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 99</li>
         </ul>
       </td>
@@ -643,7 +641,7 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 63</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -684,7 +682,7 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 69</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -703,7 +701,7 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 55</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -722,7 +720,7 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 14</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -741,7 +739,7 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 68</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -762,7 +760,7 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 13</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -854,6 +852,7 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -872,7 +871,7 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 51</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -928,7 +927,7 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 93</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -999,7 +998,7 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 47</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1018,7 +1017,7 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 34</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1041,7 +1040,7 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
       <td>
         <ul>
             <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 35</li>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 62</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 65</li>
             <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 99</li>
         </ul>
       </td>
@@ -1114,8 +1113,8 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 89</li>
             <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 90</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1153,7 +1152,7 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 81</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1173,7 +1172,7 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 32</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1327,12 +1326,12 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 4</li>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 76</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 79</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 80</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 80</li>
             <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 97</li>
             <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 97</li>
-            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 98</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 98</li>
+            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1381,12 +1380,12 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
       <td>
         <ul>
             <li> <a href="{{ "/tags/darkpsy" | relative_url }}">darkpsy</a> # 1</li>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 5</li>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 18</li>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 27</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 17</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 22</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 28</li>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 45</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 70</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 70</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 71</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 72</li>
             <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 72</li>
         </ul>
       </td>
@@ -1451,7 +1450,7 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 67</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1486,8 +1485,7 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 50</li>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 95</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1600,8 +1598,8 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 56</li>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 96</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 57</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1735,7 +1733,7 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 92</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1755,7 +1753,7 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 85</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1843,7 +1841,7 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
       <td>
         <ul>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 36</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 75</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 76</li>
             <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 97</li>
         </ul>
       </td>
@@ -1851,7 +1849,7 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/WqeTT27Z70hbZkAR7oYq6fLtdLC-1xa0twrslG8Zc6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDU0/NTczLTE1NjAzNzA4/ODYtMTgxMy5qcGVn.jpeg" alt="Cover for This Light" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aacc799eb657426b86ffad564bf84f37.png" alt="Cover for This Light" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-07-10</td>
       <td>This Light</td>
@@ -1873,7 +1871,7 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/CpdRzxGUVLoFiuxhAKFLqPQ0ucbbf4lwTDHJ2kOn8f8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzgz/NDc0LTE1NDE4Njgx/NjQtNDE5MC5wbmc.jpeg" alt="Cover for Compiler Optimization Techniques" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/009ad4a6097bcf31ce39b26d5d6377f4.png" alt="Cover for Compiler Optimization Techniques" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-11-02</td>
       <td>The Algorithm</td>
@@ -1891,8 +1889,8 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 69</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 83</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 77</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 84</li>
             <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 94</li>
         </ul>
       </td>
@@ -1950,7 +1948,7 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 88</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -2004,6 +2002,6 @@ Psytrance, short for psychedelic trance, is a subgenre of trance music that orig
 - [techno]({{ "/tags/techno" | relative_url }})
 - [progressive trance]({{ "/tags/progressive-trance" | relative_url }})
 - [progressive psytrance]({{ "/tags/progressive-psytrance" | relative_url }})
-- [darkpsy]({{ "/tags/darkpsy" | relative_url }})
 - [dance]({{ "/tags/dance" | relative_url }})
+- [darkpsy]({{ "/tags/darkpsy" | relative_url }})
 - [ambient]({{ "/tags/ambient" | relative_url }})

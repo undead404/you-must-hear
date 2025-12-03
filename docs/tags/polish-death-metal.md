@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T02:41:19.506Z
+date: 2025-12-03T02:07:22.668Z
 permalink: tags/polish-death-metal
 title: polish death metal
 ---
 
 ## polish death metal
 
-Last updated: <time datetime="2025-11-23T02:41:19.506Z">Sun Nov 23 2025 04:41:19 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T02:07:22.668Z">Wed Dec 03 2025 04:07:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -552,7 +552,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 40</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1051,7 +1051,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/PHAsCXTD9Jm8-wkunYyAJtHfG-9ENSlZYeBomOn08sM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNzc3/NTItMTM2MDQ5NzMw/Mi04MDcxLmpwZWc.jpeg" alt="Cover for Dare You follow Me? - Promo 2007" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a1abcd8b556463baf705ffd5b55f959.png" alt="Cover for Dare You follow Me? - Promo 2007" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Misteria</td>
@@ -1147,6 +1147,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
     <tr>
       <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4cb7f3a6d12822ef75b7945eb487693.png" alt="Cover for Promo &#39;07" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-07-18</td>
       <td>Abatoir</td>
@@ -1472,7 +1473,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 70</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1639,6 +1640,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
     <tr>
       <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/be600231ffeb4adccadb1bffaa022d05.png" alt="Cover for Enter Fiction" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-01-06</td>
       <td>Nilfgaard</td>
@@ -1735,7 +1737,7 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/k0-S1NaBFTmZ5oBf5R7kJTQa1CiNeBfqCddaFqJUVok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTAw/NjQwLTE1NzU4MTgy/NDctMTQwNy5qcGVn.jpeg" alt="Cover for The End is Within Sight" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e71a66d00fba4bedabe6ebb3966744dc.png" alt="Cover for The End is Within Sight" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-01-07</td>
       <td>Nihilosaur</td>
@@ -1770,8 +1772,8 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 7</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 86</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 15</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1961,8 +1963,8 @@ Polish death metal is a subgenre of death metal that originated in Poland in the
       <td>
         <ul>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 6</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 27</li>
             <li> <a href="{{ "/tags/polish-metal" | relative_url }}">polish metal</a> # 64</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 73</li>
         </ul>
       </td>
     </tr>

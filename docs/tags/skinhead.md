@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-01T08:00:50.961Z
+date: 2025-12-03T02:02:15.855Z
 permalink: tags/skinhead
 title: skinhead
 ---
 
 ## skinhead
 
-Last updated: <time datetime="2025-11-01T08:00:50.961Z">Sat Nov 01 2025 10:00:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T02:02:15.855Z">Wed Dec 03 2025 04:02:15 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -62,7 +62,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 21</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 20</li>
             <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 25</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 72</li>
         </ul>
@@ -71,7 +71,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/7cfB1Ns-9jK-2gOH2hMJtH5tgvdIeKzI6FgQmElmvcE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTcz/NC0xNDI1ODk1NjM5/LTkwNDkuanBlZw.jpeg" alt="Cover for Send In the Marines" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8587901e8864a36b828eea28849b641.png" alt="Cover for Send In the Marines" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>Combat 84</td>
@@ -101,7 +101,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 55</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -121,7 +121,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 27</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -158,7 +158,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 18</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -196,7 +196,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 25</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -228,8 +228,6 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       <td>Rockers Into Orbit</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a></li>
         </ul>
       </td>
       <td>
@@ -307,7 +305,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 59</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -381,7 +379,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 7</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -456,7 +454,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 9</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -476,7 +474,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/street-punk" | relative_url }}">street punk</a> # 23</li>
+            <li> <a href="{{ "/tags/street-punk" | relative_url }}">street punk</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -550,6 +548,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -733,9 +732,10 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 13</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 18</li>
-            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 49</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 3</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 17</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 19</li>
+            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -755,7 +755,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 2</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -775,7 +775,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 17</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -851,10 +851,10 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 12</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 17</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 26</li>
-            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 53</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 15</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 22</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 27</li>
+            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -915,7 +915,6 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/mobsAxVzr60hGm2ryyk-Z4xgrich2qEC5gUe3U3NDvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzIy/ODAtMTU0OTQ2NTk5/OS00Nzg2LmpwZWc.jpeg" alt="Cover for Nice Boys Finish Last" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Discipline</td>
@@ -946,7 +945,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 25</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -983,9 +982,9 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 1</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 3</li>
-            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 44</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 3</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 7</li>
+            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1056,7 +1055,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 14</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 19</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 43</li>
         </ul>
       </td>
@@ -1077,7 +1076,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 40</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1157,7 +1156,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/vj_aXyR3T0i6ti6tGEHzcH7buAaOZUfG4sEbDk1qzKM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjM2/NjctMTMyMzg4NDM1/OS5qcGVn.jpeg" alt="Cover for Asi Es Mi Vida" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6846e15b0b6c4ecbb8113fe8d38da3fc.png" alt="Cover for Asi Es Mi Vida" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-02-20</td>
       <td>Banda Bassotti</td>
@@ -1217,6 +1216,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
     <tr>
       <td>5</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a6c8326eedc4a748b671d6b81dc655b.png" alt="Cover for Niemals auf Knien" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Die Lunikoff Verschwörung</td>
@@ -1228,7 +1228,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 54</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 55</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 68</li>
         </ul>
       </td>
@@ -1249,7 +1249,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/street-punk" | relative_url }}">street punk</a> # 21</li>
+            <li> <a href="{{ "/tags/street-punk" | relative_url }}">street punk</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1363,7 +1363,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/JBnpdRAVDM1r_N0BFvYr57GK_uzlGrYAtY223IZVRCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMDc4/OS0xNjUyOTY4MTQ2/LTM0NzQuanBlZw.jpeg" alt="Cover for Dans Ma Bulle" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/227e1bf97c3343409213d2dfe012af07.png" alt="Cover for Dans Ma Bulle" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-02-06</td>
       <td>Diam&#39;s</td>
@@ -1376,6 +1376,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1450,9 +1451,10 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 11</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 15</li>
-            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 48</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 1</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 15</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 16</li>
+            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1545,8 +1547,8 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 8</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 8</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 10</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 12</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 28</li>
         </ul>
       </td>
@@ -1610,7 +1612,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/vvstICR7bQFFQpxi5aRweUYd7BcnmBH78MwP8aor_mE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODcz/MjQtMTIzNjk1OTcw/OS5qcGVn.jpeg" alt="Cover for Sangre por Sangre" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c87b081d869d4790aa021c5d4d438457.png" alt="Cover for Sangre por Sangre" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03-05</td>
       <td>Zartako</td>
@@ -1632,7 +1634,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/YGuQEdRZGxhWfzb1Opczy8BoOJ4-8IrqUiP3ue9N3Ho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjA3/MDUtMTI3MDU5MzU0/MC5qcGVn.jpeg" alt="Cover for You&#39;ll Never Take Us | Skinhead Anthems II" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e75a9e6df9c1568671e12eef49ec259.png" alt="Cover for You&#39;ll Never Take Us | Skinhead Anthems II" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-08</td>
       <td>The Last Resort</td>
@@ -1645,7 +1647,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/street-punk" | relative_url }}">street punk</a> # 36</li>
+            <li> <a href="{{ "/tags/street-punk" | relative_url }}">street punk</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1659,16 +1661,14 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       <td>Feel the Steel</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 11</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 64</li>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 96</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 96</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 14</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 63</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 87</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1699,18 +1699,19 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 18</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 4</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 20</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 65</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 71</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 70</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 80</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 86</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 88</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 89</li>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 89</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 90</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 91</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 94</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 94</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 95</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 96</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1755,22 +1756,21 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/OI5Ocd0GGyua8033EEfgmD0f5eTm_6z8eOpBn-b78oU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDQ0/NjEtMTM0MjYyMDM1/Mi0xNjgyLmpwZWc.jpeg" alt="Cover for Creatures" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbd23c95e6c3489e9ccf8b4940166deb.png" alt="Cover for Creatures" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-12</td>
       <td>Motionless in White</td>
       <td>Creatures</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 3</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 23</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 69</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 1</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 2</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 26</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1803,12 +1803,13 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
         <ul>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 8</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 16</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 19</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 34</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 47</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 49</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 50</li>
             <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 58</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 71</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 83</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1828,14 +1829,14 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       <td>
         <ul>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 49</li>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 50</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 59</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 51</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 64</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 73</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 83</li>
-            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 83</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 81</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 83</li>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 87</li>
+            <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 83</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 86</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 87</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 88</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 91</li>
         </ul>
@@ -1912,7 +1913,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 26</li>
+            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1987,14 +1988,15 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 2</li>
-            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 41</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 6</li>
+            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc1d2aaa23fb4f1fadf94bb4b64a8a9c.png" alt="Cover for Goldie" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-27</td>
       <td>A$AP Rocky</td>
@@ -2024,17 +2026,17 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 91</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 96</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 97</li>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 97</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 97</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 98</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 98</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 99</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 99</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 100</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 100</li>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 100</li>
             <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 100</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 100</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 100</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 100</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 100</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2110,11 +2112,12 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 10</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 18</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 28</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 2</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 11</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 20</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 32</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 40</li>
-            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 56</li>
+            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -2138,6 +2141,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
     <tr>
       <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/046fcc2040964003a5be8fde099e309b.png" alt="Cover for Infamous" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-11-12</td>
       <td>Motionless in White</td>
@@ -2149,8 +2153,8 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 17</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 66</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 20</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -2230,11 +2234,11 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       <td>
         <ul>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 5</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 10</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 16</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 35</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 37</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 41</li>
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 49</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 51</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 52</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 67</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 69</li>
         </ul>
@@ -2254,16 +2258,15 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 1</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 4</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 6</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 16</li>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 18</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 30</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 6</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 8</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 19</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 19</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 31</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 36</li>
             <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 36</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 38</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 40</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 45</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 43</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 44</li>
             <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 93</li>
         </ul>
       </td>
@@ -2359,26 +2362,26 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 18</li>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 22</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 29</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 29</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 38</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 39</li>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 41</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 45</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 46</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 53</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 55</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 63</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 76</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 76</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 28</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 30</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 35</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 36</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 40</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 41</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 42</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 47</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 54</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 57</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 64</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 68</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 76</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 78</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 79</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 90</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 91</li>
             <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 91</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 93</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -2454,8 +2457,10 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 24</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 37</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 2</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 10</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 25</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 39</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 53</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 53</li>
         </ul>
@@ -2475,12 +2480,12 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 1</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 17</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 3</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 18</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 19</li>
             <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 21</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 22</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 24</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 24</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 23</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 24</li>
             <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 88</li>
         </ul>
       </td>
@@ -2506,6 +2511,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
     <tr>
       <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef534ed897b4fee346393653c0449e80.png" alt="Cover for BABYMETAL" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-02-26</td>
       <td>BABYMETAL</td>
@@ -2518,22 +2524,21 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 6</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 9</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 15</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 15</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 31</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 34</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 38</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 8</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 16</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 16</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 17</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 32</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 46</li>
             <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 50</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 52</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 54</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 64</li>
             <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 71</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 73</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 74</li>
             <li> <a href="{{ "/tags/unblack-metal" | relative_url }}">unblack metal</a> # 79</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 81</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 84</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 86</li>
             <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 92</li>
             <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 100</li>
         </ul>
@@ -2562,7 +2567,7 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/o6UsNPODEUdJyzTNzPBzh7Kmx4EDdt64fZraaHv0sA4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMjY4/MTctMTQ1NDYyMjIw/OS02NjI0LnBuZw.jpeg" alt="Cover for Hand aufs Herz" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8212202eaf61a76f7266941061e5c7f.png" alt="Cover for Hand aufs Herz" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01-15</td>
       <td>Unantastbar</td>
@@ -2699,69 +2704,70 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 2</li>
-            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 2</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 3</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 3</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 3</li>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 6</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 14</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 19</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 26</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 36</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 42</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 50</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 66</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 71</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 72</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 75</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 78</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 2</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 7</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 8</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 16</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 21</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 47</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 53</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 54</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 56</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 56</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 66</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 73</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 79</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 79</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 80</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 81</li>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 87</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 81</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 81</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 81</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 83</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 87</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 87</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 88</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 89</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 90</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 90</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 90</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 92</li>
-            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 92</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 93</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 94</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 94</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 94</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 94</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 95</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 95</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 95</li>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 96</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 96</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 96</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 96</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 96</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 96</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 96</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 96</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 96</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 97</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 97</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 98</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 98</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 98</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 97</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 98</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 98</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 98</li>
             <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 98</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 98</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 98</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 98</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 98</li>
             <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 99</li>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 98</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 99</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 99</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 99</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 99</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 99</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 99</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 99</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 99</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 99</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 99</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 99</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 99</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 99</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 99</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2779,12 +2785,12 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 3</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 18</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 5</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 19</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 21</li>
             <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 24</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 26</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 26</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 26</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 25</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 28</li>
             <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 89</li>
         </ul>
       </td>
@@ -2867,63 +2873,68 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 3</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 4</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 4</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 4</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 4</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 16</li>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 21</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 38</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 44</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 56</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 56</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 64</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 3</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 8</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 9</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 10</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 11</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 12</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 13</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 16</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 25</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 30</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 44</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 49</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 58</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 71</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 72</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 73</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 73</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 73</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 79</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 80</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 82</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 83</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 84</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 85</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 88</li>
-            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 88</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 88</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 89</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 90</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 91</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 91</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 92</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 92</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 93</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 93</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 94</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 94</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 94</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 94</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 94</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 95</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 95</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 95</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 95</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 95</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 95</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 96</li>
             <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 96</li>
             <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 96</li>
             <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 96</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 97</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 97</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 97</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 97</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 97</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 97</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 97</li>
-            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 97</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 97</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 98</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 98</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 97</li>
+            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 97</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 97</li>
             <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 98</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 98</li>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 98</li>
+            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 98</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 98</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 98</li>
             <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 98</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 98</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 98</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -2955,14 +2966,14 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 57</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/kh3JEgxmBR8AWj4YIMxxBlOK1Wq4d-VtvDckDc3aWQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTE2/ODUzLTE2OTMzNTIx/NDktODkwMS5qcGVn.jpeg" alt="Cover for Outskirts" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ac4600ccdaa802e6b0d2dd82464f666.png" alt="Cover for Outskirts" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-03-10</td>
       <td>Sam Hunt</td>
@@ -3039,72 +3050,72 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 1</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 1</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 2</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 2</li>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 3</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 19</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 39</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 40</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 45</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 53</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 59</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 66</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 72</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 1</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 3</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 5</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 49</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 60</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 62</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 70</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 71</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 72</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 76</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 80</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 80</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 81</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 82</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 83</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 85</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 87</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 89</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 85</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 86</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 88</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 89</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 89</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 90</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 90</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 92</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 92</li>
             <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 93</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 93</li>
             <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 94</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 94</li>
-            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 95</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 94</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 95</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 95</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 95</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 96</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 96</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 97</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 97</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 97</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 97</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 97</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 97</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 97</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 98</li>
             <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 98</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 98</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 98</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 98</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 98</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 98</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 99</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 99</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 99</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 99</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 99</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 99</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 99</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 99</li>
             <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 100</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 100</li>
-            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 100</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 100</li>
             <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 100</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 100</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 100</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 100</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 100</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 100</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 100</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 100</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 100</li>
             <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 100</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 100</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 100</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 100</li>
             <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 100</li>
+            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 100</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 100</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 100</li>
             <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -3135,18 +3146,18 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 1</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 100</li>
             <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 100</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 100</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 100</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 100</li>
+            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 100</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 100</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 100</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 100</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 100</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 100</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 100</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 100</li>
             <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 100</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 100</li>
-            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -3163,14 +3174,15 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 2</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 11</li>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 15</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 26</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 2</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 4</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 14</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 16</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 27</li>
             <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 32</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 35</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 36</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 43</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 32</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 38</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 42</li>
             <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 92</li>
         </ul>
       </td>
@@ -3181,8 +3193,8 @@ The &quot;skinhead&quot; tag encompasses music associated with skinhead subcultu
 ### Related genres
 
 - [rac]({{ "/tags/rac" | relative_url }})
-- [punk rock]({{ "/tags/punk-rock" | relative_url }})
 - [rock]({{ "/tags/rock" | relative_url }})
+- [punk rock]({{ "/tags/punk-rock" | relative_url }})
 - [death metal]({{ "/tags/death-metal" | relative_url }})
 - [melodic death metal]({{ "/tags/melodic-death-metal" | relative_url }})
 - [metal]({{ "/tags/metal" | relative_url }})

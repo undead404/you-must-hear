@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T15:40:56.621Z
+date: 2025-12-03T01:26:34.051Z
 permalink: tags/bolero
 title: bolero
 ---
 
 ## bolero
 
-Last updated: <time datetime="2025-11-18T15:40:56.621Z">Tue Nov 18 2025 17:40:56 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T01:26:34.051Z">Wed Dec 03 2025 03:26:34 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -107,7 +107,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 13</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 12</li>
             <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 38</li>
         </ul>
       </td>
@@ -115,6 +115,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fecd8ee37ff0059c03fc6e7e8200e71f.png" alt="Cover for A Mis Amigos" style="max-width:120px; height:auto;" />
       </td>
       <td>1959</td>
       <td>Nat King Cole</td>
@@ -337,7 +338,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 1</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -736,7 +737,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
         <ul>
             <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 14</li>
             <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 46</li>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 60</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 61</li>
             <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 61</li>
         </ul>
       </td>
@@ -773,7 +774,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
         <ul>
             <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 40</li>
             <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 65</li>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 74</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 76</li>
             <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 85</li>
             <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 88</li>
             <li> <a href="{{ "/tags/mariachi" | relative_url }}">mariachi</a> # 89</li>
@@ -1084,6 +1085,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 14</li>
             <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 70</li>
             <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 97</li>
             <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 99</li>
@@ -1522,7 +1524,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
         <ul>
             <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 15</li>
             <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 47</li>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 61</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 62</li>
             <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 62</li>
         </ul>
       </td>
@@ -1700,10 +1702,10 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 1</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 33</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 2</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 49</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 69</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 97</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1760,7 +1762,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
       <td>
         <ul>
             <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 27</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 81</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1984,6 +1986,7 @@ Bolero is a romantic Latin music style characterized by slow, sensual rhythms an
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0956fec3aef010a1dc524bf12932a04f.png" alt="Cover for Germán Valdés TIN-TAN Canciones de Sus Películas" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Germán Valdés &quot;Tin Tan&quot;</td>

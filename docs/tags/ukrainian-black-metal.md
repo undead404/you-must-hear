@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-25T06:36:50.577Z
+date: 2025-12-03T01:31:38.237Z
 permalink: tags/ukrainian-black-metal
 title: ukrainian black metal
 ---
 
 ## ukrainian black metal
 
-Last updated: <time datetime="2025-10-25T06:36:50.577Z">Sat Oct 25 2025 09:36:50 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-03T01:31:38.237Z">Wed Dec 03 2025 03:31:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -240,7 +240,7 @@ Ukrainian black metal fuses the raw, atmospheric intensity of black metal with d
     <tr>
       <td>29</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/666898913f74458e94e1c68946f440fc.png" alt="Cover for Поплач мені, Річко..." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba300efa4b894c7faf974cec1ff77f99.png" alt="Cover for Поплач мені, Річко..." style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Kroda</td>
@@ -327,7 +327,7 @@ Ukrainian black metal fuses the raw, atmospheric intensity of black metal with d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 38</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -365,6 +365,7 @@ Ukrainian black metal fuses the raw, atmospheric intensity of black metal with d
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -525,8 +526,8 @@ Ukrainian black metal fuses the raw, atmospheric intensity of black metal with d
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 20</li>
             <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 61</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 63</li>
             <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 84</li>
         </ul>
       </td>
@@ -658,6 +659,7 @@ Ukrainian black metal fuses the raw, atmospheric intensity of black metal with d
     <tr>
       <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d15942b92ee4362a04b1802c5ff9ffe.png" alt="Cover for Голос Сталі" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-12-26</td>
       <td>Nokturnal Mortum</td>
@@ -690,7 +692,7 @@ Ukrainian black metal fuses the raw, atmospheric intensity of black metal with d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 5</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1089,8 +1091,8 @@ Ukrainian black metal fuses the raw, atmospheric intensity of black metal with d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 20</li>
             <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 21</li>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 26</li>
         </ul>
       </td>
     </tr>
