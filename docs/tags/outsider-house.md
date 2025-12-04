@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T20:28:55.727Z
+date: 2025-12-03T23:32:49.938Z
 permalink: tags/outsider-house
 title: outsider house
 ---
 
 ## outsider house
 
-Last updated: <time datetime="2025-11-19T20:28:55.727Z">Wed Nov 19 2025 22:28:55 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T23:32:49.938Z">Thu Dec 04 2025 01:32:49 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -172,7 +172,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 86</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -262,9 +262,9 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 9</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 8</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 25</li>
             <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 69</li>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -293,7 +293,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/pyVvwkYp9CPGPH3FydGFkH_uTG4LN-4DStd_uyscqqw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTEy/OTMtMTQwODI2MjQx/NC03ODA2LmpwZWc.jpeg" alt="Cover for Southgate" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c86cc64b39b4e44ce12e8d0029c9ed5.png" alt="Cover for Southgate" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-08</td>
       <td>Siobhan</td>
@@ -371,7 +371,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/6H1eu8PoCsb6R0np7fUYqeeIHsp2A1DegPmBTxEhshM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMTY3/MjUtMTQzNjQ1NjQz/MC0yMTI5LmpwZWc.jpeg" alt="Cover for Aphasia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b95176a36605a9832ccd9d8d32a8c140.png" alt="Cover for Aphasia" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-08-01</td>
       <td>Ekman</td>
@@ -408,7 +408,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 95</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -474,8 +474,8 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 27</li>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 37</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 26</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -624,7 +624,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/0BfWKAKX5hMWotWHqNXfupEgWgUyWpn9DGRarWc_x_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTYx/MTItMTY1NDA3ODIw/Ni00MjQ1LmpwZWc.jpeg" alt="Cover for Conformist" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/95795c633596e6d947999bdb65371ada.png" alt="Cover for Conformist" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-09</td>
       <td>Murray CY</td>
@@ -655,7 +655,6 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -797,7 +796,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/balearic" | relative_url }}">balearic</a> # 28</li>
+            <li> <a href="{{ "/tags/balearic" | relative_url }}">balearic</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -816,9 +815,9 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 24</li>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 53</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 77</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 52</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 77</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -896,7 +895,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 29</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -914,7 +913,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 92</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1099,8 +1098,8 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 13</li>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 39</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 12</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1222,8 +1221,8 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 17</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 77</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1251,7 +1250,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/CtMgpqHEN4JKVhBVHqmb-22pWMEIX7NUsEuAFiALloU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTQ3/NTM4LTE2MTQwNjky/NTUtMTgwMi5qcGVn.jpeg" alt="Cover for Go! Go! Year of the Cow" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d82fe962fa809c9e3b034def363d8f01.png" alt="Cover for Go! Go! Year of the Cow" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-02-23</td>
       <td>Andor</td>
@@ -1268,7 +1267,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 26</li>
+            <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1313,9 +1312,9 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 1</li>
+            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 2</li>
             <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 99</li>
-            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 99</li>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1339,8 +1338,8 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 59</li>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 63</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 39</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1396,7 +1395,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 97</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1417,7 +1416,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 42</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1440,7 +1439,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 3</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 31</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 80</li>
         </ul>
       </td>
@@ -1538,7 +1537,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 57</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 63</li>
             <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 64</li>
         </ul>
       </td>
@@ -1566,7 +1565,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/s8icdh8PcSllNm7NNvE_gBN7WeteLoZuZ5QQnqyNXms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjIz/MDQ0LTE2NDgwOTI0/ODEtNTcxMi5qcGVn.jpeg" alt="Cover for Sewer Man" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/df99ce08456a61af83964e5dd15d5dbc.png" alt="Cover for Sewer Man" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-03-11</td>
       <td>Mucoid</td>
@@ -1667,7 +1666,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
         <ul>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 16</li>
             <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 94</li>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 94</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 95</li>
             <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 97</li>
         </ul>
       </td>
@@ -1756,8 +1755,8 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 28</li>
             <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 52</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1821,7 +1820,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 12</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1843,7 +1842,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 20</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1866,7 +1865,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 21</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1886,7 +1885,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 62</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1905,7 +1904,7 @@ Outsider house embraces lo-fi production aesthetics and DIY ethos, often featuri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 25</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 26</li>
         </ul>
       </td>
     </tr>

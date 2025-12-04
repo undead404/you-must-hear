@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T22:05:32.334Z
+date: 2025-12-03T22:30:14.897Z
 permalink: tags/chamber-pop
 title: chamber pop
 ---
 
 ## chamber pop
 
-Last updated: <time datetime="2025-11-24T22:05:32.334Z">Tue Nov 25 2025 00:05:32 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T22:30:14.897Z">Thu Dec 04 2025 00:30:14 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -45,8 +45,8 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 47</li>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 58</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 42</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 54</li>
             <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 93</li>
         </ul>
       </td>
@@ -66,8 +66,8 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 28</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 44</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -135,8 +135,8 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 16</li>
             <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 80</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -209,7 +209,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 31</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 69</li>
             <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 76</li>
         </ul>
       </td>
@@ -228,8 +228,8 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 30</li>
-            <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 89</li>
+            <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 11</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -302,7 +302,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 6</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -385,8 +385,8 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 21</li>
             <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 64</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -422,8 +422,8 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 64</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 90</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 11</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -496,7 +496,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 67</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -515,7 +515,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 30</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -534,7 +534,6 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -571,7 +570,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 78</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -590,7 +589,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 29</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -610,7 +609,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       <td>
         <ul>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 10</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 17</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -629,7 +628,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 55</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 46</li>
             <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 84</li>
         </ul>
       </td>
@@ -688,9 +687,8 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 6</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 17</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 85</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 5</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -727,12 +725,12 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 28</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 38</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 11</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 11</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 32</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 40</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 60</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 69</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 69</li>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 90</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 90</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 94</li>
         </ul>
       </td>
@@ -842,9 +840,9 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 72</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 24</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 29</li>
             <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 77</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -862,9 +860,9 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 12</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 36</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 65</li>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 85</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 88</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 99</li>
         </ul>
       </td>
@@ -885,8 +883,8 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 10</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 80</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 20</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 88</li>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 89</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 98</li>
             <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 99</li>
@@ -984,12 +982,12 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 63</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 78</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 2</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 6</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 23</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 38</li>
             <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 85</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 89</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 95</li>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1028,17 +1026,17 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 22</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 1</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 4</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 17</li>
             <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 29</li>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 33</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 32</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 35</li>
             <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 36</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 50</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 66</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 67</li>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 84</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 51</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 68</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 77</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 95</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 97</li>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1082,9 +1080,9 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 39</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 59</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 91</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 10</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 42</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 61</li>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 99</li>
         </ul>
       </td>
@@ -1160,7 +1158,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 78</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1178,9 +1176,9 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 8</li>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 38</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 81</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 18</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 63</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 92</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 97</li>
         </ul>
       </td>
@@ -1218,6 +1216,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1254,7 +1253,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 17</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1293,7 +1292,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 77</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1311,7 +1310,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 3</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1348,8 +1347,8 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 21</li>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 41</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 60</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1367,7 +1366,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 82</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1389,7 +1388,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 44</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1408,8 +1407,8 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 1</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 18</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1445,7 +1444,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 48</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1481,7 +1480,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 9</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1499,11 +1498,11 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 32</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 45</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 33</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 33</li>
             <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 48</li>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 54</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 65</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1542,7 +1541,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 26</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1600,7 +1599,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 49</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 52</li>
             <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 88</li>
         </ul>
       </td>
@@ -1641,10 +1640,10 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 15</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 56</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 8</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 43</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 85</li>
             <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 90</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 92</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 100</li>
         </ul>
       </td>
@@ -1702,8 +1701,8 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       <td>
         <ul>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 13</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 57</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 65</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 35</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 43</li>
             <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 90</li>
         </ul>
       </td>
@@ -1728,8 +1727,8 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 18</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 60</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1752,7 +1751,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 49</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1770,7 +1769,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 90</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1790,8 +1789,8 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 42</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 67</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 34</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1830,7 +1829,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 26</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1848,8 +1847,8 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 92</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 97</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 4</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1868,7 +1867,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 42</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 56</li>
             <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 96</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 98</li>
         </ul>
@@ -1890,7 +1889,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       <td>
         <ul>
             <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 7</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 86</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1915,7 +1914,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 77</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1952,7 +1951,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 65</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1970,7 +1969,7 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 87</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 14</li>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 93</li>
         </ul>
       </td>
@@ -1991,9 +1990,9 @@ Chamber pop blends orchestral instruments like strings and horns with rock or in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 68</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 33</li>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 89</li>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 96</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 97</li>
         </ul>
       </td>
     </tr>

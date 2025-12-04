@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T11:19:01.219Z
+date: 2025-12-03T22:16:26.901Z
 permalink: tags/switzerland
 title: switzerland
 ---
 
 ## switzerland
 
-Last updated: <time datetime="2025-11-23T11:19:01.219Z">Sun Nov 23 2025 13:19:01 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T22:16:26.901Z">Thu Dec 04 2025 00:16:26 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
   </thead>
   <tbody>
     <tr>
-      <td>53</td>
+      <td>47</td>
       <td>
       </td>
       <td>1972</td>
@@ -47,7 +47,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/zL3DS_xzMejxj1LJb0-cg3GuNtZaSUzBDj3J566h2Zg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTkx/NzMtMTI2NzE5ODkw/My5qcGVn.jpeg" alt="Cover for TEA" style="max-width:120px; height:auto;" />
       </td>
@@ -69,7 +69,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Street Parade 2009 - Trance (Mixed By Aly &amp; Fila)" style="max-width:120px; height:auto;" />
       </td>
@@ -88,7 +88,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/04cc62fff06a47c8c7237c8651beae14.png" alt="Cover for Blue" style="max-width:120px; height:auto;" />
       </td>
@@ -106,7 +106,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7e62c65ddd438ba1c5d37332a3abe2e.png" alt="Cover for Dou3le" style="max-width:120px; height:auto;" />
       </td>
@@ -125,7 +125,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>15</td>
       <td>
       </td>
       <td>1987-03-02</td>
@@ -168,7 +168,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c03497d8a47c8c181b07a82705f1171.png" alt="Cover for Même en Hiver&#x2F;Comme un Pinson Dans L&#39;Eau" style="max-width:120px; height:auto;" />
       </td>
@@ -187,25 +187,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>73</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76c49aa401b64bee94fd8db98dee1058.png" alt="Cover for Quelques pièces détachées" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1993</td>
-      <td>L&#39;Ensemble Rayé</td>
-      <td>Quelques pièces détachées</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>96</td>
+      <td>4</td>
       <td>
       </td>
       <td>1993</td>
@@ -223,7 +205,48 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>27</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76c49aa401b64bee94fd8db98dee1058.png" alt="Cover for Quelques pièces détachées" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>L&#39;Ensemble Rayé</td>
+      <td>Quelques pièces détachées</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7fef7e77c652ea27acdf442ddafc0e4e.png" alt="Cover for Emile au jardin patrologique" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Debile Menthol</td>
+      <td>Emile au jardin patrologique</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 53</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 71</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/de111bf38a470c8d1148fe8ca205d118.png" alt="Cover for Battre campagne" style="max-width:120px; height:auto;" />
       </td>
@@ -242,36 +265,13 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 11</li>
             <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 80</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7fef7e77c652ea27acdf442ddafc0e4e.png" alt="Cover for Emile au jardin patrologique" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1994</td>
-      <td>Debile Menthol</td>
-      <td>Emile au jardin patrologique</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 29</li>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 53</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>40</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f41fecdb52a53534b6eb01075c1ac6bb.png" alt="Cover for Emile à la campagne" style="max-width:120px; height:auto;" />
       </td>
@@ -291,25 +291,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>87</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/611a8854d39c29cd91c23f880d0441fd.png" alt="Cover for Only Heaven" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1995-06-12</td>
-      <td>The Young Gods</td>
-      <td>Only Heaven</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>94</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/VO1NrmhNugYycpJ2bl9FawQ88VQsyKEhycp-5eKD3As/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDk2/LTE1MDM0OTM2Njct/ODE4OC5qcGVn.jpeg" alt="Cover for Sparkling Star" style="max-width:120px; height:auto;" />
       </td>
@@ -328,7 +310,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/OHWoLitiSjni1F79SX_eqSLBi_TK0ndKnQs3eIuQWqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjgw/NjUtMTI4MDQ4MTU1/Mi5qcGVn.jpeg" alt="Cover for Married, 3 Kids" style="max-width:120px; height:auto;" />
       </td>
@@ -345,7 +327,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd6def6d6f634498a931d116338a69ae.png" alt="Cover for Solo Raye" style="max-width:120px; height:auto;" />
       </td>
@@ -367,7 +349,26 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/Os0djvLVwfwDxcB-Pi0_CHdp13ajIzDyub_UA54M1rI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzMw/MzItMTU5NDQzMDI3/MS03NjExLmpwZWc.jpeg" alt="Cover for Happy Already" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Sportsguitar</td>
+      <td>Happy Already</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
       <td>
       </td>
       <td>1998</td>
@@ -387,26 +388,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>54</td>
-      <td>
-          <img src="https://i.discogs.com/Os0djvLVwfwDxcB-Pi0_CHdp13ajIzDyub_UA54M1rI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzMw/MzItMTU5NDQzMDI3/MS03NjExLmpwZWc.jpeg" alt="Cover for Happy Already" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>Sportsguitar</td>
-      <td>Happy Already</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>20</td>
+      <td>80</td>
       <td>
       </td>
       <td>1998</td>
@@ -422,7 +404,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fed0302aaa8a92459d889a8a9caaae65.png" alt="Cover for Foufoune" style="max-width:120px; height:auto;" />
       </td>
@@ -447,8 +429,8 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 38</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 60</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 41</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 63</li>
             <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 76</li>
             <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 78</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 86</li>
@@ -456,7 +438,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/rM_CHKxqmkf25I4OJXk7bHMqMr2lG7s48kvYDNU2m7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDky/NTctMTMwNjc4MDMw/OC5qcGVn.jpeg" alt="Cover for Whattookyousolong" style="max-width:120px; height:auto;" />
       </td>
@@ -474,60 +456,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>38</td>
-      <td>
-          <img src="https://i.discogs.com/RkC1ag_rgmhy_Rz0FP_hwzeCXrPEjX1-KeGr10EeDgs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODEz/ODYtMTQ4OTU3MzUx/Mi03OTY2LmpwZWc.jpeg" alt="Cover for Ein Fest für Pu den Bären" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000</td>
-      <td>L&#39;Ensemble Rayé</td>
-      <td>Ein Fest für Pu den Bären</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 14</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>52</td>
-      <td>
-          <img src="https://i.discogs.com/puTn80FAUtZ-CmJizBVd-s2hH4fUWIMrM7xxSBT4lak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njk1/Ni0xNTkwOTE4NzYy/LTc3MjcuanBlZw.jpeg" alt="Cover for Foulamerde" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000</td>
-      <td>Mara</td>
-      <td>Foulamerde</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 13</li>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 50</li>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 52</li>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 68</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>93</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3328fc3f1cc61c6ad1523690d550f5d8.png" alt="Cover for Dans ta bouche" style="max-width:120px; height:auto;" />
       </td>
@@ -552,8 +481,8 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 65</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 78</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 23</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 36</li>
             <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 82</li>
             <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 89</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 93</li>
@@ -561,7 +490,60 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>48</td>
+      <td>
+          <img src="https://i.discogs.com/puTn80FAUtZ-CmJizBVd-s2hH4fUWIMrM7xxSBT4lak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njk1/Ni0xNTkwOTE4NzYy/LTc3MjcuanBlZw.jpeg" alt="Cover for Foulamerde" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Mara</td>
+      <td>Foulamerde</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/paris" | relative_url }}">paris</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 51</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 52</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 68</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+          <img src="https://i.discogs.com/RkC1ag_rgmhy_Rz0FP_hwzeCXrPEjX1-KeGr10EeDgs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODEz/ODYtMTQ4OTU3MzUx/Mi03OTY2LmpwZWc.jpeg" alt="Cover for Ein Fest für Pu den Bären" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>L&#39;Ensemble Rayé</td>
+      <td>Ein Fest für Pu den Bären</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 14</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/wXNHoBLMIVBJvg4drS63KIQQFYulzFKaJuOASweO3N0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzM0/MDAtMTM5OTQ3MTU5/MS03MTQwLmpwZWc.jpeg" alt="Cover for Heal all monsters" style="max-width:120px; height:auto;" />
       </td>
@@ -580,7 +562,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb4c91a4fa474823992488f8d039d0e4.png" alt="Cover for Homerun" style="max-width:120px; height:auto;" />
       </td>
@@ -598,7 +580,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/ykovtjTso0snMk3MYt5gq3uQhPyR9NbSjTxQ9uCn5ps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MzU5/Ny0xMTM0NTU5NTMx/LmpwZWc.jpeg" alt="Cover for Lakritze EP" style="max-width:120px; height:auto;" />
       </td>
@@ -622,13 +604,52 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 57</li>
+            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 58</li>
             <li> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>24</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8e9086667554bf7bed481d2d5166039.png" alt="Cover for Les Contrepoints Cardinaux" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>L&#39;Ensemble Rayé</td>
+      <td>Les Contrepoints Cardinaux</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://i.discogs.com/dsW_GpJu8rf6IZDXoib3WeQL-0ECqg6ph718rfGEtjk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNDQx/MDgtMTM4ODU4NDUy/Ni04NDMwLmpwZWc.jpeg" alt="Cover for La Poeta" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Adrian Weyermann</td>
+      <td>La Poeta</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/n4cecpeD1zqs5iW32Nwhqui1ZkguuZTZfDE9-Tl81l8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDMy/OTYtMTI5NzI1Mzgx/MC5qcGVn.jpeg" alt="Cover for The Seventh Sun" style="max-width:120px; height:auto;" />
       </td>
@@ -650,46 +671,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>46</td>
-      <td>
-          <img src="https://i.discogs.com/dsW_GpJu8rf6IZDXoib3WeQL-0ECqg6ph718rfGEtjk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNDQx/MDgtMTM4ODU4NDUy/Ni04NDMwLmpwZWc.jpeg" alt="Cover for La Poeta" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>Adrian Weyermann</td>
-      <td>La Poeta</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>75</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8e9086667554bf7bed481d2d5166039.png" alt="Cover for Les Contrepoints Cardinaux" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>L&#39;Ensemble Rayé</td>
-      <td>Les Contrepoints Cardinaux</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>31</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/KuNYLzVRm1icHsCbsxEpJ97WL-xes8k-4t-nZ29Sat8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjMw/LTE0MTcwMjEzNzct/NjM1OC5qcGVn.jpeg" alt="Cover for L&#39;Elixir" style="max-width:120px; height:auto;" />
       </td>
@@ -714,15 +696,15 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 2</li>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 42</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 43</li>
             <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 48</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 62</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/Gw8hx8s55qTImJSBas45Urvum138pk3DKl85OpY28Xo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0ODg2/NS0xMzc3NTk2NzU1/LTM3NzUuanBlZw.jpeg" alt="Cover for Somanydynamos" style="max-width:120px; height:auto;" />
       </td>
@@ -741,7 +723,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/eRZn_T3gO5nKNZFV6FcnLjgTu2pt80meuvIByMWqVfc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDE1/MTYtMTUwMTI0MjI2/NC00MjU5LmpwZWc.jpeg" alt="Cover for Des Pas Rayes" style="max-width:120px; height:auto;" />
       </td>
@@ -756,14 +738,14 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 47</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 54</li>
             <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 54</li>
             <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/GplObvq1oRnBAgaGxoIuVFQmJYk8CmjzpXekcgmQnvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTkw/ODItMTMwMjQ1MzQ4/My5qcGVn.jpeg" alt="Cover for Lay Your Head on the Soft Rock" style="max-width:120px; height:auto;" />
       </td>
@@ -782,7 +764,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>16</td>
       <td>
       </td>
       <td>2003-05-10</td>
@@ -804,7 +786,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d55a991061a8481ab6db0bc8b5a76f02.png" alt="Cover for Bellefontaine Avenue" style="max-width:120px; height:auto;" />
       </td>
@@ -824,7 +806,25 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>75</td>
+      <td>
+          <img src="https://i.discogs.com/gEucTaXWaX6cep6akSALib9t3aD7Cmj_2VdrV9oK7Hs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzg0/MC0xMTY4ODMyMTA3/LmpwZWc.jpeg" alt="Cover for Fahrlässig" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Scream</td>
+      <td>Fahrlässig</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/NCCvFPcxtHP6jfBZQZ0edkswGl6RhSHyb-YcLKzyH-o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTYy/NDEtMTQ0MDU5OTEw/MC0xNzkyLmpwZWc.jpeg" alt="Cover for Seasons Change" style="max-width:120px; height:auto;" />
       </td>
@@ -844,16 +844,18 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>55</td>
       <td>
-          <img src="https://i.discogs.com/gEucTaXWaX6cep6akSALib9t3aD7Cmj_2VdrV9oK7Hs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzg0/MC0xMTY4ODMyMTA3/LmpwZWc.jpeg" alt="Cover for Fahrlässig" style="max-width:120px; height:auto;" />
       </td>
-      <td>2004</td>
-      <td>Scream</td>
-      <td>Fahrlässig</td>
+      <td>2005</td>
+      <td>Solitune</td>
+      <td>o.k. rewind</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
         </ul>
       </td>
       <td>
@@ -862,7 +864,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/Y6TSdi61KuopwxoPa7CHMhdUZWmy3ZreuoUm1HNICys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODUw/MDg3LTE2NDI4OTE3/NDYtNjQ1OC5qcGVn.jpeg" alt="Cover for Neige &amp; Soleil" style="max-width:120px; height:auto;" />
       </td>
@@ -884,27 +886,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>45</td>
-      <td>
-      </td>
-      <td>2005</td>
-      <td>Solitune</td>
-      <td>o.k. rewind</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>69</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/kVwsZ9iYzliTX4zXxqoyh_aG0I-jB-Ll3SXVPZmAqs4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDY3/MTEtMTU1MjIzMDIx/MS0zODA4LmpwZWc.jpeg" alt="Cover for Naked" style="max-width:120px; height:auto;" />
       </td>
@@ -927,7 +909,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/OL7HWUfF5u5SIcBc0ZhLn36yztC6mppdrR9rezZVo0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMDI1/MS0xMTc0MDgwMjE5/LmpwZWc.jpeg" alt="Cover for Ontheoutsideoflife" style="max-width:120px; height:auto;" />
       </td>
@@ -945,7 +927,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>71</td>
       <td>
       </td>
       <td>2005-05-01</td>
@@ -966,7 +948,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/H_dWrqrR-bnaiUvw4WYePU69eo5vKn9I-PtjMH7m93I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQw/NTktMTE5Mzk1MTI5/Ny5qcGVn.jpeg" alt="Cover for The Preview EP" style="max-width:120px; height:auto;" />
       </td>
@@ -989,7 +971,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/d3-vGH0TwdvyPsWFeQTKnUig3YDG5GO_HzYZFTOufE4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjMw/MzQtMTQxOTg1OTMz/MS0yNzg1LmpwZWc.jpeg" alt="Cover for August" style="max-width:120px; height:auto;" />
       </td>
@@ -1017,36 +999,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>28</td>
-      <td>
-          <img src="https://i.discogs.com/0k84xhsPC_ZCIGkKtMqmyf_ViKNBRQddyFD1b-8MAtA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjc3/OTMtMTE5NzcyNjUy/Mi5qcGVn.jpeg" alt="Cover for Disarmchair (Single)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>TKatKa</td>
-      <td>Disarmchair (Single)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/braindance" | relative_url }}">braindance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish" | relative_url }}">danish</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/germany" | relative_url }}">germany</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 35</li>
-            <li> <a href="{{ "/tags/braindance" | relative_url }}">braindance</a> # 70</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>67</td>
+      <td>33</td>
       <td>
       </td>
       <td>2006</td>
@@ -1074,13 +1027,61 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 55</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 46</li>
             <li> <a href="{{ "/tags/braindance" | relative_url }}">braindance</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>72</td>
+      <td>
+          <img src="https://i.discogs.com/0k84xhsPC_ZCIGkKtMqmyf_ViKNBRQddyFD1b-8MAtA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjc3/OTMtMTE5NzcyNjUy/Mi5qcGVn.jpeg" alt="Cover for Disarmchair (Single)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>TKatKa</td>
+      <td>Disarmchair (Single)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/braindance" | relative_url }}">braindance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/danish" | relative_url }}">danish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/germany" | relative_url }}">germany</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 65</li>
+            <li> <a href="{{ "/tags/braindance" | relative_url }}">braindance</a> # 70</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://i.discogs.com/PavG5DDUGty4SZFJpbYxFDQmIvf317BoqI1p1qrpSlI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTEz/NTUtMTMwMDYyMzQ5/My5qcGVn.jpeg" alt="Cover for This Is It" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>The Delilahs</td>
+      <td>This Is It</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/0X1o-X-U-Uy2VNDl1i7S3_LhsSEnvdGpFdqTYZPY7JE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0Mjcw/ODEtMTQ2MTQwNDAz/OS0xODM0LnBuZw.jpeg" alt="Cover for Stevans" style="max-width:120px; height:auto;" />
       </td>
@@ -1100,26 +1101,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>27</td>
-      <td>
-          <img src="https://i.discogs.com/PavG5DDUGty4SZFJpbYxFDQmIvf317BoqI1p1qrpSlI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTEz/NTUtMTMwMDYyMzQ5/My5qcGVn.jpeg" alt="Cover for This Is It" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>The Delilahs</td>
-      <td>This Is It</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/uAmDILPGbjoira3N3nDpf8hHzmKgXIZiDl4i_uzXqx0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NTYy/MTEtMTQzMTg4ODQ3/Mi05NDM2LmpwZWc.jpeg" alt="Cover for feel free" style="max-width:120px; height:auto;" />
       </td>
@@ -1140,7 +1122,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/kJv41aXtHYzl3QcoZsxmLfH9g4Q-M2LCverz-6nVySc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDYy/MTMtMTQ3MjUxOTUx/OC05MTQzLmpwZWc.jpeg" alt="Cover for In Every Waking Moment" style="max-width:120px; height:auto;" />
       </td>
@@ -1163,7 +1145,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/97_Ow2GvYvh89J5B4iFEsjlQpqxCJm6a2THpXoLnH_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQz/MjItMTE5Mzk3NDg4/My5qcGVn.jpeg" alt="Cover for something like bitter-bitter symphony" style="max-width:120px; height:auto;" />
       </td>
@@ -1188,7 +1170,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/Iy7zmgHi2zrOo6DDOSOfncSir0n-XuApxya0AVI10v0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDU2/MTQtMTQ4NzQ4NDM1/NC0yMzMxLmpwZWc.jpeg" alt="Cover for Dare, Dare... Surrender" style="max-width:120px; height:auto;" />
       </td>
@@ -1205,7 +1187,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/EXP-vBNdqWAxS2MOp9uV1M-T-SlkozWy8MVjJS9UX4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTkx/NTItMTUwMTI0MjU0/Ni0zNDk1LmpwZWc.jpeg" alt="Cover for #804 Center Street" style="max-width:120px; height:auto;" />
       </td>
@@ -1223,13 +1205,34 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       <td>
         <ul>
             <li> <a href="{{ "/tags/ragtime" | relative_url }}">ragtime</a> # 10</li>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 36</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 64</li>
             <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>67</td>
+      <td>
+          <img src="https://i.discogs.com/EUXSyMVjWx6YZJIbhwf_TlI8joRcn-Z51VyVbN-1RT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1ODEz/NzMtMTQ1ODkwODcx/My0zNTY5LmpwZWc.jpeg" alt="Cover for Beauty Queen" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Serpentine</td>
+      <td>Beauty Queen</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/RzOZr1tWtps-MErcwJAtqc4pmFOixgHDxmcqPGt5tNQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTc0/ODQ4LTE1Nzc0NDI0/MzMtOTY3MS5tcG8.jpeg" alt="Cover for From The Mind Of A Dreamer" style="max-width:120px; height:auto;" />
       </td>
@@ -1254,28 +1257,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>33</td>
-      <td>
-          <img src="https://i.discogs.com/EUXSyMVjWx6YZJIbhwf_TlI8joRcn-Z51VyVbN-1RT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1ODEz/NzMtMTQ1ODkwODcx/My0zNTY5LmpwZWc.jpeg" alt="Cover for Beauty Queen" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Serpentine</td>
-      <td>Beauty Queen</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>91</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/Rz4hYe_Rq05yN6h0gqOPfRafDWUGcapBoIAJgTeYCSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzA4/NTQtMTYxMDU0NjY2/OC0yODE2LmpwZWc.jpeg" alt="Cover for Back Together" style="max-width:120px; height:auto;" />
       </td>
@@ -1293,7 +1275,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/XF6sdiIfYDSO1OVghqXiJ9mBON0ct8ssfyKFuWOw0XU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTYy/MzM2LTE1NDU0MDk5/NjctMTA2NS5wbmc.jpeg" alt="Cover for Change" style="max-width:120px; height:auto;" />
       </td>
@@ -1312,7 +1294,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/_6ukg0e_1xMYHStwHeQZG-sp-W8-a737qwG31WKPkaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMjEw/MjYtMTQ5MDM2ODMx/Ni01NzY4LmpwZWc.jpeg" alt="Cover for Mothers Pride" style="max-width:120px; height:auto;" />
       </td>
@@ -1335,7 +1317,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/IwcR7jM9sLcLDuLuMryaOlDQpbhZ_aK5KDBbJux55kQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTQ1/NTQtMTMyMDc4MDA3/Mi5qcGVn.jpeg" alt="Cover for Bigger Mountains Higher Flags" style="max-width:120px; height:auto;" />
       </td>
@@ -1355,7 +1337,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/UQXCWggKgFDfEvNu4Jv1UJcET65_tnIfbOSTHVo_eyA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzMw/ODYwLTE1NTIyMTgw/MzQtMzY1NS5qcGVn.jpeg" alt="Cover for Black and Blue" style="max-width:120px; height:auto;" />
       </td>
@@ -1373,7 +1355,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>44</td>
       <td>
       </td>
       <td>2008-02-29</td>
@@ -1395,7 +1377,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/8nDyHE_cqKpAQ8PUCkSq7ioZya6aeL1KuzhebeSfMzY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjY1/NzEtMTI4MzQyNjYy/NS5qcGVn.jpeg" alt="Cover for not in vain" style="max-width:120px; height:auto;" />
       </td>
@@ -1416,7 +1398,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/hGbjqLmIe-4yQ_XUNtgUQr9I4evN5BBQdBlS0M8lwok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTE1/NzktMTY3NjczMTY2/Ni0yMzQ0LmpwZWc.jpeg" alt="Cover for If We Don&#39;t Shout" style="max-width:120px; height:auto;" />
       </td>
@@ -1436,7 +1418,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae541852fea2cef405c5f0f030f33945.png" alt="Cover for How Much Peanut Butter" style="max-width:120px; height:auto;" />
       </td>
@@ -1459,7 +1441,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/VtLOmUQhL3MbLEyh_JsrR05G1ANX8a3t2qmd0OO6rvM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTgz/NzktMTMzNjgyOTk3/Ni02MzgxLmpwZWc.jpeg" alt="Cover for No Place Like Home LP" style="max-width:120px; height:auto;" />
       </td>
@@ -1480,12 +1462,12 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 62</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5295289d8b1a4fec8cad2e94889bddcd.png" alt="Cover for Ataraxiis" style="max-width:120px; height:auto;" />
       </td>
@@ -1512,7 +1494,27 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>100</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3c6ca6feb1d5f9c10305a92eb8cebeb.png" alt="Cover for Affection" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009-12-09</td>
+      <td>Marc Doudin</td>
+      <td>Affection</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1f18c59ea1ede7320f5981d28f77dfe.png" alt="Cover for Faire" style="max-width:120px; height:auto;" />
       </td>
@@ -1527,12 +1529,12 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       <td>
         <ul>
             <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 33</li>
-            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 44</li>
+            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/St3vyZHC7zIscXWzHrPBcy5j3-k2DA6LQUjLUDh3TB8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzY4/MTMtMTQzOTIxNjAx/My0xMjQzLmpwZWc.jpeg" alt="Cover for Il pleut de l&#39;or" style="max-width:120px; height:auto;" />
       </td>
@@ -1551,7 +1553,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>21</td>
       <td>
       </td>
       <td>2010-10-22</td>
@@ -1569,7 +1571,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/iKN9iTvBUvJRS-MyH7H6kp7Sykng9w79W6iqs-l6CjY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODM2/NjktMTM1NDY4Mzcz/My01MTUwLmpwZWc.jpeg" alt="Cover for Re-Forged" style="max-width:120px; height:auto;" />
       </td>
@@ -1588,26 +1590,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>47</td>
-      <td>
-          <img src="https://i.discogs.com/RZX-TvQ4U3pwxfLWOQ73BVczAj1-puQHGfFXQIdkOK4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTA0/MTM3LTE2NTc5ODk4/NzUtMTg4OS5qcGVn.jpeg" alt="Cover for Ein bisschen für immer" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011</td>
-      <td>Pasquale Aleardi</td>
-      <td>Ein bisschen für immer</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>92</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1e55516ce0bb8f6b2524b6b82f14d61.png" alt="Cover for Lost In The Echo" style="max-width:120px; height:auto;" />
       </td>
@@ -1628,7 +1611,26 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/RZX-TvQ4U3pwxfLWOQ73BVczAj1-puQHGfFXQIdkOK4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTA0/MTM3LTE2NTc5ODk4/NzUtMTg4OS5qcGVn.jpeg" alt="Cover for Ein bisschen für immer" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011</td>
+      <td>Pasquale Aleardi</td>
+      <td>Ein bisschen für immer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f020972e8c45463b984cd1c596389ee.png" alt="Cover for Submerge" style="max-width:120px; height:auto;" />
       </td>
@@ -1655,7 +1657,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f88b0119794a9afbafc732c98189c3ca.png" alt="Cover for Remerge" style="max-width:120px; height:auto;" />
       </td>
@@ -1682,7 +1684,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/en2-mReLbu6LTGAePGNRIE03vfoiCnmYN79xp8JMi-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MzM0/NzQtMTQyNTU0OTA0/NS01NTI3LmpwZWc.jpeg" alt="Cover for Phantom Garden" style="max-width:120px; height:auto;" />
       </td>
@@ -1700,7 +1702,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/Z3wXyjnpICqKYiWHwUolk599OldSMhjZUSLRQmYmSl0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzA4/NjctMTY5MDEwNDY2/Ni05OTYzLmpwZWc.jpeg" alt="Cover for Elasticity" style="max-width:120px; height:auto;" />
       </td>
@@ -1718,7 +1720,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a06877eb156ba183ed1930b866be330f.png" alt="Cover for On My Own" style="max-width:120px; height:auto;" />
       </td>
@@ -1741,34 +1743,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>11</td>
-      <td>
-          <img src="https://i.discogs.com/n9rmzrrd8bI5YZ_glTKRNFTFzQkrRjOMkLmslSUxdOI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDkx/ODY0LTE1MDk3MTM2/MDItMzYzOS5qcGVn.jpeg" alt="Cover for Sisters" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017</td>
-      <td>Flèche Love</td>
-      <td>Sisters</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 38</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>74</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a422005e47620efddcd2e01fb2582a34.png" alt="Cover for Umusuna" style="max-width:120px; height:auto;" />
       </td>
@@ -1795,7 +1770,34 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>89</td>
+      <td>
+          <img src="https://i.discogs.com/n9rmzrrd8bI5YZ_glTKRNFTFzQkrRjOMkLmslSUxdOI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDkx/ODY0LTE1MDk3MTM2/MDItMzYzOS5qcGVn.jpeg" alt="Cover for Sisters" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017</td>
+      <td>Flèche Love</td>
+      <td>Sisters</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 38</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/NAdeL9nY-rhzIq2581aszIOUj77yrySxvMsGYSqmcwM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDY2/Mzg0LTE1MDkyMjEy/NjYtNTY3MC5qcGVn.jpeg" alt="Cover for Rights" style="max-width:120px; height:auto;" />
       </td>
@@ -1814,7 +1816,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/P-bYk3lFzCGSGs8dhm5S_-vx8A7zdQFn1LdCack3Bmg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTI0/MjI2LTE1NTU4NDAz/MTktMzA2OC5qcGVn.jpeg" alt="Cover for 1980-1985: The New Mix In One Go" style="max-width:120px; height:auto;" />
       </td>
@@ -1832,7 +1834,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/3vYRewsbxuV8vNmrW8ztp759RbQ58CodUwgCcB5QfkU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQ5/MTIxLTE1MjUyOTA0/MTYtNDc4OS5qcGVn.jpeg" alt="Cover for Awase" style="max-width:120px; height:auto;" />
       </td>
@@ -1851,7 +1853,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/wZbWHtCGh-A4WYGCYYC7Ldtp6LVZ8EfZWLdyRNdv5fI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzIy/ODYyLTE2ODQxMzQ5/NTktNjc2NS5qcGVn.jpeg" alt="Cover for Festa Tocandira" style="max-width:120px; height:auto;" />
       </td>
@@ -1878,7 +1880,26 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>12</td>
+      <td>
+          <img src="https://i.discogs.com/ly2HQuteGxX3mBTs1_HWLE9WKVivwpQqGl-J6JngD-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/MzUzLTE2NDc5MDAw/MTAtNjI5MC5qcGVn.jpeg" alt="Cover for Naga, Pt.1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-10-15</td>
+      <td>Flèche Love</td>
+      <td>Naga, Pt.1</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 89</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/ly2HQuteGxX3mBTs1_HWLE9WKVivwpQqGl-J6JngD-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/MzUzLTE2NDc5MDAw/MTAtNjI5MC5qcGVn.jpeg" alt="Cover for Naga, Pt. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -1897,24 +1918,6 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
     </tr>
     <tr>
       <td>88</td>
-      <td>
-          <img src="https://i.discogs.com/ly2HQuteGxX3mBTs1_HWLE9WKVivwpQqGl-J6JngD-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/MzUzLTE2NDc5MDAw/MTAtNjI5MC5qcGVn.jpeg" alt="Cover for Naga, Pt.1" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2021-10-15</td>
-      <td>Flèche Love</td>
-      <td>Naga, Pt.1</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 89</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
       <td>
           <img src="https://i.discogs.com/n9rmzrrd8bI5YZ_glTKRNFTFzQkrRjOMkLmslSUxdOI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDkx/ODY0LTE1MDk3MTM2/MDItMzYzOS5qcGVn.jpeg" alt="Cover for Bruja" style="max-width:120px; height:auto;" />
       </td>
@@ -1941,7 +1944,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3157340d3cd92a52142b7b32b2d198e5.png" alt="Cover for I Am My Mother" style="max-width:120px; height:auto;" />
       </td>
@@ -1950,21 +1953,15 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       <td>I Am My Mother</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/5JWmjVQqLn6-nGeU9DTrwIF0I8PwQ15_yVFipQiO-jE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjA4/MzE1LTE3MzEyMzYx/MjgtMjc0OS5qcGVn.jpeg" alt="Cover for le dernier qui sort eteint la lumiere" style="max-width:120px; height:auto;" />
       </td>
@@ -1978,14 +1975,14 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/vancouver" | relative_url }}">vancouver</a> # 22</li>
             <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 23</li>
-            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 42</li>
-            <li> <a href="{{ "/tags/vancouver" | relative_url }}">vancouver</a> # 78</li>
+            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/030bcce5287d657b997808f1ac9af5c0.png" alt="Cover for Orbit" style="max-width:120px; height:auto;" />
       </td>
@@ -2004,7 +2001,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/1LxUEZ7qSG73T6h2RXl20iw3cz8IfvyoSWzCkdzBTSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU5/NjYtMTM1MjA2MjA2/Ni00MDIyLmpwZWc.jpeg" alt="Cover for Cccc III" style="max-width:120px; height:auto;" />
       </td>
@@ -2029,7 +2026,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/610a46959b7b2c4f7c212b5c544d0149.png" alt="Cover for Master of the Universe" style="max-width:120px; height:auto;" />
       </td>
@@ -2048,12 +2045,12 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 94</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/n9rmzrrd8bI5YZ_glTKRNFTFzQkrRjOMkLmslSUxdOI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDkx/ODY0LTE1MDk3MTM2/MDItMzYzOS5qcGVn.jpeg" alt="Cover for Survivor" style="max-width:120px; height:auto;" />
       </td>
@@ -2080,75 +2077,21 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>19</td>
       <td>
-      </td>
-      <td></td>
-      <td>Nepthun</td>
-      <td>Demo 07</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Liquid Disko</td>
-      <td>substream demo 2006</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>15</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61903fa509404dad9ae371c4aa2fe58b.png" alt="Cover for The Starry Sky Above Us" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Prevail Over One&#39;s Horizon</td>
-      <td>The Starry Sky Above Us</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>44</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c5aa5abb4e0b364856f6eea5dc5f99b.png" alt="Cover for Pictures of Nature" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c422c04f67a808821147ba1ea9f57aa.png" alt="Cover for Leaving the Past" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Tom Kelly&#39;s Music Factory</td>
-      <td>Pictures of Nature</td>
+      <td>Leaving the Past</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
         </ul>
       </td>
       <td>
@@ -2157,7 +2100,7 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8fac4f4a3cb5de6e43442290ffce6d51.png" alt="Cover for Anthology" style="max-width:120px; height:auto;" />
       </td>
@@ -2180,20 +2123,74 @@ The Switzerland tag encompasses the diverse multilingual music scene emerging fr
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>56</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c422c04f67a808821147ba1ea9f57aa.png" alt="Cover for Leaving the Past" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c5aa5abb4e0b364856f6eea5dc5f99b.png" alt="Cover for Pictures of Nature" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Tom Kelly&#39;s Music Factory</td>
-      <td>Leaving the Past</td>
+      <td>Pictures of Nature</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61903fa509404dad9ae371c4aa2fe58b.png" alt="Cover for The Starry Sky Above Us" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Prevail Over One&#39;s Horizon</td>
+      <td>The Starry Sky Above Us</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Liquid Disko</td>
+      <td>substream demo 2006</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Nepthun</td>
+      <td>Demo 07</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a></li>
         </ul>
       </td>

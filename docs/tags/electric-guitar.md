@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T21:30:38.063Z
+date: 2025-12-03T22:15:59.591Z
 permalink: tags/electric-guitar
 title: electric guitar
 ---
 
 ## electric guitar
 
-Last updated: <time datetime="2025-11-24T21:30:38.063Z">Mon Nov 24 2025 23:30:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T22:15:59.591Z">Thu Dec 04 2025 00:15:59 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -82,7 +82,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 18</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -220,7 +220,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 58</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -413,7 +413,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 27</li>
+            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -435,7 +435,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 30</li>
+            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -671,8 +671,8 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 81</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 89</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 12</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -734,7 +734,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 29</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 72</li>
             <li> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a> # 74</li>
         </ul>
       </td>
@@ -1049,7 +1049,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 63</li>
+            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1631,7 +1631,7 @@ Electric guitar refers to music prominently featuring the amplified, electronica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sheffield" | relative_url }}">sheffield</a> # 30</li>
+            <li> <a href="{{ "/tags/sheffield" | relative_url }}">sheffield</a> # 71</li>
         </ul>
       </td>
     </tr>

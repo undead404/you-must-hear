@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-20T07:34:39.477Z
+date: 2025-12-04T00:37:48.499Z
 permalink: tags/goa-trance
 title: goa trance
 ---
 
 ## goa trance
 
-Last updated: <time datetime="2025-10-20T07:34:39.477Z">Mon Oct 20 2025 10:34:39 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T00:37:48.499Z">Thu Dec 04 2025 02:37:48 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,25 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
   </thead>
   <tbody>
     <tr>
-      <td>9</td>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for Golden Vibes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Various Artists</td>
+      <td>Golden Vibes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for A Voyage Into Trance" style="max-width:120px; height:auto;" />
       </td>
@@ -48,25 +66,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>51</td>
-      <td>
-          <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for Golden Vibes" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1977</td>
-      <td>Various Artists</td>
-      <td>Golden Vibes</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>23</td>
+      <td>77</td>
       <td>
       </td>
       <td>1988-05</td>
@@ -90,8 +90,9 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9fc5fc3395c04e18946d09048929e680.png" alt="Cover for Stellar Supreme" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-11</td>
       <td>Cosmic Baby</td>
@@ -110,7 +111,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
       </td>
       <td>1993-09-27</td>
@@ -127,7 +128,26 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b96235509f402d1ae35738723b410f57.png" alt="Cover for Transmissions" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993-10-18</td>
+      <td>Juno Reactor</td>
+      <td>Transmissions</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/9XeJdzg_MHBJL_ylkA0d87a6cSmh2jwBssG31dm_6_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjIt/MTU5MjIwNjYxNC05/MjI0LmpwZWc.jpeg" alt="Cover for Transmission" style="max-width:120px; height:auto;" />
       </td>
@@ -146,25 +166,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>98</td>
-      <td>
-      </td>
-      <td>1993-10-18</td>
-      <td>Juno Reactor</td>
-      <td>Transmissions</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
       </td>
       <td>1994-05-16</td>
@@ -181,13 +183,12 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>15</td>
       <td>
-          <img src="https://i.discogs.com/-wbmOr9bi3tXKTDSlVvdrQJoSAq631wCP4SsFQEryXc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTEx/LTE1ODY3NzQ3MDQt/OTc1Mi5qcGVn.jpeg" alt="Cover for Hypnorhythm" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
-      <td>Transwave</td>
-      <td>Hypnorhythm</td>
+      <td>Doof</td>
+      <td>Angelina &#x2F; Weird Karma</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
@@ -199,7 +200,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/ekEcseo8SgnDPGyxOdRPVFwjd5SjTpwT-UYEg2H-jM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMi0x/MjEwNjY2NDEyLmpw/ZWc.jpeg" alt="Cover for Forever After" style="max-width:120px; height:auto;" />
       </td>
@@ -219,12 +220,13 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>46</td>
       <td>
+          <img src="https://i.discogs.com/-wbmOr9bi3tXKTDSlVvdrQJoSAq631wCP4SsFQEryXc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTEx/LTE1ODY3NzQ3MDQt/OTc1Mi5qcGVn.jpeg" alt="Cover for Hypnorhythm" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
-      <td>Doof</td>
-      <td>Angelina &#x2F; Weird Karma</td>
+      <td>Transwave</td>
+      <td>Hypnorhythm</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
@@ -236,7 +238,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>96</td>
       <td>
       </td>
       <td>1995-08</td>
@@ -254,7 +256,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
       </td>
       <td>1995-10</td>
@@ -268,12 +270,12 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 75</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
       </td>
       <td>1995-12-11</td>
@@ -289,12 +291,12 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 69</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
       </td>
       <td>1996-02-01</td>
@@ -307,12 +309,12 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 18</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/xKnFcK3MTUABddL_xx02SR8Rl8ZRUutLyRvjA0S4WT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDg4/LTEzMjY3MzkzNDku/anBlZw.jpeg" alt="Cover for Alien Protein" style="max-width:120px; height:auto;" />
       </td>
@@ -328,13 +330,13 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 58</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 71</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 38</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
       </td>
       <td>1996-06-03</td>
@@ -347,12 +349,12 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 26</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>78</td>
       <td>
       </td>
       <td>1996-06-24</td>
@@ -372,25 +374,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>34</td>
-      <td>
-          <img src="https://i.discogs.com/Hay_PT1hSRunUAMod4OkalWZKaFKfamEg8iCdqULMcU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTA4/LTEzMjg0NzcxNDUu/anBlZw.jpeg" alt="Cover for Israels Psychedelic Trance" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996-09-02</td>
-      <td>Astral Projection</td>
-      <td>Israels Psychedelic Trance</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/Hay_PT1hSRunUAMod4OkalWZKaFKfamEg8iCdqULMcU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTA4/LTEzMjg0NzcxNDUu/anBlZw.jpeg" alt="Cover for Trust In Trance 2" style="max-width:120px; height:auto;" />
       </td>
@@ -408,7 +392,25 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>66</td>
+      <td>
+          <img src="https://i.discogs.com/Hay_PT1hSRunUAMod4OkalWZKaFKfamEg8iCdqULMcU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTA4/LTEzMjg0NzcxNDUu/anBlZw.jpeg" alt="Cover for Israels Psychedelic Trance" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996-09-02</td>
+      <td>Astral Projection</td>
+      <td>Israels Psychedelic Trance</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
       <td>
       </td>
       <td>1996-09-10</td>
@@ -421,13 +423,13 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 16</li>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 30</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 20</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/JHb-bEqPp4WnwTBJs-UNRD31MiK1B0dFkLoOnBKumds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDA2/LTExMDYyNDg4MTMu/anBn.jpeg" alt="Cover for The Prophecy" style="max-width:120px; height:auto;" />
       </td>
@@ -446,8 +448,9 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/719db4dc2a704598a042e05938863567.png" alt="Cover for Phototropic" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-11-18</td>
       <td>Transwave</td>
@@ -459,13 +462,14 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 38</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>64</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b52ba47a76e74402b0dd5de320680704.png" alt="Cover for Fantasy" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Mr. Credo</td>
@@ -481,29 +485,12 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 31</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
-      <td>
-      </td>
-      <td>1997</td>
-      <td>MFG</td>
-      <td>New Kind of World</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/ktFV3RnrAcexCA0pUmrxFmOpA4Z-2GeHxG5B1viIxpk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MjE4/LTExNTk4NDg5MDYu/anBlZw.jpeg" alt="Cover for Geomantik" style="max-width:120px; height:auto;" />
       </td>
@@ -521,7 +508,24 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>76</td>
+      <td>
+      </td>
+      <td>1997</td>
+      <td>MFG</td>
+      <td>New Kind of World</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
       <td>
       </td>
       <td>1997-04-07</td>
@@ -539,30 +543,26 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>5</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec32933ffe854492bf73b5b4afb35ae0.png" alt="Cover for Bible of Dreams" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-06-18</td>
       <td>Juno Reactor</td>
       <td>Bible of Dreams</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
-            <li style="font-size: calc(1rem * 88 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 50</li>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 61</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 66</li>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 90</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 34</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
       </td>
       <td>1997-06</td>
@@ -577,12 +577,12 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 74</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
       </td>
       <td>1997-07-06</td>
@@ -597,13 +597,13 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 41</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 76</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 58</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>57</td>
       <td>
       </td>
       <td>1997-07-28</td>
@@ -620,8 +620,9 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5241536b63136532f0099e3b3977ce5.png" alt="Cover for The Lone Deranger" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-09-01</td>
       <td>Hallucinogen</td>
@@ -634,13 +635,13 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 77</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 19</li>
             <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
       </td>
       <td>1997-10-06</td>
@@ -657,26 +658,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>55</td>
-      <td>
-          <img src="https://i.discogs.com/z3fWzjznUJ7PaeG4gFo0-dcKY4q8OK1OQiXov-KoKes/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjQt/MTY0NDI1NjI4NS04/MDc4LmpwZWc.jpeg" alt="Cover for Rock Bitch Mafia" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1997-10-27</td>
-      <td>The Green Nuns Of The Revolution</td>
-      <td>Rock Bitch Mafia</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>20</td>
+      <td>80</td>
       <td>
       </td>
       <td>1998</td>
@@ -693,7 +675,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/Y8_vC2lJiQLa0fIdCX4mdH1dpo01n_xfpTHhoZjYSkM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MTAy/LTExMDUzNDMxNTMu/anBn.jpeg" alt="Cover for Delirious" style="max-width:120px; height:auto;" />
       </td>
@@ -712,7 +694,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>81</td>
       <td>
       </td>
       <td>1998-04-27</td>
@@ -729,7 +711,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/EJppJJIrairIgKX6Rp9E_SBbOYucqL9vjtdwwEBZogA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODA5/LTE0NDQwNjA2ODkt/Nzk3MS5qcGVn.jpeg" alt="Cover for Project Genesis" style="max-width:120px; height:auto;" />
       </td>
@@ -748,7 +730,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>53</td>
       <td>
       </td>
       <td>1998-10-20</td>
@@ -772,7 +754,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
       </td>
       <td>1999</td>
@@ -787,13 +769,13 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 30</li>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 55</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 34</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>73</td>
       <td>
       </td>
       <td>1999-01-15</td>
@@ -810,7 +792,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/4NZegwDcXURvmUX_ZSMb_KpvSFk6UdHKen6Lv4vpaJE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjEw/OC0xMTY0NDIyODUy/LmpwZWc.jpeg" alt="Cover for Beam Me Up" style="max-width:120px; height:auto;" />
       </td>
@@ -829,8 +811,9 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8363facfdd2d45dca65279a1bf9cd465.png" alt="Cover for The Gathering" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-03-01</td>
       <td>Infected Mushroom</td>
@@ -844,15 +827,15 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 89</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 94</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 8</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>1</td>
       <td>
-          <img src="https://i.discogs.com/pO5xd6UjvE60IL-iiQ6YvTlqGKftMa2dDbGnoSZGPcY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTgx/LTEyMDg3NzU1MzUu/anBlZw.jpeg" alt="Cover for Another World" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b8b0ad380104f6fbd8f8c1ba65bee34.png" alt="Cover for Another World" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-03-08</td>
       <td>Astral Projection</td>
@@ -866,13 +849,13 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 47</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 78</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 52</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/PveToU-7sKoKecp94FLyzFboGB9AqYcw1Px3jdwDxko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Mzk2/LTAwMS5qcGc.jpeg" alt="Cover for Pistolero" style="max-width:120px; height:auto;" />
       </td>
@@ -888,13 +871,13 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 45</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 83</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 49</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
       </td>
       <td>1999-09-09</td>
@@ -912,8 +895,9 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e1af1afee234816a5b4c9794c656160.png" alt="Cover for Code Eternity" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Asura</td>
@@ -931,7 +915,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/Svjb06NoOFvQ2KCU8mWBtia17ZAA9u6pZuh-R_uaROE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzQz/Ni0xMjAyNTYyODg2/LmpwZWc.jpeg" alt="Cover for Sun Spot" style="max-width:120px; height:auto;" />
       </td>
@@ -950,7 +934,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>48</td>
       <td>
       </td>
       <td>2000-04-11</td>
@@ -982,12 +966,12 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 79</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
       </td>
       <td>2000-06-26</td>
@@ -1004,14 +988,15 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 54</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 58</li>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c6a42bc32e449b1b812a241af0e101e.png" alt="Cover for Shango" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-10-04</td>
       <td>Juno Reactor</td>
@@ -1025,15 +1010,15 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 8</li>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 13</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 57</li>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 70</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 26</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 61</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 78</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/TTKGGqGc2jt5xfCcWe2qu8F9atJccTaOPcDpEpmta5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDUw/MS0xMTExMjgzNzc1/LmpwZw.jpeg" alt="Cover for Celebration" style="max-width:120px; height:auto;" />
       </td>
@@ -1052,7 +1037,27 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/f5sHtxQpAEWdS0vATkfVhtyFaE8qmjsFhl8RBorZKRo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMTY4/LTExMTM2OTcxNzYu/anBn.jpeg" alt="Cover for Amen" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002-10-21</td>
+      <td>Astral Projection</td>
+      <td>Amen</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 27</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 56</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/p9JGU4Ct8YR5jz9_VYpDQ6VUyYxyzH7Gr9J8Tqaemqk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzM3/NC0xNjc3OTk1NzMy/LTc5ODMuanBlZw.jpeg" alt="Cover for The Zwara" style="max-width:120px; height:auto;" />
       </td>
@@ -1071,7 +1076,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Trust in Trance 1" style="max-width:120px; height:auto;" />
       </td>
@@ -1090,8 +1095,9 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/689c66ed046d44a698aeddbc39fe35cb.png" alt="Cover for Drums From The Dawn Of Time" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-09</td>
       <td>Etnoscope</td>
@@ -1115,7 +1121,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>95</td>
       <td>
       </td>
       <td>2004-02-26</td>
@@ -1133,7 +1139,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
       </td>
       <td>2004-04-01</td>
@@ -1148,12 +1154,12 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 15</li>
+            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
       </td>
       <td>2004-12-01</td>
@@ -1168,13 +1174,13 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 68</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 89</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 9</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>82</td>
       <td>
       </td>
       <td>2005-04</td>
@@ -1192,7 +1198,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
       </td>
       <td>2005-10</td>
@@ -1206,12 +1212,12 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 27</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
       </td>
       <td>2006-04-13</td>
@@ -1228,7 +1234,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/rlI9ySiDbw939Sadi4f3K-kiNe96ZWZYsblKGYBmWGY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDIy/Mi0xMTUyMTE4MjI2/LmpwZWc.jpeg" alt="Cover for Killer Machine" style="max-width:120px; height:auto;" />
       </td>
@@ -1249,7 +1255,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/nQ5HPs_D_I0EJ4_AWlp8jxjx9ZH5WjbhuE1auGjBcOA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NDUw/NS0xNDQxODE5MTcz/LTI2NjAuanBlZw.jpeg" alt="Cover for Primal Meltdown" style="max-width:120px; height:auto;" />
       </td>
@@ -1267,7 +1273,26 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>45</td>
+      <td>
+      </td>
+      <td>2007</td>
+      <td>Lamat</td>
+      <td>Fearless</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
       <td>
       </td>
       <td>2007</td>
@@ -1287,26 +1312,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>56</td>
-      <td>
-      </td>
-      <td>2007</td>
-      <td>Lamat</td>
-      <td>Fearless</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>6</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/iueoDWnL_bOpcM3G2ccsozAy7bikoWtWUD3n1My5HWU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4Mzcy/MC0xMTc4ODc3NzEx/LmpwZWc.jpeg" alt="Cover for Backfire" style="max-width:120px; height:auto;" />
       </td>
@@ -1325,7 +1331,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>47</td>
       <td>
       </td>
       <td>2007-11-12</td>
@@ -1343,7 +1349,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>93</td>
       <td>
       </td>
       <td>2008-03-14</td>
@@ -1360,7 +1366,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/5IpOvYuQubk3dGMgEqBKxbWsWfUM19gyCt6xjCg8Kuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzM1/MjktMTI3NzUzNTI1/NC5qcGVn.jpeg" alt="Cover for Family of Light" style="max-width:120px; height:auto;" />
       </td>
@@ -1378,12 +1384,12 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 44</li>
+            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/brbopdqIygu6mrnggEhCn7w9zpQLZmU7xGXm5juStrc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzgy/MzQtMTMyNzI1NDU5/OC5qcGVn.jpeg" alt="Cover for Born Underwater" style="max-width:120px; height:auto;" />
       </td>
@@ -1402,7 +1408,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
       </td>
       <td>2009-04-17</td>
@@ -1419,7 +1425,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/0WC0XyEq1t4GX98zGqCE8DT2EA-BDP2nN5X9-HmI6XY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODI4/MDQtMTI0NDY2MDMw/Ny5naWY.jpeg" alt="Cover for Astral Experience" style="max-width:120px; height:auto;" />
       </td>
@@ -1438,7 +1444,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/8B_l2vAd9TDGnc6_i6_lEUDOWEbjtSQcuWdUPvivQTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzU3/NzctMTI0OTQ2NjU4/Ny5qcGVn.jpeg" alt="Cover for A Blueprint For Survival" style="max-width:120px; height:auto;" />
       </td>
@@ -1456,7 +1462,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/m48ZS3CjsP9PKsD6KUY6BzEouypJK8Mo21Gr8Q3iGtw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTQw/MTktMTI1NjIyODM3/Ny5qcGVn.jpeg" alt="Cover for Psychedelic Dreams" style="max-width:120px; height:auto;" />
       </td>
@@ -1475,7 +1481,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>72</td>
       <td>
       </td>
       <td>2010-04-28</td>
@@ -1492,7 +1498,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>97</td>
       <td>
       </td>
       <td>2010-08-20</td>
@@ -1510,7 +1516,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/Tw6Uy6ZDuOBwy8dAJ-nJusKcwFq-7Rd2un18QszYq2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzA5/MjctMTMwMDMxMTUz/NS5qcGVn.jpeg" alt="Cover for Parallel Fantasy" style="max-width:120px; height:auto;" />
       </td>
@@ -1529,12 +1535,12 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 74</li>
+            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
       </td>
       <td>2011-05-13</td>
@@ -1550,11 +1556,12 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/Vpp0hjuxZ4YhKz_U_oAkNayRLfPyDLowH3VBx3O1CO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzky/MzctMTMxMjgyOTA4/NS5qcGVn.jpeg" alt="Cover for Ovnimoon – Magnetic Portal" style="max-width:120px; height:auto;" />
       </td>
@@ -1573,13 +1580,14 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 62</li>
+            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/117c07533cc010b355b226b69eeea6ce.png" alt="Cover for Teknical Problems" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-09-16</td>
       <td>Tekniset</td>
@@ -1597,9 +1605,9 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>58</td>
       <td>
-          <img src="https://i.discogs.com/o_lDXpg34diulT7edw05QGUF05Ufl-r8QLSZjKCRg_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTQ1/MTYtMTM1ODc0Mzkz/Ny02MTAwLmpwZWc.jpeg" alt="Cover for Live at Primavera Sound 2012" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8443e478def1b46363553b78f7b4cc0.png" alt="Cover for Live at Primavera Sound 2012" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-07-30</td>
       <td>James Ferraro</td>
@@ -1619,7 +1627,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
       </td>
       <td>2013-02-04</td>
@@ -1635,13 +1643,14 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 55</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14f9362eb4354f0082906d61949c4b19.png" alt="Cover for The Golden Sun of the Great East" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-23</td>
       <td>Juno Reactor</td>
@@ -1654,13 +1663,13 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 46</li>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 80</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 20</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/Kh1TuCWENa3zHu-m6JelBC_uVuEQ6oL64F-weoJ-EFU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NzMw/MDEtMTQ5NTk2NzE4/NC0yNzQxLmpwZWc.jpeg" alt="Cover for Remix It" style="max-width:120px; height:auto;" />
       </td>
@@ -1682,7 +1691,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
       </td>
       <td>2013-07-15</td>
@@ -1700,13 +1709,13 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 5</li>
-            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 29</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 9</li>
+            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/-GwnM7marhA2vnpNwCQVA01JemVmdkaWbKPD1yVITLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNzk2/NTktMTQzMzYyNDEy/NS01MzI0LmpwZWc.jpeg" alt="Cover for The Future" style="max-width:120px; height:auto;" />
       </td>
@@ -1724,7 +1733,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>69</td>
       <td>
       </td>
       <td>2013-09-28</td>
@@ -1742,7 +1751,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>61</td>
       <td>
       </td>
       <td>2014-03-31</td>
@@ -1762,7 +1771,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/l9UHKOqiiq_Vr-GA7SGevyc-0xWk98QgJB1PIPUWQ60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwOTM3/MzYtMTQzMzU4MTI3/NC05MjUzLmpwZWc.jpeg" alt="Cover for The Golden Sun... Remixed" style="max-width:120px; height:auto;" />
       </td>
@@ -1782,7 +1791,7 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://i.discogs.com/mvTUnbSR4NAFtpiGhtk_7C_MfBwGvRNkNtNmldF5Ba4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDQ5/NDgtMTQ1OTE1NTM2/MS03MjE5LmpwZWc.jpeg" alt="Cover for The Time Machine" style="max-width:120px; height:auto;" />
       </td>
@@ -1799,12 +1808,12 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 24</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/UuHViTo6GU3hKCkum0uiCk2maDvs-1WqupoL2ZAOZw4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MDE0/NjQtMTQ4ODIxNjc0/NC04MTg5LmpwZWc.jpeg" alt="Cover for VLCHEMIC TRVNSMUTVTION" style="max-width:120px; height:auto;" />
       </td>
@@ -1823,15 +1832,15 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 1</li>
-            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 33</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 5</li>
+            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>89</td>
       <td>
-          <img src="https://i.discogs.com/mofGA275foill_LgAHpRtVEVCa_GAySpm_iubskooas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MzEx/MjYtMTQ4NTQ3Nzc2/OS05NjA0LmpwZWc.jpeg" alt="Cover for Life in Process" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b0cff6470b4031841b61aaeb0f4bab6.png" alt="Cover for Life in Process" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-09-26</td>
       <td>Vertical Mode</td>
@@ -1850,12 +1859,12 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 68</li>
+            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/FqXH0sO_DYiFCbW_VVW6ftkya9JM2QwYdmeSujqs7bA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE1/ODM0LTE0OTY5Nzcy/ODYtMTMyOS5qcGVn.jpeg" alt="Cover for A Brief History Of Goa-Trance" style="max-width:120px; height:auto;" />
       </td>
@@ -1872,14 +1881,14 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 9</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/WqeTT27Z70hbZkAR7oYq6fLtdLC-1xa0twrslG8Zc6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDU0/NTczLTE1NjAzNzA4/ODYtMTgxMy5qcGVn.jpeg" alt="Cover for This Light" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aacc799eb657426b86ffad564bf84f37.png" alt="Cover for This Light" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-07-10</td>
       <td>This Light</td>
@@ -1894,12 +1903,32 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       <td>
         <ul>
             <li> <a href="{{ "/tags/darkpsy" | relative_url }}">darkpsy</a> # 3</li>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 64</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>23</td>
+      <td>
+      </td>
+      <td>2023</td>
+      <td>Various Artists</td>
+      <td>Raja Ram&#39;s Stash Bag</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 40</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Yellow Compilation" style="max-width:120px; height:auto;" />
       </td>
@@ -1915,33 +1944,13 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 12</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 93</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 6</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
-      <td>
-      </td>
-      <td>2023</td>
-      <td>Various Artists</td>
-      <td>Raja Ram&#39;s Stash Bag</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 37</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>46</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg" alt="Cover for The Mystery of the Thirteen Crystal Skulls" style="max-width:120px; height:auto;" />
       </td>
@@ -1959,7 +1968,24 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>42</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Marco V vs. Jens</td>
+      <td>Loops &amp; Tings Relooped</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
       <td>
       </td>
       <td></td>
@@ -1971,23 +1997,6 @@ Goa trance is a hypnotic electronic music style that emerged from beach parties 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa" | relative_url }}">goa</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>59</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Marco V vs. Jens</td>
-      <td>Loops &amp; Tings Relooped</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a></li>
         </ul>
       </td>
       <td>

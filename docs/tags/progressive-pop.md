@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T11:20:15.184Z
+date: 2025-12-04T00:37:42.849Z
 permalink: tags/progressive-pop
 title: progressive pop
 ---
 
 ## progressive pop
 
-Last updated: <time datetime="2025-11-23T11:20:15.184Z">Sun Nov 23 2025 13:20:15 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T00:37:42.849Z">Thu Dec 04 2025 02:37:42 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -65,6 +65,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -124,8 +125,8 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 29</li>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 80</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 22</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -147,8 +148,8 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 80</li>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 97</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 3</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -209,8 +210,8 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 21</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 62</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 39</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -228,8 +229,8 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 12</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 27</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 13</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -247,7 +248,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 64</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -289,7 +290,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 40</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -310,7 +311,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 49</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -333,7 +334,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 14</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -352,7 +353,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 40</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -371,7 +372,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 95</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -391,11 +392,11 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 43</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 9</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 10</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 11</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 58</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 82</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 90</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 91</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -453,7 +454,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 59</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -513,8 +514,8 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 44</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 58</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 42</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -591,7 +592,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 3</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -631,8 +632,8 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 24</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 43</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 57</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -653,7 +654,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 35</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -707,9 +708,9 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 7</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 80</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 81</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 81</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -727,11 +728,11 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 42</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 64</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 12</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 35</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 59</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 82</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 83</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 89</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -751,8 +752,8 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 9</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 52</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 10</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -771,7 +772,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avantgarde-pop" | relative_url }}">avantgarde pop</a> # 35</li>
+            <li> <a href="{{ "/tags/avantgarde-pop" | relative_url }}">avantgarde pop</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -789,7 +790,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 44</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -829,9 +830,9 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 19</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 24</li>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 89</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 12</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 75</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -909,8 +910,8 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 42</li>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 83</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 17</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 59</li>
             <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 92</li>
         </ul>
       </td>
@@ -929,15 +930,15 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 22</li>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 84</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 17</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>7</td>
       <td>
-          <img src="https://i.discogs.com/LJCIbPRC4EvTtxDrTzjx7Gv41R7P2IYILnLwNkX6gNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjYx/ODMtMTI4NDYxNjAx/NS5qcGVn.jpeg" alt="Cover for The Girl with the Dragon Tattoo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/67b088db863f4b248286476a195bd684.png" alt="Cover for The Girl with the Dragon Tattoo" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Karen O</td>
@@ -986,7 +987,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 3</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 5</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 48</li>
         </ul>
       </td>
@@ -1024,9 +1025,9 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 37</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 60</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 79</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 38</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 66</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1065,7 +1066,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 29</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1086,9 +1087,9 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 72</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 77</li>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 77</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 23</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 25</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1129,10 +1130,10 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 39</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 59</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 91</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 96</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 5</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 10</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 42</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1154,7 +1155,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 43</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1194,7 +1195,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 40</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1311,9 +1312,9 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 67</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 72</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 81</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 20</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 32</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1352,9 +1353,9 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       <td>
         <ul>
             <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 15</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 16</li>
             <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 59</li>
             <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 77</li>
-            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1373,7 +1374,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 61</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1411,7 +1412,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 41</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1474,8 +1475,8 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a> # 62</li>
             <li> <a href="{{ "/tags/turkish-pop" | relative_url }}">turkish pop</a> # 97</li>
-            <li> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1498,9 +1499,9 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 90</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 94</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 97</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 3</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 7</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1543,7 +1544,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 89</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 12</li>
             <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 92</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 100</li>
             <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 100</li>
@@ -1584,8 +1585,8 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 31</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 96</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 5</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1622,7 +1623,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 24</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1641,9 +1642,9 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 55</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 58</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 80</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 60</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 82</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 93</li>
         </ul>
       </td>
@@ -1663,7 +1664,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avantgarde-pop" | relative_url }}">avantgarde pop</a> # 97</li>
+            <li> <a href="{{ "/tags/avantgarde-pop" | relative_url }}">avantgarde pop</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1684,11 +1685,11 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 44</li>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 64</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 78</li>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 83</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 87</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 14</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 23</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 57</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 73</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1742,7 +1743,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 44</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 56</li>
             <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 56</li>
         </ul>
       </td>
@@ -1762,7 +1763,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 22</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1784,9 +1785,9 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 36</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 1</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 64</li>
             <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 98</li>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1804,8 +1805,8 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 27</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 82</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 31</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1829,8 +1830,8 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 8</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 91</li>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1848,7 +1849,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 94</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1866,7 +1867,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 8</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1884,8 +1885,8 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 17</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 79</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 20</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1905,9 +1906,9 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 58</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 68</li>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 94</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 33</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 34</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1927,7 +1928,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 72</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1968,8 +1969,8 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 28</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 50</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 28</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1989,12 +1990,12 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 46</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 69</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 77</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 89</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 5</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 12</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 31</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 51</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 83</li>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 95</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 96</li>
             <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 99</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 99</li>
         </ul>
@@ -2018,7 +2019,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 32</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -2037,9 +2038,9 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 14</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 36</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 45</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 53</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 64</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -2061,7 +2062,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 21</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -2083,7 +2084,7 @@ Progressive pop is a subgenre of pop music that emerged in the late 1960s and ea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a> # 63</li>
+            <li> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a> # 33</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T06:33:38.161Z
+date: 2025-12-04T00:05:54.097Z
 permalink: tags/christian
 title: christian
 ---
 
 ## christian
 
-Last updated: <time datetime="2025-11-26T06:33:38.161Z">Wed Nov 26 2025 08:33:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T00:05:54.097Z">Thu Dec 04 2025 02:05:54 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -84,7 +84,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 33</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -123,9 +123,9 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 20</li>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 20</li>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 89</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 12</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 21</li>
+            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -144,7 +144,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 25</li>
+            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -206,7 +206,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 16</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -226,7 +226,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 40</li>
+            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -303,8 +303,8 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 28</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 61</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 40</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 73</li>
             <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 96</li>
         </ul>
       </td>
@@ -324,7 +324,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 65</li>
+            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -349,6 +349,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
     <tr>
       <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f36c3d947f1fb17d564c158ac599d312.png" alt="Cover for Adoration: The Worship Album" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-03-27</td>
       <td>Newsboys</td>
@@ -361,7 +362,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 61</li>
+            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -381,9 +382,9 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 19</li>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 46</li>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 92</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 9</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 47</li>
+            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -458,7 +459,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 26</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -478,7 +479,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 68</li>
+            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -497,7 +498,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 28</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -515,7 +516,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 35</li>
+            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -551,7 +552,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 89</li>
+            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -591,7 +592,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 64</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -613,7 +614,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 17</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -632,7 +633,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 29</li>
+            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -652,7 +653,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 94</li>
+            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -672,7 +673,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 56</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -711,7 +712,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 51</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -731,7 +732,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 98</li>
+            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -751,8 +752,8 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 41</li>
-            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 93</li>
+            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 8</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -790,8 +791,8 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 10</li>
             <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 84</li>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -831,8 +832,8 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 15</li>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 84</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 16</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -871,7 +872,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 2</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -890,7 +891,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 73</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -910,8 +911,8 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 37</li>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 59</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 38</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -967,7 +968,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 81</li>
+            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -987,7 +988,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 67</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1008,9 +1009,9 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 1</li>
-            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 58</li>
-            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 83</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 2</li>
+            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 18</li>
+            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1030,8 +1031,8 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 65</li>
-            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 99</li>
+            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 2</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1053,9 +1054,9 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 18</li>
-            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 69</li>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 87</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 14</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 19</li>
+            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1166,8 +1167,8 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 54</li>
-            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 56</li>
+            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 45</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1205,7 +1206,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 49</li>
+            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1272,6 +1273,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6640ab2387440e4af37f603850d8475.png" alt="Cover for Storyboards" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-08-31</td>
       <td>Sleeping at Last</td>
@@ -1358,8 +1360,8 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 19</li>
             <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 73</li>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1418,10 +1420,10 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 18</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 1</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 20</li>
             <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 75</li>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 94</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 100</li>
             <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 100</li>
         </ul>
       </td>
@@ -1460,7 +1462,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 91</li>
+            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1516,9 +1518,9 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 74</li>
-            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 80</li>
-            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 86</li>
+            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 15</li>
+            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 21</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1556,7 +1558,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 88</li>
+            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1596,7 +1598,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 62</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1634,7 +1636,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 98</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1710,26 +1712,26 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 27</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 29</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 8</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 8</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 10</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 25</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 28</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 30</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 32</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 35</li>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 36</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 40</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 40</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 37</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 41</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 42</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 44</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 54</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 57</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 64</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 68</li>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 76</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 61</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 62</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 78</li>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 79</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 90</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 91</li>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 91</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 92</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 93</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1811,7 +1813,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 80</li>
+            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1831,7 +1833,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 75</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1870,7 +1872,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 96</li>
+            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1897,7 +1899,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 31</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 70</li>
             <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 96</li>
         </ul>
       </td>
@@ -1942,8 +1944,8 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 34</li>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 59</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 60</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 66</li>
             <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 76</li>
             <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 97</li>
         </ul>
@@ -1966,9 +1968,9 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 68</li>
+            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 1</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 33</li>
             <li> <a href="{{ "/tags/christian-rap" | relative_url }}">christian rap</a> # 99</li>
-            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2022,10 +2024,10 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 19</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 34</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 35</li>
             <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 60</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 65</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 67</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 83</li>
             <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 99</li>
         </ul>
       </td>
@@ -2045,9 +2047,9 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 18</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 55</li>
-            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 97</li>
+            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 3</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 46</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 83</li>
             <li> <a href="{{ "/tags/christian-rap" | relative_url }}">christian rap</a> # 98</li>
         </ul>
       </td>
@@ -2118,7 +2120,7 @@ Christian music is music that contains lyrics focused on faith in Jesus Christ a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 57</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 44</li>
             <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 72</li>
             <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 85</li>
             <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 98</li>
