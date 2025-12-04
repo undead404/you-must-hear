@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-16T08:11:44.936Z
+date: 2025-12-04T13:55:46.233Z
 permalink: tags/microsound
 title: microsound
 ---
 
 ## microsound
 
-Last updated: <time datetime="2025-11-16T08:11:44.936Z">Sun Nov 16 2025 10:11:44 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T13:55:46.233Z">Thu Dec 04 2025 15:55:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -46,7 +46,7 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 93</li>
+            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -87,7 +87,7 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 51</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -195,7 +195,7 @@ Microsound refers to electronic music focused on manipulating extremely small so
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/y4HOFXegl_7ffYYbs7QAz7fAxYfKVtgcp9w1DT2uPyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTgw/MS0wMDEuanBn.jpeg" alt="Cover for Time And Space" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b804295677b4382a603c4e7c575dcdf.png" alt="Cover for Time And Space" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-10</td>
       <td>Ryoji Ikeda</td>
@@ -214,7 +214,7 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 11</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -265,6 +265,7 @@ Microsound refers to electronic music focused on manipulating extremely small so
     <tr>
       <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c71ab58f850c3f729861f19c09ba8a13.png" alt="Cover for Ultra Rare Tracks" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-10-01</td>
       <td>The Cherry Blues Project</td>
@@ -402,13 +403,14 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 66</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1b9b916723748d79e70d753b241e317.png" alt="Cover for Mujo" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-06-20</td>
       <td>Taylor Deupree &amp; Christopher Willits</td>
@@ -448,8 +450,8 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a> # 16</li>
             <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 28</li>
+            <li> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -471,26 +473,7 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 78</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>96</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/46fe79589d5f96f63b1465e40f5c5aa8.png" alt="Cover for Dataplex" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>Ryoji Ikeda</td>
-      <td>Dataplex</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 38</li>
+            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -505,6 +488,23 @@ Microsound refers to electronic music focused on manipulating extremely small so
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/46fe79589d5f96f63b1465e40f5c5aa8.png" alt="Cover for Dataplex" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Ryoji Ikeda</td>
+      <td>Dataplex</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>
@@ -542,7 +542,7 @@ Microsound refers to electronic music focused on manipulating extremely small so
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/GcRzVP9uDx3MYAwQm1GzIyApDy7NeGg9eNRppJKp1t8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NTc4/OC0xNDM4MDEzODgy/LTU3MTEuanBlZw.jpeg" alt="Cover for Point Line Cloud" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/37a286fbc223911754b8778febafc6fa.png" alt="Cover for Point Line Cloud" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-03-30</td>
       <td>Curtis Roads</td>
@@ -581,7 +581,6 @@ Microsound refers to electronic music focused on manipulating extremely small so
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/dgrM_k9HWauny3wXVZoSw9v2NoszzLmEiFX0c2ureH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTE0/Ny0xMTUyODQ4MzEy/LmpwZWc.jpeg" alt="Cover for [mn005] distante" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-07-31</td>
       <td>Coeval</td>
@@ -601,7 +600,7 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 24</li>
+            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -622,7 +621,7 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 14</li>
+            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -684,7 +683,7 @@ Microsound refers to electronic music focused on manipulating extremely small so
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/K0F-qLYDt1Tsj1kVJ4zvpfUrB9dTGwrV-mPmQO_sAc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjMy/Ni0xMTkzNDQ1MDg1/LmpwZWc.jpeg" alt="Cover for Hidden Name" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0e162620a9ff726b4e8c3b85c8146de.png" alt="Cover for Hidden Name" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-06</td>
       <td>Stephan Mathieu &amp; Janek Schaefer</td>
@@ -698,7 +697,7 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 33</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -755,7 +754,7 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 29</li>
+            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -800,9 +799,9 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 20</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 58</li>
-            <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 65</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 15</li>
+            <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 36</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -842,9 +841,9 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 4</li>
-            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 11</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 12</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 90</li>
+            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 91</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1001,9 +1000,9 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 10</li>
-            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 19</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 21</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 81</li>
+            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 83</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1043,9 +1042,8 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 1</li>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 1</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 8</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 94</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1085,9 +1083,9 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 7</li>
-            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 16</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 17</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 85</li>
+            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 86</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1127,9 +1125,9 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 16</li>
-            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 27</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 31</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 70</li>
+            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 75</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1170,10 +1168,10 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 11</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 22</li>
-            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 23</li>
             <li> <a href="{{ "/tags/haiti" | relative_url }}">haiti</a> # 30</li>
+            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 79</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 80</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1215,10 +1213,10 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 6</li>
-            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 13</li>
-            <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 15</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 15</li>
+            <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 86</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 87</li>
+            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 89</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1246,8 +1244,8 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 29</li>
-            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 35</li>
+            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 66</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1291,8 +1289,8 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 9</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 52</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 49</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1318,14 +1316,14 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 33</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/8Hb1o2Avo-s3uYjYEARmIoox6Q7YiJoYcfypVNh3C6Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDQ1/MDUtMTMwNjU1OTE1/OS5qcGVn.jpeg" alt="Cover for Corrapture" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/15b3f2e0e3994e54d266c7b535b53119.png" alt="Cover for Corrapture" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01-06</td>
       <td>Skerror</td>
@@ -1342,14 +1340,14 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 40</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/NBSXE_ZGwQWifehRYws68WQPhFt2MhvvfeawQsuxddI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDQ1/MTMtMTMwNjU2MDM0/NC5qcGVn.jpeg" alt="Cover for Cephalotropolis" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/08ad7e4b9c2e12f49678342f6d110871.png" alt="Cover for Cephalotropolis" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01-12</td>
       <td>Skerror</td>
@@ -1368,14 +1366,14 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 36</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/XWeE4tmKhDzcLOWnKKkJ7j82Iu05RFdoy6zhALhhUsY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDQ1/MTUtMTMwNjU2MDY4/Ny5qcGVn.jpeg" alt="Cover for Alloy Mines" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/37157c5b1ceb21a57d39192026d06cc4.png" alt="Cover for Alloy Mines" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01-14</td>
       <td>Skerror</td>
@@ -1395,14 +1393,14 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 37</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/5cNuO_svXFP6JrZsJwOcI_eOpj6UVuPARGNJTC3-D8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDQ1/MjAtMTMwNjU2MTMw/MC5qcGVn.jpeg" alt="Cover for Ferrol" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/faf1826017dce7c54b552fb3f0378243.png" alt="Cover for Ferrol" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01-16</td>
       <td>Skerror</td>
@@ -1422,16 +1420,16 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 4</li>
-            <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 36</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 45</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 56</li>
+            <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 65</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/Pdtp-1rmL77RU30LiSjVRcnMUOPTukvndJbOFGAC_4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDQ1/MjQtMTMwNjU2MTYz/Ni5qcGVn.jpeg" alt="Cover for Mod Doc" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/809da49c63aa73d9fa048c710156d801.png" alt="Cover for Mod Doc" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01-21</td>
       <td>Skerror</td>
@@ -1451,14 +1449,14 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 34</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/cJ4oVUn7ZxYUqrqcu4i4Zl4GU9aHZVwb_TU2XVAHg0o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDQ1/MjYtMTMwNjU2MTkz/NS5qcGVn.jpeg" alt="Cover for Shee" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d5836e1776c719ae2a5fcf01cdfee18.png" alt="Cover for Shee" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01-23</td>
       <td>Skerror</td>
@@ -1478,8 +1476,9 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 9</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 41</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 60</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 92</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1507,8 +1506,8 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 6</li>
-            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 73</li>
+            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 28</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1565,8 +1564,8 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 21</li>
-            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 59</li>
+            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 42</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1626,8 +1625,8 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 53</li>
-            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 55</li>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 46</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1654,7 +1653,7 @@ Microsound refers to electronic music focused on manipulating extremely small so
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/PrWhi7h6qnnEsM0jMqy8jRxBUhP1YY0SSz0EDzzcJeM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzM2/MTUtMTI4NjAyMTg5/MS5qcGVn.jpeg" alt="Cover for Phantoms" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5eb2a934938144eca8369f61f97f5807.png" alt="Cover for Phantoms" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-08-22</td>
       <td>Canoply Games</td>
@@ -1701,14 +1700,14 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 16</li>
+            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/a_K4qbSrk8v30GjzYQH7IguYB1Kqa5PH1KEyFiv-6mI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTg3/NDItMTMwNDI5NTAy/OS5wbmc.jpeg" alt="Cover for AGORA" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3bdc073bec7646f09a6c8b4adebc11b3.png" alt="Cover for AGORA" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-07-01</td>
       <td>Derek Piotr</td>
@@ -1726,8 +1725,8 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 45</li>
-            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 58</li>
+            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 43</li>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1764,8 +1763,8 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 44</li>
-            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 56</li>
+            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 45</li>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1837,7 +1836,7 @@ Microsound refers to electronic music focused on manipulating extremely small so
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/NgT-ebwZUlTe9cF6wJ6kx1wRXqYzdwaf9IXOsW47hcw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0OTkw/NTAtMTM2NjYxMjY4/Ny0yNDM1LmpwZWc.jpeg" alt="Cover for Und unsere Häuser sind Särge" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f462d49b6e0242b1b6bfe8d5cc55e2d7.png" alt="Cover for Und unsere Häuser sind Särge" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-17</td>
       <td>Nils Quak</td>
@@ -1863,9 +1862,9 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 15</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 47</li>
-            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 51</li>
+            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 50</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 54</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1895,9 +1894,10 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 43</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 65</li>
-            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 70</li>
+            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 31</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 36</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 58</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1938,9 +1938,9 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 31</li>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 56</li>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 83</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 16</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 44</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1990,10 +1990,10 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 38</li>
-            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 58</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 62</li>
-            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 68</li>
+            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 33</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 39</li>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 43</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -2022,7 +2022,7 @@ Microsound refers to electronic music focused on manipulating extremely small so
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/I6UJ-C_HSF49NXnjFvvfPMiG6NWSqAIf_IeXFocL5d0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTUz/OTIzLTE1MDA3MjIz/NTAtMTkxMi5qcGVn.jpeg" alt="Cover for Bombinate" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/368d062bc3f600f04dca6592794ea90f.png" alt="Cover for Bombinate" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-07-01</td>
       <td>Haarvöl</td>
@@ -2041,7 +2041,7 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 54</li>
+            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -2084,8 +2084,8 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 2</li>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 81</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 5</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -2149,7 +2149,7 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 66</li>
+            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -2170,7 +2170,7 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 79</li>
+            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -2214,7 +2214,7 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 2</li>
+            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2288,8 +2288,8 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 5</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 11</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 90</li>
+            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -2338,7 +2338,7 @@ Microsound refers to electronic music focused on manipulating extremely small so
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/73xX_YxvaQJstWrEl61DV6t5ohRxRwZQxXX_ASI1kHo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDA4/NzU0LTE2NTA5MjAy/MzAtNDUxMC5qcGVn.jpeg" alt="Cover for music for installations vol.2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c0d8ddca59a4dd2faf1c4b5bd2e270d.png" alt="Cover for music for installations vol.2" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-04-22</td>
       <td>Ryoji Ikeda</td>
@@ -2361,7 +2361,7 @@ Microsound refers to electronic music focused on manipulating extremely small so
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/fpG6K5rbcFLGrzkll42DFMYuUvrgJXNde-OIVdsCGbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTg3/NTY3LTE2NzU1MDk2/ODYtNjM3Ny5qcGVn.jpeg" alt="Cover for Electric" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1b036ce78e5ff0c2b94c38f5327d29e.png" alt="Cover for Electric" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-23</td>
       <td>7038634357</td>
@@ -2403,7 +2403,7 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 8</li>
+            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -2475,8 +2475,8 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 2</li>
-            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 62</li>
+            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 38</li>
+            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2548,8 +2548,8 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 11</li>
-            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 65</li>
+            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 35</li>
+            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -2593,9 +2593,9 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 21</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 60</li>
-            <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 66</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 16</li>
+            <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 35</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -2639,10 +2639,10 @@ Microsound refers to electronic music focused on manipulating extremely small so
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 3</li>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 34</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 75</li>
-            <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 81</li>
+            <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 20</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 26</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 30</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2690,6 +2690,7 @@ Microsound refers to electronic music focused on manipulating extremely small so
     <tr>
       <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e047e27a174b88e3717b1725530da64.png" alt="Cover for Cladonia" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>akaJazy</td>

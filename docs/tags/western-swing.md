@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T21:35:56.868Z
+date: 2025-12-04T13:56:29.289Z
 permalink: tags/western-swing
 title: western swing
 ---
 
 ## western swing
 
-Last updated: <time datetime="2025-11-23T21:35:56.868Z">Sun Nov 23 2025 23:35:56 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T13:56:29.289Z">Thu Dec 04 2025 15:56:29 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -137,8 +137,8 @@ Western swing blends the fiddles and steel guitars of country music with the big
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 31</li>
             <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 56</li>
-            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -160,7 +160,7 @@ Western swing blends the fiddles and steel guitars of country music with the big
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 36</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -223,7 +223,7 @@ Western swing blends the fiddles and steel guitars of country music with the big
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 16</li>
+            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -288,7 +288,7 @@ Western swing blends the fiddles and steel guitars of country music with the big
       <td>
         <ul>
             <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 41</li>
-            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 57</li>
+            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -352,8 +352,8 @@ Western swing blends the fiddles and steel guitars of country music with the big
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 41</li>
             <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 47</li>
-            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -408,7 +408,7 @@ Western swing blends the fiddles and steel guitars of country music with the big
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 88</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -430,7 +430,7 @@ Western swing blends the fiddles and steel guitars of country music with the big
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 34</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -614,8 +614,8 @@ Western swing blends the fiddles and steel guitars of country music with the big
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 23</li>
-            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 46</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 22</li>
+            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -636,7 +636,7 @@ Western swing blends the fiddles and steel guitars of country music with the big
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 35</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -676,7 +676,7 @@ Western swing blends the fiddles and steel guitars of country music with the big
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 92</li>
+            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -730,7 +730,7 @@ Western swing blends the fiddles and steel guitars of country music with the big
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 66</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -865,7 +865,7 @@ Western swing blends the fiddles and steel guitars of country music with the big
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 67</li>
+            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -885,7 +885,7 @@ Western swing blends the fiddles and steel guitars of country music with the big
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 89</li>
+            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -907,8 +907,8 @@ Western swing blends the fiddles and steel guitars of country music with the big
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 22</li>
             <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 61</li>
-            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1058,7 +1058,7 @@ Western swing blends the fiddles and steel guitars of country music with the big
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 19</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1079,7 +1079,7 @@ Western swing blends the fiddles and steel guitars of country music with the big
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 11</li>
+            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1395,7 +1395,7 @@ Western swing blends the fiddles and steel guitars of country music with the big
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 45</li>
+            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1416,7 +1416,7 @@ Western swing blends the fiddles and steel guitars of country music with the big
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 10</li>
+            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1455,7 +1455,7 @@ Western swing blends the fiddles and steel guitars of country music with the big
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ukulele" | relative_url }}">ukulele</a> # 32</li>
+            <li> <a href="{{ "/tags/ukulele" | relative_url }}">ukulele</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1653,7 +1653,7 @@ Western swing blends the fiddles and steel guitars of country music with the big
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ragtime" | relative_url }}">ragtime</a> # 99</li>
+            <li> <a href="{{ "/tags/ragtime" | relative_url }}">ragtime</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1804,7 +1804,7 @@ Western swing blends the fiddles and steel guitars of country music with the big
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 97</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 4</li>
         </ul>
       </td>
     </tr>

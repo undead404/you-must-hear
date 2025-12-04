@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-07T12:01:12.381Z
+date: 2025-12-04T13:56:34.623Z
 permalink: tags/viola
 title: viola
 ---
 
 ## viola
 
-Last updated: <time datetime="2025-11-07T12:01:12.381Z">Fri Nov 07 2025 14:01:12 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T13:56:34.623Z">Thu Dec 04 2025 15:56:34 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -98,7 +98,7 @@ Viola music refers to music that is specifically written for or performed on the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 66</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -163,6 +163,7 @@ Viola music refers to music that is specifically written for or performed on the
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/765c5afe2dad6101b641c7dfc075d7c5.png" alt="Cover for Instrumental" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Almir Sater</td>
@@ -289,7 +290,7 @@ Viola music refers to music that is specifically written for or performed on the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sertanejo" | relative_url }}">sertanejo</a> # 1</li>
+            <li> <a href="{{ "/tags/sertanejo" | relative_url }}">sertanejo</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -663,7 +664,7 @@ Viola music refers to music that is specifically written for or performed on the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 72</li>
+            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -736,8 +737,10 @@ Viola music refers to music that is specifically written for or performed on the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 76</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 90</li>
+            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 12</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 23</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 58</li>
+            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -768,7 +771,7 @@ Viola music refers to music that is specifically written for or performed on the
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/Sm-Bzvc8SBiyx5BqUvrYS7powZ9wvzBWS39o0rGA2Vo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzUz/OTctMTQ4MDUzNDU0/MC0yOTg0LmpwZWc.jpeg" alt="Cover for Don&#39;t Be Shy..." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6e7c13398a3451bbd98980d47869142.png" alt="Cover for Don&#39;t Be Shy..." style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Viola</td>
@@ -805,14 +808,14 @@ Viola music refers to music that is specifically written for or performed on the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 95</li>
+            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/L-Gpy7ngbHUcPzkQCjWUar7Owc_A4il0iCFw0G1-A7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTQx/ODMtMTM2NzA1NzQ5/Ny0xNzA3LmpwZWc.jpeg" alt="Cover for Vjola: World on Four Strings" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/52f34c71774bcb2564ac11af8e60a2d4.png" alt="Cover for Vjola: World on Four Strings" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Ljova</td>
@@ -993,7 +996,7 @@ Viola music refers to music that is specifically written for or performed on the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 87</li>
+            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1039,7 +1042,7 @@ Viola music refers to music that is specifically written for or performed on the
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/fT0u5rIT0jtIwWWeM8T6GCUHV2Qe4_e_B76JlnxxEWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjY5/OTctMTIwMjA4MzU4/NC5qcGVn.jpeg" alt="Cover for Poem About My Broken Violin" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/56b7bb087579424298a0c6bea4e7e74e.png" alt="Cover for Poem About My Broken Violin" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-01-04</td>
       <td>Emtebe</td>
@@ -1062,14 +1065,14 @@ Viola music refers to music that is specifically written for or performed on the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 7</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/CH0ibOCsz2_GzD3_Vk6U5ALh8lxWZ2eUULG5E23AZbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDg1/MzMtMTI3MjIzODE0/Ny5qcGVn.jpeg" alt="Cover for Emtebe" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d7df71046c0d83feeb9a2cc6e06eb88.png" alt="Cover for Emtebe" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-26</td>
       <td>Emtebe</td>
@@ -1099,8 +1102,8 @@ Viola music refers to music that is specifically written for or performed on the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 45</li>
-            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 79</li>
+            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 22</li>
+            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1151,8 +1154,8 @@ Viola music refers to music that is specifically written for or performed on the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a> # 4</li>
             <li> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a> # 57</li>
+            <li> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1178,7 +1181,7 @@ Viola music refers to music that is specifically written for or performed on the
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/tw0JPdNmnQ_HdlPUTdjb6FD9zLTacibFoW0j9gk_OW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MjE0/NDktMTI5ODA1Njk2/OS5qcGVn.jpeg" alt="Cover for Beauty Has A Name" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae4cf156b04df028a24bd6101c7e91c7.png" alt="Cover for Beauty Has A Name" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-02-18</td>
       <td>Emtebe</td>
@@ -1224,7 +1227,7 @@ Viola music refers to music that is specifically written for or performed on the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horn" | relative_url }}">horn</a> # 44</li>
+            <li> <a href="{{ "/tags/horn" | relative_url }}">horn</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1244,13 +1247,14 @@ Viola music refers to music that is specifically written for or performed on the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 33</li>
+            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b89b68b2d744050b383873449627494.png" alt="Cover for Live With The Danish National Chamber Orchestra" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-11-14</td>
       <td>Tina Dico</td>
@@ -1265,8 +1269,8 @@ Viola music refers to music that is specifically written for or performed on the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 32</li>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 35</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 68</li>
+            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1330,21 +1334,17 @@ Viola music refers to music that is specifically written for or performed on the
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce1c302ea937461ec6111bbc7309a4ad.png" alt="Cover for Almah" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-11-04</td>
       <td>Avishai Cohen</td>
       <td>Almah</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/viola" | relative_url }}">viola</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 46</li>
             <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 100</li>
         </ul>
       </td>
@@ -1407,8 +1407,8 @@ Viola music refers to music that is specifically written for or performed on the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canterbury-scene" | relative_url }}">canterbury scene</a> # 9</li>
             <li> <a href="{{ "/tags/canterbury" | relative_url }}">canterbury</a> # 38</li>
+            <li> <a href="{{ "/tags/canterbury-scene" | relative_url }}">canterbury scene</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1427,7 +1427,7 @@ Viola music refers to music that is specifically written for or performed on the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a> # 91</li>
+            <li> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1497,7 +1497,7 @@ Viola music refers to music that is specifically written for or performed on the
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/M0VeCoYq1ckpT5_Odjcx6seQFHrRFJt2zF6kQA-FI-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjI4/MTU5LTE3MjEwNTEz/MjYtOTcyNy5qcGVn.jpeg" alt="Cover for Our Winter Vol 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a0f0b081a8c4e988f7134d6a1ee2e04.png" alt="Cover for Our Winter Vol 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-02-09</td>
       <td>The Glue Ensemble</td>
@@ -1564,7 +1564,7 @@ Viola music refers to music that is specifically written for or performed on the
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/35yqg4-QlJdtvuE-2H3bYWw4HwAV99HzLk_Ii9rgeUg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MTY2/NzUtMTQ2MDU1MTE5/MS03OTI0LmpwZWc.jpeg" alt="Cover for Vulnicura Strings" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed3382e76b81f6be1706d45e680db901.png" alt="Cover for Vulnicura Strings" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-08</td>
       <td>Björk</td>
@@ -1579,8 +1579,8 @@ Viola music refers to music that is specifically written for or performed on the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avantgarde-pop" | relative_url }}">avantgarde pop</a> # 49</li>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 68</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 32</li>
+            <li> <a href="{{ "/tags/avantgarde-pop" | relative_url }}">avantgarde pop</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1714,7 +1714,7 @@ Viola music refers to music that is specifically written for or performed on the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 12</li>
+            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1763,8 +1763,8 @@ Viola music refers to music that is specifically written for or performed on the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 25</li>
             <li> <a href="{{ "/tags/oboe" | relative_url }}">oboe</a> # 47</li>
+            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1785,8 +1785,8 @@ Viola music refers to music that is specifically written for or performed on the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 22</li>
-            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 41</li>
+            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 60</li>
+            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 79</li>
         </ul>
       </td>
     </tr>

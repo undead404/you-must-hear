@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T18:01:54.138Z
+date: 2025-12-04T13:57:54.375Z
 permalink: tags/french
 title: french
 ---
 
 ## french
 
-Last updated: <time datetime="2025-11-25T18:01:54.138Z">Tue Nov 25 2025 20:01:54 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T13:57:54.375Z">Thu Dec 04 2025 15:57:54 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -134,7 +134,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 55</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -178,10 +178,10 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 2</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 2</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 5</li>
             <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 96</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 96</li>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 99</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -238,7 +238,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 16</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -348,7 +348,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 6</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -386,7 +386,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 86</li>
+            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -406,8 +406,8 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 68</li>
-            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 98</li>
+            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 3</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -449,8 +449,8 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 5</li>
             <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 60</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -488,9 +488,9 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 77</li>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 95</li>
-            <li> <a href="{{ "/tags/breizh" | relative_url }}">breizh</a> # 97</li>
+            <li> <a href="{{ "/tags/breizh" | relative_url }}">breizh</a> # 4</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 6</li>
+            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -548,8 +548,8 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 14</li>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 17</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 84</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -567,7 +567,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 87</li>
+            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -623,8 +623,8 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 79</li>
-            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 100</li>
+            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 1</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -646,9 +646,9 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 28</li>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 75</li>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 87</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 14</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 26</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -667,9 +667,9 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 8</li>
             <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 87</li>
             <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 92</li>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -690,9 +690,9 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 18</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 15</li>
             <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 55</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 86</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -749,8 +749,8 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 57</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 92</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 9</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -787,7 +787,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 55</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -806,7 +806,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 56</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -861,7 +861,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 98</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -884,7 +884,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 13</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -903,8 +903,8 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 96</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 96</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 5</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -941,7 +941,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 85</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1000,7 +1000,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 70</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1021,7 +1021,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 98</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1040,8 +1040,8 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 34</li>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 95</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 6</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1133,7 +1133,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 90</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1153,7 +1153,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 3</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1194,7 +1194,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 97</li>
+            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1213,7 +1213,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 76</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1273,7 +1273,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 78</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 23</li>
             <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 93</li>
         </ul>
       </td>
@@ -1293,9 +1293,9 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 25</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 28</li>
             <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 60</li>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 73</li>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1350,8 +1350,8 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 42</li>
-            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 83</li>
+            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 18</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1389,7 +1389,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 78</li>
+            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1409,7 +1409,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 51</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1469,7 +1469,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 76</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1507,7 +1507,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 72</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1579,7 +1579,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 63</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1675,11 +1675,11 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 18</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 5</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 5</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 31</li>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 96</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 82</li>
             <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 96</li>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1702,9 +1702,9 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 68</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 83</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 90</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 11</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 18</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1742,7 +1742,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 100</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1766,7 +1766,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 60</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1785,7 +1785,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 51</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1824,7 +1824,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 4</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1850,13 +1850,13 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 71</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 72</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 3</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 6</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 29</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 30</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 80</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 95</li>
             <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 95</li>
             <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 97</li>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1906,15 +1906,15 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 9</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 50</li>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 90</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 99</li>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 100</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 100</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 100</li>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 100</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 100</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 1</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 1</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 1</li>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 1</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 1</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 2</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 11</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 48</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 92</li>
             <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 100</li>
         </ul>
       </td>
@@ -1939,10 +1939,10 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 61</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 62</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 10</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 39</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 40</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 69</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 91</li>
             <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 92</li>
         </ul>
       </td>
@@ -1969,10 +1969,10 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 90</li>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 93</li>
-            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 98</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 100</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 1</li>
+            <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 3</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 8</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1991,7 +1991,7 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 59</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -2017,12 +2017,12 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 80</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 81</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 1</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 3</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 20</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 21</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 88</li>
             <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 97</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 98</li>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 100</li>
             <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 100</li>
         </ul>
       </td>
@@ -2048,9 +2048,9 @@ French music refers to the music created or produced in France or by French-spea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 93</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 1</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 8</li>
             <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 98</li>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 100</li>
         </ul>
       </td>
     </tr>
