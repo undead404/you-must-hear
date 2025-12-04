@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T04:24:21.722Z
+date: 2025-12-03T16:32:27.765Z
 permalink: tags/deutschpunk
 title: deutschpunk
 ---
 
 ## deutschpunk
 
-Last updated: <time datetime="2025-11-14T04:24:21.722Z">Fri Nov 14 2025 06:24:21 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T16:32:27.765Z">Wed Dec 03 2025 18:32:27 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -166,7 +166,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 94</li>
+            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -374,7 +374,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 40</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -539,7 +539,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 57</li>
+            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -746,7 +746,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 35</li>
+            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -979,11 +979,11 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 6</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 19</li>
             <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 68</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 75</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 82</li>
             <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 83</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1027,11 +1027,11 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 7</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 18</li>
             <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 69</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 77</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 83</li>
             <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 84</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1090,26 +1090,6 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
     </tr>
     <tr>
-      <td>57</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ff4394250200bc68cc11f830d6cb781.png" alt="Cover for Junger Mann Zum Mitreisen Gesucht" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Rantanplan</td>
-      <td>Junger Mann Zum Mitreisen Gesucht</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a8fc3e5976beb91599a0e4ddf258755.png" alt="Cover for If Liberty Means Anything at All" style="max-width:120px; height:auto;" />
@@ -1123,6 +1103,27 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 6</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ff4394250200bc68cc11f830d6cb781.png" alt="Cover for Junger Mann Zum Mitreisen Gesucht" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Rantanplan</td>
+      <td>Junger Mann Zum Mitreisen Gesucht</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a></li>
         </ul>
       </td>
       <td>
@@ -1304,6 +1305,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
     <tr>
       <td>64</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8a3dac95f28ff7d40e13640fe55b72b.png" alt="Cover for Tränen auf dem Dancefloor" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-04-21</td>
       <td>Juli Holz</td>
@@ -1352,11 +1354,11 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 40</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 5</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 60</li>
             <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 61</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 85</li>
             <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 88</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1401,7 +1403,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 32</li>
+            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 69</li>
             <li> <a href="{{ "/tags/fast-melodic-punk" | relative_url }}">fast melodic punk</a> # 90</li>
         </ul>
       </td>
@@ -1444,7 +1446,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 12</li>
+            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1515,6 +1517,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
     <tr>
       <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fcd928f732bb4e80b3bc438bc2ccfc44.png" alt="Cover for Pläne Für Gestern" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-22</td>
       <td>Minitimer Katzenposter</td>
@@ -1539,10 +1542,10 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 15</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 20</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 79</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 81</li>
             <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 82</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1597,11 +1600,11 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 41</li>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 43</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 4</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 57</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 59</li>
             <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 64</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 86</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1639,8 +1642,8 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 25</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 67</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 76</li>
             <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 77</li>
         </ul>
       </td>
@@ -1681,7 +1684,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/street-punk" | relative_url }}">street punk</a> # 27</li>
+            <li> <a href="{{ "/tags/street-punk" | relative_url }}">street punk</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1703,7 +1706,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 80</li>
+            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1759,16 +1762,16 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 11</li>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 36</li>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 71</li>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 76</li>
-            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 76</li>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 88</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 90</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 1</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 10</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 13</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 14</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 23</li>
+            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 25</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 65</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 74</li>
             <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 96</li>
             <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 97</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1815,9 +1818,9 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 29</li>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 61</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 68</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 32</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 39</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 70</li>
             <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 84</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 92</li>
         </ul>
@@ -1901,7 +1904,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 61</li>
+            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -2007,7 +2010,7 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 22</li>
+            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -2050,8 +2053,8 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 45</li>
-            <li> <a href="{{ "/tags/street-punk" | relative_url }}">street punk</a> # 71</li>
+            <li> <a href="{{ "/tags/street-punk" | relative_url }}">street punk</a> # 29</li>
+            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -2155,9 +2158,9 @@ Deutschpunk is German-language punk rock that emerged in the early 1980s, blendi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 55</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 64</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 72</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 29</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 37</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 45</li>
             <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 92</li>
         </ul>
       </td>

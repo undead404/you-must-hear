@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T05:03:38.223Z
+date: 2025-12-03T17:05:25.762Z
 permalink: tags/harsh-ebm
 title: harsh ebm
 ---
 
 ## harsh ebm
 
-Last updated: <time datetime="2025-11-26T05:03:38.223Z">Wed Nov 26 2025 07:03:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T17:05:25.762Z">Wed Dec 03 2025 19:05:25 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -67,7 +67,7 @@ Harsh EBM intensifies the aggressive, industrial foundations of electronic body 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 19</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -127,9 +127,9 @@ Harsh EBM intensifies the aggressive, industrial foundations of electronic body 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 37</li>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 38</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 80</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 49</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 63</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -150,7 +150,7 @@ Harsh EBM intensifies the aggressive, industrial foundations of electronic body 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 69</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -168,8 +168,7 @@ Harsh EBM intensifies the aggressive, industrial foundations of electronic body 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 45</li>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 97</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -210,8 +209,8 @@ Harsh EBM intensifies the aggressive, industrial foundations of electronic body 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 42</li>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 96</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 5</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -274,7 +273,7 @@ Harsh EBM intensifies the aggressive, industrial foundations of electronic body 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 16</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -310,7 +309,7 @@ Harsh EBM intensifies the aggressive, industrial foundations of electronic body 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 63</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -348,10 +347,10 @@ Harsh EBM intensifies the aggressive, industrial foundations of electronic body 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 13</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 46</li>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 59</li>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 74</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 17</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 27</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 42</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -370,7 +369,7 @@ Harsh EBM intensifies the aggressive, industrial foundations of electronic body 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 38</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -390,25 +389,7 @@ Harsh EBM intensifies the aggressive, industrial foundations of electronic body 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 55</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>69</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/49cd48222bbed0bb7c05631090d4d07d.png" alt="Cover for The Failure Epiphany" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005-11-28</td>
-      <td>Unter Null</td>
-      <td>The Failure Epiphany</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 83</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -424,6 +405,23 @@ Harsh EBM intensifies the aggressive, industrial foundations of electronic body 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/49cd48222bbed0bb7c05631090d4d07d.png" alt="Cover for The Failure Epiphany" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-11-28</td>
+      <td>Unter Null</td>
+      <td>The Failure Epiphany</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>
@@ -468,7 +466,6 @@ Harsh EBM intensifies the aggressive, industrial foundations of electronic body 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -507,8 +504,7 @@ Harsh EBM intensifies the aggressive, industrial foundations of electronic body 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 69</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 73</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -528,7 +524,7 @@ Harsh EBM intensifies the aggressive, industrial foundations of electronic body 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 90</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -547,8 +543,8 @@ Harsh EBM intensifies the aggressive, industrial foundations of electronic body 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 15</li>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 28</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 73</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -587,7 +583,7 @@ Harsh EBM intensifies the aggressive, industrial foundations of electronic body 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 73</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -687,9 +683,9 @@ Harsh EBM intensifies the aggressive, industrial foundations of electronic body 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 1</li>
             <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 58</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 94</li>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 100</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -731,7 +727,7 @@ Harsh EBM intensifies the aggressive, industrial foundations of electronic body 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 18</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -751,7 +747,7 @@ Harsh EBM intensifies the aggressive, industrial foundations of electronic body 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 68</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -855,7 +851,7 @@ Harsh EBM intensifies the aggressive, industrial foundations of electronic body 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 20</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -895,7 +891,7 @@ Harsh EBM intensifies the aggressive, industrial foundations of electronic body 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 42</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -916,7 +912,7 @@ Harsh EBM intensifies the aggressive, industrial foundations of electronic body 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 51</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -935,7 +931,7 @@ Harsh EBM intensifies the aggressive, industrial foundations of electronic body 
       <td>
         <ul>
             <li> <a href="{{ "/tags/darkpsy" | relative_url }}">darkpsy</a> # 17</li>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 48</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -990,7 +986,7 @@ Harsh EBM intensifies the aggressive, industrial foundations of electronic body 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 29</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1057,7 +1053,7 @@ Harsh EBM intensifies the aggressive, industrial foundations of electronic body 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 66</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1096,9 +1092,9 @@ Harsh EBM intensifies the aggressive, industrial foundations of electronic body 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 16</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 22</li>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 99</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 2</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 20</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1117,10 +1113,10 @@ Harsh EBM intensifies the aggressive, industrial foundations of electronic body 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 21</li>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 42</li>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 78</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 79</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 23</li>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 27</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 59</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1198,8 +1194,8 @@ Harsh EBM intensifies the aggressive, industrial foundations of electronic body 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 21</li>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 83</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 18</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1224,7 +1220,7 @@ Harsh EBM intensifies the aggressive, industrial foundations of electronic body 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 18</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1389,7 +1385,7 @@ Harsh EBM intensifies the aggressive, industrial foundations of electronic body 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 85</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1619,7 +1615,7 @@ Harsh EBM intensifies the aggressive, industrial foundations of electronic body 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 35</li>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1660,7 +1656,7 @@ Harsh EBM intensifies the aggressive, industrial foundations of electronic body 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 22</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1954,7 +1950,7 @@ Harsh EBM intensifies the aggressive, industrial foundations of electronic body 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 1</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1982,9 +1978,9 @@ Harsh EBM intensifies the aggressive, industrial foundations of electronic body 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 8</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 8</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 29</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 72</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -2008,8 +2004,8 @@ Harsh EBM intensifies the aggressive, industrial foundations of electronic body 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 4</li>
-            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 65</li>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 69</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -2037,7 +2033,7 @@ Harsh EBM intensifies the aggressive, industrial foundations of electronic body 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 30</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 71</li>
             <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 94</li>
             <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 98</li>
         </ul>
@@ -2067,11 +2063,11 @@ Harsh EBM intensifies the aggressive, industrial foundations of electronic body 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 57</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 11</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 19</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 21</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 60</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 70</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 80</li>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 82</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 89</li>
         </ul>
       </td>
     </tr>

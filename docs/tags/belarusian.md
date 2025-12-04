@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T06:37:11.585Z
+date: 2025-12-03T16:32:47.632Z
 permalink: tags/belarusian
 title: belarusian
 ---
 
 ## belarusian
 
-Last updated: <time datetime="2025-11-03T06:37:11.585Z">Mon Nov 03 2025 08:37:11 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T16:32:47.632Z">Wed Dec 03 2025 18:32:47 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -63,14 +63,14 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 57</li>
+            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/gnAjh7G0iLZMhzMQGvC93T7nha8M1lSEbzAJOR_kUGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc2/LTAwMS5qcGc.jpeg" alt="Cover for Песьні Свабоды 3" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f237dfa128e9858c351e9024f359566.png" alt="Cover for Песьні Свабоды 3" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Various Artists</td>
@@ -167,6 +167,7 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
     <tr>
       <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/90cd6f0364d74122b798c7939fce2d2f.png" alt="Cover for Дом культуры" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>N.R.M.</td>
@@ -242,7 +243,7 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/oxpYh8dOQmOPZfbBMTo-OdQlP7Iep79dxrXLF3gFQrQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzA4/NDMtMTE5Nzk5MTE1/NS5qcGVn.jpeg" alt="Cover for my summer" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c644295c8e174498a017e2ef2fff70da.png" alt="Cover for my summer" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>THE PRAGA</td>
@@ -316,7 +317,7 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 47</li>
+            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -336,13 +337,14 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 40</li>
+            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6cfdfcdb1d06062a5fe95847af4ceb8.png" alt="Cover for The Colour Of The City" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-10-01</td>
       <td>Dreamlin</td>
@@ -397,7 +399,7 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 62</li>
+            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -607,7 +609,7 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
       <td>
         <ul>
             <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 25</li>
-            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 44</li>
+            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -636,7 +638,6 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/sT4LOZU_q2ZARKtZsZmy1qzFYhQKFIQgBGsYPvwZkqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY0/MTItMTIyOTYzNTI5/Mi5qcGVn.jpeg" alt="Cover for peace dub EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-11-20</td>
       <td>Pavel Ambiont</td>
@@ -671,7 +672,7 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 15</li>
+            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -696,14 +697,14 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 2</li>
+            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/HoRSi-DiMgJf8LhYI953BsaU0xv6_H8zZtZdlXZImgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzU3/NDEyLTE1MjUxNTU2/ODUtODQ3NC5qcGVn.jpeg" alt="Cover for Клиника" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f414e5f0a0d9582f3c66af497e6112dd.png" alt="Cover for Клиника" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Re1ikt</td>
@@ -721,7 +722,7 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 24</li>
+            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -745,6 +746,7 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
     <tr>
       <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eda633081c39432c82f32aceacafce77.png" alt="Cover for Rock&#39;n&#39;Troll" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-15</td>
       <td>Litvintroll</td>
@@ -756,7 +758,7 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 51</li>
+            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -801,6 +803,7 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
     <tr>
       <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c20645436534b3e8846772d815cc815.png" alt="Cover for Гипнопедия" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Петля Пристрастия</td>
@@ -1006,6 +1009,7 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
     <tr>
       <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/696655433a090b765289c21c966cf769.png" alt="Cover for Фобос" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Петля Пристрастия</td>
@@ -1041,7 +1045,7 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
     <tr>
       <td>12</td>
       <td>
-          <img src="https://i.discogs.com/yEtuumJnfZTWD_9MwbKEY9j53coBWMx-dSmlT4Q61iI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mzcw/MDg2LTE2OTU0Njkz/NjYtNzIyMS5qcGVn.jpeg" alt="Cover for Exodus" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef5cb49cd5384f8eb5cfd1c21be351fc.png" alt="Cover for Exodus" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-05</td>
       <td>Check Your Chest</td>
@@ -1061,7 +1065,7 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/_9EvjnLOJD21h_8398Fa27avLsdwtFIYZAENokMBo_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODY0/NjYtMTQwMDI2NjIy/Ny00MDcwLmpwZWc.jpeg" alt="Cover for Žniajar Mrojaŭ (Dream Reaper)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe59cd8fe4bde0508fa852cf893bd23c.png" alt="Cover for Žniajar Mrojaŭ (Dream Reaper)" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-14</td>
       <td>Dzivia</td>
@@ -1082,8 +1086,8 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
       <td>
         <ul>
             <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 14</li>
-            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 41</li>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 53</li>
+            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 42</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1143,7 +1147,7 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/2HAzWQimY4ejqAppR5xRfTe6cdtr41M2sqiBcsl_p_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTIy/ODA5LTE1MjQ4MzQw/OTItOTE2NC5qcGVn.jpeg" alt="Cover for Haradzenski Harmidar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c33d1414b5846bfc6decb411cfa5ba3.png" alt="Cover for Haradzenski Harmidar" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Dzieciuki</td>
@@ -1158,7 +1162,7 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 66</li>
+            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1237,7 +1241,7 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/FYoq9DnlPSKXJFkPC1YVxvDWC02voAMXvg15nnnHjBM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjg1/NzQtMTQxMDI0NjQw/MS0xMTg3LmpwZWc.jpeg" alt="Cover for Underdog" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c30e5cacd8f43d6c3ffb4c5ee5f2c70.png" alt="Cover for Underdog" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-09-09</td>
       <td>Brutto</td>
@@ -1285,7 +1289,7 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 13</li>
+            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1328,7 +1332,7 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/fxOJTU663A7W83ub2VmBlu5zV7DFDiIGX0rOCUOi4pU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTU1/NjItMTQzNzY3NjY0/Ny01MDc1LmpwZWc.jpeg" alt="Cover for 63610*" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9862e272b792c31f08767ef624af389.png" alt="Cover for 63610*" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-05-25</td>
       <td>Super Besse</td>
@@ -1346,7 +1350,7 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/JZokjF43pXl8wh11f4uzxwwpcsV-O44SEtDgIMedhU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDk5/NTMtMTQ1MTQ1OTQ2/OS01MjMyLnBuZw.jpeg" alt="Cover for Staražytnaje licha" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d176eb8778bcb3dda99f879042edee5.png" alt="Cover for Staražytnaje licha" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-12-25</td>
       <td>Ljosazabojstwa</td>
@@ -1361,7 +1365,7 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 20</li>
+            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1386,7 +1390,7 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/w1ITV0pDCCN-Sce4hp-0RLWORX48kbgHu7jHfAoKMrg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTU1/NjYtMTQ4MDE3NjE5/Ni0yNTgyLmpwZWc.jpeg" alt="Cover for Мода и облака" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2bfae850eac49593bc8d1313c1556b25.png" alt="Cover for Мода и облака" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-04-15</td>
       <td>Петля Пристрастия</td>
@@ -1404,7 +1408,7 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/KZj7Tf4AJDGR8c4EX_EH1hXrQa8AjndPKthVtxTS0uA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MjUw/ODAtMTQ2OTcyMDU5/Ny03NDE1LmpwZWc.jpeg" alt="Cover for \\\\\\" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/189342ec8e07779c0ce43ee3f50fc6c5.png" alt="Cover for \\\\\\" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-08-03</td>
       <td>Икар</td>
@@ -1424,7 +1428,7 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/i4tjDI4ZER5UJMZsfMQ0kOPTYm42QdTcsYwUReHqud8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjky/NDYtMTQ3OTM3ODAy/OC05MTIyLmpwZWc.jpeg" alt="Cover for Import" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/590b5f38cbd40621f6c0e8b6f17e536b.png" alt="Cover for Import" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-11-01</td>
       <td>Iowa</td>
@@ -1460,7 +1464,7 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/o-pxC9r7JECyGw2CTmqrNhAwXaXOViizllqGsnu7BxI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE5/NDY1LTE0OTUyNjA0/NDQtNzQ2My5qcGVn.jpeg" alt="Cover for Иллюминация" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2fb42fb1b4bcf5f5767c8c101d6d45f7.png" alt="Cover for Иллюминация" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>NAVIBAND</td>
@@ -1478,7 +1482,7 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/TDLnCoVIxj9wl4uEDT62qK23b8loiwoR0TTMamX0pLk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTA0/MTMwLTE2NTAzMTM1/ODctMTM4Mi5qcGVn.jpeg" alt="Cover for Tragic City" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/88f1980da5f7c1db2210591d3687d53c.png" alt="Cover for Tragic City" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-04-28</td>
       <td>ЛСП</td>
@@ -1514,7 +1518,7 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/t2wBsZS6nzQ8D5gsWLQgjfIq1cLLIl6oeGuppN6-vNM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDgz/Mzg5LTE2MTE1MDMx/NzMtNjk1Mi5qcGVn.jpeg" alt="Cover for Erasing the Enigma" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8f6f1d0023793f1423a765e965ee4f8.png" alt="Cover for Erasing the Enigma" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-06-01</td>
       <td>SDreamExplorerS</td>
@@ -1535,7 +1539,7 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/2AljDNNwB5Utj4mI34pD5p-gUM7wljnyF5IEif19RBM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDA5/OTEzLTE0OTY4NjI3/NDUtNTIxNC5qcGVn.jpeg" alt="Cover for Achviara" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d393433c18c2223e849b34f27c04388.png" alt="Cover for Achviara" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-06-07</td>
       <td>Zmrok</td>
@@ -1556,7 +1560,7 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/rx3pZcc2nGrYRKwCYLS2AU0hZagN5hySAWsEw_KHpas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTA3/ODQzLTE1MzY2NTY1/MDUtMzg2Ni5qcGVn.jpeg" alt="Cover for Demo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09c1ed7d918095145181daf550c6495f.png" alt="Cover for Demo" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-08-08</td>
       <td>Nürnberg</td>
@@ -1571,14 +1575,14 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 26</li>
+            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/P4U4EtRXDbJbjcQTBIWdtk_DtX0xgwejzfgnqus2XCQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjE2/MzgyLTE1ODA2NTE3/NjItOTc1Ny5qcGVn.jpeg" alt="Cover for Гул" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a85ef504acf4df8821e20b80d244933f.png" alt="Cover for Гул" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-02-15</td>
       <td>Петля Пристрастия</td>
@@ -1596,7 +1600,7 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/2NHKFNDLc2zlxsIK2czNGwsQdafaps5IUYFnHbrL89w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjI0/NjU0LTE2MTIyNzc4/NTgtODE2MS5qcGVn.jpeg" alt="Cover for Lszb" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7fc150e6c84a6633d0eebd04f778df6.png" alt="Cover for Lszb" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-12-21</td>
       <td>Ljosazabojstwa</td>
@@ -1637,7 +1641,7 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/ltYcx31LlsWn8VebB-A98-Y0U8p3jXiGu5GTJ5QXh5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDQx/MzE0LTE1OTE1Njcy/MjQtOTg5Ny5qcGVn.jpeg" alt="Cover for Głoryja Śmierci" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21d107e3a9e8d00d4ca1d4ee7e2e541b.png" alt="Cover for Głoryja Śmierci" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-05-21</td>
       <td>Ljosazabojstwa</td>
@@ -1652,7 +1656,7 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 31</li>
+            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1714,7 +1718,7 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 35</li>
+            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1732,7 +1736,7 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 7</li>
+            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1760,6 +1764,7 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
     <tr>
       <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/81dea4d4ed0576f6bab4ba9779d8a6ea.png" alt="Cover for Awaken" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>ThornyWay</td>
@@ -1798,7 +1803,7 @@ Belarusian music encompasses songs performed in Belarusian or Russian by artists
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 55</li>
+            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 56</li>
         </ul>
       </td>
     </tr>

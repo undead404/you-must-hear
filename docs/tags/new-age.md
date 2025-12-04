@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T05:04:38.131Z
+date: 2025-12-03T17:05:56.397Z
 permalink: tags/new-age
 title: new age
 ---
 
 ## new age
 
-Last updated: <time datetime="2025-11-26T05:04:38.131Z">Wed Nov 26 2025 07:04:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T17:05:56.397Z">Wed Dec 03 2025 19:05:56 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -82,7 +82,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 52</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -157,7 +157,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 48</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -274,7 +274,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 84</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -329,7 +329,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 15</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -348,7 +348,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 20</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -492,8 +492,8 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 1</li>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 90</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 2</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -513,8 +513,8 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 5</li>
             <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 86</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -646,7 +646,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 86</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -781,7 +781,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 68</li>
+            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 32</li>
             <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 79</li>
         </ul>
       </td>
@@ -817,7 +817,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 29</li>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -836,7 +836,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 95</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -855,7 +855,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 63</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -945,7 +945,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 87</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -965,7 +965,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 85</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1130,7 +1130,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 27</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1222,7 +1222,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 93</li>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1299,7 +1299,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 89</li>
+            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1564,7 +1564,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 82</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1603,8 +1603,8 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 2</li>
             <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 81</li>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1626,8 +1626,8 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 66</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 100</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 1</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1660,14 +1660,14 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 46</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 2</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 3</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 28</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 47</li>
             <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 59</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 65</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 73</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 86</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 87</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 95</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 98</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 99</li>
             <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 100</li>
         </ul>
       </td>
@@ -1734,8 +1734,8 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 2</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 70</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1754,7 +1754,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 45</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1795,9 +1795,9 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 4</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 85</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 93</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 97</li>
             <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 98</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 99</li>
         </ul>
@@ -1827,14 +1827,14 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 27</li>
+            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 2</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 9</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 35</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 47</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 50</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 87</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 88</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 89</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 91</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 92</li>
-            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1936,13 +1936,13 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 1</li>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 4</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 5</li>
             <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 7</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 11</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 26</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 39</li>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 40</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 40</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 41</li>
             <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 52</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 62</li>
             <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 67</li>
@@ -1950,11 +1950,11 @@ New age music is a genre of music that emerged in the 1970s and is characterized
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 71</li>
             <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 72</li>
             <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 75</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 75</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 76</li>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 78</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 85</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 86</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 98</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1994,7 +1994,7 @@ New age music is a genre of music that emerged in the 1970s and is characterized
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 88</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 13</li>
             <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 97</li>
         </ul>
       </td>

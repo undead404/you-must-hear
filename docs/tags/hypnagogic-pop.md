@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T05:05:38.025Z
+date: 2025-12-03T17:23:01.243Z
 permalink: tags/hypnagogic-pop
 title: hypnagogic pop
 ---
 
 ## hypnagogic pop
 
-Last updated: <time datetime="2025-11-26T05:05:38.025Z">Wed Nov 26 2025 07:05:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T17:23:01.243Z">Wed Dec 03 2025 19:23:01 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -73,14 +73,14 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 27</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 49</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 53</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 76</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 84</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 85</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 89</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 95</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 6</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 12</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 16</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 48</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 59</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 74</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 78</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -122,7 +122,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 68</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 32</li>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 71</li>
         </ul>
       </td>
@@ -242,8 +242,8 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 53</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 65</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 47</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -262,7 +262,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 18</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -301,7 +301,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 63</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -341,7 +341,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 33</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -362,7 +362,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 62</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 38</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 70</li>
         </ul>
       </td>
@@ -411,10 +411,10 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 9</li>
+            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 5</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 5</li>
             <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 81</li>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 96</li>
-            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 96</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 91</li>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 100</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 100</li>
         </ul>
@@ -435,8 +435,8 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 60</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 68</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 33</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -513,7 +513,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 47</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -593,8 +593,8 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 15</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 77</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 24</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 25</li>
             <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 95</li>
         </ul>
       </td>
@@ -677,9 +677,9 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 57</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 65</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 70</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 31</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 36</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -762,7 +762,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
         <ul>
             <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 56</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 67</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 82</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -782,7 +782,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 5</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -856,7 +856,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 45</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 56</li>
             <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 61</li>
         </ul>
       </td>
@@ -877,7 +877,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 97</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -897,7 +897,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 100</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -933,8 +933,8 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 74</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 76</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 25</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -952,10 +952,10 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 18</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 17</li>
             <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 35</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 54</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 88</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 47</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -979,10 +979,10 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 80</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 92</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 96</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 98</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 3</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 5</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 21</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1025,8 +1025,8 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 90</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 94</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 7</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 11</li>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 98</li>
         </ul>
       </td>
@@ -1046,7 +1046,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 24</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1067,8 +1067,8 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 10</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 69</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 91</li>
             <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 99</li>
         </ul>
       </td>
@@ -1130,9 +1130,9 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 17</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 18</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 42</li>
             <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 52</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 59</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 74</li>
             <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 76</li>
         </ul>
@@ -1160,11 +1160,11 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 7</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 15</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 55</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 61</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 72</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 94</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 28</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 40</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1186,7 +1186,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 38</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1204,7 +1204,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 89</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 64</li>
             <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 100</li>
         </ul>
       </td>
@@ -1230,8 +1230,8 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 60</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 65</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 36</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1255,11 +1255,11 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 4</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 9</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 17</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 83</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 84</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 85</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 91</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 97</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 86</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 99</li>
         </ul>
       </td>
@@ -1278,12 +1278,12 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 40</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 3</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 4</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 61</li>
             <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 83</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 84</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 85</li>
             <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 92</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 97</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1305,7 +1305,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 6</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1333,12 +1333,12 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 5</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 28</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 29</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 51</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 71</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 72</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 73</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 73</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 85</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1362,10 +1362,10 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 80</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 82</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 87</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 90</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 11</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 14</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 20</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1387,7 +1387,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 93</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1408,7 +1408,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 79</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 22</li>
             <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 94</li>
         </ul>
       </td>
@@ -1428,7 +1428,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 67</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1446,7 +1446,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 46</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1513,13 +1513,13 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 44</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 56</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 78</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 85</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 94</li>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 99</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 100</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 1</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 2</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 7</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 46</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 57</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 80</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1564,7 +1564,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       <td>
         <ul>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 12</li>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 74</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 27</li>
             <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 82</li>
         </ul>
       </td>
@@ -1589,9 +1589,9 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 55</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 57</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 92</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 8</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 44</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1614,9 +1614,9 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 78</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 12</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 23</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 79</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1642,10 +1642,10 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 14</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 15</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 29</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 48</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 72</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 86</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1667,8 +1667,8 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 18</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 55</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 46</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1691,9 +1691,9 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 41</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 76</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 83</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 17</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 25</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1756,7 +1756,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       <td>
         <ul>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 34</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 64</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1797,8 +1797,8 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 27</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 59</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 58</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1866,9 +1866,9 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 4</li>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 23</li>
             <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 48</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1906,7 +1906,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 31</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1931,7 +1931,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 43</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1994,7 +1994,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 80</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -2016,8 +2016,8 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 1</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 59</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2043,10 +2043,10 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 1</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 11</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 18</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 62</li>
             <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 71</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -2133,7 +2133,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 74</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -2154,7 +2154,7 @@ Hypnagogic pop is a lo-fi genre that evokes hazy nostalgia through warped sample
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 83</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 18</li>
             <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 96</li>
         </ul>
       </td>

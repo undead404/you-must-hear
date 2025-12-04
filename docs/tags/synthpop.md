@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T04:53:38.306Z
+date: 2025-12-03T15:58:32.647Z
 permalink: tags/synthpop
 title: synthpop
 ---
 
 ## synthpop
 
-Last updated: <time datetime="2025-11-26T04:53:38.306Z">Wed Nov 26 2025 06:53:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T15:58:32.647Z">Wed Dec 03 2025 17:58:32 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -49,10 +49,10 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 23</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 4</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 5</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 67</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 96</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 97</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -72,7 +72,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 14</li>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 87</li>
             <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 95</li>
         </ul>
       </td>
@@ -95,7 +95,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 36</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 65</li>
             <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 76</li>
         </ul>
       </td>
@@ -132,8 +132,8 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 46</li>
-            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 92</li>
+            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 9</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -153,8 +153,8 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 7</li>
             <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 50</li>
-            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -191,7 +191,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 9</li>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -212,7 +212,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 56</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 57</li>
             <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 100</li>
         </ul>
       </td>
@@ -315,7 +315,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 27</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -412,8 +412,8 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 32</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 36</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 69</li>
             <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 75</li>
         </ul>
       </td>
@@ -508,8 +508,8 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 54</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 67</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 45</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -568,9 +568,9 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 6</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 79</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 84</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -591,8 +591,8 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 18</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 38</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -612,7 +612,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 97</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -674,8 +674,8 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 24</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 100</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 1</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -694,7 +694,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 7</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -712,9 +712,9 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 46</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 88</li>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 89</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 11</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 13</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -738,11 +738,11 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 61</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 70</li>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 97</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 1</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 4</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 31</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 39</li>
             <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 100</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -816,8 +816,8 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 3</li>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 90</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 11</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -835,7 +835,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 44</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -853,10 +853,10 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 28</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 3</li>
             <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 43</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 46</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 98</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 52</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -881,12 +881,12 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 1</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 1</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 3</li>
             <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 97</li>
             <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 98</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 98</li>
             <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 98</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 100</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -905,7 +905,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 8</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -928,9 +928,9 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 7</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 12</li>
             <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 35</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 89</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 94</li>
             <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 100</li>
         </ul>
       </td>
@@ -953,8 +953,8 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 70</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 88</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 13</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -995,8 +995,8 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 17</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 46</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 55</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 84</li>
             <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 89</li>
         </ul>
       </td>
@@ -1018,8 +1018,8 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 33</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 34</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 39</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 84</li>
             <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 95</li>
         </ul>
@@ -1059,8 +1059,8 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 14</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 90</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 11</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 87</li>
             <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 98</li>
         </ul>
       </td>
@@ -1097,8 +1097,8 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 86</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 97</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 4</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1137,8 +1137,8 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 37</li>
             <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 52</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1161,10 +1161,10 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       <td>
         <ul>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 9</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 17</li>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 22</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 58</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 78</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 79</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1187,7 +1187,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 73</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 27</li>
             <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 97</li>
         </ul>
       </td>
@@ -1293,8 +1293,8 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 75</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 79</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 22</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 79</li>
             <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 87</li>
             <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 99</li>
         </ul>
@@ -1317,7 +1317,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 59</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 41</li>
             <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 68</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 91</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 97</li>
@@ -1433,8 +1433,8 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 38</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 74</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 27</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1474,7 +1474,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 82</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1497,11 +1497,11 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 15</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 86</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 4</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 15</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 84</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 87</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 95</li>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1563,8 +1563,8 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 70</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 94</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 7</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 31</li>
             <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 95</li>
         </ul>
       </td>
@@ -1622,7 +1622,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 98</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 3</li>
             <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 100</li>
         </ul>
       </td>
@@ -1645,11 +1645,11 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 6</li>
             <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 64</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 86</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 86</li>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 93</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 95</li>
             <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 99</li>
         </ul>
       </td>
@@ -1707,9 +1707,9 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 87</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 10</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 14</li>
             <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 91</li>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1754,13 +1754,13 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 4</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 5</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 19</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 26</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 38</li>
             <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 46</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 63</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 75</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 82</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 90</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 96</li>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1799,7 +1799,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 71</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1818,10 +1818,10 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 6</li>
             <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 73</li>
             <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 93</li>
             <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 95</li>
+            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1840,7 +1840,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 2</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1862,8 +1862,8 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 17</li>
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 53</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1885,7 +1885,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
         <ul>
             <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 11</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 17</li>
-            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 60</li>
+            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1907,9 +1907,9 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 3</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 8</li>
             <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 62</li>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 92</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1949,9 +1949,9 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 20</li>
+            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 1</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 21</li>
             <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 82</li>
-            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1994,7 +1994,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 73</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 28</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 77</li>
             <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 98</li>
         </ul>
@@ -2019,9 +2019,9 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 4</li>
             <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 88</li>
             <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 94</li>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -2040,9 +2040,9 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 14</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 37</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 64</li>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 67</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -2063,7 +2063,7 @@ Synthpop is a genre centered on synthesizers and electronic production that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 16</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 85</li>
         </ul>
       </td>
     </tr>

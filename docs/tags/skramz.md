@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T04:24:26.959Z
+date: 2025-12-03T16:32:33.636Z
 permalink: tags/skramz
 title: skramz
 ---
 
 ## skramz
 
-Last updated: <time datetime="2025-11-14T04:24:26.959Z">Fri Nov 14 2025 06:24:26 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T16:32:33.636Z">Wed Dec 03 2025 18:32:33 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/v4tspa9f5_Uj8g2V8c4xPgRr7NFWgWFVVJSRXZOmwDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDky/MDE5LTE2MjMzNDc0/MjQtNDgxMS5qcGVn.jpeg" alt="Cover for coma garden" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff3638a3e5c1b5abcdc0d9c00b971c77.png" alt="Cover for coma garden" style="max-width:120px; height:auto;" />
       </td>
       <td>1981</td>
       <td>Life</td>
@@ -140,7 +140,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 64</li>
+            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -159,7 +159,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 46</li>
+            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -198,8 +198,8 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 74</li>
-            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 99</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 20</li>
+            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -237,13 +237,11 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -324,28 +322,6 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>7</td>
-      <td>
-          <img src="https://i.discogs.com/p5bygAyXgfBuy7iXqlq5R4jNj9mkfX6_1v44KmdBWCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODYz/NDktMTM2NTA2MTE0/My01NTgwLmpwZWc.jpeg" alt="Cover for Jeromes Dream&#x2F;Orchid" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2001</td>
-      <td>Orchid</td>
-      <td>Jeromes Dream&#x2F;Orchid</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 33</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f7dd0838ba88c47fa759f9edc5c1223.png" alt="Cover for To Bring Our Own End" style="max-width:120px; height:auto;" />
@@ -360,7 +336,27 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 15</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 72</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>
+          <img src="https://i.discogs.com/p5bygAyXgfBuy7iXqlq5R4jNj9mkfX6_1v44KmdBWCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODYz/NDktMTM2NTA2MTE0/My01NTgwLmpwZWc.jpeg" alt="Cover for Jeromes Dream&#x2F;Orchid" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Orchid</td>
+      <td>Jeromes Dream&#x2F;Orchid</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -402,7 +398,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/-CX0kU0cufw2K9YCXC8Vn1tUMTX_0pZBiR6evnhDiSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Mjcx/ODgtMTQzOTY1OTk3/Mi0yMzU2LmpwZWc.jpeg" alt="Cover for three days &#39;til christmas" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a5a29349f7e0f4589f74ed225e0a8ea.png" alt="Cover for three days &#39;til christmas" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>I Have Dreams</td>
@@ -431,14 +427,12 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -453,14 +447,12 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
-            <li style="font-size: calc(1rem * 79 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 65 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 3</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 98</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -478,15 +470,13 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 27</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 72</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -505,15 +495,13 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 58</li>
-            <li> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a> # 60</li>
+            <li> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -533,7 +521,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 28</li>
+            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -552,8 +540,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 26</li>
-            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 60</li>
+            <li> <a href="{{ "/tags/emoviolence" | relative_url }}">emoviolence</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -576,28 +563,6 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
     </tr>
     <tr>
-      <td>100</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3857664e7e0cf3c18661531a348ce132.png" alt="Cover for MASK" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004-03-10</td>
-      <td>Dream</td>
-      <td>MASK</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 64</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 74</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 87</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 100</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>43</td>
       <td>
           <img src="https://i.discogs.com/hk_gCt9KSHkek6bXDvQCUoGBPcxe8N-pc3Ao_ZmoVuc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTAw/ODAtMTQzNDQyMjM2/OC02NDI0LmpwZWc.jpeg" alt="Cover for Vinyl Collections Vol. 1" style="max-width:120px; height:auto;" />
@@ -608,14 +573,30 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 56</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98c725cc103a4be894de3de9f070e57d.png" alt="Cover for Singles" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-11-22</td>
+      <td>Pg.99</td>
+      <td>Singles</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -632,25 +613,6 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
             <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
             <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 41</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98c725cc103a4be894de3de9f070e57d.png" alt="Cover for Singles" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005-11-22</td>
-      <td>Pg.99</td>
-      <td>Singles</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
         </ul>
       </td>
       <td>
@@ -676,8 +638,8 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 38</li>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 76</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 25</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -709,13 +671,11 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       <td>demo</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -760,7 +720,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/kQiv5oOxNUCOWZpLR9DojYJJ5MT3Ed6kc6omCo1k3Ss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTky/NjItMTIzMTc2NDc4/MC5qcGVn.jpeg" alt="Cover for Some Blood" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd9ce226872b487e84b079433e0650ad.png" alt="Cover for Some Blood" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-07-01</td>
       <td>Off Minor</td>
@@ -768,14 +728,12 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -868,7 +826,6 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
@@ -890,37 +847,38 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 2</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 3</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 8</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 9</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 16</li>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 28</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 30</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 16</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 22</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 30</li>
+            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 32</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 42</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 44</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 46</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 48</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 51</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 53</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 54</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 54</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 54</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 58</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 62</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 62</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 63</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 63</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 65</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 66</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 66</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 67</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 72</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 75</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 74</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 81</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 81</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 83</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 83</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 85</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 85</li>
-            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 87</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 86</li>
             <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 87</li>
+            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 87</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 89</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 91</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 92</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -976,9 +934,9 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 34</li>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 49</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 53</li>
             <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 66</li>
+            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1034,11 +992,11 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 7</li>
             <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 12</li>
-            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 45</li>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 56</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 46</li>
+            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 56</li>
             <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 72</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1054,14 +1012,12 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1127,8 +1083,8 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 30</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 70</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 30</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1147,7 +1103,6 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
@@ -1157,8 +1112,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       <td>
         <ul>
             <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 5</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 18</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 68</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1235,7 +1189,6 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
@@ -1258,29 +1211,28 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       <td>
         <ul>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 9</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 10</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 13</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 24</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 26</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 29</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 33</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 26</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 31</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 34</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 40</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 43</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 43</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 44</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 47</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 48</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 44</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 49</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 54</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 57</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 56</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 61</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 70</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 72</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 73</li>
-            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 75</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 75</li>
+            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 75</li>
             <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 76</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 77</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 82</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 85</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1335,20 +1287,19 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>16</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef534ed897b4fee346393653c0449e80.png" alt="Cover for BABYMETAL" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-02-26</td>
       <td>BABYMETAL</td>
@@ -1361,24 +1312,23 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 1</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 8</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 11</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 15</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 31</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 32</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 38</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 42</li>
+            <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 9</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 16</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 17</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 27</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 32</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 45</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 46</li>
             <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 50</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 52</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 64</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 69</li>
             <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 71</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 74</li>
             <li> <a href="{{ "/tags/unblack-metal" | relative_url }}">unblack metal</a> # 79</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 81</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 85</li>
-            <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 92</li>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 100</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1411,14 +1361,12 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       <td>Le Voyageur Imprudent</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1443,7 +1391,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 52</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1490,7 +1438,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/mviYhwExKsnEosLe3cvCjw34dgf_znc4GBNgePLk0Yc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NjM1/ODItMTQ4MjgzMDUz/OS03ODU5LmpwZWc.jpeg" alt="Cover for Il Fascino delle Idee" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f3fab3314b86014d41a0357cce129a3.png" alt="Cover for Il Fascino delle Idee" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Batièn</td>
@@ -1522,7 +1470,6 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
@@ -1530,7 +1477,6 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1553,7 +1499,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 95</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1575,8 +1521,8 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 41</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 90</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 10</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1632,7 +1578,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 94</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1750,7 +1696,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 56</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1831,7 +1777,8 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 29</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 11</li>
+            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1912,6 +1859,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1948,15 +1896,13 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 48</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 99</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1980,8 +1926,8 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 24</li>
-            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 58</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 44</li>
+            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1999,7 +1945,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 76</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -2024,7 +1970,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/VUw2cs95qi_st-Tq30R6sXS2YLniVaWEMM99RRW-5qo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTgy/MTM2LTE2MjAxMDYz/NDEtMjgzNy5qcGVn.jpeg" alt="Cover for rainmaking" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34b0044b5c7b791280234994bc65f3b9.png" alt="Cover for rainmaking" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-02-12</td>
       <td>Rainmaking</td>
@@ -2039,7 +1985,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 72</li>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -2063,9 +2009,9 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 54</li>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 77</li>
-            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 82</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 39</li>
+            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 83</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -2108,7 +2054,29 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 44</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 55</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3857664e7e0cf3c18661531a348ce132.png" alt="Cover for MASK" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-05-21</td>
+      <td>Dream</td>
+      <td>MASK</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 1</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 7</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 35</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -2144,7 +2112,6 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japan" | relative_url }}">japan</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a></li>
@@ -2152,9 +2119,9 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 7</li>
+            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 16</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 65</li>
-            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 85</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -2310,7 +2277,6 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a></li>
@@ -2318,8 +2284,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 70</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 89</li>
+            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -2367,6 +2332,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
     <tr>
       <td>5</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad1c07bc7a6584f256fff0f36604243d.png" alt="Cover for 4-Way Split" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>To Be Gentle</td>
@@ -2386,6 +2352,7 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
     <tr>
       <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/12c650782f2f89416d10b9190a2726a1.png" alt="Cover for kujikiri" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Nu</td>
@@ -2409,10 +2376,10 @@ Skramz is an internet-era term for the most raw and intense strain of emo, chara
 - [screamo]({{ "/tags/screamo" | relative_url }})
 - [emo]({{ "/tags/emo" | relative_url }})
 - [post-hardcore]({{ "/tags/post-hardcore" | relative_url }})
-- [real screamo]({{ "/tags/real-screamo" | relative_url }})
 - [hardcore]({{ "/tags/hardcore" | relative_url }})
 - [emoviolence]({{ "/tags/emoviolence" | relative_url }})
 - [lo-fi]({{ "/tags/lo-fi" | relative_url }})
 - [mathcore]({{ "/tags/mathcore" | relative_url }})
 - [powerviolence]({{ "/tags/powerviolence" | relative_url }})
 - [hardcore punk]({{ "/tags/hardcore-punk" | relative_url }})
+- [alternative]({{ "/tags/alternative" | relative_url }})

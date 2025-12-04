@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T05:02:38.289Z
+date: 2025-12-03T17:05:21.763Z
 permalink: tags/underground-hip-hop
 title: underground hip-hop
 ---
 
 ## underground hip-hop
 
-Last updated: <time datetime="2025-11-26T05:02:38.289Z">Wed Nov 26 2025 07:02:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T17:05:21.763Z">Wed Dec 03 2025 19:05:21 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -172,7 +172,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 96</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -340,8 +340,8 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 9</li>
             <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 69</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -442,7 +442,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
         <ul>
             <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 90</li>
             <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 91</li>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 94</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -537,7 +537,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 22</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -557,7 +557,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       <td>
         <ul>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 16</li>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 44</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -635,7 +635,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       <td>
         <ul>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 17</li>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 45</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -690,7 +690,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 86</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -784,7 +784,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 76</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -804,12 +804,12 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 11</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 13</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 17</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 67</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 72</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 24</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 68</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 73</li>
             <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 85</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 88</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -962,7 +962,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 3</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -983,7 +983,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 57</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1003,7 +1003,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 48</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 53</li>
             <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 87</li>
         </ul>
       </td>
@@ -1192,7 +1192,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 15</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1281,7 +1281,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 69</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 32</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 74</li>
             <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 79</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 81</li>
@@ -1310,7 +1310,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 61</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 64</li>
             <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 85</li>
         </ul>
       </td>
@@ -1369,7 +1369,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 100</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1465,11 +1465,11 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 74</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 80</li>
             <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 86</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 87</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 89</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 89</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 95</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1546,8 +1546,8 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       <td>
         <ul>
             <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 2</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 22</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 37</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 24</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1606,7 +1606,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       <td>
         <ul>
             <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 16</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 51</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 52</li>
             <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 53</li>
         </ul>
       </td>
@@ -1699,7 +1699,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 91</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1726,7 +1726,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 62</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 39</li>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 86</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 89</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 90</li>
@@ -1757,8 +1757,8 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 15</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 84</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 86</li>
             <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 89</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 97</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 99</li>
@@ -1825,7 +1825,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 66</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1870,7 +1870,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 58</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 43</li>
             <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 71</li>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 82</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 85</li>
@@ -1913,7 +1913,7 @@ Underground hip-hop emphasizes lyrical complexity, experimental production, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 12</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 19</li>
         </ul>
       </td>
     </tr>

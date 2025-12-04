@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T19:10:37.980Z
+date: 2025-12-03T16:16:08.511Z
 permalink: tags/polish-hip-hop
 title: polish hip-hop
 ---
 
 ## polish hip-hop
 
-Last updated: <time datetime="2025-11-24T19:10:37.980Z">Mon Nov 24 2025 21:10:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T16:16:08.511Z">Wed Dec 03 2025 18:16:08 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -42,7 +42,7 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 16</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -81,32 +81,24 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 12</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/Yj3UzeVX18QNfpR-frDAzHKAqvJlB19BDU91lsU4eXc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzY2/ODAtMTUxMTAxMzAx/My02NTA2LmpwZWc.jpeg" alt="Cover for Szacunek Ludzi Ulicy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ee35ba978d541ca9ec02d16ae286504.png" alt="Cover for Szacunek Ludzi Ulicy" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Slums Attack</td>
       <td>Szacunek Ludzi Ulicy</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 44</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -129,7 +121,7 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 67</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -147,8 +139,7 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 56</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 92</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -169,7 +160,7 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 39</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -211,8 +202,8 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 2</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 27</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 44</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -234,8 +225,8 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 42</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 49</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 57</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -271,7 +262,7 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 7</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -293,7 +284,7 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 88</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -312,7 +303,7 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 71</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -334,10 +325,10 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 3</li>
             <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 23</li>
-            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 30</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 38</li>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 98</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 54</li>
+            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -359,8 +350,8 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 55</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 61</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 45</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -382,8 +373,8 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 72</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 81</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 29</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -397,18 +388,12 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       <td>Szacunek Ludzi Ulicy</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 71</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 78</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -535,7 +520,7 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 36</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -553,6 +538,7 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -593,8 +579,8 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 66</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 72</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 34</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -617,7 +603,7 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 14</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -640,8 +626,8 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 38</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 45</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 60</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -662,7 +648,7 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 80</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -684,8 +670,8 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 69</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 76</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 31</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -705,7 +691,7 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 61</li>
+            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -744,7 +730,7 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 4</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -764,7 +750,7 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 31</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -784,7 +770,7 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 50</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -808,7 +794,7 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       <td>
         <ul>
             <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 50</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 56</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -831,8 +817,8 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 84</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 91</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 17</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -857,9 +843,9 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 5</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 29</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 46</li>
             <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 56</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -884,8 +870,8 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 65</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 70</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 35</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 78</li>
             <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 88</li>
         </ul>
       </td>
@@ -911,8 +897,8 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 80</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 87</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 21</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 91</li>
             <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 91</li>
         </ul>
       </td>
@@ -936,8 +922,8 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 87</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 94</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 14</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -960,8 +946,8 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 90</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 97</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 11</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1018,7 +1004,7 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 26</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1037,8 +1023,8 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 40</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 84</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 4</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1117,8 +1103,8 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 83</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 88</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 18</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1140,7 +1126,7 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 70</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1163,8 +1149,8 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 51</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 57</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 49</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1204,8 +1190,8 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 52</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 59</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 48</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1240,7 +1226,7 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 18</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1299,8 +1285,8 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 68</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 98</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 6</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1319,8 +1305,8 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 54</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 93</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 17</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1343,7 +1329,7 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 13</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1366,7 +1352,7 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 15</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1422,8 +1408,7 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 17</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 64</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1441,8 +1426,9 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 23</li>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 61</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 3</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 39</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1461,8 +1447,8 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 47</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 89</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 11</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1480,8 +1466,7 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 8</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 62</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1499,7 +1484,7 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 52</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1522,7 +1507,7 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 10</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1545,7 +1530,7 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 21</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1568,8 +1553,8 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 64</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 69</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 36</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1588,8 +1573,7 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 14</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 63</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1608,8 +1592,8 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 34</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 77</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 2</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1629,6 +1613,7 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1646,7 +1631,7 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 42</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1724,8 +1709,8 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 37</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 41</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 57</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1746,7 +1731,7 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 90</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1765,8 +1750,7 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 21</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 65</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1785,8 +1769,7 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 28</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 74</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1805,8 +1788,30 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 35</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 75</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 1</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 64</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Pioorko</td>
+      <td>Towar 5 Gwiazdkowy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1830,7 +1835,8 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 4</li>
+            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 3</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1879,7 +1885,7 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 9</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1901,7 +1907,7 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 20</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1923,7 +1929,7 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 24</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1945,8 +1951,8 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 13</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 32</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 49</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1968,8 +1974,8 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 15</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 33</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 50</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1992,8 +1998,8 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 25</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 39</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 55</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -2016,8 +2022,8 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 74</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 82</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 27</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -2040,8 +2046,8 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 76</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 85</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 25</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -2064,29 +2070,8 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 89</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 96</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Pioorko</td>
-      <td>Towar 5 Gwiazdkowy</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 12</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -2153,8 +2138,8 @@ Polish hip-hop represents the urban voice of Poland&#39;s post-communist generat
 ### Related genres
 
 - [polski hip hop]({{ "/tags/polski-hip-hop" | relative_url }})
-- [polski rap]({{ "/tags/polski-rap" | relative_url }})
 - [rap]({{ "/tags/rap" | relative_url }})
+- [polski rap]({{ "/tags/polski-rap" | relative_url }})
 - [gangsta rap]({{ "/tags/gangsta-rap" | relative_url }})
 - [hip-hop]({{ "/tags/hip-hop" | relative_url }})
 - [polish]({{ "/tags/polish" | relative_url }})
