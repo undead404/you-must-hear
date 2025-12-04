@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T20:19:37.988Z
+date: 2025-12-04T12:09:00.032Z
 permalink: tags/industrial-noise
 title: industrial noise
 ---
 
 ## industrial noise
 
-Last updated: <time datetime="2025-11-26T20:19:37.988Z">Wed Nov 26 2025 22:19:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T12:09:00.032Z">Thu Dec 04 2025 14:09:00 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 68</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -171,7 +171,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 45</li>
+            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 55</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 58</li>
             <li> <a href="{{ "/tags/experimental-noise" | relative_url }}">experimental noise</a> # 89</li>
         </ul>
@@ -261,7 +261,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 67</li>
+            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -320,7 +320,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 1</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -341,8 +341,8 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 79</li>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 90</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 11</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -423,8 +423,8 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       <td>
         <ul>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 8</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 16</li>
             <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 77</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 85</li>
             <li> <a href="{{ "/tags/noisegrind" | relative_url }}">noisegrind</a> # 89</li>
         </ul>
       </td>
@@ -514,7 +514,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 8</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -540,6 +540,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/innovative" | relative_url }}">innovative</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a></li>
@@ -547,8 +548,9 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 16</li>
+            <li> <a href="{{ "/tags/innovative" | relative_url }}">innovative</a> # 27</li>
             <li> <a href="{{ "/tags/dada" | relative_url }}">dada</a> # 55</li>
+            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -620,9 +622,9 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 9</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 9</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 81</li>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 92</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 92</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 100</li>
         </ul>
       </td>
@@ -682,7 +684,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/xhJIce9ikUIkIrvR6-_KpcojRdrhh9HEo-O2u2SVqAs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjEy/NDgtMTMyOTc1MjYw/OC5wbmc.jpeg" alt="Cover for Symphony No. 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8074c08d9a4d9f5cfcb800d6935c53cc.png" alt="Cover for Symphony No. 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-04-19</td>
       <td>Glenn Branca</td>
@@ -700,7 +702,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 56</li>
+            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -745,6 +747,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/experimental-noise" | relative_url }}">experimental noise</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -885,14 +888,14 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 5</li>
+            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 4</li>
             <li> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a> # 6</li>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 63</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 74</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 86</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 8</li>
+            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 9</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 14</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 27</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 38</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 92</li>
-            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 92</li>
-            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -914,8 +917,8 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 34</li>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 60</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 41</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -963,7 +966,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 41</li>
+            <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1280,7 +1283,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-noise" | relative_url }}">experimental noise</a> # 25</li>
+            <li> <a href="{{ "/tags/experimental-noise" | relative_url }}">experimental noise</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1299,7 +1302,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-noise" | relative_url }}">experimental noise</a> # 32</li>
+            <li> <a href="{{ "/tags/experimental-noise" | relative_url }}">experimental noise</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1336,14 +1339,14 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 2</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 5</li>
+            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 9</li>
             <li> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a> # 9</li>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 60</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 65</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 80</li>
-            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 85</li>
+            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 16</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 20</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 36</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 41</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 87</li>
-            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1446,7 +1449,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/old-school-hardcore" | relative_url }}">old school hardcore</a> # 19</li>
+            <li> <a href="{{ "/tags/old-school-hardcore" | relative_url }}">old school hardcore</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1892,7 +1895,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 19</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -2080,7 +2083,7 @@ Industrial noise music is a subgenre of industrial music that emphasizes the use
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-noise" | relative_url }}">experimental noise</a> # 31</li>
+            <li> <a href="{{ "/tags/experimental-noise" | relative_url }}">experimental noise</a> # 30</li>
         </ul>
       </td>
     </tr>

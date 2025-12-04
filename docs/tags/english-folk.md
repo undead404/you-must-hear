@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T21:33:09.815Z
+date: 2025-12-04T12:44:29.425Z
 permalink: tags/english-folk
 title: english folk
 ---
 
 ## english folk
 
-Last updated: <time datetime="2025-11-23T21:33:09.815Z">Sun Nov 23 2025 23:33:09 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T12:44:29.425Z">Thu Dec 04 2025 14:44:29 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -64,7 +64,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 14</li>
+            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -219,7 +219,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 44</li>
+            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -259,7 +259,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 5</li>
+            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -354,7 +354,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 24</li>
+            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -393,7 +393,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 20</li>
+            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -455,7 +455,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 9</li>
+            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -534,7 +534,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 25</li>
+            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -556,7 +556,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 6</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -577,7 +577,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 27</li>
+            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -655,7 +655,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 3</li>
+            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -803,7 +803,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 23</li>
+            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -938,7 +938,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 6</li>
+            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -959,7 +959,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 19</li>
+            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -997,7 +997,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 80</li>
+            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1096,7 +1096,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 76</li>
+            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1317,7 +1317,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 86</li>
+            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1411,7 +1411,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 32</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1505,7 +1505,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 26</li>
+            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1583,7 +1583,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 12</li>
+            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1659,7 +1659,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 7</li>
+            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1680,7 +1680,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 73</li>
+            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1700,7 +1700,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sheffield" | relative_url }}">sheffield</a> # 74</li>
+            <li> <a href="{{ "/tags/sheffield" | relative_url }}">sheffield</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1721,7 +1721,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 16</li>
+            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1765,13 +1765,13 @@ English folk music is a traditional form of music that originated in England and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 11</li>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 24</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 39</li>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 45</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 52</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 57</li>
-            <li> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a> # 65</li>
+            <li> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a> # 36</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 44</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 49</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 56</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 62</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 76</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1871,7 +1871,7 @@ English folk music is a traditional form of music that originated in England and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 1</li>
+            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 100</li>
         </ul>
       </td>
     </tr>

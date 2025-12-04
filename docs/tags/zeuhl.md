@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T21:33:41.663Z
+date: 2025-12-04T12:53:11.372Z
 permalink: tags/zeuhl
 title: zeuhl
 ---
 
 ## zeuhl
 
-Last updated: <time datetime="2025-11-23T21:33:41.663Z">Sun Nov 23 2025 23:33:41 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T12:53:11.372Z">Thu Dec 04 2025 14:53:11 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -66,7 +66,7 @@ Zeuhl is an avant-garde fusion of progressive rock, jazz, and classical music ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 60</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 42</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 63</li>
         </ul>
       </td>
@@ -384,7 +384,7 @@ Zeuhl is an avant-garde fusion of progressive rock, jazz, and classical music ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 61</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -607,8 +607,8 @@ Zeuhl is an avant-garde fusion of progressive rock, jazz, and classical music ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 69</li>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 91</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 10</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -776,7 +776,7 @@ Zeuhl is an avant-garde fusion of progressive rock, jazz, and classical music ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 33</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -833,7 +833,7 @@ Zeuhl is an avant-garde fusion of progressive rock, jazz, and classical music ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 10</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -853,7 +853,7 @@ Zeuhl is an avant-garde fusion of progressive rock, jazz, and classical music ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 36</li>
+            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -971,8 +971,8 @@ Zeuhl is an avant-garde fusion of progressive rock, jazz, and classical music ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 28</li>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 47</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 48</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1029,10 +1029,10 @@ Zeuhl is an avant-garde fusion of progressive rock, jazz, and classical music ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 32</li>
-            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 51</li>
-            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 53</li>
-            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 80</li>
+            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 21</li>
+            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 49</li>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 50</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1110,7 +1110,7 @@ Zeuhl is an avant-garde fusion of progressive rock, jazz, and classical music ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 61</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1130,7 +1130,7 @@ Zeuhl is an avant-garde fusion of progressive rock, jazz, and classical music ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 21</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1416,7 +1416,7 @@ Zeuhl is an avant-garde fusion of progressive rock, jazz, and classical music ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 16</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1531,9 +1531,9 @@ Zeuhl is an avant-garde fusion of progressive rock, jazz, and classical music ch
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 29</li>
             <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 30</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 68</li>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1574,11 +1574,11 @@ Zeuhl is an avant-garde fusion of progressive rock, jazz, and classical music ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 11</li>
-            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 13</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 24</li>
             <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 33</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 69</li>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 76</li>
+            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 87</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1618,15 +1618,15 @@ Zeuhl is an avant-garde fusion of progressive rock, jazz, and classical music ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 13</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 30</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 10</li>
+            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 11</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 12</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 37</li>
             <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 39</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 66</li>
             <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 81</li>
-            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 88</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 89</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 87</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 90</li>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1648,7 +1648,7 @@ Zeuhl is an avant-garde fusion of progressive rock, jazz, and classical music ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 78</li>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1728,8 +1728,8 @@ Zeuhl is an avant-garde fusion of progressive rock, jazz, and classical music ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 12</li>
-            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 68</li>
+            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 33</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1955,7 +1955,7 @@ Zeuhl is an avant-garde fusion of progressive rock, jazz, and classical music ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 26</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1997,7 +1997,7 @@ Zeuhl is an avant-garde fusion of progressive rock, jazz, and classical music ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 60</li>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -2072,10 +2072,10 @@ Zeuhl is an avant-garde fusion of progressive rock, jazz, and classical music ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 9</li>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 43</li>
-            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 67</li>
-            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 84</li>
+            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 17</li>
+            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 35</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 57</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 91</li>
         </ul>
       </td>
     </tr>

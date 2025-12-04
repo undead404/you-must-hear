@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T13:23:28.372Z
+date: 2025-12-04T11:53:33.434Z
 permalink: tags/rapcore
 title: rapcore
 ---
 
 ## rapcore
 
-Last updated: <time datetime="2025-11-25T13:23:28.372Z">Tue Nov 25 2025 15:23:28 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T11:53:33.434Z">Thu Dec 04 2025 13:53:33 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -42,10 +42,8 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 88</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 89</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 99</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 99</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 6</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -63,9 +61,8 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 10</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 92</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 92</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 41</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -88,10 +85,10 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 1</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 1</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 5</li>
             <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 95</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 96</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 100</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -109,11 +106,8 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 60</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 6</li>
             <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 68</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 76</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 78</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -131,10 +125,8 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 54</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 65</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 97</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 98</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 22</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -152,8 +144,8 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 70</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 81</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 15</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -172,7 +164,6 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -193,7 +184,6 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       <td>
         <ul>
             <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 65</li>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -216,7 +206,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 62</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 38</li>
             <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 95</li>
         </ul>
       </td>
@@ -271,10 +261,8 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 25</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 40</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 94</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 95</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 33</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -292,10 +280,8 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 41</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 59</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 96</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 97</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 28</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -313,9 +299,9 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 36</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 68</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 78</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 18</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 27</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -368,7 +354,6 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -423,8 +408,8 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 3</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 28</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 5</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -460,8 +445,8 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 94</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 99</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 11</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -479,9 +464,9 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 31</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 13</li>
             <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 35</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 86</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -500,8 +485,8 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 6</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 25</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 69</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -536,7 +521,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 79</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -572,8 +557,8 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 7</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 85</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 87</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -591,8 +576,8 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 25</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 97</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 70</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -611,6 +596,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -663,8 +649,8 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 74</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 90</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 23</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -755,8 +741,8 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 52</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 76</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 21</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -795,7 +781,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 66</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -869,8 +855,8 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 29</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 69</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 27</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -890,8 +876,8 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 40</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 77</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 24</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 41</li>
             <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 100</li>
         </ul>
       </td>
@@ -910,7 +896,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 64</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -964,7 +950,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 55</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1020,7 +1006,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a> # 76</li>
+            <li> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1042,6 +1028,23 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
+      <td>54</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b53443193e0c4b5d84acf6ee5cf821d1.png" alt="Cover for 9.0 Live" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005-11-01</td>
+      <td>Slipknot</td>
+      <td>9.0 Live</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf002e650cfd63417a2c18473e4975f9.png" alt="Cover for Greatest Hitz" style="max-width:120px; height:auto;" />
@@ -1055,7 +1058,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 51</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1109,6 +1112,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1163,7 +1167,6 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1257,11 +1260,11 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 1</li>
             <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 2</li>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 28</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 48</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 52</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 69</li>
             <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 97</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1289,24 +1292,6 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
     </tr>
     <tr>
-      <td>54</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b53443193e0c4b5d84acf6ee5cf821d1.png" alt="Cover for 9.0 Live" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>Slipknot</td>
-      <td>9.0 Live</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 46</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fda8cdee93eab75b3df3d014d78d0c40.png" alt="Cover for The Greatest Hits Vol.1" style="max-width:120px; height:auto;" />
@@ -1320,7 +1305,6 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1357,8 +1341,8 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 15</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 61</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1376,7 +1360,6 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1431,7 +1414,6 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1450,7 +1432,8 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 37</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 65</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1506,7 +1489,6 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 73</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 94</li>
         </ul>
       </td>
@@ -1560,10 +1542,8 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 38</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 54</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 95</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 96</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 30</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1601,7 +1581,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 69</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1664,10 +1644,10 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 2</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 25</li>
             <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 74</li>
             <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 93</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1711,7 +1691,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 54</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 45</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 62</li>
             <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 86</li>
             <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 96</li>
@@ -1750,7 +1730,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 87</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1794,7 +1774,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 55</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 44</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 64</li>
             <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 87</li>
             <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 97</li>
@@ -1840,7 +1820,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 88</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1865,8 +1845,8 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 31</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 92</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 8</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1902,8 +1882,7 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 43</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 89</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1925,9 +1904,9 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 5</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 18</li>
             <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 67</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 83</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1973,13 +1952,13 @@ Rapcore, also known as rap rock, is a music genre that combines elements of hip 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 4</li>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 54</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 77</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 79</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 80</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 85</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 94</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 6</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 17</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 18</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 46</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 66</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 82</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 82</li>
         </ul>
       </td>
     </tr>

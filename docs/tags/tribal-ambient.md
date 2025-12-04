@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T09:21:23.219Z
+date: 2025-12-04T12:09:57.735Z
 permalink: tags/tribal-ambient
 title: tribal ambient
 ---
 
 ## tribal ambient
 
-Last updated: <time datetime="2025-11-18T09:21:23.219Z">Tue Nov 18 2025 11:21:23 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T12:09:57.735Z">Thu Dec 04 2025 14:09:57 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -86,7 +86,7 @@ Tribal ambient music is a subgenre of ambient music that incorporates tribal rhy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 48</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -248,8 +248,8 @@ Tribal ambient music is a subgenre of ambient music that incorporates tribal rhy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 11</li>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 39</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 13</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -359,7 +359,7 @@ Tribal ambient music is a subgenre of ambient music that incorporates tribal rhy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 41</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -396,8 +396,8 @@ Tribal ambient music is a subgenre of ambient music that incorporates tribal rhy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 26</li>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 94</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 7</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -468,7 +468,7 @@ Tribal ambient music is a subgenre of ambient music that incorporates tribal rhy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 62</li>
+            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -527,7 +527,7 @@ Tribal ambient music is a subgenre of ambient music that incorporates tribal rhy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 39</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -599,9 +599,8 @@ Tribal ambient music is a subgenre of ambient music that incorporates tribal rhy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 3</li>
-            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 49</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 92</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 9</li>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -628,9 +627,9 @@ Tribal ambient music is a subgenre of ambient music that incorporates tribal rhy
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 19</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 26</li>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 43</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 70</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -649,7 +648,7 @@ Tribal ambient music is a subgenre of ambient music that incorporates tribal rhy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 2</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -697,6 +696,7 @@ Tribal ambient music is a subgenre of ambient music that incorporates tribal rhy
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/860a933581d310ebc2e6a9eecc45b828.png" alt="Cover for Tidvatten" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Ulf Söderberg</td>
@@ -709,7 +709,7 @@ Tribal ambient music is a subgenre of ambient music that incorporates tribal rhy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 36</li>
+            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -764,8 +764,8 @@ Tribal ambient music is a subgenre of ambient music that incorporates tribal rhy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 13</li>
             <li> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a> # 41</li>
+            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -784,7 +784,7 @@ Tribal ambient music is a subgenre of ambient music that incorporates tribal rhy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 83</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -804,7 +804,7 @@ Tribal ambient music is a subgenre of ambient music that incorporates tribal rhy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 70</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -829,7 +829,7 @@ Tribal ambient music is a subgenre of ambient music that incorporates tribal rhy
     <tr>
       <td>1</td>
       <td>
-          <img src="https://i.discogs.com/fxk4g6KOCGLsO-PCqBbUWFzMCiNXc8VZycJ1I6_IFuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0ODc0/Mi0xMjU0NDU5ODE3/LmpwZWc.jpeg" alt="Cover for Heru-Ra-Ha" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ec2d8b7204a4518b625d9daaa566900.png" alt="Cover for Heru-Ra-Ha" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Terroritmo</td>
@@ -868,9 +868,9 @@ Tribal ambient music is a subgenre of ambient music that incorporates tribal rhy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 20</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 39</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 68</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 33</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 57</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -888,6 +888,7 @@ Tribal ambient music is a subgenre of ambient music that incorporates tribal rhy
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -931,7 +932,7 @@ Tribal ambient music is a subgenre of ambient music that incorporates tribal rhy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 7</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1108,15 +1109,15 @@ Tribal ambient music is a subgenre of ambient music that incorporates tribal rhy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 1</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 72</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 3</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/BQKA23--4zSBZUaxIAq7dxE5YgkZUCHQ8ayOwsjIxFk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzUx/MC0xMTA2NTY4MDA3/LmpwZw.jpeg" alt="Cover for Prima dell&#39;Aurora" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/52356633d59ba58450f5ef70750ee6f7.png" alt="Cover for Prima dell&#39;Aurora" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Ain Soph</td>
@@ -1131,7 +1132,7 @@ Tribal ambient music is a subgenre of ambient music that incorporates tribal rhy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 72</li>
+            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1233,7 +1234,7 @@ Tribal ambient music is a subgenre of ambient music that incorporates tribal rhy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 68</li>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1256,8 +1257,8 @@ Tribal ambient music is a subgenre of ambient music that incorporates tribal rhy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 44</li>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 88</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 13</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1450,8 +1451,8 @@ Tribal ambient music is a subgenre of ambient music that incorporates tribal rhy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 14</li>
-            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 52</li>
+            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 49</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1492,7 +1493,7 @@ Tribal ambient music is a subgenre of ambient music that incorporates tribal rhy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 61</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1530,7 +1531,7 @@ Tribal ambient music is a subgenre of ambient music that incorporates tribal rhy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 50</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1585,7 +1586,7 @@ Tribal ambient music is a subgenre of ambient music that incorporates tribal rhy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 72</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1645,8 +1646,8 @@ Tribal ambient music is a subgenre of ambient music that incorporates tribal rhy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 5</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 22</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1697,10 +1698,10 @@ Tribal ambient music is a subgenre of ambient music that incorporates tribal rhy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 27</li>
             <li> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a> # 33</li>
-            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 39</li>
             <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 56</li>
+            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 62</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1726,10 +1727,10 @@ Tribal ambient music is a subgenre of ambient music that incorporates tribal rhy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 54</li>
-            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 80</li>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 84</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 86</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 13</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 17</li>
+            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 21</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 47</li>
             <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 93</li>
             <li> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a> # 98</li>
         </ul>
@@ -1752,7 +1753,7 @@ Tribal ambient music is a subgenre of ambient music that incorporates tribal rhy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 69</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1799,11 +1800,11 @@ Tribal ambient music is a subgenre of ambient music that incorporates tribal rhy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 47</li>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 47</li>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 78</li>
-            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 78</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 83</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 16</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 23</li>
+            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 23</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 48</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 54</li>
             <li> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a> # 95</li>
         </ul>
       </td>
@@ -1837,12 +1838,12 @@ Tribal ambient music is a subgenre of ambient music that incorporates tribal rhy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 19</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 20</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 31</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 44</li>
-            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 66</li>
-            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 82</li>
+            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 19</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 23</li>
+            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 35</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 57</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 70</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1925,8 +1926,8 @@ Tribal ambient music is a subgenre of ambient music that incorporates tribal rhy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 14</li>
-            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 75</li>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 25</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1971,7 +1972,8 @@ Tribal ambient music is a subgenre of ambient music that incorporates tribal rhy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 58</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 43</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1991,7 +1993,7 @@ Tribal ambient music is a subgenre of ambient music that incorporates tribal rhy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 38</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 63</li>
         </ul>
       </td>
     </tr>

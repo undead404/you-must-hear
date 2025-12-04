@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T20:39:37.959Z
+date: 2025-12-04T12:53:27.708Z
 permalink: tags/old-school-ebm
 title: old school ebm
 ---
 
 ## old school ebm
 
-Last updated: <time datetime="2025-11-26T20:39:37.959Z">Wed Nov 26 2025 22:39:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T12:53:27.708Z">Thu Dec 04 2025 14:53:27 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -175,7 +175,6 @@ Old school EBM (Electronic Body Music) is a hard-hitting industrial dance genre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -194,7 +193,7 @@ Old school EBM (Electronic Body Music) is a hard-hitting industrial dance genre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 91</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -249,7 +248,7 @@ Old school EBM (Electronic Body Music) is a hard-hitting industrial dance genre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 93</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -286,7 +285,7 @@ Old school EBM (Electronic Body Music) is a hard-hitting industrial dance genre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 62</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -325,7 +324,7 @@ Old school EBM (Electronic Body Music) is a hard-hitting industrial dance genre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 53</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -471,7 +470,7 @@ Old school EBM (Electronic Body Music) is a hard-hitting industrial dance genre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 20</li>
+            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -587,7 +586,7 @@ Old school EBM (Electronic Body Music) is a hard-hitting industrial dance genre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 25</li>
+            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -650,7 +649,7 @@ Old school EBM (Electronic Body Music) is a hard-hitting industrial dance genre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/svensk" | relative_url }}">svensk</a> # 19</li>
+            <li> <a href="{{ "/tags/svensk" | relative_url }}">svensk</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -674,8 +673,8 @@ Old school EBM (Electronic Body Music) is a hard-hitting industrial dance genre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 25</li>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 51</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 49</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1044,7 +1043,7 @@ Old school EBM (Electronic Body Music) is a hard-hitting industrial dance genre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 32</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1512,7 +1511,7 @@ Old school EBM (Electronic Body Music) is a hard-hitting industrial dance genre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 5</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1836,7 +1835,7 @@ Old school EBM (Electronic Body Music) is a hard-hitting industrial dance genre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 1</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1883,10 +1882,10 @@ Old school EBM (Electronic Body Music) is a hard-hitting industrial dance genre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 39</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 59</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 66</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 75</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 26</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 35</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 41</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1936,12 +1935,12 @@ Old school EBM (Electronic Body Music) is a hard-hitting industrial dance genre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 27</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 24</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 30</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 31</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 34</li>
+            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 37</li>
             <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 61</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 64</li>
-            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 64</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 71</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1967,7 +1966,7 @@ Old school EBM (Electronic Body Music) is a hard-hitting industrial dance genre 
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/qCsukQYMA0L72MQ80upgllHqDqz6qwV_sbsfe2Qf184/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjYy/Mzk3LTE2MzE4NjQy/MDktNzE5NC5qcGVn.jpeg" alt="Cover for Deviator" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0419eade01e15d6b5c89b944156e4ccf.png" alt="Cover for Deviator" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-09-17</td>
       <td>Noise Unit</td>
@@ -1985,7 +1984,7 @@ Old school EBM (Electronic Body Music) is a hard-hitting industrial dance genre 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 72</li>
+            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 29</li>
         </ul>
       </td>
     </tr>

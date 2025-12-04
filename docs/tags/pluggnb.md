@@ -9,6 +9,10 @@ title: pluggnb
 
 Last updated: <time datetime="2025-12-04T11:52:24.595Z">Thu Dec 04 2025 13:52:24 GMT+0200 (Eastern European Standard Time)</time>
 
+### Description
+
+Pluggnb is a hazy, atmospheric fusion of plugg beats and R&amp;B melodies that emerged from online rap communities in the late 2010s. The sound features dreamy, often melancholic vocals over guitar-driven or synth-heavy instrumentals with bouncy, hypnotic 808 patterns. It blends emo sensibilities with trap&#39;s energy, creating an introspective yet melodic style popular among internet-native listeners.
+
 ### 100 chronological releases
 
 <table>

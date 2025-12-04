@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T20:44:37.980Z
+date: 2025-12-04T13:25:16.514Z
 permalink: tags/norwegian
 title: norwegian
 ---
 
 ## norwegian
 
-Last updated: <time datetime="2025-11-26T20:44:37.980Z">Wed Nov 26 2025 22:44:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T13:25:16.514Z">Thu Dec 04 2025 15:25:16 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -67,8 +67,8 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 27</li>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 27</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 60</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -89,7 +89,7 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 89</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 12</li>
             <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 100</li>
         </ul>
       </td>
@@ -117,12 +117,12 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 51</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 53</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 53</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 54</li>
+            <li> <a href="{{ "/tags/norge" | relative_url }}">norge</a> # 4</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 47</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 48</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 48</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 50</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 63</li>
-            <li> <a href="{{ "/tags/norge" | relative_url }}">norge</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -146,10 +146,10 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 82</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 82</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 83</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 83</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 18</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 18</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 19</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 19</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 90</li>
         </ul>
       </td>
@@ -171,7 +171,7 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 35</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 64</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 95</li>
         </ul>
       </td>
@@ -198,13 +198,13 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 19</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 54</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 56</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 57</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 57</li>
+            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 19</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 44</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 44</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 45</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 47</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 64</li>
-            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 82</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -228,11 +228,11 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 37</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 44</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 44</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 45</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 56</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 56</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 56</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 57</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -276,10 +276,10 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 53</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 55</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 56</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 56</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 45</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 45</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 46</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -320,26 +320,26 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 19</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 55</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 58</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 59</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 72</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 72</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 77</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 85</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 85</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 86</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 86</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 86</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 1</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 1</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 3</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 13</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 15</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 15</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 15</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 16</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 16</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 24</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 28</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 29</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 42</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 43</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 46</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 82</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 87</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 88</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 89</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 93</li>
             <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 97</li>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 98</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 100</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -359,8 +359,8 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 11</li>
             <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 82</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -403,10 +403,10 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 49</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 51</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 52</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 52</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 49</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 49</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 50</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 52</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 61</li>
         </ul>
       </td>
@@ -425,7 +425,7 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 78</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -460,17 +460,17 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 16</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 56</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 57</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 70</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 70</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 75</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 83</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 83</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 84</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 84</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 84</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 17</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 17</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 17</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 18</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 18</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 26</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 30</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 31</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 44</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 45</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 85</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 85</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 87</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 91</li>
@@ -509,17 +509,17 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       <td>
         <ul>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 6</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 23</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 60</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 64</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 73</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 74</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 78</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 86</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 87</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 87</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 87</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 87</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 14</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 14</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 14</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 14</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 15</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 23</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 27</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 27</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 37</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 41</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 78</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 88</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 90</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 94</li>
@@ -543,8 +543,8 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 63</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 67</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 34</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -579,20 +579,20 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 10</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 11</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 11</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 11</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 12</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 12</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 17</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 20</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 22</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 27</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 29</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 34</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 36</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 72</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 74</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 78</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 81</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 84</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 89</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 89</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 65</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 90</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 90</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 90</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 90</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 91</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 92</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 96</li>
         </ul>
@@ -622,12 +622,12 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 88</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 90</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 93</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 93</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 93</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 94</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 7</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 8</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 8</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 8</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 11</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 13</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 99</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 99</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 99</li>
@@ -666,7 +666,7 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 22</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -687,7 +687,7 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 53</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -711,8 +711,8 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 16</li>
             <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 73</li>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -827,7 +827,7 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 86</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -887,10 +887,10 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 63</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 63</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 63</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 64</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 37</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 38</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 38</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 38</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 71</li>
         </ul>
       </td>
@@ -909,7 +909,7 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 4</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -934,11 +934,11 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 35</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 43</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 43</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 44</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 55</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 57</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 57</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 58</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1002,11 +1002,11 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 42</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 46</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 46</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 46</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 55</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 55</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 55</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 57</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1028,7 +1028,7 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 98</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1087,9 +1087,9 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 81</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 89</li>
-            <li> <a href="{{ "/tags/norge" | relative_url }}">norge</a> # 100</li>
+            <li> <a href="{{ "/tags/norge" | relative_url }}">norge</a> # 1</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 12</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1113,10 +1113,10 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 78</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 78</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 79</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 80</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 21</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 22</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 23</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 23</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 87</li>
         </ul>
       </td>
@@ -1140,9 +1140,9 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 68</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 72</li>
-            <li> <a href="{{ "/tags/norge" | relative_url }}">norge</a> # 99</li>
+            <li> <a href="{{ "/tags/norge" | relative_url }}">norge</a> # 2</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 29</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1162,7 +1162,7 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       <td>
         <ul>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 27</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 30</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1185,10 +1185,10 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 46</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 49</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 49</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 50</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 51</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 52</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 52</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 55</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 59</li>
         </ul>
       </td>
@@ -1210,8 +1210,8 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 43</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 77</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 23</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1234,10 +1234,10 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 88</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 88</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 89</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 89</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 12</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 12</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 13</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1264,14 +1264,14 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 87</li>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 98</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 98</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 99</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 99</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 99</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 99</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 99</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 2</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 2</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 2</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 2</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 2</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 3</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 3</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1299,11 +1299,11 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 29</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 39</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 39</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 40</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 51</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 61</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 61</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 62</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1324,8 +1324,8 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 39</li>
-            <li> <a href="{{ "/tags/norge" | relative_url }}">norge</a> # 94</li>
+            <li> <a href="{{ "/tags/norge" | relative_url }}">norge</a> # 7</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1350,11 +1350,11 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 30</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 40</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 40</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 41</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 52</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 60</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 60</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 61</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1372,19 +1372,19 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 45</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 45</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 60</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 62</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 63</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 74</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 76</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 76</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 77</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 78</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 23</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 24</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 25</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 25</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 26</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 38</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 39</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 40</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 56</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 56</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 82</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 85</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 85</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1438,20 +1438,20 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 23</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 7</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 9</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 9</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 10</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 10</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 12</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 16</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 18</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 21</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 25</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 40</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 42</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 76</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 80</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 82</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 85</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 89</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 91</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 91</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 92</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 92</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 59</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 78</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 94</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 94</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 96</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 98</li>
         </ul>
@@ -1476,8 +1476,8 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 41</li>
-            <li> <a href="{{ "/tags/norge" | relative_url }}">norge</a> # 96</li>
+            <li> <a href="{{ "/tags/norge" | relative_url }}">norge</a> # 5</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1505,13 +1505,13 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 10</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 13</li>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 44</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 52</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 54</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 54</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 55</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 46</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 47</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 47</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 49</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 56</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 88</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1535,10 +1535,10 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 56</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 58</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 59</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 59</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 42</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 42</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 43</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 45</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 66</li>
         </ul>
       </td>
@@ -1563,10 +1563,10 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 59</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 60</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 60</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 61</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 40</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 41</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 41</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 42</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 67</li>
         </ul>
       </td>
@@ -1595,17 +1595,17 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 1</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 5</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 8</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 9</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 9</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 11</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 24</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 64</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 77</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 80</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 85</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 90</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 92</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 92</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 93</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 95</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 95</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1632,9 +1632,9 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 5</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 17</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 61</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 81</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1655,7 +1655,7 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 32</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1679,10 +1679,10 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 90</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 90</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 91</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 91</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 10</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 10</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 11</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 11</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 97</li>
         </ul>
       </td>
@@ -1707,11 +1707,11 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 28</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 38</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 38</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 39</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 50</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 62</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 62</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 63</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1735,10 +1735,10 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 64</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 64</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 64</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 65</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 36</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 37</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 37</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 37</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 73</li>
         </ul>
       </td>
@@ -1763,10 +1763,10 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 70</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 71</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 71</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 73</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 28</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 30</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 30</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 31</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 79</li>
         </ul>
       </td>
@@ -1788,7 +1788,7 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 88</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1812,10 +1812,10 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 74</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 74</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 75</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 76</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 25</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 26</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 27</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 27</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 83</li>
         </ul>
       </td>
@@ -1839,11 +1839,11 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 87</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 96</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 96</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 96</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 96</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 5</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 5</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 5</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 5</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1867,10 +1867,10 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 80</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 81</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 82</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 82</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 19</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 19</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 20</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 21</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 89</li>
         </ul>
       </td>
@@ -1892,8 +1892,8 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 40</li>
-            <li> <a href="{{ "/tags/norge" | relative_url }}">norge</a> # 95</li>
+            <li> <a href="{{ "/tags/norge" | relative_url }}">norge</a> # 6</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1917,10 +1917,10 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 77</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 77</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 78</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 79</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 22</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 23</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 24</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 24</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 86</li>
         </ul>
       </td>
@@ -1944,10 +1944,10 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 69</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 70</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 70</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 72</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 29</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 31</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 31</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 32</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 78</li>
         </ul>
       </td>
@@ -2004,19 +2004,19 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 50</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 64</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 3</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 5</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 6</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 7</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 7</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 7</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 7</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 10</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 12</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 15</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 37</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 51</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 65</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 86</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 89</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 91</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 94</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 94</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 94</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 94</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 95</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 96</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 98</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 100</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 100</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 100</li>
@@ -2045,12 +2045,12 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 55</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 57</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 58</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 58</li>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 5</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 43</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 43</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 44</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 46</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 65</li>
-            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -2073,10 +2073,10 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 95</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 95</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 95</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 95</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 6</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 6</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 6</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -2099,10 +2099,10 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 100</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 100</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 100</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 100</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 1</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 1</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 1</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -2126,10 +2126,10 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 65</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 65</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 65</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 66</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 35</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 36</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 36</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 36</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 74</li>
         </ul>
       </td>
@@ -2154,8 +2154,8 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       <td>
         <ul>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 11</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 39</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 48</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -2190,17 +2190,17 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 17</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 57</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 58</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 71</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 71</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 76</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 84</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 84</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 85</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 85</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 85</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 16</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 16</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 16</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 17</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 17</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 25</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 29</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 30</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 43</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 44</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 84</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 86</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 88</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 92</li>
@@ -2227,10 +2227,10 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 67</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 67</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 68</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 68</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 33</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 33</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 34</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 34</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 76</li>
         </ul>
       </td>
@@ -2254,10 +2254,10 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 97</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 97</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 97</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 97</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 4</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 4</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 4</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -2281,10 +2281,10 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 72</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 72</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 73</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 74</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 27</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 28</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 29</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 29</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 81</li>
         </ul>
       </td>
@@ -2311,11 +2311,11 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 33</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 41</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 41</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 42</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 53</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 59</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 59</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 60</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -2341,10 +2341,10 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 26</li>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 47</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 57</li>
-            <li> <a href="{{ "/tags/norge" | relative_url }}">norge</a> # 98</li>
+            <li> <a href="{{ "/tags/norge" | relative_url }}">norge</a> # 3</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 44</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 53</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -2371,14 +2371,14 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 85</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 96</li>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 97</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 98</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 98</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 98</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 98</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 98</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 3</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 3</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 3</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 3</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 3</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 4</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 5</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -2402,10 +2402,10 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 44</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 47</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 47</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 47</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 54</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 54</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 54</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 57</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 58</li>
         </ul>
       </td>
@@ -2432,9 +2432,9 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 62</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 62</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 63</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 38</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 39</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 39</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 70</li>
         </ul>
       </td>
@@ -2481,10 +2481,10 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 73</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 73</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 74</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 75</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 26</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 27</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 28</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 28</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 82</li>
         </ul>
       </td>
@@ -2516,13 +2516,13 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 75</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 76</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 79</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 79</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 80</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 81</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 93</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 8</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 20</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 21</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 22</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 22</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 25</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -2546,10 +2546,10 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 47</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 50</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 50</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 51</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 50</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 51</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 51</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 54</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 60</li>
         </ul>
       </td>
@@ -2594,10 +2594,10 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 60</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 61</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 61</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 62</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 39</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 40</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 40</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 41</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 68</li>
         </ul>
       </td>
@@ -2622,11 +2622,11 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 34</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 42</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 42</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 43</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 54</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 58</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 58</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 59</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -2647,7 +2647,7 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 50</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -2673,13 +2673,13 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 42</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 75</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 75</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 76</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 77</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 13</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 24</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 25</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 26</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 26</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 59</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 84</li>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -2703,10 +2703,10 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 66</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 66</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 66</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 67</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 34</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 35</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 35</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 35</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 75</li>
         </ul>
       </td>
@@ -2730,10 +2730,10 @@ Norwegian music refers to the music of Norway or by Norwegian artists. It includ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 68</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 69</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 69</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 69</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 32</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 32</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 32</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 33</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 77</li>
         </ul>
       </td>

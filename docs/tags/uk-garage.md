@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-22T17:06:51.354Z
+date: 2025-12-04T11:53:28.421Z
 permalink: tags/uk-garage
 title: uk garage
 ---
 
 ## uk garage
 
-Last updated: <time datetime="2025-11-22T17:06:51.354Z">Sat Nov 22 2025 19:06:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T11:53:28.421Z">Thu Dec 04 2025 13:53:28 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -67,8 +67,8 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 49</li>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 97</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 52</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -110,10 +110,10 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 35</li>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 78</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 2</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 22</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 66</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 95</li>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -132,7 +132,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 74</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -161,8 +161,9 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 4</li>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 94</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 7</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 93</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -181,7 +182,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 85</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -201,7 +202,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 77</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -220,7 +221,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 65</li>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -282,9 +283,9 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 18</li>
             <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 70</li>
-            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 83</li>
-            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 83</li>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -306,7 +307,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 77</li>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -364,7 +365,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 33</li>
+            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -384,7 +385,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 15</li>
+            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -404,7 +405,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 65</li>
+            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -442,7 +443,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 77</li>
+            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -481,7 +482,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 93</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -525,8 +526,8 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 82</li>
-            <li> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a> # 90</li>
+            <li> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a> # 9</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 19</li>
             <li> <a href="{{ "/tags/deep-dubstep" | relative_url }}">deep dubstep</a> # 95</li>
         </ul>
       </td>
@@ -548,7 +549,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 69</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -646,8 +647,8 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 59</li>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 92</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 9</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -667,7 +668,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 73</li>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -688,7 +689,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 34</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -729,7 +730,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 92</li>
+            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -749,10 +750,10 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 69</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 4</li>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 32</li>
             <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 88</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 92</li>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -792,8 +793,8 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 7</li>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 76</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 6</li>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -853,9 +854,9 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 23</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 62</li>
             <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 77</li>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -875,6 +876,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -931,8 +933,8 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 63</li>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 100</li>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 1</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -952,7 +954,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 95</li>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1011,7 +1013,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 83</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1076,6 +1078,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
     <tr>
       <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/72d512f1a666d1bb3f5e516f38391809.png" alt="Cover for Ghosst(s)" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06-11</td>
       <td>Lorn</td>
@@ -1108,7 +1111,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 94</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1163,7 +1166,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 12</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1222,7 +1225,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 78</li>
+            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1242,8 +1245,8 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 42</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 76</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 22</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 59</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 82</li>
         </ul>
       </td>
@@ -1264,7 +1267,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 93</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1300,12 +1303,12 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 31</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 25</li>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 30</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 33</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 34</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 35</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 64</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 67</li>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 68</li>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 71</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1365,7 +1368,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 18</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 80</li>
             <li> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a> # 91</li>
         </ul>
       </td>
@@ -1442,7 +1445,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 88</li>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1464,8 +1467,8 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 15</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 79</li>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1485,10 +1488,10 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 35</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 44</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 28</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 39</li>
             <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 50</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 63</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 57</li>
             <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 86</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 99</li>
         </ul>
@@ -1533,7 +1536,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 100</li>
+            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1555,7 +1558,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 51</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1578,7 +1581,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       <td>
         <ul>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 50</li>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 63</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 65</li>
             <li> <a href="{{ "/tags/deep-dubstep" | relative_url }}">deep dubstep</a> # 98</li>
         </ul>
       </td>
@@ -1626,8 +1629,8 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 34</li>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 73</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 28</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1651,7 +1654,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 89</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1696,8 +1699,8 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 4</li>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 55</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 3</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1742,11 +1745,11 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 85</li>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 90</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 97</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 99</li>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 100</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 1</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 2</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 3</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 11</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1792,9 +1795,9 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 41</li>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 91</li>
-            <li> <a href="{{ "/tags/garage-house" | relative_url }}">garage house</a> # 98</li>
+            <li> <a href="{{ "/tags/garage-house" | relative_url }}">garage house</a> # 2</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 10</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1837,11 +1840,11 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 2</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 11</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 49</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 58</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 63</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 80</li>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 90</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1884,7 +1887,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       <td>
         <ul>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 49</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 68</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1907,9 +1910,9 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 63</li>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 83</li>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 91</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 10</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 17</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1938,10 +1941,10 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 17</li>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 72</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 79</li>
-            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 91</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 26</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 81</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 82</li>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1962,8 +1965,8 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 96</li>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 98</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 3</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1984,7 +1987,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 49</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -2003,8 +2006,8 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 19</li>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 96</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 5</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -2047,9 +2050,9 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 1</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 9</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 87</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 90</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2074,8 +2077,8 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 57</li>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 62</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 43</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -2095,7 +2098,7 @@ UK Garage is a fast-paced electronic dance music genre that emerged from British
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 92</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 9</li>
         </ul>
       </td>
     </tr>

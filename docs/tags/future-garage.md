@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-22T17:09:38.045Z
+date: 2025-12-04T12:53:22.562Z
 permalink: tags/future-garage
 title: future garage
 ---
 
 ## future garage
 
-Last updated: <time datetime="2025-11-22T17:09:38.045Z">Sat Nov 22 2025 19:09:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T12:53:22.562Z">Thu Dec 04 2025 14:53:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,10 +47,10 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 35</li>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 78</li>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 97</li>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 99</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 2</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 4</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 22</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -90,7 +90,7 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 33</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -109,7 +109,7 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 32</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -128,7 +128,7 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 2</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -146,9 +146,9 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 61</li>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 65</li>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 89</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 12</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 36</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -170,8 +170,8 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 81</li>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 82</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 18</li>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -215,26 +215,6 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
     </tr>
     <tr>
-      <td>85</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3ecb11c15a9b1c72082558c4a350a79.png" alt="Cover for Playing Robots Into Heaven" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010</td>
-      <td>James Blake</td>
-      <td>Playing Robots Into Heaven</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 90</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/814496147c56463caea77c8406175639.png" alt="Cover for We&#39;re New Here" style="max-width:120px; height:auto;" />
@@ -252,6 +232,27 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3ecb11c15a9b1c72082558c4a350a79.png" alt="Cover for Playing Robots Into Heaven" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010</td>
+      <td>James Blake</td>
+      <td>Playing Robots Into Heaven</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -272,7 +273,7 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 80</li>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -312,8 +313,8 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 7</li>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 97</li>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 4</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -332,7 +333,7 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 7</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -407,7 +408,7 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 90</li>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -427,7 +428,7 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 61</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -446,7 +447,7 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 54</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -501,7 +502,7 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 84</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -524,7 +525,7 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 98</li>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -580,10 +581,10 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 42</li>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 69</li>
-            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 88</li>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 97</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 4</li>
+            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 13</li>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 32</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -630,6 +631,7 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
     <tr>
       <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b7f9101ca0341f3957276890a805947.png" alt="Cover for Room(s)" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-07-25</td>
       <td>Machinedrum</td>
@@ -637,14 +639,12 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/juke" | relative_url }}">juke</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 68</li>
-            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 100</li>
+            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 18</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -666,8 +666,8 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 17</li>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 76</li>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 25</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -705,7 +705,7 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 84</li>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -725,9 +725,9 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 3</li>
-            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 77</li>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 78</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 23</li>
+            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 24</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -745,6 +745,7 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -766,7 +767,7 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 94</li>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -806,7 +807,7 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 66</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -825,7 +826,7 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 89</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -843,7 +844,7 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 83</li>
+            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -898,7 +899,7 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 18</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -919,7 +920,7 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 16</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -943,8 +944,8 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 34</li>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 64</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 35</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -985,9 +986,9 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 38</li>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 42</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 76</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 22</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 59</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1006,7 +1007,7 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 73</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1062,7 +1063,7 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 24</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1099,7 +1100,7 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 67</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1117,8 +1118,8 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 19</li>
-            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 95</li>
+            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 6</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1137,12 +1138,12 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 31</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 67</li>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 68</li>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 71</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 76</li>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 91</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 10</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 25</li>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 30</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 33</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 34</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1161,7 +1162,7 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 74</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1186,7 +1187,7 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 65</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1225,7 +1226,7 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 75</li>
+            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1246,7 +1247,7 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 97</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1267,7 +1268,7 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 87</li>
+            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1286,7 +1287,7 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 32</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1329,9 +1330,9 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 20</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 25</li>
             <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 69</li>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 77</li>
-            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1354,17 +1355,18 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 90</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 94</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 2</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 7</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 11</li>
             <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 98</li>
             <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 98</li>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a002eec0620a435dc3dfb882fa9d9825.png" alt="Cover for Wonder Where We Land" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-09-22</td>
       <td>SBTRKT</td>
@@ -1413,7 +1415,7 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 92</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1435,7 +1437,7 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 89</li>
+            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1455,12 +1457,12 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 35</li>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 37</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 44</li>
+            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 15</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 28</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 39</li>
             <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 50</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 63</li>
-            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 86</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 57</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1504,7 +1506,7 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 96</li>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1526,8 +1528,8 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 69</li>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 83</li>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 18</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1545,11 +1547,9 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 6</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 21</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 63</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 88</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 93</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 71</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 72</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1571,8 +1571,8 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 59</li>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 63</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 42</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 65</li>
             <li> <a href="{{ "/tags/deep-dubstep" | relative_url }}">deep dubstep</a> # 98</li>
         </ul>
       </td>
@@ -1637,7 +1637,7 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 13</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1699,7 +1699,7 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 88</li>
+            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1757,12 +1757,12 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 61</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 2</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 6</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 64</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 86</li>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 93</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 95</li>
             <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 99</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1839,11 +1839,11 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 61</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 64</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 79</li>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 98</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 99</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 2</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 3</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 20</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 37</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1868,8 +1868,8 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 16</li>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 55</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 46</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1893,7 +1893,7 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 55</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1916,8 +1916,8 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 5</li>
-            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 98</li>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 3</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1980,11 +1980,11 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 2</li>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 58</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 58</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 11</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 43</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 63</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 80</li>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 90</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2005,7 +2005,7 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 26</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -2029,10 +2029,10 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 36</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 23</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 41</li>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 44</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 62</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 75</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 78</li>
             <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 97</li>
         </ul>
       </td>
@@ -2058,7 +2058,7 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/A_te3tQeDoVMFo47U37WPpcqGL9JZmY_qGaDis2JUYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzUw/Nzc0LTE3MTYzODg4/NTgtNTk5Mi5qcGVn.jpeg" alt="Cover for The After Taste" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0930d69e3171c1b2b1edb7253517dea9.png" alt="Cover for The After Taste" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-05</td>
       <td>Kenya Grace</td>
@@ -2072,8 +2072,8 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 40</li>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 89</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 12</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -2097,9 +2097,9 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 90</li>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 92</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 100</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 1</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 9</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -2117,4 +2117,4 @@ Future garage is an electronic music genre that emerged in the late 2000s, blend
 - [downtempo]({{ "/tags/downtempo" | relative_url }})
 - [garage]({{ "/tags/garage" | relative_url }})
 - [uk funky]({{ "/tags/uk-funky" | relative_url }})
-- [chillout]({{ "/tags/chillout" | relative_url }})
+- [techno]({{ "/tags/techno" | relative_url }})

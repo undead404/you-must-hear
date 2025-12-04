@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T16:13:28.040Z
+date: 2025-12-04T12:44:40.501Z
 permalink: tags/ukraine
 title: ukraine
 ---
 
 ## ukraine
 
-Last updated: <time datetime="2025-10-28T16:13:28.040Z">Tue Oct 28 2025 18:13:28 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T12:44:40.501Z">Thu Dec 04 2025 14:44:40 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -42,7 +42,7 @@ Music tagged &quot;ukraine&quot; represents the diverse sonic landscape of Ukrai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 72</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -79,7 +79,7 @@ Music tagged &quot;ukraine&quot; represents the diverse sonic landscape of Ukrai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-guitar" | relative_url }}">jazz guitar</a> # 53</li>
+            <li> <a href="{{ "/tags/jazz-guitar" | relative_url }}">jazz guitar</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -142,9 +142,9 @@ Music tagged &quot;ukraine&quot; represents the diverse sonic landscape of Ukrai
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 17</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 28</li>
             <li> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a> # 36</li>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 72</li>
-            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -195,12 +195,14 @@ Music tagged &quot;ukraine&quot; represents the diverse sonic landscape of Ukrai
       <td>Промені Сліз</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/love-metal" | relative_url }}">love metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a></li>
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/love-metal" | relative_url }}">love metal</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -385,7 +387,7 @@ Music tagged &quot;ukraine&quot; represents the diverse sonic landscape of Ukrai
     <tr>
       <td>1</td>
       <td>
-          <img src="https://i.discogs.com/7qp3JFIsxJKLz9lV1wfZvqkP2ajG-5bdDC9qnMAPYxU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjIx/NTctMTQ3ODQ0MTQy/NS0zMTQ5LmpwZWc.jpeg" alt="Cover for Дефиниция Свободы" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e2c9c675bc9449f8ec8d12617761576.png" alt="Cover for Дефиниция Свободы" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-02-26</td>
       <td>Snuff</td>
@@ -427,7 +429,7 @@ Music tagged &quot;ukraine&quot; represents the diverse sonic landscape of Ukrai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 90</li>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -488,7 +490,7 @@ Music tagged &quot;ukraine&quot; represents the diverse sonic landscape of Ukrai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a> # 75</li>
+            <li> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -529,9 +531,9 @@ Music tagged &quot;ukraine&quot; represents the diverse sonic landscape of Ukrai
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a> # 3</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 20</li>
             <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 61</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 63</li>
-            <li> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -617,7 +619,7 @@ Music tagged &quot;ukraine&quot; represents the diverse sonic landscape of Ukrai
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/e2G5--TcBCm6n61vjf2EjtoPtEar4qo25nUM6b8FURI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTk1/NTYxLTE0OTMyMTE1/OTUtOTI5Ni5qcGVn.jpeg" alt="Cover for Time Of Defeats" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b62ba965302145d8bad375136e179c8e.png" alt="Cover for Time Of Defeats" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Time Of Defeats</td>
@@ -632,7 +634,7 @@ Music tagged &quot;ukraine&quot; represents the diverse sonic landscape of Ukrai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 7</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -754,8 +756,8 @@ Music tagged &quot;ukraine&quot; represents the diverse sonic landscape of Ukrai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-thrash-metal" | relative_url }}">blackened thrash metal</a> # 16</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 74</li>
+            <li> <a href="{{ "/tags/blackened-thrash-metal" | relative_url }}">blackened thrash metal</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -775,7 +777,7 @@ Music tagged &quot;ukraine&quot; represents the diverse sonic landscape of Ukrai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 22</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -794,7 +796,7 @@ Music tagged &quot;ukraine&quot; represents the diverse sonic landscape of Ukrai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a> # 21</li>
+            <li> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -918,6 +920,7 @@ Music tagged &quot;ukraine&quot; represents the diverse sonic landscape of Ukrai
     <tr>
       <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff804afebfe4459a98175b00b7882e4e.png" alt="Cover for Memories" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-29</td>
       <td>Endless Melancholy</td>
@@ -943,8 +946,8 @@ Music tagged &quot;ukraine&quot; represents the diverse sonic landscape of Ukrai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 5</li>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 70</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 31</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1007,6 +1010,7 @@ Music tagged &quot;ukraine&quot; represents the diverse sonic landscape of Ukrai
     <tr>
       <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5e241a2c2f040cf96226960cfc79ebb.png" alt="Cover for Before, After" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-07-03</td>
       <td>Endless Melancholy</td>
@@ -1017,16 +1021,17 @@ Music tagged &quot;ukraine&quot; represents the diverse sonic landscape of Ukrai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 40</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 12</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 23</li>
             <li> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a> # 46</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 83</li>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 89</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10c62e91340e4ac898136a2e1ed009cf.png" alt="Cover for Reply from space" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-07-26</td>
       <td>The Cancel</td>
@@ -1038,13 +1043,14 @@ Music tagged &quot;ukraine&quot; represents the diverse sonic landscape of Ukrai
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/dl6-0u1PQukKxC_pWkiVLI3TxBIUzLclVuCOAA2eGiU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NTE4/OTItMTQ0Mzg2MTI2/Ny0zOTQ5LmpwZWc.jpeg" alt="Cover for November" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e8009b7f0220d2af8e5f4c957aa1db4.png" alt="Cover for November" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12-02</td>
       <td>Endless Melancholy</td>
@@ -1070,10 +1076,10 @@ Music tagged &quot;ukraine&quot; represents the diverse sonic landscape of Ukrai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 35</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 8</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 11</li>
             <li> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a> # 47</li>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 93</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 95</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1134,13 +1140,14 @@ Music tagged &quot;ukraine&quot; represents the diverse sonic landscape of Ukrai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a> # 82</li>
+            <li> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fdeadbe8bb8491e992d594de148fb7d.png" alt="Cover for Epilogue" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-07-02</td>
       <td>Endless Melancholy</td>
@@ -1167,8 +1174,8 @@ Music tagged &quot;ukraine&quot; represents the diverse sonic landscape of Ukrai
       <td>
         <ul>
             <li> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a> # 1</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 7</li>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 77</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 24</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1235,7 +1242,7 @@ Music tagged &quot;ukraine&quot; represents the diverse sonic landscape of Ukrai
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/49QQgTcROgGE2QoTLG-9k66HlH8Mm19zhQyZO7zulHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzA1/NzktMTQzNjcwMTc5/My05MTQxLmpwZWc.jpeg" alt="Cover for Dominicano" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91d4da889c3223f0dd96d08c72427193.png" alt="Cover for Dominicano" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Egor Grushin</td>
@@ -1264,17 +1271,17 @@ Music tagged &quot;ukraine&quot; represents the diverse sonic landscape of Ukrai
       <td>
         <ul>
             <li> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a> # 11</li>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 22</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 44</li>
-            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 76</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 93</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 13</li>
+            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 25</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 46</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/UrEW8c65P-kCFbYhVpoTli1RG6A6RsGQdWFlgh0py28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNDY4/MDUtMTQxMjI0NzU2/NC0xMTc1LmpwZWc.jpeg" alt="Cover for Fragile" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f23a7dde8de44c4ecc748670cc0c3800.png" alt="Cover for Fragile" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-10-21</td>
       <td>Endless Melancholy</td>
@@ -1309,15 +1316,15 @@ Music tagged &quot;ukraine&quot; represents the diverse sonic landscape of Ukrai
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 14</li>
             <li> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a> # 23</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 23</li>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 32</li>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 58</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 25</li>
+            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 27</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 30</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 42</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 69</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 71</li>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 72</li>
-            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 74</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 81</li>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 87</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1371,13 +1378,11 @@ Music tagged &quot;ukraine&quot; represents the diverse sonic landscape of Ukrai
       <td>Tired of Tomorrow&#39;s You</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1395,7 +1400,7 @@ Music tagged &quot;ukraine&quot; represents the diverse sonic landscape of Ukrai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 57</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 37</li>
             <li> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a> # 81</li>
         </ul>
       </td>
@@ -1483,8 +1488,8 @@ Music tagged &quot;ukraine&quot; represents the diverse sonic landscape of Ukrai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 20</li>
-            <li> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a> # 92</li>
+            <li> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a> # 9</li>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1600,7 +1605,7 @@ Music tagged &quot;ukraine&quot; represents the diverse sonic landscape of Ukrai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 4</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1699,7 +1704,7 @@ Music tagged &quot;ukraine&quot; represents the diverse sonic landscape of Ukrai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 71</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1798,8 +1803,8 @@ Music tagged &quot;ukraine&quot; represents the diverse sonic landscape of Ukrai
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 41</li>
-            <li> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a> # 78</li>
+            <li> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a> # 23</li>
+            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 59</li>
         </ul>
       </td>
     </tr>

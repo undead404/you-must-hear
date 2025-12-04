@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T20:20:37.996Z
+date: 2025-12-04T12:09:36.712Z
 permalink: tags/post-dubstep
 title: post-dubstep
 ---
 
 ## post-dubstep
 
-Last updated: <time datetime="2025-11-26T20:20:37.996Z">Wed Nov 26 2025 22:20:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T12:09:36.712Z">Thu Dec 04 2025 14:09:36 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -70,7 +70,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 50</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -367,7 +367,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 14</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -386,7 +386,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 62</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -418,7 +418,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 6</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -474,7 +474,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 51</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -513,7 +513,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 26</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -591,9 +591,9 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 4</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 14</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 66</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 8</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 35</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -631,10 +631,10 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 42</li>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 69</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 4</li>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 32</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 59</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 92</li>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -655,7 +655,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 12</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -693,9 +693,9 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 3</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 23</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 62</li>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 78</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -745,7 +745,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 47</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -953,8 +953,8 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 36</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 84</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 17</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1092,7 +1092,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 54</li>
+            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1174,7 +1174,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 26</li>
+            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1220,8 +1220,8 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 23</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 60</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1242,8 +1242,8 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 74</li>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 79</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 22</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1277,7 +1277,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 36</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1353,8 +1353,8 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 2</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 9</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 92</li>
+            <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1414,7 +1414,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 82</li>
+            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1546,11 +1546,11 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 37</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 28</li>
             <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 39</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 44</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 51</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 73</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 50</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 57</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 64</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 99</li>
         </ul>
       </td>
@@ -1666,8 +1666,8 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 80</li>
-            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 82</li>
+            <li> <a href="{{ "/tags/taiwanese" | relative_url }}">taiwanese</a> # 15</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1946,7 +1946,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 17</li>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1971,7 +1971,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 7</li>
+            <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -2025,7 +2025,7 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/leeds" | relative_url }}">leeds</a> # 10</li>
+            <li> <a href="{{ "/tags/leeds" | relative_url }}">leeds</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -2055,13 +2055,14 @@ Post-dubstep emerged in the late 2000s as a more introspective evolution of dubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 36</li>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>4</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f396b27e5813fca58876cc2bd7cced97.png" alt="Cover for Post Ghost" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Post Ghost</td>

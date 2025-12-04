@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T20:23:38.253Z
+date: 2025-12-04T12:09:52.732Z
 permalink: tags/melodic-metal
 title: melodic metal
 ---
 
 ## melodic metal
 
-Last updated: <time datetime="2025-11-26T20:23:38.253Z">Wed Nov 26 2025 22:23:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T12:09:52.732Z">Thu Dec 04 2025 14:09:52 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -63,7 +63,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/old-school-heavy-metal" | relative_url }}">old-school heavy metal</a> # 12</li>
+            <li> <a href="{{ "/tags/old-school-heavy-metal" | relative_url }}">old-school heavy metal</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -121,7 +121,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 85</li>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -142,7 +142,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 87</li>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -202,7 +202,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 91</li>
+            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -266,7 +266,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 54</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 47</li>
             <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 98</li>
         </ul>
       </td>
@@ -286,8 +286,8 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 16</li>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 89</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 87</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -308,7 +308,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 56</li>
+            <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -329,7 +329,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 84</li>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -369,8 +369,8 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 10</li>
             <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 56</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 94</li>
             <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 100</li>
         </ul>
       </td>
@@ -426,7 +426,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 46</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -444,8 +444,8 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 7</li>
-            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 45</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 12</li>
+            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -506,7 +506,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 75</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -527,7 +527,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 95</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -546,8 +546,8 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 17</li>
-            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 22</li>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 81</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -588,7 +588,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 49</li>
+            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -606,9 +606,9 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 77</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 23</li>
             <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 77</li>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 78</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -630,8 +630,9 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 9</li>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 67</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 34</li>
+            <li> <a href="{{ "/tags/love-metal" | relative_url }}">love metal</a> # 81</li>
+            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -708,7 +709,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 44</li>
+            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -727,7 +728,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 73</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -746,7 +747,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 91</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -973,8 +974,8 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 35</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 49</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1029,7 +1030,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 20</li>
+            <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1165,9 +1166,9 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 10</li>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 55</li>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 80</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 46</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 81</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1208,8 +1209,8 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 8</li>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 74</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 27</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1341,9 +1342,9 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 15</li>
-            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 25</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 61</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 41</li>
+            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 77</li>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1575,8 +1576,8 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 19</li>
-            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 69</li>
+            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 31</li>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1595,7 +1596,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 45</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1674,8 +1675,8 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 89</li>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 92</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 9</li>
+            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1698,7 +1699,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 97</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1739,8 +1740,8 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 14</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 20</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1769,7 +1770,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       <td>
         <ul>
             <li> <a href="{{ "/tags/technical-brutal-death-metal" | relative_url }}">technical brutal death metal</a> # 4</li>
-            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 92</li>
+            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1829,7 +1830,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 6</li>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1850,7 +1851,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 25</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1875,7 +1876,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 20</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1914,7 +1915,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 21</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1936,8 +1937,8 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 10</li>
             <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 72</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1959,7 +1960,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 92</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1979,7 +1980,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 45</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1998,7 +1999,7 @@ Melodic metal combines the power and intensity of heavy metal with strong vocal 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 7</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 93</li>
         </ul>
       </td>
     </tr>

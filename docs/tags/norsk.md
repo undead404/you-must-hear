@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T21:32:06.666Z
+date: 2025-12-04T12:09:47.631Z
 permalink: tags/norsk
 title: norsk
 ---
 
 ## norsk
 
-Last updated: <time datetime="2025-11-23T21:32:06.666Z">Sun Nov 23 2025 23:32:06 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T12:09:47.631Z">Thu Dec 04 2025 14:09:47 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -144,7 +144,7 @@ Last updated: <time datetime="2025-11-23T21:32:06.666Z">Sun Nov 23 2025 23:32:06
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 49</li>
+            <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -209,7 +209,7 @@ Last updated: <time datetime="2025-11-23T21:32:06.666Z">Sun Nov 23 2025 23:32:06
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/D375AhHNH3q34L45ItDUrDPgFK_wgMnRBUqB0Y4RvQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjEx/MDEtMTI3MDY1Njc5/My5qcGVn.jpeg" alt="Cover for Cyber Industrial Body" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c356f279342a814e1ab745f8c3fb6b4c.png" alt="Cover for Cyber Industrial Body" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Anstalt</td>
@@ -294,7 +294,7 @@ Last updated: <time datetime="2025-11-23T21:32:06.666Z">Sun Nov 23 2025 23:32:06
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/SUEWOAmJLSIWLemjLk5CJdLv2mjL9mnQC0cMsy6HbgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjA0/My0xMTMxMjA4MDIx/LmpwZWc.jpeg" alt="Cover for Brilliance Without Phase" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d1511d3e73f3fbb489ea1b9c5d780f4.png" alt="Cover for Brilliance Without Phase" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Anstalt</td>
@@ -413,6 +413,7 @@ Last updated: <time datetime="2025-11-23T21:32:06.666Z">Sun Nov 23 2025 23:32:06
     <tr>
       <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/409e145c1a93f87118d07cbd45434bc0.png" alt="Cover for Harn 88" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Pogrom Synod</td>
@@ -959,7 +960,7 @@ Last updated: <time datetime="2025-11-23T21:32:06.666Z">Sun Nov 23 2025 23:32:06
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 12</li>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1026,7 +1027,7 @@ Last updated: <time datetime="2025-11-23T21:32:06.666Z">Sun Nov 23 2025 23:32:06
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/vYynvGgukPvC4aXbyRRFEAMntneos11NnLsQ_og1SsM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDUy/NjgtMTIyNDY5MDMx/My5qcGVn.jpeg" alt="Cover for Syphilosophy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9867006c322d317de7966e163e51b9e9.png" alt="Cover for Syphilosophy" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Pogrom Synod</td>
@@ -1254,7 +1255,7 @@ Last updated: <time datetime="2025-11-23T21:32:06.666Z">Sun Nov 23 2025 23:32:06
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-noise" | relative_url }}">experimental noise</a> # 9</li>
+            <li> <a href="{{ "/tags/experimental-noise" | relative_url }}">experimental noise</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1276,7 +1277,7 @@ Last updated: <time datetime="2025-11-23T21:32:06.666Z">Sun Nov 23 2025 23:32:06
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norge" | relative_url }}">norge</a> # 6</li>
+            <li> <a href="{{ "/tags/norge" | relative_url }}">norge</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1367,7 +1368,7 @@ Last updated: <time datetime="2025-11-23T21:32:06.666Z">Sun Nov 23 2025 23:32:06
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/o5HecK5bSqe3MbOwkUEGfvOym8chYurg_GDHpL2lBLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjcy/MzY1LTE1NjAzNDU4/MzctNDM5MS5qcGVn.jpeg" alt="Cover for Elektrical Aktivity EP3 Expanded" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c35f1ffd1d88ae505c9e4d26a1f472b3.png" alt="Cover for Elektrical Aktivity EP3 Expanded" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-08-04</td>
       <td>Mind Over MIDI</td>
@@ -1411,7 +1412,7 @@ Last updated: <time datetime="2025-11-23T21:32:06.666Z">Sun Nov 23 2025 23:32:06
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/zn_D2tJ7TvtZLoM-pR8HzMToLe6zNGpxq9gkc5QjGJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjU4/NTEtMTQ0MjA0NDA1/My02MDE4LmpwZWc.jpeg" alt="Cover for Grtn 01" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ab5536875788aa185eb194102c61433.png" alt="Cover for Grtn 01" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-09-11</td>
       <td>Eastern Renaissance</td>
@@ -1719,6 +1720,7 @@ Last updated: <time datetime="2025-11-23T21:32:06.666Z">Sun Nov 23 2025 23:32:06
     <tr>
       <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8793a4178c9a1aefcbc7d7d1ed1df029.png" alt="Cover for Cyber Techno" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Anstalt</td>
