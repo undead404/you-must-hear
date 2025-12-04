@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T12:49:37.979Z
+date: 2025-12-04T07:00:50.658Z
 permalink: tags/psychedelic-metal
 title: psychedelic metal
 ---
 
 ## psychedelic metal
 
-Last updated: <time datetime="2025-11-23T12:49:37.979Z">Sun Nov 23 2025 14:49:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:00:50.658Z">Thu Dec 04 2025 09:00:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -141,8 +141,8 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-doom-metal" | relative_url }}">atmospheric doom metal</a> # 21</li>
-            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 100</li>
+            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 4</li>
+            <li> <a href="{{ "/tags/atmospheric-doom-metal" | relative_url }}">atmospheric doom metal</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -160,7 +160,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 39</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -239,9 +239,9 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 13</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 50</li>
             <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 52</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -261,8 +261,8 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 6</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 81</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 9</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -281,6 +281,28 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://i.discogs.com/e1miByprJq-5oQN27-woXwFaJtVpy5evMl6DqwByVmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTgw/OTgtMTM5ODExMDIy/Mi04MDg2LmpwZWc.jpeg" alt="Cover for RELEASE FROM DUALITY CD 2005" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Moonloop</td>
+      <td>RELEASE FROM DUALITY CD 2005</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/extreme-progressive-metal" | relative_url }}">extreme progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/extreme-progressive-metal" | relative_url }}">extreme progressive metal</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -309,26 +331,6 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
-      <td>47</td>
-      <td>
-          <img src="https://i.discogs.com/e1miByprJq-5oQN27-woXwFaJtVpy5evMl6DqwByVmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTgw/OTgtMTM5ODExMDIy/Mi04MDg2LmpwZWc.jpeg" alt="Cover for RELEASE FROM DUALITY CD 2005" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>Moonloop</td>
-      <td>RELEASE FROM DUALITY CD 2005</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d262c4bf22d46228e5de8bd607d43a7.png" alt="Cover for Gallows Gallery" style="max-width:120px; height:auto;" />
@@ -344,26 +346,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 21</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>46</td>
-      <td>
-          <img src="https://i.discogs.com/OdYzqVFW6pzQrHDcxUcYko3a_5Mi6HvQ7_QEoFGzBco/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDU3/MDEtMTYwMzc1NDIw/My04NDMyLmpwZWc.jpeg" alt="Cover for Grand Opening And Closing!" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Sleepytime Gorilla Museum</td>
-      <td>Grand Opening And Closing!</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 38</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -393,6 +376,24 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
     </tr>
     <tr>
+      <td>46</td>
+      <td>
+          <img src="https://i.discogs.com/OdYzqVFW6pzQrHDcxUcYko3a_5Mi6HvQ7_QEoFGzBco/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDU3/MDEtMTYwMzc1NDIw/My04NDMyLmpwZWc.jpeg" alt="Cover for Grand Opening And Closing!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Sleepytime Gorilla Museum</td>
+      <td>Grand Opening And Closing!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>71</td>
       <td>
       </td>
@@ -406,8 +407,8 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 23</li>
             <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 36</li>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -446,7 +447,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 41</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -647,10 +648,10 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 5</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 17</li>
             <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 44</li>
             <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 94</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -714,7 +715,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 81</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 82</li>
             <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 86</li>
             <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 92</li>
         </ul>
@@ -779,7 +780,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 82</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -799,7 +800,8 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 48</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 53</li>
+            <li> <a href="{{ "/tags/extreme-progressive-metal" | relative_url }}">extreme progressive metal</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -818,8 +820,8 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 29</li>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 83</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 58</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -948,7 +950,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       <td>
         <ul>
             <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 5</li>
-            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 19</li>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1043,16 +1045,16 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 5</li>
-            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 31</li>
-            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 55</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 6</li>
+            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 56</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/IEEZVYGKgAsiFO0Up28ljcbpdj_SJFmkWdBz5KB2AwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDQw/MzItMTQzNzAwMzc0/NC0zMDI4LmpwZWc.jpeg" alt="Cover for Animal Fires" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b6144f225ea4b67cbfd63c831fd7c87.png" alt="Cover for Animal Fires" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Human Services</td>
@@ -1096,7 +1098,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/austria" | relative_url }}">austria</a> # 52</li>
+            <li> <a href="{{ "/tags/austria" | relative_url }}">austria</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1138,7 +1140,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       <td>
         <ul>
             <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 37</li>
-            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 54</li>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1289,6 +1291,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/extreme-progressive-metal" | relative_url }}">extreme progressive metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german-black-metal" | relative_url }}">german black metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a></li>
@@ -1303,10 +1306,11 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 28</li>
+            <li> <a href="{{ "/tags/extreme-progressive-metal" | relative_url }}">extreme progressive metal</a> # 7</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 51</li>
             <li> <a href="{{ "/tags/german-black-metal" | relative_url }}">german black metal</a> # 59</li>
             <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 71</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1334,7 +1338,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/FldtYldFI4hJWhg5tfJz5HOpfIxAJas_S9hYX7vjEks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzAx/ODk4LTE0OTQ5NDgz/MDUtMzk1My5qcGVn.jpeg" alt="Cover for The Language Machine" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/81d469e9ce07c5a71e198f8bbc36c6db.png" alt="Cover for The Language Machine" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-12</td>
       <td>Holy Money</td>
@@ -1452,7 +1456,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 71</li>
+            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 30</li>
             <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 78</li>
         </ul>
       </td>
@@ -1481,9 +1485,9 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 23</li>
             <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 57</li>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 63</li>
-            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 78</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1537,8 +1541,8 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 8</li>
             <li> <a href="{{ "/tags/italian-black-metal" | relative_url }}">italian black metal</a> # 71</li>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1582,7 +1586,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 2</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1672,8 +1676,8 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 36</li>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 40</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 37</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1693,8 +1697,8 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 20</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 54</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 23</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1721,7 +1725,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 39</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1919,7 +1923,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 22</li>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -2154,6 +2158,7 @@ Psychedelic metal fuses the heaviness and aggression of metal with hypnotic, min
     <tr>
       <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c14573932df84caba7c4a8cf8a0a2ce1.png" alt="Cover for EP" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Up To The Sky</td>

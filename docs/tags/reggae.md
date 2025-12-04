@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T10:07:38.148Z
+date: 2025-12-04T06:44:06.027Z
 permalink: tags/reggae
 title: reggae
 ---
 
 ## reggae
 
-Last updated: <time datetime="2025-11-26T10:07:38.148Z">Wed Nov 26 2025 12:07:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T06:44:06.027Z">Thu Dec 04 2025 08:44:06 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -60,7 +60,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 43</li>
+            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 58</li>
             <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 69</li>
         </ul>
       </td>
@@ -99,7 +99,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 42</li>
+            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 59</li>
             <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 88</li>
         </ul>
       </td>
@@ -137,8 +137,8 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 20</li>
             <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 64</li>
-            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -175,8 +175,8 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 17</li>
             <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 74</li>
+            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -215,7 +215,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 48</li>
+            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 53</li>
             <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 83</li>
         </ul>
       </td>
@@ -270,8 +270,8 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 40</li>
             <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 48</li>
+            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -290,8 +290,8 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 9</li>
             <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 79</li>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -347,7 +347,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 52</li>
+            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 49</li>
             <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 82</li>
         </ul>
       </td>
@@ -387,9 +387,9 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 90</li>
+            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 1</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 10</li>
             <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 98</li>
-            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -463,7 +463,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 51</li>
+            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 50</li>
             <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 98</li>
         </ul>
       </td>
@@ -482,8 +482,8 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 31</li>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 59</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 42</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -521,7 +521,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 67</li>
+            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -635,9 +635,9 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 49</li>
-            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 63</li>
-            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 81</li>
+            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 20</li>
+            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 38</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -728,7 +728,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 77</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -747,7 +747,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 68</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 69</li>
             <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 100</li>
         </ul>
       </td>
@@ -859,9 +859,9 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 1</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 5</li>
             <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 88</li>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 96</li>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -880,7 +880,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 85</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -899,7 +899,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 67</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -961,7 +961,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 98</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1034,7 +1034,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 79</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 21</li>
             <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 89</li>
         </ul>
       </td>
@@ -1053,7 +1053,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 35</li>
+            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1089,7 +1089,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 58</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1162,7 +1162,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 93</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1181,9 +1181,9 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 5</li>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 11</li>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 83</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 18</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 89</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1201,8 +1201,8 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 41</li>
-            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 71</li>
+            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 30</li>
+            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1220,8 +1220,8 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 30</li>
             <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 44</li>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1259,8 +1259,8 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 2</li>
             <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 30</li>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1280,8 +1280,8 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 68</li>
-            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 100</li>
+            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 1</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1301,8 +1301,8 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 41</li>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 91</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 9</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1321,9 +1321,9 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 89</li>
-            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 94</li>
-            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 99</li>
+            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 2</li>
+            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 5</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1343,8 +1343,8 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 43</li>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 93</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 7</li>
+            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1364,7 +1364,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 78</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1383,7 +1383,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 98</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1402,7 +1402,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 84</li>
+            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1420,7 +1420,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall-reggae" | relative_url }}">dancehall reggae</a> # 21</li>
+            <li> <a href="{{ "/tags/dancehall-reggae" | relative_url }}">dancehall reggae</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1458,8 +1458,8 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 11</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 54</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 47</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1477,7 +1477,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 17</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1496,8 +1496,8 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 56</li>
-            <li> <a href="{{ "/tags/dancehall-reggae" | relative_url }}">dancehall reggae</a> # 65</li>
+            <li> <a href="{{ "/tags/dancehall-reggae" | relative_url }}">dancehall reggae</a> # 36</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1532,8 +1532,8 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 54</li>
-            <li> <a href="{{ "/tags/dancehall-reggae" | relative_url }}">dancehall reggae</a> # 94</li>
+            <li> <a href="{{ "/tags/dancehall-reggae" | relative_url }}">dancehall reggae</a> # 7</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1609,7 +1609,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 100</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1686,8 +1686,8 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 43</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 62</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 39</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1746,8 +1746,8 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 80</li>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 88</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 13</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1770,8 +1770,8 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 95</li>
-            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 100</li>
+            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 1</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1835,7 +1835,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 78</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1856,7 +1856,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 46</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1896,7 +1896,7 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 86</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1919,9 +1919,9 @@ Reggae is a music genre that originated in Jamaica in the late 1960s. It is char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 70</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 72</li>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 97</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 4</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 28</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 31</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T10:46:15.593Z
+date: 2025-12-04T06:55:49.399Z
 permalink: tags/progressive-breaks
 title: progressive breaks
 ---
 
 ## progressive breaks
 
-Last updated: <time datetime="2025-11-26T10:46:15.593Z">Wed Nov 26 2025 12:46:15 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T06:55:49.399Z">Thu Dec 04 2025 08:55:49 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -171,7 +171,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 41</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -192,7 +192,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 76</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -323,7 +323,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 37</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -420,7 +420,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 19</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -861,7 +861,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 85</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -953,7 +953,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 49</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1238,7 +1238,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 18</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1264,7 +1264,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/YAW80fQ5f-AhDGg96lcZsCoI8UnyQAp9M6LDGpZB1co/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODY3/MDQtMTMwMDk5MjIz/Ny5qcGVn.jpeg" alt="Cover for Music For A Film" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ffd876c7b910e2bd083b88ff039ca9a.png" alt="Cover for Music For A Film" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-11</td>
       <td>The Silk Demise</td>
@@ -1282,7 +1282,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 14</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 84</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1310,10 +1310,10 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 1</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 3</li>
             <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 18</li>
-            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 33</li>
             <li> <a href="{{ "/tags/indonesia" | relative_url }}">indonesia</a> # 46</li>
+            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1334,8 +1334,8 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 34</li>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 39</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1694,7 +1694,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 48</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1751,7 +1751,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 47</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1833,12 +1833,12 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 66</li>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 1</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 5</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 15</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 18</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 33</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 72</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 83</li>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 85</li>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 96</li>
-            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1860,8 +1860,8 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 3</li>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 51</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 49</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1879,8 +1879,8 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 43</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 47</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1901,7 +1901,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 29</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -2005,7 +2005,7 @@ Progressive breaks blends the rhythmic breakbeat patterns of breakbeat and drum 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 36</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 63</li>
         </ul>
       </td>
     </tr>

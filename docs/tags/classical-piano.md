@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T15:05:15.086Z
+date: 2025-12-04T06:58:18.234Z
 permalink: tags/classical-piano
 title: classical piano
 ---
 
 ## classical piano
 
-Last updated: <time datetime="2025-10-28T15:05:15.086Z">Tue Oct 28 2025 17:05:15 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T06:58:18.234Z">Thu Dec 04 2025 08:58:18 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -140,7 +140,7 @@ Classical piano encompasses solo keyboard works from the Baroque era through mod
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 2</li>
+            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -154,7 +154,6 @@ Classical piano encompasses solo keyboard works from the Baroque era through mod
       <td>100 Best Relaxing Classics</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beethoven" | relative_url }}">beethoven</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
@@ -163,7 +162,6 @@ Classical piano encompasses solo keyboard works from the Baroque era through mod
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beethoven" | relative_url }}">beethoven</a> # 44</li>
             <li> <a href="{{ "/tags/piano-sonata" | relative_url }}">piano sonata</a> # 87</li>
         </ul>
       </td>
@@ -313,7 +311,6 @@ Classical piano encompasses solo keyboard works from the Baroque era through mod
       <td>50 Piano Classics</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beethoven" | relative_url }}">beethoven</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
@@ -322,7 +319,6 @@ Classical piano encompasses solo keyboard works from the Baroque era through mod
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beethoven" | relative_url }}">beethoven</a> # 56</li>
             <li> <a href="{{ "/tags/piano-sonata" | relative_url }}">piano sonata</a> # 92</li>
         </ul>
       </td>
@@ -380,7 +376,7 @@ Classical piano encompasses solo keyboard works from the Baroque era through mod
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a> # 84</li>
+            <li> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -608,7 +604,7 @@ Classical piano encompasses solo keyboard works from the Baroque era through mod
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/vgLL6lS-G3F26oYaKsqkwW0cHJEJKubuXLW706OjFYM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjQ1/NzYtMTMxNjk3ODc3/Ni5qcGVn.jpeg" alt="Cover for The Ultimate Most Relaxing Classical Piano in the Universe" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7584fc594b2eba8dac36f0edd1321ef1.png" alt="Cover for The Ultimate Most Relaxing Classical Piano in the Universe" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Johann Sebastian Bach</td>
@@ -697,7 +693,7 @@ Classical piano encompasses solo keyboard works from the Baroque era through mod
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 88</li>
+            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 90</li>
             <li> <a href="{{ "/tags/sonata" | relative_url }}">sonata</a> # 95</li>
         </ul>
       </td>
@@ -812,7 +808,7 @@ Classical piano encompasses solo keyboard works from the Baroque era through mod
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a> # 93</li>
+            <li> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -912,27 +908,6 @@ Classical piano encompasses solo keyboard works from the Baroque era through mod
       </td>
     </tr>
     <tr>
-      <td>80</td>
-      <td>
-      </td>
-      <td>2001</td>
-      <td>Robin Alciatore</td>
-      <td>Moonlight</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beethoven" | relative_url }}">beethoven</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/beethoven" | relative_url }}">beethoven</a> # 82</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>18</td>
       <td>
           <img src="https://i.discogs.com/Yva0k3CaOtejbCoXmmVCY9ks110K8AxOs53YsxhYzgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTc2/MDk1LTE1NDk0NzQ4/MzctMTE5MS5qcGVn.jpeg" alt="Cover for Piano Concertos" style="max-width:120px; height:auto;" />
@@ -943,6 +918,25 @@ Classical piano encompasses solo keyboard works from the Baroque era through mod
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>
+      </td>
+      <td>2001</td>
+      <td>Robin Alciatore</td>
+      <td>Moonlight</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
         </ul>
       </td>
       <td>
@@ -1117,7 +1111,7 @@ Classical piano encompasses solo keyboard works from the Baroque era through mod
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/kbTwNDDmu34rQQ15b66gEBPqKNN4Iv2zzlhqe8ll0Ho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzE3/NTIyLTE2ODk3MzUz/NzctNzE0My5qcGVn.jpeg" alt="Cover for Nocturnes; Elisabeth Leonskaja" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a2096d7bd17c8be53e2536d3e8041a6.png" alt="Cover for Nocturnes; Elisabeth Leonskaja" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Frédéric Chopin</td>
@@ -1288,7 +1282,7 @@ Classical piano encompasses solo keyboard works from the Baroque era through mod
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/Y5y72M0efnB8M-dLEkDU8XXNcqwBoBJkoTjSny7z3EY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTg4/NDIyLTE2MzQyMjYx/MTctNTQ5Ni5qcGVn.jpeg" alt="Cover for The Piano Files" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8acb616cd2e4442cc41cef50e8e7db2c.png" alt="Cover for The Piano Files" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Douwe Eisenga</td>
@@ -1370,7 +1364,7 @@ Classical piano encompasses solo keyboard works from the Baroque era through mod
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 17</li>
+            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1483,7 +1477,7 @@ Classical piano encompasses solo keyboard works from the Baroque era through mod
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/49QQgTcROgGE2QoTLG-9k66HlH8Mm19zhQyZO7zulHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzA1/NzktMTQzNjcwMTc5/My05MTQxLmpwZWc.jpeg" alt="Cover for Dominicano" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91d4da889c3223f0dd96d08c72427193.png" alt="Cover for Dominicano" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Egor Grushin</td>
@@ -1512,10 +1506,10 @@ Classical piano encompasses solo keyboard works from the Baroque era through mod
       <td>
         <ul>
             <li> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a> # 11</li>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 22</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 44</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 13</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 46</li>
             <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 62</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 93</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1683,7 +1677,7 @@ Classical piano encompasses solo keyboard works from the Baroque era through mod
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 36</li>
+            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1703,7 +1697,7 @@ Classical piano encompasses solo keyboard works from the Baroque era through mod
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 10</li>
+            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1752,7 +1746,7 @@ Classical piano encompasses solo keyboard works from the Baroque era through mod
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 49</li>
+            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1993,10 +1987,10 @@ Classical piano encompasses solo keyboard works from the Baroque era through mod
 - [piano]({{ "/tags/piano" | relative_url }})
 - [classical]({{ "/tags/classical" | relative_url }})
 - [piano sonata]({{ "/tags/piano-sonata" | relative_url }})
-- [beethoven]({{ "/tags/beethoven" | relative_url }})
 - [contemporary classical]({{ "/tags/contemporary-classical" | relative_url }})
 - [solo piano]({{ "/tags/solo-piano" | relative_url }})
 - [instrumental]({{ "/tags/instrumental" | relative_url }})
 - [russian]({{ "/tags/russian" | relative_url }})
 - [minimalism]({{ "/tags/minimalism" | relative_url }})
 - [baroque]({{ "/tags/baroque" | relative_url }})
+- [composer]({{ "/tags/composer" | relative_url }})

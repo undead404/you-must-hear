@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-21T05:19:12.089Z
+date: 2025-12-04T06:54:48.914Z
 permalink: tags/israel
 title: israel
 ---
 
 ## israel
 
-Last updated: <time datetime="2025-10-21T05:19:12.089Z">Tue Oct 21 2025 08:19:12 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T06:54:48.914Z">Thu Dec 04 2025 08:54:48 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -86,6 +86,7 @@ Israeli music blends Middle Eastern and Mediterranean influences with Western po
     <tr>
       <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a6450d0248f75ecfa6cf2b4bd2d0602.png" alt="Cover for חתונה לבנה" style="max-width:120px; height:auto;" />
       </td>
       <td>1981</td>
       <td>שלום חנוך</td>
@@ -174,7 +175,7 @@ Israeli music blends Middle Eastern and Mediterranean influences with Western po
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 37</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -213,9 +214,9 @@ Israeli music blends Middle Eastern and Mediterranean influences with Western po
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 10</li>
+            <li> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a> # 15</li>
             <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 53</li>
-            <li> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a> # 86</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -275,8 +276,8 @@ Israeli music blends Middle Eastern and Mediterranean influences with Western po
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 64</li>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 85</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 16</li>
+            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 37</li>
             <li> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a> # 97</li>
         </ul>
       </td>
@@ -321,7 +322,7 @@ Israeli music blends Middle Eastern and Mediterranean influences with Western po
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/l1htcPppS-4HTc1BaNAB63AkjeicULselt1TstbIILc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTE1/NzU4LTE1NzYxMzYz/NTQtOTA0NC5qcGVn.jpeg" alt="Cover for Birthday" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5cb64e52ce8d40728d4ff16100394ce9.png" alt="Cover for Birthday" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Infected Mushroom</td>
@@ -443,8 +444,8 @@ Israeli music blends Middle Eastern and Mediterranean influences with Western po
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 3</li>
-            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 9</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 6</li>
+            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -556,17 +557,17 @@ Israeli music blends Middle Eastern and Mediterranean influences with Western po
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 21</li>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 25</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 29</li>
-            <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 85</li>
+            <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 16</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 32</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 75</li>
+            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>10</td>
       <td>
-          <img src="https://i.discogs.com/Fzxn7Gsi6tl9geIelrsngPEcG4VBB8mxg8Mmim_gmKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMjQx/Mi0xMTUxOTE0NDM2/LmpwZWc.jpeg" alt="Cover for I&#39;ve been breakin into cars fo you" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/833be51de5a78fec7b0f30d19f69733a.png" alt="Cover for I&#39;ve been breakin into cars fo you" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>gaop</td>
@@ -650,9 +651,9 @@ Israeli music blends Middle Eastern and Mediterranean influences with Western po
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 5</li>
+            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 18</li>
             <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 51</li>
-            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 83</li>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 96</li>
             <li> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a> # 100</li>
         </ul>
       </td>
@@ -739,7 +740,7 @@ Israeli music blends Middle Eastern and Mediterranean influences with Western po
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/MAI5QhhWG9yz2IDaiqONcTEzaCZUqMT6hy0caHSa_gM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTYz/NDctMTE5OTk3Njcx/Mi5qcGVn.jpeg" alt="Cover for Yael Naim" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5069ae886bfd2b80308f8187f79c6c9.png" alt="Cover for Yael Naim" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10-22</td>
       <td>Yael Naim</td>
@@ -747,12 +748,10 @@ Israeli music blends Middle Eastern and Mediterranean influences with Western po
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -795,7 +794,7 @@ Israeli music blends Middle Eastern and Mediterranean influences with Western po
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/Ckb1iRIAuO4UB3-iz9zOvrUoS7764ChtHr1gQrZsqsg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzMy/NDYtMTM5NDI3MzIw/OS0zMTcyLmpwZWc.jpeg" alt="Cover for The Beauty And The Sea" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d35e7e7a87c3452183f62c70c811d4d5.png" alt="Cover for The Beauty And The Sea" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-03-31</td>
       <td>Mor Karbasi</td>
@@ -813,7 +812,7 @@ Israeli music blends Middle Eastern and Mediterranean influences with Western po
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/kuxukF_eAVSeR72odSLosHtaKzwBeo-M7t-Rpq_C1jE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTMz/NDEtMTMzNjYxNDkz/MS02NDQ4LmpwZWc.jpeg" alt="Cover for Birthday EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a62616b3d138438bbb5a9a0e96b3a2cf.png" alt="Cover for Birthday EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Infected Mushroom</td>
@@ -833,7 +832,7 @@ Israeli music blends Middle Eastern and Mediterranean influences with Western po
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/l1xH3ir3edNfosjE_3dQioaiBaxjUR_ATvt-4S7t5uc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjkx/MDctMTQ4NTkwMjMw/My00MDE2LmpwZWc.jpeg" alt="Cover for There Must Be Another Way" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/31d995000b316392c3ee7f2149cfe00b.png" alt="Cover for There Must Be Another Way" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Noa &amp; Mira Awad</td>
@@ -872,6 +871,7 @@ Israeli music blends Middle Eastern and Mediterranean influences with Western po
     <tr>
       <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aea4b74a36f257b07aafc6e31b1bf774.png" alt="Cover for Aurora" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03-16</td>
       <td>Avishai Cohen</td>
@@ -921,9 +921,9 @@ Israeli music blends Middle Eastern and Mediterranean influences with Western po
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 21</li>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 60</li>
-            <li> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a> # 89</li>
+            <li> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a> # 12</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 61</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -949,7 +949,7 @@ Israeli music blends Middle Eastern and Mediterranean influences with Western po
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/onpuiBs1kbdV4sRY-ey-CR5OFJlHG_b9LoXIXlYBg-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzEw/MDYwLTE1OTYzNjIw/ODQtMzc3MS5qcGVn.jpeg" alt="Cover for Safe And Sound" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c34b783d24d2cf001e120bd934e53253.png" alt="Cover for Safe And Sound" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Maya Isacowitz</td>
@@ -969,7 +969,7 @@ Israeli music blends Middle Eastern and Mediterranean influences with Western po
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/efBMmznwBts8dh7OzdDyrW1SAZlLbGg41NAd6RFCKGk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njc5/MDc0LTE1Nzk0NjYy/NTUtMTQ3OS5qcGVn.jpeg" alt="Cover for 9:00 to 17:00, 17:00 to Whenever" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e2e706b2b32c4efb8890cd3ac45502b3.png" alt="Cover for 9:00 to 17:00, 17:00 to Whenever" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>The Young Professionals</td>
@@ -1002,7 +1002,7 @@ Israeli music blends Middle Eastern and Mediterranean influences with Western po
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 69</li>
+            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 68</li>
             <li> <a href="{{ "/tags/mediterranean" | relative_url }}">mediterranean</a> # 86</li>
         </ul>
       </td>
@@ -1023,14 +1023,14 @@ Israeli music blends Middle Eastern and Mediterranean influences with Western po
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 20</li>
+            <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/NuJb_Sj1rTuySsxC1cBkCnASE15XFA6NzgVtIiSJEAQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNDY1/NDItMTM1OTYzNjYw/NS05NTE3LmpwZWc.jpeg" alt="Cover for ALL OVER" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dfeb1745f6dbedd05b57d5bbc6651c45.png" alt="Cover for ALL OVER" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08-01</td>
       <td>Kids Insane</td>
@@ -1050,6 +1050,7 @@ Israeli music blends Middle Eastern and Mediterranean influences with Western po
     <tr>
       <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d78e71ca739b4f8997ae941d1e3fec7b.png" alt="Cover for מישהו פעם" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08-03</td>
       <td>עברי לידר</td>
@@ -1095,9 +1096,9 @@ Israeli music blends Middle Eastern and Mediterranean influences with Western po
       <td>
         <ul>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 23</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 28</li>
             <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 48</li>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 60</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 61</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1144,7 +1145,6 @@ Israeli music blends Middle Eastern and Mediterranean influences with Western po
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/kuxukF_eAVSeR72odSLosHtaKzwBeo-M7t-Rpq_C1jE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTMz/NDEtMTMzNjYxNDkz/MS02NDQ4LmpwZWc.jpeg" alt="Cover for Infected Rock" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-06-20</td>
       <td>Infected Mushroom</td>
@@ -1266,7 +1266,7 @@ Israeli music blends Middle Eastern and Mediterranean influences with Western po
     <tr>
       <td>6</td>
       <td>
-          <img src="https://i.discogs.com/ayQgt06XBOrvD2CeuvQrqlZP2ZTaonmp5u9MUYQjNdI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjU4/NjItMTQ1OTY1NDg0/Mi03NDY3LmpwZWc.jpeg" alt="Cover for Reaching" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1aea1ea4e298e7a2ac5a13eb5811ea1.png" alt="Cover for Reaching" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>COMPILE</td>
@@ -1338,7 +1338,7 @@ Israeli music blends Middle Eastern and Mediterranean influences with Western po
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 2</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1399,14 +1399,14 @@ Israeli music blends Middle Eastern and Mediterranean influences with Western po
       <td>
         <ul>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 11</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 32</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/vq8Ep6OO9dzgZmIT7dHZVxkzXA4JR06_-zKcZxsQUi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDk2/MDAtMTM3Mjk3MDc3/OS0xOTAxLmpwZWc.jpeg" alt="Cover for Midnights (The Til Dawn Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10c6e02743956727145fcada8d5cc73a.png" alt="Cover for Midnights (The Til Dawn Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2022</td>
       <td>Taylor Swift</td>
@@ -1428,7 +1428,7 @@ Israeli music blends Middle Eastern and Mediterranean influences with Western po
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/GGlStfJi0DOCUdV2yK2Rosr86KzJtPVH9UKhBi7WS8U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODky/NzQyLTE2NzE5NDQz/MjktMzM2My5qcGVn.jpeg" alt="Cover for Midnights (3am Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8cf29cb75e6adfb8700b1665105a0ac8.png" alt="Cover for Midnights (3am Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2022</td>
       <td>Taylor Swift</td>
@@ -1508,7 +1508,7 @@ Israeli music blends Middle Eastern and Mediterranean influences with Western po
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 35</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1533,7 +1533,7 @@ Israeli music blends Middle Eastern and Mediterranean influences with Western po
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 39</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1556,8 +1556,8 @@ Israeli music blends Middle Eastern and Mediterranean influences with Western po
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 2</li>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 48</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 53</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1597,14 +1597,14 @@ Israeli music blends Middle Eastern and Mediterranean influences with Western po
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 71</li>
+            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/m3MsmiwBPoUxuGtJsI3GVl3oXXUZyzqgvkMeuVLbPU8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDc0/MDU5LTE3MDUxNDE0/NzctNTI5NS5qcGVn.jpeg" alt="Cover for Midnights (The Late Night Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9ad2e66ee2fc2cb7b473bfd89a1faf9.png" alt="Cover for Midnights (The Late Night Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-08</td>
       <td>Taylor Swift</td>
@@ -1626,7 +1626,7 @@ Israeli music blends Middle Eastern and Mediterranean influences with Western po
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/DZXWw-L2PRgQX0t0PPMGUBZMm5FniFG7pbreKhx_ww8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMjYy/NDgtMTM1NjE3ODI2/MC04NzM2LmpwZWc.jpeg" alt="Cover for Mountains Into Sand" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bee170446bcc41be92a1f6e9b9412d8e.png" alt="Cover for Mountains Into Sand" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-01-12</td>
       <td>Avalon</td>
@@ -1728,7 +1728,7 @@ Israeli music blends Middle Eastern and Mediterranean influences with Western po
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 8</li>
+            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1911,6 +1911,7 @@ Israeli music blends Middle Eastern and Mediterranean influences with Western po
     <tr>
       <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/032db2c8779d92f10ec160b841ecaf5f.png" alt="Cover for Song of the Unhealing" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>death palace</td>
@@ -1937,6 +1938,7 @@ Israeli music blends Middle Eastern and Mediterranean influences with Western po
     <tr>
       <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6d7a536aec84ef7bc3593efddb76bad.png" alt="Cover for The New People &#x2F; Ha&#39;anashim Ha&#39;chadashim" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>עברי לידר</td>
@@ -1957,6 +1959,7 @@ Israeli music blends Middle Eastern and Mediterranean influences with Western po
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/abadb24a70980e99e613a8f434c00f7b.png" alt="Cover for It&#39;s Not the Same" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>עברי לידר</td>
@@ -1974,7 +1977,7 @@ Israeli music blends Middle Eastern and Mediterranean influences with Western po
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 77</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 24</li>
             <li> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a> # 94</li>
         </ul>
       </td>
@@ -1982,6 +1985,7 @@ Israeli music blends Middle Eastern and Mediterranean influences with Western po
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f64eb138cf54c3fccda9ebea105150d.png" alt="Cover for Música Judia (Melodías y Canciones Judías)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Jewish Starlight Orchestra</td>
@@ -1996,7 +2000,7 @@ Israeli music blends Middle Eastern and Mediterranean influences with Western po
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 87</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 14</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T12:02:02.223Z
+date: 2025-12-04T05:17:43.229Z
 permalink: tags/slide-guitar
 title: slide guitar
 ---
 
 ## slide guitar
 
-Last updated: <time datetime="2025-11-23T12:02:02.223Z">Sun Nov 23 2025 14:02:02 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T05:17:43.229Z">Thu Dec 04 2025 07:17:43 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -302,8 +302,8 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 82</li>
-            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 84</li>
+            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 16</li>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -944,7 +944,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 4</li>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1023,7 +1023,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 83</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1047,7 +1047,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 3</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1071,7 +1071,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 5</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1132,9 +1132,9 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 52</li>
-            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 82</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 90</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 11</li>
+            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 19</li>
+            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1215,7 +1215,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 89</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1318,7 +1318,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 45</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1339,7 +1339,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nashville" | relative_url }}">nashville</a> # 84</li>
+            <li> <a href="{{ "/tags/nashville" | relative_url }}">nashville</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1400,7 +1400,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a> # 95</li>
+            <li> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1441,7 +1441,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 29</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1510,7 +1510,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 43</li>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1556,7 +1556,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       <td>
         <ul>
             <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 23</li>
-            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 70</li>
+            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1604,9 +1604,9 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 9</li>
-            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 80</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 98</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 3</li>
+            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 81</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1680,6 +1680,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/47ff00d8c0b444d2947708529d7c0da0.png" alt="Cover for Rock Them Back To Hell" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Left Lane Cruiser</td>
@@ -1718,7 +1719,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 50</li>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1762,13 +1763,13 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 11</li>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 24</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 39</li>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 44</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 52</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 57</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 44</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 45</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 49</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 62</li>
             <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 64</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 76</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1834,7 +1835,7 @@ Slide guitar is a distinctive playing technique where a smooth object—typicall
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 29</li>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 72</li>
         </ul>
       </td>
     </tr>

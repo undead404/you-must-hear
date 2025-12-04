@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T11:54:51.985Z
+date: 2025-12-04T06:56:39.277Z
 permalink: tags/power-noise
 title: power noise
 ---
 
 ## power noise
 
-Last updated: <time datetime="2025-11-26T11:54:51.985Z">Wed Nov 26 2025 13:54:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T06:56:39.277Z">Thu Dec 04 2025 08:56:39 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -143,7 +143,6 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -244,8 +243,8 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 37</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 49</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -387,7 +386,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 81</li>
+            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -427,7 +426,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 76</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 25</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 76</li>
         </ul>
       </td>
@@ -487,7 +486,8 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 98</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 3</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -510,7 +510,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 13</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 19</li>
             <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 94</li>
         </ul>
       </td>
@@ -620,8 +620,8 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 14</li>
-            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 30</li>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 70</li>
+            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -641,7 +641,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 6</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -720,11 +720,11 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 5</li>
             <li> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a> # 6</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 8</li>
+            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 9</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 63</li>
             <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 86</li>
-            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 92</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 92</li>
             <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 97</li>
             <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 97</li>
@@ -815,10 +815,10 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 25</li>
-            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 26</li>
-            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 55</li>
-            <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 85</li>
+            <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 16</li>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 45</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 75</li>
+            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -971,7 +971,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 24</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1089,7 +1089,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 19</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 23</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 50</li>
         </ul>
       </td>
@@ -1149,11 +1149,11 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 2</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 5</li>
             <li> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a> # 9</li>
+            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 16</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 60</li>
             <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 80</li>
-            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 85</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 87</li>
             <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 92</li>
             <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 94</li>
@@ -1234,7 +1234,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 22</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1283,8 +1283,8 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 38</li>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 63</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 38</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1381,7 +1381,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 29</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1408,7 +1408,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 29</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 31</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 77</li>
         </ul>
       </td>
@@ -1519,10 +1519,10 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 11</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 71</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 71</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 76</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 87</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1547,7 +1547,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       <td>
         <ul>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 11</li>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 38</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 40</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 80</li>
         </ul>
       </td>
@@ -1624,7 +1624,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       <td>
         <ul>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 7</li>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 81</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1652,10 +1652,10 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 11</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 34</li>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 46</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 47</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 85</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1679,10 +1679,10 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 60</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 88</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 10</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 41</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 89</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 91</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 92</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 99</li>
         </ul>
       </td>
@@ -1727,8 +1727,8 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 54</li>
-            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 80</li>
+            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 21</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 47</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 84</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 89</li>
             <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 93</li>
@@ -1776,7 +1776,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 28</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1822,10 +1822,10 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       <td>
         <ul>
             <li> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a> # 3</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 33</li>
-            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 77</li>
+            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 24</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 70</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 77</li>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 82</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 83</li>
             <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 92</li>
             <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 95</li>
         </ul>
@@ -1872,8 +1872,8 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 80</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 88</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 13</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1896,8 +1896,8 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 71</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 73</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 26</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 28</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 100</li>
         </ul>
       </td>
@@ -1926,10 +1926,10 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 47</li>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 53</li>
+            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 23</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 48</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 54</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 78</li>
-            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 78</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 86</li>
             <li> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a> # 95</li>
         </ul>
@@ -1955,7 +1955,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 58</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 43</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 86</li>
         </ul>
       </td>
@@ -2006,7 +2006,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 30</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -2026,7 +2026,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 72</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -2089,7 +2089,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 24</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -2126,7 +2126,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       <td>
         <ul>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 22</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 68</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -2167,7 +2167,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 28</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -2191,7 +2191,7 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 7</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -2261,18 +2261,18 @@ Power noise is an aggressive fusion of industrial music and noise that emphasize
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 1</li>
+            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 1</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 1</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 1</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 1</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 100</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 100</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 100</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 100</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 100</li>
             <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 100</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 100</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 100</li>
-            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 100</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 100</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 100</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 100</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 100</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 100</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 100</li>
         </ul>
       </td>
     </tr>

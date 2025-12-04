@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-02T06:04:48.488Z
+date: 2025-12-04T06:57:23.816Z
 permalink: tags/drone-rock
 title: drone rock
 ---
 
 ## drone rock
 
-Last updated: <time datetime="2025-11-02T06:04:48.488Z">Sun Nov 02 2025 08:04:48 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T06:57:23.816Z">Thu Dec 04 2025 08:57:23 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,29 +29,9 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
   </thead>
   <tbody>
     <tr>
-      <td>96</td>
-      <td>
-          <img src="https://i.discogs.com/-FLEsTE7GYDEji_p-39MQB_he1CTF8r1hVKziIE8Jow/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTUx/OS0xNjg5NTk1MzY1/LTg2NjUuanBlZw.jpeg" alt="Cover for Sound of Confusion" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1986</td>
-      <td>Spacemen 3</td>
-      <td>Sound of Confusion</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 65</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>13</td>
       <td>
-          <img src="https://i.discogs.com/Piv-jL54Y3ZGhipI5-7mEa-uPIdLknYUwYL184N4n7Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTgx/Mi0xMjIwMDQxNzAw/LmpwZWc.jpeg" alt="Cover for Dogbreath" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a7a1300a2fb15c340c4a78c78ca943d.png" alt="Cover for Dogbreath" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Head of David</td>
@@ -70,8 +50,26 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
       </td>
     </tr>
     <tr>
+      <td>96</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6fa776167f7499a9361cf37b52b1702.png" alt="Cover for Sound of Confusion" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1986</td>
+      <td>Spacemen 3</td>
+      <td>Sound of Confusion</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5fcf2f17c3d4c0c89a5099173d18848.png" alt="Cover for New Mind" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Swans</td>
@@ -92,6 +90,7 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
     <tr>
       <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/060e08df3d8447318b39e96f8c42f425.png" alt="Cover for Heaven&#39;s End" style="max-width:120px; height:auto;" />
       </td>
       <td>1987-11</td>
       <td>Loop</td>
@@ -104,15 +103,15 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 16</li>
-            <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 46</li>
+            <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 48</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/CKpkTpmWdY1bCOWfIjN9wZTIJ-mDuFHzzuVTnm1j7no/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTk1/OC0xMTE2NzU5NzEy/LmpwZw.jpeg" alt="Cover for Fade Out" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/65d52cc569d04e5aaff7e3dc503bc3cd.png" alt="Cover for Fade Out" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Loop</td>
@@ -124,7 +123,7 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 23</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -143,8 +142,8 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 34</li>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 52</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 71</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -165,7 +164,7 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 35</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -191,7 +190,6 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/vXHeC4M33rZDFriWfazM5d1HLKGnd9E3hVpwWpeeh7Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTU1/OS0xMTU3NTM2Njk3/LmpwZWc.jpeg" alt="Cover for Snapper" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Snapper</td>
@@ -250,19 +248,19 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
     <tr>
       <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3eaba50040e1120184b12780ce96631a.png" alt="Cover for Peng!" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-05-26</td>
       <td>Stereolab</td>
       <td>Peng!</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 40</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 66</li>
+            <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 55</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -306,6 +304,7 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc8d84d71b604d6cb5c9e4e769142a03.png" alt="Cover for Rainbows from Atoms" style="max-width:120px; height:auto;" />
       </td>
       <td>1993-07-06</td>
       <td>Lungfish</td>
@@ -346,29 +345,26 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/mukkhboJ6hGOOSfw-fKFqg0lS-efIbZcosws1AcZEdg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NzAt/MTY2MzIzNTU3NS03/Mzg0LmpwZWc.jpeg" alt="Cover for Transient Random-Noise Bursts with Announcements" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f76da5e7f8895fa1de817316332a1db3.png" alt="Cover for Transient Random-Noise Bursts with Announcements" style="max-width:120px; height:auto;" />
       </td>
       <td>1993-08</td>
       <td>Stereolab</td>
       <td>Transient Random-Noise Bursts with Announcements</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
-            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 3</li>
-            <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 37</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 49</li>
+            <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 58</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/BW6y4t0RDdCKLxgIVDnPSD5a2g8cmZvfol7dV_R90nk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNjEx/LTEyNTMxNTE1MDQu/anBlZw.jpeg" alt="Cover for Distance" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2321ab5cbd6e793bcb9b56a51431089f.png" alt="Cover for Distance" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-10</td>
       <td>Flying Saucer Attack</td>
@@ -386,8 +382,8 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 29</li>
-            <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 90</li>
+            <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 7</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -474,14 +470,14 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 56</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/TjDW-p1yJ9_JO2xz0F3959z5s3IsXvLb_Y0YbCLrZi4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MTA4/MC0xNjY5NjA3Mzc3/LTQ2NjMuanBlZw.jpeg" alt="Cover for The Closer You Get" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a9b4d86fc6b559bc814f1a0223083ad.png" alt="Cover for The Closer You Get" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-03-16</td>
       <td>Six By Seven</td>
@@ -499,7 +495,7 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/tgtnSzlBcWahyVDKQBQOY-NAzy8Qi59x8h3U_Dn49go/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNTQw/ODctMTM5MTI5ODY0/MC0zNDA2LmpwZWc.jpeg" alt="Cover for Collections" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c313d43b39f3efac9bc54ba3b1c4896.png" alt="Cover for Collections" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Happy The Clown</td>
@@ -540,6 +536,7 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8cd0b57ce4cc486d9f38e4daed202105.png" alt="Cover for The Way I Feel Today" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-03-11</td>
       <td>Six By Seven</td>
@@ -578,7 +575,7 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/vIH_KxgYUhR8XWZ8jG18Cfm-YjyEpPlmEHk7ihYTb0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzc3/MTE1LTE2NDI0NDA0/MjgtMzMxNy5qcGVn.jpeg" alt="Cover for origins and primitives vol. 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9f95d413fab90867a682700d305cac6.png" alt="Cover for origins and primitives vol. 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>The Psychic Paramount</td>
@@ -639,7 +636,7 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/xhJIce9ikUIkIrvR6-_KpcojRdrhh9HEo-O2u2SVqAs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjEy/NDgtMTMyOTc1MjYw/OC5wbmc.jpeg" alt="Cover for Symphony No. 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8074c08d9a4d9f5cfcb800d6935c53cc.png" alt="Cover for Symphony No. 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-04-19</td>
       <td>Glenn Branca</td>
@@ -682,7 +679,7 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/jIm9PvzbbF482P9qU25pYYULB_JnUb70LN-e2oe_Mj8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDE2/MzEtMTE5MjExNjA3/OS5qcGVn.jpeg" alt="Cover for Is Night People" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3695bf4143994096a695a8cac67ef4c3.png" alt="Cover for Is Night People" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-07-28</td>
       <td>Raccoo-oo-oon</td>
@@ -699,7 +696,7 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 57</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -725,6 +722,7 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/25723900af95401698d0886948641450.png" alt="Cover for Aluk Todolo" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-07-25</td>
       <td>Aluk Todolo</td>
@@ -785,6 +783,7 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
     <tr>
       <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ee0c8f97c8ae88850d7c2377af4d5cc.png" alt="Cover for Cryptograms" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-01-29</td>
       <td>Deerhunter</td>
@@ -802,6 +801,7 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/336a7a1c2d7b1c9103808c9086353c4b.png" alt="Cover for Seul dans l&#39;obsession" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-02-14</td>
       <td>Vision Éternel</td>
@@ -824,9 +824,9 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 23</li>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 37</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 70</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 26</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 65</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -895,6 +895,7 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebf287e1867cc06b2933f896d4f77341.png" alt="Cover for Un automne en solitude" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-03-14</td>
       <td>Vision Éternel</td>
@@ -918,16 +919,15 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 18</li>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 36</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 69</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 21</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 66</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/tvOJdjI_14DzMsgAk9EPyFwfiIqrMqUNtADXuN5Cx_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjY1/NDItMTIzMzA0MjQ3/OC5qcGVn.jpeg" alt="Cover for Elegy for Native Tongues" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-12</td>
       <td>Tetragrammaton</td>
@@ -950,6 +950,7 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
     <tr>
       <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/02ff8169318255cfe41c09c40aeb482a.png" alt="Cover for An Anthology Of Past Misfortunes" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-02-14</td>
       <td>Vision Éternel</td>
@@ -973,15 +974,15 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 12</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 54</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 55</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/JdS6Rk2KoQ0p6DT6kIx0be_nrwwFL548YhRnI1tvO_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjY1/ODktMTIzOTQ2NjY5/Ni5qcGVn.jpeg" alt="Cover for Watersports" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4bd9249ac2a24e05a46b9981f5b6d6b9.png" alt="Cover for Watersports" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-02-17</td>
       <td>Mi Ami</td>
@@ -999,7 +1000,7 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/_xVjqJ6AdDgljFdqrQYRQ8qWw6xh8PUUAu9iAKTiIUQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjIz/MjEtMTIzNTMxMTE4/My5qcGVn.jpeg" alt="Cover for Cloudburst" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/52bcacbec8474f72abc5f19f1d8906a1.png" alt="Cover for Cloudburst" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-02-22</td>
       <td>Dotåbåtå</td>
@@ -1045,18 +1046,18 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 58</li>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 94</li>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 2</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 32</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 95</li>
             <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 97</li>
             <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 99</li>
-            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/tSpvESR8pRs-rB40unVIGGDe9hDPEphUwG4FdP_UWFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDAy/MDAtMTM0NjAyMjQ1/MC04MzgyLmpwZWc.jpeg" alt="Cover for Dark Bush" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/785ef356a18b45228b1dc8497e2e08e9.png" alt="Cover for Dark Bush" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-06-01</td>
       <td>Dotåbåtå</td>
@@ -1084,7 +1085,6 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
     <tr>
       <td>12</td>
       <td>
-          <img src="https://i.discogs.com/Tc4z3NQGLleZ6SuSsFWdq5OXNzjfGdcHJOfWr4UbaTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTY0/MjctMTI2Mzc3MDYz/Mi5qcGVn.jpeg" alt="Cover for Ferme Ferme" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-06-09</td>
       <td>Fell</td>
@@ -1107,6 +1107,7 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
     <tr>
       <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fd63924dced18c7f5ccb7a32ae2da56.png" alt="Cover for Abondance de périls" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-09</td>
       <td>Vision Éternel</td>
@@ -1130,15 +1131,16 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 25</li>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 39</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 72</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 28</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 63</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cacad63e7a5946e4bab8a2a6466387ce.png" alt="Cover for Hissteria" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-09-28</td>
       <td>Purling Hiss</td>
@@ -1153,14 +1155,13 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 42</li>
+            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/mC8Ivbex3K7tdi3X1LSSRT5nUY9ntxQ24TdXA1K0tRc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTM3/NDctMTQ1MzQ4NzI5/OC0zMTYzLmpwZWc.jpeg" alt="Cover for The Tree That Bears The Equine Fruit" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-10</td>
       <td>ANTA</td>
@@ -1183,13 +1184,14 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 74</li>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/056fda99b7d3442381bdb2dd672f7aca.png" alt="Cover for Public Service Announcement" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10</td>
       <td>Purling Hiss</td>
@@ -1278,7 +1280,7 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/XPAz3CqBxO3POqh5PWFAfWOvz_rynBpOorCQI-bvH5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTMw/NDUtMTI5NjgyMjU4/Ny5qcGVn.jpeg" alt="Cover for Ghost With Chains" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5587e0b498b3477b8902818f20699202.png" alt="Cover for Ghost With Chains" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Daughters of the Sun</td>
@@ -1298,6 +1300,7 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac427b5cc0629bb051cf5f22813443aa.png" alt="Cover for The Last Great Torch Song" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03-14</td>
       <td>Vision Éternel</td>
@@ -1321,8 +1324,8 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 20</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 61</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 63</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1375,12 +1378,14 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/58852d2df4a50f1e4f4c91074844ac1b.png" alt="Cover for The Seer" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08-12</td>
       <td>Swans</td>
@@ -1393,8 +1398,8 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 35</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 82</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 10</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1443,16 +1448,17 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 39</li>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 49</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 50</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 62</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 86</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/44q3rqTMQxvMVgYjd8nSWJNGBvbvdWP7HcNoMSkf7FY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMDI3/NDctMTM2MTE4ODk3/OC04ODM5LmpwZWc.jpeg" alt="Cover for 10 000 Russos" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aded9e98dc53b7907b851dd272d03157.png" alt="Cover for 10 000 Russos" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-02</td>
       <td>10 000 Russos</td>
@@ -1491,7 +1497,6 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/aMyqcQTAaXB3HsF7qvYMK2c_NFHdDZQxW2L5nIvjmkI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQ3/MDAtMTM2ODcxOTU2/NS00Mjc5LmpwZWc.jpeg" alt="Cover for Inner Sanctum" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-03-25</td>
       <td>The Cosmic Dead</td>
@@ -1512,6 +1517,7 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/967e5f6caf4a4f048c9f40cb11425483.png" alt="Cover for Rise Above It All" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-20</td>
       <td>Bardo Pond</td>
@@ -1572,7 +1578,6 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/k7p8kGdAKc0uK1cf2lhJQ0LtV31vcVRAwDha9_7R7x4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTIw/ODEtMTM3MjQwNzAx/MC00MzU5LmpwZWc.jpeg" alt="Cover for A Water Which Does Not Wet Hands" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-25</td>
       <td>Agarttha</td>
@@ -1604,13 +1609,14 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/M0qWVbe2sxUYpEcJ4G5eeaXGOvHBqaA0Xzp5WrN7R2M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NzAz/ODUtMTM4MDk1ODc4/Ni03NjM5LmpwZWc.jpeg" alt="Cover for Shiva" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7094f3a2246e848a1ff08d95d105e817.png" alt="Cover for Shiva" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-08</td>
       <td>sarry</td>
@@ -1630,7 +1636,7 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/KiWkW_3MhVEWzn-Ih-MNWhsRvweeAM0HpBs-afhTPRA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODMz/ODQtMTQxMDYzMTUz/Ni01MjY5LmpwZWc.jpeg" alt="Cover for Sandy Pussy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04df12b90dbd83960d923b9c3c6888b2.png" alt="Cover for Sandy Pussy" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>sandy pussy</td>
@@ -1671,6 +1677,7 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
     <tr>
       <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6b54a5e84e440b5c02b9116a98dc472.png" alt="Cover for Piedmont Apocrypha" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-03-25</td>
       <td>Horseback</td>
@@ -1690,7 +1697,7 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/7Vo9I9ikGGUCYdfghjdrexlRvrpzn-10e_xXiwj_ba0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNDU5/OTYtMTQwOTY3NDU5/Ni02MzgyLmpwZWc.jpeg" alt="Cover for Ride To Die" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f478afd0579e476ac70132fdf383d744.png" alt="Cover for Ride To Die" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-08-08</td>
       <td>Daughters of the Sun</td>
@@ -1729,7 +1736,7 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/kSodibGzAJGlBeenB66TgLQq3T10v_M9QmthQXs1mEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Mjcy/MjEtMTUyMjgwODE2/NC0zMTY0LnBuZw.jpeg" alt="Cover for Echoes From Forgotten Hearts" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb09cd0bb7b5aa5f722a4322a521d583.png" alt="Cover for Echoes From Forgotten Hearts" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-02-14</td>
       <td>Vision Éternel</td>
@@ -1753,9 +1760,9 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 28</li>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 40</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 73</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 32</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 61</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1787,17 +1794,16 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 6</li>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 21</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 51</li>
             <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 62</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/GTSQd9tYHlEj4o7VBpuPHeix9AnMt-IkQ8OVUrkxjGA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMzA5/NTEtMTQ1NzI2MTc4/OS05MzgwLmpwZWc.jpeg" alt="Cover for Dronecaine" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Opium Eyes of Nico</td>
@@ -1816,7 +1822,7 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/3TIvh1X0cDAYPIph2fHKCTMXUQqEMgWLrtxkkar_47Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzEw/MDUtMTQ4MjIwNTM0/MC04MzQ2LmpwZWc.jpeg" alt="Cover for soundtrack for PANTANAL" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11412f99a9fca790ee0d837f711bbcce.png" alt="Cover for soundtrack for PANTANAL" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>The Holydrug Couple</td>
@@ -1854,7 +1860,6 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/vxHrB3kjfGAMsG1R6kh419fUlEnPlULYyy-UOiaaTzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNjI1/ODYtMTQ2MDEzNTQw/My0zOTE5LmpwZWc.jpeg" alt="Cover for Entranced Earth" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-05-27</td>
       <td>The Myrrors</td>
@@ -1872,7 +1877,6 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/lcqKLEhWduK8M6H9yNcqWxKUQCcj-HIiWCM78vTylSI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODk1/MDctMTQ3MDg2Mjcy/Ny0zMzk1LmpwZWc.jpeg" alt="Cover for Dead Ringers" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-08-12</td>
       <td>Horseback</td>
@@ -1893,7 +1897,7 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/5lFOCUgaAXtYnh2wIPPH_Z8youd0TowWEynD0sybuxs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTAw/NTE3LTE0OTE2MTE3/OTQtOTYxMS5qcGVn.jpeg" alt="Cover for Distress Distress" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/64e51f93abbcac0d079f93db1cd6e6f8.png" alt="Cover for Distress Distress" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-04-07</td>
       <td>10 000 Russos</td>
@@ -1932,7 +1936,7 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
     <tr>
       <td>3</td>
       <td>
-          <img src="https://i.discogs.com/vhdbffoAtWi8bYkTVDMFTYix6xNpPJraODlPY-dTlaU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjIz/ODk3LTE2MDU1NDc0/OTQtNDY1NS5qcGVn.jpeg" alt="Cover for Nebula" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/03a1e65ee5441c79a69bae56a5aa04c3.png" alt="Cover for Nebula" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-11-03</td>
       <td>Violet Nox</td>
@@ -1974,7 +1978,6 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/poepPFrU0wzZFvc8V4l7-VSYkYElbhC6B7gFNO08njw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTk3/NzI4LTE1Mzg3NDQ2/MTAtODM5Mi5qcGVn.jpeg" alt="Cover for Tigris &amp; Euphrates" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-09-28</td>
       <td>Sherpa</td>
@@ -1994,7 +1997,6 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/Zp7xn3zAK_FNFsxngVSBHESpmmwLYwBKRXOA8f3hjQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc4/NzI5LTE1NTgyNjI5/NDYtMzA5My5qcGVn.jpeg" alt="Cover for Klinker" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-12</td>
       <td>zement</td>
@@ -2016,7 +2018,7 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/gd-BUBs9nQnmjyyGZOftEeY2HezDlM6FP6cP5ILDHtE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjg3/ODExLTE1ODA2ODMw/MDgtMjA4My5wbmc.jpeg" alt="Cover for For Farewell Of Nostalgia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f102fd5450c8ec71444c28f3fc8b04a9.png" alt="Cover for For Farewell Of Nostalgia" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-01-31</td>
       <td>Vision Éternel</td>
@@ -2040,14 +2042,14 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 36</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/ck2-xN7jXaJC8boQ0UaUyE1zvRqpYhoAEqWf1Vp7dT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODU4/MjMxLTE2Mjg5NDQ5/MjItNTA1Ni5qcGVn.jpeg" alt="Cover for Thymiamatascension" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/997ec77f881bc051a5405dea49905da1.png" alt="Cover for Thymiamatascension" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-08-20</td>
       <td>Alora Crucible</td>
@@ -2069,7 +2071,6 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/LEov_IKJQ_bGkKOrT_2rgcdDiAhfrM-WJi_uDw2dZZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDEx/Mzk2LTE2NzU3OTU2/ODAtNjQyMy5qcGVn.jpeg" alt="Cover for Echo Colonnade" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Reflector</td>
@@ -2092,7 +2093,6 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
     <tr>
       <td>6</td>
       <td>
-          <img src="https://i.discogs.com/0CjCz8BGD6-3Dfi4xzMcNSnb4T7t1GgQsYPGcysaj8s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzQ0/OTEtMTM0MjI0ODU2/OC05NjUxLmpwZWc.jpeg" alt="Cover for Fern" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-03-31</td>
       <td>Sherpa</td>
@@ -2177,8 +2177,8 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 42</li>
-            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 62</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 43</li>
+            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -2279,14 +2279,15 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 47</li>
-            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 65</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 48</li>
+            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09fc4e66cc7b479c99f8c8b3ef45dda3.png" alt="Cover for PENTAGONIC" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>PENTAGONIC</td>
@@ -2315,11 +2316,11 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 4</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 7</li>
+            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 25</li>
             <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 28</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 47</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 54</li>
             <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 67</li>
-            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 77</li>
             <li> <a href="{{ "/tags/dada" | relative_url }}">dada</a> # 89</li>
         </ul>
       </td>
@@ -2327,6 +2328,7 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
     <tr>
       <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f23b77174d642f480e7bbac983962b2.png" alt="Cover for Sunprintsystem" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Sunprintsystem</td>
@@ -2351,8 +2353,8 @@ Drone rock fuses the repetitive, sustained tones of drone music with rock&#39;s 
 ### Related genres
 
 - [drone]({{ "/tags/drone" | relative_url }})
-- [space rock]({{ "/tags/space-rock" | relative_url }})
 - [post-rock]({{ "/tags/post-rock" | relative_url }})
+- [space rock]({{ "/tags/space-rock" | relative_url }})
 - [ambient]({{ "/tags/ambient" | relative_url }})
 - [psychedelic rock]({{ "/tags/psychedelic-rock" | relative_url }})
 - [noise rock]({{ "/tags/noise-rock" | relative_url }})

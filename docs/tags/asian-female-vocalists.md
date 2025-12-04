@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-21T04:54:02.901Z
+date: 2025-12-04T06:08:34.509Z
 permalink: tags/asian-female-vocalists
 title: asian female vocalists
 ---
 
 ## asian female vocalists
 
-Last updated: <time datetime="2025-10-21T04:54:02.901Z">Tue Oct 21 2025 07:54:02 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T06:08:34.509Z">Thu Dec 04 2025 08:08:34 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -99,7 +99,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/qWTqM2UUVeWKFlUmMPJij_aEESfkwJzaWRg6ANnSiUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDM4/NjEtMTU4ODUxODc4/My0zNDI1LmpwZWc.jpeg" alt="Cover for 봄이라서 그래" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf63d69abd6d5c649d084561b527b4e0.png" alt="Cover for 봄이라서 그래" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Jessica</td>
@@ -143,6 +143,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
     <tr>
       <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c76372af455340b01637b04835592d46.png" alt="Cover for Vanity Fair" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-05-27</td>
       <td>松田聖子</td>
@@ -214,7 +215,6 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/G439kYrTDBwUKJVbFYXOzxXJrM8W8oj856qUjDyVWww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzOTMw/MC0xNDExODA2Mjk5/LTQxMDMuanBlZw.jpeg" alt="Cover for 桃花諾 (上古情歌片尾曲)" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>G.E.M.</td>
@@ -287,7 +287,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/LALsD2AipTi1-IPazAB-IE9E3C9oQ5y68w5FJ2FFrrs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjEz/MTM0LTE1NTc1MTgw/NzgtODgzOC5qcGVn.jpeg" alt="Cover for Wishy Washy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/86bf4a965f3abfbcbcb4f9c5efd08118.png" alt="Cover for Wishy Washy" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Coco</td>
@@ -310,7 +310,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/eUSX397Abm0cNyJE31JZ9QwSUzF9aAur3Tt-mvi-StI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTcy/MzQtMTMyMTAxNTYw/MS5qcGVn.jpeg" alt="Cover for 봄비 Spring Rain" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9a52491b41dda6f8f7c666894604596.png" alt="Cover for 봄비 Spring Rain" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Boa</td>
@@ -351,7 +351,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 57</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 44</li>
             <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 93</li>
         </ul>
       </td>
@@ -377,7 +377,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 50</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 51</li>
             <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 91</li>
         </ul>
       </td>
@@ -385,7 +385,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/szClaEpVWbM7PCHZypj9YwVF3OmS5jR7qqmH1CRte-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MzQ3/Ny0xMTMwNzEyOTU2/LmpwZWc.jpeg" alt="Cover for CAMO" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50f2c1af9715dc6ee20df2279228c6fb.png" alt="Cover for CAMO" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-09-17</td>
       <td>Boa</td>
@@ -426,8 +426,8 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 5</li>
             <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 74</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -504,7 +504,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 62</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 39</li>
             <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 94</li>
         </ul>
       </td>
@@ -530,7 +530,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 26</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 74</li>
             <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 80</li>
         </ul>
       </td>
@@ -556,8 +556,8 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 15</li>
             <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 78</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -582,7 +582,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 46</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 55</li>
             <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 90</li>
         </ul>
       </td>
@@ -608,15 +608,15 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 14</li>
             <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 77</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/kjezenzl-nbGZGY4mPzxBHfglHRF_CC31j-66_Mz1UA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzg1/NzMtMTcyMzU1NjM4/My02ODgwLmpwZWc.jpeg" alt="Cover for Goodbye For Now" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a66ce9cc38c6c4bef2a27837bc1083cb.png" alt="Cover for Goodbye For Now" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>As One</td>
@@ -683,7 +683,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 63</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 38</li>
             <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 95</li>
         </ul>
       </td>
@@ -797,7 +797,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/CyZihxCheTmJSuDPYdeIjfEn2VV5wBk082HSHX5hhZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTQ0/NTA4LTE2MDQxNzg5/NDQtODM0Ni5qcGVn.jpeg" alt="Cover for 나.아.당.궁 Best Driver" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab711e38949ad52813670d9890654a91.png" alt="Cover for 나.아.당.궁 Best Driver" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-10-21</td>
       <td>Yozoh</td>
@@ -820,7 +820,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/_MyvfRh2-iQDFWCvUFSRWs2rcX3IF3zjn0hVFQ7icoE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NjM1/NDUtMTQ2MjMwMzM5/NC0xNTQ2LmpwZWc.jpeg" alt="Cover for 愛你 A.I.N.Y. 2017" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb1bf43bd2844281f04bc98cfaf8d442.png" alt="Cover for 愛你 A.I.N.Y. 2017" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>G.E.M.</td>
@@ -861,7 +861,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 44</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 57</li>
             <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 89</li>
         </ul>
       </td>
@@ -886,7 +886,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 69</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 32</li>
             <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 97</li>
         </ul>
       </td>
@@ -935,8 +935,8 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 86</li>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 89</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 11</li>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -965,7 +965,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/FS7vw4qvvTt2-vW7rVd0T6w2q7yOb4X5-O1pyT1J508/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTA2/MzI1LTE2NTQ2ODUy/MjMtNjYzMi5qcGVn.jpeg" alt="Cover for Em Không Là Duy Nhất" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c6087e431259e8a6819a8b5b799e83c.png" alt="Cover for Em Không Là Duy Nhất" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Tóc Tiên</td>
@@ -988,7 +988,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/FS7vw4qvvTt2-vW7rVd0T6w2q7yOb4X5-O1pyT1J508/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTA2/MzI1LTE2NTQ2ODUy/MjMtNjYzMi5qcGVn.jpeg" alt="Cover for Vũ Điệu Cồng Chiêng" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/332fbb6541eba35e1172c30fb3566d44.png" alt="Cover for Vũ Điệu Cồng Chiêng" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Tóc Tiên</td>
@@ -1032,6 +1032,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/681d223f8eea4f5fa53bb23cdc74b5ac.png" alt="Cover for Distance" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-02-09</td>
       <td>西野カナ</td>
@@ -1049,7 +1050,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 84</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 17</li>
             <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 99</li>
         </ul>
       </td>
@@ -1057,7 +1058,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/XfkcbSoCxgMcBqIk8vLcruSLsT6evYNWptub1SJbbAc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDQ5/NTkzLTE1MTY1Mzg1/NDAtNDkyMC5qcGVn.jpeg" alt="Cover for Last Carnival" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1995009a5f90e83987e920c3b49b203.png" alt="Cover for Last Carnival" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-22</td>
       <td>JUNIEL</td>
@@ -1097,8 +1098,8 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 12</li>
             <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 76</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1145,8 +1146,8 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 24</li>
             <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 69</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1172,7 +1173,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 93</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 9</li>
             <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 100</li>
         </ul>
       </td>
@@ -1206,7 +1207,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/mH_J0Oz1je5xK8DrO2QdFARSZGQHohFQgBE522BgLs4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTgw/MjQyLTE2ODg0OTY5/NjctNzUwMi5qcGVn.jpeg" alt="Cover for Apple Pie" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/206f1a721b77e2ad5dee1c79b91a5f84.png" alt="Cover for Apple Pie" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-05-31</td>
       <td>FIESTAR</td>
@@ -1224,8 +1225,8 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 79</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 81</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 80</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1250,7 +1251,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/6c5gjfojZI4nGFO-M_1nVtDMTFwlVrj8zBKbxN-Wq_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEz/MzQ2LTE1MzA2MzAx/NjUtMjQzMS5qcGVn.jpeg" alt="Cover for Innocent Flower" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d826791bb424741df88268d7e6b4b7ed.png" alt="Cover for Innocent Flower" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Inori Minase</td>
@@ -1269,15 +1270,15 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 18</li>
             <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 79</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/5WkE53BWOnluiL3QmExDCPG3RJMYQdY2k9cgsWS46dU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MjEy/NDItMTQ4ODU3NzU5/NC04OTk0LmpwZWc.jpeg" alt="Cover for Spotlight" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d862f48a1e72890ec66a41b1174936bb.png" alt="Cover for Spotlight" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-02-16</td>
       <td>Sohee</td>
@@ -1300,7 +1301,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/WAcgRSSymyhPLxxoQmFfCz3LSC7RrIwf5gv4jcdWzpw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzY5/NTU4LTE1MTUwOTE1/MjItOTkwNi5qcGVn.jpeg" alt="Cover for Mix B" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/989fd001443f4b77c1835546ab889cff.png" alt="Cover for Mix B" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-03-21</td>
       <td>Eyedi</td>
@@ -1341,7 +1342,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 48</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 54</li>
             <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 85</li>
         </ul>
       </td>
@@ -1366,8 +1367,8 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 16</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 18</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 22</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1418,7 +1419,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 40</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 60</li>
             <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 87</li>
         </ul>
       </td>
@@ -1426,7 +1427,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/LHC8YE0-7u0cowQHCq4Min3sFmdCT5OHATcSH5sS2oI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDk1/NTIyLTE1Njk1ODQ0/OTAtNzM0Ny5wbmc.jpeg" alt="Cover for Kim Lip" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb392b8c2f5544a508fb7e1203e1bc36.png" alt="Cover for Kim Lip" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-23</td>
       <td>이달의 소녀</td>
@@ -1475,7 +1476,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/SktHHjT9Cp2TJtMfB31UaZLujOKqsAQkPmLOsO4u81w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTIw/MzAyLTE1NjY1NjM1/MDMtNDYzMy5qcGVn.jpeg" alt="Cover for Cherry Passport" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/60bbd066ebb79f707694f97fa6052bd8.png" alt="Cover for Cherry Passport" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-07-26</td>
       <td>Yui Ogura</td>
@@ -1501,7 +1502,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/qaptKlaEa689J0FYbN1d7DqTkHRivCXJBSZTp-Pu7zM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDMx/MzIyLTE2NTkwNzQz/NTktNTg5Ny5qcGVn.jpeg" alt="Cover for HIGHLIGHT - The Very Best of Toki Asako -" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d67605b39bcd84151655aa8bde929892.png" alt="Cover for HIGHLIGHT - The Very Best of Toki Asako -" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-07-26</td>
       <td>Asako Toki</td>
@@ -1520,7 +1521,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 32</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 68</li>
             <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 84</li>
         </ul>
       </td>
@@ -1544,7 +1545,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 65</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 36</li>
             <li> <a href="{{ "/tags/turkish-pop" | relative_url }}">turkish pop</a> # 89</li>
         </ul>
       </td>
@@ -1578,7 +1579,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/dQXl8hxnXWQL497A71A6xchH-s1RfX55u4noTATOmC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mzgw/ODg2LTE2NjM2MDg4/ODMtODUyNS5qcGVn.jpeg" alt="Cover for Kriesha Chu 1st Single Album" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/597c593c44b3301927a75267e3fcb16c.png" alt="Cover for Kriesha Chu 1st Single Album" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Kriesha Chu</td>
@@ -1601,7 +1602,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/0Z6uUsG5mOSqUM21oEp7Zgxk7qHp3w-y29PN2gO9UNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ0/MTg0LTE1MzkyMDgx/MDQtMzc2Mi5qcGVn.jpeg" alt="Cover for 3AM" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/30203c46f22cb5b2d77db4e67906ac3f.png" alt="Cover for 3AM" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-01-22</td>
       <td>Aga</td>
@@ -1624,7 +1625,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/kMlrD93MgUi0ylOqstAYQGvwMuIx7EJCXhPkzb8jwN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjAx/NDkwLTE1ODgwMTk5/NTItOTQ2Mi5qcGVn.jpeg" alt="Cover for Strong Woman Do Bong Soon, Pt. 4 (Original Soundtrack)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2962b07898d6a445925cdaf5f1476057.png" alt="Cover for Strong Woman Do Bong Soon, Pt. 4 (Original Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-04-27</td>
       <td>Kim Chung Ha</td>
@@ -1666,7 +1667,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/hAA1Mp3h1T6I-ifu8sVNgjyL_Tp4QHydgekLusZKiLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NDU3/MjMtMTU0MDMwOTI0/MS05ODUyLmpwZWc.jpeg" alt="Cover for Through the Night" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b936c6bbe366eddeea41c5cbf2e06d9d.png" alt="Cover for Through the Night" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-02-20</td>
       <td>IU</td>
@@ -1905,6 +1906,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
     <tr>
       <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4422d901c105f40a026c47de53999bd.png" alt="Cover for Miracle Orange" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>きゃりーぱみゅぱみゅ</td>
@@ -2023,6 +2025,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
       <td>
         <ul>
             <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 71</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2047,8 +2050,8 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 4</li>
             <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 73</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -2073,7 +2076,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 30</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 70</li>
             <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 82</li>
         </ul>
       </td>
@@ -2099,7 +2102,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 39</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 61</li>
             <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 86</li>
         </ul>
       </td>
@@ -2125,7 +2128,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 41</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 59</li>
             <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 88</li>
         </ul>
       </td>
@@ -2133,6 +2136,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
     <tr>
       <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/33baebb05d4919858facab2cefcaa7ad.png" alt="Cover for 很晚的晚安" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>孫盛希</td>
@@ -2175,6 +2179,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
     <tr>
       <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2506709db09d4e0282e5ab83ab5e443b.png" alt="Cover for 為你朝思暮想" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>那英</td>
@@ -2198,6 +2203,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
     <tr>
       <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e06f4f334bb275282e62c5a6eaa093b2.png" alt="Cover for 庄心妍情歌精選集" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>庄心妍</td>
@@ -2242,6 +2248,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
     <tr>
       <td>18</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec285863d6bd79e01018492c4d9b0fa9.png" alt="Cover for 不意外的意外" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>連詩雅</td>
@@ -2264,6 +2271,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
     <tr>
       <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/399885ec7557403dc03b305592f78392.png" alt="Cover for 溫水" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>郁可唯</td>
@@ -2307,6 +2315,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/38dd305dc088d5076ce7d9d9ed7daa11.png" alt="Cover for Trick or Treat" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>그레이스</td>
@@ -2351,6 +2360,7 @@ This tag encompasses music featuring female vocalists from across Asia, spanning
     <tr>
       <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/daed055ccbd4884732110e2ea97fb700.png" alt="Cover for 一格格" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>衛蘭</td>

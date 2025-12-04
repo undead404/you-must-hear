@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T00:23:22.800Z
+date: 2025-12-04T06:57:34.232Z
 permalink: tags/orthodox-black-metal
 title: orthodox black metal
 ---
 
 ## orthodox black metal
 
-Last updated: <time datetime="2025-10-22T00:23:22.800Z">Wed Oct 22 2025 03:23:22 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T06:57:34.232Z">Thu Dec 04 2025 08:57:34 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -88,9 +88,9 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 4</li>
             <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 65</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 73</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -113,8 +113,8 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 18</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 60</li>
+            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 19</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 41</li>
             <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 80</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 87</li>
         </ul>
@@ -178,14 +178,14 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 78</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/Fit8gr6mBIMDsWOIIxb4GmatSed7Q4BV42jWOIP2Tss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTAw/My0xNTU2MDQyMjcw/LTM2MTQuanBlZw.jpeg" alt="Cover for Nachtmystium" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fdedad53085adda0e9e023c54c7ddbcb.png" alt="Cover for Nachtmystium" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Nachtmystium</td>
@@ -242,7 +242,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/ILS7bhvoCQv0wpwOUFQXyWxbLbddT-AUu5Bm0niGiII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTE0/Ni0xMTQ0NjE3ODIy/LmpwZWc.jpeg" alt="Cover for Si Monumentum Requires, Circumspice" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1404b95c1968be826a289f529728750d.png" alt="Cover for Si Monumentum Requires, Circumspice" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-02</td>
       <td>Deathspell Omega</td>
@@ -348,7 +348,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 9</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -389,7 +389,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 3</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -408,8 +408,8 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 19</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 36</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 70</li>
             <li> <a href="{{ "/tags/swedish-black-metal" | relative_url }}">swedish black metal</a> # 100</li>
         </ul>
       </td>
@@ -429,7 +429,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 7</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -617,7 +617,6 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
@@ -639,37 +638,38 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 2</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 3</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 8</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 9</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 16</li>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 28</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 10</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 16</li>
+            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 16</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 22</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 27</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 30</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 30</li>
+            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 32</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 38</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 40</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 42</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 44</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 47</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 48</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 49</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 53</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 58</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 62</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 62</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 46</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 47</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 53</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 53</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 54</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 54</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 63</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 65</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 66</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 66</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 67</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 72</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 75</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 81</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 82</li>
-            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 83</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 81</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 83</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 85</li>
-            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 85</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 83</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 86</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 87</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 89</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 91</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 92</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -713,6 +713,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
     <tr>
       <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e00e003307974bea8865b47032040cc8.png" alt="Cover for Arisen from the Ashes" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-12</td>
       <td>Ondskapt</td>
@@ -766,7 +767,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       <td>
         <ul>
             <li> <a href="{{ "/tags/swedish-black-metal" | relative_url }}">swedish black metal</a> # 18</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 22</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -808,7 +809,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 39</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 62</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 84</li>
         </ul>
       </td>
@@ -831,7 +832,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 88</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 13</li>
             <li> <a href="{{ "/tags/french-black-metal" | relative_url }}">french black metal</a> # 98</li>
         </ul>
       </td>
@@ -858,6 +859,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0973610d4ef36b301aeba9f87604757.png" alt="Cover for Hot Problems" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-18</td>
       <td>Double Take</td>
@@ -927,7 +929,6 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
@@ -950,29 +951,28 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       <td>
         <ul>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 9</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 10</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 13</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 16</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 24</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 26</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 27</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 29</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 32</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 38</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 43</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 43</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 26</li>
+            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 28</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 34</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 40</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 44</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 47</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 48</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 45</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 49</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 54</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 57</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 56</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 57</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 61</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 70</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 70</li>
-            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 73</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 73</li>
-            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 75</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 72</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 73</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 75</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 77</li>
+            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 75</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 82</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 85</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1051,7 +1051,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 3</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1111,7 +1111,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/5fEY661TtEixTQGi0raqlabr0RWCjutx4bQKPVTUods/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NjQ2/MjgtMTM5OTMxODI2/OS04NDU4LmpwZWc.jpeg" alt="Cover for Non Pietatem Erit" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2bf1c4da36f43a584a9ec99536454df.png" alt="Cover for Non Pietatem Erit" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-02-01</td>
       <td>Fathomhell</td>
@@ -1169,7 +1169,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 5</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1208,13 +1208,14 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 38</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef534ed897b4fee346393653c0449e80.png" alt="Cover for BABYMETAL" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-02-26</td>
       <td>BABYMETAL</td>
@@ -1227,24 +1228,23 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 7</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 10</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 15</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 15</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 31</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 32</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 38</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 40</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 1</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 8</li>
+            <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 9</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 15</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 16</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 20</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 27</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 32</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 45</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 46</li>
             <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 50</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 52</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 64</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 74</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 69</li>
             <li> <a href="{{ "/tags/unblack-metal" | relative_url }}">unblack metal</a> # 79</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 81</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 84</li>
-            <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 92</li>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 100</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 84</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1518,7 +1518,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 37</li>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1558,7 +1558,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 77</li>
+            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1577,7 +1577,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 67</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1619,7 +1619,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 23</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1647,7 +1647,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/PTCjPrpnaJLeqZj-OeZL_e3Gix8GGe06NPrm81a26Ns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTAw/ODUtMTQ3OTA1NzU5/OS05NTE5LmpwZWc.jpeg" alt="Cover for Virgin Summer EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/32ce6a1c0be26596627a3c3abba2782b.png" alt="Cover for Virgin Summer EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-09-21</td>
       <td>BVDK</td>
@@ -1707,8 +1707,8 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 19</li>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 30</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 33</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1855,7 +1855,7 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/LosBeifjnp-VdAg0NP70Mm-Jg-tDSpEsDhTnzz1USz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzIy/NDcwLTE1MjEyODI5/MTQtMTU4Mi5qcGVn.jpeg" alt="Cover for Der König ist tot" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ee84fd9a8955632925de3c0544d1468.png" alt="Cover for Der König ist tot" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-02-17</td>
       <td>Mavorim</td>
@@ -2193,7 +2193,6 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a></li>
@@ -2217,11 +2216,11 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 13</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 13</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 19</li>
-            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 19</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 30</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 30</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 37</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 49</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 48</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 65</li>
+            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -2248,7 +2247,6 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
             <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
             <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/rac" | relative_url }}">rac</a></li>
             <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
             <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a></li>
             <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a></li>
@@ -2258,12 +2256,12 @@ Orthodox black metal refers to a dark, atmospheric style that adheres strictly t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 20</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 22</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 22</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 25</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 29</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 45</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 51</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 77</li>
+            <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 81</li>
         </ul>
       </td>
     </tr>

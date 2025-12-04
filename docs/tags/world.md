@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-20T08:58:34.737Z
+date: 2025-12-04T07:01:01.118Z
 permalink: tags/world
 title: world
 ---
 
 ## world
 
-Last updated: <time datetime="2025-11-20T08:58:34.737Z">Thu Nov 20 2025 10:58:34 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:01:01.118Z">Thu Dec 04 2025 09:01:01 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -42,7 +42,7 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 82</li>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -100,9 +100,9 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 58</li>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 90</li>
-            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 100</li>
+            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 1</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 10</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -126,8 +126,8 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 63</li>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 94</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 6</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -148,9 +148,9 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 79</li>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 87</li>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 90</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 11</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 13</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -213,10 +213,10 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 50</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 8</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 11</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 52</li>
             <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 66</li>
-            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 90</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 93</li>
             <li> <a href="{{ "/tags/flamenco-guitar" | relative_url }}">flamenco guitar</a> # 100</li>
         </ul>
       </td>
@@ -238,14 +238,15 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 4</li>
             <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 76</li>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/109390224ceb3a4700dcb82d8a34e3bd.png" alt="Cover for The Source" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-06-15</td>
       <td>Ali Farka Touré</td>
@@ -257,14 +258,14 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mali" | relative_url }}">mali</a> # 62</li>
+            <li> <a href="{{ "/tags/mali" | relative_url }}">mali</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/KWcX_eaoJ8Fc4l_th3IRmdGvPi1TjvTC8otURfWuDHI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5ODI5/MC0xNTU1MDAzNDQx/LTQ3MTcuanBlZw.jpeg" alt="Cover for Talking Timbuktu" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/546a859232b54c5ecc7ce2ce5f8a5316.png" alt="Cover for Talking Timbuktu" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-06-15</td>
       <td>Ali Farka Touré</td>
@@ -278,8 +279,8 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mali" | relative_url }}">mali</a> # 88</li>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 93</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 8</li>
+            <li> <a href="{{ "/tags/mali" | relative_url }}">mali</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -355,14 +356,15 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 88</li>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 96</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 5</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/508a1ad557621bfef773c7c5592f9d92.png" alt="Cover for Talking Timbuktu" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Ali Farka Touré and Ry Cooder</td>
@@ -382,6 +384,7 @@ World music encompasses traditional and contemporary styles from diverse global 
     <tr>
       <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/517fe6f16d38454f8951da039e7408d2.png" alt="Cover for Muso Ko" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Habib Koité &amp; Bamada</td>
@@ -394,7 +397,7 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 96</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -415,8 +418,8 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 9</li>
             <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 64</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 92</li>
             <li> <a href="{{ "/tags/flamenco-guitar" | relative_url }}">flamenco guitar</a> # 99</li>
         </ul>
       </td>
@@ -437,8 +440,8 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 74</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 96</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 5</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -476,7 +479,7 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 98</li>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -513,7 +516,7 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 89</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -552,7 +555,7 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 16</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -616,13 +619,14 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 94</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7f78c270cd1485ca4d1144eb0ad5eaa.png" alt="Cover for Niafunke" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-06-21</td>
       <td>Ali Farka Touré</td>
@@ -635,7 +639,7 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mali" | relative_url }}">mali</a> # 65</li>
+            <li> <a href="{{ "/tags/mali" | relative_url }}">mali</a> # 36</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 81</li>
         </ul>
       </td>
@@ -656,7 +660,7 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 29</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -715,15 +719,15 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 37</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 43</li>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/yMuxEdErY5xd-5jdOV2joGCrtrnvlgiXl2JO2P1bGtA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0OTM5/Ni0xNTMzMDM2MDEy/LTQwNzIuanBlZw.jpeg" alt="Cover for Moffou" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4bb8a73ecc0447659d6d4ba462524bdc.png" alt="Cover for Moffou" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Salif Keita</td>
@@ -735,9 +739,9 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 4</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 28</li>
-            <li> <a href="{{ "/tags/mali" | relative_url }}">mali</a> # 42</li>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 97</li>
+            <li> <a href="{{ "/tags/mali" | relative_url }}">mali</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -758,7 +762,7 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 57</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -779,8 +783,8 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 3</li>
             <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 78</li>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -826,6 +830,7 @@ World music encompasses traditional and contemporary styles from diverse global 
     <tr>
       <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb0d19444ed147f1bbf19631d9564e39.png" alt="Cover for Timbuktu" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-05-20</td>
       <td>Issa Bagayogo</td>
@@ -838,8 +843,8 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 24</li>
-            <li> <a href="{{ "/tags/mali" | relative_url }}">mali</a> # 89</li>
+            <li> <a href="{{ "/tags/mali" | relative_url }}">mali</a> # 12</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -878,9 +883,9 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 4</li>
             <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 67</li>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 82</li>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 97</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -901,20 +906,20 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 2</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 18</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 29</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 60</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 80</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 83</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 99</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 2</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 17</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 19</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 19</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 41</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 70</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/8YoKICifUCtkLV3gtvZovo_NoUO1YLNjU2eGozLAV1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mzk0/MjEtMTMzMDcwOTAx/Ny5qcGVn.jpeg" alt="Cover for Deb (Heart Broken)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fce383583a4e31c0e26116a4be6996d.png" alt="Cover for Deb (Heart Broken)" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Souad Massi</td>
@@ -927,7 +932,7 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 73</li>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -949,7 +954,7 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 62</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -990,7 +995,7 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 93</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1008,7 +1013,7 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 14</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1050,8 +1055,8 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 80</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 85</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 16</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1096,7 +1101,7 @@ World music encompasses traditional and contemporary styles from diverse global 
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 24</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 25</li>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 40</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 45</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1117,7 +1122,7 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 66</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1137,7 +1142,7 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mali" | relative_url }}">mali</a> # 99</li>
+            <li> <a href="{{ "/tags/mali" | relative_url }}">mali</a> # 2</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 99</li>
         </ul>
       </td>
@@ -1159,14 +1164,14 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 96</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/1Fe8XKCuu0J-FNJLl3KOT7RT46f_Q4yj9kns8cD6r8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTEy/MTAtMTMyNDI5NjE2/Mi5qcGVn.jpeg" alt="Cover for M&#39;Bemba" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/478eef88888e4b64cbe5a06227d50c2e.png" alt="Cover for M&#39;Bemba" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Salif Keita</td>
@@ -1180,8 +1185,8 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 71</li>
-            <li> <a href="{{ "/tags/mali" | relative_url }}">mali</a> # 94</li>
+            <li> <a href="{{ "/tags/mali" | relative_url }}">mali</a> # 7</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1200,7 +1205,7 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 77</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 24</li>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 100</li>
         </ul>
       </td>
@@ -1222,7 +1227,7 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 70</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1249,7 +1254,7 @@ World music encompasses traditional and contemporary styles from diverse global 
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/5fgREFsO6XsHHqtROwLO7uIy8rjnb6z7Egt0IGvJwq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTU1/NjgtMTM5NzU0NzI5/Ni00NTc0LmpwZWc.jpeg" alt="Cover for Aman Iman: Water Is Life" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/028e744dcfddacf1a37ce8c6aa250c91.png" alt="Cover for Aman Iman: Water Is Life" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Tinariwen</td>
@@ -1263,8 +1268,8 @@ World music encompasses traditional and contemporary styles from diverse global 
       <td>
         <ul>
             <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 17</li>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 19</li>
             <li> <a href="{{ "/tags/algeria" | relative_url }}">algeria</a> # 79</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 81</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 92</li>
         </ul>
       </td>
@@ -1310,6 +1315,7 @@ World music encompasses traditional and contemporary styles from diverse global 
     <tr>
       <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f11ae8a1ec01475fc704be88d3a63c7c.png" alt="Cover for Savane" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-07-17</td>
       <td>Ali Farka Touré</td>
@@ -1321,9 +1327,9 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 2</li>
-            <li> <a href="{{ "/tags/mali" | relative_url }}">mali</a> # 81</li>
+            <li> <a href="{{ "/tags/mali" | relative_url }}">mali</a> # 20</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 97</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1344,11 +1350,11 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 1</li>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 15</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 20</li>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 24</li>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 32</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 81</li>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 86</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 100</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1368,8 +1374,8 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 20</li>
-            <li> <a href="{{ "/tags/mali" | relative_url }}">mali</a> # 76</li>
+            <li> <a href="{{ "/tags/mali" | relative_url }}">mali</a> # 25</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1388,8 +1394,8 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 22</li>
-            <li> <a href="{{ "/tags/mali" | relative_url }}">mali</a> # 79</li>
+            <li> <a href="{{ "/tags/mali" | relative_url }}">mali</a> # 22</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1411,7 +1417,7 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 76</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1432,7 +1438,7 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 75</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1451,7 +1457,7 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 60</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 66</li>
             <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 98</li>
             <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 99</li>
         </ul>
@@ -1534,8 +1540,8 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 98</li>
-            <li> <a href="{{ "/tags/mali" | relative_url }}">mali</a> # 98</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 3</li>
+            <li> <a href="{{ "/tags/mali" | relative_url }}">mali</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1556,8 +1562,8 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 40</li>
             <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 55</li>
+            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1577,7 +1583,7 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 88</li>
+            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1634,7 +1640,7 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 100</li>
+            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1680,20 +1686,20 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 11</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 51</li>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 51</li>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 86</li>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 88</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 2</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 3</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 3</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 6</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 7</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 9</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 10</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 34</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 35</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 53</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 87</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 88</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 92</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 94</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 94</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 95</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 98</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 98</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 99</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 99</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 100</li>
         </ul>
       </td>
@@ -1818,6 +1824,7 @@ World music encompasses traditional and contemporary styles from diverse global 
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cdf3aebdd3b74e8881a78cb9777f5d82.png" alt="Cover for Nomad" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-02</td>
       <td>Bombino</td>
@@ -1836,9 +1843,9 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nashville" | relative_url }}">nashville</a> # 2</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 2</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 98</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 99</li>
-            <li> <a href="{{ "/tags/nashville" | relative_url }}">nashville</a> # 99</li>
             <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 99</li>
             <li> <a href="{{ "/tags/takamba" | relative_url }}">takamba</a> # 100</li>
         </ul>
@@ -1940,61 +1947,63 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 4</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 5</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 6</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 24</li>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 25</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 40</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 48</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 49</li>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 65</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 67</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 4</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 4</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 4</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 5</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 5</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 6</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 6</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 6</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 6</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 7</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 8</li>
+            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 11</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 11</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 14</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 15</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 15</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 15</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 21</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 22</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 29</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 31</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 33</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 50</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 59</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 63</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 72</li>
             <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 74</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 75</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 80</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 76</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 83</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 83</li>
-            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 85</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 86</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 86</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 87</li>
-            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 90</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 90</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 91</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 92</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 92</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 92</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 92</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 92</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 93</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 92</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 92</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 93</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 94</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 93</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 94</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 94</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 94</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 95</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 95</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 95</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 95</li>
             <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 95</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 95</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 95</li>
-            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 96</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 96</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 96</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 96</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 96</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 96</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 96</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 96</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 96</li>
+            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 96</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 96</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 96</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 97</li>
             <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 97</li>
             <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 97</li>
             <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 97</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 97</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 97</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 97</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 97</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -2113,22 +2122,22 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 2</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 19</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 63</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 76</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 1</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 3</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 4</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 12</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 16</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 24</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 25</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 37</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 77</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 78</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 85</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 85</li>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 88</li>
             <li> <a href="{{ "/tags/eurobeat" | relative_url }}">eurobeat</a> # 93</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 94</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 96</li>
             <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 98</li>
-            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 99</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 99</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 100</li>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2150,9 +2159,9 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 41</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 5</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 53</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 69</li>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -2194,8 +2203,8 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 53</li>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 86</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 15</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -2215,7 +2224,7 @@ World music encompasses traditional and contemporary styles from diverse global 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 90</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 11</li>
         </ul>
       </td>
     </tr>

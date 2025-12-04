@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T12:11:38.046Z
+date: 2025-12-04T06:54:21.520Z
 permalink: tags/progressive-black-metal
 title: progressive black metal
 ---
 
 ## progressive black metal
 
-Last updated: <time datetime="2025-11-23T12:11:38.046Z">Sun Nov 23 2025 14:11:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T06:54:21.520Z">Thu Dec 04 2025 08:54:21 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -199,7 +199,7 @@ Progressive black metal expands upon traditional black metal&#39;s raw aggressio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 82</li>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -240,7 +240,7 @@ Progressive black metal expands upon traditional black metal&#39;s raw aggressio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 61</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -396,9 +396,9 @@ Progressive black metal expands upon traditional black metal&#39;s raw aggressio
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 13</li>
             <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 63</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 77</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 88</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 92</li>
         </ul>
       </td>
@@ -518,7 +518,7 @@ Progressive black metal expands upon traditional black metal&#39;s raw aggressio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 40</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 61</li>
             <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 86</li>
         </ul>
       </td>
@@ -557,6 +557,7 @@ Progressive black metal expands upon traditional black metal&#39;s raw aggressio
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/extreme-progressive-metal" | relative_url }}">extreme progressive metal</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -574,6 +575,7 @@ Progressive black metal expands upon traditional black metal&#39;s raw aggressio
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/extreme-progressive-metal" | relative_url }}">extreme progressive metal</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -655,6 +657,7 @@ Progressive black metal expands upon traditional black metal&#39;s raw aggressio
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/19da75c436ecc5b7bf8b51e74e6e38de.png" alt="Cover for Circadian Rhythm" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-04-28</td>
       <td>Thurisaz</td>
@@ -668,8 +671,8 @@ Progressive black metal expands upon traditional black metal&#39;s raw aggressio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 37</li>
-            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 83</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 63</li>
+            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -728,7 +731,7 @@ Progressive black metal expands upon traditional black metal&#39;s raw aggressio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 28</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -766,6 +769,7 @@ Progressive black metal expands upon traditional black metal&#39;s raw aggressio
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/extreme-progressive-metal" | relative_url }}">extreme progressive metal</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -929,6 +933,7 @@ Progressive black metal expands upon traditional black metal&#39;s raw aggressio
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/extreme-progressive-metal" | relative_url }}">extreme progressive metal</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -949,7 +954,7 @@ Progressive black metal expands upon traditional black metal&#39;s raw aggressio
       <td>
         <ul>
             <li> <a href="{{ "/tags/french-black-metal" | relative_url }}">french black metal</a> # 28</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 55</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 46</li>
             <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 98</li>
         </ul>
       </td>
@@ -957,6 +962,7 @@ Progressive black metal expands upon traditional black metal&#39;s raw aggressio
     <tr>
       <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a095a104258488a849e9832abc7b0c0.png" alt="Cover for VII: Född förlorare" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-11</td>
       <td>Shining</td>
@@ -968,7 +974,7 @@ Progressive black metal expands upon traditional black metal&#39;s raw aggressio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 43</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -988,7 +994,8 @@ Progressive black metal expands upon traditional black metal&#39;s raw aggressio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 40</li>
+            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 39</li>
+            <li> <a href="{{ "/tags/extreme-progressive-metal" | relative_url }}">extreme progressive metal</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1060,8 +1067,9 @@ Progressive black metal expands upon traditional black metal&#39;s raw aggressio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 1</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 51</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 50</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1079,7 +1087,6 @@ Progressive black metal expands upon traditional black metal&#39;s raw aggressio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1115,24 +1122,7 @@ Progressive black metal expands upon traditional black metal&#39;s raw aggressio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 29</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>25</td>
-      <td>
-      </td>
-      <td>2012-09-28</td>
-      <td>Dordeduh</td>
-      <td>Dar de duh</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1146,6 +1136,24 @@ Progressive black metal expands upon traditional black metal&#39;s raw aggressio
       <td>RIITIIR</td>
       <td>
         <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/extreme-progressive-metal" | relative_url }}">extreme progressive metal</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+      </td>
+      <td>2012-09-28</td>
+      <td>Dordeduh</td>
+      <td>Dar de duh</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
         </ul>
       </td>
       <td>
@@ -1215,6 +1223,26 @@ Progressive black metal expands upon traditional black metal&#39;s raw aggressio
       </td>
     </tr>
     <tr>
+      <td>31</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1bef92408caba9e4a46f803bde57c167.png" alt="Cover for Extance" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-01-20</td>
+      <td>Aenaon</td>
+      <td>Extance</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/extreme-progressive-metal" | relative_url }}">extreme progressive metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/extreme-progressive-metal" | relative_url }}">extreme progressive metal</a> # 3</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d98a497970dd6b79b10267eec81e3f3b.png" alt="Cover for Oi Magoi" style="max-width:120px; height:auto;" />
@@ -1226,24 +1254,6 @@ Progressive black metal expands upon traditional black metal&#39;s raw aggressio
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
             <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>31</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1bef92408caba9e4a46f803bde57c167.png" alt="Cover for Extance" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2014-01-20</td>
-      <td>Aenaon</td>
-      <td>Extance</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a></li>
         </ul>
       </td>
       <td>
@@ -1270,6 +1280,25 @@ Progressive black metal expands upon traditional black metal&#39;s raw aggressio
       </td>
     </tr>
     <tr>
+      <td>54</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/561dfc6d135977bba88f0a4a127ff3a9.png" alt="Cover for Citadel" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-11-07</td>
+      <td>Ne Obliviscaris</td>
+      <td>Citadel</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/extreme-progressive-metal" | relative_url }}">extreme progressive metal</a> # 26</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/963fd9ea833753497a5ff1b46c622bf9.png" alt="Cover for Hiraeth" style="max-width:120px; height:auto;" />
@@ -1281,24 +1310,6 @@ Progressive black metal expands upon traditional black metal&#39;s raw aggressio
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>54</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/561dfc6d135977bba88f0a4a127ff3a9.png" alt="Cover for Citadel" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2014-11-07</td>
-      <td>Ne Obliviscaris</td>
-      <td>Citadel</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
         </ul>
       </td>
       <td>
@@ -1363,7 +1374,7 @@ Progressive black metal expands upon traditional black metal&#39;s raw aggressio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 62</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1401,8 +1412,8 @@ Progressive black metal expands upon traditional black metal&#39;s raw aggressio
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 16</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 44</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1497,6 +1508,7 @@ Progressive black metal expands upon traditional black metal&#39;s raw aggressio
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/extreme-progressive-metal" | relative_url }}">extreme progressive metal</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1515,6 +1527,7 @@ Progressive black metal expands upon traditional black metal&#39;s raw aggressio
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/extreme-progressive-metal" | relative_url }}">extreme progressive metal</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1557,7 +1570,7 @@ Progressive black metal expands upon traditional black metal&#39;s raw aggressio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 30</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 33</li>
             <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 63</li>
         </ul>
       </td>
@@ -1565,7 +1578,7 @@ Progressive black metal expands upon traditional black metal&#39;s raw aggressio
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/kMFeefzcgGAWbx1lNR2GEwzbfQ8FmSNnB9HlbMUwe-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTQ4/MDctMTQ4MDE2NjA1/Ny03NDgyLmpwZWc.jpeg" alt="Cover for The Xun Protectorate" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a4eb4413026836fbf52cbc76cdeca5c.png" alt="Cover for The Xun Protectorate" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-11-25</td>
       <td>Khonsu</td>
@@ -1605,9 +1618,9 @@ Progressive black metal expands upon traditional black metal&#39;s raw aggressio
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 8</li>
             <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 10</li>
             <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 76</li>
-            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1688,7 +1701,7 @@ Progressive black metal expands upon traditional black metal&#39;s raw aggressio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 18</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1947,8 +1960,8 @@ Progressive black metal expands upon traditional black metal&#39;s raw aggressio
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 4</li>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 95</li>
-            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1969,7 +1982,7 @@ Progressive black metal expands upon traditional black metal&#39;s raw aggressio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 33</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 67</li>
         </ul>
       </td>
     </tr>

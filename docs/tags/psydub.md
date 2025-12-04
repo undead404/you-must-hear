@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T17:23:14.753Z
+date: 2025-12-04T06:56:50.266Z
 permalink: tags/psydub
 title: psydub
 ---
 
 ## psydub
 
-Last updated: <time datetime="2025-11-17T17:23:14.753Z">Mon Nov 17 2025 19:23:14 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T06:56:50.266Z">Thu Dec 04 2025 08:56:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -66,7 +66,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 48</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 52</li>
             <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 97</li>
         </ul>
       </td>
@@ -74,7 +74,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Inner Gathering" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f51ed49471d4903b0fb88bdb4e3e14b.png" alt="Cover for Inner Gathering" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Various Artists</td>
@@ -115,7 +115,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for Space Forming" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/611336f6136ae2ed039696923cbfc82c.png" alt="Cover for Space Forming" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Various Artists</td>
@@ -203,8 +203,8 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 80</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 91</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 20</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -224,8 +224,8 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 79</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 90</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 21</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -244,7 +244,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 84</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -270,6 +270,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d6e930736d98ee77fc9065111da2c7f.png" alt="Cover for Seen" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>International Observer</td>
@@ -301,7 +302,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 65</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -342,8 +343,8 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 7</li>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 48</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 53</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -362,7 +363,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 45</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -418,11 +419,11 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 14</li>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 30</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 49</li>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 56</li>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 60</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 41</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 45</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 52</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 71</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -443,7 +444,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 88</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -497,10 +498,10 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 1</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 41</li>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 57</li>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 83</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 18</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 44</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 60</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -559,7 +560,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 36</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -617,9 +618,9 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 18</li>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 21</li>
             <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 78</li>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -695,8 +696,8 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 4</li>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 94</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 81</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -715,8 +716,8 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 27</li>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 91</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 10</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -757,13 +758,13 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 3</li>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 8</li>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 31</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 49</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 71</li>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 81</li>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 84</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 4</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 10</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 16</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 19</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 30</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 52</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -824,7 +825,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 59</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -866,9 +867,9 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 30</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 36</li>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 54</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 47</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 65</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -886,8 +887,8 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 56</li>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 61</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 40</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -905,7 +906,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 50</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1034,7 +1035,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 16</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1139,7 +1140,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 69</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1199,8 +1200,8 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
         <ul>
             <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 4</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 5</li>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 41</li>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 44</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 56</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1293,7 +1294,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 24</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1517,9 +1518,9 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       <td>
         <ul>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 23</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 28</li>
             <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 48</li>
             <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 50</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1557,7 +1558,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/KmZAeucYPj-KDMUnfdIVrB29jDEOz-6OT3vo8L2m9xE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjYx/NDUtMTQwMjA1OTMw/NS0xMzk0LmpwZWc.jpeg" alt="Cover for Cirrus Sapiens" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9bcc4e51394d45f2c5ad2431a77c0c90.png" alt="Cover for Cirrus Sapiens" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-05-20</td>
       <td>Skytree</td>
@@ -1668,7 +1669,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 16</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1689,7 +1690,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 50</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1712,8 +1713,8 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 96</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 99</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 2</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1740,7 +1741,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a> # 76</li>
+            <li> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1840,7 +1841,7 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 8</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1921,9 +1922,9 @@ Psydub blends the deep bass and spacious production of dub with psychedelic tran
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 8</li>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 75</li>
-            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 94</li>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 7</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 26</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 93</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T14:48:01.370Z
+date: 2025-12-04T06:55:55.301Z
 permalink: tags/portugal
 title: portugal
 ---
 
 ## portugal
 
-Last updated: <time datetime="2025-10-28T14:48:01.370Z">Tue Oct 28 2025 16:48:01 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T06:55:55.301Z">Thu Dec 04 2025 08:55:55 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ This tag encompasses music originating from or strongly associated with Portugue
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/YaGwKh79NYysf7_athm2i0Zcyi9dkSQBy6pWwod3RLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjM2/MDMtMTM5MjA1NDEy/OC00NzkyLmpwZWc.jpeg" alt="Cover for Guitarra Portuguesa" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0204c32fc497bf7b43d3412871044229.png" alt="Cover for Guitarra Portuguesa" style="max-width:120px; height:auto;" />
       </td>
       <td>1967</td>
       <td>Carlos Paredes</td>
@@ -175,7 +175,7 @@ This tag encompasses music originating from or strongly associated with Portugue
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/O3kTHlGiEECNv-2Zc8KtMUaeSTCcKDFpTRsGo1jFbns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNTE0/MzItMTQzOTU5NDIx/OC05MzI0LmpwZWc.jpeg" alt="Cover for Bocas do Inferno" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09042b8e234d49b9b21337fe82a7581b.png" alt="Cover for Bocas do Inferno" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Gaiteiros de Lisboa</td>
@@ -249,6 +249,7 @@ This tag encompasses music originating from or strongly associated with Portugue
     <tr>
       <td>18</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c0430af8f5d4a3d80f5a18efba1a3bb.png" alt="Cover for Phados" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Lula Pena</td>
@@ -301,7 +302,7 @@ This tag encompasses music originating from or strongly associated with Portugue
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 14</li>
+            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -361,8 +362,8 @@ This tag encompasses music originating from or strongly associated with Portugue
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fado" | relative_url }}">fado</a> # 14</li>
             <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 42</li>
+            <li> <a href="{{ "/tags/fado" | relative_url }}">fado</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -407,6 +408,7 @@ This tag encompasses music originating from or strongly associated with Portugue
     <tr>
       <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4bbe4f5f85f8e3824a2b4fb2e78f71e.png" alt="Cover for Nude" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-11-03</td>
       <td>Ramp</td>
@@ -441,7 +443,7 @@ This tag encompasses music originating from or strongly associated with Portugue
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fado" | relative_url }}">fado</a> # 77</li>
+            <li> <a href="{{ "/tags/fado" | relative_url }}">fado</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -500,10 +502,10 @@ This tag encompasses music originating from or strongly associated with Portugue
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 16</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 49</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 78</li>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 99</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 2</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 16</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 31</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -585,7 +587,7 @@ This tag encompasses music originating from or strongly associated with Portugue
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/6D5e5tH8nmtMo1nOWVuiAooYrLhBqWjel7rSsdb3ubk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDkx/NC0xMTE3NDkxMjcy/LmpwZw.jpeg" alt="Cover for 5 Dimensões EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7a7f9ecb42d4341da75d1673a0e2cb9.png" alt="Cover for 5 Dimensões EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-05-20</td>
       <td>Gamma Ray Blast</td>
@@ -602,14 +604,14 @@ This tag encompasses music originating from or strongly associated with Portugue
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 7</li>
+            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/uv9TBffd4KwHmSNpBiGlCIoKaBhGGdNSndWOeA6_gbA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjIw/MDQtMTQxODgyMzc0/NS0zNjA0LmpwZWc.jpeg" alt="Cover for Quiet Life vol.1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/89c7c31bda594fcb8fa7a5a57b493cbe.png" alt="Cover for Quiet Life vol.1" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-07-29</td>
       <td>David Schombert</td>
@@ -627,7 +629,7 @@ This tag encompasses music originating from or strongly associated with Portugue
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 52</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -653,7 +655,7 @@ This tag encompasses music originating from or strongly associated with Portugue
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/CH7-fzbU8QZg3cp8Ix2667xSTUIjXG9xmQ9uGn9X3Hg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDY2/OC0xNDQxMTYwOTk5/LTMxOTYuanBlZw.jpeg" alt="Cover for Santa Rita Lifestyle" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d97f29e4a7c1caeec3986c2a5197ca4.png" alt="Cover for Santa Rita Lifestyle" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Corona</td>
@@ -692,13 +694,14 @@ This tag encompasses music originating from or strongly associated with Portugue
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 19</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/578a55340a142a087d42210c3f87e2ed.png" alt="Cover for Roots 98" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-02-02</td>
       <td>Metricks</td>
@@ -714,7 +717,7 @@ This tag encompasses music originating from or strongly associated with Portugue
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 25</li>
+            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -779,10 +782,10 @@ This tag encompasses music originating from or strongly associated with Portugue
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 46</li>
-            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 72</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 81</li>
-            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 92</li>
+            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 9</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 20</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 54</li>
+            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 71</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 95</li>
         </ul>
       </td>
@@ -801,7 +804,7 @@ This tag encompasses music originating from or strongly associated with Portugue
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fado" | relative_url }}">fado</a> # 30</li>
+            <li> <a href="{{ "/tags/fado" | relative_url }}">fado</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -820,14 +823,14 @@ This tag encompasses music originating from or strongly associated with Portugue
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fado" | relative_url }}">fado</a> # 54</li>
+            <li> <a href="{{ "/tags/fado" | relative_url }}">fado</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/agkrUPds1Q12Hugb_9rcCa-JkVbb5CyKRLo5KAmPc-M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NjA3/MjctMTM1MDU5NTgy/NS0zNjE5LmpwZWc.jpeg" alt="Cover for Geografias" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8967b816d75e415b87a9457cd36d0d6b.png" alt="Cover for Geografias" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Júlio Pereira</td>
@@ -919,7 +922,7 @@ This tag encompasses music originating from or strongly associated with Portugue
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/nVjmYuwuW6IFwoZ_viyE9w1EFHhgBWxhXul93aMagow/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg1/OTQtMTU4NzU5MzE5/NS00MTYxLmpwZWc.jpeg" alt="Cover for Poles" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b142e2e46d6455391334bac40dead3e.png" alt="Cover for Poles" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-01-01</td>
       <td>Factory of Dreams</td>
@@ -1015,7 +1018,7 @@ This tag encompasses music originating from or strongly associated with Portugue
     <tr>
       <td>15</td>
       <td>
-          <img src="https://i.discogs.com/4hKb61W-HXOpKXuuCgxl7WrsFwec31kLe4l0IaMrTHs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTU4/NjAtMTM0NDAxOTY5/Ny01MDgxLmpwZWc.jpeg" alt="Cover for Viva jesus e mais alguém" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4dc9e4c5e85c473aa0d30299a917456f.png" alt="Cover for Viva jesus e mais alguém" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Laia</td>
@@ -1035,7 +1038,7 @@ This tag encompasses music originating from or strongly associated with Portugue
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/BykfJ5boIW-uvXJFLgU6tVZ1Z-Rx2qgVcKiPWzyH6ik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjE3/NTYtMTMxNjk0MDkz/OC5qcGVn.jpeg" alt="Cover for Coisas Bunitas" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e734a1e74b667b81ea477531f8846835.png" alt="Cover for Coisas Bunitas" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Sara Tavares</td>
@@ -1072,8 +1075,8 @@ This tag encompasses music originating from or strongly associated with Portugue
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 45</li>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 64</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 37</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1111,7 +1114,7 @@ This tag encompasses music originating from or strongly associated with Portugue
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 39</li>
+            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1194,8 +1197,8 @@ This tag encompasses music originating from or strongly associated with Portugue
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 59</li>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 72</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 29</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1215,7 +1218,7 @@ This tag encompasses music originating from or strongly associated with Portugue
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fado" | relative_url }}">fado</a> # 22</li>
+            <li> <a href="{{ "/tags/fado" | relative_url }}">fado</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1261,14 +1264,15 @@ This tag encompasses music originating from or strongly associated with Portugue
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 50</li>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 65</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 36</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>39</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f637fa726a44ee483d4315df8c4d511.png" alt="Cover for O Mistério" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06-12</td>
       <td>Teresa Salgueiro</td>
@@ -1285,7 +1289,7 @@ This tag encompasses music originating from or strongly associated with Portugue
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 19</li>
+            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1314,7 +1318,7 @@ This tag encompasses music originating from or strongly associated with Portugue
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/HgQVykorvmTKr_ckjDjsf8BgfZGI9md2iP2GTM5Vj3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzk5/MTA1LTE1NTM0NTU0/MzMtODg3My5qcGVn.jpeg" alt="Cover for Mynah" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/374d203cd04942e5c2f5ac309079bc8f.png" alt="Cover for Mynah" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>JUBA</td>
@@ -1334,7 +1338,7 @@ This tag encompasses music originating from or strongly associated with Portugue
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/GRQHOfGitSduwuTik3Z-kdr_dRG0J9_N3-fDcIXbNOI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1OTE0/MDgtMTM3MDk0MDI3/NS0zODk1LmpwZWc.jpeg" alt="Cover for 2 Kinds Of Men &#x2F; Summer&#39;s Gone (Didn&#39;t Swim)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d087f74f8dc4d5dcd7d8407cd58a535.png" alt="Cover for 2 Kinds Of Men &#x2F; Summer&#39;s Gone (Didn&#39;t Swim)" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-03</td>
       <td>Marta Ren &amp; The Groovelvets</td>
@@ -1349,7 +1353,7 @@ This tag encompasses music originating from or strongly associated with Portugue
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 20</li>
+            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1377,7 +1381,7 @@ This tag encompasses music originating from or strongly associated with Portugue
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/T67C8gr7APeqHu9LBxer2o54ua6p10rsIyMUdUfwJh0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzA3/MDktMTM5NDIwNDQ2/MC05MjY5LmpwZWc.jpeg" alt="Cover for Pesar o Sol" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/42ac4026ca5e4891c837fac044cf8638.png" alt="Cover for Pesar o Sol" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Capitão Fausto</td>
@@ -1434,8 +1438,8 @@ This tag encompasses music originating from or strongly associated with Portugue
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 41</li>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 55</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 46</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1462,7 +1466,7 @@ This tag encompasses music originating from or strongly associated with Portugue
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/bE8CN7GMzUES8K8msfL7t0bXlkSvbtC1-GtsdsaihZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDE3/MzktMTQ4NTgxODg4/Ni0zMDg5LnBuZw.jpeg" alt="Cover for 20" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebae136881536cfb73fa806b07163906.png" alt="Cover for 20" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-11-20</td>
       <td>The Gift</td>
@@ -1479,7 +1483,7 @@ This tag encompasses music originating from or strongly associated with Portugue
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 9</li>
+            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1530,7 +1534,7 @@ This tag encompasses music originating from or strongly associated with Portugue
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/-PqX0XHOoE9HiQUDXg0w1aACy7r6jAQIMtFJgfa7cNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMzkw/NDktMTQ3MzcwNDY1/OC04NDUyLmpwZWc.jpeg" alt="Cover for Mirror Lane" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/41516aa68e1774cc6f9141c7088fa11f.png" alt="Cover for Mirror Lane" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-09-30</td>
       <td>Alek Rein</td>
@@ -1566,15 +1570,15 @@ This tag encompasses music originating from or strongly associated with Portugue
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 8</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 31</li>
+            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 7</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/T0T6xlYeI19HJcH1te5r1CzOrxv5k8358RpaOgL6i-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDIy/ODUxLTE0OTAyOTMy/MjctNTAzOS5qcGVn.jpeg" alt="Cover for Panoramix" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2f6e3457a2fe21bcd045533ef088ecb.png" alt="Cover for Panoramix" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-02-27</td>
       <td>Madrepaz</td>
@@ -1592,14 +1596,14 @@ This tag encompasses music originating from or strongly associated with Portugue
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 6</li>
+            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/JQcQHD3SSABELLwhAdZ0DztyQdukDUC_vt18CbaRwsk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTAx/MDc4LTE1ODY2OTM0/OTItMjM0NS5qcGVn.jpeg" alt="Cover for Favourite Ghost" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8907ce5a5a9d039de4862aa20a5cdf22.png" alt="Cover for Favourite Ghost" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-09-22</td>
       <td>Tomara</td>
@@ -1614,14 +1618,14 @@ This tag encompasses music originating from or strongly associated with Portugue
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 33</li>
+            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/8VCjenTZq20cQl2xpFpXTMx5RgYU0tVUcR9egrINX4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTAz/MTU1LTE1NTcxMzEx/MTEtMjQzMS5qcGVn.jpeg" alt="Cover for Antwerpen" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0da333b52875b1c1a5db09aeabd68c00.png" alt="Cover for Antwerpen" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-10-13</td>
       <td>Surma</td>
@@ -1637,8 +1641,8 @@ This tag encompasses music originating from or strongly associated with Portugue
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 38</li>
-            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 64</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 44</li>
+            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1665,7 +1669,7 @@ This tag encompasses music originating from or strongly associated with Portugue
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 8</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1685,7 +1689,7 @@ This tag encompasses music originating from or strongly associated with Portugue
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fado" | relative_url }}">fado</a> # 23</li>
+            <li> <a href="{{ "/tags/fado" | relative_url }}">fado</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1779,7 +1783,7 @@ This tag encompasses music originating from or strongly associated with Portugue
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg" alt="Cover for Exploratory Music From Portugal 04" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d31698f1373eebdfe1cdf64a99b7727d.png" alt="Cover for Exploratory Music From Portugal 04" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Various Artists</td>
@@ -1794,14 +1798,14 @@ This tag encompasses music originating from or strongly associated with Portugue
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fado" | relative_url }}">fado</a> # 72</li>
+            <li> <a href="{{ "/tags/fado" | relative_url }}">fado</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>1</td>
       <td>
-          <img src="https://i.discogs.com/7k2snAvsEkEzj4kYo-vRexcXUu3FODJVInrB67iPlTY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODgz/NTQ4LTE2NzQ2Njk0/MDgtODAzNi5qcGVn.jpeg" alt="Cover for Trust None" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9dc4ca221cc4ae649387d1b34df694a3.png" alt="Cover for Trust None" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Viciously Hateful</td>
@@ -1925,14 +1929,15 @@ This tag encompasses music originating from or strongly associated with Portugue
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 12</li>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 12</li>
+            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 11</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/093597feb139a979f4bbb842dc5a9b22.png" alt="Cover for Cafeína" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Dj Dadda</td>
@@ -1946,13 +1951,14 @@ This tag encompasses music originating from or strongly associated with Portugue
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 70</li>
+            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5980a1e889c1a4ca7a9afee129639d5d.png" alt="Cover for TozeínaBoyz" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Diepretty Mercédes</td>
@@ -2033,6 +2039,7 @@ This tag encompasses music originating from or strongly associated with Portugue
     <tr>
       <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe41e041941a835fe32b2f16c423268d.png" alt="Cover for Bem Bom (A Banda Sonora)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Elenco Do Filme Bem Bom</td>

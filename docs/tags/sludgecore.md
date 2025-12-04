@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T14:31:20.952Z
+date: 2025-12-04T06:54:54.449Z
 permalink: tags/sludgecore
 title: sludgecore
 ---
 
 ## sludgecore
 
-Last updated: <time datetime="2025-10-28T14:31:20.952Z">Tue Oct 28 2025 16:31:20 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T06:54:54.449Z">Thu Dec 04 2025 08:54:54 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
   </thead>
   <tbody>
     <tr>
-      <td>16</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Palace of Worms" style="max-width:120px; height:auto;" />
       </td>
@@ -50,8 +50,9 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/142d5fc701b74952a7539f1c86e7561b.png" alt="Cover for In The Name Of Suffering" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Eyehategod</td>
@@ -63,13 +64,14 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 41</li>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ad90c3aba920f1481be22e6b7600f5c.png" alt="Cover for Dopesick" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Eyehategod</td>
@@ -82,33 +84,13 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 83</li>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 83</li>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 84</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
-      <td>
-          <img src="https://i.discogs.com/S19IOq4h_HARbumIz07gVUkS7hw1U09-EdDVZJ09NhM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MzY1/NTYtMTM3NzAzMDc2/OS03MjA3LmpwZWc.jpeg" alt="Cover for Culture Is The Enemy" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1996</td>
-      <td>DePress</td>
-      <td>Culture Is The Enemy</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crust" | relative_url }}">crust</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>40</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/PJ-IAjp8wNrreIVmfoRtCmnrJCt8TTrm_gHQc7edYoQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzEz/NzEtMTQ3NTkwNTU3/Ny0zMzM1LmpwZWc.jpeg" alt="Cover for Dirtypunkmutha" style="max-width:120px; height:auto;" />
       </td>
@@ -128,7 +110,27 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>88</td>
+      <td>
+          <img src="https://i.discogs.com/S19IOq4h_HARbumIz07gVUkS7hw1U09-EdDVZJ09NhM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MzY1/NTYtMTM3NzAzMDc2/OS03MjA3LmpwZWc.jpeg" alt="Cover for Culture Is The Enemy" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1996</td>
+      <td>DePress</td>
+      <td>Culture Is The Enemy</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crust" | relative_url }}">crust</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/17c1341605db3a626db4ea006de9899c.png" alt="Cover for Broken Glass" style="max-width:120px; height:auto;" />
       </td>
@@ -142,33 +144,12 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 28</li>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 43</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
-      <td>
-          <img src="https://i.discogs.com/dpMaKXyNBrVpE-YREeA1lfReGkXbH1ZD2ugfT6B_RHs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTI3/MDYtMTQ3NzM2MDQ4/OC04NjM5LmpwZWc.jpeg" alt="Cover for D.A.M.N+3" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>Greenmachine</td>
-      <td>D.A.M.N+3</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/dpMaKXyNBrVpE-YREeA1lfReGkXbH1ZD2ugfT6B_RHs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTI3/MDYtMTQ3NzM2MDQ4/OC04NjM5LmpwZWc.jpeg" alt="Cover for D.A.M.N." style="max-width:120px; height:auto;" />
       </td>
@@ -188,7 +169,27 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/dpMaKXyNBrVpE-YREeA1lfReGkXbH1ZD2ugfT6B_RHs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTI3/MDYtMTQ3NzM2MDQ4/OC04NjM5LmpwZWc.jpeg" alt="Cover for D.A.M.N+3" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Greenmachine</td>
+      <td>D.A.M.N+3</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
       <td>
       </td>
       <td>1998-04</td>
@@ -207,32 +208,84 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>77</td>
       <td>
-          <img src="https://i.discogs.com/79Ha3MzfLvJ1RCKfZn0--gArjuyeki_ECRTtKUCIrI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTk3/OTEtMTMwMTY2MTQ5/OC5qcGVn.jpeg" alt="Cover for The Awakening" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/79Ha3MzfLvJ1RCKfZn0--gArjuyeki_ECRTtKUCIrI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTk3/OTEtMTMwMTY2MTQ5/OC5qcGVn.jpeg" alt="Cover for Spiritual Healing" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Queen Makedah</td>
-      <td>The Awakening</td>
+      <td>Spiritual Healing</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rac" | relative_url }}">rac</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 4</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 13</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 18</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 21</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 15</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 15</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 16</li>
+            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 22</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 36</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/79Ha3MzfLvJ1RCKfZn0--gArjuyeki_ECRTtKUCIrI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTk3/OTEtMTMwMTY2MTQ5/OC5qcGVn.jpeg" alt="Cover for Bless Africa" style="max-width:120px; height:auto;" />
       </td>
@@ -284,7 +337,6 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rac" | relative_url }}">rac</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a></li>
@@ -305,91 +357,38 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 8</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 9</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 13</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 27</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 28</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>96</td>
       <td>
-          <img src="https://i.discogs.com/79Ha3MzfLvJ1RCKfZn0--gArjuyeki_ECRTtKUCIrI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTk3/OTEtMTMwMTY2MTQ5/OC5qcGVn.jpeg" alt="Cover for Spiritual Healing" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4db6efb567140e4b495f19885f28f07.png" alt="Cover for The Awakening" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Queen Makedah</td>
-      <td>Spiritual Healing</td>
+      <td>The Awakening</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rac" | relative_url }}">rac</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 15</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 15</li>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 16</li>
-            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 22</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 33</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 36</li>
+            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 4</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 18</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 21</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/KEI3COyWiknfOHhyfHU8CO0rJnYLsPp3gNmKpwkxVYM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTA4/NDktMTUwMjkzMzc2/My02MDEwLmpwZWc.jpeg" alt="Cover for Monkeys Tear Man To Shreds, Man Never Forgives Ape, Man Destroys Environment" style="max-width:120px; height:auto;" />
       </td>
@@ -406,7 +405,7 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/qIFdi-5guUbglnEKwML8Qy_foGxitCVbKX5JMy2QTqU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDE3/OS0xMTA2MjUxNDY5/LmpwZw.jpeg" alt="Cover for Southern Discomfort" style="max-width:120px; height:auto;" />
       </td>
@@ -421,13 +420,13 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 33</li>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 37</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 38</li>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/Vj_TG07ZaORUagFbqyYJoxj5CcQy2-4Mo2daGZc_zdA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjkz/MTQtMTU5NzcxNTQ5/NS0yNDIxLmpwZWc.jpeg" alt="Cover for Hordes to Abolish the Divine" style="max-width:120px; height:auto;" />
       </td>
@@ -448,9 +447,9 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>62</td>
       <td>
-          <img src="https://i.discogs.com/O2hRucN83ITf7SAetRLqGhC4nxE-qWRI5poAewRZzL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk5/NDQtMTMyNjQ4NDg5/Ni5qcGVn.jpeg" alt="Cover for First Round Knockout" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/41763fc9e662ea305de8fef6f702f50d.png" alt="Cover for First Round Knockout" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Deride</td>
@@ -469,8 +468,9 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/118a24ea232d4afeca176807f0df793f.png" alt="Cover for Kylesa" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-06</td>
       <td>Kylesa</td>
@@ -483,12 +483,31 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 61</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>23</td>
+      <td>
+          <img src="https://i.discogs.com/cDT-7vqpypbSU7VcaXPiCh2EJQsuyK9nmJjBqfJjcpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTg4/NDUtMTI1ODIxNTk4/MS5qcGVn.jpeg" alt="Cover for Idiopathic" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Fistula</td>
+      <td>Idiopathic</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/gjURTUqSJqu352q3B1y3J4BjCUzX3hknCxS2Xua5Dro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjc3/OTEtMTI1NTM3MTAz/OC5qcGVn.jpeg" alt="Cover for D.A.M.N. +3" style="max-width:120px; height:auto;" />
       </td>
@@ -508,26 +527,7 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>78</td>
-      <td>
-          <img src="https://i.discogs.com/cDT-7vqpypbSU7VcaXPiCh2EJQsuyK9nmJjBqfJjcpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTg4/NDUtMTI1ODIxNTk4/MS5qcGVn.jpeg" alt="Cover for Idiopathic" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>Fistula</td>
-      <td>Idiopathic</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>25</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/9jz3ic10KmYzOw67sINYn5kMo1_u2rtXg8KnDgesrH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTY2/OTQtMTM3NDUyNTIx/OS0yMTg2LmpwZWc.jpeg" alt="Cover for In The Name Of The Suffering" style="max-width:120px; height:auto;" />
       </td>
@@ -541,12 +541,12 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 33</li>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/6K2y80uxEtXGZbTFtogsuMes5b2Mhidl5KVxLAOcnT4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTc4/MjQtMTI1MDE4MTIy/NC5qcGVn.jpeg" alt="Cover for Forever dead EP" style="max-width:120px; height:auto;" />
       </td>
@@ -564,9 +564,9 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
-          <img src="https://i.discogs.com/cUvDd1KXBqBui5__rbC92VfbITX5V3MO9xODofr8rd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTM4/MC0xMTQ1NDg5NDky/LmpwZWc.jpeg" alt="Cover for Tree Of No Return" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/716fe73979c4cfa02181cbcbdfe96085.png" alt="Cover for Tree Of No Return" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-08-24</td>
       <td>Tusk</td>
@@ -586,7 +586,29 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1912aa7573340df924f61534975a7d70.png" alt="Cover for II" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Cursed</td>
+      <td>II</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 63</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
       <td>
       </td>
       <td>2005</td>
@@ -604,36 +626,14 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 55</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>31</td>
       <td>
-          <img src="https://i.discogs.com/0zFEM_ynP6Uc6aum6P1dwC_IGF9jiLBSamg37WW4Ljo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Nzc3/Ni0xMjQ4MjQ0MDEy/LmpwZWc.jpeg" alt="Cover for II" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>Cursed</td>
-      <td>II</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 59</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>70</td>
-      <td>
-          <img src="https://i.discogs.com/5z-_fKp9IKht24gW8siQUQvj4IjNGv6KSRYmtXyzW60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NDgy/Ny0xNTUwMTM5NTk2/LTczOTUuanBlZw.jpeg" alt="Cover for Daikini" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/015538e56054f545dc6785e64d15f918.png" alt="Cover for Daikini" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-05-01</td>
       <td>The Psyke Project</td>
@@ -648,12 +648,12 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 34</li>
+            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
       </td>
       <td>2005-05-10</td>
@@ -671,7 +671,7 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/D3e1ruyYeEJKKbi9ZAjzpgK9Nsnzbgl2dW_YMQwKjK0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MDQy/OS0xNDgwNjY5ODM3/LTc0MDQuanBlZw.jpeg" alt="Cover for Hate &#x2F; Human" style="max-width:120px; height:auto;" />
       </td>
@@ -689,7 +689,7 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/PNQ3bLac4kCy_iMTqw1anLzCkeGQocI8fEMt-J7uJ18/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTkz/MjAzLTE0OTMxNjMz/NjAtOTkxOC5qcGVn.jpeg" alt="Cover for Conquistador" style="max-width:120px; height:auto;" />
       </td>
@@ -705,12 +705,12 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-metal" | relative_url }}">southern metal</a> # 49</li>
+            <li> <a href="{{ "/tags/southern-metal" | relative_url }}">southern metal</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/vKRsvHWrB-XaPX2TKXyTeO0dA0wPxvi8txoQ7Xqrsjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzg2/Ny0xNTc2NDUwMTMy/LTYxMjMuanBlZw.jpeg" alt="Cover for Dopesick [Remastered 2006]" style="max-width:120px; height:auto;" />
       </td>
@@ -729,89 +729,7 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>60</td>
-      <td>
-          <img src="https://i.discogs.com/ctOLgYLO6dcxBZOG6okWTR2GglqXVMDZAL7UbZnIhNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzA3/NDEtMTUxNjg2MTM4/OC0yNDcyLnBuZw.jpeg" alt="Cover for Attention W***e - EP" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007-09-14</td>
-      <td>Rusko Star</td>
-      <td>Attention W***e - EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rac" | relative_url }}">rac</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 8</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 9</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 13</li>
-            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 17</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 18</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 27</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 40</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 45</li>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 52</li>
-            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 61</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 63</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 68</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 69</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/ctOLgYLO6dcxBZOG6okWTR2GglqXVMDZAL7UbZnIhNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzA3/NDEtMTUxNjg2MTM4/OC0yNDcyLnBuZw.jpeg" alt="Cover for Blonde" style="max-width:120px; height:auto;" />
       </td>
@@ -859,7 +777,6 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rac" | relative_url }}">rac</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a></li>
@@ -876,39 +793,137 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 10</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 7</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 11</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 14</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 25</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 29</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 30</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 33</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 33</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 33</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 34</li>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 38</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 38</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 41</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 49</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 51</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 53</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 48</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 50</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 53</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 59</li>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 65</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 68</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 69</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 61</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 67</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 70</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 72</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 75</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 77</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 78</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 80</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 79</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 81</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 82</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 83</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 87</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 90</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 88</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 93</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 94</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 96</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>41</td>
+      <td>
+          <img src="https://i.discogs.com/ctOLgYLO6dcxBZOG6okWTR2GglqXVMDZAL7UbZnIhNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzA3/NDEtMTUxNjg2MTM4/OC0yNDcyLnBuZw.jpeg" alt="Cover for Attention W***e - EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-09-14</td>
+      <td>Rusko Star</td>
+      <td>Attention W***e - EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rac" | relative_url }}">rac</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 17</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 32</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 36</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 40</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 45</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 52</li>
+            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 61</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 68</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 84</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 85</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 90</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>
+          <img src="https://i.discogs.com/O--LYOpX9wCdEssO371GC9DkkUHAmsnsy7uVs55DAEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg1/OTktMTM4NjE4NjA0/MS02ODA2LmpwZWc.jpeg" alt="Cover for Chotacabra" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Moho</td>
+      <td>Chotacabra</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/T1m7Xb820GCPYLyulLFG9FkCW3wofoGRDlwkL81z8Ik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjY4/MTktMTY3NjY1NDg0/NC03NDMyLmpwZWc.jpeg" alt="Cover for This One Goes To Eleven" style="max-width:120px; height:auto;" />
       </td>
@@ -931,15 +946,15 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b424091b1e041cd35583adc08ee57119.png" alt="Cover for Buster" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Admiral Angry</td>
       <td>Buster</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
         </ul>
       </td>
       <td>
@@ -948,28 +963,9 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>13</td>
       <td>
-          <img src="https://i.discogs.com/O--LYOpX9wCdEssO371GC9DkkUHAmsnsy7uVs55DAEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg1/OTktMTM4NjE4NjA0/MS02ODA2LmpwZWc.jpeg" alt="Cover for Chotacabra" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>Moho</td>
-      <td>Chotacabra</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>88</td>
-      <td>
-          <img src="https://i.discogs.com/lUU83U6UDVBrbu_sEAvlRGOTv-zaGen9gpZQlvfuIuk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjE4/NzMtMTI3MTQ1Mzcx/NC5qcGVn.jpeg" alt="Cover for Kingdom of Sorrow" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/42dde586321e4137bc091d5079b134c0.png" alt="Cover for Kingdom of Sorrow" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-02-29</td>
       <td>Kingdom of Sorrow</td>
@@ -984,14 +980,14 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 51</li>
-            <li> <a href="{{ "/tags/southern-metal" | relative_url }}">southern metal</a> # 72</li>
+            <li> <a href="{{ "/tags/southern-metal" | relative_url }}">southern metal</a> # 28</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 55</li>
             <li> <a href="{{ "/tags/doomcore" | relative_url }}">doomcore</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/JFsDGFqv6M3lbOrOYvxNYsCK3IAJqnfcT2c2eGI0HwM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODgy/ODg1LTE1OTk1MzE4/OTktNTgyNi5wbmc.jpeg" alt="Cover for Yes Parking Anytime" style="max-width:120px; height:auto;" />
       </td>
@@ -1043,7 +1039,6 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rac" | relative_url }}">rac</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a></li>
@@ -1061,15 +1056,15 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       <td>
         <ul>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 1</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 10</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 16</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
-          <img src="https://i.discogs.com/KkVaSwbMiQtWcaVRp59ZiChqB1Chbg84BiJie6b1y9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzk0/NzQtMTU3OTY0MjQx/NS05NjYwLmpwZWc.jpeg" alt="Cover for I Am God Songs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b15675672c5450ec5f6878603ec9e00.png" alt="Cover for I Am God Songs" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-10-08</td>
       <td>Black Sheep Wall</td>
@@ -1087,7 +1082,7 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/JlUo63paAwzmZweDaBnpbNighK7GXi85NzeKex6bYVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODEw/MDAtMTQzMDkxOTk4/NC00NTUyLmpwZWc.jpeg" alt="Cover for SOUTHERN CORRUPTION" style="max-width:120px; height:auto;" />
       </td>
@@ -1109,7 +1104,7 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/ungmO-tVCwug5J9m3lsEadrOaGmxY5zszbklOVkGBMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjMw/ODctMTM3NTM3MTQ0/Ni05MzMzLmpwZWc.jpeg" alt="Cover for I Have Lived Like an Animal, but I Will Die Like an Angel" style="max-width:120px; height:auto;" />
       </td>
@@ -1126,7 +1121,7 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
       </td>
       <td>2009-09-01</td>
@@ -1145,38 +1140,38 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 1</li>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 6</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 16</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 19</li>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 44</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 8</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 9</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 15</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 16</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 19</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 24</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 25</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 37</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 46</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 46</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 53</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 53</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 54</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 54</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 61</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 64</li>
-            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 68</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 68</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 68</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 69</li>
+            <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 68</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 69</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 69</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 74</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 77</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 79</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 79</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 85</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 86</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 83</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 85</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 86</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 90</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 91</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 92</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6cd1ecae5cdca80ae0b2d432a2e8e80e.png" alt="Cover for He Is Never Coming Back" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-11-10</td>
       <td>Gaza</td>
@@ -1195,7 +1190,7 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/IcFM-7d5KkKq0V0HuZNlYMVn6dTf608jshYK-UwBYaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDM4/MzEtMTQ0MDc3OTA2/Ny01OTk2LmpwZWc.jpeg" alt="Cover for So Alone" style="max-width:120px; height:auto;" />
       </td>
@@ -1265,7 +1260,6 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
@@ -1287,42 +1281,43 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 2</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 3</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 8</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 9</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 16</li>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 28</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 10</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 16</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 22</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 27</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 30</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 30</li>
+            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 32</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 38</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 40</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 42</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 44</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 47</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 46</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 47</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 48</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 49</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 53</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 58</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 62</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 62</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 53</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 54</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 54</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 63</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 65</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 66</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 66</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 67</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 72</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 75</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 81</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 82</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 81</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 83</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 83</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 85</li>
-            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 87</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 86</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 87</li>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 87</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 89</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 91</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 92</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/xJkRSyPg99g84dbRjKXBb4xver_cvcwba-3RVEqOmIM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NDE3/NzEtMTQ1MjEwNTc5/Ny0xODUxLmpwZWc.jpeg" alt="Cover for Demo 2010" style="max-width:120px; height:auto;" />
       </td>
@@ -1342,7 +1337,7 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/PsMqluxd_1Fa0-vuUHb3rs1f1UazhPYdJg0aDsoHtLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDE2/MDAtMTQ2NDg5MTAx/Ni0xODU5LmpwZWc.jpeg" alt="Cover for Rise Rebel Seers" style="max-width:120px; height:auto;" />
       </td>
@@ -1360,8 +1355,9 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b579947cbb744cfa89436515f2f000d.png" alt="Cover for My Worlds" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-22</td>
       <td>Justin Bieber</td>
@@ -1373,35 +1369,35 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 23</li>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 28</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 37</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 5</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 15</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 19</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 22</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 29</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 37</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 39</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 46</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 42</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 49</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 50</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 51</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 52</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 52</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 56</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 53</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 57</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 62</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 63</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 66</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 73</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 75</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 75</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 79</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 75</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 76</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 79</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 81</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 83</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 83</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 86</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6794c8257864edb80a0b9b7b00c8c0a.png" alt="Cover for The Id Will Overcome" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-27</td>
       <td>The Abominable Iron Sloth</td>
@@ -1418,7 +1414,7 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/YFAFtmBct1-96QZ9wvr0EnbxWVU5mbu4J0a9_9IctXs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjMw/OTItMTI3MzA4ODAz/OS5qcGVn.jpeg" alt="Cover for Monstrorum Historia" style="max-width:120px; height:auto;" />
       </td>
@@ -1436,25 +1432,7 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>52</td>
-      <td>
-          <img src="https://i.discogs.com/bvEwhze1uJG3hHd2SLlrpUkOQygt5TrdQ652ZXpr704/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjEx/NzctMTMxMjA4MTQ2/NC5qcGVn.jpeg" alt="Cover for A Sea Of Dead Snakes EP" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010-11-11</td>
-      <td>Undersmile</td>
-      <td>A Sea Of Dead Snakes EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/bvEwhze1uJG3hHd2SLlrpUkOQygt5TrdQ652ZXpr704/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjEx/NzctMTMxMjA4MTQ2/NC5qcGVn.jpeg" alt="Cover for A Sea of Dead Snakes" style="max-width:120px; height:auto;" />
       </td>
@@ -1472,7 +1450,25 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>49</td>
+      <td>
+          <img src="https://i.discogs.com/bvEwhze1uJG3hHd2SLlrpUkOQygt5TrdQ652ZXpr704/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjEx/NzctMTMxMjA4MTQ2/NC5qcGVn.jpeg" alt="Cover for A Sea Of Dead Snakes EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-11-11</td>
+      <td>Undersmile</td>
+      <td>A Sea Of Dead Snakes EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/X71-MGhNrDFMcLlQo5xbLRlDmyr_jki1tLQvhH9Npt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY4/NTIyLTE1NTg2NDQ3/NzEtODYyNS5qcGVn.jpeg" alt="Cover for Sakura Wonderland - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1540,7 +1536,6 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a></li>
@@ -1561,15 +1556,15 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 6</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 13</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 22</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 36</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 34</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/CzGks6FjUYUcFNmQ6GosFYuiSnBw1ygUHnCQ20EJB_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMTg3/ODctMTM4MjI4MTIz/Mi0yMTU5LmpwZWc.jpeg" alt="Cover for Eden" style="max-width:120px; height:auto;" />
       </td>
@@ -1588,7 +1583,7 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/gzHUTs70Mn8B8hxbKe9gXA6Sk3D3crVOw35YGskeIys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDQw/NTgtMTMwMjEwNDU4/Ny5qcGVn.jpeg" alt="Cover for Thorns" style="max-width:120px; height:auto;" />
       </td>
@@ -1608,7 +1603,7 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/rsxVP7Wo3Wvk2BQaXkdfChk_hok_lhZvlAE1OFBbpqs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTI2/ODEtMTM3Nzc3MzA4/Ny04MjEzLmpwZWc.jpeg" alt="Cover for Death of This Dry Season" style="max-width:120px; height:auto;" />
       </td>
@@ -1628,8 +1623,9 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/771e33e0f3124a218f1a3b907d820b9b.png" alt="Cover for Space Homme - EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-11-11</td>
       <td>Julioso</td>
@@ -1700,7 +1696,6 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a></li>
@@ -1722,15 +1717,15 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
         <ul>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 1</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 5</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 14</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 19</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 27</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 40</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 38</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/Pu0IsiihP0wRRmV_jEv0ijSl60yvRG2B8dY-WsPsvjQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzU0/OTIxLTE2ODIzNzE3/NDgtNTE4My5qcGVn.jpeg" alt="Cover for Karma" style="max-width:120px; height:auto;" />
       </td>
@@ -1808,13 +1803,14 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 53</li>
+            <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0973610d4ef36b301aeba9f87604757.png" alt="Cover for Hot Problems" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-18</td>
       <td>Double Take</td>
@@ -1884,7 +1880,6 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
@@ -1907,36 +1902,35 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       <td>
         <ul>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 9</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 10</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 13</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 16</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 24</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 26</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 27</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 29</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 32</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 38</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 43</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 43</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 26</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 34</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 40</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 44</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 47</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 48</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 45</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 49</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 54</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 57</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 56</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 57</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 61</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 70</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 70</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 73</li>
-            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 75</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 72</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 73</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 75</li>
+            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 75</li>
             <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 76</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 77</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 82</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 85</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>91</td>
       <td>
-          <img src="https://i.discogs.com/vgA0Ffj2PkUxVZX4Yi1N91lw0YCL_cunyD0dDYJKG7Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MzYz/ODAtMTQwNDA1NDcx/Ny0yMjIxLmpwZWc.jpeg" alt="Cover for Dreamcrusher" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/29036da01a81479facc20e2bc004704e.png" alt="Cover for Dreamcrusher" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-25</td>
       <td>Wretches</td>
@@ -1955,9 +1949,9 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
-          <img src="https://i.discogs.com/lzRUGsLViniQGzJmIDtUVuPvGOv0s9mChH4bdijW4xg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Njgw/NjgtMTM1NDg5NTAy/MS02Njk0LmpwZWc.jpeg" alt="Cover for Purgatory" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8883ebf5653d411e9f1ad55446ad8256.png" alt="Cover for Purgatory" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10</td>
       <td>Hatred Surge</td>
@@ -1976,9 +1970,9 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>67</td>
       <td>
-          <img src="https://i.discogs.com/5NYUMSMdK2AGbzsEBnwwhyZx36o7SyREz5JK9DU9XbA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjQ0/ODAtMTM1MjcyNTIx/MS02Mzg3LmpwZWc.jpeg" alt="Cover for Scatter The Ashes (Special Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f84402d28f7462cc63d68d43679b8ab.png" alt="Cover for Scatter The Ashes (Special Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-11-12</td>
       <td>Brutality Will Prevail</td>
@@ -1997,7 +1991,7 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/TsVlphdiMaoV02hzDnGNYUslr3SgY89UQ6MUkDGyxU4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDYz/MzItMTM1MjA3MzIz/NC02MTAzLmpwZWc.jpeg" alt="Cover for The Truth Tastes So Foul, Most Spit It Back Up" style="max-width:120px; height:auto;" />
       </td>
@@ -2014,7 +2008,7 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/StF6FEP56ViHsUucdR7mCruGLNEPJDpJ67inBQTWT2M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTg5/NTYyLTE1NDYwMDY0/ODYtMjUzMC5qcGVn.jpeg" alt="Cover for Declared Self Hatred" style="max-width:120px; height:auto;" />
       </td>
@@ -2032,9 +2026,9 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
-          <img src="https://i.discogs.com/n7DAh84aZUoGfqIMiiAHc1GwUU3U8aSuUFbk5tYO75Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzQ3/NjEtMTYwNTE0NzQx/Ni0zMTIwLmpwZWc.jpeg" alt="Cover for Unbecoming" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/77e22d9b5fdd54f86c0efadf9f5ea45a.png" alt="Cover for Unbecoming" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-01-13</td>
       <td>Ragana</td>
@@ -2051,14 +2045,15 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 90</li>
-            <li> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a> # 91</li>
+            <li> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a> # 10</li>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/837ff54165a7198f037fab014ae06054.png" alt="Cover for Savage Masters" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-02</td>
       <td>Zozobra</td>
@@ -2075,7 +2070,7 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/ecLQZqVBuJdjiOOYNIBzTiQSt2AMc48zdV07FJvxkYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0OTUy/MTEtMTM2NjUxMzg2/Mi03NDA3LmpwZWc.jpeg" alt="Cover for Like Rats" style="max-width:120px; height:auto;" />
       </td>
@@ -2095,8 +2090,9 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/786fba77370d4f76a900df26e0b65e8c.png" alt="Cover for Hogslayer" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-05-20</td>
       <td>Hogslayer</td>
@@ -2119,7 +2115,7 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4034777d9484913a88131ce836ce834.png" alt="Cover for Ultraviolet" style="max-width:120px; height:auto;" />
       </td>
@@ -2133,12 +2129,12 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 87</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/NA7S2q_7CdD2eLOgO38KWV_AQZd45qu4M3BuSD5Ymtw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5ODA1/NDktMTQ3MjY3NjQ1/Ny04MDA2LmpwZWc.jpeg" alt="Cover for Nothing To Save" style="max-width:120px; height:auto;" />
       </td>
@@ -2156,7 +2152,7 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/z94SVfl8DRqKEtb2_rna5pT7RKJjvP5JpoWtylC-YBA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMTMz/MzktMTQ4Njk3MTk2/My0xODk0LmpwZWc.jpeg" alt="Cover for Road Will End" style="max-width:120px; height:auto;" />
       </td>
@@ -2175,8 +2171,9 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cec97b18d7144aff82e211c53622a115.png" alt="Cover for Hoarder" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-15</td>
       <td>Cowards</td>
@@ -2194,9 +2191,9 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>80</td>
       <td>
-          <img src="https://i.discogs.com/w-_dncDO58HauQFrsEe3SGfe5l5p9y5UrrzK0wmJ0N0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDU4/OTEtMTM5MDEyNjcx/NC0yMDIwLmpwZWc.jpeg" alt="Cover for Embrace" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1cd981524904b46cbdfd4db5ac22df6.png" alt="Cover for Embrace" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-01-18</td>
       <td>Bloodlet</td>
@@ -2215,7 +2212,7 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
       </td>
       <td>2014-04-15</td>
@@ -2232,12 +2229,12 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 84</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
       </td>
       <td>2014-05-23</td>
@@ -2250,12 +2247,12 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 55</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/1zNq9vHB5xTb73Si5YJ1Hefd2UcP9bZqR9PfvHUUy58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDY4/My0xMzc4MTc4Mjgy/LTk3OTAuanBlZw.jpeg" alt="Cover for Preaching the &quot;End-Time&quot; Message" style="max-width:120px; height:auto;" />
       </td>
@@ -2274,7 +2271,7 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/d-uNCf4qWtcq5_VNHRLHwsbmBMIa3BOiv7LURusXyrU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzU4/MTY0LTE2MTI1NDIw/NTMtMTc4OC5qcGVn.jpeg" alt="Cover for Mörk Triad" style="max-width:120px; height:auto;" />
       </td>
@@ -2294,7 +2291,7 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/ugS4oVFPrlEKPDlIq5PhAMLuciBScqTvjZVz1nXrvjw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTkx/MDMtMTQ0OTg5MTc0/NS04NDU2LmpwZWc.jpeg" alt="Cover for The Ape Of God II" style="max-width:120px; height:auto;" />
       </td>
@@ -2313,7 +2310,7 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/U6Hrd3eHVwvOiM8MH23FohH_IKVh8NnCNAb-k-aFiy8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NzU1/NDgtMTQyMjMyNzIy/Mi0xNTg5LmpwZWc.jpeg" alt="Cover for Greying" style="max-width:120px; height:auto;" />
       </td>
@@ -2328,30 +2325,30 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a> # 28</li>
+            <li> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>94</td>
       <td>
-          <img src="https://i.discogs.com/aaHiMp1Gi5pi6Xb20XYoMGV76B0Bg0VPC2RdJfXh630/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzAz/Mjc2LTE2NDU4MTg4/MDItNDE2MS5qcGVn.jpeg" alt="Cover for Invisible Birth of Death" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f83185c92b42bf835550b082f2e2c01f.png" alt="Cover for Beneath The Trees" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
-      <td>Savagist</td>
-      <td>Invisible Birth of Death</td>
+      <td>Old Skin</td>
+      <td>Beneath The Trees</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/neocrust" | relative_url }}">neocrust</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/wHXV1xpm8SxZMlHoGyTlEIrPZDsEuKrSsC_Lt2fVT3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjAy/MzUtMTQzMjc2NDQ4/Mi01MjAxLmpwZWc.jpeg" alt="Cover for Ignorant Weapon" style="max-width:120px; height:auto;" />
       </td>
@@ -2370,7 +2367,25 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>85</td>
+      <td>
+          <img src="https://i.discogs.com/aaHiMp1Gi5pi6Xb20XYoMGV76B0Bg0VPC2RdJfXh630/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzAz/Mjc2LTE2NDU4MTg4/MDItNDE2MS5qcGVn.jpeg" alt="Cover for Invisible Birth of Death" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015</td>
+      <td>Savagist</td>
+      <td>Invisible Birth of Death</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/4x9cvvag_r_jw3_TTAn4BGPazJbADbpbFBmnZ79MJUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NDkw/ODItMTQzMDE4OTI2/My04NTYzLmpwZWc.jpeg" alt="Cover for The Felon&#39;s Claw" style="max-width:120px; height:auto;" />
       </td>
@@ -2389,7 +2404,7 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/z-XfuiG9s1oUsjUxaXMBYUf8JEEh-PMf7JbtyWSl-d4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODkw/MTAtMTQ0ODgwNDgw/My0zMTE5LmpwZWc.jpeg" alt="Cover for Futility" style="max-width:120px; height:auto;" />
       </td>
@@ -2408,7 +2423,7 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/dIHFOS8mkiv9stMTBDzCKQSDe08jDEAEoDtrblCXUz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTM0/NDEtMTQ0MTgwMDk2/Ni0yNzY5LmpwZWc.jpeg" alt="Cover for Fijian Nightmare" style="max-width:120px; height:auto;" />
       </td>
@@ -2426,13 +2441,13 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 11</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 77</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/LupX6ihza_LcoHCGA2tr-izL5LN9Caglno0TBXxcwgQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzI3/ODczLTE1NTk4NjMx/MzQtODkyNS5qcGVn.jpeg" alt="Cover for Sludgefest" style="max-width:120px; height:auto;" />
       </td>
@@ -2450,9 +2465,9 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
-          <img src="https://i.discogs.com/LupX6ihza_LcoHCGA2tr-izL5LN9Caglno0TBXxcwgQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzI3/ODczLTE1NTk4NjMx/MzQtODkyNS5qcGVn.jpeg" alt="Cover for Sludgefest" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/afd37fc46f571617bcb0608d95f87246.png" alt="Cover for Sludgefest" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-12-26</td>
       <td>Chipmunks On 16 Speed</td>
@@ -2469,30 +2484,7 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>50</td>
-      <td>
-          <img src="https://i.discogs.com/BQDzWsXTxQ3t6bOL_0nb_geVRhtL-gOlW7Te9-rsmO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTQ3/OTE0LTE1OTIwNDM0/MTQtOTQ3NS5tcG8.jpeg" alt="Cover for Caminho Cego" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016</td>
-      <td>ruína</td>
-      <td>Caminho Cego</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crust" | relative_url }}">crust</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neocrust" | relative_url }}">neocrust</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/neocrust" | relative_url }}">neocrust</a> # 55</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>11</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/kqVdTh_7KcS_Q5U0CuFGCqugbRAF8MWMiKOYOwV2C6Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQx/ODM4LTE0OTc1MjM0/NDEtMzI5MS5qcGVn.jpeg" alt="Cover for Ordo Ab Pax" style="max-width:120px; height:auto;" />
       </td>
@@ -2516,7 +2508,7 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/veb9mPkS9AHB1Tw1AsgC-sAHHNBhc2iFeylHbDa5OrE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Nzcx/MjMtMTQ1MDcxOTEw/OS01MTczLmpwZWc.jpeg" alt="Cover for FUCKING SNAKES" style="max-width:120px; height:auto;" />
       </td>
@@ -2534,7 +2526,7 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/iyGu_AfOmBWlW8BjT0TOnvi73QwROy924BFJC4594zI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NzQx/MTUtMTQ3MDU2NTAy/Ny05OTIyLmpwZWc.jpeg" alt="Cover for Lost Ritual" style="max-width:120px; height:auto;" />
       </td>
@@ -2553,9 +2545,9 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>87</td>
       <td>
-          <img src="https://i.discogs.com/wAQdHeodu8j95Qm1rwr4qfkuA8JYBixWO1hPVVGQut4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM0/MjY5LTE0OTczNTgw/MjctMjE1NS5qcGVn.jpeg" alt="Cover for Bow To My Wrath" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e47457b878bec91364099b15b0c1d454.png" alt="Cover for Bow To My Wrath" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-06-10</td>
       <td>King of Sorrow</td>
@@ -2577,9 +2569,9 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
-          <img src="https://i.discogs.com/VE17oXDK_j-0EZIdMnIiJRMek0U44ZZ-SaelPH3vveo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDE0/MzczLTE1MDgzNDc3/NTUtMzUwOS5qcGVn.jpeg" alt="Cover for 9-13" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/29fb866671e9967bfaa1072b6c9e15f1.png" alt="Cover for 9-13" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-10-20</td>
       <td>Iron Monkey</td>
@@ -2596,9 +2588,9 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
-          <img src="https://i.discogs.com/4bNvzWZ34Es9tnkEZVDJ_gKIMGLvhWLgA74cImgC-kA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTcx/ODg4LTE1MjU3NjA2/OTktNTMyMC5qcGVn.jpeg" alt="Cover for Looking for a Painful Death" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/01881839263dfc2a59fb64c7de7c95a3.png" alt="Cover for Looking for a Painful Death" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-05-05</td>
       <td>Tongue Party</td>
@@ -2622,9 +2614,9 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>79</td>
       <td>
-          <img src="https://i.discogs.com/zjhntUea24VRy8WUvPkkTtru7ll27yYPIdw7xyob-ms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODUx/ODY1LTE1ODI4MjMw/OTYtNzYzOC5qcGVn.jpeg" alt="Cover for Furnace" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a19d72737e7e5c25c9e67ed6ab45315.png" alt="Cover for Furnace" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-02-27</td>
       <td>ShitBag</td>
@@ -2645,7 +2637,7 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/eZ6cGEeDzdOyFIlHD_n1F-RJgfPrhQLZYTHzERBOG0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjI1/MDY2LTE2MjQzMDE3/NTctNDQwMC5wbmc.jpeg" alt="Cover for Age of Scales" style="max-width:120px; height:auto;" />
       </td>
@@ -2666,7 +2658,7 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/TvbrXW5Xd_oYzNLxiT5qBmx5Q8Ue3r916iG7sRrcPgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTAy/NDE0LTE2MTk2Mzc1/MTUtNDEwMC5qcGVn.jpeg" alt="Cover for COMEBACK" style="max-width:120px; height:auto;" />
       </td>
@@ -2734,7 +2726,6 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a></li>
@@ -2760,16 +2751,16 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
             <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 14</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 19</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 30</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 30</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 37</li>
-            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 49</li>
+            <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 48</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>57</td>
       <td>
-          <img src="https://i.discogs.com/DZFnOGwFfm_7lR7cG8L3oX-jMxcoDHY4-C3we07wdco/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MjIz/NDctMTQ4Njg3MzU4/MS00OTM1LmpwZWc.jpeg" alt="Cover for Path of least violence" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f33dd96fb3a24411c441191f66806ea1.png" alt="Cover for Path of least violence" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-10-28</td>
       <td>Mother</td>
@@ -2787,7 +2778,7 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/IOtwvzRfkPBvSQOpFLSERKp4L3hqiyrhw-GpTmLWEj4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTk3/NDg2LTE2MjI3MzE1/NTAtODIyOS5qcGVn.jpeg" alt="Cover for River Blindness" style="max-width:120px; height:auto;" />
       </td>
@@ -2806,9 +2797,9 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>65</td>
       <td>
-          <img src="https://i.discogs.com/kpWvZa21QSkzzDlTXNPgwtIs15y8-GNorIrPVmOBO_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzk0/MjEtMTU1MjI1NDQ0/Ni01OTg4LmpwZWc.jpeg" alt="Cover for To God" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/42b8d1214f04f7c3875ef035cf76c7ec.png" alt="Cover for To God" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-11-16</td>
       <td>GODOT</td>
@@ -2829,9 +2820,9 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
-          <img src="https://i.discogs.com/fiTZuEKXOZ5md85pWJPmXRwlXdC3569wO91XbrV0f58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzIx/MTc2LTE3MTI0MTk3/MDMtODkwNS5qcGVn.jpeg" alt="Cover for Deprecipice" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b06c145ce37d67d5bbeaf049a97f391.png" alt="Cover for Deprecipice" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-03-24</td>
       <td>Mastiff</td>
@@ -2847,7 +2838,7 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/VApToIszubFV0g0uJUJQzS1D4lIh1YMXbB1dbFGScMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTE0/ODQ2LTE3MTQxNjgx/NDQtMjA0MS5qcGVn.jpeg" alt="Cover for The Way Forward" style="max-width:120px; height:auto;" />
       </td>
@@ -2867,8 +2858,9 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/15f4432b4a391f364f2c5f1059be50c0.png" alt="Cover for All Quiet" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-11-01</td>
       <td>Terror Cell</td>
@@ -2890,9 +2882,9 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
-          <img src="https://i.discogs.com/CfFq6ik9NfR00AY6O8DTilfE9UFU59XdpBrxgbYRkoQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzk5/Mjc0LTE3MzI1ODAw/MTktNjg5Mi5qcGVn.jpeg" alt="Cover for ODD LOVE" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb7a007f7d6ef2ac58027195c6fceebe.png" alt="Cover for ODD LOVE" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-11-22</td>
       <td>Coilguns</td>
@@ -2923,6 +2915,6 @@ Sludgecore fuses the crushing slowness of sludge metal with hardcore punk&#39;s 
 - [metalcore]({{ "/tags/metalcore" | relative_url }})
 - [death metal]({{ "/tags/death-metal" | relative_url }})
 - [brutal death metal]({{ "/tags/brutal-death-metal" | relative_url }})
-- [goregrind]({{ "/tags/goregrind" | relative_url }})
 - [black metal]({{ "/tags/black-metal" | relative_url }})
+- [goregrind]({{ "/tags/goregrind" | relative_url }})
 - [drone metal]({{ "/tags/drone-metal" | relative_url }})

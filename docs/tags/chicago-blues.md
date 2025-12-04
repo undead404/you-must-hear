@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T12:33:38.002Z
+date: 2025-12-04T06:58:12.963Z
 permalink: tags/chicago-blues
 title: chicago blues
 ---
 
 ## chicago blues
 
-Last updated: <time datetime="2025-11-23T12:33:38.002Z">Sun Nov 23 2025 14:33:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T06:58:12.963Z">Thu Dec 04 2025 08:58:12 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,7 @@ Chicago blues emerged when Southern Delta blues musicians migrated northward and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 39</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -136,8 +136,8 @@ Chicago blues emerged when Southern Delta blues musicians migrated northward and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 53</li>
-            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 62</li>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 39</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -156,7 +156,7 @@ Chicago blues emerged when Southern Delta blues musicians migrated northward and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 72</li>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -175,8 +175,8 @@ Chicago blues emerged when Southern Delta blues musicians migrated northward and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 33</li>
-            <li> <a href="{{ "/tags/karlsruhe" | relative_url }}">karlsruhe</a> # 76</li>
+            <li> <a href="{{ "/tags/karlsruhe" | relative_url }}">karlsruhe</a> # 24</li>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 68</li>
             <li> <a href="{{ "/tags/harmonica-blues" | relative_url }}">harmonica blues</a> # 85</li>
         </ul>
       </td>
@@ -221,7 +221,6 @@ Chicago blues emerged when Southern Delta blues musicians migrated northward and
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/9UGB3TbGHcu9buTRdVLQa_HSL1NqePN5TNTXkUzIP3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjI1/OTAtMTI2MjczMTQ1/MS5qcGVn.jpeg" alt="Cover for Hooker &#39;N Heat [CD 1]" style="max-width:120px; height:auto;" />
       </td>
       <td>1971</td>
       <td>Canned Heat &amp; John Lee Hooker</td>
@@ -254,7 +253,7 @@ Chicago blues emerged when Southern Delta blues musicians migrated northward and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/karlsruhe" | relative_url }}">karlsruhe</a> # 65</li>
+            <li> <a href="{{ "/tags/karlsruhe" | relative_url }}">karlsruhe</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -275,7 +274,7 @@ Chicago blues emerged when Southern Delta blues musicians migrated northward and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/karlsruhe" | relative_url }}">karlsruhe</a> # 81</li>
+            <li> <a href="{{ "/tags/karlsruhe" | relative_url }}">karlsruhe</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -351,7 +350,7 @@ Chicago blues emerged when Southern Delta blues musicians migrated northward and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 92</li>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -391,7 +390,7 @@ Chicago blues emerged when Southern Delta blues musicians migrated northward and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 1</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -503,7 +502,7 @@ Chicago blues emerged when Southern Delta blues musicians migrated northward and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 73</li>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -743,8 +742,8 @@ Chicago blues emerged when Southern Delta blues musicians migrated northward and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 28</li>
-            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 95</li>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 6</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -822,7 +821,7 @@ Chicago blues emerged when Southern Delta blues musicians migrated northward and
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/oOiL9enpVnDzbqzBHG52Otf9iYQTMrcxvkQ0oencAWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDMz/NDgtMTMwNjUwODA4/My5qcGVn.jpeg" alt="Cover for Hoochie Coochie Man" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4443fb755c0d15b71471d6efe81d289f.png" alt="Cover for Hoochie Coochie Man" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Muddy Waters</td>
@@ -834,7 +833,7 @@ Chicago blues emerged when Southern Delta blues musicians migrated northward and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 71</li>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -855,7 +854,7 @@ Chicago blues emerged when Southern Delta blues musicians migrated northward and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 77</li>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -895,8 +894,8 @@ Chicago blues emerged when Southern Delta blues musicians migrated northward and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 25</li>
             <li> <a href="{{ "/tags/harmonica-blues" | relative_url }}">harmonica blues</a> # 71</li>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -943,11 +942,11 @@ Chicago blues emerged when Southern Delta blues musicians migrated northward and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 9</li>
-            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 20</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 23</li>
-            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 28</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 47</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 55</li>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 73</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 78</li>
+            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 80</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -969,7 +968,7 @@ Chicago blues emerged when Southern Delta blues musicians migrated northward and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 81</li>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1006,7 +1005,7 @@ Chicago blues emerged when Southern Delta blues musicians migrated northward and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 48</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1064,7 +1063,7 @@ Chicago blues emerged when Southern Delta blues musicians migrated northward and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 8</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1163,7 +1162,7 @@ Chicago blues emerged when Southern Delta blues musicians migrated northward and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 77</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1217,7 +1216,7 @@ Chicago blues emerged when Southern Delta blues musicians migrated northward and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 29</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1238,7 +1237,7 @@ Chicago blues emerged when Southern Delta blues musicians migrated northward and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 88</li>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1294,7 +1293,7 @@ Chicago blues emerged when Southern Delta blues musicians migrated northward and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 97</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1317,8 +1316,8 @@ Chicago blues emerged when Southern Delta blues musicians migrated northward and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 34</li>
-            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 55</li>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 46</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1394,8 +1393,8 @@ Chicago blues emerged when Southern Delta blues musicians migrated northward and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 5</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 42</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 60</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1470,14 +1469,13 @@ Chicago blues emerged when Southern Delta blues musicians migrated northward and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 97</li>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/QmbeXyKorz-w7BoOyy9iiatsYGCDqkVt2r6ErHlj0rQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTg2/NzAtMTQxNTk5MzEw/Ny00MTM5LmpwZWc.jpeg" alt="Cover for Live In Chicago [CD 2]" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Luther Allison</td>
@@ -1586,7 +1584,7 @@ Chicago blues emerged when Southern Delta blues musicians migrated northward and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 39</li>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1685,7 +1683,7 @@ Chicago blues emerged when Southern Delta blues musicians migrated northward and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 61</li>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1724,7 +1722,7 @@ Chicago blues emerged when Southern Delta blues musicians migrated northward and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 29</li>
+            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1786,7 +1784,7 @@ Chicago blues emerged when Southern Delta blues musicians migrated northward and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 18</li>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1858,7 +1856,7 @@ Chicago blues emerged when Southern Delta blues musicians migrated northward and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 31</li>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1957,7 +1955,7 @@ Chicago blues emerged when Southern Delta blues musicians migrated northward and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 26</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 74</li>
         </ul>
       </td>
     </tr>

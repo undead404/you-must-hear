@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T15:04:56.347Z
+date: 2025-12-04T06:57:28.999Z
 permalink: tags/trip
 title: trip
 ---
 
 ## trip
 
-Last updated: <time datetime="2025-10-28T15:04:56.347Z">Tue Oct 28 2025 17:04:56 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T06:57:28.999Z">Thu Dec 04 2025 08:57:28 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -85,6 +85,7 @@ Last updated: <time datetime="2025-10-28T15:04:56.347Z">Tue Oct 28 2025 17:04:56
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b3125c6d134ac003a0751966486135a.png" alt="Cover for Trip II The Moon part 1" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Acen</td>
@@ -178,6 +179,7 @@ Last updated: <time datetime="2025-10-28T15:04:56.347Z">Tue Oct 28 2025 17:04:56
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -211,9 +213,9 @@ Last updated: <time datetime="2025-10-28T15:04:56.347Z">Tue Oct 28 2025 17:04:56
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 33</li>
+            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 30</li>
             <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 66</li>
-            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 72</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -427,7 +429,7 @@ Last updated: <time datetime="2025-10-28T15:04:56.347Z">Tue Oct 28 2025 17:04:56
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 73</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -449,7 +451,7 @@ Last updated: <time datetime="2025-10-28T15:04:56.347Z">Tue Oct 28 2025 17:04:56
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 71</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -537,7 +539,7 @@ Last updated: <time datetime="2025-10-28T15:04:56.347Z">Tue Oct 28 2025 17:04:56
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 23</li>
+            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -591,7 +593,7 @@ Last updated: <time datetime="2025-10-28T15:04:56.347Z">Tue Oct 28 2025 17:04:56
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/CH0ibOCsz2_GzD3_Vk6U5ALh8lxWZ2eUULG5E23AZbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDg1/MzMtMTI3MjIzODE0/Ny5qcGVn.jpeg" alt="Cover for Emtebe" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d7df71046c0d83feeb9a2cc6e06eb88.png" alt="Cover for Emtebe" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-26</td>
       <td>Emtebe</td>
@@ -621,15 +623,14 @@ Last updated: <time datetime="2025-10-28T15:04:56.347Z">Tue Oct 28 2025 17:04:56
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 45</li>
-            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 78</li>
+            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 56</li>
+            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>89</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0667a687ae04680bed6f369efc4d559.png" alt="Cover for Castlemania" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-10</td>
       <td>Thee Oh Sees</td>
@@ -707,7 +708,7 @@ Last updated: <time datetime="2025-10-28T15:04:56.347Z">Tue Oct 28 2025 17:04:56
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/RK2A0xWtIn_mzchSH4ZFvsNGtARnf1TCIbnzhFmsgsY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzA4/NzktMTMyMzI3OTAz/Mi5qcGVn.jpeg" alt="Cover for Cautionary Adhesive" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b06558eb0494aeba9b583bbf7323377.png" alt="Cover for Cautionary Adhesive" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-06</td>
       <td>The Hairy Giant</td>
@@ -727,7 +728,7 @@ Last updated: <time datetime="2025-10-28T15:04:56.347Z">Tue Oct 28 2025 17:04:56
       <td>
         <ul>
             <li> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a> # 12</li>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 34</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -753,6 +754,7 @@ Last updated: <time datetime="2025-10-28T15:04:56.347Z">Tue Oct 28 2025 17:04:56
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/innovative" | relative_url }}">innovative</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a></li>
@@ -767,16 +769,17 @@ Last updated: <time datetime="2025-10-28T15:04:56.347Z">Tue Oct 28 2025 17:04:56
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 4</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 7</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 5</li>
+            <li> <a href="{{ "/tags/innovative" | relative_url }}">innovative</a> # 14</li>
             <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 20</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/VmxpzN8p-R5BE5y3pejRJ6KPwBTM_0Y_Ma-EXQ9X5GY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTY2/NzYtMTQwOTQyOTEy/MC04MTA3LmpwZWc.jpeg" alt="Cover for saccharine" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c3cb2ab95b14609a911183ced483664.png" alt="Cover for saccharine" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Hanna Elson</td>
@@ -801,6 +804,7 @@ Last updated: <time datetime="2025-10-28T15:04:56.347Z">Tue Oct 28 2025 17:04:56
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/62a23fac9f4943fb905c74adde83bc5d.png" alt="Cover for Solar Walk 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-01</td>
       <td>Astropilot</td>
@@ -816,8 +820,8 @@ Last updated: <time datetime="2025-10-28T15:04:56.347Z">Tue Oct 28 2025 17:04:56
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 47</li>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 85</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 50</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -884,7 +888,7 @@ Last updated: <time datetime="2025-10-28T15:04:56.347Z">Tue Oct 28 2025 17:04:56
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 17</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -911,7 +915,7 @@ Last updated: <time datetime="2025-10-28T15:04:56.347Z">Tue Oct 28 2025 17:04:56
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/LEdIMC2wmlOgeSk3QLLlxx-_sQgmJNlLesOEAu6G3rQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NDA1/NzgtMTM4MDA1NTA3/Ny0yMTY4LmpwZWc.jpeg" alt="Cover for Early Recordings" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4823040a8f1042ebc203cedaf9a2225b.png" alt="Cover for Early Recordings" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-02-01</td>
       <td>Mark Lyell</td>
@@ -962,7 +966,7 @@ Last updated: <time datetime="2025-10-28T15:04:56.347Z">Tue Oct 28 2025 17:04:56
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/LEdIMC2wmlOgeSk3QLLlxx-_sQgmJNlLesOEAu6G3rQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NDA1/NzgtMTM4MDA1NTA3/Ny0yMTY4LmpwZWc.jpeg" alt="Cover for Ghost Frequencies" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f83346ee372a46dac6362af3a7478a8b.png" alt="Cover for Ghost Frequencies" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-02-01</td>
       <td>Mark Lyell</td>
@@ -1101,7 +1105,7 @@ Last updated: <time datetime="2025-10-28T15:04:56.347Z">Tue Oct 28 2025 17:04:56
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/MA-7_jjKiET2VBiskqV2lXfVVSKaZt5Uv93PCaUtT5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzg0/NTc5LTE1MjIzMzI4/ODYtOTExOS5qcGVn.jpeg" alt="Cover for Ourdom" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/31280ac07c7cfa99c0c73084f024f3da.png" alt="Cover for Ourdom" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-03-29</td>
       <td>Solar Fields</td>
@@ -1117,8 +1121,8 @@ Last updated: <time datetime="2025-10-28T15:04:56.347Z">Tue Oct 28 2025 17:04:56
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 75</li>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 93</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 7</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1233,7 +1237,7 @@ Last updated: <time datetime="2025-10-28T15:04:56.347Z">Tue Oct 28 2025 17:04:56
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/PgCwBhUfvF2tKnIfLvPnAUrYs0LUtO4yA-oMaWIl2W8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDkz/NjE1LTE2ODQyMjg3/MjUtMjg1OC5qcGVn.jpeg" alt="Cover for depart, be lost, but climb" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/62be0a2cbea64a90a487318014ea45c2.png" alt="Cover for depart, be lost, but climb" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-02-24</td>
       <td>Jetlagged</td>
@@ -1244,11 +1248,11 @@ Last updated: <time datetime="2025-10-28T15:04:56.347Z">Tue Oct 28 2025 17:04:56
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 22</li>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 22</li>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 26</li>
+            <li> <a href="{{ "/tags/keyboard" | relative_url }}">keyboard</a> # 21</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 25</li>
             <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 70</li>
-            <li> <a href="{{ "/tags/keyboard" | relative_url }}">keyboard</a> # 80</li>
+            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 78</li>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1335,8 +1339,8 @@ Last updated: <time datetime="2025-10-28T15:04:56.347Z">Tue Oct 28 2025 17:04:56
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sheffield" | relative_url }}">sheffield</a> # 2</li>
-            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 18</li>
+            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 17</li>
+            <li> <a href="{{ "/tags/sheffield" | relative_url }}">sheffield</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1390,14 +1394,15 @@ Last updated: <time datetime="2025-10-28T15:04:56.347Z">Tue Oct 28 2025 17:04:56
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 26</li>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 28</li>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 19</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b29c0fc27784ed8ab84da40bd2cca6f.png" alt="Cover for deer spots" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>scraps, e-flat</td>
@@ -1408,13 +1413,14 @@ Last updated: <time datetime="2025-10-28T15:04:56.347Z">Tue Oct 28 2025 17:04:56
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 52</li>
+            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed15bae235e94954a1da0f645ebc9fa6.png" alt="Cover for Liquid Dreams" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Blaster Oslo</td>
@@ -1428,13 +1434,14 @@ Last updated: <time datetime="2025-10-28T15:04:56.347Z">Tue Oct 28 2025 17:04:56
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 30</li>
+            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac88023ef1a55b2aa52fda8806941e07.png" alt="Cover for Adaptation" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>INADRM</td>
@@ -1457,7 +1464,7 @@ Last updated: <time datetime="2025-10-28T15:04:56.347Z">Tue Oct 28 2025 17:04:56
       <td>
         <ul>
             <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 25</li>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 27</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 28</li>
             <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 37</li>
         </ul>
       </td>
@@ -1486,7 +1493,7 @@ Last updated: <time datetime="2025-10-28T15:04:56.347Z">Tue Oct 28 2025 17:04:56
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 56</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1742,6 +1749,7 @@ Last updated: <time datetime="2025-10-28T15:04:56.347Z">Tue Oct 28 2025 17:04:56
     <tr>
       <td>18</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1aa7fb2c80193e3bb5837e2f32ce9bd.png" alt="Cover for Sometimes also chillout" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>noobPSYbot</td>
@@ -1762,6 +1770,7 @@ Last updated: <time datetime="2025-10-28T15:04:56.347Z">Tue Oct 28 2025 17:04:56
     <tr>
       <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/55d6deeae2ba3b784f6cb517f393534d.png" alt="Cover for ArchyTextures" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>ZAILM Atoyanh</td>
@@ -1831,6 +1840,7 @@ Last updated: <time datetime="2025-10-28T15:04:56.347Z">Tue Oct 28 2025 17:04:56
     <tr>
       <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/926ea0f21b9a45fa840294d0f7ef17de.png" alt="Cover for MU-TA-BOR" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>inOMarka</td>
@@ -1913,6 +1923,7 @@ Last updated: <time datetime="2025-10-28T15:04:56.347Z">Tue Oct 28 2025 17:04:56
     <tr>
       <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/319b6585cbd3213ee609d24ca11cf3a1.png" alt="Cover for Essential COOK-BOOK of the Heart" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Drunk of Amber</td>
@@ -1939,6 +1950,7 @@ Last updated: <time datetime="2025-10-28T15:04:56.347Z">Tue Oct 28 2025 17:04:56
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac6b9ae0c9534ab1b635eb53e7110f53.png" alt="Cover for Prosthetic Forest" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Sunfilter</td>
@@ -2083,6 +2095,7 @@ Last updated: <time datetime="2025-10-28T15:04:56.347Z">Tue Oct 28 2025 17:04:56
     <tr>
       <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f89d612fc455b1b2f55065d2ee2c88a.png" alt="Cover for The Sessions Vol.1" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Trunko Down inc</td>
@@ -2105,6 +2118,7 @@ Last updated: <time datetime="2025-10-28T15:04:56.347Z">Tue Oct 28 2025 17:04:56
     <tr>
       <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef74854fea7b404eb6c94bcb3edb5fc5.png" alt="Cover for Rough Cuts" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Last Of The Hunted Sonz Of Freestyle</td>
@@ -2154,6 +2168,7 @@ Last updated: <time datetime="2025-10-28T15:04:56.347Z">Tue Oct 28 2025 17:04:56
     <tr>
       <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/07fe54a5b976412898f7c89776cbb67b.png" alt="Cover for Mia Miaou" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Mia Miaou</td>
@@ -2254,6 +2269,7 @@ Last updated: <time datetime="2025-10-28T15:04:56.347Z">Tue Oct 28 2025 17:04:56
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/998e75b7a0e54c21a5f753664310d218.png" alt="Cover for Cascade" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Last Of The Hunted Sonz Of Freestyle</td>
@@ -2326,6 +2342,7 @@ Last updated: <time datetime="2025-10-28T15:04:56.347Z">Tue Oct 28 2025 17:04:56
     <tr>
       <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff1c6264f8fd4e45bb206fdbf45e6e44.png" alt="Cover for the manic episode of summer, 2010" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>scraps, e-flat</td>

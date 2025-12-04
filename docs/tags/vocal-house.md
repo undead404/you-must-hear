@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T12:18:39.062Z
+date: 2025-12-04T06:55:44.251Z
 permalink: tags/vocal-house
 title: vocal house
 ---
 
 ## vocal house
 
-Last updated: <time datetime="2025-11-23T12:18:39.062Z">Sun Nov 23 2025 14:18:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T06:55:44.251Z">Thu Dec 04 2025 08:55:44 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -146,7 +146,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 71</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -379,7 +379,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 64</li>
+            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -516,7 +516,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 84</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -539,7 +539,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 64</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 37</li>
             <li> <a href="{{ "/tags/garage-house" | relative_url }}">garage house</a> # 81</li>
         </ul>
       </td>
@@ -782,8 +782,8 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 66</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 69</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 32</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 35</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 79</li>
             <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 88</li>
         </ul>
@@ -910,7 +910,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 87</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1012,7 +1012,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 96</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1040,8 +1040,8 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 13</li>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 62</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 39</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1085,9 +1085,9 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 7</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 18</li>
             <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 50</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 83</li>
-            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1185,8 +1185,8 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 43</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 78</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 21</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1368,7 +1368,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 2</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1530,7 +1530,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 97</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1613,8 +1613,8 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 27</li>
             <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 46</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 73</li>
             <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 83</li>
         </ul>
       </td>
@@ -1714,7 +1714,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 43</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1833,7 +1833,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 81</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1976,7 +1976,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 72</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 29</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 84</li>
         </ul>
       </td>
@@ -2001,7 +2001,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 65</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 36</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 78</li>
         </ul>
       </td>
@@ -2032,7 +2032,7 @@ Vocal house centers on dance music built around prominent, often soulful or upli
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 76</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 25</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 91</li>
         </ul>
       </td>

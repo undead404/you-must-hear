@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T12:37:37.950Z
+date: 2025-12-04T06:58:58.734Z
 permalink: tags/pagan
 title: pagan
 ---
 
 ## pagan
 
-Last updated: <time datetime="2025-11-23T12:37:37.950Z">Sun Nov 23 2025 14:37:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T06:58:58.734Z">Thu Dec 04 2025 08:58:58 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -51,10 +51,11 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 64</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 7</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 24</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 36</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 64</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 77</li>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 94</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -77,7 +78,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 70</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 31</li>
             <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 85</li>
             <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 91</li>
         </ul>
@@ -177,8 +178,8 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
         <ul>
             <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 6</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 19</li>
-            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 23</li>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 30</li>
+            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 24</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 71</li>
             <li> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a> # 76</li>
         </ul>
       </td>
@@ -221,7 +222,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 68</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 33</li>
             <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 84</li>
             <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 90</li>
         </ul>
@@ -335,7 +336,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emd" | relative_url }}">emd</a> # 62</li>
+            <li> <a href="{{ "/tags/emd" | relative_url }}">emd</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -465,7 +466,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 19</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -522,7 +523,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 34</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -563,26 +564,26 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 19</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 45</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 57</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 58</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 1</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 3</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 13</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 15</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 15</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 15</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 16</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 16</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 24</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 42</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 46</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 58</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 72</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 72</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 75</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 76</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 85</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 85</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 86</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 86</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 86</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 77</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 82</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 87</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 88</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 89</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 93</li>
             <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 97</li>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 98</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -754,8 +755,8 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 36</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 83</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 18</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -775,7 +776,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 89</li>
+            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -879,7 +880,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 48</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 53</li>
             <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 75</li>
             <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 75</li>
         </ul>
@@ -901,7 +902,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 76</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -952,7 +953,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
         <ul>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 18</li>
             <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 18</li>
-            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 70</li>
+            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 31</li>
             <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 91</li>
         </ul>
       </td>
@@ -1060,7 +1061,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
     <tr>
       <td>5</td>
       <td>
-          <img src="https://i.discogs.com/IwY8cMCfpXFHtsZCm6awhrFQVLh0lBfpHA_VcFoKmYk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDgz/MjgtMTIxODE5Mjk0/OS5qcGVn.jpeg" alt="Cover for Symbols of Forefathers &amp; Inexploratus Saltus" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b577f9f936948bbbd0734fda30461ff.png" alt="Cover for Symbols of Forefathers &amp; Inexploratus Saltus" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Saltus</td>
@@ -1210,14 +1211,14 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       <td>
         <ul>
             <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 6</li>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 34</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 37</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 38</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 40</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 40</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 48</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 50</li>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 50</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 52</li>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 53</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 61</li>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 63</li>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 64</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 66</li>
             <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 76</li>
             <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 79</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 90</li>
@@ -1276,8 +1277,8 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 12</li>
             <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 60</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1368,9 +1369,9 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       <td>
         <ul>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 6</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 36</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 44</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 49</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 52</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 56</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1399,7 +1400,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       <td>
         <ul>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 18</li>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 26</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 28</li>
             <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 77</li>
             <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 82</li>
         </ul>
@@ -1458,15 +1459,15 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 34</li>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 45</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 7</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 13</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 17</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 19</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 33</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 39</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 44</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 62</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 62</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 65</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 81</li>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 84</li>
-            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 89</li>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1544,7 +1545,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 75</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 25</li>
             <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 87</li>
             <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 93</li>
         </ul>
@@ -1577,7 +1578,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/AOnvf2uIGt0JeQzmJcODvHmZZLpMNAdaOxbHVWHb2EE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODY5/NzctMTI4ODgwNTQz/My5qcGVn.jpeg" alt="Cover for Fran Marder (2009 Reissue)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b498405c232d425491950e4d88f8774c.png" alt="Cover for Fran Marder (2009 Reissue)" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Arckanum</td>
@@ -1596,9 +1597,9 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 1</li>
-            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 24</li>
             <li> <a href="{{ "/tags/swedish-black-metal" | relative_url }}">swedish black metal</a> # 54</li>
+            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 78</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1620,7 +1621,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 98</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1675,16 +1676,16 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 21</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 4</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 6</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 6</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 10</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 20</li>
             <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 65</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 66</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 67</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 75</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 76</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 81</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 90</li>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 95</li>
-            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 95</li>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 97</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1713,7 +1714,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 70</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1773,7 +1774,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 48</li>
+            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1873,7 +1874,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 79</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1893,8 +1894,8 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 6</li>
             <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 62</li>
-            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1988,8 +1989,8 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 87</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 91</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 10</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -2034,6 +2035,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       <td>
         <ul>
             <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 22</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2083,11 +2085,11 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 24</li>
+            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 18</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 53</li>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 61</li>
             <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 76</li>
-            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 83</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 77</li>
             <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 95</li>
         </ul>
       </td>
@@ -2115,8 +2117,8 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 50</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 56</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 45</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -2139,7 +2141,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 92</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -2196,6 +2198,8 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 29</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -2223,11 +2227,11 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 9</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 22</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 73</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 79</li>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 89</li>
             <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 92</li>
-            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 92</li>
             <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 99</li>
         </ul>
       </td>
@@ -2249,7 +2253,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 57</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -2273,7 +2277,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 47</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 54</li>
             <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 73</li>
             <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 74</li>
         </ul>
@@ -2300,9 +2304,9 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 29</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 40</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 41</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 60</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 60</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -2325,7 +2329,7 @@ Pagan music draws from pre-Christian spiritual traditions and folklore, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 73</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 28</li>
         </ul>
       </td>
     </tr>

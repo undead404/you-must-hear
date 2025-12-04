@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T18:40:55.023Z
+date: 2025-12-04T07:00:05.842Z
 permalink: tags/iranian
 title: iranian
 ---
 
 ## iranian
 
-Last updated: <time datetime="2025-11-17T18:40:55.023Z">Mon Nov 17 2025 20:40:55 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:00:05.842Z">Thu Dec 04 2025 09:00:05 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -49,9 +49,9 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       <td>
         <ul>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 30</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 32</li>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 60</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 61</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 69</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 69</li>
         </ul>
       </td>
@@ -187,7 +187,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 15</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 29</li>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 32</li>
-            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 44</li>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -303,12 +303,12 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 8</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 48</li>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 51</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 53</li>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 68</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 73</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 79</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -389,7 +389,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 71</li>
+            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 29</li>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 84</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 91</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 95</li>
@@ -523,11 +523,11 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 1</li>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 15</li>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 24</li>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 32</li>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 86</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 92</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 100</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 69</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -759,8 +759,8 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 30</li>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 64</li>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -824,6 +824,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04a4fa2afa9aaa6649b225977877907a.png" alt="Cover for A Lifetime In Oriental Jazz" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Lloyd Miller</td>
@@ -1090,8 +1091,8 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 18</li>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 81</li>
-            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 82</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 88</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 92</li>
             <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 93</li>
@@ -1115,7 +1116,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 13</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 88</li>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 93</li>
         </ul>
       </td>
@@ -1123,6 +1124,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8e2aad661d140218a082694978aeeff.png" alt="Cover for Natijeh e Mozakerat (Outcome of Negotiations)" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-01</td>
       <td>Kiosk</td>
@@ -1215,9 +1217,9 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 8</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 80</li>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 90</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1240,9 +1242,9 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 11</li>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 86</li>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 89</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 90</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 95</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 98</li>
         </ul>
@@ -1359,8 +1361,8 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 28</li>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 70</li>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 72</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 87</li>
         </ul>
       </td>
@@ -1435,7 +1437,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 55</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 46</li>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 88</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 94</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 97</li>
@@ -1522,7 +1524,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 25</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1638,7 +1640,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 61</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 41</li>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 96</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 100</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 100</li>
@@ -1665,8 +1667,8 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 68</li>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 79</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 22</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 71</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 99</li>
         </ul>
       </td>
@@ -1760,7 +1762,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/ualU873VCFrnPx4tBuL5M95RGrPAGHUquWGPuNt72fc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTUx/NDk0LTE2NDA5NDY1/MTMtNjUzOC5qcGVn.jpeg" alt="Cover for Sorrow For An Unfinished Dream" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5533a55a052c9d49ca9aaf38d1b8b0ff.png" alt="Cover for Sorrow For An Unfinished Dream" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-04-24</td>
       <td>Crows in the Rain</td>
@@ -2150,9 +2152,9 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       <td>
         <ul>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 2</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 9</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 46</li>
             <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 63</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -2176,10 +2178,10 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       <td>
         <ul>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 4</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 13</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 48</li>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 49</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 57</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -2206,8 +2208,8 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       <td>
         <ul>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 12</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 22</li>
-            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 64</li>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 37</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 79</li>
             <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 82</li>
             <li> <a href="{{ "/tags/kurdish" | relative_url }}">kurdish</a> # 86</li>
             <li> <a href="{{ "/tags/kurdistan" | relative_url }}">kurdistan</a> # 92</li>
@@ -2234,9 +2236,9 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       <td>
         <ul>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 13</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 40</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 53</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 61</li>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -2291,10 +2293,10 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       <td>
         <ul>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 18</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 25</li>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 57</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 57</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 65</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -2359,10 +2361,10 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       <td>
         <ul>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 27</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 30</li>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 58</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 59</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 67</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -2437,7 +2439,7 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       <td>
         <ul>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 38</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 41</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 60</li>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 61</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 66</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 74</li>
@@ -2511,8 +2513,8 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 28</li>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 69</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 73</li>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 73</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 83</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 86</li>
@@ -2623,10 +2625,10 @@ Music with roots in Iran&#39;s rich cultural heritage, blending traditional Pers
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 3</li>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 86</li>
             <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 87</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 92</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 98</li>
         </ul>
       </td>
     </tr>

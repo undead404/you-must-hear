@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-20T06:13:57.047Z
+date: 2025-12-04T07:00:37.954Z
 permalink: tags/progressive-ambient
 title: progressive ambient
 ---
 
 ## progressive ambient
 
-Last updated: <time datetime="2025-11-20T06:13:57.047Z">Thu Nov 20 2025 08:13:57 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:00:37.954Z">Thu Dec 04 2025 09:00:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -417,7 +417,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 36</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -551,8 +551,8 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 52</li>
-            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 70</li>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 31</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -666,7 +666,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
     <tr>
       <td>65</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/649778dd22f3491fb055eea57a2689be.png" alt="Cover for Autumn Reflections" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/86f0f1e184c1c8b05efe1b912165cf7a.png" alt="Cover for Autumn Reflections" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03-21</td>
       <td>Orange Crush</td>
@@ -730,8 +730,8 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 39</li>
-            <li> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a> # 69</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 61</li>
+            <li> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -791,7 +791,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/oqCQ6zoA-e2tgJ80_93UXHRyD9EGVJQ3AEgu1NMhxhQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjEx/ODMtMTI3Njc2ODc1/OC5qcGVn.jpeg" alt="Cover for [escala 1:6] Last Membrane" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/02c7f0b0f6f94f5ab928ac62e3c4de6f.png" alt="Cover for [escala 1:6] Last Membrane" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-28</td>
       <td>Crisopa</td>
@@ -881,7 +881,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/V_nsyOt92VH7bujmW1OEV9_t9zic5QYb1SjPebQuCPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODky/OTU2LTE2NTc4OTQ1/MzEtNjg1Mi5qcGVn.jpeg" alt="Cover for AUSTRAL" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dfc30bbd5985d57c3620e3168dc14a20.png" alt="Cover for AUSTRAL" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>1605munro</td>
@@ -933,7 +933,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/balearic" | relative_url }}">balearic</a> # 72</li>
+            <li> <a href="{{ "/tags/balearic" | relative_url }}">balearic</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -998,8 +998,8 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 14</li>
-            <li> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a> # 40</li>
+            <li> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a> # 39</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1072,7 +1072,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 19</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1515,9 +1515,9 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 2</li>
             <li> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a> # 10</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 38</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1554,15 +1554,15 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       <td>
         <ul>
             <li> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a> # 29</li>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 30</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 48</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/j9eDoPzGyn9hepsyGhFGI-vVxATPKyj15Bp96QFZ0bo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjIx/Mjg1LTE2MTIyNTg1/MjMtNjE2My5qcGVn.jpeg" alt="Cover for IV. Ballads for the Boudoir" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e27fe084777514ce604ec247cd29d2c.png" alt="Cover for IV. Ballads for the Boudoir" style="max-width:120px; height:auto;" />
       </td>
       <td>2020</td>
       <td>Slow Dancing Society</td>
@@ -1636,7 +1636,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/W2HZBGxG-QkQPrUAkjc4tbHTLY8Ywl3-onVBPzcblPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDAy/NTA4LTE1ODUzNTg1/MDQtODA1OC5qcGVn.jpeg" alt="Cover for Garland" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/67f00808955822c49f5cb36ea2e53978.png" alt="Cover for Garland" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-03-20</td>
       <td>Slow Dancing Society</td>
@@ -1654,7 +1654,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/W2HZBGxG-QkQPrUAkjc4tbHTLY8Ywl3-onVBPzcblPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDAy/NTA4LTE1ODUzNTg1/MDQtODA1OC5qcGVn.jpeg" alt="Cover for Failing Light" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b8f7d14abfcb09c8efaa6516ac10465.png" alt="Cover for Failing Light" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-03-27</td>
       <td>Slow Dancing Society</td>
@@ -1791,7 +1791,7 @@ Progressive ambient blends the patient, atmospheric qualities of ambient music w
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 77</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 24</li>
         </ul>
       </td>
     </tr>

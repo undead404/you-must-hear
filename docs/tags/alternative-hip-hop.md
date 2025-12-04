@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T10:00:38.479Z
+date: 2025-12-04T05:53:23.161Z
 permalink: tags/alternative-hip-hop
 title: alternative hip hop
 ---
 
 ## alternative hip hop
 
-Last updated: <time datetime="2025-11-26T10:00:38.479Z">Wed Nov 26 2025 12:00:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T05:53:23.161Z">Thu Dec 04 2025 07:53:23 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,7 +44,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 95</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -135,9 +135,9 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 16</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 29</li>
-            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 55</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 17</li>
+            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 46</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -174,7 +174,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 31</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -214,7 +214,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 9</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 8</li>
             <li> <a href="{{ "/tags/christian-rap" | relative_url }}">christian rap</a> # 100</li>
         </ul>
       </td>
@@ -326,8 +326,8 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 10</li>
-            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 69</li>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 72</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -345,7 +345,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 73</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -380,9 +380,9 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 19</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 37</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 87</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 12</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 64</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -401,7 +401,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 42</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -420,7 +420,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 86</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -591,9 +591,9 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 20</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 8</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 29</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 93</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -895,7 +895,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 65</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -953,7 +953,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 50</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -974,11 +974,11 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 23</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 26</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 66</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 16</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 27</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 35</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 78</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 85</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -996,8 +996,8 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 66</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 91</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 10</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1015,15 +1015,15 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 18</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 30</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 40</li>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 48</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 57</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 72</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 76</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 96</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 96</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 5</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 5</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 19</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 29</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 44</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 53</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 61</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 71</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1041,11 +1041,11 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 17</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 93</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 94</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 97</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 99</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 2</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 4</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 6</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 8</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1083,8 +1083,8 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 38</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 42</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 50</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 51</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1286,12 +1286,12 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 60</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 10</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 13</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 19</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 41</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 76</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 82</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 82</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 88</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1310,9 +1310,9 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 5</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 7</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 40</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 94</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1332,11 +1332,11 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 93</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 3</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 8</li>
             <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 94</li>
             <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 95</li>
             <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 96</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1354,7 +1354,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 4</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1372,10 +1372,10 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 34</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 49</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 81</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 89</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 12</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 20</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 52</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1401,13 +1401,13 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 42</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 82</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 91</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 95</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 95</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 97</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 98</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 3</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 4</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 6</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 6</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 9</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 56</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1625,7 +1625,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 32</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 69</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 72</li>
         </ul>
       </td>
@@ -1646,11 +1646,11 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 44</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 94</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 97</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 2</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 4</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 6</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 45</li>
             <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 98</li>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1672,8 +1672,8 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 76</li>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 85</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 16</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1691,11 +1691,11 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 16</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 31</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 44</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 52</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 52</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 18</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 33</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 48</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 49</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1766,18 +1766,18 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 5</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 66</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 69</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 72</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 89</li>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 97</li>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 100</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 100</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 100</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 1</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 1</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 1</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 1</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 4</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 12</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 29</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 32</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 35</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 96</li>
             <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 100</li>
             <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 100</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1813,8 +1813,8 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 16</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 63</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1832,7 +1832,7 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 39</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1873,8 +1873,8 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 18</li>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 48</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 19</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1892,8 +1892,8 @@ Alternative hip hop is a subgenre of hip hop music that emerged in the 1980s and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 6</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 49</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 52</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 95</li>
         </ul>
       </td>
     </tr>

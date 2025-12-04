@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T07:43:24.129Z
+date: 2025-12-04T05:43:13.439Z
 permalink: tags/emo-rap
 title: emo rap
 ---
 
 ## emo rap
 
-Last updated: <time datetime="2025-11-25T07:43:24.129Z">Tue Nov 25 2025 09:43:24 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T05:43:13.439Z">Thu Dec 04 2025 07:43:13 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,9 +47,9 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 49</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 68</li>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 93</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 8</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 33</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -86,8 +86,8 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 26</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 71</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 29</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -131,8 +131,8 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 25</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 48</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 50</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -155,9 +155,9 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 1</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 21</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 68</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 4</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 69</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -182,10 +182,10 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 19</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 26</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 62</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 78</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 39</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 79</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -205,11 +205,11 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 7</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 68</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 74</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 89</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 93</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 10</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 33</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 77</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 86</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -247,9 +247,9 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 41</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 51</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 66</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 52</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 60</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -269,7 +269,7 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 54</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -295,8 +295,8 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 73</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 86</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 14</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -317,8 +317,8 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 63</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 88</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 13</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -337,8 +337,8 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 2</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 56</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 3</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -398,7 +398,7 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 58</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -423,11 +423,11 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 42</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 52</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 8</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 10</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 53</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 59</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 86</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 91</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -449,9 +449,9 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 53</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 84</li>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 97</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 4</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 54</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -472,8 +472,8 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 55</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 66</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 35</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -492,7 +492,7 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 40</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -512,7 +512,7 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 96</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -553,9 +553,9 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 1</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 1</li>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 98</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 100</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 100</li>
             <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 100</li>
         </ul>
       </td>
@@ -637,7 +637,7 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       <td>
         <ul>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 42</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 82</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -659,12 +659,12 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 43</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 51</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 70</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 73</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 82</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 100</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 1</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 18</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 26</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 30</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 52</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -687,7 +687,7 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 30</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -705,7 +705,7 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 12</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -728,9 +728,9 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 19</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 37</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 38</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 81</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -748,7 +748,7 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 47</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -769,8 +769,8 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 5</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 11</li>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -846,7 +846,7 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 23</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -864,8 +864,8 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 32</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 94</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 7</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -890,10 +890,10 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 1</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 16</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 31</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 56</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 17</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 32</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 45</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -937,7 +937,8 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 81</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 19</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -995,9 +996,9 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 3</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 8</li>
             <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 90</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 93</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1015,12 +1016,12 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 16</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 53</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 18</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 48</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 61</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 82</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 83</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 99</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 85</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1077,7 +1078,7 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 85</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1102,11 +1103,11 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 17</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 59</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 12</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 18</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 25</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 42</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 74</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 76</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1137,13 +1138,13 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 13</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 19</li>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 54</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 1</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 1</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 21</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 45</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 85</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 95</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 98</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 100</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 100</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 100</li>
         </ul>
       </td>
@@ -1166,9 +1167,9 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 69</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 72</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 95</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 6</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 27</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1193,8 +1194,8 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 95</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 98</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 3</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 6</li>
             <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 100</li>
         </ul>
       </td>
@@ -1219,11 +1220,11 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 16</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 61</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 63</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 65</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 94</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 7</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 22</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 40</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 64</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1245,9 +1246,9 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 74</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 92</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 93</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 9</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 27</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1270,9 +1271,9 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 28</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 65</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 72</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 23</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 29</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1316,7 +1317,7 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 90</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 11</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 96</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 98</li>
         </ul>
@@ -1337,7 +1338,7 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 72</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1358,7 +1359,7 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 75</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1376,6 +1377,7 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1397,8 +1399,8 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 44</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 90</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 10</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1418,9 +1420,9 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 46</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 52</li>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 100</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 1</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 47</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1460,7 +1462,7 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 49</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1503,9 +1505,9 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 4</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 23</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 38</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 78</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 94</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 96</li>
             <li> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a> # 99</li>
         </ul>
@@ -1532,8 +1534,8 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 94</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 97</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 4</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 7</li>
             <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 99</li>
         </ul>
       </td>
@@ -1553,6 +1555,7 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1575,11 +1578,11 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 64</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 64</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 2</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 3</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 37</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 65</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 98</li>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 98</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1636,9 +1639,9 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 77</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 98</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 100</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 1</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 24</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1671,8 +1674,8 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 93</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 94</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 7</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 8</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 99</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 99</li>
             <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 100</li>
@@ -1698,7 +1701,7 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 91</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1721,10 +1724,10 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 28</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 73</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 94</li>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 98</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 3</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 34</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 74</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1823,7 +1826,7 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 15</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1837,22 +1840,16 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       <td>Post Mortem</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 52</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 76</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 81</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 89</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 49</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 57</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 90</li>
         </ul>
       </td>
@@ -1912,7 +1909,7 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 50</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 51</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 87</li>
         </ul>
       </td>
@@ -1938,12 +1935,12 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 33</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 71</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 73</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 76</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 91</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 94</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 6</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 30</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 39</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 74</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 77</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1965,7 +1962,7 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 88</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1993,8 +1990,8 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 8</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 87</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 14</li>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -2016,7 +2013,7 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 9</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -2040,9 +2037,9 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 20</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 67</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 68</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 30</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 33</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -2069,7 +2066,7 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 79</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -2091,7 +2088,7 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 21</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -2109,8 +2106,8 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 59</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 65</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 34</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -2130,8 +2127,8 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 65</li>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 88</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 13</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -2173,8 +2170,8 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 79</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 83</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 18</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -2198,7 +2195,7 @@ Emo rap, also known as emo hip hop or SoundCloud rap, is a subgenre of hip hop m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 95</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 6</li>
         </ul>
       </td>
     </tr>

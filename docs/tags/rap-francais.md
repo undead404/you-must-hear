@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T03:32:58.463Z
+date: 2025-12-04T07:00:11.099Z
 permalink: tags/rap-francais
 title: rap francais
 ---
 
 ## rap francais
 
-Last updated: <time datetime="2025-11-11T03:32:58.463Z">Tue Nov 11 2025 05:32:58 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:00:11.099Z">Thu Dec 04 2025 09:00:11 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -76,9 +76,9 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 3</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 32</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 73</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -106,8 +106,8 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 30</li>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 64</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 37</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 71</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 77</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 93</li>
         </ul>
@@ -149,7 +149,7 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 78</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -179,10 +179,10 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 38</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 60</li>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 76</li>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 84</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 14</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 25</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 41</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 63</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 86</li>
         </ul>
       </td>
@@ -230,10 +230,10 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 13</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 48</li>
             <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 50</li>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 51</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 68</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -263,10 +263,10 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 65</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 78</li>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 82</li>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 92</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 7</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 19</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 23</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 36</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 93</li>
         </ul>
       </td>
@@ -287,8 +287,8 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 10</li>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 87</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 14</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -325,7 +325,7 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 17</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -400,7 +400,7 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 89</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -467,8 +467,8 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 15</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 38</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -498,10 +498,10 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 2</li>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 30</li>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 42</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 58</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 62</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 69</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -576,8 +576,8 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 32</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 52</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 68</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 82</li>
         </ul>
       </td>
@@ -658,7 +658,7 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 69</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -677,7 +677,7 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 97</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -886,8 +886,8 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 47</li>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 85</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 16</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -951,7 +951,8 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 12</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 16</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -987,7 +988,7 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 35</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 65</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 83</li>
         </ul>
       </td>
@@ -1011,7 +1012,7 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 63</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 38</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 92</li>
         </ul>
       </td>
@@ -1035,7 +1036,7 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 72</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 29</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 95</li>
         </ul>
       </td>
@@ -1101,6 +1102,7 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1193,8 +1195,8 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 18</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 78</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1222,7 +1224,7 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 29</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 71</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 80</li>
         </ul>
       </td>
@@ -1251,7 +1253,7 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 31</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 69</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 81</li>
         </ul>
       </td>
@@ -1280,9 +1282,9 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 5</li>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 44</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 56</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 85</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1310,8 +1312,8 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 25</li>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 56</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 44</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 76</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 88</li>
         </ul>
       </td>
@@ -1340,8 +1342,8 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 26</li>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 57</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 43</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 75</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 89</li>
         </ul>
       </td>
@@ -1587,8 +1589,8 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 1</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 72</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1616,8 +1618,8 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 4</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 74</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1645,8 +1647,8 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 13</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 75</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1674,8 +1676,8 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 14</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 76</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1703,7 +1705,7 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 20</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 79</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 79</li>
         </ul>
       </td>
@@ -1732,9 +1734,9 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 12</li>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 48</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 52</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 86</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1762,9 +1764,9 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 22</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 52</li>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 73</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 28</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 49</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 79</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 96</li>
         </ul>
       </td>
@@ -1844,14 +1846,14 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 33</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/AGqot6PdQKBQl1pD5CjWOjxe79cln4Q5F1SWGssdY4A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg3/NDk5LTE1NjExMjYw/OTItMTI0NC5qcGVn.jpeg" alt="Cover for Toute une histoire" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11f1d4e563b4d364f9dc2eb6d503ed58.png" alt="Cover for Toute une histoire" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>Fanny Polly</td>
@@ -1892,8 +1894,8 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 81</li>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 99</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 4</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1923,8 +1925,8 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       <td>
         <ul>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 4</li>
-            <li> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a> # 14</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 66</li>
+            <li> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1954,8 +1956,8 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       <td>
         <ul>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 24</li>
-            <li> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a> # 25</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 68</li>
+            <li> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1975,7 +1977,7 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 12</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -2017,7 +2019,7 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 7</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -2073,9 +2075,9 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 16</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 40</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 77</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -2103,7 +2105,7 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 53</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 47</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 70</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 87</li>
         </ul>
@@ -2231,7 +2233,7 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 6</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -2257,8 +2259,8 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 22</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 44</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -2287,8 +2289,8 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 13</li>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 59</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 42</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 88</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 91</li>
         </ul>
       </td>
@@ -2318,7 +2320,7 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 37</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -2339,7 +2341,7 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 67</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -2384,6 +2386,7 @@ Rap français is French hip-hop characterized by intricate wordplay, poetic lyri
     <tr>
       <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c968bae3d9d541185d00aa501c80a374.png" alt="Cover for Brel - Ces gens-là" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Multi-interprètes</td>

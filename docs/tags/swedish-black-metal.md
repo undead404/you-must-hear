@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T00:47:00.948Z
+date: 2025-12-04T07:00:00.614Z
 permalink: tags/swedish-black-metal
 title: swedish black metal
 ---
 
 ## swedish black metal
 
-Last updated: <time datetime="2025-10-22T00:47:00.948Z">Wed Oct 22 2025 03:47:00 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T07:00:00.614Z">Thu Dec 04 2025 09:00:00 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,7 @@ Swedish black metal represents a distinctly aggressive and melodic interpretatio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 46</li>
+            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -82,7 +82,7 @@ Swedish black metal represents a distinctly aggressive and melodic interpretatio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 27</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -125,7 +125,7 @@ Swedish black metal represents a distinctly aggressive and melodic interpretatio
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/ITWPeclD-TLm6RLz0K_YMo6s9eQlXyQPpIDzD_NYR48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NTEw/MC0xMTM2ODk2MzI0/LmpwZWc.jpeg" alt="Cover for Fran Marder" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/706c322549f84d10a10f41da7e8a1152.png" alt="Cover for Fran Marder" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-07</td>
       <td>Arckanum</td>
@@ -143,7 +143,7 @@ Swedish black metal represents a distinctly aggressive and melodic interpretatio
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/BOT4kOeddwyptTS_jSFTXO07IvzftstnyEg9FkqN5f8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMjI1/Ni0xNjY2NDI5MjU2/LTU0ODAuanBlZw.jpeg" alt="Cover for Heaven Shall Burn ... When We Are Gathered" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a0ff31d7e0947b3947df28f4742057e.png" alt="Cover for Heaven Shall Burn ... When We Are Gathered" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Marduk</td>
@@ -234,7 +234,7 @@ Swedish black metal represents a distinctly aggressive and melodic interpretatio
     <tr>
       <td>3</td>
       <td>
-          <img src="https://i.discogs.com/WJbK1InecU_21pjML1Oujq81qeNlYpijAhpNdE0PoRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDI5/Ni0xNTI5Njc4MTA3/LTIzMTYuanBlZw.jpeg" alt="Cover for Darkside" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbc56912e91b441393d09ea9357a1ce4.png" alt="Cover for Darkside" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Necrophobic</td>
@@ -248,7 +248,7 @@ Swedish black metal represents a distinctly aggressive and melodic interpretatio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 8</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -273,6 +273,7 @@ Swedish black metal represents a distinctly aggressive and melodic interpretatio
     <tr>
       <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a38da3ad1024d57a08b871faa73936d.png" alt="Cover for Kostogher" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-05-19</td>
       <td>Arckanum</td>
@@ -284,7 +285,7 @@ Swedish black metal represents a distinctly aggressive and melodic interpretatio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 16</li>
+            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -358,7 +359,6 @@ Swedish black metal represents a distinctly aggressive and melodic interpretatio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -396,7 +396,7 @@ Swedish black metal represents a distinctly aggressive and melodic interpretatio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 15</li>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -421,7 +421,7 @@ Swedish black metal represents a distinctly aggressive and melodic interpretatio
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/r_FXRBC8fDTcdkUCWML-3VCILM-VYUh7vtExCgD2uv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzc4/Ny0xMjAwMTUzMzg4/LmpwZWc.jpeg" alt="Cover for Teach Children to Worship Satan" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3a7760f5ddb4bfcb45f7b9246cd885d.png" alt="Cover for Teach Children to Worship Satan" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-03-27</td>
       <td>Dark Funeral</td>
@@ -439,7 +439,7 @@ Swedish black metal represents a distinctly aggressive and melodic interpretatio
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/oEtcZ2PQ42t0BPRZYLH-Elg55FPiXonnOOSgEcuiAcc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NjQ3/NS0xMzg2NDE2NzIz/LTE0NzkuanBlZw.jpeg" alt="Cover for Servants Of Darkness" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c85e46f093794203836f87b8976f1631.png" alt="Cover for Servants Of Darkness" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-08-15</td>
       <td>Nifelheim</td>
@@ -508,7 +508,7 @@ Swedish black metal represents a distinctly aggressive and melodic interpretatio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 33</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 66</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 72</li>
         </ul>
       </td>
@@ -597,7 +597,7 @@ Swedish black metal represents a distinctly aggressive and melodic interpretatio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 69</li>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -753,6 +753,7 @@ Swedish black metal represents a distinctly aggressive and melodic interpretatio
     <tr>
       <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8f6988235da6e1962c647f1e4f97f86.png" alt="Cover for Nocturnal Beast" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-11-21</td>
       <td>Lord Belial</td>
@@ -786,14 +787,14 @@ Swedish black metal represents a distinctly aggressive and melodic interpretatio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 95</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/uemKoMF8PFM3E0lQlgeT2-4SANFnWHmNpLzsNsif8wo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MTI1/My0xMTM0MjE4MDY4/LmpwZWc.jpeg" alt="Cover for Terror Propaganda: Second Black Metal Attack" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aff0f57834684b99b4ab8605003585e9.png" alt="Cover for Terror Propaganda: Second Black Metal Attack" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Craft</td>
@@ -825,9 +826,9 @@ Swedish black metal represents a distinctly aggressive and melodic interpretatio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 12</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 19</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 36</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 70</li>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -870,7 +871,7 @@ Swedish black metal represents a distinctly aggressive and melodic interpretatio
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/ZZjyhXB7763iTCznGOwK9MlrZ1MdfTJ8BPvKOUQ15fA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTgw/OTktMTYxMDc2MjAx/NC0zOTY3LmpwZWc.jpeg" alt="Cover for Malignant" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d35dab2fb9dc4fd4b68324dd9a656de5.png" alt="Cover for Malignant" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-04-08</td>
       <td>Avsky</td>
@@ -907,7 +908,7 @@ Swedish black metal represents a distinctly aggressive and melodic interpretatio
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/AOnvf2uIGt0JeQzmJcODvHmZZLpMNAdaOxbHVWHb2EE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODY5/NzctMTI4ODgwNTQz/My5qcGVn.jpeg" alt="Cover for Fran Marder (2009 Reissue)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b498405c232d425491950e4d88f8774c.png" alt="Cover for Fran Marder (2009 Reissue)" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Arckanum</td>
@@ -926,9 +927,9 @@ Swedish black metal represents a distinctly aggressive and melodic interpretatio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 1</li>
-            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 24</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 57</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 42</li>
+            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 78</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1004,7 +1005,7 @@ Swedish black metal represents a distinctly aggressive and melodic interpretatio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 60</li>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1047,7 +1048,7 @@ Swedish black metal represents a distinctly aggressive and melodic interpretatio
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/GEDG7nKd04BF7x_lRd7yWQVdmSzTRQHzPs2rFGbKaV4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTA1/ODUtMTMzMjA3NzY4/NC5qcGVn.jpeg" alt="Cover for Alongside Death" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/715ca89447f8571a8a9ff36b90ff832e.png" alt="Cover for Alongside Death" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-07-19</td>
       <td>The Black</td>
@@ -1102,6 +1103,7 @@ Swedish black metal represents a distinctly aggressive and melodic interpretatio
     <tr>
       <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e00e003307974bea8865b47032040cc8.png" alt="Cover for Arisen from the Ashes" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-12</td>
       <td>Ondskapt</td>
@@ -1113,7 +1115,7 @@ Swedish black metal represents a distinctly aggressive and melodic interpretatio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 37</li>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1169,15 +1171,15 @@ Swedish black metal represents a distinctly aggressive and melodic interpretatio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 13</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 22</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 67</li>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/xDEnJWP2Ps6qNZMYfkOpaE8RhsX6lGd7HifkaShSUMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDc0/NzMtMTM2Njg0OTEx/My04MTc0LmpwZWc.jpeg" alt="Cover for I Am" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0d1434b93f36c99f84d1f998790c095.png" alt="Cover for I Am" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-08-06</td>
       <td>Armagedda</td>
@@ -1262,7 +1264,7 @@ Swedish black metal represents a distinctly aggressive and melodic interpretatio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 66</li>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1287,6 +1289,7 @@ Swedish black metal represents a distinctly aggressive and melodic interpretatio
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db0f38373f1591e62137452c48bc5650.png" alt="Cover for Void" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-08-05</td>
       <td>Craft</td>
@@ -1304,7 +1307,7 @@ Swedish black metal represents a distinctly aggressive and melodic interpretatio
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/7H9Gf5b1sbNKALIryI-CwWGVUhfvwSUp7zxC9TRfQr0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDEw/MjMtMTMxNzY2MDk5/OS5qcGVn.jpeg" alt="Cover for Touché Amoré &#x2F; Pianos Become The Teeth Split" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e55f931b8f9ee09a99d3c142d38e2ab2.png" alt="Cover for Touché Amoré &#x2F; Pianos Become The Teeth Split" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-11-01</td>
       <td>Pianos Become the Teeth</td>
@@ -1318,14 +1321,14 @@ Swedish black metal represents a distinctly aggressive and melodic interpretatio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 51</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/6QCvXc6AOtT4gt-jYLiBJPgzDlRe-hCTRKz6gybsVV4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzMy/MTAtMTQ5MDEwNDk4/My03NjAzLmpwZWc.jpeg" alt="Cover for Opus Diaboli" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9fd09228c45f4dc5aecd0b84599f2f27.png" alt="Cover for Opus Diaboli" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-04</td>
       <td>Watain</td>
@@ -1357,14 +1360,14 @@ Swedish black metal represents a distinctly aggressive and melodic interpretatio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 30</li>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/5bWViOpbCyh0ibaf-x0RpG-GROZj2E0KTx_orygypsU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0ODYw/NDEtMTM2NjI1MjM0/Ni00MzIzLmpwZWc.jpeg" alt="Cover for Paúrpura Fræovíbôkôs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1ffa25d44ae4e58ac47f6349037a68e.png" alt="Cover for Paúrpura Fræovíbôkôs" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Wulkanaz</td>
@@ -1452,7 +1455,7 @@ Swedish black metal represents a distinctly aggressive and melodic interpretatio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 26</li>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1640,7 +1643,7 @@ Swedish black metal represents a distinctly aggressive and melodic interpretatio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 20</li>
+            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1663,7 +1666,7 @@ Swedish black metal represents a distinctly aggressive and melodic interpretatio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 59</li>
+            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1705,10 +1708,10 @@ Swedish black metal represents a distinctly aggressive and melodic interpretatio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 26</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 81</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 20</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 28</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 84</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 87</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1727,7 +1730,7 @@ Swedish black metal represents a distinctly aggressive and melodic interpretatio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 62</li>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1783,7 +1786,7 @@ Swedish black metal represents a distinctly aggressive and melodic interpretatio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 17</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1861,7 +1864,7 @@ Swedish black metal represents a distinctly aggressive and melodic interpretatio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 19</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 80</li>
         </ul>
       </td>
     </tr>

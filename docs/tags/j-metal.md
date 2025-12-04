@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T11:54:50.985Z
+date: 2025-12-04T07:01:39.860Z
 permalink: tags/j-metal
 title: j-metal
 ---
 
 ## j-metal
 
-Last updated: <time datetime="2025-11-03T11:54:50.985Z">Mon Nov 03 2025 13:54:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:01:39.860Z">Thu Dec 04 2025 09:01:39 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -42,7 +42,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 74</li>
+            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -197,7 +197,6 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 4</li>
             <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 80</li>
         </ul>
       </td>
@@ -293,7 +292,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 51</li>
+            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -312,13 +311,14 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 60</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0c1d421bf12810d54dbd216930991bd.png" alt="Cover for 遺書剥奪" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-09-25</td>
       <td>黒蝪蝶</td>
@@ -362,7 +362,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 38</li>
+            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -383,7 +383,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 27</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -402,7 +402,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 73</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -449,7 +449,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 50</li>
+            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -511,8 +511,8 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 83</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 84</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 84</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -627,14 +627,13 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 36</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/fK1tqjuy2HvlzfDNlppOOZn88AjcKdHR-elXgVwnqq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQy/MTU3LTE0OTk1NDg4/NjctNTY3My5qcGVn.jpeg" alt="Cover for SPLASH!!!~遙かなる自主制作BEST~" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-04</td>
       <td>Flow</td>
@@ -690,7 +689,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 59</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 62</li>
             <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 89</li>
         </ul>
       </td>
@@ -735,6 +734,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa63c89da220024fb6d11ca846a0f519.png" alt="Cover for Withering to death" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-03-09</td>
       <td>DIR EN GREY</td>
@@ -748,8 +748,8 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 25</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 65</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 33</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 68</li>
             <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 98</li>
         </ul>
       </td>
@@ -774,6 +774,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6653959d0b802cf238325c589434fa6b.png" alt="Cover for Ultimate Unholy Death" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-09-13</td>
       <td>Abigail</td>
@@ -791,9 +792,9 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 6</li>
-            <li> <a href="{{ "/tags/blackened-thrash-metal" | relative_url }}">blackened thrash metal</a> # 68</li>
+            <li> <a href="{{ "/tags/blackened-thrash-metal" | relative_url }}">blackened thrash metal</a> # 32</li>
             <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 93</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -862,7 +863,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/8VZzECeYlAT6dbammjjInEQr-Ju4sqUt9I-oKYrjHT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Nzgz/MTEtMTM1MTE5Nzg4/MC0yODI5LmpwZWc.jpeg" alt="Cover for genocide and mass murder" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f76be41c736ff85811ce04f3c00f4a1b.png" alt="Cover for genocide and mass murder" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-07-16</td>
       <td>DEATHGAZE</td>
@@ -914,7 +915,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 41</li>
+            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -940,6 +941,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
     <tr>
       <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b9228a066d89b3e963a27647e45e594.png" alt="Cover for Girugämesh" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-12-26</td>
       <td>ギルガメッシュ</td>
@@ -959,7 +961,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/lqA2YXexv6Uv5cq2MWMS5k_pNd68mdcqFoZG7Fm8FmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Nzg2/OTQtMTM1MTIxMjc4/OC00MTI1LmpwZWc.jpeg" alt="Cover for by all means - BELIVER" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bfc2db1d39894a7dbc22f85eb112b474.png" alt="Cover for by all means - BELIVER" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-02-06</td>
       <td>meth.</td>
@@ -980,9 +982,9 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 8</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 12</li>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 83</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 12</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 15</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 16</li>
             <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 99</li>
         </ul>
       </td>
@@ -1007,7 +1009,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/Co8GG47XzxfaeMCSEYXmOj2AT4jjIS77NiH6ge7cdDA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzY0/MDgzLTE2NDIzNjMy/MjItOTUxMC5qcGVn.jpeg" alt="Cover for Tsume Tsume Tsume" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/731a94c1d45243c9b9797dd38b05413c.png" alt="Cover for Tsume Tsume Tsume" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-07-09</td>
       <td>Maximum the Hormone</td>
@@ -1026,7 +1028,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/Vp0pxlV5iF0t6RrwRQSe7raZlWKQqbLQLUxU_FppMLo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjQy/MzAtMTI1NTM3ODk4/OS5qcGVn.jpeg" alt="Cover for NOBLE" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/07fde2b7f70481bf680b2a3de154efb7.png" alt="Cover for NOBLE" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-07-16</td>
       <td>Versailles</td>
@@ -1039,8 +1041,8 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 4</li>
             <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 70</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1156,7 +1158,8 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 66</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 70</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1200,7 +1203,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/bzhmB2zZOISS2_C-WXR84gqm2_JTYqZWO4lp1J0Cwqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTI0/NjI3LTE1MDI4NTEx/NDMtMjA2OC5qcGVn.jpeg" alt="Cover for Makai Yugi" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f4c3fad6d654eb2afdfe35681b334bd.png" alt="Cover for Makai Yugi" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-02-11</td>
       <td>Detroit Metal City</td>
@@ -1221,7 +1224,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/BmhU6qgV0Jsmx_N14XOk6fpP7e27_POWNYpgvjlk0kk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODg5/OTMzLTE1NDM5MzEz/OTItNTExMC5qcGVn.jpeg" alt="Cover for LIGHT THROUGH THE NIGHT" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8f53e363604488c988b97c642700132.png" alt="Cover for LIGHT THROUGH THE NIGHT" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Kissing the Mirror</td>
@@ -1246,7 +1249,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/vhBQVWV5QMepjGVib184sSc9oB_SORTb7kxXRHrJZto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODMw/NjEtMTI4NjYwNTc1/MC5qcGVn.jpeg" alt="Cover for Swallowed scenery" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3cc2318cec060fb3e02a1a01f65df16.png" alt="Cover for Swallowed scenery" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-02</td>
       <td>Luzmelt</td>
@@ -1270,9 +1273,9 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 53</li>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 73</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 87</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 25</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 57</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 94</li>
             <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 95</li>
         </ul>
       </td>
@@ -1294,7 +1297,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 87</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1330,6 +1333,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1391,7 +1395,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 39</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 62</li>
             <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 84</li>
         </ul>
       </td>
@@ -1399,6 +1403,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
     <tr>
       <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef534ed897b4fee346393653c0449e80.png" alt="Cover for BABYMETAL" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-02-26</td>
       <td>BABYMETAL</td>
@@ -1411,24 +1416,23 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 6</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 10</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 15</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 15</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 31</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 32</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 38</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 40</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 1</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 8</li>
+            <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 9</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 15</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 16</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 20</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 27</li>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 30</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 32</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 45</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 46</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 52</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 64</li>
-            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 71</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 74</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 69</li>
             <li> <a href="{{ "/tags/unblack-metal" | relative_url }}">unblack metal</a> # 79</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 81</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 84</li>
-            <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 92</li>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 100</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 84</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1477,7 +1481,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/22hc4V09R4MqRPGhfto9bULGzn7BPKBxYRIEpI8EyiA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NDg1/NjctMTQ0NTg5NjIw/My02OTUzLnBuZw.jpeg" alt="Cover for Star Dust" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b910de4fdb5c65fd6e945a7ed9a2a019.png" alt="Cover for Star Dust" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>IRON ATTACK!</td>
@@ -1565,6 +1569,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
     <tr>
       <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1dcb81731167c96c384376c3d7ebcc99.png" alt="Cover for Retributive Justice" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-03-18</td>
       <td>Gotsu Totsu Kotsu</td>
@@ -1581,7 +1586,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 49</li>
+            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1605,8 +1610,8 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 47</li>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 74</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 27</li>
+            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1677,7 +1682,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/vNbPm84auXvvJ3oGXSui-Eb9dB81cx58U22d1G4VZq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTk0/NjgtMTQ3MzM3NDMy/NC00OTU0LnBuZw.jpeg" alt="Cover for The Final Damnation" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/26585ad34c0ae4ace0cf0f2e2073306e.png" alt="Cover for The Final Damnation" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-10-19</td>
       <td>Abigail</td>
@@ -1704,7 +1709,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/T2R5SDHd5aCOj5IDO5TkyRm6d8Uaor1xkzdIoRLsBgc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDU2/MTU0LTE0OTgwMTMx/NjgtNzE3NC5qcGVn.jpeg" alt="Cover for Back From The Grave" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1baf412dcab96663039e7f241ec9928.png" alt="Cover for Back From The Grave" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>G.A.T.E.S.</td>
@@ -1728,7 +1733,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/A5cZwWM2zP6UfYp65r1XnTnLtNgvxb7-mzodF4MQjaU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDI0/NDk1LTE3MDIwMzEz/NDktNTEzNy5qcGVn.jpeg" alt="Cover for Rise" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f832f3d79680503b35b3bebf805ecdd9.png" alt="Cover for Rise" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-03-15</td>
       <td>Bridear</td>
@@ -1769,17 +1774,17 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 25</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 7</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 29</li>
             <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 64</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 79</li>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 90</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/UaDNdfJTAC_--0RTRlZQ02snL4NgJ-OW68yB5H8_11U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDEw/MjcxLTE2NDM3MDg3/NjctNjE2Mi5qcGVn.jpeg" alt="Cover for Don&#39;t hide your face" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4df81fce4150190dd106ca5b981da07.png" alt="Cover for Don&#39;t hide your face" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-24</td>
       <td>Rie a.k.a. Suzaku</td>
@@ -1802,7 +1807,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/jMaB60IEHAW6qz_sh3sq4jrSEpdLgwBYGfS_2bj20uE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjAw/NDg2LTE1MTE3Mjk1/MTQtMTc4Ny5qcGVn.jpeg" alt="Cover for Kimi Terasu Sairiumu" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de47f3cef272b580d05de5af2f56152d.png" alt="Cover for Kimi Terasu Sairiumu" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-07-24</td>
       <td>DEADLIFT LOLITA</td>
@@ -1822,10 +1827,10 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 78</li>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 84</li>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 85</li>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 89</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 12</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 16</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 23</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 85</li>
             <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 96</li>
         </ul>
       </td>
@@ -1852,7 +1857,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/Bwm0wo7I1cVkWwx4p5T434OxZpORktmyhXq-KUvXshU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njcy/ODkyLTE2MzU3OTk5/NjItODMzOS5qcGVn.jpeg" alt="Cover for Determinism&amp;DestruKction" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/071b3943a8cc384697af0eed65e33ba7.png" alt="Cover for Determinism&amp;DestruKction" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-11-08</td>
       <td>Demetori</td>
@@ -1877,7 +1882,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/0IJKslCLOnqJ-U4lLnUJxYbR2FCMUI33Ea5wCvyvd4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI1/NTY5LTE2MDE2OTQy/NTUtODE5MC5qcGVn.jpeg" alt="Cover for Pump Up JAPAN" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b108074e3902351bf8ecc9ba94fe330a.png" alt="Cover for Pump Up JAPAN" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-02-10</td>
       <td>DEADLIFT LOLITA</td>
@@ -1897,9 +1902,9 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 87</li>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 90</li>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 95</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 6</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 11</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 14</li>
             <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 98</li>
         </ul>
       </td>
@@ -1924,9 +1929,9 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 34</li>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 97</li>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 99</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 2</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 4</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 40</li>
             <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 100</li>
         </ul>
       </td>
@@ -1934,6 +1939,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
     <tr>
       <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd27abfd530bda2b777c62a8e0331989.png" alt="Cover for The Final Stand" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-24</td>
       <td>Gotsu Totsu Kotsu</td>
@@ -1950,7 +1956,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 46</li>
+            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1995,15 +2001,15 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 9</li>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 79</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 15</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/7ixEca59zWaayiAUfyk-Z4kjcy23BSO19JzEEbdntDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzI5/MDg5LTE3MTYxOTE5/NjctMzgwMS5qcGVn.jpeg" alt="Cover for HAPPYPILLS" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fade513f638539332ad5a3640b574170.png" alt="Cover for HAPPYPILLS" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-10-27</td>
       <td>Utsu-P</td>
@@ -2018,15 +2024,15 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 50</li>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 87</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 14</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/txA59XSQo57DaK97gZfIyUln5IfTVHhgJW4vCGkzVg8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTY4/MzQ4LTE2NzY5MTE4/MjItMzQ3NS5qcGVn.jpeg" alt="Cover for 宙吊り少女 (Chuuzuri Shoujo) [【つがい盤 (Tsugai Ban)】]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a261dfc1c2863707dfd9ae95ab5700f1.png" alt="Cover for 宙吊り少女 (Chuuzuri Shoujo) [【つがい盤 (Tsugai Ban)】]" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-05-25</td>
       <td>gulu gulu</td>
@@ -2040,14 +2046,14 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 57</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/txA59XSQo57DaK97gZfIyUln5IfTVHhgJW4vCGkzVg8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTY4/MzQ4LTE2NzY5MTE4/MjItMzQ3NS5qcGVn.jpeg" alt="Cover for 宙吊り少女 (Chuuzuri Shoujo) [【たがい盤 (Tagai Ban)】]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a354f9c0c68c3d4ea7bb169814e7206d.png" alt="Cover for 宙吊り少女 (Chuuzuri Shoujo) [【たがい盤 (Tagai Ban)】]" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-05-25</td>
       <td>gulu gulu</td>
@@ -2061,7 +2067,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 86</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -2081,7 +2087,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 38</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -2101,7 +2107,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 50</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -2121,7 +2127,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 23</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -2142,7 +2148,7 @@ J-metal is Japanese heavy metal that blends aggressive Western metal styles with
       <td>
         <ul>
             <li> <a href="{{ "/tags/j-idol" | relative_url }}">j-idol</a> # 37</li>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 49</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 52</li>
         </ul>
       </td>
     </tr>

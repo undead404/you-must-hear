@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T03:33:27.111Z
+date: 2025-12-04T07:00:55.807Z
 permalink: tags/progressive-psytrance
 title: progressive psytrance
 ---
 
 ## progressive psytrance
 
-Last updated: <time datetime="2025-11-11T03:33:27.111Z">Tue Nov 11 2025 05:33:27 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:00:55.807Z">Thu Dec 04 2025 09:00:55 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -202,7 +202,7 @@ Progressive psytrance is a hypnotic electronic dance music style that bridges at
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Lime Light 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd0040ff3dde49ad91a240f4d8589128.png" alt="Cover for Lime Light 2" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Various Artists</td>
@@ -243,6 +243,7 @@ Progressive psytrance is a hypnotic electronic dance music style that bridges at
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9324a8ea167435e9840ba1dd124e96d.png" alt="Cover for Echo" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Vibrasphere</td>
@@ -257,7 +258,7 @@ Progressive psytrance is a hypnotic electronic dance music style that bridges at
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 76</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 24</li>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 99</li>
         </ul>
       </td>
@@ -314,7 +315,7 @@ Progressive psytrance is a hypnotic electronic dance music style that bridges at
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 77</li>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -533,7 +534,7 @@ Progressive psytrance is a hypnotic electronic dance music style that bridges at
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 21</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -561,13 +562,13 @@ Progressive psytrance is a hypnotic electronic dance music style that bridges at
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 3</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 4</li>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 24</li>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 43</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 77</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 97</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 97</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 98</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 4</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 4</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 20</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 56</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -699,9 +700,9 @@ Progressive psytrance is a hypnotic electronic dance music style that bridges at
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 18</li>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 21</li>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 34</li>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 78</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -811,7 +812,7 @@ Progressive psytrance is a hypnotic electronic dance music style that bridges at
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 4</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -852,7 +853,7 @@ Progressive psytrance is a hypnotic electronic dance music style that bridges at
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 40</li>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -953,6 +954,7 @@ Progressive psytrance is a hypnotic electronic dance music style that bridges at
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f675b4dac207429b835d1f9a04b12464.png" alt="Cover for Psydeburns" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-11-27</td>
       <td>Flooting Grooves</td>
@@ -1005,6 +1007,7 @@ Progressive psytrance is a hypnotic electronic dance music style that bridges at
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1081,7 +1084,7 @@ Progressive psytrance is a hypnotic electronic dance music style that bridges at
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 2</li>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1105,7 +1108,7 @@ Progressive psytrance is a hypnotic electronic dance music style that bridges at
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 21</li>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1404,8 +1407,8 @@ Progressive psytrance is a hypnotic electronic dance music style that bridges at
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 5</li>
-            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 61</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 9</li>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1469,6 +1472,7 @@ Progressive psytrance is a hypnotic electronic dance music style that bridges at
     <tr>
       <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f0f536914347d3b0192d7784421831c.png" alt="Cover for Iriy" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-01-25</td>
       <td>Astropilot</td>
@@ -1684,8 +1688,8 @@ Progressive psytrance is a hypnotic electronic dance music style that bridges at
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 1</li>
-            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 58</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 5</li>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1705,7 +1709,7 @@ Progressive psytrance is a hypnotic electronic dance music style that bridges at
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 74</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1728,7 +1732,7 @@ Progressive psytrance is a hypnotic electronic dance music style that bridges at
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 3</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1772,7 +1776,7 @@ Progressive psytrance is a hypnotic electronic dance music style that bridges at
     <tr>
       <td>6</td>
       <td>
-          <img src="https://i.discogs.com/WL-jojmVMI0mjmaKINrSY-GHa0VfrcU1kJ21hXgSjlU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjM4/NDAzLTE1NzA0Nzg0/MTgtMzI4OC5qcGVn.jpeg" alt="Cover for Revolution Remixes, Pt. 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d7016b25f23bfb3ab3d05afcd93c498.png" alt="Cover for Revolution Remixes, Pt. 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-06-20</td>
       <td>Liquid Soul</td>
@@ -1789,7 +1793,7 @@ Progressive psytrance is a hypnotic electronic dance music style that bridges at
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/mofGA275foill_LgAHpRtVEVCa_GAySpm_iubskooas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MzEx/MjYtMTQ4NTQ3Nzc2/OS05NjA0LmpwZWc.jpeg" alt="Cover for Life in Process" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b0cff6470b4031841b61aaeb0f4bab6.png" alt="Cover for Life in Process" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-09-26</td>
       <td>Vertical Mode</td>
@@ -1808,7 +1812,7 @@ Progressive psytrance is a hypnotic electronic dance music style that bridges at
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 11</li>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1868,8 +1872,8 @@ Progressive psytrance is a hypnotic electronic dance music style that bridges at
       <td>
         <ul>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 36</li>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 37</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 73</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 62</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 76</li>
         </ul>
       </td>
     </tr>

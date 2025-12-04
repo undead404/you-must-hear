@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-26T04:27:53.821Z
+date: 2025-12-04T06:55:38.572Z
 permalink: tags/experimental-indie
 title: experimental indie
 ---
 
 ## experimental indie
 
-Last updated: <time datetime="2025-10-26T04:27:53.821Z">Sun Oct 26 2025 06:27:53 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T06:55:38.572Z">Thu Dec 04 2025 08:55:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ Experimental indie pushes beyond conventional song structures and production tec
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/vBzC0zK-t8ulU7Fm4LFOKwkpvzrSbIf5PQEcZ4l45B0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzE1/NS0xMTg0ODMzNTA1/LmpwZWc.jpeg" alt="Cover for The Poison Boyfriend" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1076cf3be37bc894e8d6a8c1f679745d.png" alt="Cover for The Poison Boyfriend" style="max-width:120px; height:auto;" />
       </td>
       <td>1987-05</td>
       <td>Momus</td>
@@ -64,11 +64,11 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 23</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 55</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 77</li>
-            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 79</li>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 90</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 11</li>
+            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 20</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 24</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 59</li>
+            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 78</li>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 95</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 96</li>
             <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 99</li>
@@ -101,7 +101,7 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 53</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -125,7 +125,7 @@ Experimental indie pushes beyond conventional song structures and production tec
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/IkOpdSngzCZZmu1TMeUaQ1D3nAKtEUtwUkj7K_68b4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njcx/OTItMTIzNjY5MTQ5/MS5qcGVn.jpeg" alt="Cover for Sinus" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/59514102b95448da8d0d3ac22e0ea685.png" alt="Cover for Sinus" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Metro Luminal</td>
@@ -161,10 +161,10 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 32</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 32</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 38</li>
             <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 54</li>
             <li> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a> # 60</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 67</li>
             <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 76</li>
         </ul>
       </td>
@@ -172,7 +172,7 @@ Experimental indie pushes beyond conventional song structures and production tec
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/taxG4Kjy2eenp_edeGHOz7i2n6rA1bZrGujulD4RKp0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjc3/MTgtMTI5MjYxNzA2/NC5qcGVn.jpeg" alt="Cover for My Very Private Map" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1849ba0397cd054631e0cf3d8c111940.png" alt="Cover for My Very Private Map" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Ten In The Swear Jar</td>
@@ -246,7 +246,7 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 72</li>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -271,7 +271,7 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 26</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -303,7 +303,7 @@ Experimental indie pushes beyond conventional song structures and production tec
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/ZIxQkP_fX56AhqqBdtMb4ym8ohZi0F4rVMq2o1BByAk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTE4/ODItMTQ2MzkwNTY5/NS0xMDEzLmpwZWc.jpeg" alt="Cover for beko_10" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/514f0a65ed334a96e662e83446cb7cac.png" alt="Cover for beko_10" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-01-01</td>
       <td>Sore Eros</td>
@@ -323,9 +323,9 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 36</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 56</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 67</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 35</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 37</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -390,27 +390,20 @@ Experimental indie pushes beyond conventional song structures and production tec
       <td>Don&#39;t Die</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 14</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -435,8 +428,8 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 31</li>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 42</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 43</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -468,7 +461,7 @@ Experimental indie pushes beyond conventional song structures and production tec
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/Tnb6zYml3rZrJyFKguwZWX2VsEZn87SDpfXHL-8-RCA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjYy/NTgtMTYwNTI5NDA4/MC00ODg3LmpwZWc.jpeg" alt="Cover for tlvs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/409bc56c943fa84b1a5b1f0a3721e836.png" alt="Cover for tlvs" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>The Late Virginia Summers</td>
@@ -490,14 +483,14 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 59</li>
+            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/pGylktcTyzBPPjy8US0Verp2jbJXMD29e8nM7t40Mwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwODUw/NC0xMTcxNjgzOTA4/LmpwZWc.jpeg" alt="Cover for Sacred Places In the City" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/45371165477d202a527c1b5e240b3394.png" alt="Cover for Sacred Places In the City" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Vlor</td>
@@ -537,7 +530,7 @@ Experimental indie pushes beyond conventional song structures and production tec
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/GQ035MlLwN35plLSM5IWjXAVDzgTa3UCXjURWjZARK4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTg4/NzItMTUyNTc1MTMx/My03NDkzLmpwZWc.jpeg" alt="Cover for Gospel Store Front" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a7f5ca9e23074125dee7cc3a1823b5a.png" alt="Cover for Gospel Store Front" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Lo Moda</td>
@@ -557,7 +550,7 @@ Experimental indie pushes beyond conventional song structures and production tec
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/ftuZtpeEYAMgxTAi_U2AVmgvC8VCeQcCsik1X_9sSNA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MTQx/Ni0xMTY5ODIxMzIz/LmpwZWc.jpeg" alt="Cover for [laridae031] Under These Stars, We&#39;ll Sleep Again" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/950a0a5915604d9f92d126e6e7e9f0b1.png" alt="Cover for [laridae031] Under These Stars, We&#39;ll Sleep Again" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-01-11</td>
       <td>Iambic²</td>
@@ -594,7 +587,6 @@ Experimental indie pushes beyond conventional song structures and production tec
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/G1aecFZdypJW17L3RAi5XFvVxLZ6SwsuDCBM8FaYF1c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDk3/ODktMTQ0NDQ5NDkw/OS0xOTA3LmpwZWc.jpeg" alt="Cover for Acid Girlzzz Demo" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10-13</td>
       <td>Todosantos</td>
@@ -616,16 +608,16 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 22</li>
             <li> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a> # 22</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 38</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 37</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/sLcKNECOAQeYaHvGhGrpx-vateXrhUbxZ00YmR1zWEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI5/OTQtMTI3ODk3Njgw/Ny5wbmc.jpeg" alt="Cover for Ego-God" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b93a307a68ed424a5f6eca54494eff1.png" alt="Cover for Ego-God" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-11-01</td>
       <td>Barbagallo</td>
@@ -639,15 +631,15 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 5</li>
-            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 40</li>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 61</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/k5vnsEx5skKMFxibF3pSXVcB0HEuPpWrGnuEOKoC9qI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDQ0/MjEtMTMxNTk0Mjgw/Mi5qcGVn.jpeg" alt="Cover for Halcyon EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/29458dd3cc944f3b91205cdcf544bc55.png" alt="Cover for Halcyon EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-12-11</td>
       <td>Canon Blue</td>
@@ -666,8 +658,8 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 70</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 77</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 25</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -688,7 +680,7 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 33</li>
+            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -714,7 +706,7 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 50</li>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -744,7 +736,6 @@ Experimental indie pushes beyond conventional song structures and production tec
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/bqI_MVK4d-vYsaLEc2ppjlwQRC2h2OJcJtMBBN9xmkw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjQ1/MTA0LTE1MDE1Nzc0/MTQtMzE1NC5qcGVn.jpeg" alt="Cover for Shmalhans Is Kuechenmeister" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09</td>
       <td>Gillicuddy</td>
@@ -764,14 +755,14 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 70</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/iX8lF-rpn2dcwiT_MFwhkNIKW4MztxHE7uTsJ5Eww8U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzEx/NTAtMTI3NzQzNjEy/My5wbmc.jpeg" alt="Cover for Toxic Feelings" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5101bf13bf0a40deaf514ec09994cc3d.png" alt="Cover for Toxic Feelings" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Tidy kid</td>
@@ -792,16 +783,16 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 5</li>
-            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 65</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 67</li>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 36</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 65</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/Iivf0TcyWpGaosxBMxUpt41Rgnf57eDItDOpje4y71Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjQ1/NjYxLTE2MjA0OTg2/ODAtMTMxMy5qcGVn.jpeg" alt="Cover for Boat Boat" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a948b7eab3f0b4c77d01b2a8e75c8c1f.png" alt="Cover for Boat Boat" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Totally Nebular</td>
@@ -825,11 +816,11 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 19</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 34</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 54</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 66</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 72</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 26</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 29</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 35</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 36</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 46</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 92</li>
         </ul>
       </td>
@@ -861,7 +852,7 @@ Experimental indie pushes beyond conventional song structures and production tec
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/QuB9qrVCxskOuWDAXLUOT2rHSYrpJvc03axYtafRrCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODI4/NTYtMTMzMDk3NzEz/MC5qcGVn.jpeg" alt="Cover for Actually, I am Sasha Fierce" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eff6086b287e48c889273a5d7bd2dd86.png" alt="Cover for Actually, I am Sasha Fierce" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Andy&#39;s Airport Of Love</td>
@@ -884,18 +875,13 @@ Experimental indie pushes beyond conventional song structures and production tec
       <td>America Lives</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/america" | relative_url }}">america</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/americana" | relative_url }}">americana</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/california" | relative_url }}">california</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
         </ul>
       </td>
       <td>
@@ -935,7 +921,7 @@ Experimental indie pushes beyond conventional song structures and production tec
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/V2Ip6RzL_2vYfZ50HnbZ4oyBzCWRHx1LhXYpPc1ssUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODMy/NDUtMTMxMDM0NzUz/MC5qcGVn.jpeg" alt="Cover for Fire Island" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/77d487bb13032b0cb8cf46a60160f640.png" alt="Cover for Fire Island" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-08-02</td>
       <td>Philip Seymour Hoffman</td>
@@ -956,15 +942,15 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 23</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 38</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 63</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/jT6B2FjTrGzt2xCtstYoIKorY1SIwv01enbAyqz-VhU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjEw/MjYtMTQzMjc5NzEx/OS05NjgxLmpwZWc.jpeg" alt="Cover for Pink Sky" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad7cb20b2233460c92a0014be6af2cd6.png" alt="Cover for Pink Sky" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-08-17</td>
       <td>Tan Dollar</td>
@@ -985,9 +971,9 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 26</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 62</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 70</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 32</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 33</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1011,7 +997,7 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 24</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1093,6 +1079,7 @@ Experimental indie pushes beyond conventional song structures and production tec
     <tr>
       <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79128288050204ad0df696a6d2756a4b.png" alt="Cover for People In Grass Houses" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Sekotis</td>
@@ -1115,7 +1102,7 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 39</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1143,9 +1130,9 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 22</li>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 28</li>
-            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 70</li>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 31</li>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 73</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1170,14 +1157,14 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 53</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/HntpC8t1ZShi_BjUToYIBCTr3yBPamIiqiY8uv9uhos/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTU2/ODM0LTE1MTg0NTIw/ODYtODE1Ny5wbmc.jpeg" alt="Cover for Hugs EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d13a44f2096b4aa223bd2bec9f79e22.png" alt="Cover for Hugs EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Tabar</td>
@@ -1198,7 +1185,7 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 84</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 17</li>
             <li> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a> # 96</li>
             <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 98</li>
         </ul>
@@ -1207,7 +1194,7 @@ Experimental indie pushes beyond conventional song structures and production tec
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/WwgYx3h_jittpzpX-EuoR-MbhClOtAbJLfd4St7IQr8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5ODg4/NTQtMTM4MTQ4ODA5/My02OTUxLmpwZWc.jpeg" alt="Cover for Clothes, Friends, Photos EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/01758de981064a879050e9c1ca61211a.png" alt="Cover for Clothes, Friends, Photos EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Peter and Kerry</td>
@@ -1218,10 +1205,10 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 40</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 42</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 87</li>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 96</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 5</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 52</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 65</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1252,8 +1239,8 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 2</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 68</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 3</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1333,14 +1320,14 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 5</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/XldkdwVi2dwj41RR4DSIAgxXHJoMvRlBcH9wltFOtcE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0OTEx/MDUtMTM5NDc0NDIz/My0yODA1LmpwZWc.jpeg" alt="Cover for Short note from the time" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/64e01f67dcd54427abe56bb36df7790d.png" alt="Cover for Short note from the time" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-29</td>
       <td>Kraffa</td>
@@ -1359,13 +1346,14 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 52</li>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d43e7770f7ca4633bf6962df2ee134e9.png" alt="Cover for Teenage Elders" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-06-25</td>
       <td>Hipster Youth</td>
@@ -1386,14 +1374,14 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 50</li>
+            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/d4ZgE4q_QrofuhgUZEjxI81Xzd_GD11326h-1qp8avQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTc3/MzctMTU2ODIxOTA2/Mi01NzM2LmpwZWc.jpeg" alt="Cover for Yet" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3221dde671f149329eb1547227de8d80.png" alt="Cover for Yet" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-07-06</td>
       <td>My Epic</td>
@@ -1430,8 +1418,8 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 36</li>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 58</li>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 54</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1454,7 +1442,7 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 42</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 59</li>
             <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 81</li>
         </ul>
       </td>
@@ -1493,7 +1481,7 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 49</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 52</li>
             <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 57</li>
         </ul>
       </td>
@@ -1501,7 +1489,6 @@ Experimental indie pushes beyond conventional song structures and production tec
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/1-tRDGFd9UH1i39enMQVStsnMCjzqljcizPVAPm4cvE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Nzk0/OTktMTQzMjU1ODAx/MC0zMzM5LmpwZWc.jpeg" alt="Cover for Satan And His Army EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-12</td>
       <td>Srkp</td>
@@ -1525,8 +1512,8 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 53</li>
-            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 67</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 52</li>
+            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1560,7 +1547,7 @@ Experimental indie pushes beyond conventional song structures and production tec
     <tr>
       <td>5</td>
       <td>
-          <img src="https://i.discogs.com/bNpfkyS1iL-UzUUG__ulw_R6Bgiq6VQN2cuf_FGbKeo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDQ4/NjUzLTE2NDY4NDk0/NjctMjk2My5qcGVn.jpeg" alt="Cover for We got hot &amp; died." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8784aeb4f4954a91ad230c572d77bdae.png" alt="Cover for We got hot &amp; died." style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Pretty Swans</td>
@@ -1584,7 +1571,7 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 14</li>
+            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1616,8 +1603,8 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 40</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 44</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 54</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 61</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 77</li>
         </ul>
       </td>
@@ -1625,6 +1612,7 @@ Experimental indie pushes beyond conventional song structures and production tec
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/53547bef95db4f0acf999af55210a984.png" alt="Cover for No Becoming" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-01-01</td>
       <td>Lee Noble</td>
@@ -1651,11 +1639,11 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 35</li>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 63</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 87</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 87</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 92</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 9</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 13</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 13</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 37</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 60</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 98</li>
         </ul>
       </td>
@@ -1738,7 +1726,6 @@ Experimental indie pushes beyond conventional song structures and production tec
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/1apqIwt71Wm22la0QezaO623oIb5V1jHbAJYDPJPzvA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTQz/OTktMTMzNTA3MTA2/NS5qcGVn.jpeg" alt="Cover for Sun Ray [EP]" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-04-19</td>
       <td>Conveyor</td>
@@ -1790,14 +1777,14 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 46</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>3</td>
       <td>
-          <img src="https://i.discogs.com/omSuT6DMgTu_AobjWEe3QYJ1pSgfwKg3gOAkO6eIwDc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTQ5/ODQtMTMwNjA5ODU3/Mi5qcGVn.jpeg" alt="Cover for beko_87" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c3bb1c2c8f0430983caf3ed8bfecad5.png" alt="Cover for beko_87" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-23</td>
       <td>Chevalier Avant Garde</td>
@@ -1816,14 +1803,13 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 10</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/CeHbYcPVZaSecJkRZnEnyja2ox3TWmHZNRAH3oitsMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NTgw/MDgtMTQ3MDIzMjcx/Ny04MjEyLmpwZWc.jpeg" alt="Cover for july + cannons (free download)" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05</td>
       <td>Youth Lagoon</td>
@@ -1844,14 +1830,15 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 60</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 68</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 34</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c01cfbde444541608787fc82c7fd4f13.png" alt="Cover for Leavers&#39; Do" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-01</td>
       <td>Doctrine</td>
@@ -1880,7 +1867,7 @@ Experimental indie pushes beyond conventional song structures and production tec
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/03mF8JRom7plBsXNPFtz9Z2daBK7CEbvBWhkbeXTCh0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MzA2/NzktMTQ0MTM3NTMw/MC0xMTAyLmpwZWc.jpeg" alt="Cover for Photo Album" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1046928de3b047fa98528c54181917e9.png" alt="Cover for Photo Album" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-03</td>
       <td>Henrik José</td>
@@ -1899,8 +1886,8 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 67</li>
-            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 92</li>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 9</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1930,17 +1917,18 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 35</li>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 59</li>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 78</li>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 6</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 41</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 60</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 79</li>
             <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 92</li>
-            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6bdd8b255037453fa9faab09cd708bad.png" alt="Cover for qia songs" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-07-07</td>
       <td>N-qia</td>
@@ -1963,9 +1951,9 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 32</li>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 43</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 55</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 47</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 56</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -2050,29 +2038,25 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 34</li>
-            <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 69</li>
+            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 35</li>
+            <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/suKKE33iD2MG_9egTztLT7wfcv8fgRj4EFIsOEDsbmg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTI4/MzItMTQwOTg0OTQ1/NC0xNTMxLmpwZWc.jpeg" alt="Cover for Flutter EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/416a445c60f14539995aeb37809ae85c.png" alt="Cover for Flutter EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-23</td>
       <td>Valotihkuu</td>
       <td>Flutter EP</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/diy" | relative_url }}">diy</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a></li>
@@ -2080,22 +2064,20 @@ Experimental indie pushes beyond conventional song structures and production tec
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russia" | relative_url }}">russia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/russian" | relative_url }}">russian</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 7</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 31</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 41</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 62</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 69</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/Nbl6thafwaatOLiiP48agK5UELGKYdeTihBVtzI-E-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTk1/ODYtMTU5OTA2Mjk2/OS03MTY1LmpwZWc.jpeg" alt="Cover for V" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8397e171d80b41719474f1ca9e340cb4.png" alt="Cover for V" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Simon Bird</td>
@@ -2115,14 +2097,14 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 23</li>
+            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/2sdiNpWqt438H6DDMrx3Ee_P1islb1tFhiG0Kz9NMxM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NDA4/ODUtMTQ0NTczMTE2/NS00NjQzLmpwZWc.jpeg" alt="Cover for Low Cool" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9b6de9b2c53b70ec341b1f3a6807105.png" alt="Cover for Low Cool" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Mark Lesseraux</td>
@@ -2147,8 +2129,9 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 32</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 68</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 73</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2182,7 +2165,7 @@ Experimental indie pushes beyond conventional song structures and production tec
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/hPrMAMhLHBcN2476RQh6_mSZH90M6k49E-d3M8jqLx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODc4/NjQtMTMyODQ0NjQ5/MS5qcGVn.jpeg" alt="Cover for Retina (Sutemos031)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/30a4aefdda5245aa88b7d19dbc018c1f.png" alt="Cover for Retina (Sutemos031)" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02-01</td>
       <td>Mmpsuf</td>
@@ -2213,14 +2196,14 @@ Experimental indie pushes beyond conventional song structures and production tec
       <td>
         <ul>
             <li> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a> # 13</li>
-            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 25</li>
+            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/3u58vMavvSnicn9mUNsNOwcrO2rG6ucodmppPCDxXPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Mjk3/MDQtMTQwMTEwMzk0/NS0zNzc2LmpwZWc.jpeg" alt="Cover for Monthly Journal" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3eca06e9fb7409bb9e8258fa677c0bf.png" alt="Cover for Monthly Journal" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02-06</td>
       <td>Thomas Truax</td>
@@ -2246,15 +2229,15 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 19</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 30</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 70</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/25_3lCqeHzWYlW-n5arWsvkWBWLtsjCXhsX-UfO2OWk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NjY3/NTktMTMzMTQ5MTkz/My5qcGVn.jpeg" alt="Cover for Futures EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c713002b0f04179acd9f7b14afa4122.png" alt="Cover for Futures EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02-21</td>
       <td>RxGibbs</td>
@@ -2278,10 +2261,10 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 42</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 53</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 65</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 69</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 32</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 37</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 47</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -2307,7 +2290,7 @@ Experimental indie pushes beyond conventional song structures and production tec
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/xe-lKyD0XeYBmK-ERn7YEB97SrQ0w-D0zn3E7q09Lxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NzEw/MjktMTM4MDk3NjIx/Ni03NzQxLmpwZWc.jpeg" alt="Cover for More Songs About Animals and TV" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ccfd56bac772434482cd1a41973a5dba.png" alt="Cover for More Songs About Animals and TV" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-17</td>
       <td>Alligator Indian</td>
@@ -2335,19 +2318,19 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 1</li>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 1</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 5</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 42</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 47</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 3</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 54</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 61</li>
             <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 85</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 95</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>2</td>
       <td>
-          <img src="https://i.discogs.com/XbMhnYYUemoybCqY9HCrS3VJIhjHpsihzm_ZS9whXwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMzc5/NDgtMTM4ODQwOTU2/OS0yMjg2LmpwZWc.jpeg" alt="Cover for Distance" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd10bca628104316835a39703f2c66a8.png" alt="Cover for Distance" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-11-28</td>
       <td>Starmetis</td>
@@ -2399,8 +2382,8 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 45</li>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 69</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 31</li>
+            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 56</li>
             <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 77</li>
         </ul>
       </td>
@@ -2422,7 +2405,7 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 66</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -2474,7 +2457,7 @@ Experimental indie pushes beyond conventional song structures and production tec
       <td>
         <ul>
             <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 19</li>
-            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 85</li>
+            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -2497,14 +2480,14 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 29</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/sVnxKx84AuwJYH64-Mqzri7ksRH5NfbyoiOtkMv8oW0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODM4/ODYyLTE1NDc3Nzg4/OTUtNzQ2OC5qcGVn.jpeg" alt="Cover for Daytrotter Studio 9&#x2F;14&#x2F;2010" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/08d4adaa6fc24f3bbc4bdb76e3bd7db8.png" alt="Cover for Daytrotter Studio 9&#x2F;14&#x2F;2010" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-11-17</td>
       <td>Toro y Moi</td>
@@ -2521,7 +2504,7 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 67</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -2553,19 +2536,19 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 6</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 72</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 84</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 92</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 93</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 95</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 6</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 7</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 8</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 16</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 73</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/uA0EuY7z6VJmY60HUtf4j7vE3i5WHZtno-2OWwX22-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTU4/ODM3LTE3MDIxNzYy/MTgtMjY3My5qcGVn.jpeg" alt="Cover for Zechariah" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e05be81adf3ec71e5b624ee394416440.png" alt="Cover for Zechariah" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-07-25</td>
       <td>For Tuesday</td>
@@ -2602,13 +2585,14 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 24</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/55bfb9774be14af96d0b46434c0a201a.png" alt="Cover for Maya" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Magicks</td>
@@ -2637,13 +2621,14 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 43</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a34c7edad0f7452899cef227135c7e47.png" alt="Cover for Rainy Day Songs" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Bridge Underwater</td>
@@ -2671,8 +2656,8 @@ Experimental indie pushes beyond conventional song structures and production tec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 10</li>
-            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 45</li>
+            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 56</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -2698,6 +2683,7 @@ Experimental indie pushes beyond conventional song structures and production tec
     <tr>
       <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5a48d3e4b124531c5580296954e2936.png" alt="Cover for States Away" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Dan Masquelier</td>
@@ -2769,8 +2755,8 @@ Experimental indie pushes beyond conventional song structures and production tec
 
 - [alternative]({{ "/tags/alternative" | relative_url }})
 - [electronic]({{ "/tags/electronic" | relative_url }})
-- [american]({{ "/tags/american" | relative_url }})
 - [america]({{ "/tags/america" | relative_url }})
+- [american]({{ "/tags/american" | relative_url }})
 - [usa]({{ "/tags/usa" | relative_url }})
 - [american underground]({{ "/tags/american-underground" | relative_url }})
 - [experimental rock]({{ "/tags/experimental-rock" | relative_url }})

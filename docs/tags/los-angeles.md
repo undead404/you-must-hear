@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T09:55:17.810Z
+date: 2025-12-04T06:55:05.026Z
 permalink: tags/los-angeles
 title: los angeles
 ---
 
 ## los angeles
 
-Last updated: <time datetime="2025-11-25T09:55:17.810Z">Tue Nov 25 2025 11:55:17 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T06:55:05.026Z">Thu Dec 04 2025 08:55:05 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -130,6 +130,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
     <tr>
       <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/08094b12107d4193a12633f51314ee00.png" alt="Cover for Shotgun Messiah" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Shotgun Messiah</td>
@@ -150,9 +151,9 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 3</li>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 24</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 26</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 88</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -172,7 +173,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 66</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -190,8 +191,8 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 3</li>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 3</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 97</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -214,7 +215,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 91</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -235,8 +236,8 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 35</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 40</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 62</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -275,8 +276,8 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 56</li>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 75</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 26</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -315,10 +316,10 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 2</li>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 20</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 56</li>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 61</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 40</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 45</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 80</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -342,9 +343,9 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 39</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 75</li>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 91</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 9</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 26</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -363,7 +364,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 43</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -455,9 +456,9 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 22</li>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 58</li>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 63</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 38</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 41</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -499,8 +500,8 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 8</li>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 36</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 65</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -547,9 +548,9 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 48</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 71</li>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 80</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 20</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 30</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -568,10 +569,10 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 31</li>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 34</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 41</li>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 98</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 3</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 60</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 64</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -594,7 +595,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 66</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -618,9 +619,9 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 63</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 83</li>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 94</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 7</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 18</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -644,7 +645,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 26</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -667,7 +668,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 89</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -693,7 +694,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 90</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 11</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 98</li>
         </ul>
       </td>
@@ -713,7 +714,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 40</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -751,7 +752,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 27</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -769,7 +770,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 28</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -793,8 +794,8 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 38</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 47</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 54</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -834,8 +835,8 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 63</li>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 64</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 36</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -854,8 +855,8 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 2</li>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 27</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 76</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -913,8 +914,8 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 13</li>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 21</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 80</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -935,7 +936,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 25</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -959,7 +960,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 35</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -980,7 +981,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 17</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 82</li>
             <li> <a href="{{ "/tags/melbourne" | relative_url }}">melbourne</a> # 100</li>
         </ul>
       </td>
@@ -1004,7 +1005,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 15</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1060,7 +1061,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 1</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1083,7 +1084,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 19</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1128,7 +1129,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 8</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1204,7 +1205,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 39</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1273,7 +1274,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 67</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 34</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 80</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 86</li>
         </ul>
@@ -1294,7 +1295,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 50</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1316,7 +1317,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 77</li>
+            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1339,7 +1340,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 32</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1460,8 +1461,8 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 25</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 61</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 37</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1495,10 +1496,10 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 41</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 88</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 88</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 92</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 9</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 13</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 13</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 60</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 96</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 98</li>
         </ul>
@@ -1635,7 +1636,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 53</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1700,8 +1701,8 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 40</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 50</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 51</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1745,9 +1746,9 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 81</li>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 89</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 92</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 9</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 11</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1926,12 +1927,12 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 28</li>
             <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 35</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 35</li>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 41</li>
             <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 43</li>
             <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 53</li>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 73</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 60</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1954,7 +1955,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 94</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1984,7 +1985,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/zwhop3MbOizdnfuK2J0d0jWycyPPPNBEPdbHgu5MRPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTM4/MDE1LTE2NTE4NzMw/NDMtMTY2OS5qcGVn.jpeg" alt="Cover for Mulholland Drive" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/376855da53e7884003be87c6eb6e63ff.png" alt="Cover for Mulholland Drive" style="max-width:120px; height:auto;" />
       </td>
       <td>2022</td>
       <td>Eyedress</td>
@@ -1998,8 +1999,8 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 97</li>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 99</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 2</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -2020,7 +2021,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 55</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 45</li>
             <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 55</li>
         </ul>
       </td>
@@ -2041,7 +2042,7 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 44</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -2114,8 +2115,8 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 29</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 41</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 60</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -2139,8 +2140,8 @@ Los Angeles music refers to the diverse range of music genres that have emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 37</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 65</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 34</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 63</li>
         </ul>
       </td>
     </tr>

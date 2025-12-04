@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T12:31:38.097Z
+date: 2025-12-04T06:57:39.426Z
 permalink: tags/technical-metal
 title: technical metal
 ---
 
 ## technical metal
 
-Last updated: <time datetime="2025-11-23T12:31:38.097Z">Sun Nov 23 2025 14:31:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T06:57:39.426Z">Thu Dec 04 2025 08:57:39 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,8 +47,8 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 23</li>
-            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 33</li>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 65</li>
+            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -69,7 +69,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 63</li>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -88,8 +88,8 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 59</li>
-            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 77</li>
+            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 24</li>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -162,7 +162,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 24</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 19</li>
             <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 50</li>
             <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 71</li>
         </ul>
@@ -284,7 +284,8 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 18</li>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 17</li>
+            <li> <a href="{{ "/tags/extreme-progressive-metal" | relative_url }}">extreme progressive metal</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -304,9 +305,9 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 2</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 15</li>
             <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 39</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 87</li>
-            <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -366,7 +367,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 15</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 86</li>
             <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 98</li>
         </ul>
       </td>
@@ -425,7 +426,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 28</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -445,7 +446,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 13</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -464,9 +465,9 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 32</li>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 57</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 56</li>
             <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 61</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -530,7 +531,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 32</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -555,8 +556,8 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 63</li>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 73</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 34</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -574,7 +575,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 38</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -665,8 +666,8 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 20</li>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 24</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 21</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -728,8 +729,8 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 49</li>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 69</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 29</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -743,14 +744,11 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       <td>Bleed The Fifth</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
-            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 34</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 35</li>
+            <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -770,8 +768,8 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 11</li>
-            <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 28</li>
+            <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 70</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -854,7 +852,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 34</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -874,9 +872,9 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 13</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 8</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 15</li>
             <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 29</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 93</li>
             <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 99</li>
         </ul>
       </td>
@@ -896,7 +894,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 22</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -914,7 +912,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 4</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -950,8 +948,9 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 27</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 28</li>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 48</li>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 69</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -989,7 +988,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 5</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1007,9 +1006,9 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 2</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 3</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 22</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 43</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1027,6 +1026,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/innovative" | relative_url }}">innovative</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
@@ -1040,9 +1040,10 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 67</li>
+            <li> <a href="{{ "/tags/innovative" | relative_url }}">innovative</a> # 8</li>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 29</li>
+            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 34</li>
             <li> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a> # 69</li>
-            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 71</li>
             <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 76</li>
             <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 97</li>
         </ul>
@@ -1088,7 +1089,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 9</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 10</li>
             <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 53</li>
             <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 53</li>
         </ul>
@@ -1126,7 +1127,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 41</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1168,7 +1169,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 19</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1217,7 +1218,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/hZpEwD_jfp7dIyTgB9IPD--ex-Y5RzSE5GgdQ4nDfx0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDg4/NDktMTUyNDc0NjY5/OS05OTg1LmpwZWc.jpeg" alt="Cover for In two minds" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7927b1c788434ca9a17c1a7586e32447.png" alt="Cover for In two minds" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-01</td>
       <td>Katatura</td>
@@ -1242,7 +1243,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 7</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1287,7 +1288,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 53</li>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1306,7 +1307,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 26</li>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1390,7 +1391,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 11</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1410,7 +1411,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       <td>
         <ul>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 19</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 74</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 27</li>
             <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 78</li>
             <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 93</li>
         </ul>
@@ -1438,7 +1439,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/w-UC3zaoZvfJ9dlVPRcLobc2d8JHawAY0EuxpvDF1P0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTI0/MDEtMTMzNjU3ODY3/MS03ODM2LmpwZWc.jpeg" alt="Cover for Throes of Absolution" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e2c657148ca483895df5470a9756b20.png" alt="Cover for Throes of Absolution" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-23</td>
       <td>7 Horns 7 Eyes</td>
@@ -1494,7 +1495,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 51</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1516,7 +1517,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 25</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1598,7 +1599,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 18</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1713,8 +1714,8 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 34</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 67</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 67</li>
             <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 73</li>
         </ul>
       </td>
@@ -1733,7 +1734,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 6</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1755,7 +1756,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 27</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1808,7 +1809,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/CJ-JbaiZhVNe1FbMjtDJDsBDo_NH2xAVF7dX3KGVFfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDAx/ODg2LTE1MDgwMDU0/MjMtMzA0NC5qcGVn.jpeg" alt="Cover for Spiritual Machines" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7952eb56d3e42dccfe22a17418fe36ef.png" alt="Cover for Spiritual Machines" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Paul Wardingham</td>
@@ -1940,7 +1941,8 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 44</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 45</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1960,7 +1962,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 65</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 36</li>
             <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 92</li>
         </ul>
       </td>
@@ -2045,7 +2047,7 @@ Technical metal emphasizes virtuosic musicianship, complex song structures, and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 16</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 17</li>
         </ul>
       </td>
     </tr>

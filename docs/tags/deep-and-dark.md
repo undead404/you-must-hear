@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-20T05:03:21.219Z
+date: 2025-12-04T06:59:49.243Z
 permalink: tags/deep-and-dark
 title: deep and dark
 ---
 
 ## deep and dark
 
-Last updated: <time datetime="2025-11-20T05:03:21.219Z">Thu Nov 20 2025 07:03:21 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T06:59:49.243Z">Thu Dec 04 2025 08:59:49 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -82,7 +82,7 @@ Last updated: <time datetime="2025-11-20T05:03:21.219Z">Thu Nov 20 2025 07:03:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 66</li>
+            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -103,7 +103,7 @@ Last updated: <time datetime="2025-11-20T05:03:21.219Z">Thu Nov 20 2025 07:03:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 6</li>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -128,7 +128,7 @@ Last updated: <time datetime="2025-11-20T05:03:21.219Z">Thu Nov 20 2025 07:03:21
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/tUt-faLzQVL9zcvBKr2HXEII0FsdEqsT_R86DB2fPUE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjU0/MC0xNTcyOTA3OTE5/LTk2ODUuanBlZw.jpeg" alt="Cover for Camouflage Heart" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1636000c0fd3f8b76bd2f6ab068363aa.png" alt="Cover for Camouflage Heart" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>Cindytalk</td>
@@ -165,8 +165,8 @@ Last updated: <time datetime="2025-11-20T05:03:21.219Z">Thu Nov 20 2025 07:03:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 88</li>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 88</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 9</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -492,7 +492,7 @@ Last updated: <time datetime="2025-11-20T05:03:21.219Z">Thu Nov 20 2025 07:03:21
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/3kz72hKqnCTq7_uOqZtkPz_Dtf7gJSHxvXOkodKZQsU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDM0/OC0xMTU2MTc4MzY4/LmpwZWc.jpeg" alt="Cover for Here and Elsewhere" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e267c795258e4268af5ce1045cdb1e6a.png" alt="Cover for Here and Elsewhere" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-02-14</td>
       <td>Orchestra Terrestrial</td>
@@ -603,7 +603,7 @@ Last updated: <time datetime="2025-11-20T05:03:21.219Z">Thu Nov 20 2025 07:03:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit-techno" | relative_url }}">detroit techno</a> # 77</li>
+            <li> <a href="{{ "/tags/detroit-techno" | relative_url }}">detroit techno</a> # 23</li>
             <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 85</li>
         </ul>
       </td>
@@ -630,7 +630,7 @@ Last updated: <time datetime="2025-11-20T05:03:21.219Z">Thu Nov 20 2025 07:03:21
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/xMg3HIm9pDGWRWvjwOpWHRPFBNgXWnF0RoXIlFrzs1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTIw/ODczLTE1NzkzODgz/MzAtMTI5Ni5qcGVn.jpeg" alt="Cover for Part Two - The Endless Not" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c9ed4be84d7269916834598699fcbe3.png" alt="Cover for Part Two - The Endless Not" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-04-02</td>
       <td>Throbbing Gristle</td>
@@ -645,8 +645,8 @@ Last updated: <time datetime="2025-11-20T05:03:21.219Z">Thu Nov 20 2025 07:03:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 48</li>
-            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 93</li>
+            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 8</li>
+            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -729,7 +729,7 @@ Last updated: <time datetime="2025-11-20T05:03:21.219Z">Thu Nov 20 2025 07:03:21
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/cAWYthg2yOqokloZlu6wP3OE0Vn4hzPY41C5OLHxZ1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjEy/MTYtMTIyMTQ1NTUy/Ni5qcGVn.jpeg" alt="Cover for Memory Tree" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8496a0877df4805a2714169cc3a51d2.png" alt="Cover for Memory Tree" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-15</td>
       <td>Mike Shannon</td>
@@ -802,7 +802,7 @@ Last updated: <time datetime="2025-11-20T05:03:21.219Z">Thu Nov 20 2025 07:03:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 65</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -844,7 +844,7 @@ Last updated: <time datetime="2025-11-20T05:03:21.219Z">Thu Nov 20 2025 07:03:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 73</li>
+            <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -884,7 +884,7 @@ Last updated: <time datetime="2025-11-20T05:03:21.219Z">Thu Nov 20 2025 07:03:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 97</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -905,8 +905,8 @@ Last updated: <time datetime="2025-11-20T05:03:21.219Z">Thu Nov 20 2025 07:03:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 63</li>
-            <li> <a href="{{ "/tags/detroit-techno" | relative_url }}">detroit techno</a> # 100</li>
+            <li> <a href="{{ "/tags/detroit-techno" | relative_url }}">detroit techno</a> # 1</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1195,7 +1195,7 @@ Last updated: <time datetime="2025-11-20T05:03:21.219Z">Thu Nov 20 2025 07:03:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 38</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1328,7 +1328,7 @@ Last updated: <time datetime="2025-11-20T05:03:21.219Z">Thu Nov 20 2025 07:03:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sheffield" | relative_url }}">sheffield</a> # 75</li>
+            <li> <a href="{{ "/tags/sheffield" | relative_url }}">sheffield</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1347,7 +1347,7 @@ Last updated: <time datetime="2025-11-20T05:03:21.219Z">Thu Nov 20 2025 07:03:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 40</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1636,7 +1636,7 @@ Last updated: <time datetime="2025-11-20T05:03:21.219Z">Thu Nov 20 2025 07:03:21
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 82</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 17</li>
             <li> <a href="{{ "/tags/melodic-techno" | relative_url }}">melodic techno</a> # 89</li>
             <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 97</li>
         </ul>
@@ -1755,7 +1755,7 @@ Last updated: <time datetime="2025-11-20T05:03:21.219Z">Thu Nov 20 2025 07:03:21
     <tr>
       <td>2</td>
       <td>
-          <img src="https://i.discogs.com/3K_sSXPrsyf6CT92ZMkv4kgyTsYw-3r7zAkjhaMi8TY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDE3/Nzc3LTE2NzA2MjQz/MjMtNDUzNS5qcGVn.jpeg" alt="Cover for To Voltaire" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf4774aabce900b5a25c120dcd4cc777.png" alt="Cover for To Voltaire" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-03-12</td>
       <td>Christian Strobel</td>
@@ -1777,7 +1777,7 @@ Last updated: <time datetime="2025-11-20T05:03:21.219Z">Thu Nov 20 2025 07:03:21
     <tr>
       <td>3</td>
       <td>
-          <img src="https://i.discogs.com/3K_sSXPrsyf6CT92ZMkv4kgyTsYw-3r7zAkjhaMi8TY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDE3/Nzc3LTE2NzA2MjQz/MjMtNDUzNS5qcGVn.jpeg" alt="Cover for Bedouin Monk Bike - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5d1d6007b0829f25da0dbac973c9a4e.png" alt="Cover for Bedouin Monk Bike - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-03-12</td>
       <td>Christian Strobel</td>
@@ -1877,7 +1877,7 @@ Last updated: <time datetime="2025-11-20T05:03:21.219Z">Thu Nov 20 2025 07:03:21
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/fkJxleNJ4vhYdvZwWrTXyFqlOr-OSjRK2ebqg0NDnW0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjk1/ODAwLTE2NDU3NzY0/NTktNjQ2NS5qcGVn.jpeg" alt="Cover for Plonk" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb1f578eb421700754a193b1332fcbed.png" alt="Cover for Plonk" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-02-25</td>
       <td>Huerco S.</td>
@@ -1893,8 +1893,8 @@ Last updated: <time datetime="2025-11-20T05:03:21.219Z">Thu Nov 20 2025 07:03:21
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 3</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 94</li>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 97</li>
         </ul>
       </td>
     </tr>

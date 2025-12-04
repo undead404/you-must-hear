@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T00:57:23.198Z
+date: 2025-12-04T07:01:45.828Z
 permalink: tags/deutschpop
 title: deutschpop
 ---
 
 ## deutschpop
 
-Last updated: <time datetime="2025-10-22T00:57:23.198Z">Wed Oct 22 2025 03:57:23 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T07:01:45.828Z">Thu Dec 04 2025 09:01:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -82,15 +82,16 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 16</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 17</li>
-            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 38</li>
+            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 63</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7490597648f45d89085f21993847bbe.png" alt="Cover for LOHRO Local Heroes" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Various Artists</td>
@@ -146,7 +147,7 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
     <tr>
       <td>1</td>
       <td>
-          <img src="https://i.discogs.com/gric0H8_iCmEKMu5cGLLSd8DRxn_BpduHQRViBO3ui0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDI3/ODgtMTQ4MDgwNTEx/OS02NjM3LmpwZWc.jpeg" alt="Cover for Liebelieder" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb706b653f336517f86d95d829742a67.png" alt="Cover for Liebelieder" style="max-width:120px; height:auto;" />
       </td>
       <td>1982</td>
       <td>Gretchen</td>
@@ -191,8 +192,8 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 21</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 41</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -226,7 +227,7 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
       <td>
         <ul>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 33</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 55</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -275,7 +276,6 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
     <tr>
       <td>15</td>
       <td>
-          <img src="https://i.discogs.com/2P-JVdK3pdSO5iEeoQ6M-xw9g41xKKkz0rqSig-0DVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjA5/MTYtMTI3MDY1MTY1/NC5qcGVn.jpeg" alt="Cover for Ostertour Unplugged" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Die kranken Schwestern</td>
@@ -300,7 +300,6 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/2P-JVdK3pdSO5iEeoQ6M-xw9g41xKKkz0rqSig-0DVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjA5/MTYtMTI3MDY1MTY1/NC5qcGVn.jpeg" alt="Cover for Die Schwestern covern .. ." style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Die kranken Schwestern</td>
@@ -395,8 +394,9 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 22</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 74</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 79</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -460,11 +460,11 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 4</li>
-            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 32</li>
-            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 68</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 19</li>
+            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 33</li>
+            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 68</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 75</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 82</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -508,11 +508,11 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 5</li>
-            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 35</li>
-            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 69</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 18</li>
+            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 32</li>
+            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 65</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 77</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 83</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -577,7 +577,7 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 62</li>
+            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -622,6 +622,7 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
     <tr>
       <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf1aa1db1df54dfe850ef2656857e941.png" alt="Cover for die art sich zu täuschen" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-07-27</td>
       <td>Mitsnakker</td>
@@ -637,8 +638,8 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 28</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 43</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -685,6 +686,7 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
     <tr>
       <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe5490354ac6ffb5c9b99b1a7d424ce6.png" alt="Cover for Das grosse Leben" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-03-03</td>
       <td>Rosenstolz</td>
@@ -695,13 +697,14 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 55</li>
+            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6af03bd2d3674536a37a83eff330b837.png" alt="Cover for Crowd Rock" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-04-29</td>
       <td>Mitsnakker</td>
@@ -722,8 +725,8 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 38</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 59</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -747,6 +750,7 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
     <tr>
       <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da4a422b2d954717a50e89a503a79368.png" alt="Cover for B.A.R.T." style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-30</td>
       <td>Mitsnakker</td>
@@ -771,8 +775,8 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 38</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 60</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -857,7 +861,6 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/dHRA_QUD_nBvfp0ZWMjHB27RrW1EaTrf1iapsvZ9jtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Mzk3/MjktMTQwNjg2NDYy/MC0zOTg4LmpwZWc.jpeg" alt="Cover for G8-Sampler" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>JetPilot</td>
@@ -916,15 +919,15 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 9</li>
-            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 30</li>
+            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 8</li>
+            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/4ZFmZcWcAPfZ_SoXHNVUoHGW_QhpqdR76WEfQ2_WqrM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTQ1/ODEtMTI5Njg5MDE2/My5qcGVn.jpeg" alt="Cover for 7&#39;&#39;" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11a8842aabca49b4bcda6d7fe2821bde.png" alt="Cover for 7&#39;&#39;" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Chuck Ragan &amp; Nagel</td>
@@ -961,6 +964,7 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8a3dac95f28ff7d40e13640fe55b72b.png" alt="Cover for Tränen auf dem Dancefloor" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-04-21</td>
       <td>Juli Holz</td>
@@ -1009,18 +1013,18 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 40</li>
-            <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 61</li>
-            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 64</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 5</li>
+            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 37</li>
+            <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 40</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 60</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 85</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/lsGHhgzupoZiI0EH6cgH0WZBsCH327kyK_mku4tTxGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MjY2/NC0xMTgyNzAyMjAw/LmpwZWc.jpeg" alt="Cover for Boheme" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/807905e9b8414432fadd899f16e9a467.png" alt="Cover for Boheme" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Annett Louisan</td>
@@ -1033,7 +1037,7 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 6</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1060,16 +1064,16 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 58</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 13</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 41</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 80</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/JUoaI--XZWRsdNL6p0tFy3dAWVq3VM1BYI83XcoWvg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODE1/MjEtMTQ0ODkxMTU1/Ni04MTcwLmpwZWc.jpeg" alt="Cover for Aggroschlager" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc31b47af54d480e857fd86375726652.png" alt="Cover for Aggroschlager" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-28</td>
       <td>NIHAO?</td>
@@ -1097,15 +1101,14 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 45</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 51</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/jaRXDRHaST2vjU4-HYl-Pdym9djnJLsnSp_FH6qPEG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTk3/NjktMTI4OTU2NTE4/My5qcGVn.jpeg" alt="Cover for Auf der Suche" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-28</td>
       <td>Germaid</td>
@@ -1126,6 +1129,7 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
     <tr>
       <td>22</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4376cfe55688438f9bc2643ddc714cc7.png" alt="Cover for Muggebedürfnis" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-06-01</td>
       <td>Les Bummms Boys</td>
@@ -1177,7 +1181,7 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 4</li>
+            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1212,8 +1216,8 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 40</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 58</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1255,17 +1259,18 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 1</li>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 19</li>
-            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 25</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 16</li>
+            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 73</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 80</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 81</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 85</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b34b69698829424ab49c8a864fca7da5.png" alt="Cover for Die new balance" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-14</td>
       <td>MILZ</td>
@@ -1324,14 +1329,15 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 34</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 37</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1be6514606a4b1a965575db430b6145.png" alt="Cover for Wie Indianer leben" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>SchmmOOs</td>
@@ -1391,9 +1397,9 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 51</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 43</li>
+            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 50</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 53</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1436,18 +1442,20 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 16</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 22</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 3</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 9</li>
             <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 37</li>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 57</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 42</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 79</li>
+            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 82</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 87</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fcd928f732bb4e80b3bc438bc2ccfc44.png" alt="Cover for Pläne Für Gestern" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-22</td>
       <td>Minitimer Katzenposter</td>
@@ -1472,10 +1480,10 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 15</li>
-            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 27</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 20</li>
+            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 73</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 79</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 81</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1610,16 +1618,16 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 14</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 25</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 67</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 76</li>
+            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/V0M_34Gmqnxm39c6H01XhBrhBRmIjavqaMH1um1hYIY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNDY5/MTctMTQxNzAxNjQ2/NC00MzAzLmpwZWc.jpeg" alt="Cover for Neongrün" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9811403c5937490badb0a90df4f33b84.png" alt="Cover for Neongrün" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-11</td>
       <td>Tristan</td>
@@ -1647,15 +1655,15 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 36</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 62</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/uKrAQlziZQUexLqnJpe159s2-1MAgfE6hM6oJPaxsw8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTk1/NTAtMTMzNzg3NTQ2/MC0zMjgzLmpwZWc.jpeg" alt="Cover for werbistich" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea09923971fb4882baf019fe064b63f3.png" alt="Cover for werbistich" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Shaban &amp; Käptn Peng</td>
@@ -1675,8 +1683,8 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 24</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 68</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1838,7 +1846,7 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/op4N67_c1LFPd6BqQpsE35MqGzwgRAOiIjO2XJo_dmk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzk1/Mzc4LTE1MDQ1MDcz/MTEtMTcwMy5qcGVn.jpeg" alt="Cover for Zeitmaschine" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ea0f60b54d64fc4ae9f251fdc03da7a.png" alt="Cover for Zeitmaschine" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Les Bummms Boys</td>
@@ -1894,9 +1902,9 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 10</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 16</li>
-            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 33</li>
+            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 68</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1966,6 +1974,7 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
     <tr>
       <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f004505a26042099d483ecb3f529af4.png" alt="Cover for Saftladen" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-22</td>
       <td>Les Bummms Boys</td>
@@ -2013,8 +2022,8 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 48</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 52</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 49</li>
+            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -2086,7 +2095,6 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/pSh5BJCWi0p1J9hgG3ylEMXhyt6yZ1nUfwJva1415Ig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzAz/NzQtMTQzOTA1Nzc5/Ny01Njc3LmpwZWc.jpeg" alt="Cover for JETZT" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-02-07</td>
       <td>Singvøgel</td>
@@ -2171,7 +2179,7 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/Zs4p362LVd9iGzDecTMme8Y-2_KpG_vbm1yJaZNNKxI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTQw/MzQwLTE2NDA4NzA1/NjQtNDgyNS5qcGVn.jpeg" alt="Cover for Sunfood" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f20621158bb04051a9f8f2593ade3a54.png" alt="Cover for Sunfood" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>Akord</td>
@@ -2217,14 +2225,14 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 5</li>
+            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/mDBf10BcsGClJzbFi8CK1OnxBeqxqfRZwil3A7gx-as/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjUy/NTAyLTE2Mzg4MTY1/MjUtMTE5Ni5qcGVn.jpeg" alt="Cover for Raumschiff" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae8c40e75d183ca96da1d50dc96737c4.png" alt="Cover for Raumschiff" style="max-width:120px; height:auto;" />
       </td>
       <td>2020</td>
       <td>White Maze</td>
@@ -2240,14 +2248,14 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 6</li>
+            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/6e6emYXLjEfUvTHQKnHHgif9Gt0tZainWJzVYNNfyVI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzA3/NTk4LTE1OTYzNTM0/ODMtMzMwOS5qcGVn.jpeg" alt="Cover for EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9fc8d76cfb2f4bf184cb3efa10d18583.png" alt="Cover for EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-08-24</td>
       <td>Les Bummms Boys</td>
@@ -2282,8 +2290,8 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 37</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 40</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -2320,9 +2328,8 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 5</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 15</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 69</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -2354,7 +2361,7 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/YGhtNl-02ZXQ85o1CN4oIfY-FkJfx5DxTce8qr_DYgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzA5/NDA1LTE2OTQ5NzA0/ODktODI5MS5qcGVn.jpeg" alt="Cover for Head Out" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4e8fce36c7745ed8a58d56b6fe510a8.png" alt="Cover for Head Out" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>NORA&amp;LEO</td>
@@ -2410,16 +2417,16 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 56</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 35</li>
+            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 45</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 63</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/1o-993RDCOD8_NhwKmtEGZHQ-xsu4n6mnPcP0rziGNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzc2/NjkxLTE2OTg5MzY3/NTgtNDc2NC5qcGVn.jpeg" alt="Cover for Haare eines Hundes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0bf9a01a76ffcb7b27aae7efcd5f639f.png" alt="Cover for Haare eines Hundes" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-11-03</td>
       <td>Tränen</td>
@@ -2440,8 +2447,8 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 56</li>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 80</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 21</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 43</li>
             <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 86</li>
         </ul>
       </td>
@@ -2497,7 +2504,7 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 9</li>
+            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -2529,7 +2536,7 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 22</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -2557,7 +2564,7 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
       <td>
         <ul>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 13</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 42</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -2586,8 +2593,8 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 34</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 35</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -2645,9 +2652,9 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 63</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 26</li>
+            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 38</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 66</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -2724,6 +2731,7 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
     <tr>
       <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/99f7a5ccc30648fda019c7f7156e7083.png" alt="Cover for 10 Lieter im Angebot" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Maler Im Hemd</td>
@@ -2764,6 +2772,7 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
     <tr>
       <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/970822ebff3a41f9b5a45bc8df9f6767.png" alt="Cover for Striptease der Seele" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Miriam Spranger</td>
@@ -2837,6 +2846,7 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
     <tr>
       <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d30c8204b17410cb20640039dc1d90c.png" alt="Cover for Ostertour Unplugged" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Mitsnakker</td>
@@ -2913,6 +2923,7 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
     <tr>
       <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/86e20b34afe4e5daeea3225378b957f3.png" alt="Cover for sehr gute schlechte Musik" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Dr Song</td>
@@ -2936,6 +2947,7 @@ Deutschpop refers to German-language pop music that emerged as a distinct moveme
     <tr>
       <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/77a70b56de19eb61d905527fd9f2314f.png" alt="Cover for Lautlos" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Volker Milch</td>

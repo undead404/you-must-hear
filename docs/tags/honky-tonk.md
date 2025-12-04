@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T12:48:37.988Z
+date: 2025-12-04T07:00:45.242Z
 permalink: tags/honky-tonk
 title: honky tonk
 ---
 
 ## honky tonk
 
-Last updated: <time datetime="2025-11-23T12:48:37.988Z">Sun Nov 23 2025 14:48:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:00:45.242Z">Thu Dec 04 2025 09:00:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -146,7 +146,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 47</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -168,7 +168,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 67</li>
+            <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -187,7 +187,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 58</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -207,7 +207,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 60</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -292,7 +292,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 51</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -329,6 +329,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -388,8 +389,8 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 23</li>
-            <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 81</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 22</li>
+            <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -428,7 +429,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 64</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -468,7 +469,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 53</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -523,8 +524,8 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 82</li>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 93</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 8</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -583,8 +584,8 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 17</li>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 96</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 5</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -603,7 +604,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-country" | relative_url }}">classic country</a> # 90</li>
+            <li> <a href="{{ "/tags/classic-country" | relative_url }}">classic country</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -714,7 +715,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 98</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -810,8 +811,8 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 52</li>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 97</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 49</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -830,7 +831,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-country" | relative_url }}">classic country</a> # 3</li>
+            <li> <a href="{{ "/tags/classic-country" | relative_url }}">classic country</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -852,7 +853,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 43</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -947,7 +948,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 64</li>
+            <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1115,7 +1116,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 66</li>
+            <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1153,7 +1154,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 4</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1421,7 +1422,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-country" | relative_url }}">classic country</a> # 48</li>
+            <li> <a href="{{ "/tags/classic-country" | relative_url }}">classic country</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1442,7 +1443,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 80</li>
+            <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1463,7 +1464,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 65</li>
+            <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1483,7 +1484,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 54</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1577,7 +1578,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 55</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1598,7 +1599,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 22</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1618,7 +1619,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 89</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1679,8 +1680,8 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 30</li>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 61</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 40</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1700,7 +1701,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 16</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1719,7 +1720,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 40</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1755,7 +1756,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 87</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1795,8 +1796,8 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 9</li>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 42</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 58</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1816,7 +1817,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 65</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1836,7 +1837,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 24</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1857,7 +1858,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 12</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1877,7 +1878,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 87</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1914,7 +1915,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 83</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1954,7 +1955,7 @@ Honky tonk is a raw, working-class country style that emerged in the bars and da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 15</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 16</li>
         </ul>
       </td>
     </tr>

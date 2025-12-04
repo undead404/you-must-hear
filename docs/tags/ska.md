@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T20:33:22.891Z
+date: 2025-12-04T06:57:17.491Z
 permalink: tags/ska
 title: ska
 ---
 
 ## ska
 
-Last updated: <time datetime="2025-11-15T20:33:22.891Z">Sat Nov 15 2025 22:33:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T06:57:17.491Z">Thu Dec 04 2025 08:57:17 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -46,8 +46,8 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dancehall-reggae" | relative_url }}">dancehall reggae</a> # 2</li>
             <li> <a href="{{ "/tags/roots-reggae" | relative_url }}">roots reggae</a> # 90</li>
-            <li> <a href="{{ "/tags/dancehall-reggae" | relative_url }}">dancehall reggae</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -68,7 +68,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rocksteady" | relative_url }}">rocksteady</a> # 100</li>
+            <li> <a href="{{ "/tags/rocksteady" | relative_url }}">rocksteady</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -87,8 +87,8 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 89</li>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 91</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 9</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -216,7 +216,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 86</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -287,8 +287,8 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 40</li>
-            <li> <a href="{{ "/tags/rocksteady" | relative_url }}">rocksteady</a> # 44</li>
+            <li> <a href="{{ "/tags/rocksteady" | relative_url }}">rocksteady</a> # 57</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -310,7 +310,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 82</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -333,7 +333,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 13</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -353,7 +353,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 100</li>
+            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -377,9 +377,9 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 17</li>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 52</li>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 88</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 12</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 18</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -398,7 +398,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 57</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -435,7 +435,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 40</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -455,7 +455,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 85</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -529,8 +529,8 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 68</li>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 69</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 32</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -550,7 +550,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 47</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -570,7 +570,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 70</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 71</li>
             <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 100</li>
         </ul>
       </td>
@@ -591,8 +591,8 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 69</li>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 76</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 27</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -611,7 +611,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 56</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -632,8 +632,8 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 85</li>
-            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 97</li>
+            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 3</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -652,7 +652,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 85</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -672,7 +672,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 91</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -690,7 +690,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 95</li>
+            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -710,8 +710,8 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 18</li>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 88</li>
+            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 82</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -749,8 +749,8 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 19</li>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 72</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 73</li>
+            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -843,7 +843,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 82</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -862,7 +862,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 49</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -880,7 +880,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 62</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -899,7 +899,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 40</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -917,7 +917,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rocksteady" | relative_url }}">rocksteady</a> # 26</li>
+            <li> <a href="{{ "/tags/rocksteady" | relative_url }}">rocksteady</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -959,9 +959,9 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 50</li>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 96</li>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 100</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 1</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 5</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1035,7 +1035,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 77</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1055,7 +1055,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 96</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1076,7 +1076,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 86</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1096,7 +1096,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 55</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1153,7 +1153,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 67</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1206,13 +1206,14 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 86</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c95e5beff44459aac865ec0ca5c8481.png" alt="Cover for Everything You Need" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-03-18</td>
       <td>Slightly Stoopid</td>
@@ -1225,8 +1226,8 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 51</li>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 79</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 21</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1268,6 +1269,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
     <tr>
       <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa9bb20c3a904dfdcd081d7f037cd464.png" alt="Cover for The Cat Empire" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-10-27</td>
       <td>The Cat Empire</td>
@@ -1285,6 +1287,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
     <tr>
       <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6eb815963bd648828c9f39ac19ae57a9.png" alt="Cover for The Singles 1992-2003" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-10-28</td>
       <td>No Doubt</td>
@@ -1296,7 +1299,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 7</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1451,7 +1454,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/Dusb3jLFkQePzJo6tVdsXXhOzIe2RQK7owsjO5MTXys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MzU5/Ny0xNjUyMTU3NjAz/LTQ1ODYuanBlZw.jpeg" alt="Cover for Two Shoes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d00aada9d3742c6befe9cb330f612c8.png" alt="Cover for Two Shoes" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-09</td>
       <td>The Cat Empire</td>
@@ -1465,7 +1468,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 61</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1486,8 +1489,8 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 65</li>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 98</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 3</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1506,8 +1509,8 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 61</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 96</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 4</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1547,9 +1550,9 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 70</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 17</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 31</li>
             <li> <a href="{{ "/tags/surf" | relative_url }}">surf</a> # 82</li>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1657,7 +1660,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 12</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1748,13 +1751,14 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 78</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7f00f99c2f14827b3630ccd3e6d0dda.png" alt="Cover for So Many Nights" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-12-08</td>
       <td>The Cat Empire</td>
@@ -1804,7 +1808,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 32</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1824,7 +1828,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 87</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1882,7 +1886,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 35</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1920,7 +1924,7 @@ Ska music is a genre of music that originated in Jamaica in the late 1950s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 14</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 15</li>
         </ul>
       </td>
     </tr>

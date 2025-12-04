@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T11:04:51.516Z
+date: 2025-12-04T05:58:28.801Z
 permalink: tags/detroit-techno
 title: detroit techno
 ---
 
 ## detroit techno
 
-Last updated: <time datetime="2025-11-03T11:04:51.516Z">Mon Nov 03 2025 13:04:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T05:58:28.801Z">Thu Dec 04 2025 07:58:28 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -49,6 +49,7 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/be2a999af3f1a9587ee0c36fbebd29ef.png" alt="Cover for Clear" style="max-width:120px; height:auto;" />
       </td>
       <td>1983</td>
       <td>Cybotron</td>
@@ -60,7 +61,7 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 67</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -105,7 +106,7 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/VJooPyNE_F-G82azAoYPt6HbSNG_Ub1dRDKrufmkPgE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzM3/NC0xNjY5Mzg0Mjcy/LTI1OTUuanBlZw.jpeg" alt="Cover for Big Fun" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/00b6bccd4e824975c9a2a4c060092488.png" alt="Cover for Big Fun" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Inner City</td>
@@ -125,15 +126,13 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f67321ce38a48ab95ad3d306fe33ce6.png" alt="Cover for Paradise" style="max-width:120px; height:auto;" />
       </td>
       <td>1989-05-08</td>
       <td>Inner City</td>
       <td>Paradise</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/detroit-techno" | relative_url }}">detroit techno</a></li>
         </ul>
       </td>
       <td>
@@ -144,6 +143,7 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
     <tr>
       <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fdec6f983def6ab1886b343d847e97c6.png" alt="Cover for Fire" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Inner City</td>
@@ -287,14 +287,13 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
     <tr>
       <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eec383f401a69765df363db4bcbe1426.png" alt="Cover for Praise" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-06-01</td>
       <td>Inner City</td>
       <td>Praise</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/detroit-techno" | relative_url }}">detroit techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
         </ul>
       </td>
       <td>
@@ -305,7 +304,7 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
     <tr>
       <td>17</td>
       <td>
-          <img src="https://i.discogs.com/x746vRU8mre5wXULaPEA_YzuzP3KS6i_bAPMS_QlwsE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDk0/LTEyNTA4MjYwODku/anBlZw.jpeg" alt="Cover for Revolution for Change CD" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1af3af409a94bdd99c5280788f00f51.png" alt="Cover for Revolution for Change CD" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-08-24</td>
       <td>Underground Resistance</td>
@@ -360,6 +359,7 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/167f835929cd4da0cd2f310543ce9605.png" alt="Cover for Azimuth" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-02-08</td>
       <td>Kenny Larkin</td>
@@ -377,6 +377,7 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aaedee509a8d1f00a1f58da5a6bfff99.png" alt="Cover for Shot In The Dark" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-10-24</td>
       <td>Laurent Garnier</td>
@@ -394,28 +395,26 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/5cNdMTlbWa8zrfQPv_6MgbosXGVwTCiCrjzaJSopKVA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Ni0x/MjgzMzM4Mjc0Lmpw/ZWc.jpeg" alt="Cover for Musik" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/43d2b05c36504d788580323e8105ba2a.png" alt="Cover for Musik" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-11-07</td>
       <td>Plastikman</td>
       <td>Musik</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a></li>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 53</li>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 55</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14b669fab13cfacbef8c024cedb020e7.png" alt="Cover for Landcruising" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Carl Craig</td>
@@ -428,7 +427,7 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 49</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -472,6 +471,7 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
     <tr>
       <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d600847df04345008fed6038793a47c1.png" alt="Cover for Tales Of The Unexpected" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-06-01</td>
       <td>Dave Angel</td>
@@ -541,7 +541,7 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 1</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -568,7 +568,7 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/SgvA3h98lQCQZ8pvgMpwkzGS6TgsV-zXmZPwWwT-Kak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTMt/MTUzMzkwMTQyNy05/NzUxLmpwZWc.jpeg" alt="Cover for The Return of Drexciya" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b537df4afda6be59235dfd427cb28b18.png" alt="Cover for The Return of Drexciya" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Drexciya</td>
@@ -588,6 +588,7 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c28119a7580940cde75db81c00ba790c.png" alt="Cover for Black Technosoul" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-04-01</td>
       <td>Eddie &#39;Flashin&#39; Fowlkes</td>
@@ -622,7 +623,7 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/H6qm0reHjUEGxyT6bqZlEPzlSzZ5jnlNfcqPwO9KlVE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTEw/LTExNDcwNTczMTYu/anBlZw.jpeg" alt="Cover for Classics" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8728124b008d69449112342f5242966.png" alt="Cover for Classics" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-05-28</td>
       <td>Dave Angel</td>
@@ -716,6 +717,7 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1edd5012dc5a4fdb9f521d879e73ab84.png" alt="Cover for More Songs About Food and Revolutionary Art" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-04-22</td>
       <td>Carl Craig</td>
@@ -745,13 +747,14 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 52</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da0727605d4545f1ae3a09b48d729a99.png" alt="Cover for Heavenly" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-10</td>
       <td>E-Dancer</td>
@@ -809,6 +812,7 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a12853e070054f29b5afea48f8960571.png" alt="Cover for Interstellar Fugitives" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-09</td>
       <td>Underground Resistance</td>
@@ -844,7 +848,7 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/RQQxNjkz-h4Cpwd8jebuWLb8h6YXmSsJgVVsrvo0Y5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MjIt/MTIyMDE4NjcwNi5q/cGVn.jpeg" alt="Cover for Programmed" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c991aaf5943f56993db775e1d5fc45ec.png" alt="Cover for Programmed" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Innerzone Orchestra</td>
@@ -939,6 +943,7 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
     <tr>
       <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc78702bbe24c2f252909ce51693b913.png" alt="Cover for Deeparture in Time - Revisited" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-08-10</td>
       <td>Aril Brikha</td>
@@ -958,6 +963,7 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6c0046021c9d8e14d3f0a81f9d72c31.png" alt="Cover for Neptune&#39;s Lair" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-09-01</td>
       <td>Drexciya</td>
@@ -1051,6 +1057,7 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a6ad97384664f2ebb095782a5280d37.png" alt="Cover for Black Buildings" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-04-28</td>
       <td>The Detroit Escalator Co.</td>
@@ -1066,14 +1073,14 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 27</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/OZgyLeASRjD5uhkhjF593d_nJ0sjF9qtIj64VJrE5_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTYz/NTgxLTE0OTk5NjY1/NDgtMjM4Ni5qcGVn.jpeg" alt="Cover for DE9 : Closer To The Edit" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a80b05691b1e4017b825e265f0a5a1a5.png" alt="Cover for DE9 : Closer To The Edit" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-09-17</td>
       <td>Richie Hawtin</td>
@@ -1132,7 +1139,7 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/_PtxSOqG_5agQluBwGo0QzRanqdwHG2TlaxbgwhIExk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTQ4/LTEyNzAyMDU4Nzgu/anBlZw.jpeg" alt="Cover for Inspiration &#x2F; Transition" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1a7d57f36894018bc6fe58d4147f31a.png" alt="Cover for Inspiration &#x2F; Transition" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Underground Resistance</td>
@@ -1254,7 +1261,7 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 36</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1351,7 +1358,7 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 66</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1395,8 +1402,8 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 86</li>
-            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 87</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 85</li>
+            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1421,6 +1428,7 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e64f2353ebbd4ae58544891306d9b211.png" alt="Cover for Why Bother?" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-20</td>
       <td>ADULT.</td>
@@ -1441,7 +1449,7 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/okQvONJ8nj2kSV5zXzB-vYhMBtB1aZUQx5PZhNko_a8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM0/MjUtMTE4Mzk3Nzcy/My5qcGVn.jpeg" alt="Cover for Electronic Warfare 2.0" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c079c23ec2ac46a095a6e84a8c4c781a.png" alt="Cover for Electronic Warfare 2.0" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-06</td>
       <td>Underground Resistance</td>
@@ -1488,13 +1496,14 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 19</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>27</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/38094c65e8a54d419f7d0dca2ceec84e.png" alt="Cover for Sleeper Wakes" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-12-09</td>
       <td>Jeff Mills</td>
@@ -1545,7 +1554,7 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 42</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1565,14 +1574,14 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 44</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/qRbdwCocpTboBAQjaQh9dpUHkOzBU7ykcBejONjWjQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTU3/MjEtMTQ0MTAzODkz/OC01NDIyLmpwZWc.jpeg" alt="Cover for Must See EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0172b98ea0ec4c97ccd7c30a69d0fea3.png" alt="Cover for Must See EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-14</td>
       <td>Kyle Hall</td>
@@ -1586,13 +1595,14 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/N3z8E-uYBduxQbdmiKElqja4WyJx0mni7UeuKr9A0sE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjQ4/MTgtMTQxNzIxOTQ2/OC04NTAxLmpwZWc.jpeg" alt="Cover for Neptunes Lair" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de9782344ad3dd954c23852fc3f493a6.png" alt="Cover for Neptunes Lair" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05</td>
       <td>Drexciya</td>
@@ -1608,14 +1618,14 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 82</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/dWs-BcdSw_D-PYOTZVTyd5badxlAcsJxSdoRyv4rrxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTA1/ODUtMTI3NTY5MTY3/MC5qcGVn.jpeg" alt="Cover for Omega" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4fe11d035e12fbcce08ebb78ef9fdd7.png" alt="Cover for Omega" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-06-14</td>
       <td>Robert Hood</td>
@@ -1635,6 +1645,7 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
     <tr>
       <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d772733618446268f4c2e2f1daaa3e5.png" alt="Cover for XXX" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-07-26</td>
       <td>Jimmy Edgar</td>
@@ -1656,7 +1667,7 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
     <tr>
       <td>7</td>
       <td>
-          <img src="https://i.discogs.com/yZSNPvo5e66KiUuQsVDRqLdX7nOiZrE0GPr8BiItKR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzI5/ODEtMTI5OTM5MjQ5/Ni5qcGVn.jpeg" alt="Cover for Analog Aquarium" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/890612d785ca4c18aacb03d20aa53557.png" alt="Cover for Analog Aquarium" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Rick Wilhite</td>
@@ -1690,7 +1701,7 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 62</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 64</li>
             <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 96</li>
         </ul>
       </td>
@@ -1718,6 +1729,7 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
     <tr>
       <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a04cc0a8d5d9a6dfd190234ff935b7b8.png" alt="Cover for Motor: Nighttime World 3" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08</td>
       <td>Robert Hood</td>
@@ -1823,7 +1835,7 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 66</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1863,7 +1875,7 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 27</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1887,7 +1899,7 @@ Detroit techno is a pioneering electronic dance music style that emerged from De
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 23</li>
+            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 24</li>
         </ul>
       </td>
     </tr>

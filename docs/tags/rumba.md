@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T20:47:21.950Z
+date: 2025-12-04T06:59:21.143Z
 permalink: tags/rumba
 title: rumba
 ---
 
 ## rumba
 
-Last updated: <time datetime="2025-11-15T20:47:21.950Z">Sat Nov 15 2025 22:47:21 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T06:59:21.143Z">Thu Dec 04 2025 08:59:21 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -93,8 +93,8 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 51</li>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 66</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 35</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -397,7 +397,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a> # 49</li>
+            <li> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -712,7 +712,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 76</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -738,7 +738,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/SvcC_iDEvF7JKIUlPaMbqMoVJIHY5Rz2eywXLNPi2Fs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzEz/MDMtMTYzMjY2NTI4/OS03ODQ0LmpwZWc.jpeg" alt="Cover for Le Roi du Ziglibithy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c61e7bd48894558b7fa2f3b492222e7.png" alt="Cover for Le Roi du Ziglibithy" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Ernesto Djédjé</td>
@@ -970,7 +970,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
       <td>
         <ul>
             <li> <a href="{{ "/tags/mambo" | relative_url }}">mambo</a> # 19</li>
-            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 79</li>
+            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1162,7 +1162,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 36</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1226,9 +1226,9 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 38</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 40</li>
             <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 50</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 61</li>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 63</li>
             <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 86</li>
             <li> <a href="{{ "/tags/mediterranean" | relative_url }}">mediterranean</a> # 88</li>
         </ul>
@@ -1385,7 +1385,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 26</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1509,7 +1509,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 79</li>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 22</li>
             <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 84</li>
         </ul>
       </td>
@@ -1557,7 +1557,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/EKke8omPtwqKRTrnhJ3fqAjEQlMzl2D-Cs3qyd-WnoI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTkx/NjgtMTQ0Mjc0NDQ4/OS03MTkxLmpwZWc.jpeg" alt="Cover for The burguers HITS" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a6d04e9151f4297ae4359f81a0ee7c2.png" alt="Cover for The burguers HITS" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-09-09</td>
       <td>Spice Burguer</td>
@@ -1690,7 +1690,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/puerto-rico" | relative_url }}">puerto rico</a> # 16</li>
+            <li> <a href="{{ "/tags/puerto-rico" | relative_url }}">puerto rico</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1833,12 +1833,12 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 21</li>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 27</li>
+            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 33</li>
             <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 36</li>
-            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 40</li>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 48</li>
-            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 68</li>
+            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 61</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 75</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1860,7 +1860,7 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 64</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 36</li>
             <li> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a> # 84</li>
         </ul>
       </td>
@@ -1878,8 +1878,8 @@ Rumba is a vibrant Afro-Cuban rhythm characterized by sensual, syncopated beats 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 12</li>
-            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 85</li>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 16</li>
+            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 88</li>
         </ul>
       </td>
     </tr>

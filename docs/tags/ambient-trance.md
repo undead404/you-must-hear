@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-20T03:28:35.930Z
+date: 2025-12-04T06:55:10.963Z
 permalink: tags/ambient-trance
 title: ambient trance
 ---
 
 ## ambient trance
 
-Last updated: <time datetime="2025-11-20T03:28:35.930Z">Thu Nov 20 2025 05:28:35 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T06:55:10.963Z">Thu Dec 04 2025 08:55:10 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -99,7 +99,7 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 53</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 47</li>
             <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 73</li>
             <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 88</li>
         </ul>
@@ -122,7 +122,7 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 48</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -150,7 +150,7 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 68</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -172,7 +172,7 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 63</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -197,7 +197,7 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 9</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -238,7 +238,7 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 71</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -321,7 +321,7 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 9</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -505,11 +505,11 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 14</li>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 30</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 49</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 45</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 52</li>
             <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 53</li>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 56</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 71</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -547,7 +547,7 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 44</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -565,10 +565,10 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 1</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 41</li>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 83</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 18</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 60</li>
             <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 84</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -608,7 +608,7 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 51</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -690,7 +690,7 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 84</li>
+            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -712,11 +712,11 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       <td>
         <ul>
             <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 4</li>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 8</li>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 31</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 49</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 71</li>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 81</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 10</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 19</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 30</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 52</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 70</li>
             <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 86</li>
         </ul>
       </td>
@@ -787,7 +787,7 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 80</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -854,9 +854,9 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 30</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 36</li>
             <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 64</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 65</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -885,7 +885,7 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 41</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -936,8 +936,8 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 30</li>
-            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 73</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 71</li>
+            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1020,7 +1020,7 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       <td>
         <ul>
             <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 38</li>
-            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 53</li>
+            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1053,7 +1053,7 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       <td>
         <ul>
             <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 23</li>
-            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 43</li>
+            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1085,7 +1085,7 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       <td>
         <ul>
             <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 30</li>
-            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 46</li>
+            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1107,7 +1107,7 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 42</li>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1186,7 +1186,7 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 64</li>
+            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1208,7 +1208,7 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 21</li>
+            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1275,7 +1275,7 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 58</li>
+            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1318,7 +1318,8 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 30</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 1</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1341,7 +1342,7 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 7</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1362,7 +1363,7 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 8</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1426,7 +1427,7 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 78</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 23</li>
             <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 99</li>
         </ul>
       </td>
@@ -1450,9 +1451,9 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 87</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 9</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 88</li>
             <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 91</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1476,9 +1477,9 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 8</li>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 7</li>
             <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 78</li>
-            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 94</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1524,8 +1525,8 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 33</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 93</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 8</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1693,7 +1694,7 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 6</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1761,7 +1762,7 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 83</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 16</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 87</li>
         </ul>
       </td>
@@ -1810,9 +1811,9 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 32</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 62</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 82</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 18</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 33</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1835,7 +1836,7 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 93</li>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1902,7 +1903,7 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 49</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 50</li>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 67</li>
         </ul>
       </td>
@@ -1923,7 +1924,7 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 92</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1983,7 +1984,7 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 75</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -2006,7 +2007,7 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 42</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -2093,9 +2094,9 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 20</li>
             <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 65</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 67</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 80</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -2158,7 +2159,7 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 29</li>
+            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -2200,8 +2201,8 @@ Ambient trance blends the atmospheric textures and spacious soundscapes of ambie
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 21</li>
-            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 61</li>
+            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 40</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 78</li>
         </ul>
       </td>
     </tr>

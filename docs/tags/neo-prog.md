@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-27T15:44:37.486Z
+date: 2025-12-04T06:58:31.390Z
 permalink: tags/neo-prog
 title: neo-prog
 ---
 
 ## neo-prog
 
-Last updated: <time datetime="2025-10-27T15:44:37.486Z">Mon Oct 27 2025 17:44:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T06:58:31.390Z">Thu Dec 04 2025 08:58:31 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/06Kjm34wKJT64S_EIh5RKbiXU0THUGtQ913Jco9owYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODE0/NjktMTMwNTQ3NTY1/Ny5qcGVn.jpeg" alt="Cover for Fire In The Sky" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed7e7806f15d4c929e6b872281fcdda8.png" alt="Cover for Fire In The Sky" style="max-width:120px; height:auto;" />
       </td>
       <td>1982</td>
       <td>Quasar</td>
@@ -50,6 +50,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9be3ff4716f4c2ca1415b513a7d6c2a.png" alt="Cover for Script For A Jester&#39;s Tear" style="max-width:120px; height:auto;" />
       </td>
       <td>1983-03-13</td>
       <td>Marillion</td>
@@ -67,6 +68,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe89b0ed5c75fbe567c9a9265936fee7.png" alt="Cover for Journey to the East" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>Castanarc</td>
@@ -84,7 +86,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 31</li>
+            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -103,13 +105,14 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>12</td>
       <td>
-          <img src="https://i.discogs.com/ov-8CKl1fm3ZdahWHkVXYS7BGtGTPC2gTxFiuMUB95A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjIw/NzEtMTQ5MDQyOTA2/OC05NjE3LmpwZWc.jpeg" alt="Cover for Adolescence of an Ancient Warrior" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4efda652ffb042a9a6442174174ffa48.png" alt="Cover for Adolescence of an Ancient Warrior" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Ataraxia</td>
@@ -128,20 +131,19 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/mLjvbtYAQYFv61Mww3s5iDpeFQC8v8CZYucH4uk9ibw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNTY4/MS0xMjg1NzUxNzk4/LmpwZWc.jpeg" alt="Cover for Dimension Hatröss" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ddf8a6b9c04bc4f526ce47e72d95f36.png" alt="Cover for Dimension Hatröss" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Voivod</td>
       <td>Dimension Hatröss</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 32</li>
-            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 92</li>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 23</li>
+            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -166,7 +168,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 2</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -341,7 +343,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/SP5vGXlNSVstgpaPTMVtqqNAS-6LUOl1-YCIR-CHJ_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTk0/MjgtMTI5MDQzMDY5/OS5qcGVn.jpeg" alt="Cover for Pablo El Enterrador" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ebfe57448a13f033aa982cd07cfce4a.png" alt="Cover for Pablo El Enterrador" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Pablo El Enterrador</td>
@@ -376,6 +378,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/47b6fbd1ce0deee1047e00b87ae36ce9.png" alt="Cover for Brave" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-02-07</td>
       <td>Marillion</td>
@@ -598,7 +601,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/9J-uB0Dqv_HGRaLwBXFolqr2DYeNMmAd1rApKZuDpqs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDk5/OTAtMTMwMjAzMDYz/MC5qcGVn.jpeg" alt="Cover for Alba Y Ocaso" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb08db222caa0f4595a288a9bfee851a.png" alt="Cover for Alba Y Ocaso" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Códice</td>
@@ -617,7 +620,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/KFpCg6TF0dlCw0458tQaUC5WqJraecAvzMj_NbmeL0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTg5/MDMtMTQxMTA0MDE0/OC04NjMwLmpwZWc.jpeg" alt="Cover for Journey Through An Open Mind" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/531cdb3176eb42d289bc27bd62d7c3df.png" alt="Cover for Journey Through An Open Mind" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Fifth Season</td>
@@ -693,7 +696,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/yoilWnTC-AmnMjUmkSgC25wkznHI8KnuGDUV65NlOdk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mzc2/LTExOTQ0MzIzNDUu/anBlZw.jpeg" alt="Cover for The Isness" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0397a0aeb8414393c39272d80170f927.png" alt="Cover for The Isness" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-08-05</td>
       <td>Amorphous Androgynous</td>
@@ -711,7 +714,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/oAKVH9kXUQ0FRS9UkoTIzD2F6s7KzPPHc8VSLDtOvJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTE0/OTUtMTIzODUxNzA0/My5qcGVn.jpeg" alt="Cover for 無題5" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b82932744b32175d250cf78370c918c2.png" alt="Cover for 無題5" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-05-08</td>
       <td>downy</td>
@@ -732,7 +735,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/oAKVH9kXUQ0FRS9UkoTIzD2F6s7KzPPHc8VSLDtOvJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTE0/OTUtMTIzODUxNzA0/My5qcGVn.jpeg" alt="Cover for 無題2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3030aa6bf0796506e4478635ff6a1cff.png" alt="Cover for 無題2" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-05-08</td>
       <td>downy</td>
@@ -753,7 +756,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/oAKVH9kXUQ0FRS9UkoTIzD2F6s7KzPPHc8VSLDtOvJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTE0/OTUtMTIzODUxNzA0/My5qcGVn.jpeg" alt="Cover for 無題4" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ce95232fce014bef39b6462979c8c6b.png" alt="Cover for 無題4" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-05-08</td>
       <td>downy</td>
@@ -777,7 +780,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/oAKVH9kXUQ0FRS9UkoTIzD2F6s7KzPPHc8VSLDtOvJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTE0/OTUtMTIzODUxNzA0/My5qcGVn.jpeg" alt="Cover for 無題3" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f6d4ae8b303dc8398be2d02501684d3.png" alt="Cover for 無題3" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-05-08</td>
       <td>downy</td>
@@ -797,6 +800,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>39</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf6d1ee0490e400aa764d83200871163.png" alt="Cover for Retreat" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Triangle</td>
@@ -897,6 +901,25 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
       </td>
     </tr>
     <tr>
+      <td>62</td>
+      <td>
+          <img src="https://i.discogs.com/L0QcCfQThhhkaBc5h5OBhuZVNyF3f-iSf9o7iYilij4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTAz/OTYtMTYxNzY1MTkw/MS03ODM4LmpwZWc.jpeg" alt="Cover for Peppers Ghost" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Arena</td>
+      <td>Peppers Ghost</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>53</td>
       <td>
       </td>
@@ -919,26 +942,9 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
       </td>
     </tr>
     <tr>
-      <td>62</td>
-      <td>
-          <img src="https://i.discogs.com/L0QcCfQThhhkaBc5h5OBhuZVNyF3f-iSf9o7iYilij4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTAz/OTYtMTYxNzY1MTkw/MS03ODM4LmpwZWc.jpeg" alt="Cover for Peppers Ghost" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>Arena</td>
-      <td>Peppers Ghost</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76e3b353e97f4af6ca84f94fd806111e.png" alt="Cover for A Perfect Life With a View of the Swamp" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-05-30</td>
       <td>Miocene</td>
@@ -983,7 +989,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/KEw51Yw4P-OboFzH8_dfxLecQwhu7GCAvN8q2DZIl-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTAz/ODktMTU3ODk0MjYy/OC03Nzg3LmpwZWc.jpeg" alt="Cover for The Dreams Of Men" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8bc158c9b49641dfa3ef7ad3c599b1c7.png" alt="Cover for The Dreams Of Men" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-10-27</td>
       <td>Pallas</td>
@@ -1001,7 +1007,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/0G3UIZI_lt7eUExy0Cxao2y_ZVyeIx5C1olzVwpZn6s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTYz/OTEtMTM1MTc4MTQ4/MC0zNTQ2LmpwZWc.jpeg" alt="Cover for Nostimon Hemar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/97952c959b5482dbc6a919757fc6b8a5.png" alt="Cover for Nostimon Hemar" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>La tulipe noire</td>
@@ -1094,14 +1100,14 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 97</li>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/p0io2fAqocPrZcdKeViyBSfQEa_d0luLUyW_9ALHHZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTQy/ODktMTI0ODA3Nzcw/MS5qcGVn.jpeg" alt="Cover for Happiness is the Road, Volume 1: Essence" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14803be92b704c07bbccdd267d0fea71.png" alt="Cover for Happiness is the Road, Volume 1: Essence" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-10</td>
       <td>Marillion</td>
@@ -1118,7 +1124,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/f_I75vAHHMLL6ufclK45p-iMMhAoGIDvAohHUbU70C0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTQ1/MzAtMTM0NDAxNjUy/Ni00OTg0LnBuZw.jpeg" alt="Cover for Love ZZZV" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf9d070a531a4299bf8a50ecf720fc31.png" alt="Cover for Love ZZZV" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-12-05</td>
       <td>Zan-zan-zawa-veia</td>
@@ -1142,7 +1148,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/pKkrk4_vCtl19GiQCuypAcf-rDnKjc9OMfvLrEaXx3M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDcw/OTgtMTIzNDM2MjIy/OS5qcGVn.jpeg" alt="Cover for Mysa Fyce" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0ebf2cb8df24cf8827ae066008c52fa.png" alt="Cover for Mysa Fyce" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-12-30</td>
       <td>Zan-zan-zawa-veia</td>
@@ -1165,6 +1171,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76463735b30741a0a042923e8252d2c0.png" alt="Cover for Waken The Nightmare" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Morphelia</td>
@@ -1183,7 +1190,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/JtfqKP5YFDbWe0CFM0zFrVd7Xc_NT_UQ_a5BD1VpGrM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTQ1/ODktMTMwNjA4Njk1/NC5qcGVn.jpeg" alt="Cover for Mole Soul EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/311deae9e90b47abbcdd25fa49504689.png" alt="Cover for Mole Soul EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-12</td>
       <td>Zan-zan-zawa-veia</td>
@@ -1207,7 +1214,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/JtfqKP5YFDbWe0CFM0zFrVd7Xc_NT_UQ_a5BD1VpGrM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTQ1/ODktMTMwNjA4Njk1/NC5qcGVn.jpeg" alt="Cover for Mole Soul" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb05ba50703135caebb8efb19307b641.png" alt="Cover for Mole Soul" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-12</td>
       <td>Zan-zan-zawa-veia</td>
@@ -1231,7 +1238,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/utQrJX6FeKbtfPfIZBab8wDjTro29eao5KxR5-VyB-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTQ3/ODMtMTMwNjA5MTUy/NS5naWY.jpeg" alt="Cover for Fell Plot" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8a2b51d8da945fe95b1974a39a70f92.png" alt="Cover for Fell Plot" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-11-09</td>
       <td>Zan-zan-zawa-veia</td>
@@ -1282,7 +1289,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/sDj1RNod520NQD-6YIy18Eb8jMmgxWo3liEFk3m5jUs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjUz/NDgyLTE1MDE3NTIw/MjQtMTMzMS5qcGVn.jpeg" alt="Cover for Le Royaume d&#39;Océanéa" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/45e1bed9b0d54bb8a1ae9e5fe530a4f9.png" alt="Cover for Le Royaume d&#39;Océanéa" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Magnésis</td>
@@ -1320,7 +1327,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/q9B4yQKO91ByyjCuT4tyvXX8gIT8pjv8cDxn0-Yhrhs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzg5/NTA5LTE1NTMyODUy/MjEtMTE1Mi5qcGVn.jpeg" alt="Cover for The Gentle Art Of Music - Compilation" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a6868e9b591983c62f1f1107eb06617.png" alt="Cover for The Gentle Art Of Music - Compilation" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>RPWL</td>
@@ -1339,7 +1346,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/qAZGIIWZiBCnkyUrHsmMba69-2LMmqdYf5eq3v1Dalw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDk1/MjMtMTI3NTk4ODky/OS5qcGVn.jpeg" alt="Cover for Inside Embers Glow" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0526dddd6e9641218095f6c4dea74835.png" alt="Cover for Inside Embers Glow" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-06-01</td>
       <td>earthtone9</td>
@@ -1361,7 +1368,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/IGUGHaQ0mlOJJ5zasat4JXDtWJIBeoPXnm8_PqwotI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTUw/MTEtMTQ4ODc2MTY4/Ni0xMDI1LnBuZw.jpeg" alt="Cover for Lune Rose" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8dd6470eb900889b5df516a9da17d39.png" alt="Cover for Lune Rose" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-08-25</td>
       <td>Zan-zan-zawa-veia</td>
@@ -1388,7 +1395,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/lUUUpGw07hvWqkn7qZfUP5u-ccH4ltVXKk76TmsaF58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDQx/MDYtMTM0MjI2MDY3/NC02NzAxLmpwZWc.jpeg" alt="Cover for Inertiadrome" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae418961f7d96ccf50fab4fe303082c8.png" alt="Cover for Inertiadrome" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-18</td>
       <td>Ultralyd</td>
@@ -1408,6 +1415,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2332dbfe6788456cab1d5f296f35b3d6.png" alt="Cover for Blue Mammoth" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Blue Mammoth</td>
@@ -1428,7 +1436,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/869bbh5_o765dG6rclA-tnWgtpcqGeQ4gfaiCYv6jJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTY0/NDMtMTMwNjE3Nzg5/My5wbmc.jpeg" alt="Cover for Drop Outs, Vol. 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a22d89df924046a7b5a6d8e4468c4072.png" alt="Cover for Drop Outs, Vol. 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-02-25</td>
       <td>Zan-zan-zawa-veia</td>
@@ -1445,7 +1453,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>5</td>
       <td>
-          <img src="https://i.discogs.com/uv_ntGbH0mwPakhMQH2gjJMDsnxwioZgWoJTR1ovgC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTY4/MDQtMTMwNjE4NzMw/OS5wbmc.jpeg" alt="Cover for Drop Outs, Vol. 3" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b04871e7c861468b922cb93a4a3af36d.png" alt="Cover for Drop Outs, Vol. 3" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-04-17</td>
       <td>Zan-zan-zawa-veia</td>
@@ -1462,6 +1470,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04ec8ecefcf94593bd140eb4b7a3f60b.png" alt="Cover for The Last Sunrise" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-09-13</td>
       <td>Xanadu</td>
@@ -1498,7 +1507,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/HkkRp_AMMehusg9Z7DxZfUEFt8-xDtT-_lnL-x09ry4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDI0/MjQtMTY1NjI5MDk5/OS0xNzEyLnBuZw.jpeg" alt="Cover for Composed" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5417d5254fd1443bb01f407c5da591a7.png" alt="Cover for Composed" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Chris Fry</td>
@@ -1519,6 +1528,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bba0b3849dac0d8adf42897d07d1f27d.png" alt="Cover for Preschtale" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-01-01</td>
       <td>C-jeff</td>
@@ -1558,7 +1568,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>6</td>
       <td>
-          <img src="https://i.discogs.com/ztn4U_SxgM_o6cOdWDxwRwhkxiz8Fr5aiXT7KNJnLrg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mzc4/NDktMTMzMDQ2NTMx/MS5wbmc.jpeg" alt="Cover for Gone AWOL, Vol. 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbef3065583a47b0a4e0b0b9c0864110.png" alt="Cover for Gone AWOL, Vol. 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02-29</td>
       <td>Zan-zan-zawa-veia</td>
@@ -1575,7 +1585,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>7</td>
       <td>
-          <img src="https://i.discogs.com/PcfcODvOYN1jouToBnJq8arnV0wX3bjq_TIlQXfB0G4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mzc1/OTctMTMzMDQ2NTI4/NC5wbmc.jpeg" alt="Cover for Gone AWOL, Vol. 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4420cfdfa4a4db08a31d54814d560ff.png" alt="Cover for Gone AWOL, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02-29</td>
       <td>Zan-zan-zawa-veia</td>
@@ -1610,7 +1620,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/wmdi8Uubw135g65XmkQ2MuyokW5Xpl2KzwnLXYBi3MU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzY0/MjQtMTU2Mzc0NzE3/OC0yOTU0LmpwZWc.jpeg" alt="Cover for Truths, Lies &amp; Half Lies" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91ef438971f04aeb89c1d7279622e404.png" alt="Cover for Truths, Lies &amp; Half Lies" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-05-15</td>
       <td>Mr. So &amp; So</td>
@@ -1627,6 +1637,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/99e6655fb7404c2595188ff646148487.png" alt="Cover for Amethyst" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-08-01</td>
       <td>Phase</td>
@@ -1665,18 +1676,18 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 31</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 36</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 49</li>
-            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 58</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 9</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 11</li>
+            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 14</li>
+            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 43</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 50</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 50</li>
             <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 60</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 63</li>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 71</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 62</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 63</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 75</li>
             <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 84</li>
-            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 85</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 87</li>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 89</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1701,7 +1712,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/ArN93KNbwKE7WJI8G2mhk2DhYwVfloaVbNELf8iOrvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0Mjk5/MjQtMTQ2MTQ0MzIy/NC0yODE5LmpwZWc.jpeg" alt="Cover for The Gun Has Replaced The Handshake" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d39b1ee9a054d26f5802f060aef1b85.png" alt="Cover for The Gun Has Replaced The Handshake" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-10-04</td>
       <td>Encircled</td>
@@ -1721,7 +1732,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/HURblnaZvHScbSgkXclt0Mmvok9naFjyO5awU_KRJVU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MjI5/OTYtMTQyOTU4ODQy/My02MjE5LmpwZWc.jpeg" alt="Cover for Mist Slug" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a39a6a4c8d9844bdc4baad726eda2f28.png" alt="Cover for Mist Slug" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-10-24</td>
       <td>Zan-zan-zawa-veia</td>
@@ -1766,7 +1777,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/MmFE-QqPULWvz_CgJnF25otSoZQUhv4c7OBZar9Q0t0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Mjgw/NzItMTQyNzQ3ODgw/Ni03MjUxLmpwZWc.jpeg" alt="Cover for Now We Have a Light" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/05c8dc2e5aa54008c07eb467046048f3.png" alt="Cover for Now We Have a Light" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-02-23</td>
       <td>Sanguine Hum</td>
@@ -1799,7 +1810,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 45</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1864,7 +1875,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/taqK9M7KJ9BBXPLAVsDtDPD3lTQ-23d2aRAd9qccqQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjcy/Nzg3LTE2NDYzMTE1/MjYtODkzOC5qcGVn.jpeg" alt="Cover for Runaway Men" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fde4991a90167abaa152dda1d63ca9f.png" alt="Cover for Runaway Men" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-05-27</td>
       <td>Galaxy</td>
@@ -1884,7 +1895,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/9c-1JSomCi9dCDKWZXoUYUYIiAi3Xf4l0cg9VK64l8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njg5/ODQxLTE2ODA5NTQ4/NTktNDMxNC5qcGVn.jpeg" alt="Cover for Czekając..." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c86340e528b450ebae74da2fb7b1b1e9.png" alt="Cover for Czekając..." style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Scarless</td>
@@ -1904,6 +1915,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4dda185202667236ac4ae526e0c1d2d.png" alt="Cover for UK Chip Compilation" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Various Artists</td>
@@ -1979,6 +1991,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34eec990d961455cbc02c9727cf59d67.png" alt="Cover for The Singles" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Five Fuckin&#39; MushroOms</td>
@@ -2043,6 +2056,7 @@ Neo-prog revitalizes 1970s progressive rock&#39;s ambitious song structures and 
     <tr>
       <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/02aabc8e9c55444bb2cfd3fc17dfa4a5.png" alt="Cover for In The Darkness EP" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Thelandofsand</td>

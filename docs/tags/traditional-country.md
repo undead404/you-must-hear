@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T12:23:38.307Z
+date: 2025-12-04T06:56:33.278Z
 permalink: tags/traditional-country
 title: traditional country
 ---
 
 ## traditional country
 
-Last updated: <time datetime="2025-11-23T12:23:38.307Z">Sun Nov 23 2025 14:23:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T06:56:33.278Z">Thu Dec 04 2025 08:56:33 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -284,7 +284,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 60</li>
+            <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -305,7 +305,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 12</li>
+            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -345,7 +345,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 14</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -405,7 +405,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 45</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -496,9 +496,6 @@ Traditional country embodies the authentic sound of American rural music from th
       <td>Come Back To Me</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a></li>
         </ul>
       </td>
       <td>
@@ -541,7 +538,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 20</li>
+            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -560,8 +557,8 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 32</li>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 51</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 33</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -752,25 +749,6 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
     </tr>
     <tr>
-      <td>19</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7bdae394fc713c213312d08677149d8f.png" alt="Cover for The Grand Tour" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1974</td>
-      <td>George Jones</td>
-      <td>The Grand Tour</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 23</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8226628a093a65af5cb430b9debd86f.png" alt="Cover for Hank!" style="max-width:120px; height:auto;" />
@@ -788,7 +766,25 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 57</li>
+            <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 56</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7bdae394fc713c213312d08677149d8f.png" alt="Cover for The Grand Tour" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1974</td>
+      <td>George Jones</td>
+      <td>The Grand Tour</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/country" | relative_url }}">country</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -809,7 +805,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 91</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -830,7 +826,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 89</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -922,7 +918,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 59</li>
+            <li> <a href="{{ "/tags/western-swing" | relative_url }}">western swing</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -941,7 +937,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 13</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -962,7 +958,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 77</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1003,7 +999,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 62</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1086,7 +1082,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 36</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1126,7 +1122,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 94</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1147,7 +1143,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 77</li>
+            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1166,7 +1162,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 86</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1187,7 +1183,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 82</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 19</li>
             <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 93</li>
         </ul>
       </td>
@@ -1210,7 +1206,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 17</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 18</li>
             <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 95</li>
         </ul>
       </td>
@@ -1327,7 +1323,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 8</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1404,7 +1400,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/late-90s-country" | relative_url }}">late 90s country</a> # 55</li>
+            <li> <a href="{{ "/tags/late-90s-country" | relative_url }}">late 90s country</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1463,7 +1459,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 19</li>
+            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1606,11 +1602,11 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 18</li>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 75</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 1</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 5</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 20</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 26</li>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 94</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 96</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1648,7 +1644,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 60</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1712,13 +1708,13 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 11</li>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 24</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 39</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 52</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 57</li>
+            <li> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a> # 36</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 44</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 49</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 62</li>
             <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 64</li>
-            <li> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a> # 65</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 76</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1798,8 +1794,8 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 30</li>
             <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 44</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1840,7 +1836,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-country" | relative_url }}">classic country</a> # 23</li>
+            <li> <a href="{{ "/tags/classic-country" | relative_url }}">classic country</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1861,7 +1857,8 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 9</li>
+            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 1</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1978,7 +1975,7 @@ Traditional country embodies the authentic sound of American rural music from th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 4</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 81</li>
         </ul>
       </td>
     </tr>

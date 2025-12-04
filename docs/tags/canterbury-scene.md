@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T13:55:14.980Z
+date: 2025-12-04T05:22:49.400Z
 permalink: tags/canterbury-scene
 title: canterbury scene
 ---
 
 ## canterbury scene
 
-Last updated: <time datetime="2025-10-28T13:55:14.980Z">Tue Oct 28 2025 15:55:14 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T05:22:49.400Z">Thu Dec 04 2025 07:22:49 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -105,6 +105,7 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
     <tr>
       <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/32f0f92a188a4607af54ee8a3dd8b54a.png" alt="Cover for Volume Two" style="max-width:120px; height:auto;" />
       </td>
       <td>1969-04</td>
       <td>Soft Machine</td>
@@ -123,7 +124,7 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/wU3L7Tj_1dUn6QLpuZqjiynHjRCL1TtHjpV6VF-jZm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTYx/Ny0xMjk1MTkyOTM4/LmpwZWc.jpeg" alt="Cover for Joy Of A Toy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3511951aa449f0b9d44e767ecda07afc.png" alt="Cover for Joy Of A Toy" style="max-width:120px; height:auto;" />
       </td>
       <td>1969-11</td>
       <td>Kevin Ayers</td>
@@ -173,14 +174,14 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 39</li>
+            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/fLFw-LkrtwE2o4CaRfz5H1ELUvD6FuQtvk3hlDxpSy0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNzEz/Mi0xMjY1MTE1NDUy/LmpwZWc.jpeg" alt="Cover for Egg" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/46f99b7cfd84b178901dcec60f87d264.png" alt="Cover for Egg" style="max-width:120px; height:auto;" />
       </td>
       <td>1970</td>
       <td>Egg</td>
@@ -199,6 +200,7 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c41dbeedf6c244b8c40c5d21520d15b8.png" alt="Cover for Third" style="max-width:120px; height:auto;" />
       </td>
       <td>1970-06-06</td>
       <td>Soft Machine</td>
@@ -210,8 +212,8 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 32</li>
-            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 76</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 59</li>
+            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -356,7 +358,7 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 20</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 51</li>
             <li> <a href="{{ "/tags/canterbury" | relative_url }}">canterbury</a> # 76</li>
         </ul>
       </td>
@@ -364,7 +366,6 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/2pHC_UrrO_VfctG_UVzioDXJPef6v3GtRg9YD9Onn1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzU4/MjEtMTQxMjU0ODU4/OC02MTc5LmpwZWc.jpeg" alt="Cover for Camembert Electrique" style="max-width:120px; height:auto;" />
       </td>
       <td>1971-10</td>
       <td>Gong</td>
@@ -401,7 +402,7 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 54</li>
+            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 56</li>
             <li> <a href="{{ "/tags/canterbury" | relative_url }}">canterbury</a> # 81</li>
         </ul>
       </td>
@@ -479,6 +480,7 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/18501ff95d554cb38d2dc3d6c6287d14.png" alt="Cover for Whatevershebringswesing" style="max-width:120px; height:auto;" />
       </td>
       <td>1972-01</td>
       <td>Kevin Ayers</td>
@@ -486,8 +488,7 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/canterbury-scene" | relative_url }}">canterbury scene</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
+            <li style="font-size: calc(1rem * 98.24561403508771 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
         </ul>
       </td>
       <td>
@@ -498,7 +499,7 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/A9kDBdv4kaj1uHa3WOyQrVqHJAGdkxvUJGI9wiGppAo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjI0/ODYtMTQ4NDc2NDIw/OS00OTgwLmpwZWc.jpeg" alt="Cover for Matching Mole" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/66f66038b87096a7bf5cfea1f97e1e17.png" alt="Cover for Matching Mole" style="max-width:120px; height:auto;" />
       </td>
       <td>1972-04-08</td>
       <td>Matching Mole</td>
@@ -517,7 +518,7 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/lkQg_GmFdywSRPUR8ByNpl9JVSg69DxRd-rePD9r95U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTY5/MTEtMTY2NjM2Njcy/OC0yNzQ1LmpwZWc.jpeg" alt="Cover for Space Shanty" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1cfcd373e2a74c09ed913bcba3c42708.png" alt="Cover for Space Shanty" style="max-width:120px; height:auto;" />
       </td>
       <td>1972-05</td>
       <td>Khan</td>
@@ -536,7 +537,7 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/kqKn5MLpLoltP_ctWSXVBBDmW429NIp-RuGJA5NTA6s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDIw/NS0xMTU2MDAzNzAx/LmpwZWc.jpeg" alt="Cover for Waterloo Lily" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8898fde9045d4409a3c6b9771289169e.png" alt="Cover for Waterloo Lily" style="max-width:120px; height:auto;" />
       </td>
       <td>1972-05</td>
       <td>Caravan</td>
@@ -589,6 +590,7 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef7a55641a508fb24eb5dd75ebe6efff.png" alt="Cover for Hatfield and the North" style="max-width:120px; height:auto;" />
       </td>
       <td>1973</td>
       <td>Hatfield and the North</td>
@@ -626,6 +628,7 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e3c9fd54182476ec762fb8f566e8ea4.png" alt="Cover for Six" style="max-width:120px; height:auto;" />
       </td>
       <td>1973-02</td>
       <td>Soft Machine</td>
@@ -643,14 +646,13 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/27504e2a9be94d91cd6881aaa26a5cbc.png" alt="Cover for Bananamour" style="max-width:120px; height:auto;" />
       </td>
       <td>1973-05</td>
       <td>Kevin Ayers</td>
       <td>Bananamour</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/canterbury-scene" | relative_url }}">canterbury scene</a></li>
         </ul>
       </td>
       <td>
@@ -661,7 +663,7 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/RNMfgmTZ0u5CuEdo4lBOAjlMVENAsm0vorqzVPhyZ3M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNTg2/My0xNDE4MzE3NDYz/LTI1NjYuanBlZw.jpeg" alt="Cover for Unrest" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b5b77ecf6e84cffbe1ce3f8932627aa.png" alt="Cover for Unrest" style="max-width:120px; height:auto;" />
       </td>
       <td>1974</td>
       <td>Henry Cow</td>
@@ -674,14 +676,14 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 87</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/9uhUHq3U2ZK0TEdtYAfa9R4CpTxoLhkpBhD924UBeW8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjAz/MDgtMTMwNTg0MDMw/MS5qcGVn.jpeg" alt="Cover for The Civil Surface" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c95a26a4f6f61cf54f7cacfe976c806.png" alt="Cover for The Civil Surface" style="max-width:120px; height:auto;" />
       </td>
       <td>1974</td>
       <td>Egg</td>
@@ -720,7 +722,6 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/fQqhKNUD3hy6JA4hEG4-avDfmhIU_iWbQvMmNi3MNRM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTc4/NDgtMTY0NDA3OTYw/NC04MzY4LmpwZWc.jpeg" alt="Cover for Volumes Two" style="max-width:120px; height:auto;" />
       </td>
       <td>1974-10-01</td>
       <td>Soft Machine</td>
@@ -751,7 +752,7 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 76</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -770,13 +771,14 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 55</li>
+            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3e0f0136ae3b19d42df63f58f390600.png" alt="Cover for Gilgamesh" style="max-width:120px; height:auto;" />
       </td>
       <td>1975</td>
       <td>Gilgamesh</td>
@@ -795,6 +797,7 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
     <tr>
       <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fdfc433ed5c722be36f17fb122f9c1a6.png" alt="Cover for The Rotters&#39; Club" style="max-width:120px; height:auto;" />
       </td>
       <td>1975-03-07</td>
       <td>Hatfield and the North</td>
@@ -880,13 +883,14 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/BThmjGC9bPLa_d1YNTFswkEz-84UVrnHKvOrLBAMiAg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTgy/ODUtMTQ5NjQ0NTM1/OS03MDE0LmpwZWc.jpeg" alt="Cover for Western Culture" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c50853023e8b3319c7e92a77def3f4d.png" alt="Cover for Western Culture" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>Henry Cow</td>
@@ -898,14 +902,13 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 23</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/JA9gXxWIzwzy1-pEIKzJofngilpO83AGMIH6I1de90w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDUx/MDMtMTI4MjE2ODQz/Ni5qcGVn.jpeg" alt="Cover for Angel&#39;s Egg (2004 Expanded Remaster)" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>Gong</td>
@@ -945,7 +948,7 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/HbrtCdqVHbgLy9ZvDvx0Vhb14fWtRVbhC8-s6ZC-U_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMzQ3/Ni0xMjIxNzM4MzI3/LmpwZWc.jpeg" alt="Cover for National Health" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0777dda0999841cb5a897346366661e.png" alt="Cover for National Health" style="max-width:120px; height:auto;" />
       </td>
       <td>1978-02-14</td>
       <td>National Health</td>
@@ -963,6 +966,7 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a16d891552a74cd382b8ea5de4f8f8e6.png" alt="Cover for Expresso II" style="max-width:120px; height:auto;" />
       </td>
       <td>1978-03-03</td>
       <td>Gong</td>
@@ -1054,6 +1058,7 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
     <tr>
       <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9800599f98ad42a9b874ce2ed8024b79.png" alt="Cover for Wingful of Eyes: A Retrospective &#39;75-&#39;78" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Gong</td>
@@ -1071,6 +1076,7 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
     <tr>
       <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d76180f8724949cbc9334017a3f61704.png" alt="Cover for Volumes One &amp; Two" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Soft Machine</td>
@@ -1129,7 +1135,7 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/j2oBRTBS6mYK9W7bJHVUf_TvrBlyRUcPOHNoK6mjABw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTgy/MjAtMTE4NDY5MDkw/MC5qcGVn.jpeg" alt="Cover for Angel&#39;s Egg" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc4ec16d28214ff6cf12aa66b296aa7b.png" alt="Cover for Angel&#39;s Egg" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Gong</td>
@@ -1164,6 +1170,7 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
     <tr>
       <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/634c8f02e6a04885c8bc50b3598cf245.png" alt="Cover for Live 1990" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Hatfield and the North</td>
@@ -1216,7 +1223,7 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/R-SrmrFQ1W8hGqZnmyfrCOg-sz42x4C049xkXsRb1bk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MTgy/ODQtMTQ3OTY1NDM2/My03Njk0LmpwZWc.jpeg" alt="Cover for Gringo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6e76d0a068e478eaa1f8a8e37a5343d.png" alt="Cover for Gringo" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Gringo</td>
@@ -1253,7 +1260,6 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/khskeT7fx5K2i2MEexpBxnbch9qb_XBpqu3omXDZJJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjIx/MDItMTM0NTc2OTEx/NC00MDk3LmpwZWc.jpeg" alt="Cover for Flying Teapot" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Gong</td>
@@ -1272,7 +1278,6 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/Ho3XJbeWZTJsq4ppZcgAReuREhPqSjdALRJ-JVpVAmg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MTM4/OS0xMjE0Mzc0MTky/LmpwZWc.jpeg" alt="Cover for The History &amp; Mystery Of The Planet Gong" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Gong</td>
@@ -1309,7 +1314,7 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/Fv6yHZmVJ8qkxhwOn6odM5C9U7lr6aPeJlhbw0Lw2SQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjA1/Ni0xMjUwNDE2MTM2/LmpwZWc.jpeg" alt="Cover for Shleep" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ceca2096809e4da8cd1f48e337510683.png" alt="Cover for Shleep" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-09-29</td>
       <td>Robert Wyatt</td>
@@ -1368,6 +1373,7 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
     <tr>
       <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/80bbd45f7b974d3f82ee72fbc6990bde.png" alt="Cover for Noisette" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-01-25</td>
       <td>Soft Machine</td>
@@ -1375,13 +1381,10 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1499,6 +1502,7 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
     <tr>
       <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a08c80de287d0945c61e06b9fa249b21.png" alt="Cover for Cuckooland" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-09-29</td>
       <td>Robert Wyatt</td>
@@ -1506,7 +1510,6 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/canterbury-scene" | relative_url }}">canterbury scene</a></li>
         </ul>
       </td>
       <td>
@@ -1572,7 +1575,7 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/Tl4dsxI5DdTiVVJrf3HNmlUxipeUdDOUXEcT8b_rTaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNDU2/MTktMTQ1Nzk1MDkz/Mi0zMzk5LmpwZWc.jpeg" alt="Cover for Little Red Record" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2089de9343e00adaafa20023883c4171.png" alt="Cover for Little Red Record" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-01-30</td>
       <td>Matching Mole</td>
@@ -1613,7 +1616,7 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/LTvXOwWbOBz9jH0i3ET-9Har8Uj6EBLfvhQ7nyEjz2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTU5/MzQtMTY4MjI1NzEx/OC0zMjgyLmpwZWc.jpeg" alt="Cover for Kew. Rhone." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/69efa422978bf21dd8a38f6d88d9b687.png" alt="Cover for Kew. Rhone." style="max-width:120px; height:auto;" />
       </td>
       <td>2008-02</td>
       <td>John Greaves</td>
@@ -1629,7 +1632,7 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 37</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1687,14 +1690,14 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
       <td>
         <ul>
             <li> <a href="{{ "/tags/canterbury" | relative_url }}">canterbury</a> # 38</li>
-            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 40</li>
+            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/P-TdYy8OobF5C8iPdlsOI4IEsbz7Hw3Bh8MynvATYQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTA1/MzctMTQ1MTY0MzY0/MC03OTkyLmpwZWc.jpeg" alt="Cover for Radio Gnome Invisible 1 - Flying Teapot" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/013e04fd4ccf4a01972f85875a9fa5b7.png" alt="Cover for Radio Gnome Invisible 1 - Flying Teapot" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Gong</td>
@@ -1751,7 +1754,7 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/YBHR0Y7W38HMtQC8j9jewG5tdElyeKy5NxqRMxiysyY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzEy/MS0xMTMwMDgwNjg3/LmpwZWc.jpeg" alt="Cover for Peel Sessions (1969-1971)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f59fb62ed1cf5c8ccb63eacb973e2441.png" alt="Cover for Peel Sessions (1969-1971)" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-08-21</td>
       <td>Soft Machine</td>
@@ -1803,14 +1806,14 @@ The Canterbury Scene emerged in late 1960s England as a loose collective of prog
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 70</li>
+            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/ptXNiXXUJKY8j3JhHR9HPHj4NMFmHFazIojSb7lKF5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODcz/MDYtMTY2NjI3OTEy/Mi01NzU1LmpwZWc.jpeg" alt="Cover for Colours of the Day" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/debfde4496184d72b7a45e37bb0e00bb.png" alt="Cover for Colours of the Day" style="max-width:120px; height:auto;" />
       </td>
       <td>2024</td>
       <td>Kevin Ayers</td>

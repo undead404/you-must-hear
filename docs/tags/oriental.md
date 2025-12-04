@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T10:25:32.819Z
+date: 2025-12-04T06:58:24.668Z
 permalink: tags/oriental
 title: oriental
 ---
 
 ## oriental
 
-Last updated: <time datetime="2025-11-14T10:25:32.819Z">Fri Nov 14 2025 12:25:32 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T06:58:24.668Z">Thu Dec 04 2025 08:58:24 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -146,7 +146,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/HiBKHe8f3wg_f9YpMYjP2WDiEMDrqDXpRp3Kq9uTqMo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzMx/Ni0xNjQyMTczMjQ3/LTU3MTAuanBlZw.jpeg" alt="Cover for Zenhouse" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6712256b8d04479892b0c34afdac160.png" alt="Cover for Zenhouse" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Jonas Hellborg</td>
@@ -170,8 +170,8 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 20</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 55</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 45</li>
+            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -234,7 +234,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 32</li>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -277,7 +277,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 43</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 45</li>
             <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 76</li>
         </ul>
       </td>
@@ -391,8 +391,8 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 9</li>
             <li> <a href="{{ "/tags/mediterranean" | relative_url }}">mediterranean</a> # 87</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -430,8 +430,8 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 44</li>
             <li> <a href="{{ "/tags/rai" | relative_url }}">rai</a> # 51</li>
+            <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -485,7 +485,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 97</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 4</li>
             <li> <a href="{{ "/tags/ghazal" | relative_url }}">ghazal</a> # 99</li>
         </ul>
       </td>
@@ -506,7 +506,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 33</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -547,7 +547,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 3</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -568,7 +568,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 46</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 48</li>
             <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 78</li>
         </ul>
       </td>
@@ -652,13 +652,14 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 32</li>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cac25030d4fe46edc6cee9c1f919478b.png" alt="Cover for Prince of Persia: The Sands of Time" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Stuart Chatwood</td>
@@ -731,7 +732,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/cfak6lVOGn2q1loiWQmVhQPF5HHCHjwJ9l6Z6PNj9Ys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzkw/OS0xNDUzMjk2NjYy/LTc0NjQucG5n.jpeg" alt="Cover for Prince of Persia Sands of Time" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd7064e007724a9aa22861027b2de125.png" alt="Cover for Prince of Persia Sands of Time" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-10-20</td>
       <td>Stuart Chatwood</td>
@@ -778,7 +779,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mali" | relative_url }}">mali</a> # 12</li>
+            <li> <a href="{{ "/tags/mali" | relative_url }}">mali</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -799,7 +800,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 14</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -822,17 +823,17 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 3</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 38</li>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 41</li>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 47</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 63</li>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 66</li>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 73</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 76</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 89</li>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 94</li>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 97</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 6</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 12</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 24</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 29</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 35</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 38</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 39</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 53</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 55</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 95</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -909,15 +910,15 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 5</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 6</li>
             <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 19</li>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 34</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 37</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 38</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 40</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 40</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 50</li>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 50</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 52</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 55</li>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 63</li>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 64</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 66</li>
             <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 76</li>
             <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 79</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 90</li>
@@ -960,7 +961,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 3</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1000,7 +1001,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 58</li>
+            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1024,7 +1025,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 82</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1101,7 +1102,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 16</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1184,7 +1185,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/40I52lG0rtljvKeborBh6GObw-WhJX7jaQOH_AguRdw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDg2/NjgtMTQ2MDUzNTM2/My02NzM0LmpwZWc.jpeg" alt="Cover for Synthesizing: Ten Ragas to a Disco Beat" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34c9f24d0981489a9b2205092b421377.png" alt="Cover for Synthesizing: Ten Ragas to a Disco Beat" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03</td>
       <td>Charanjit Singh</td>
@@ -1200,6 +1201,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1245,7 +1247,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 27</li>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1314,7 +1316,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 49</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 50</li>
             <li> <a href="{{ "/tags/mediterranean" | relative_url }}">mediterranean</a> # 94</li>
         </ul>
       </td>
@@ -1347,9 +1349,9 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       <td>
         <ul>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 23</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 27</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 40</li>
             <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 50</li>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 60</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1413,7 +1415,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/JWwMKbu5sp6TGDNiStCHbXrqh0vfOmed7lMhZ9OuEos/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMDUw/MzctMTQ3MzExMjUx/MS0zODc3LnBuZw.jpeg" alt="Cover for Jade Empire Original Soundtrack" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0a5083efddb458588d16d744d261b8a.png" alt="Cover for Jade Empire Original Soundtrack" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-08</td>
       <td>Jack Wall</td>
@@ -1526,7 +1528,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 40</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 61</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 91</li>
         </ul>
       </td>
@@ -1615,8 +1617,8 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 28</li>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 59</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 42</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1639,7 +1641,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 38</li>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1753,8 +1755,8 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 43</li>
-            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 68</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 58</li>
+            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1855,7 +1857,7 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 48</li>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1907,9 +1909,9 @@ Oriental music encompasses traditional and contemporary sounds from Middle Easte
       <td>
         <ul>
             <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 8</li>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 18</li>
-            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 26</li>
             <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 39</li>
+            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 73</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 81</li>
         </ul>
       </td>
     </tr>

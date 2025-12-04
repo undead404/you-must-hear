@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-02T06:06:13.981Z
+date: 2025-12-04T06:59:54.716Z
 permalink: tags/old-school-heavy-metal
 title: old-school heavy metal
 ---
 
 ## old-school heavy metal
 
-Last updated: <time datetime="2025-11-02T06:06:13.981Z">Sun Nov 02 2025 08:06:13 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T06:59:54.716Z">Thu Dec 04 2025 08:59:54 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -240,6 +240,7 @@ Old-school heavy metal refers to the raw, energetic sound that defined the genre
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9160f6f04129bbde49614987e442564.png" alt="Cover for No Parole From Rock&#39;n&#39;Roll" style="max-width:120px; height:auto;" />
       </td>
       <td>1983</td>
       <td>Alcatrazz</td>
@@ -312,7 +313,7 @@ Old-school heavy metal refers to the raw, energetic sound that defined the genre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 1</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -675,7 +676,7 @@ Old-school heavy metal refers to the raw, energetic sound that defined the genre
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/-TSi4mhMIVbwdqBmyWqGXJcjafUGHYDqOgtDsuXhmlc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTMy/NDUtMTQyOTYzMjg1/OC0zNDgxLmpwZWc.jpeg" alt="Cover for Second Attack" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/51bb99d1ea835d1ba54cb817a08100c1.png" alt="Cover for Second Attack" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Crossfire</td>
@@ -803,7 +804,7 @@ Old-school heavy metal refers to the raw, energetic sound that defined the genre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 53</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -955,6 +956,7 @@ Old-school heavy metal refers to the raw, energetic sound that defined the genre
     <tr>
       <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d56cdf52c4e44a9482338d51e16622ed.png" alt="Cover for La Terreur" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>ADX</td>
@@ -1457,7 +1459,7 @@ Old-school heavy metal refers to the raw, energetic sound that defined the genre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 22</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1482,7 +1484,7 @@ Old-school heavy metal refers to the raw, energetic sound that defined the genre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 89</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 10</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 95</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 96</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 96</li>
@@ -1805,6 +1807,7 @@ Old-school heavy metal refers to the raw, energetic sound that defined the genre
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1d26f3807f923d63e160f7854c1bcb8.png" alt="Cover for The Dungeon Tapes" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Medieval Steel</td>

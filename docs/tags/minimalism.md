@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T08:33:59.577Z
+date: 2025-12-04T06:28:54.629Z
 permalink: tags/minimalism
 title: minimalism
 ---
 
 ## minimalism
 
-Last updated: <time datetime="2025-11-25T08:33:59.577Z">Tue Nov 25 2025 10:33:59 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T06:28:54.629Z">Thu Dec 04 2025 08:28:54 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -159,9 +159,10 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 7</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 36</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 64</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 65</li>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 94</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 97</li>
             <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 99</li>
         </ul>
       </td>
@@ -183,16 +184,16 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 12</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 10</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 18</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 19</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 23</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 27</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 31</li>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 35</li>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 48</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 52</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 66</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 70</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 73</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 85</li>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 90</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -228,7 +229,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 35</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -333,7 +334,7 @@ Minimalism is a style or technique of music characterized by a limited number of
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 13</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 14</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 15</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 83</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 18</li>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 84</li>
         </ul>
       </td>
@@ -444,7 +445,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 50</li>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -472,9 +473,9 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 12</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 21</li>
             <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 58</li>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 80</li>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -512,9 +513,9 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 41</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 38</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 51</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 63</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -534,9 +535,9 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 42</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 37</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 50</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 64</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -575,12 +576,12 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 2</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 25</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 32</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 40</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 47</li>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 62</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 76</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -691,7 +692,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 86</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -767,7 +768,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 46</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -806,7 +807,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 30</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -836,13 +837,13 @@ Minimalism is a style or technique of music characterized by a limited number of
       <td>
         <ul>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 3</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 3</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 3</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 3</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 43</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 45</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 70</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 79</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 98</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 22</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 31</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 55</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 55</li>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 99</li>
         </ul>
       </td>
@@ -857,7 +858,6 @@ Minimalism is a style or technique of music characterized by a limited number of
       <td>Invention</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
         </ul>
       </td>
@@ -888,7 +888,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 14</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 15</li>
             <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 60</li>
             <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 97</li>
         </ul>
@@ -908,7 +908,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 50</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -945,7 +945,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 24</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -966,15 +966,15 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 2</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 13</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 18</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 21</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 22</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 36</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 38</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 55</li>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 77</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 79</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 83</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 88</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -994,12 +994,12 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 2</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 3</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 22</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 3</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 78</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 94</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 98</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 99</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1020,11 +1020,11 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 23</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 35</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 44</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 51</li>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 59</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1045,11 +1045,11 @@ Minimalism is a style or technique of music characterized by a limited number of
       <td>
         <ul>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 4</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 8</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 34</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 62</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 66</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 67</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 77</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1071,8 +1071,8 @@ Minimalism is a style or technique of music characterized by a limited number of
       <td>
         <ul>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 22</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 37</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 60</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 41</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1093,14 +1093,14 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 28</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 29</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 29</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 32</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 41</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 41</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 55</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 60</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 46</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 63</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 69</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 73</li>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 78</li>
         </ul>
       </td>
@@ -1142,9 +1142,9 @@ Minimalism is a style or technique of music characterized by a limited number of
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 12</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 13</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 14</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 43</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 49</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 84</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 17</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 51</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 58</li>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 85</li>
         </ul>
       </td>
@@ -1166,14 +1166,14 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 27</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 28</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 28</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 29</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 37</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 38</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 61</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 40</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 62</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 64</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 72</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 74</li>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 79</li>
         </ul>
       </td>
@@ -1193,11 +1193,11 @@ Minimalism is a style or technique of music characterized by a limited number of
       <td>
         <ul>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 33</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 34</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 39</li>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 40</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 48</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 60</li>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 64</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1218,11 +1218,11 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 3</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 7</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 9</li>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 54</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 91</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 94</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 98</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 10</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1242,11 +1242,11 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 2</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 6</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 8</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 8</li>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 64</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 93</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 95</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 99</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1270,7 +1270,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 96</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1312,10 +1312,10 @@ Minimalism is a style or technique of music characterized by a limited number of
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 21</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 22</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 25</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 32</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 39</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 33</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 62</li>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 66</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 68</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 68</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 95</li>
         </ul>
       </td>
@@ -1336,7 +1336,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 23</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1381,6 +1381,7 @@ Minimalism is a style or technique of music characterized by a limited number of
     <tr>
       <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1268c86a0c32407b884340be30a51160.png" alt="Cover for Impressions" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-12-23</td>
       <td>Frozen Silence</td>
@@ -1402,8 +1403,8 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 90</li>
-            <li> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a> # 98</li>
+            <li> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a> # 3</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1433,12 +1434,12 @@ Minimalism is a style or technique of music characterized by a limited number of
       <td>
         <ul>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 5</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 5</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 5</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 5</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 23</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 49</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 52</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 77</li>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 95</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1459,12 +1460,12 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 32</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 33</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 38</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 49</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 46</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 52</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 52</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 55</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 68</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 69</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 71</li>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 86</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 88</li>
@@ -1487,8 +1488,8 @@ Minimalism is a style or technique of music characterized by a limited number of
       <td>
         <ul>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 24</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 63</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 73</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 28</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1509,15 +1510,15 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 1</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 1</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 4</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 4</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 7</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 11</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 12</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 27</li>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 97</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 97</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 97</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 100</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1567,7 +1568,7 @@ Minimalism is a style or technique of music characterized by a limited number of
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 14</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 15</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 16</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 82</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 19</li>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 83</li>
         </ul>
       </td>
@@ -1600,8 +1601,8 @@ Minimalism is a style or technique of music characterized by a limited number of
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 9</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 9</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 10</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 21</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 89</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 12</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 80</li>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 92</li>
         </ul>
       </td>
@@ -1627,13 +1628,13 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 13</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 20</li>
-            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 65</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 14</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 21</li>
+            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 36</li>
             <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 72</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 75</li>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 80</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 87</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 80</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 88</li>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 89</li>
         </ul>
       </td>
@@ -1666,8 +1667,8 @@ Minimalism is a style or technique of music characterized by a limited number of
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 7</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 7</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 8</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 23</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 90</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 11</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 78</li>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 93</li>
         </ul>
       </td>
@@ -1697,12 +1698,12 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 11</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 15</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 19</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 21</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 23</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 86</li>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 87</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1720,9 +1721,9 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 26</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 26</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 32</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 75</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 75</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 78</li>
         </ul>
       </td>
@@ -1748,9 +1749,9 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 30</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 34</li>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 69</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1768,13 +1769,13 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 6</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 23</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 24</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 30</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 31</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 37</li>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 47</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 70</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 53</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1805,12 +1806,12 @@ Minimalism is a style or technique of music characterized by a limited number of
         <ul>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 1</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 2</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 2</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 2</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 35</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 59</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 74</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 27</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 42</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 65</li>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 98</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1831,9 +1832,9 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 4</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 4</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 97</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 97</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1897,12 +1898,12 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 12</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 16</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 17</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 18</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 80</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 21</li>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 80</li>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1934,8 +1935,8 @@ Minimalism is a style or technique of music characterized by a limited number of
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 18</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 20</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 22</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 29</li>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 70</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1958,10 +1959,10 @@ Minimalism is a style or technique of music characterized by a limited number of
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 17</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 19</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 20</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 34</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 58</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 24</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 43</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 66</li>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 74</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 77</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 91</li>
         </ul>
       </td>
@@ -1994,7 +1995,7 @@ Minimalism is a style or technique of music characterized by a limited number of
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 15</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 16</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 17</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 81</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 20</li>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 82</li>
         </ul>
       </td>
@@ -2016,7 +2017,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 7</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -2037,13 +2038,13 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 10</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 10</li>
+            <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 10</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 11</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 55</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 67</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 81</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 88</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 13</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 20</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 34</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 46</li>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 91</li>
         </ul>
       </td>
@@ -2074,12 +2075,12 @@ Minimalism is a style or technique of music characterized by a limited number of
       <td>
         <ul>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 6</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 6</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 6</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 6</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 18</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 44</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 57</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 82</li>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 94</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -2108,14 +2109,14 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 1</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 1</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 1</li>
+            <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 1</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 2</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 13</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 46</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 64</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 37</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 54</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 87</li>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 100</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2134,9 +2135,9 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 19</li>
             <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 62</li>
             <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 81</li>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -2217,7 +2218,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 32</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -2239,7 +2240,7 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 77</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -2258,8 +2259,8 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 67</li>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 79</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 21</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -2283,17 +2284,17 @@ Minimalism is a style or technique of music characterized by a limited number of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 60</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 65</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 95</li>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 98</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 3</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 6</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 34</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/sN3JqQdv4saxf78JLLxH_1Ppt1oIWRC2K5r_YksKKS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzM0/ODk1LTE2NjE2MzI1/MzEtMzkwNC5qcGVn.jpeg" alt="Cover for A Thirst for Summer Rain" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c313853086f22f47cf7ed0635c2716f4.png" alt="Cover for A Thirst for Summer Rain" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-10-28</td>
       <td>Lustre</td>
