@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-16T08:13:00.413Z
+date: 2025-12-04T13:59:37.713Z
 permalink: tags/mashup
 title: mashup
 ---
 
 ## mashup
 
-Last updated: <time datetime="2025-11-16T08:13:00.413Z">Sun Nov 16 2025 10:13:00 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T13:59:37.713Z">Thu Dec 04 2025 15:59:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -155,10 +155,10 @@ A mashup blends two or more existing songs into a single track, typically combin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 1</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 16</li>
-            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 49</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 59</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 17</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 42</li>
+            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 50</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -234,17 +234,17 @@ A mashup blends two or more existing songs into a single track, typically combin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 13</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 21</li>
-            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 53</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 69</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 22</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 32</li>
+            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 47</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/uG2iqIO-nQIsH9X5jYYLmS8dovJOjsedn_uDJEKa434/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDM0/My0xNjQ2OTMwNzk5/LTIxNDEuanBlZw.jpeg" alt="Cover for The Dirtchamber Sessions Vol. 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f87877928a74e54be1b0e0346a01053.png" alt="Cover for The Dirtchamber Sessions Vol. 1" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>The Prodigy</td>
@@ -300,18 +300,18 @@ A mashup blends two or more existing songs into a single track, typically combin
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 6</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 17</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 19</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 22</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 24</li>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 27</li>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 31</li>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 50</li>
-            <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 57</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 57</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 58</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 73</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 78</li>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 79</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 82</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 83</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 93</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 28</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 38</li>
+            <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 42</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 43</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 51</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -329,15 +329,16 @@ A mashup blends two or more existing songs into a single track, typically combin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 6</li>
-            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 44</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 48</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 7</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 53</li>
+            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/feda5fc189044663aabc9d31882ea338.png" alt="Cover for The Great in the Small" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-02-26</td>
       <td>Current 93</td>
@@ -351,12 +352,14 @@ A mashup blends two or more existing songs into a single track, typically combin
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/32d9f729ca81abbd8baace7cc60fde02.png" alt="Cover for The Action Packed Mentallist Brings You the Fucking Jams" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Kid606</td>
@@ -370,7 +373,7 @@ A mashup blends two or more existing songs into a single track, typically combin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 71</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -432,7 +435,7 @@ A mashup blends two or more existing songs into a single track, typically combin
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/owhnAZvvR7DHiCMy9Cdbg_BZdlNy52FhZ3XaXDqmFiY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTgz/MTA2LTE2Njg2ODQ3/NDktMTI0Ny5qcGVn.jpeg" alt="Cover for Downtime" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/53adbd6280d562023062e999f6dc84ed.png" alt="Cover for Downtime" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>The Kleptones</td>
@@ -615,18 +618,18 @@ A mashup blends two or more existing songs into a single track, typically combin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 4</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 9</li>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 13</li>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 15</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 37</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 52</li>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 55</li>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 71</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 72</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 77</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 79</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 81</li>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 88</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 91</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 20</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 21</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 24</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 30</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 30</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 42</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 46</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 63</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -646,7 +649,7 @@ A mashup blends two or more existing songs into a single track, typically combin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 28</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -765,7 +768,7 @@ A mashup blends two or more existing songs into a single track, typically combin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 55</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -840,9 +843,10 @@ A mashup blends two or more existing songs into a single track, typically combin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 14</li>
-            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 48</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 56</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 15</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 45</li>
+            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 51</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -902,6 +906,7 @@ A mashup blends two or more existing songs into a single track, typically combin
     <tr>
       <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c393a306d934c4ca822555bf4df8855.png" alt="Cover for Mashopolos" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-04</td>
       <td>Wax Audio</td>
@@ -1052,9 +1057,9 @@ A mashup blends two or more existing songs into a single track, typically combin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 11</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 28</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 55</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 12</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 46</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1135,15 +1140,15 @@ A mashup blends two or more existing songs into a single track, typically combin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 5</li>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 10</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 29</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 30</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 53</li>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 55</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 61</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 66</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 87</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 14</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 34</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 40</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 45</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 49</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 64</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 72</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 91</li>
+            <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1202,8 +1207,8 @@ A mashup blends two or more existing songs into a single track, typically combin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 19</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 19</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 75</li>
+            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1262,6 +1267,7 @@ A mashup blends two or more existing songs into a single track, typically combin
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0f5da709c4f4400b77b5b51a153b30c.png" alt="Cover for All About The Scrilions" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Super Mash Bros.</td>
@@ -1311,7 +1317,7 @@ A mashup blends two or more existing songs into a single track, typically combin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 92</li>
+            <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1438,7 +1444,7 @@ A mashup blends two or more existing songs into a single track, typically combin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 4</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1552,7 +1558,7 @@ A mashup blends two or more existing songs into a single track, typically combin
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/YDbJVpMnCcFUYrFwPg6u8X05ZBzaGP7iiAAjyPBz2U4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTI0/NTEtMTM0Mjk1OTY1/OS01NDg0LmpwZWc.jpeg" alt="Cover for Higher Ground" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50adb01e09544db0aa048ebd8abd8a74.png" alt="Cover for Higher Ground" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-19</td>
       <td>Rimar</td>
@@ -1573,10 +1579,10 @@ A mashup blends two or more existing songs into a single track, typically combin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 18</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 28</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 72</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 78</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 24</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 28</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 67</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1706,12 +1712,12 @@ A mashup blends two or more existing songs into a single track, typically combin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 2</li>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 10</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 19</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 28</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 32</li>
-            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 56</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 73</li>
+            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 44</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 81</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 90</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1790,14 +1796,14 @@ A mashup blends two or more existing songs into a single track, typically combin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 5</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 16</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 16</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 36</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 41</li>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 49</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 34</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 52</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 52</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 67</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 85</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 60</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 64</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1894,26 +1900,27 @@ A mashup blends two or more existing songs into a single track, typically combin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 22</li>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 26</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 29</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 32</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 39</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 39</li>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 41</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 46</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 48</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 53</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 57</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 64</li>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 76</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 77</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 8</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 8</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 8</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 10</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 22</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 25</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 32</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 37</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 44</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 47</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 54</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 58</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 61</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 61</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 62</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 64</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 70</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 71</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 78</li>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 91</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 89</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 91</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 92</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 93</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1989,17 +1996,19 @@ A mashup blends two or more existing songs into a single track, typically combin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 10</li>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 24</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 2</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 23</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 39</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 53</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 78</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 48</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 76</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/44d63eeae0f14c09cc5f39e7020f89c2.png" alt="Cover for Mouth Sounds" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-04-28</td>
       <td>Neil Cicierega</td>
@@ -2011,6 +2020,7 @@ A mashup blends two or more existing songs into a single track, typically combin
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -2029,14 +2039,14 @@ A mashup blends two or more existing songs into a single track, typically combin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 26</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/vKPlQiyxnD6o-hO4vbXsgk4qH3drWdnZc2eLegOf0Oo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNDA0/OTMtMTY0MDExNDMy/Mi0xMjQ4LmpwZWc.jpeg" alt="Cover for Eminem - Having A Relapse (Housego&#39;s Cut)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2caff4ba1baad293b33f8234740cad71.png" alt="Cover for Eminem - Having A Relapse (Housego&#39;s Cut)" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Eminem</td>
@@ -2095,7 +2105,7 @@ A mashup blends two or more existing songs into a single track, typically combin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 59</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -2115,7 +2125,7 @@ A mashup blends two or more existing songs into a single track, typically combin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 47</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -2191,14 +2201,14 @@ A mashup blends two or more existing songs into a single track, typically combin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 59</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/DKq_qYsh67aeiWAdC_Fd4Biqg4Fm3ZK8-pBN4Ve2w_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzQ4/MDY4LTE1OTcwNjQ3/NzAtOTQyNS5qcGVn.jpeg" alt="Cover for Home &amp; You" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6afcb8434f88559483804870c2ca9fab.png" alt="Cover for Home &amp; You" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-08-10</td>
       <td>500</td>
@@ -2213,8 +2223,8 @@ A mashup blends two or more existing songs into a single track, typically combin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 83</li>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 95</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 5</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -2233,6 +2243,7 @@ A mashup blends two or more existing songs into a single track, typically combin
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -2271,7 +2282,7 @@ A mashup blends two or more existing songs into a single track, typically combin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 17</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -2313,9 +2324,9 @@ A mashup blends two or more existing songs into a single track, typically combin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 7</li>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 16</li>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 77</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 25</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 84</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -2338,7 +2349,8 @@ A mashup blends two or more existing songs into a single track, typically combin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 6</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 88</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -2363,12 +2375,12 @@ A mashup blends two or more existing songs into a single track, typically combin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 3</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 43</li>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 57</li>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 59</li>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 64</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 36</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 42</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 45</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 45</li>
             <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 88</li>
+            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -2390,7 +2402,7 @@ A mashup blends two or more existing songs into a single track, typically combin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 74</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 26</li>
         </ul>
       </td>
     </tr>

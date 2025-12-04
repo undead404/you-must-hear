@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T18:02:38.603Z
+date: 2025-12-04T14:00:03.759Z
 permalink: tags/avant-pop
 title: avant-pop
 ---
 
 ## avant-pop
 
-Last updated: <time datetime="2025-11-25T18:02:38.603Z">Tue Nov 25 2025 20:02:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T14:00:03.759Z">Thu Dec 04 2025 16:00:03 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -49,7 +49,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 82</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -93,8 +93,8 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 49</li>
-            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 84</li>
+            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 17</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -152,13 +152,13 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 23</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 77</li>
-            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 81</li>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 90</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 95</li>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 95</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 96</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 5</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 6</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 6</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 11</li>
+            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 20</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 24</li>
+            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 78</li>
             <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 99</li>
         </ul>
       </td>
@@ -185,7 +185,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       <td>
         <ul>
             <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 26</li>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 72</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 29</li>
             <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 99</li>
         </ul>
       </td>
@@ -207,7 +207,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       <td>
         <ul>
             <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 12</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 33</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -264,7 +264,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 26</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -307,7 +307,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       <td>
         <ul>
             <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 13</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 15</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -379,13 +379,13 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 49</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 85</li>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 93</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 94</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 97</li>
+            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 2</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 3</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 6</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 8</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 52</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 86</li>
             <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 99</li>
-            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -403,9 +403,9 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 20</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 51</li>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 88</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 13</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 50</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -426,14 +426,14 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 33</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 44</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 53</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 6</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 6</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 13</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 33</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 45</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 48</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 50</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 65</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 68</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 88</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 95</li>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -453,8 +453,8 @@ Avant-pop blends experimental and unconventional production techniques with acce
       <td>
         <ul>
             <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 9</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 56</li>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 76</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 25</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -472,7 +472,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 17</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -490,10 +490,10 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 4</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 25</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 25</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 71</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 76</li>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 76</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -533,7 +533,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 13</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -574,7 +574,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 52</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -612,16 +612,16 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 1</li>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 9</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 23</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 52</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 6</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 17</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 28</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 42</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 46</li>
             <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 56</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 58</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 71</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 71</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 82</li>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 95</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 78</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 92</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -660,8 +660,8 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 51</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 54</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 47</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -681,8 +681,8 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 11</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 16</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 85</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -708,8 +708,8 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avantgarde-pop" | relative_url }}">avantgarde pop</a> # 36</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 53</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 48</li>
+            <li> <a href="{{ "/tags/avantgarde-pop" | relative_url }}">avantgarde pop</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -729,7 +729,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 76</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -768,7 +768,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 39</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -790,13 +790,13 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 47</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 58</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 61</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 62</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 64</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 68</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 91</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 10</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 33</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 38</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 38</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 39</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 43</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 54</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 92</li>
         </ul>
       </td>
@@ -843,9 +843,9 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 18</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 46</li>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 67</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 34</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 51</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -868,14 +868,14 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 90</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/IEM2CcGxL3rX17258rho-_-d5O4DZT1RCEyAIe0CcNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjA3/OTYtMTM2NDUwMzM5/NC00NTI0LmpwZWc.jpeg" alt="Cover for The Moving Frontier" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6c328ab187a4b59aed99cabbf32eece.png" alt="Cover for The Moving Frontier" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10-01</td>
       <td>Pram</td>
@@ -889,7 +889,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 60</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -910,7 +910,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 64</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -935,7 +935,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 67</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -983,12 +983,12 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 35</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 55</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 65</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 72</li>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 83</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 92</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 9</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 18</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 29</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 36</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 46</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1008,7 +1008,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 93</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1048,8 +1048,8 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 33</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 34</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 63</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1069,9 +1069,9 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 83</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 89</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 98</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 3</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 13</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1121,9 +1121,9 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 63</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 69</li>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 88</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 13</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 32</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1218,11 +1218,11 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 18</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 20</li>
-            <li> <a href="{{ "/tags/eurobeat" | relative_url }}">eurobeat</a> # 56</li>
+            <li> <a href="{{ "/tags/eurobeat" | relative_url }}">eurobeat</a> # 45</li>
             <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 66</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 68</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 81</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1263,7 +1263,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 76</li>
+            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1283,7 +1283,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 45</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1313,11 +1313,11 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 60</li>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 6</li>
+            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 9</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 11</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 42</li>
             <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 79</li>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 90</li>
-            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 92</li>
-            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1338,8 +1338,8 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 18</li>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 62</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 38</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1397,7 +1397,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 77</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1446,7 +1446,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 56</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1465,8 +1465,8 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 7</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 76</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 25</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1488,11 +1488,11 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 16</li>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 22</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 9</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 58</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 78</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 91</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 79</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1520,14 +1520,14 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 7</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 7</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 68</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 69</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 1</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 3</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 31</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 70</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 93</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 93</li>
             <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 95</li>
             <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 97</li>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 98</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 100</li>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 100</li>
         </ul>
       </td>
@@ -1581,9 +1581,9 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 23</li>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 75</li>
-            <li> <a href="{{ "/tags/doomergaze" | relative_url }}">doomergaze</a> # 77</li>
+            <li> <a href="{{ "/tags/doomergaze" | relative_url }}">doomergaze</a> # 24</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 26</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 78</li>
             <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 87</li>
         </ul>
       </td>
@@ -1642,10 +1642,10 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 17</li>
             <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 29</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 31</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 65</li>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 84</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 33</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1711,8 +1711,8 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 63</li>
-            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 72</li>
+            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 29</li>
+            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1734,7 +1734,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 19</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1754,7 +1754,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 53</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1781,8 +1781,8 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 8</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 53</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 9</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1813,9 +1813,9 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 5</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 31</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 63</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 35</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 67</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1840,8 +1840,8 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 28</li>
             <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 50</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1859,11 +1859,11 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 11</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 50</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 22</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 23</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 51</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 62</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 76</li>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 78</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 79</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 96</li>
         </ul>
       </td>
@@ -1885,12 +1885,12 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 6</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 34</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 19</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 32</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 46</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 68</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 81</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 67</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 81</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1915,8 +1915,8 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 31</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 32</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 69</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1988,11 +1988,11 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 4</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 46</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 58</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 60</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 81</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 6</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 18</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 39</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 41</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -2103,10 +2103,10 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 22</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 30</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 31</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 44</li>
             <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 50</li>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 56</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -2133,8 +2133,8 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 47</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 77</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 24</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -2172,7 +2172,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 7</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -2211,7 +2211,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       <td>
         <ul>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 3</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 96</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -2240,11 +2240,11 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 11</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 27</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 51</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 74</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 92</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 9</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 27</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 50</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 74</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -2268,8 +2268,8 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 65</li>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 93</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 8</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -2306,8 +2306,8 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 20</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 70</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -2335,10 +2335,10 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 16</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 37</li>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 61</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 40</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 64</li>
             <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 83</li>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -2359,7 +2359,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 79</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -2399,7 +2399,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 45</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -2447,7 +2447,7 @@ Avant-pop blends experimental and unconventional production techniques with acce
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 61</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 37</li>
         </ul>
       </td>
     </tr>

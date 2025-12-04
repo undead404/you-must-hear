@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-29T18:47:11.059Z
+date: 2025-12-04T14:00:09.300Z
 permalink: tags/china
 title: china
 ---
 
 ## china
 
-Last updated: <time datetime="2025-10-29T18:47:11.059Z">Wed Oct 29 2025 20:47:11 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T14:00:09.300Z">Thu Dec 04 2025 16:00:09 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -86,7 +86,7 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for 電視劇《想見你》原聲帶" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f40c3bf93c13e7ceb38e6f9c0429a966.png" alt="Cover for 電視劇《想見你》原聲帶" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Various Artists</td>
@@ -102,14 +102,14 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 6</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/V2QL9mN9q0VOaNgGuRm6Ib6cAFfvLEuFJpBHmAdGSxY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTk5/MTYtMTQ0NDg2OTEx/MS04NzIwLmpwZWc.jpeg" alt="Cover for 支線任務" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b441be2f67eee9b45ba7b42fffa4bc3.png" alt="Cover for 支線任務" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Hush</td>
@@ -126,14 +126,14 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 28</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>2</td>
       <td>
-          <img src="https://i.discogs.com/1LxUEZ7qSG73T6h2RXl20iw3cz8IfvyoSWzCkdzBTSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU5/NjYtMTM1MjA2MjA2/Ni00MDIyLmpwZWc.jpeg" alt="Cover for China" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ca28c8449c1810b589865d497545c44.png" alt="Cover for China" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Various Artists</td>
@@ -156,7 +156,7 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for The Nines" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8e84c0539d8e4abf8a76a49fcdb4633.png" alt="Cover for The Nines" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Various Artists</td>
@@ -262,8 +262,8 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 6</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 9</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 92</li>
+            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -309,7 +309,7 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/Mu3fOZGWN0aJZFaY0M5r9ahsAVXPtfBAsWzF-G2cUww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzEw/OC0xNjU5NDY3MTc4/LTI0MzQuanBlZw.jpeg" alt="Cover for Dead City" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/639a1986d4bc438c8f2d90733a35e48a.png" alt="Cover for Dead City" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Tomahawk</td>
@@ -371,7 +371,7 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/BLbY-8CWwYEychm8oqYL3Lqdga4HtMuFeMn2cGrAm5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNTEw/MDUtMTQxMjM0ODM0/OC04NDg4LmpwZWc.jpeg" alt="Cover for Burning Up - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6002c60a3700328c25f40ca05eaee76.png" alt="Cover for Burning Up - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-11-16</td>
       <td>Britney Spears</td>
@@ -423,7 +423,7 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 18</li>
+            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -464,9 +464,9 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lute" | relative_url }}">lute</a> # 15</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 35</li>
-            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 35</li>
+            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 66</li>
+            <li> <a href="{{ "/tags/lute" | relative_url }}">lute</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -528,9 +528,9 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 2</li>
-            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 22</li>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 80</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 20</li>
+            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 79</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -602,15 +602,15 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 31</li>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 64</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 37</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/yJgRhMRiGRYfQnf6iMAXvRFe_9DZdxzTlbsjRae_37M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTA0/OTYtMTM2MTM5MTg4/Mi01MTY0LmpwZWc.jpeg" alt="Cover for Alive" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1212b664eb3e6cba11b5e792dcc27929.png" alt="Cover for Alive" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Sa Dingding</td>
@@ -623,7 +623,7 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 39</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -653,7 +653,7 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 42</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -678,6 +678,7 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
     <tr>
       <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b0992cb863142c48eadc83b0a9d0da5.png" alt="Cover for Synth Love" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-04-25</td>
       <td>IGO</td>
@@ -697,6 +698,7 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/886321d60ce16028c65924e5d1156c9b.png" alt="Cover for Journey To The West" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-08-18</td>
       <td>Monkey</td>
@@ -713,8 +715,8 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 71</li>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 82</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 18</li>
+            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -836,6 +838,7 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/be8705bb254657a0bd6a56041c7a51ed.png" alt="Cover for 感官&#x2F;世界" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-30</td>
       <td>林宥嘉</td>
@@ -852,9 +855,9 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 52</li>
-            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 58</li>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 87</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 10</li>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 38</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -916,11 +919,11 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 1</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 16</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 20</li>
-            <li> <a href="{{ "/tags/eurobeat" | relative_url }}">eurobeat</a> # 56</li>
+            <li> <a href="{{ "/tags/eurobeat" | relative_url }}">eurobeat</a> # 45</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 68</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 81</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 82</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -970,7 +973,7 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 43</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -996,6 +999,7 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/innovative" | relative_url }}">innovative</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a></li>
@@ -1010,9 +1014,10 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 4</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 7</li>
-            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 81</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 5</li>
+            <li> <a href="{{ "/tags/innovative" | relative_url }}">innovative</a> # 14</li>
+            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 20</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1068,7 +1073,7 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 48</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1205,7 +1210,7 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/wZp2XDfrh5kySIRWppXwq-AdmjArpA_eIrmYQFMuorw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDc5/OTEyLTE1MTcwNzcy/MjgtODUzOC5qcGVn.jpeg" alt="Cover for Noonsense" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/93e4d4a0707ab751aea8ae8e47d19b1a.png" alt="Cover for Noonsense" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-01-19</td>
       <td>Fishdoll</td>
@@ -1241,21 +1246,22 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 10</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 57</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 76</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 1</li>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 2</li>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 2</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 3</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 4</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 6</li>
+            <li> <a href="{{ "/tags/eurobeat" | relative_url }}">eurobeat</a> # 8</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 12</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 16</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 23</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 25</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 37</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 77</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 77</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 77</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 85</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 85</li>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 88</li>
-            <li> <a href="{{ "/tags/eurobeat" | relative_url }}">eurobeat</a> # 93</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 94</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 94</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 96</li>
-            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 99</li>
-            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 99</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1295,7 +1301,7 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 6</li>
+            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1319,6 +1325,7 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
     <tr>
       <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/96774818e3c8fa7db30e49ef9d003922.png" alt="Cover for Like Playing To A Cow" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Spiral Cow</td>
@@ -1332,13 +1339,14 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 35</li>
+            <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a063cecca98f041d9f716b47388fd30e.png" alt="Cover for 詩" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>王詩安</td>
@@ -1355,13 +1363,14 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 9</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4440c8da0601c30fa55fe4b6de010b6.png" alt="Cover for 我可以抱你嗎?愛人" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>張惠妹</td>
@@ -1377,13 +1386,14 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 19</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f5a3400e4696cbdbd40913b146bb23c.png" alt="Cover for 延長比賽 Keep Fighting" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>TANK 呂建忠</td>
@@ -1399,13 +1409,14 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 22</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c470f1bec351799dfc136c1cb62df2f.png" alt="Cover for 很需要" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>颜人中</td>
@@ -1421,7 +1432,7 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 29</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1440,7 +1451,7 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 8</li>
+            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1459,13 +1470,14 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 27</li>
+            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e6b1bbf8aad42bd8a08601ad864067a.png" alt="Cover for 同名專輯" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>蕭敬騰</td>
@@ -1481,13 +1493,14 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 49</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/494028497f014527808d07dd818305a9.png" alt="Cover for 改變自己" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>王力宏</td>
@@ -1503,15 +1516,16 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 14</li>
-            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 16</li>
-            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 73</li>
+            <li> <a href="{{ "/tags/taiwan" | relative_url }}">taiwan</a> # 23</li>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 81</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7e6d5dde7a8eae403b44ac02583ee7f.png" alt="Cover for 妈妈的话" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Zyboy忠宇</td>
@@ -1526,14 +1540,15 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 64</li>
-            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 67</li>
+            <li> <a href="{{ "/tags/c-pop" | relative_url }}">c-pop</a> # 29</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>4</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7543057e38998bb162ac50e6de39e66c.png" alt="Cover for 无限意识 Meta Ego" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>刘柏辛Lexie</td>
@@ -1573,6 +1588,7 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
     <tr>
       <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8311e2473c041eed2a3ee5cd50ba6c40.png" alt="Cover for 上线了" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>刘柏辛Lexie</td>
@@ -1595,6 +1611,7 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
     <tr>
       <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ef009a97594b650955528bc3f973477.png" alt="Cover for 2029" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>刘柏辛Lexie</td>
@@ -1640,6 +1657,7 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
     <tr>
       <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7a472f529a2781c651bc345e061ddf2.png" alt="Cover for 晚风" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>陈婧霏</td>
@@ -1660,6 +1678,7 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
     <tr>
       <td>17</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec3f355767b4946db24f50e3144d8a67.png" alt="Cover for 好喜欢你" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>颜人中</td>
@@ -1754,6 +1773,7 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
     <tr>
       <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/482981096ce4c40b5861d7a6ebeddfbf.png" alt="Cover for 颁奖的时候我要缺席" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>裘德</td>
@@ -1774,6 +1794,7 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
     <tr>
       <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f56607735b8d5d6750e19b1ff3dc13e.png" alt="Cover for 最后的水族馆" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>裘德</td>
@@ -1793,6 +1814,7 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9355ec35e75c683a2ccc03d08ae6325c.png" alt="Cover for 上线了 GONE GOLD" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>刘柏辛Lexie</td>
@@ -1813,6 +1835,7 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
     <tr>
       <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2dc620db6110f01826d69082b8475df4.png" alt="Cover for JTW西遊記" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>方大同</td>
@@ -1870,6 +1893,7 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
     <tr>
       <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0effec8fe1b1b8d3a14df9181dd1c478.png" alt="Cover for 星球" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>柳爽</td>
@@ -1890,6 +1914,7 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
     <tr>
       <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ce5f0dde09545c8d47049713af1b54d.png" alt="Cover for Sounds of My Life" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>韋禮安</td>
@@ -1927,6 +1952,7 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
     <tr>
       <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/250d7a4343027bbdc81f418de02cc9e5.png" alt="Cover for Fighting!生存之道" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>TANK 呂建忠</td>
@@ -2021,6 +2047,7 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
     <tr>
       <td>64</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/67107ecdb845f567711afb3b4234f1c0.png" alt="Cover for 三生三幸" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>海来阿木</td>
@@ -2058,6 +2085,7 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8c64aa850d9a1708451f6a2a0c249ff.png" alt="Cover for 刻在我心底的名字" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>陳昊森</td>
@@ -2078,6 +2106,7 @@ Music tagged as &quot;china&quot; encompasses traditional and contemporary sound
     <tr>
       <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/672522edb3f978cf0b5ac08a86f88eaf.png" alt="Cover for 說 艾怡良" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>艾怡良</td>
