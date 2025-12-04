@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-22T17:05:27.391Z
+date: 2025-12-04T11:34:07.177Z
 permalink: tags/piano-trio
 title: piano trio
 ---
 
 ## piano trio
 
-Last updated: <time datetime="2025-11-22T17:05:27.391Z">Sat Nov 22 2025 19:05:27 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T11:34:07.177Z">Thu Dec 04 2025 13:34:07 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -282,7 +282,7 @@ Piano trio music refers to a genre of music typically played by a piano, a violi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a> # 14</li>
+            <li> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -339,8 +339,8 @@ Piano trio music refers to a genre of music typically played by a piano, a violi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a> # 67</li>
-            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 84</li>
+            <li> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a> # 41</li>
+            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -479,7 +479,7 @@ Piano trio music refers to a genre of music typically played by a piano, a violi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 3</li>
+            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -752,8 +752,8 @@ Piano trio music refers to a genre of music typically played by a piano, a violi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 23</li>
-            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 60</li>
+            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 36</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -793,7 +793,7 @@ Piano trio music refers to a genre of music typically played by a piano, a violi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 21</li>
+            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -935,7 +935,7 @@ Piano trio music refers to a genre of music typically played by a piano, a violi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 28</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1051,7 +1051,7 @@ Piano trio music refers to a genre of music typically played by a piano, a violi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 22</li>
+            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1089,8 +1089,8 @@ Piano trio music refers to a genre of music typically played by a piano, a violi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 79</li>
-            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 80</li>
+            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 58</li>
+            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1186,7 +1186,7 @@ Piano trio music refers to a genre of music typically played by a piano, a violi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 41</li>
+            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1287,8 +1287,8 @@ Piano trio music refers to a genre of music typically played by a piano, a violi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 61</li>
-            <li> <a href="{{ "/tags/polish-jazz" | relative_url }}">polish jazz</a> # 75</li>
+            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 39</li>
+            <li> <a href="{{ "/tags/polish-jazz" | relative_url }}">polish jazz</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1311,7 +1311,7 @@ Piano trio music refers to a genre of music typically played by a piano, a violi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 28</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 73</li>
             <li> <a href="{{ "/tags/european-jazz" | relative_url }}">european jazz</a> # 96</li>
         </ul>
       </td>
@@ -1464,8 +1464,8 @@ Piano trio music refers to a genre of music typically played by a piano, a violi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 47</li>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 88</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 13</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1606,13 +1606,14 @@ Piano trio music refers to a genre of music typically played by a piano, a violi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 34</li>
+            <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/366ea10f7d87431fadb520bf80b2dd65.png" alt="Cover for 301" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03-26</td>
       <td>Esbjörn Svensson Trio</td>
@@ -1630,9 +1631,9 @@ Piano trio music refers to a genre of music typically played by a piano, a violi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 47</li>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 70</li>
-            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 94</li>
+            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 7</li>
+            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 52</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 73</li>
         </ul>
       </td>
     </tr>

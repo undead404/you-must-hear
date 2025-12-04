@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T16:05:19.322Z
+date: 2025-12-04T09:48:08.000Z
 permalink: tags/rechtsrock
 title: rechtsrock
 ---
 
 ## rechtsrock
 
-Last updated: <time datetime="2025-10-28T16:05:19.322Z">Tue Oct 28 2025 18:05:19 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T09:48:08.000Z">Thu Dec 04 2025 11:48:08 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -133,8 +133,8 @@ Rechtsrock is a controversial music tag associated with far-right and nationalis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 13</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 69</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 32</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -249,8 +249,8 @@ Rechtsrock is a controversial music tag associated with far-right and nationalis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 8</li>
             <li> <a href="{{ "/tags/national-socialist" | relative_url }}">national socialist</a> # 59</li>
+            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -331,7 +331,7 @@ Rechtsrock is a controversial music tag associated with far-right and nationalis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 53</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -513,7 +513,7 @@ Rechtsrock is a controversial music tag associated with far-right and nationalis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 78</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 23</li>
             <li> <a href="{{ "/tags/national-socialist" | relative_url }}">national socialist</a> # 99</li>
         </ul>
       </td>
@@ -551,10 +551,10 @@ Rechtsrock is a controversial music tag associated with far-right and nationalis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 28</li>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 55</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 73</li>
-            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 83</li>
+            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 18</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 28</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 47</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 71</li>
             <li> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a> # 94</li>
         </ul>
       </td>
@@ -666,8 +666,8 @@ Rechtsrock is a controversial music tag associated with far-right and nationalis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 5</li>
             <li> <a href="{{ "/tags/national-socialist" | relative_url }}">national socialist</a> # 56</li>
+            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -804,12 +804,12 @@ Rechtsrock is a controversial music tag associated with far-right and nationalis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 26</li>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 81</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 89</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 90</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 93</li>
-            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 97</li>
+            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 4</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 8</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 10</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 12</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 19</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 30</li>
             <li> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a> # 100</li>
         </ul>
       </td>
@@ -949,7 +949,7 @@ Rechtsrock is a controversial music tag associated with far-right and nationalis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 30</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -970,7 +970,7 @@ Rechtsrock is a controversial music tag associated with far-right and nationalis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 11</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -991,7 +991,7 @@ Rechtsrock is a controversial music tag associated with far-right and nationalis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 25</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1135,7 +1135,7 @@ Rechtsrock is a controversial music tag associated with far-right and nationalis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 54</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1370,7 +1370,7 @@ Rechtsrock is a controversial music tag associated with far-right and nationalis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 16</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1879,9 +1879,9 @@ Rechtsrock is a controversial music tag associated with far-right and nationalis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 32</li>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 42</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 53</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 43</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 60</li>
+            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 69</li>
             <li> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a> # 76</li>
         </ul>
       </td>
@@ -1920,11 +1920,11 @@ Rechtsrock is a controversial music tag associated with far-right and nationalis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 70</li>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 75</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 80</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 88</li>
-            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 96</li>
+            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 5</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 13</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 20</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 25</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 31</li>
             <li> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a> # 99</li>
         </ul>
       </td>
@@ -1958,22 +1958,22 @@ Rechtsrock is a controversial music tag associated with far-right and nationalis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 30</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 43</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 58</li>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 64</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 74</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 85</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 95</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 98</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 99</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 2</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 3</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 6</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 28</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 35</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 42</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 47</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 60</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/rb7W3F4SJTVzWrJaQc81a2Td3MT1k5hnKoslEm_5SvM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NjY3/NzMtMTYwMjYyMjgy/Ni01NjgyLmpwZWc.jpeg" alt="Cover for Musik ist keine Lösung" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6cd825ef62830394414b058868348e7.png" alt="Cover for Musik ist keine Lösung" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-12-18</td>
       <td>Alligatoah</td>
@@ -1991,9 +1991,9 @@ Rechtsrock is a controversial music tag associated with far-right and nationalis
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 9</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 16</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 55</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 85</li>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 91</li>
         </ul>
       </td>
     </tr>

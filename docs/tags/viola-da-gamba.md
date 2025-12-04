@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T07:53:00.699Z
+date: 2025-12-04T10:09:43.215Z
 permalink: tags/viola-da-gamba
 title: viola da gamba
 ---
 
 ## viola da gamba
 
-Last updated: <time datetime="2025-10-22T07:53:00.699Z">Wed Oct 22 2025 10:53:00 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T10:09:43.215Z">Thu Dec 04 2025 12:09:43 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -601,7 +601,7 @@ The viola da gamba is a bowed string instrument with frets that flourished durin
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/A4fpAyaLga1PVeDUAjo-rsPK0mtUroZ85e4eody4gq8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTcy/NTQ2LTE1NDU2MDYz/NjMtMzc1OS5qcGVn.jpeg" alt="Cover for Elizabethan Consort Music, 1558-1603" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3362d5210b447f1b3adb4a8eb51bcad.png" alt="Cover for Elizabethan Consort Music, 1558-1603" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-09-01</td>
       <td>Hespèrion XX, Jordi Savall</td>
@@ -1152,7 +1152,7 @@ The viola da gamba is a bowed string instrument with frets that flourished durin
       <td>
         <ul>
             <li> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a> # 20</li>
-            <li> <a href="{{ "/tags/harpsichord" | relative_url }}">harpsichord</a> # 71</li>
+            <li> <a href="{{ "/tags/harpsichord" | relative_url }}">harpsichord</a> # 30</li>
         </ul>
       </td>
     </tr>

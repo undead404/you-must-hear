@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T13:19:56.581Z
+date: 2025-12-04T10:09:49.058Z
 permalink: tags/experimental-pop
 title: experimental pop
 ---
 
 ## experimental pop
 
-Last updated: <time datetime="2025-11-25T13:19:56.581Z">Tue Nov 25 2025 15:19:56 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T10:09:49.058Z">Thu Dec 04 2025 12:09:49 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -48,8 +48,8 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 17</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 43</li>
-            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -175,7 +175,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 4</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 5</li>
             <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 13</li>
         </ul>
       </td>
@@ -214,14 +214,14 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 33</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 6</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 6</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 13</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 35</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 44</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 53</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 45</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 48</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 50</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 65</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 88</li>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 95</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -239,7 +239,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 5</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -257,10 +257,10 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 25</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 25</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 57</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 71</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 76</li>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -325,8 +325,8 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 9</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 51</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 10</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -387,8 +387,8 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avantgarde-pop" | relative_url }}">avantgarde pop</a> # 36</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 53</li>
+            <li> <a href="{{ "/tags/avantgarde-pop" | relative_url }}">avantgarde pop</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -410,13 +410,13 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 47</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 61</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 10</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 33</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 38</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 38</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 54</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 62</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 64</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 65</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 68</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 91</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 92</li>
         </ul>
       </td>
@@ -439,7 +439,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 67</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -458,11 +458,11 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 17</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 35</li>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 37</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 66</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 89</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 12</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 35</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 64</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 66</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -480,18 +480,18 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 8</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 9</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 61</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 68</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 85</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 16</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 33</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 40</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/IEM2CcGxL3rX17258rho-_-d5O4DZT1RCEyAIe0CcNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjA3/OTYtMTM2NDUwMzM5/NC00NTI0LmpwZWc.jpeg" alt="Cover for The Moving Frontier" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6c328ab187a4b59aed99cabbf32eece.png" alt="Cover for The Moving Frontier" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10-01</td>
       <td>Pram</td>
@@ -533,10 +533,10 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 35</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 56</li>
-            <li> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a> # 63</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 68</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 33</li>
+            <li> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a> # 38</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 45</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -595,8 +595,8 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 27</li>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 71</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 30</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -685,7 +685,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 77</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -731,10 +731,11 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 37</li>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 43</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 57</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 64</li>
             <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 78</li>
             <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 86</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -792,10 +793,10 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 52</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 65</li>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 96</li>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 99</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 2</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 5</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 36</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -833,7 +834,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 45</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -864,8 +865,8 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 32</li>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 53</li>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 48</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -894,7 +895,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 35</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -923,7 +924,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 76</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -952,9 +953,9 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 17</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 62</li>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 98</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 3</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 39</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -972,9 +973,9 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 10</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 33</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 75</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 25</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 68</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -993,8 +994,8 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 24</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 54</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1030,7 +1031,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 46</li>
+            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1090,8 +1091,8 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 61</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 65</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 36</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1127,8 +1128,8 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 10</li>
-            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 64</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 11</li>
+            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1189,8 +1190,8 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 15</li>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 67</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 34</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1249,9 +1250,9 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 57</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 74</li>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 96</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 5</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 24</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 44</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 100</li>
         </ul>
       </td>
@@ -1289,7 +1290,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 26</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1313,9 +1314,9 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 7</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 34</li>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 92</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 9</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 67</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 91</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 98</li>
         </ul>
       </td>
@@ -1340,7 +1341,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 82</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 19</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 92</li>
         </ul>
       </td>
@@ -1381,7 +1382,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 29</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1405,9 +1406,9 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 34</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 40</li>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 93</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 8</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 61</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 63</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 99</li>
         </ul>
       </td>
@@ -1447,8 +1448,8 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 25</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 37</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1468,7 +1469,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viola-da-gamba" | relative_url }}">viola da gamba</a> # 100</li>
+            <li> <a href="{{ "/tags/viola-da-gamba" | relative_url }}">viola da gamba</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1506,7 +1507,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 45</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1527,9 +1528,9 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 29</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 100</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 100</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 1</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 1</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1565,9 +1566,9 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 5</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 28</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 59</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 96</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1586,7 +1587,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 90</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1711,11 +1712,11 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 5</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 23</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 6</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 19</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 24</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 32</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 46</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 68</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 81</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 81</li>
         </ul>
       </td>
@@ -1741,8 +1742,8 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 22</li>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 31</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 23</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1825,6 +1826,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1846,12 +1848,12 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 18</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 64</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 2</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 3</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 65</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 73</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 79</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 96</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 99</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1974,10 +1976,10 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 11</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 27</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 51</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 72</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 50</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 74</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 74</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 88</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 95</li>
         </ul>
       </td>
@@ -1996,7 +1998,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 45</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -2021,8 +2023,8 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 22</li>
             <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 76</li>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -2070,10 +2072,10 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 16</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 28</li>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 61</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 40</li>
             <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 83</li>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -2091,8 +2093,8 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 8</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 19</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 20</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -2149,7 +2151,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 8</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -2206,10 +2208,10 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 43</li>
+            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 17</li>
+            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 35</li>
             <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 47</li>
-            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 67</li>
-            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 84</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -2268,7 +2270,7 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 43</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -2290,10 +2292,10 @@ Experimental pop blends accessible pop melodies with unconventional production t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 12</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 19</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 73</li>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 73</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 28</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 75</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 80</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 87</li>
         </ul>
       </td>
     </tr>

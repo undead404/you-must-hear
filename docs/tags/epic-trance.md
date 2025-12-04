@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T18:47:37.991Z
+date: 2025-12-04T09:52:59.096Z
 permalink: tags/epic-trance
 title: epic trance
 ---
 
 ## epic trance
 
-Last updated: <time datetime="2025-11-26T18:47:37.991Z">Wed Nov 26 2025 20:47:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T09:52:59.096Z">Thu Dec 04 2025 11:52:59 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
   </thead>
   <tbody>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/glIMaELWH2_LTO1aOM00hozcMTWsLWDnoZpANhmwpMs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Nzc1/NDEtMTM4NjMzMDU2/NC02NjE4LmpwZWc.jpeg" alt="Cover for Fields of La Tourette" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/WUMTi5MoLDd1cM6f6osB0C78vn7CDPUvCPeFZEb87QU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzMy/NDUtMTU1MDkzNzMx/My02MDE4LmpwZWc.jpeg" alt="Cover for Dream Melodies volume 10" style="max-width:120px; height:auto;" />
       </td>
@@ -66,7 +66,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
       </td>
       <td>2000-06-05</td>
@@ -87,7 +87,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/avOZRhJRQU4DNLOCubNvUwWnAXKVsOfRT2JT8-qIwdA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTU2/OTk5LTE2MTk5NTQz/NTMtNDQxMi5qcGVn.jpeg" alt="Cover for More, More, More!" style="max-width:120px; height:auto;" />
       </td>
@@ -105,7 +105,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/0f4Nx6RWRv6i6A4Cx9hhIyVt2I8RD-2-NLuvtjMHo3A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MjM1/OS0xNTEyNjgyNzUy/LTYzNzMuanBlZw.jpeg" alt="Cover for Discoland" style="max-width:120px; height:auto;" />
       </td>
@@ -130,7 +130,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/937d2c7045364973b3af7d7983eee038.png" alt="Cover for Live Your Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -145,12 +145,12 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 10</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/hlkYm45wddO0sYn3ZtBsbHB3SAtjvpSNBpNDucjNm5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTA3/NC0xMTc1ODc3MTAy/LmpwZWc.jpeg" alt="Cover for Adagio For Strings" style="max-width:120px; height:auto;" />
       </td>
@@ -165,12 +165,12 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 57</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/DLbgyWPr5EgecqTRT09jcRW6N_GbUIXU4tphCeSuFIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODg3/NDctMTM3NTU2NDgw/NC02MDcwLmpwZWc.jpeg" alt="Cover for Dimensional Transformations" style="max-width:120px; height:auto;" />
       </td>
@@ -188,7 +188,40 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>97</td>
+      <td>
+          <img src="https://i.discogs.com/FxR3ILZLAQWzVFtsiSzUq5D8axK7An4r_WSM0ZruaiA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMTA1/MzctMTM4MjA0ODE3/Ny00NzMwLmpwZWc.jpeg" alt="Cover for Another Dimension" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008-02-02</td>
+      <td>The Specialists</td>
+      <td>Another Dimension</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/edm" | relative_url }}">edm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/Z2Ro39t9TkhZotEVHrg7UBihTlIlSXDIM4lK-83yqOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDI5/MzAtMTMyMzIwMzc4/MC5qcGVn.jpeg" alt="Cover for Shana" style="max-width:120px; height:auto;" />
       </td>
@@ -209,13 +242,13 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 14</li>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 74</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 27</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c14ddf20c254ebfa2b7901754dd4f18.png" alt="Cover for Bella Luna" style="max-width:120px; height:auto;" />
       </td>
@@ -244,7 +277,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/Ju6A-vKHk3NaDhbuGGd-nR5boRF5QPwGQolrlEYz5_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDk5/NTUtMTMwNzIxNzEz/OC5qcGVn.jpeg" alt="Cover for Somnium &#x2F; Photographique" style="max-width:120px; height:auto;" />
       </td>
@@ -264,13 +297,13 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 29</li>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 78</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 23</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/45fTmzS2fir9GBx7LEbL8MIL1QPoBDT5UBtThO-moRA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDkz/OTctMTIzNTY0NTc5/OS5qcGVn.jpeg" alt="Cover for All Saints Day" style="max-width:120px; height:auto;" />
       </td>
@@ -288,7 +321,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
       </td>
       <td>2009-02-23</td>
@@ -306,13 +339,13 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 73</li>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 92</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 8</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/cnZ_EN1qS2LVmQXXmhucfuEj4slsGlHZi7okLz74Id0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTM0/OTItMTYwMDQ3MDMy/Ni02MTAwLnBuZw.jpeg" alt="Cover for Light To Lies" style="max-width:120px; height:auto;" />
       </td>
@@ -333,14 +366,14 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 28</li>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 82</li>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 94</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 6</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 18</li>
+            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/eCMXdjb3HEk8K9l6sKIDfuL9H90vGu463pz_DS4zgQc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTU2/OTQtMTMxMzMxNjU5/MS5qcGVn.jpeg" alt="Cover for Progressive Trance Evolution Vol 1" style="max-width:120px; height:auto;" />
       </td>
@@ -365,7 +398,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/74a4ca0ceacaa3ffad62f9e9d8d6755d.png" alt="Cover for Undiscovered" style="max-width:120px; height:auto;" />
       </td>
@@ -385,13 +418,13 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 30</li>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 40</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 61</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://i.discogs.com/gJ0tz12a2YFBREa_pb1buZzmADHNp3-kRwRfTpFQPNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzY3/NzAtMTI2ODE0NzQ2/OC5qcGVn.jpeg" alt="Cover for Back 2 Back 4" style="max-width:120px; height:auto;" />
       </td>
@@ -412,12 +445,12 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 21</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/are6T0ARzs9Z8tIaQQmAV0ZrP0rSxvGSqplUmniTo8M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc1/MTgtMTI4NjQwMTE2/Mi5qcGVn.jpeg" alt="Cover for Powder Road EP" style="max-width:120px; height:auto;" />
       </td>
@@ -439,7 +472,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/SHPbI9AcI5AjttCqyet1MBBzCtkgWFaRFr1la_4YLyc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzUw/OTYtMTI2ODA1NjY3/MS5qcGVn.jpeg" alt="Cover for Loneliness (2010) - Part 2" style="max-width:120px; height:auto;" />
       </td>
@@ -459,12 +492,12 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 29</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/nL1PqXwZg_wRR490a9W5739pOfWLs-TOyLCTClEnoNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzEy/MTctMTI5MTAyOTM0/My5qcGVn.jpeg" alt="Cover for Emerald Sunset" style="max-width:120px; height:auto;" />
       </td>
@@ -489,33 +522,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>69</td>
-      <td>
-          <img src="https://i.discogs.com/JBPIq8Io74St2m35IBUF_tRVimwTXaD2dzXvuXKSMKI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzQy/OTktMTI3NDY5MjI3/NS5qcGVn.jpeg" alt="Cover for Vanquish" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2010-05-10</td>
-      <td>Spark7</td>
-      <td>Vanquish</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 22</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/rJIiixBYuqUbgx2N-nKWbngRW5hGlnMbKfLetpRs_KU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzAw/NjAtMTI3MzUxNzY0/NS5qcGVn.jpeg" alt="Cover for Purple Rose &#x2F; Sweet Amber" style="max-width:120px; height:auto;" />
       </td>
@@ -536,12 +543,38 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 57</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>32</td>
+      <td>
+          <img src="https://i.discogs.com/JBPIq8Io74St2m35IBUF_tRVimwTXaD2dzXvuXKSMKI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzQy/OTktMTI3NDY5MjI3/NS5qcGVn.jpeg" alt="Cover for Vanquish" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-05-10</td>
+      <td>Spark7</td>
+      <td>Vanquish</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/XnWTTDD8CuMEzzJJRYdj2HsBKKyALKrkonF_qzJ8MwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzEx/MDMtMTI3MzU4ODc0/MS5qcGVn.jpeg" alt="Cover for Dry Ice" style="max-width:120px; height:auto;" />
       </td>
@@ -562,12 +595,12 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 14</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
       </td>
       <td>2010-05-11</td>
@@ -588,7 +621,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/lxtvj9gLCFjob0wVMyavqCHnd1lZcdp8qCNbo-nBaTw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzg2/NDgtMTI3NDAzNTY2/NS5qcGVn.jpeg" alt="Cover for Some People Will Never Learn (Incl Mango Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -610,7 +643,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/yGH5RNPaLQtoc7dyv0E2_LuIWn1plDxzxOkouQYDokc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODk4/NjAtMTI4MTIyMTg0/OC5qcGVn.jpeg" alt="Cover for Stay Awake" style="max-width:120px; height:auto;" />
       </td>
@@ -634,7 +667,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/iiH82RxD_wd_SIRrg3Bm_xZO0FbDdGzR67ury63zQFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQ0/NzQtMTI3NDM5MDgw/NC5qcGVn.jpeg" alt="Cover for Deep In The Heart" style="max-width:120px; height:auto;" />
       </td>
@@ -651,7 +684,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/dvVkFAxzGuiWEUPs6YSvu8jkA3oxyzX_4rZTMIet6Mc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTg4/NjctMTI3NTI4OTE5/OC5qcGVn.jpeg" alt="Cover for One Night In Ibiza (Incl Arnej Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -671,12 +704,12 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 2</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/IYW_sB4KsKL5dpQyoPcRBAYRhJlJwBREYAdcc_SBeYU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDgy/MjgtMTI3ODY2MzEw/OS5qcGVn.jpeg" alt="Cover for Rising Sun (The Remixes)" style="max-width:120px; height:auto;" />
       </td>
@@ -697,7 +730,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/q7GFj0Ek6KJRTgd3ZrGuE3Z_f_LD0zkguUbpnmGKDjs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzAx/MTQtMTI4MDEzOTI3/MC5qcGVn.jpeg" alt="Cover for Forgive Me &#x2F; Piece Of Me" style="max-width:120px; height:auto;" />
       </td>
@@ -715,7 +748,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b6f836c3597412098adfb4f18982ad5.png" alt="Cover for Total confusion&#x2F;Losing you" style="max-width:120px; height:auto;" />
       </td>
@@ -729,12 +762,12 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 49</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/CzAiK4Tj_O3Yodz3FM7qXr-vjGsfqSsFjmceqVAeSZw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTc0/ODItMTYyMjg0MzUx/MS03NzkxLmpwZWc.jpeg" alt="Cover for Perfect Sky" style="max-width:120px; height:auto;" />
       </td>
@@ -754,7 +787,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/AHME1r683HNq3C3Dx2YdE5tJsEDcKx0ymbjRVKCFNns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjQ0/MzItMTMwMjY5OTYz/OC5qcGVn.jpeg" alt="Cover for Loneliness (Incl Aaron Static Remix)" style="max-width:120px; height:auto;" />
       </td>
@@ -779,7 +812,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/XLDb4KMZJ1BFoxtkKkUwvL5lTxp1GaduNGd9iVcNepY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTMy/ODEtMTMzNjYwOTg3/Ni00NTgzLmpwZWc.jpeg" alt="Cover for Emotions &amp; Love" style="max-width:120px; height:auto;" />
       </td>
@@ -807,13 +840,13 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 13</li>
             <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 38</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/93d98316ab2b14f4030df4fc577f3895.png" alt="Cover for Illusions" style="max-width:120px; height:auto;" />
       </td>
@@ -831,7 +864,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/InaDrSpahjrCN5ZIwsD8QbTogS56ct-BUqHMbGnqVpQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTc5/MjEtMTYwNzY2OTgz/MC0zNzEwLmpwZWc.jpeg" alt="Cover for Love Feelings" style="max-width:120px; height:auto;" />
       </td>
@@ -854,35 +887,12 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 20</li>
+            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/vM7S_Ei6SRCOHmLYQrgkWZ2F335FVSgbxHdo8yDNKm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTc5/MzUtMTMzNjgxODUz/MC05Njk0LmpwZWc.jpeg" alt="Cover for Together (Single-Track)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011-08-26</td>
-      <td>Fanatic Emotions</td>
-      <td>Together (Single-Track)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/vM7S_Ei6SRCOHmLYQrgkWZ2F335FVSgbxHdo8yDNKm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTc5/MzUtMTMzNjgxODUz/MC05Njk0LmpwZWc.jpeg" alt="Cover for Together" style="max-width:120px; height:auto;" />
       </td>
@@ -908,7 +918,30 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>99</td>
+      <td>
+          <img src="https://i.discogs.com/vM7S_Ei6SRCOHmLYQrgkWZ2F335FVSgbxHdo8yDNKm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTc5/MzUtMTMzNjgxODUz/MC05Njk0LmpwZWc.jpeg" alt="Cover for Together (Single-Track)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-08-26</td>
+      <td>Fanatic Emotions</td>
+      <td>Together (Single-Track)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/jG4assv55H2YgJ6W78jwtUkW_1vnjwJCK-0KDQVCoL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTc5/NDEtMTYwNzY3MDE5/MS0xMzA1LmpwZWc.jpeg" alt="Cover for Celestial" style="max-width:120px; height:auto;" />
       </td>
@@ -930,7 +963,39 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/uA23UyRVldgpwwRsdSCbEaumtuxAV6sJ5w2fiRlFe7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTc5/NDgtMTYwNzY3MDI3/NC00Nzc3LmpwZWc.jpeg" alt="Cover for Fanatic Emotions" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2011-09-03</td>
+      <td>Fanatic Emotions</td>
+      <td>Fanatic Emotions</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/balearic" | relative_url }}">balearic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 30</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/08F-gdaH3wQWOJSKSPp6DJDYRlSmYNT_yrbx84Ow3nE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTc5/NjAtMTMzNjgxOTE3/OS0zNTMzLmpwZWc.jpeg" alt="Cover for Along With You" style="max-width:120px; height:auto;" />
       </td>
@@ -957,45 +1022,13 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 2</li>
             <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 23</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
-      <td>
-          <img src="https://i.discogs.com/uA23UyRVldgpwwRsdSCbEaumtuxAV6sJ5w2fiRlFe7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTc5/NDgtMTYwNzY3MDI3/NC00Nzc3LmpwZWc.jpeg" alt="Cover for Fanatic Emotions" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011-09-03</td>
-      <td>Fanatic Emotions</td>
-      <td>Fanatic Emotions</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/balearic" | relative_url }}">balearic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 6</li>
-            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 30</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/m4cS7TpVPH7hTArdOf4WHtVaGYByBa-zXAJ09TDorrg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTEx/MzEtMTU3OTcwMjc0/NC05NDY1LmpwZWc.jpeg" alt="Cover for Mirage" style="max-width:120px; height:auto;" />
       </td>
@@ -1013,7 +1046,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/i6Uf-N2vSAEgjOBrtEbXOOwIH2yqnyWvRpy5iicrXPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzU4/NTMtMTMzMDI5NTc3/Ni5qcGVn.jpeg" alt="Cover for Anjunadeep:03 (Mixed By Jaytech &amp; James Grant)" style="max-width:120px; height:auto;" />
       </td>
@@ -1035,7 +1068,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/mOqr9RRbxlOJYpJgw4VLHYJubxqDZSHANz7rrGih0jY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTc5/NzctMTYwNzY3MDc1/MS0yNzE0LmpwZWc.jpeg" alt="Cover for anDee" style="max-width:120px; height:auto;" />
       </td>
@@ -1058,7 +1091,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/jTmLYAAKfKzcsOSR8NJmWMYXhRjyvqdA0UtbXPJLsJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTI4/NjAtMTMyMjQ0OTkw/MS5qcGVn.jpeg" alt="Cover for My Dream" style="max-width:120px; height:auto;" />
       </td>
@@ -1080,7 +1113,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/Jbx8_IGfvbycCYSFb-yzAxV2SUr5v7_XO3v6JHz9egU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjA5/NzItMTM0Mzg5MjMw/MC00Nzk5LmpwZWc.jpeg" alt="Cover for Conventum" style="max-width:120px; height:auto;" />
       </td>
@@ -1099,7 +1132,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/hvmYfiNXU5TpEZJHyY3urB2zlLYPjSarJzv-IkheX20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTc5/MDEtMTYwNzgxMzkx/Ny00NzcwLmpwZWc.jpeg" alt="Cover for Of Course" style="max-width:120px; height:auto;" />
       </td>
@@ -1121,29 +1154,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>
-          <img src="https://i.discogs.com/qSWipgjnzj0OrKuDAbVhO0R-suDlf8br1nQ5cy_Ohpo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTc4/ODktMTMzNjgxNzQy/Ni0yMDIwLmpwZWc.jpeg" alt="Cover for My Dream (Epic Trance Mix)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012-03-03</td>
-      <td>Fanatic Emotions</td>
-      <td>My Dream (Epic Trance Mix)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>10</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/f2k7brxoUyshqUII3RoPhtC3D4q3nM9K4fv3CTe76d8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTc4/ODYtMTYwNzgxMzgz/NC04OTM0LmpwZWc.jpeg" alt="Cover for Cosmic Dance (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -1165,13 +1176,13 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>92</td>
       <td>
-          <img src="https://i.discogs.com/AZTRuwu2Zl1gO9uqkFtSTolflvwzM9Na4T4PvT-qEN4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTc4/NTQtMTYwNzgxMzU0/My01MjA5LmpwZWc.jpeg" alt="Cover for Together (Xtended Trance Mix - Remastered)" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/qSWipgjnzj0OrKuDAbVhO0R-suDlf8br1nQ5cy_Ohpo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTc4/ODktMTMzNjgxNzQy/Ni0yMDIwLmpwZWc.jpeg" alt="Cover for My Dream (Epic Trance Mix)" style="max-width:120px; height:auto;" />
       </td>
-      <td>2012-05-09</td>
+      <td>2012-03-03</td>
       <td>Fanatic Emotions</td>
-      <td>Together (Xtended Trance Mix - Remastered)</td>
+      <td>My Dream (Epic Trance Mix)</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
@@ -1187,7 +1198,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/hRv6ySPpAOonGbCJ54DoBFgLvtHGIR4pgi_K4Ff2-DU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTA5/MzEtMTM0MDUzNzIx/My0xMjc5LmpwZWc.jpeg" alt="Cover for Wonderful Moments (Eternal Trance Mix)" style="max-width:120px; height:auto;" />
       </td>
@@ -1209,7 +1220,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/iyBUr8ymYouEbReigYeS3OIy_HPVem_kZPGvXH2WsnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDMz/ODItMTM1MDA2Njk0/NC00Mzg4LmpwZWc.jpeg" alt="Cover for Cascade Highway (Timbor vs Dawnchaser)" style="max-width:120px; height:auto;" />
       </td>
@@ -1226,7 +1237,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/huHfchvq58CUXWkZvVI5oXo2YrPG_tDotFplxvP3xjU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMDMx/NjctMTM1NTMyNzAy/OS02MzYxLmpwZWc.jpeg" alt="Cover for Hope Island &#x2F; Soundtrack Vitae" style="max-width:120px; height:auto;" />
       </td>
@@ -1244,7 +1255,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/0piAAQQTFgrdc6ukdjAzq4EfU_ek_5rzgG96HH_NXtk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDY0/NDctMTYwNzgxMzM2/NS0xMzE2LmpwZWc.jpeg" alt="Cover for Trance In Love Vol.3" style="max-width:120px; height:auto;" />
       </td>
@@ -1266,7 +1277,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/0piAAQQTFgrdc6ukdjAzq4EfU_ek_5rzgG96HH_NXtk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDY0/NDctMTYwNzgxMzM2/NS0xMzE2LmpwZWc.jpeg" alt="Cover for Trance In Love, Vol.3" style="max-width:120px; height:auto;" />
       </td>
@@ -1283,7 +1294,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/XPQDVwS2gEO2pd9OJnLWh__-FZApl2i1Nqu-73FMrwM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0ODMy/ODEtMTM5NDUzMzA5/OS03OTkxLmpwZWc.jpeg" alt="Cover for Kukuzenko - Dreamcatcher" style="max-width:120px; height:auto;" />
       </td>
@@ -1304,29 +1315,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>27</td>
-      <td>
-          <img src="https://i.discogs.com/S7aXnGx7RcGixRXpRox_OE-d11iquJiNPxy0eKE-9fw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NzQz/NjYtMTYwNzgxMjc4/NC00MTQ4LmpwZWc.jpeg" alt="Cover for Pour Denise" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013-08-26</td>
-      <td>Fanatic Emotions</td>
-      <td>Pour Denise</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/S7aXnGx7RcGixRXpRox_OE-d11iquJiNPxy0eKE-9fw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NzQz/NjYtMTYwNzgxMjc4/NC00MTQ4LmpwZWc.jpeg" alt="Cover for Wonderful Life" style="max-width:120px; height:auto;" />
       </td>
@@ -1348,15 +1337,20 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>74</td>
       <td>
-          <img src="https://i.discogs.com/TOSC8bN9vv6cW352xeo0KlruzgMNQUN98QCvkKg2KAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTUy/MTktMTYwNzgxMTkz/OS04ODI4LmpwZWc.jpeg" alt="Cover for Trance In Love, Vol.5" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/S7aXnGx7RcGixRXpRox_OE-d11iquJiNPxy0eKE-9fw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NzQz/NjYtMTYwNzgxMjc4/NC00MTQ4LmpwZWc.jpeg" alt="Cover for Pour Denise" style="max-width:120px; height:auto;" />
       </td>
-      <td>2014-12-06</td>
+      <td>2013-08-26</td>
       <td>Fanatic Emotions</td>
-      <td>Trance In Love, Vol.5</td>
+      <td>Pour Denise</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
         </ul>
       </td>
       <td>
@@ -1365,24 +1359,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>18</td>
-      <td>
-          <img src="https://i.discogs.com/TOSC8bN9vv6cW352xeo0KlruzgMNQUN98QCvkKg2KAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTUy/MTktMTYwNzgxMTkz/OS04ODI4LmpwZWc.jpeg" alt="Cover for Trance In Love, Vol.6" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2014-12-06</td>
-      <td>Fanatic Emotions</td>
-      <td>Trance In Love, Vol.6</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/TOSC8bN9vv6cW352xeo0KlruzgMNQUN98QCvkKg2KAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTUy/MTktMTYwNzgxMTkz/OS04ODI4LmpwZWc.jpeg" alt="Cover for Trance In Love, Vol.4" style="max-width:120px; height:auto;" />
       </td>
@@ -1399,7 +1376,41 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>83</td>
+      <td>
+          <img src="https://i.discogs.com/TOSC8bN9vv6cW352xeo0KlruzgMNQUN98QCvkKg2KAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTUy/MTktMTYwNzgxMTkz/OS04ODI4LmpwZWc.jpeg" alt="Cover for Trance In Love, Vol.6" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-12-06</td>
+      <td>Fanatic Emotions</td>
+      <td>Trance In Love, Vol.6</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://i.discogs.com/TOSC8bN9vv6cW352xeo0KlruzgMNQUN98QCvkKg2KAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTUy/MTktMTYwNzgxMTkz/OS04ODI4LmpwZWc.jpeg" alt="Cover for Trance In Love, Vol.5" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2014-12-06</td>
+      <td>Fanatic Emotions</td>
+      <td>Trance In Love, Vol.5</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/C93Qq1Dc16HAWnrQffgdc9AgA57up1_-XWZI3S92XCg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDA3/MDItMTQxOTI3Nzg0/Ni03MTcwLmpwZWc.jpeg" alt="Cover for Breaking The Silence Volume One (The Full Version 1)" style="max-width:120px; height:auto;" />
       </td>
@@ -1424,7 +1435,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/pH5fvqREVxQA7i_nVhl4fU6jcOAP4f7oHR6-Qhwi8yg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MjYz/ODItMTQyNTQwNTA2/MS05MTUxLmpwZWc.jpeg" alt="Cover for DJ Mixes" style="max-width:120px; height:auto;" />
       </td>
@@ -1446,7 +1457,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7089e01fe7a44711c766df0a547734d5.png" alt="Cover for Live Your Dream (Reworked)" style="max-width:120px; height:auto;" />
       </td>
@@ -1470,7 +1481,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/BulIJmSn3B-uhmiUtY0unoUJniiJLy4_vPiChydQBKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTA4/NzAtMTQzNTc2OTk1/OC0zMzAwLmpwZWc.jpeg" alt="Cover for 2002-2005: The Beginning" style="max-width:120px; height:auto;" />
       </td>
@@ -1489,7 +1500,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/6tFLkGYnXkBEqDAEPDkIYslQzoJAAJNGe8ELv6Z_H4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEz/ODMzLTE1NDI0Njcx/MjItNTc2Mi5qcGVn.jpeg" alt="Cover for Marc De Simon - Rainbow Sky" style="max-width:120px; height:auto;" />
       </td>
@@ -1509,47 +1520,7 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>38</td>
-      <td>
-          <img src="https://i.discogs.com/-Dp3-9Ex1cpZ2NekOD7YzeQa_IK2u9yKhefbg0rudk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzgy/MjEyLTE1MzQxMjY1/NDItNjk3OC5wbmc.jpeg" alt="Cover for Haris C - Morning Sun" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018-08-13</td>
-      <td>Ion Blue</td>
-      <td>Haris C - Morning Sun</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>41</td>
-      <td>
-          <img src="https://i.discogs.com/-Dp3-9Ex1cpZ2NekOD7YzeQa_IK2u9yKhefbg0rudk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzgy/MjEyLTE1MzQxMjY1/NDItNjk3OC5wbmc.jpeg" alt="Cover for Haris C - Without You" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018-08-13</td>
-      <td>Ion Blue</td>
-      <td>Haris C - Without You</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/-Dp3-9Ex1cpZ2NekOD7YzeQa_IK2u9yKhefbg0rudk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzgy/MjEyLTE1MzQxMjY1/NDItNjk3OC5wbmc.jpeg" alt="Cover for Ion Blue - Elan (12inch)" style="max-width:120px; height:auto;" />
       </td>
@@ -1569,7 +1540,47 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>60</td>
+      <td>
+          <img src="https://i.discogs.com/-Dp3-9Ex1cpZ2NekOD7YzeQa_IK2u9yKhefbg0rudk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzgy/MjEyLTE1MzQxMjY1/NDItNjk3OC5wbmc.jpeg" alt="Cover for Haris C - Without You" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-08-13</td>
+      <td>Ion Blue</td>
+      <td>Haris C - Without You</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>
+          <img src="https://i.discogs.com/-Dp3-9Ex1cpZ2NekOD7YzeQa_IK2u9yKhefbg0rudk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzgy/MjEyLTE1MzQxMjY1/NDItNjk3OC5wbmc.jpeg" alt="Cover for Haris C - Morning Sun" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-08-13</td>
+      <td>Ion Blue</td>
+      <td>Haris C - Morning Sun</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/IAGG_nex5_ERV_MBhA61yO3jNJmc9uBUbfxz91JEE-M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODY4/ODItMTU2NDYwNTYy/MC03NjUyLmpwZWc.jpeg" alt="Cover for You Never Know" style="max-width:120px; height:auto;" />
       </td>
@@ -1590,165 +1601,289 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 21</li>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 75</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 26</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd4d106748e58f156c2b33a963ca942d.png" alt="Cover for Thermopylae EP" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>TheJunner</td>
-      <td>Thermopylae EP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 54</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>58</td>
+      <td>8</td>
       <td>
       </td>
       <td></td>
-      <td>ampersanded</td>
-      <td>Recompense</td>
+      <td>Vast Vision Feat. Fisher</td>
+      <td>Behind Your Smile</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/braindance" | relative_url }}">braindance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-york" | relative_url }}">new york</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 8</li>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 36</li>
-            <li> <a href="{{ "/tags/braindance" | relative_url }}">braindance</a> # 45</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 25</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>12</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/29e32060374d48cf2f8f183588256b95.png" alt="Cover for The DJ Infektial Blowjob! Album: Self-Titled Amazing Compilation 3xCD (Feat. Remixes And Reworkings)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>DJ Infektial Blowjob!</td>
-      <td>The DJ Infektial Blowjob! Album: Self-Titled Amazing Compilation 3xCD (Feat. Remixes And Reworkings)</td>
+      <td>ReOrder feat Stine Grove</td>
+      <td>Biscay Bay</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 16</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 28</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>13</td>
       <td>
       </td>
       <td></td>
-      <td>ATB feat. Cristina Soto</td>
-      <td>Distant Earth - Remixed</td>
+      <td>Aly &amp; Fila feat. Sue McLaren</td>
+      <td>Rising Sun</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 20</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 34</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>14</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Aly &amp; Fila feat. Katherine Crowe</td>
+      <td>Rising Sun</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 43</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Aly &amp; Fila feat. Tiff Lacey</td>
+      <td>Rising Sun</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 47</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Blue Tente pres. North Sight</td>
+      <td>Runaway</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 49</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Susana feat Tenishia</td>
+      <td>Closer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 60</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Matt Holliday feat. Mque</td>
+      <td>Your Touch</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 62</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Beat Service feat Manon Polare</td>
+      <td>Static</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 68</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0199005c7221e32406a3c2a609f6233f.png" alt="Cover for Closer" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Susana feat Jorn Van Deynhoven</td>
+      <td>Closer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 70</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Susana feat Stoneface &amp; Terminal</td>
+      <td>Closer</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 73</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1988949458452dade5de1e7dcf35b195.png" alt="Cover for ENi80XLu1P EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1820,424 +1955,162 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 11</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 12</li>
+            <li> <a href="{{ "/tags/braindance" | relative_url }}">braindance</a> # 41</li>
             <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 44</li>
-            <li> <a href="{{ "/tags/braindance" | relative_url }}">braindance</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>35</td>
       <td>
       </td>
       <td></td>
-      <td>Susana feat Stoneface &amp; Terminal</td>
-      <td>Closer</td>
+      <td>ATB feat. Cristina Soto</td>
+      <td>Distant Earth - Remixed</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 28</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>37</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0199005c7221e32406a3c2a609f6233f.png" alt="Cover for Closer" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/29e32060374d48cf2f8f183588256b95.png" alt="Cover for The DJ Infektial Blowjob! Album: Self-Titled Amazing Compilation 3xCD (Feat. Remixes And Reworkings)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Susana feat Jorn Van Deynhoven</td>
-      <td>Closer</td>
+      <td>DJ Infektial Blowjob!</td>
+      <td>The DJ Infektial Blowjob! Album: Self-Titled Amazing Compilation 3xCD (Feat. Remixes And Reworkings)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 31</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>76</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Beat Service feat Manon Polare</td>
-      <td>Static</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 33</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>78</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Matt Holliday feat. Mque</td>
-      <td>Your Touch</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 39</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>80</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Susana feat Tenishia</td>
-      <td>Closer</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 41</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>84</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Blue Tente pres. North Sight</td>
-      <td>Runaway</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 52</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>85</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Aly &amp; Fila feat. Tiff Lacey</td>
-      <td>Rising Sun</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 54</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>87</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Aly &amp; Fila feat. Katherine Crowe</td>
-      <td>Rising Sun</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 58</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>88</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Aly &amp; Fila feat. Sue McLaren</td>
-      <td>Rising Sun</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 1</li>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 67</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>89</td>
-      <td>
-      </td>
-      <td></td>
-      <td>ReOrder feat Stine Grove</td>
-      <td>Biscay Bay</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 12</li>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 73</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>93</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Vast Vision Feat. Fisher</td>
-      <td>Behind Your Smile</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 23</li>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 76</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>
-      </td>
-      <td></td>
-      <td>David Orr</td>
-      <td>EvoCreo: Official Soundtrack</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Super 8 &amp; Tab and Matzo</td>
-      <td>Anjunabeats Worldwide 02 (Mixed by Super 8 &amp; Tab and Mat Zo)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Setrise vs. Faruk Sabanci</td>
-      <td>Visible Horizon</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>20</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Armin van Buuren feat Susan</td>
-      <td>Mirage</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
         </ul>
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>23</td>
-      <td>
-      </td>
-      <td></td>
-      <td>CosmicSky</td>
-      <td>Endless Sky Single</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>34</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Talla 2XLC ft Naama Hillman</td>
-      <td>Progressive Trance Evolution Vol 1</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ad0f8e6ed744e2f88cfe1fbf91b846d.png" alt="Cover for Recompense" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>SynthR</td>
-      <td>Cycle of Extinction</td>
+      <td>ampersanded</td>
+      <td>Recompense</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/braindance" | relative_url }}">braindance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo" | relative_url }}">emo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-york" | relative_url }}">new york</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/usa" | relative_url }}">usa</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 9</li>
+            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 36</li>
+            <li> <a href="{{ "/tags/braindance" | relative_url }}">braindance</a> # 56</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd4d106748e58f156c2b33a963ca942d.png" alt="Cover for Thermopylae EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>TheJunner</td>
+      <td>Thermopylae EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -2246,11 +2119,15 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       <td>
       </td>
       <td></td>
-      <td>Peter Wibe &amp; John Enola feat Patrick Rives</td>
-      <td>Rescue Me (Remixes)</td>
+      <td>Jesse Hoffmann</td>
+      <td>Shifting Sands</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
         </ul>
       </td>
       <td>
@@ -2259,7 +2136,55 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>46</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Hernandes feat Stine Grove</td>
+      <td>Without You</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Manvel Ter-Pogosyan feat. Tiff</td>
+      <td>Sweet Memories (Part 2)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/966b267ed840473fc7babe65ef3c1a2b.png" alt="Cover for The Path to the New World" style="max-width:120px; height:auto;" />
       </td>
@@ -2290,19 +2215,54 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>57</td>
       <td>
       </td>
       <td></td>
-      <td>Manvel Ter-Pogosyan feat. Tiff</td>
-      <td>Sweet Memories (Part 2)</td>
+      <td>Peter Wibe &amp; John Enola feat Patrick Rives</td>
+      <td>Rescue Me (Remixes)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+      </td>
+      <td></td>
+      <td>SynthR</td>
+      <td>Cycle of Extinction</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Talla 2XLC ft Naama Hillman</td>
+      <td>Progressive Trance Evolution Vol 1</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
@@ -2314,19 +2274,16 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>78</td>
       <td>
       </td>
       <td></td>
-      <td>Hernandes feat Stine Grove</td>
-      <td>Without You</td>
+      <td>CosmicSky</td>
+      <td>Endless Sky Single</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
@@ -2338,18 +2295,35 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>81</td>
       <td>
       </td>
       <td></td>
-      <td>Jesse Hoffmann</td>
-      <td>Shifting Sands</td>
+      <td>Armin van Buuren feat Susan</td>
+      <td>Mirage</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Setrise vs. Faruk Sabanci</td>
+      <td>Visible Horizon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a></li>
         </ul>
       </td>
@@ -2359,12 +2333,50 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>87</td>
       <td>
       </td>
       <td></td>
-      <td>Dawnchaser, De Ranger</td>
-      <td>Skyline Divide</td>
+      <td>Super 8 &amp; Tab and Matzo</td>
+      <td>Anjunabeats Worldwide 02 (Mixed by Super 8 &amp; Tab and Mat Zo)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>
+      </td>
+      <td></td>
+      <td>David Orr</td>
+      <td>EvoCreo: Official Soundtrack</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Matt Darey, Kristy Thirsk, Urban Astronautsu</td>
+      <td>Black Flowers (Remixes)</td>
       <td>
         <ul>
         </ul>
@@ -2375,12 +2387,12 @@ Epic Trance, often synonymous with Uplifting Trance, is a subgenre of trance mus
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>93</td>
       <td>
       </td>
       <td></td>
-      <td>Matt Darey, Kristy Thirsk, Urban Astronautsu</td>
-      <td>Black Flowers (Remixes)</td>
+      <td>Dawnchaser, De Ranger</td>
+      <td>Skyline Divide</td>
       <td>
         <ul>
         </ul>

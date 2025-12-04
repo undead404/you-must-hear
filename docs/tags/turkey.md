@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T06:56:52.956Z
+date: 2025-12-04T09:47:12.452Z
 permalink: tags/turkey
 title: turkey
 ---
 
 ## turkey
 
-Last updated: <time datetime="2025-11-18T06:56:52.956Z">Tue Nov 18 2025 08:56:52 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T09:47:12.452Z">Thu Dec 04 2025 11:47:12 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -61,7 +61,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a> # 7</li>
+            <li> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -126,7 +126,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       <td>
         <ul>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 18</li>
-            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 69</li>
+            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -147,7 +147,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a> # 40</li>
+            <li> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -244,8 +244,8 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 53</li>
-            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 85</li>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 16</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -284,8 +284,8 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish-pop" | relative_url }}">turkish pop</a> # 12</li>
-            <li> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a> # 59</li>
+            <li> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a> # 37</li>
+            <li> <a href="{{ "/tags/turkish-pop" | relative_url }}">turkish pop</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -311,7 +311,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/H-qwK8vd-Ds_RA6SxO4kZ73f0IZ_9DqDvRAn4vs76Pw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NDM5/NzctMTQ4MjQzMDg0/Mi04ODY2LmpwZWc.jpeg" alt="Cover for Burning Lives" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/68c0a358e55e136619c2e11465190ff7.png" alt="Cover for Burning Lives" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Acrimony</td>
@@ -347,8 +347,8 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 66</li>
-            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 79</li>
+            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 21</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -384,8 +384,8 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish-pop" | relative_url }}">turkish pop</a> # 73</li>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 97</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 4</li>
+            <li> <a href="{{ "/tags/turkish-pop" | relative_url }}">turkish pop</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -403,14 +403,14 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 77</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/0Yx3UuBDGXGS4wZkQyir9sraIonvsWrzdbX9Jc0b3H0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDkz/NDEtMTMzMDgxMDc5/NC5qcGVn.jpeg" alt="Cover for Stands For The Void" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f6a37e9abdd4bf69f36d4c2584578f6.png" alt="Cover for Stands For The Void" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>SOLITUDE</td>
@@ -458,8 +458,8 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish-pop" | relative_url }}">turkish pop</a> # 84</li>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 99</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 2</li>
+            <li> <a href="{{ "/tags/turkish-pop" | relative_url }}">turkish pop</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -480,8 +480,8 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a> # 77</li>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 79</li>
+            <li> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a> # 21</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -561,8 +561,8 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 27</li>
-            <li> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a> # 56</li>
+            <li> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a> # 39</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -582,8 +582,8 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 41</li>
-            <li> <a href="{{ "/tags/turkish-pop" | relative_url }}">turkish pop</a> # 48</li>
+            <li> <a href="{{ "/tags/turkish-pop" | relative_url }}">turkish pop</a> # 50</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -625,7 +625,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 48</li>
+            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -644,7 +644,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 51</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -664,7 +664,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 63</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -721,7 +721,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish-pop" | relative_url }}">turkish pop</a> # 57</li>
+            <li> <a href="{{ "/tags/turkish-pop" | relative_url }}">turkish pop</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -761,7 +761,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 95</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -884,7 +884,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 26</li>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 74</li>
             <li> <a href="{{ "/tags/mediterranean" | relative_url }}">mediterranean</a> # 86</li>
         </ul>
       </td>
@@ -956,7 +956,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 62</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1024,7 +1024,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/GmC-DIx9Fd7DzojTd1F4ylBSXHVl8XUwWfuCi9f97h4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MjU4/MzQtMTQ0MTQ0ODE1/OS03NjExLmpwZWc.jpeg" alt="Cover for Masochistic Molestation" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e183e4ea24a34a85cac8b5a697c6c3ac.png" alt="Cover for Masochistic Molestation" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-04-14</td>
       <td>Hellsodomy</td>
@@ -1059,7 +1059,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 57</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1103,7 +1103,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/tmYczh0D0E0th51twlNofPhxdmIiWD6lwn92R2cfZ1c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NDk5/MjItMTQ0MTcyODM2/MC01Njk5LmpwZWc.jpeg" alt="Cover for Sodomy is Nigh" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a26cc94c2cfb423c509241403a5b571.png" alt="Cover for Sodomy is Nigh" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-08-28</td>
       <td>Hellsodomy</td>
@@ -1158,7 +1158,6 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1179,7 +1178,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 87</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1517,8 +1516,8 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 29</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 43</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 58</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1657,7 +1656,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 11</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1678,7 +1677,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 14</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1697,8 +1696,8 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 78</li>
-            <li> <a href="{{ "/tags/turkish-pop" | relative_url }}">turkish pop</a> # 90</li>
+            <li> <a href="{{ "/tags/turkish-pop" | relative_url }}">turkish pop</a> # 9</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1722,7 +1721,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a> # 24</li>
+            <li> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1872,6 +1871,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
     <tr>
       <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e270604560a3122d5cdb7750635658bf.png" alt="Cover for Misreporting the Arbitrary Condition" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Utopian Semantics</td>
@@ -1970,6 +1970,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
     <tr>
       <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/59dee956af71dc35c014ed1f3a433dfb.png" alt="Cover for Legacy" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Bestial Strike</td>
@@ -2123,6 +2124,7 @@ Turkish music encompasses a rich blend of traditional Ottoman, Anatolian folk, a
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/25253e02d34406b5a015d5eb182f1341.png" alt="Cover for In Revel of Seduce" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>In Revel of Seduce</td>

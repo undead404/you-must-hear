@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T06:41:46.659Z
+date: 2025-12-04T09:47:30.699Z
 permalink: tags/lds
 title: lds
 ---
 
 ## lds
 
-Last updated: <time datetime="2025-10-22T06:41:46.659Z">Wed Oct 22 2025 09:41:46 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T09:47:30.699Z">Thu Dec 04 2025 11:47:30 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -49,7 +49,7 @@ LDS refers to music created by or for members of The Church of Jesus Christ of L
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/7jEWh8pCyWthzHqLulobFKRDcBP26IKMTQLjwRb2eDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjky/MzYzLTE0OTQ3OTQw/MzItMTM3OC5qcGVn.jpeg" alt="Cover for Bow Me Down" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/97330194c3584335bb7680f74c9d02da.png" alt="Cover for Bow Me Down" style="max-width:120px; height:auto;" />
       </td>
       <td>1960</td>
       <td>Sam Payne</td>
@@ -140,9 +140,9 @@ LDS refers to music created by or for members of The Church of Jesus Christ of L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 63</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 80</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 89</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 11</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 21</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 64</li>
             <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 97</li>
         </ul>
       </td>
@@ -166,7 +166,7 @@ LDS refers to music created by or for members of The Church of Jesus Christ of L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 23</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -186,6 +186,7 @@ LDS refers to music created by or for members of The Church of Jesus Christ of L
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -229,7 +230,7 @@ LDS refers to music created by or for members of The Church of Jesus Christ of L
     <tr>
       <td>12</td>
       <td>
-          <img src="https://i.discogs.com/nvOIRuQ0AWPjamrWfNmC7HRGZjtCWZqAhojn9n7D074/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDk5/NDM2LTE1ODY2NzQz/MjAtNDY3NS5qcGVn.jpeg" alt="Cover for Songs About the Great Divide" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87d3c4b3e63cacc74985f3f3e8e5991f.png" alt="Cover for Songs About the Great Divide" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Peter Breinholt</td>
@@ -318,9 +319,9 @@ LDS refers to music created by or for members of The Church of Jesus Christ of L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 25</li>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 25</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 58</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 24</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 42</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -360,9 +361,9 @@ LDS refers to music created by or for members of The Church of Jesus Christ of L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 15</li>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 20</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 49</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 19</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 51</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -424,8 +425,8 @@ LDS refers to music created by or for members of The Church of Jesus Christ of L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 7</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 32</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 5</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 68</li>
             <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 88</li>
         </ul>
       </td>
@@ -480,7 +481,7 @@ LDS refers to music created by or for members of The Church of Jesus Christ of L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 40</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -605,7 +606,7 @@ LDS refers to music created by or for members of The Church of Jesus Christ of L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 73</li>
+            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1217,9 +1218,9 @@ LDS refers to music created by or for members of The Church of Jesus Christ of L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 67</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 82</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 91</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 9</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 19</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 68</li>
             <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 98</li>
         </ul>
       </td>
@@ -1403,9 +1404,9 @@ LDS refers to music created by or for members of The Church of Jesus Christ of L
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 2</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 2</li>
             <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 93</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 99</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1519,16 +1520,16 @@ LDS refers to music created by or for members of The Church of Jesus Christ of L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 86</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 97</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 97</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 4</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 4</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/6yf79UEfmIRtlZjYnmF91AA_KctlsMxwJV0VpYGvgEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk2/MjEyLTE1NDIxMTc3/NTgtOTk5NS5qcGVn.jpeg" alt="Cover for Primary Worship" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7df98c59206078c85c8d914ac118067e.png" alt="Cover for Primary Worship" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Paul Cardall</td>
@@ -1560,7 +1561,7 @@ LDS refers to music created by or for members of The Church of Jesus Christ of L
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a> # 44</li>
+            <li> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a> # 56</li>
         </ul>
       </td>
     </tr>

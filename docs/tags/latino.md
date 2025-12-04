@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T18:52:37.980Z
+date: 2025-12-04T09:49:12.321Z
 permalink: tags/latino
 title: latino
 ---
 
 ## latino
 
-Last updated: <time datetime="2025-11-23T18:52:37.980Z">Sun Nov 23 2025 20:52:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T09:49:12.321Z">Thu Dec 04 2025 11:49:12 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -85,7 +85,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/puerto-rico" | relative_url }}">puerto rico</a> # 79</li>
+            <li> <a href="{{ "/tags/puerto-rico" | relative_url }}">puerto rico</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -142,7 +142,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       <td>
         <ul>
             <li> <a href="{{ "/tags/mambo" | relative_url }}">mambo</a> # 5</li>
-            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 89</li>
+            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -170,10 +170,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 16</li>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 51</li>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 63</li>
-            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 85</li>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 16</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 37</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 49</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -216,8 +216,8 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 22</li>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 48</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 52</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -289,9 +289,9 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 7</li>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 42</li>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 62</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 38</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 58</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -317,10 +317,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 34</li>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 57</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 32</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 43</li>
             <li> <a href="{{ "/tags/peru" | relative_url }}">peru</a> # 65</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 69</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 66</li>
             <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 80</li>
         </ul>
       </td>
@@ -343,7 +343,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 8</li>
+            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -372,10 +372,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 14</li>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 46</li>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 61</li>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 77</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 24</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 39</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 54</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -409,13 +409,13 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 40</li>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 65</li>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 85</li>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 88</li>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 89</li>
-            <li> <a href="{{ "/tags/mariachi" | relative_url }}">mariachi</a> # 89</li>
-            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 92</li>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 9</li>
+            <li> <a href="{{ "/tags/mariachi" | relative_url }}">mariachi</a> # 12</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 12</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 13</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 16</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 35</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -476,8 +476,8 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 56</li>
-            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 94</li>
+            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 7</li>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -551,7 +551,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 20</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -570,7 +570,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 34</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -593,7 +593,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 16</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -614,7 +614,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 10</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -660,7 +660,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 68</li>
+            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -720,7 +720,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 1</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -805,7 +805,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 59</li>
+            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -826,8 +826,8 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 69</li>
-            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 98</li>
+            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 3</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -849,7 +849,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 68</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -884,7 +884,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 69</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -921,7 +921,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 2</li>
+            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -941,7 +941,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 77</li>
+            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -969,10 +969,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 25</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 27</li>
             <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 28</li>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 66</li>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 73</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 75</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 35</li>
             <li> <a href="{{ "/tags/peru" | relative_url }}">peru</a> # 87</li>
         </ul>
       </td>
@@ -1032,7 +1032,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 2</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1108,7 +1108,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 49</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1146,7 +1146,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bosta" | relative_url }}">bosta</a> # 67</li>
+            <li> <a href="{{ "/tags/bosta" | relative_url }}">bosta</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1183,7 +1183,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 10</li>
+            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1206,7 +1206,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 65</li>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 36</li>
             <li> <a href="{{ "/tags/haiti" | relative_url }}">haiti</a> # 98</li>
         </ul>
       </td>
@@ -1253,7 +1253,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 7</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1272,7 +1272,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 31</li>
+            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1319,10 +1319,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 15</li>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 47</li>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 62</li>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 78</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 23</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 38</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 53</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1364,8 +1364,8 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 72</li>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 82</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 18</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1401,7 +1401,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bosta" | relative_url }}">bosta</a> # 80</li>
+            <li> <a href="{{ "/tags/bosta" | relative_url }}">bosta</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1457,7 +1457,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 51</li>
+            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1478,7 +1478,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 45</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1501,7 +1501,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 37</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1542,8 +1542,8 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/bosta" | relative_url }}">bosta</a> # 1</li>
             <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 49</li>
-            <li> <a href="{{ "/tags/bosta" | relative_url }}">bosta</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1619,7 +1619,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 50</li>
+            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1640,7 +1640,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 56</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1666,8 +1666,8 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 76</li>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 95</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 6</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1727,7 +1727,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 52</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1794,8 +1794,8 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 43</li>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 63</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 37</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1818,7 +1818,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 95</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1922,7 +1922,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 77</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1982,7 +1982,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 92</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -2044,7 +2044,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 1</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -2071,10 +2071,10 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 3</li>
-            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 30</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 35</li>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 67</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 34</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 65</li>
+            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 71</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -2095,7 +2095,7 @@ Latino music encompasses diverse Spanish and Portuguese-language styles from Lat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 54</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 46</li>
         </ul>
       </td>
     </tr>

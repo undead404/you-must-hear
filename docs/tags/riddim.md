@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T06:46:14.031Z
+date: 2025-12-04T09:50:09.888Z
 permalink: tags/riddim
 title: riddim
 ---
 
 ## riddim
 
-Last updated: <time datetime="2025-10-22T06:46:14.031Z">Wed Oct 22 2025 09:46:14 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T09:50:09.888Z">Thu Dec 04 2025 11:50:09 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -81,7 +81,7 @@ Riddim is a minimalist, groove-focused subgenre of dubstep characterized by repe
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/C2jFKOWW8m3aUBKlqE3NPA_6d3m9Kar4Nk-sLEkveFQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzA5/NDQtMTQ2MTQ2OTA0/NC04ODcyLmpwZWc.jpeg" alt="Cover for The Gate" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a649845b22f9331770df91e719232ec.png" alt="Cover for The Gate" style="max-width:120px; height:auto;" />
       </td>
       <td>1973</td>
       <td>Neddie</td>
@@ -266,7 +266,7 @@ Riddim is a minimalist, groove-focused subgenre of dubstep characterized by repe
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Black Label XXL" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/24494e7b32090818df5ebc38087f70f2.png" alt="Cover for Black Label XXL" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Various Artists</td>
@@ -342,6 +342,7 @@ Riddim is a minimalist, groove-focused subgenre of dubstep characterized by repe
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6257de72d56342a38d960a2d181b0bf1.png" alt="Cover for Shitfuckers!!!" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-04-07</td>
       <td>Venetian Snares</td>
@@ -412,14 +413,14 @@ Riddim is a minimalist, groove-focused subgenre of dubstep characterized by repe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 44</li>
+            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/WBE17BVrKa6fpUOJCrYCCUqynsg_0EtZF3zSj8K_W4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzM5/LTExNTI4MDgxNTgu/anBlZw.jpeg" alt="Cover for Flight Paths" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8c8b0f49bbeecac2f5f42b1a95e3574.png" alt="Cover for Flight Paths" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Mina</td>
@@ -493,7 +494,7 @@ Riddim is a minimalist, groove-focused subgenre of dubstep characterized by repe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 77</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -518,7 +519,7 @@ Riddim is a minimalist, groove-focused subgenre of dubstep characterized by repe
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/JDRDB00aFcbEAlCTf3D3n9iNmaHPRABdeGeEZ5v8NE0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjUz/MC0xMTc0OTM1ODEz/LmpwZWc.jpeg" alt="Cover for CRISIS VISION" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eea56445c58298deb24fee9928d325ef.png" alt="Cover for CRISIS VISION" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-25</td>
       <td>MUST DIE!</td>
@@ -532,15 +533,15 @@ Riddim is a minimalist, groove-focused subgenre of dubstep characterized by repe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 52</li>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 78</li>
+            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 49</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/UKnyIhLjRb_IUz6Enc-vSJiYta2qD7ozprFIa9FMI3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODgy/MjM4LTE1MjU0MTE1/MDYtNTkxMC5qcGVn.jpeg" alt="Cover for MUSIC 2 PAINT 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/389e01ca8cc33ab5dff1d0b4bbc78768.png" alt="Cover for MUSIC 2 PAINT 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10</td>
       <td>Pyke</td>
@@ -560,6 +561,7 @@ Riddim is a minimalist, groove-focused subgenre of dubstep characterized by repe
     <tr>
       <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db6d89ac6f26d1afd546a5dadd2e488e.png" alt="Cover for Without God: Season Eleven" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Various Artists</td>
@@ -657,8 +659,8 @@ Riddim is a minimalist, groove-focused subgenre of dubstep characterized by repe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 26</li>
-            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 30</li>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 29</li>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -745,7 +747,7 @@ Riddim is a minimalist, groove-focused subgenre of dubstep characterized by repe
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/rkcItQp8i2BnjOYyunohqek9vbPywe3zGdbIZAJfmfI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4OTIw/MDktMTQ1MTA3NTk2/Ni0xMzQ1LmpwZWc.jpeg" alt="Cover for Egregore EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed50d5a2366f9b49bb23d7e0590447af.png" alt="Cover for Egregore EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-11-25</td>
       <td>Eugene</td>
@@ -765,7 +767,7 @@ Riddim is a minimalist, groove-focused subgenre of dubstep characterized by repe
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/kvPudrVP6uEu1LDFJRLYyPqAtNA4WidSbKIuHT8fbPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTQ0/MjUtMTQ3NDY3NTAz/NC02MzI0LmpwZWc.jpeg" alt="Cover for WTF VIP + Remixes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b1520170b98ed2cd0af6fbf0e4c03eb.png" alt="Cover for WTF VIP + Remixes" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-09-23</td>
       <td>heRobust</td>
@@ -780,14 +782,14 @@ Riddim is a minimalist, groove-focused subgenre of dubstep characterized by repe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 58</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/k8zwEoVsmBuStnCZEnhMuq_X_9Q37oTVbqA0N-knV98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjk2/NTY3LTE0OTQ4NTQ3/OTItOTM5NC5qcGVn.jpeg" alt="Cover for The Noodle Effect" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbc12036631d7b30e5541bd068369f35.png" alt="Cover for The Noodle Effect" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-05</td>
       <td>Spag Heddy</td>
@@ -884,14 +886,14 @@ Riddim is a minimalist, groove-focused subgenre of dubstep characterized by repe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 18</li>
+            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/ZSCEmxhzMfn1ivonL9C8OjF5eyugsEXsNb6_zoLGsww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODk3/NDg5LTE1NjM1NzAy/MjEtNjA5MC5qcGVn.jpeg" alt="Cover for Bittersweet EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba3ce5b43e4b80065189889d202385f7.png" alt="Cover for Bittersweet EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-12-15</td>
       <td>Clockvice</td>
@@ -973,7 +975,7 @@ Riddim is a minimalist, groove-focused subgenre of dubstep characterized by repe
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/78mQZ5gUvkPQsrzllysZuIrfGjeluPImDrzMpLJlwbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzk2/ODcyLTE1MzQ0Mzky/OTgtMTE0MS5qcGVn.jpeg" alt="Cover for Odyssey" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2aac5dfba418928e7b63a7722e96426.png" alt="Cover for Odyssey" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-08-12</td>
       <td>Barely Alive</td>
@@ -993,9 +995,9 @@ Riddim is a minimalist, groove-focused subgenre of dubstep characterized by repe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 46</li>
-            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 69</li>
-            <li> <a href="{{ "/tags/jump-up" | relative_url }}">jump up</a> # 89</li>
+            <li> <a href="{{ "/tags/jump-up" | relative_url }}">jump up</a> # 11</li>
+            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 32</li>
+            <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1016,7 +1018,7 @@ Riddim is a minimalist, groove-focused subgenre of dubstep characterized by repe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 96</li>
+            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1038,7 +1040,7 @@ Riddim is a minimalist, groove-focused subgenre of dubstep characterized by repe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jump-up" | relative_url }}">jump up</a> # 6</li>
+            <li> <a href="{{ "/tags/jump-up" | relative_url }}">jump up</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1177,7 +1179,7 @@ Riddim is a minimalist, groove-focused subgenre of dubstep characterized by repe
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/EL55Vm0u6whA8rRLvJNPR3FABbZcfwUaAlY2RNEfim4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzYx/OTg4LTE1NTI3Njg3/OTctMzM1My5qcGVn.jpeg" alt="Cover for Goofball EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f256d0cc33536dffea374e92425f6e7d.png" alt="Cover for Goofball EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-03-15</td>
       <td>Moody Good</td>
@@ -1192,7 +1194,7 @@ Riddim is a minimalist, groove-focused subgenre of dubstep characterized by repe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 44</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1256,7 +1258,7 @@ Riddim is a minimalist, groove-focused subgenre of dubstep characterized by repe
     <tr>
       <td>6</td>
       <td>
-          <img src="https://i.discogs.com/RRGwqXC3OC8rvz8H48yXr9zbcPfs6IAEyq7KtRC3zFQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTg1/Mzc5LTE1Njk0NTQ2/MDMtODE4NS5qcGVn.jpeg" alt="Cover for Save Yourself" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/207530d34826201e8eed8d80074324b0.png" alt="Cover for Save Yourself" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-09-25</td>
       <td>Virtual Riot</td>
@@ -1327,7 +1329,7 @@ Riddim is a minimalist, groove-focused subgenre of dubstep characterized by repe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jump-up" | relative_url }}">jump up</a> # 96</li>
+            <li> <a href="{{ "/tags/jump-up" | relative_url }}">jump up</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1424,7 +1426,7 @@ Riddim is a minimalist, groove-focused subgenre of dubstep characterized by repe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 83</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1503,7 +1505,7 @@ Riddim is a minimalist, groove-focused subgenre of dubstep characterized by repe
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/qH_sKEFlxRCEQLO0Stg8DTblAzyCIxAp03bVsoLmcG0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODAy/MTk0LTE2OTA1MTE1/NjEtMjY5MS5qcGVn.jpeg" alt="Cover for false &#x2F; youth" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/817f4da4add191e9e204ddcc915facad.png" alt="Cover for false &#x2F; youth" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-07-22</td>
       <td>if found</td>
@@ -1524,7 +1526,7 @@ Riddim is a minimalist, groove-focused subgenre of dubstep characterized by repe
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/HrkvGNZO7yaiCz4xryVMb9rJz5Vlq035hg7aEKyr93U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzg3/MTgzLTE2MjEzOTM0/MzctMjUyOS5qcGVn.jpeg" alt="Cover for Drop Out EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d33be8fbbf618d356697eb72041943b.png" alt="Cover for Drop Out EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-16</td>
       <td>Kozmoz</td>
@@ -1608,6 +1610,7 @@ Riddim is a minimalist, groove-focused subgenre of dubstep characterized by repe
     <tr>
       <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0373bac521c1ac3a1ec7673fb062cb04.png" alt="Cover for Float!" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Auvie Sinclair</td>
@@ -1629,13 +1632,14 @@ Riddim is a minimalist, groove-focused subgenre of dubstep characterized by repe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 6</li>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bae86e14cea5343726b2af9f7c697ce2.png" alt="Cover for Hold On EP (Remixes)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Amerzone</td>
@@ -1672,8 +1676,8 @@ Riddim is a minimalist, groove-focused subgenre of dubstep characterized by repe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 30</li>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 60</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 36</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1799,6 +1803,7 @@ Riddim is a minimalist, groove-focused subgenre of dubstep characterized by repe
     <tr>
       <td>27</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/08ffeb2ab36acd8af999532f789d18f8.png" alt="Cover for Exordium Vol. 2" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Outsize Records</td>
@@ -1863,6 +1868,7 @@ Riddim is a minimalist, groove-focused subgenre of dubstep characterized by repe
     <tr>
       <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4a94c5e9589d89f198ee23f656acf05.png" alt="Cover for Revolving Eclipse EP" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Daeya</td>
@@ -1918,6 +1924,7 @@ Riddim is a minimalist, groove-focused subgenre of dubstep characterized by repe
     <tr>
       <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/be4fcc63a33f92f60dc268218bd7b4d2.png" alt="Cover for Aether Plane" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Daeya</td>
@@ -1973,6 +1980,7 @@ Riddim is a minimalist, groove-focused subgenre of dubstep characterized by repe
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f26106aca558b4668abd9517f9a1e6d4.png" alt="Cover for ASCENSION RITE" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Marauda</td>
@@ -1992,6 +2000,7 @@ Riddim is a minimalist, groove-focused subgenre of dubstep characterized by repe
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d12dd90036f737d13ec6f2841357e17.png" alt="Cover for VOYD Vol. I" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>SVDDEN DEATH</td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T17:39:50.987Z
+date: 2025-12-04T10:42:45.892Z
 permalink: tags/latvian
 title: latvian
 ---
 
 ## latvian
 
-Last updated: <time datetime="2025-11-03T17:39:50.987Z">Mon Nov 03 2025 19:39:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T10:42:45.892Z">Thu Dec 04 2025 12:42:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -49,6 +49,7 @@ Latvian music encompasses the diverse musical output from Latvia, blending Balti
     <tr>
       <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/39a6df3fafc1488bb6513ef386a15b2a.png" alt="Cover for Vienmēr Klusi" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Dzeltenie Pastnieki</td>
@@ -86,6 +87,7 @@ Latvian music encompasses the diverse musical output from Latvia, blending Balti
     <tr>
       <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/81c9ad80a99540759561344dbc48ed4c.png" alt="Cover for Mirušās kaijas" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Dzelzs Vilks</td>
@@ -139,6 +141,7 @@ Latvian music encompasses the diverse musical output from Latvia, blending Balti
     <tr>
       <td>64</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/60dc2cf218dc42ec979e86bc1f2e3f72.png" alt="Cover for Cik dīvaini" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Baložu Pilni Pagalmi</td>
@@ -194,7 +197,7 @@ Latvian music encompasses the diverse musical output from Latvia, blending Balti
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/gxxnJhTvrDwRaJFEC0mxB7g2BITdlCbM4tLx14lhPq8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMTc3/OTUtMTQzODg2MzE4/OS0yNjU2LmpwZWc.jpeg" alt="Cover for 7 Steps of Fresh Air" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/444bef040253377d8604e2a0f5f8f030.png" alt="Cover for 7 Steps of Fresh Air" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-10-22</td>
       <td>Brainstorm</td>
@@ -257,7 +260,7 @@ Latvian music encompasses the diverse musical output from Latvia, blending Balti
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/Ty_yTHzIroIXlZK_9ZVvc-9r4bsV5FCiAcCn6tHNG6o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzA4/MDQtMTM1OTU1MzQ0/NC0yODY0LmpwZWc.jpeg" alt="Cover for Disco Alliance&#x2F;Music In Universe" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a0a2f1c161e7fa48737690f72799245.png" alt="Cover for Disco Alliance&#x2F;Music In Universe" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Zodiac</td>
@@ -630,10 +633,10 @@ Latvian music encompasses the diverse musical output from Latvia, blending Balti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 67</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 75</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 90</li>
-            <li> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a> # 91</li>
+            <li> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a> # 10</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 11</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 26</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -675,7 +678,7 @@ Latvian music encompasses the diverse musical output from Latvia, blending Balti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 66</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -737,7 +740,7 @@ Latvian music encompasses the diverse musical output from Latvia, blending Balti
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/obHQ2Scnfwr7jigk8Nf_vPETjcjcS0v93kNFzvQ_tSQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODc5/MTcwLTE1NjMxODk2/NzUtOTgyMy5qcGVn.jpeg" alt="Cover for SPAM" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dee8b43c18dc96fea98e4961eaaf94b2.png" alt="Cover for SPAM" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Mega</td>
@@ -800,6 +803,7 @@ Latvian music encompasses the diverse musical output from Latvia, blending Balti
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4286fbd5c2541e4886bb2c0d8a2fa5f.png" alt="Cover for Portraits Noires" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10-01</td>
       <td>Solaris</td>
@@ -839,7 +843,7 @@ Latvian music encompasses the diverse musical output from Latvia, blending Balti
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/ismbdrjkkcJk9mjW5BOmFSC5-ebsSf3r8ZkAkz49uPU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjk4/OTE3LTE1MjA4NjQx/NDgtODU4OC5qcGVn.jpeg" alt="Cover for Kas tas ir - PND?" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d494fd7c18f050512f35024c58bb5391.png" alt="Cover for Kas tas ir - PND?" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>PND</td>
@@ -1009,7 +1013,7 @@ Latvian music encompasses the diverse musical output from Latvia, blending Balti
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/TSGwhDHjtYEzjub0pccPUwug3rEQ0WwdnbXlnKTP9MQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njkz/MTcwLTE1OTYwMzAw/MTMtNTI1NC5qcGVn.jpeg" alt="Cover for Cryophobia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1dd0e869e4244fe0b13ed661d044a03a.png" alt="Cover for Cryophobia" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-04</td>
       <td>Preternatural</td>
@@ -1025,7 +1029,7 @@ Latvian music encompasses the diverse musical output from Latvia, blending Balti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a> # 14</li>
+            <li> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1177,7 +1181,7 @@ Latvian music encompasses the diverse musical output from Latvia, blending Balti
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/4Vx3ZoDagjm1YNlFGDofsHvlPVuw5j3ntDjwAah2zCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NTA1/NTAtMTQyODQ4NDkw/NS03OTQzLmpwZWc.jpeg" alt="Cover for Mikrorajoni" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/66248afd892b48fca7d66c989d7fe64b.png" alt="Cover for Mikrorajoni" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>V.S.K.B.</td>
@@ -1197,6 +1201,7 @@ Latvian music encompasses the diverse musical output from Latvia, blending Balti
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e229145559b4422a7eff5209d24fcbc.png" alt="Cover for Hierophanies" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-01-25</td>
       <td>Eschatos</td>
@@ -1220,7 +1225,7 @@ Latvian music encompasses the diverse musical output from Latvia, blending Balti
     <tr>
       <td>13</td>
       <td>
-          <img src="https://i.discogs.com/XbMhnYYUemoybCqY9HCrS3VJIhjHpsihzm_ZS9whXwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMzc5/NDgtMTM4ODQwOTU2/OS0yMjg2LmpwZWc.jpeg" alt="Cover for Distance" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd10bca628104316835a39703f2c66a8.png" alt="Cover for Distance" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-11-28</td>
       <td>Starmetis</td>
@@ -1241,8 +1246,8 @@ Latvian music encompasses the diverse musical output from Latvia, blending Balti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 2</li>
             <li> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a> # 70</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1286,7 +1291,7 @@ Latvian music encompasses the diverse musical output from Latvia, blending Balti
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/_GRSjzR4YJ9WIT41I5uY0GKH_KZUvLKBd0xRi8bUSwQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA2/NDgzLTE1NjUxOTU0/MzItODEzNy5qcGVn.jpeg" alt="Cover for Ballejam Negulam" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7b8b96fdac0acca58be233b8426c058.png" alt="Cover for Ballejam Negulam" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-10-15</td>
       <td>Bermudu Divstūris</td>
@@ -1321,14 +1326,14 @@ Latvian music encompasses the diverse musical output from Latvia, blending Balti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 32</li>
+            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/MavF2pj3xmdLLscEm9hzmaS8opr6-5tZvRZimyV9GWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTY1/MTktMTQ5MzE1OTk0/Ni0yNTA5LmpwZWc.jpeg" alt="Cover for Māsa" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5248894aa6a5a0b31c46a3388b14177.png" alt="Cover for Māsa" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-07-13</td>
       <td>Anna Kijevā</td>
@@ -1366,7 +1371,7 @@ Latvian music encompasses the diverse musical output from Latvia, blending Balti
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/JfvTpeoviuHfUST3sqROWlANbDbe0nEbELFTrVFkklI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NTY4/MzctMTQ4MjcwMjEw/Ny05OTgyLmpwZWc.jpeg" alt="Cover for Kā samierināties ar savu nenozīmību" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6461ab4fd3480024dd8bd6b646215636.png" alt="Cover for Kā samierināties ar savu nenozīmību" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-06-16</td>
       <td>Juris Simanovičs</td>
@@ -1477,7 +1482,7 @@ Latvian music encompasses the diverse musical output from Latvia, blending Balti
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/pgYEb6ODZVPRB9U-fYHs1-EyNhP_1HtW2m2mfIYlYCg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ2/MTM2LTE1MTk5ODIw/MDktNzEzNi5qcGVn.jpeg" alt="Cover for Mīlēt var tikai cilvēkus" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/252c6de064d7f5d5de78c1fc531d5693.png" alt="Cover for Mīlēt var tikai cilvēkus" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-07-24</td>
       <td>Nova Koma</td>
@@ -1496,7 +1501,7 @@ Latvian music encompasses the diverse musical output from Latvia, blending Balti
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/Gqj1ghm1skHNVsQ4am8SCDjjOs_vzkR77vx3NPzr-L4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzY1/NzY2LTE1MDM5MjY5/NzUtMTAyMi5qcGVn.jpeg" alt="Cover for Workshop For The Restoration Of Unfelt Feelings" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/113399cd5e4ece37a6deaae6a2f3d627.png" alt="Cover for Workshop For The Restoration Of Unfelt Feelings" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-10-16</td>
       <td>NSRD</td>
@@ -1516,7 +1521,7 @@ Latvian music encompasses the diverse musical output from Latvia, blending Balti
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/dqCzsrE41JOb1XdFH4wLiCFljUz18X9kWT6OCoOsPQw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTEz/NDQ3LTE1MzM1OTk1/OTAtMzI2OC5qcGVn.jpeg" alt="Cover for Spoki" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4dbcea735b6b6be33e0437cd6eabafdb.png" alt="Cover for Spoki" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-08-06</td>
       <td>Ingus Baušķenieks</td>
@@ -1572,7 +1577,7 @@ Latvian music encompasses the diverse musical output from Latvia, blending Balti
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/xeXkCZjgz0D3oA91JdF5ydKZBGY7tnA3BOjwOYsWCEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njc4/NzY1LTE1OTU3Njgz/NDItMjM3MS5qcGVn.jpeg" alt="Cover for The Glass Mind of a Recluse" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a275177d81860de2880be71b0d33b1e.png" alt="Cover for The Glass Mind of a Recluse" style="max-width:120px; height:auto;" />
       </td>
       <td>2020</td>
       <td>Eremos</td>
@@ -1724,6 +1729,7 @@ Latvian music encompasses the diverse musical output from Latvia, blending Balti
     <tr>
       <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/03dc040c436a4ee09bc2952a0ab0e0a1.png" alt="Cover for Beginnings EP" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Mascaron</td>
@@ -1857,6 +1863,7 @@ Latvian music encompasses the diverse musical output from Latvia, blending Balti
     <tr>
       <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/55ac3bc6549961ecbef844101ac4f675.png" alt="Cover for 8 for infinity" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>0A:8F</td>
@@ -1913,6 +1920,7 @@ Latvian music encompasses the diverse musical output from Latvia, blending Balti
     <tr>
       <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4eac25d87561dd68431c80e594e48c71.png" alt="Cover for Banda" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>NEW WAVY</td>

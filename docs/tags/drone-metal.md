@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T08:06:00.920Z
+date: 2025-12-04T10:42:51.387Z
 permalink: tags/drone-metal
 title: drone metal
 ---
 
 ## drone metal
 
-Last updated: <time datetime="2025-11-18T08:06:00.920Z">Tue Nov 18 2025 10:06:00 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T10:42:51.387Z">Thu Dec 04 2025 12:42:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -80,7 +80,7 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 13</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -99,14 +99,14 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 42</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/FRzqO41I5m3QopkMFDIOpo8MpUqWWirkuZdA9Yy1iKs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njc0/NzktMTMzNTU5Mzg1/My5qcGVn.jpeg" alt="Cover for Jerusalem" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/56b97337b214445cc44cdf81e7fcde89.png" alt="Cover for Jerusalem" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Sleep</td>
@@ -120,11 +120,11 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 2</li>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 3</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 12</li>
             <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 83</li>
             <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 87</li>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 88</li>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 97</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -142,13 +142,14 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 77</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1134048313ffd8a83f1807d15ab5085.png" alt="Cover for Amplifier Worship" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-11-25</td>
       <td>Boris</td>
@@ -162,16 +163,16 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 14</li>
+            <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 44</li>
             <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 48</li>
-            <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 57</li>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/2Sd47UcJo7bAc3K8rwW7HA0hq_j75PJagIofMbP6Mhw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNjA4/NC0xMzAyNzMxODUy/LmpwZWc.jpeg" alt="Cover for Earth 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e2055eeec9542abbf06de0753dab58a.png" alt="Cover for Earth 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Earth</td>
@@ -184,14 +185,14 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 83</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>21</td>
       <td>
-          <img src="https://i.discogs.com/IegSdh6qQ2SYBrWF_uq_OVw7gN4xEfiwx_1mxTg3OwM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzEx/NTEtMTI5NDEyMTM4/MS5qcGVn.jpeg" alt="Cover for Bad Reputation" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6db2d147c10359c2392cd007471609d1.png" alt="Cover for Bad Reputation" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Kid Rock</td>
@@ -259,29 +260,29 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       <td>
         <ul>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 2</li>
-            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 3</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 9</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 8</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 12</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 14</li>
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 18</li>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 35</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 36</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 37</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 37</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 39</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 43</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 49</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 53</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 39</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 39</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 41</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 41</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 46</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 51</li>
             <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 57</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 60</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 61</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 62</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 58</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 62</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 62</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 64</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 66</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 81</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 83</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 87</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 87</li>
             <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 88</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 89</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 93</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 94</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -318,7 +319,7 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 63</li>
+            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -337,7 +338,7 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 69</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -356,7 +357,7 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 31</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -375,8 +376,8 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 8</li>
-            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 44</li>
+            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 73</li>
+            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -395,15 +396,15 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 49</li>
-            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 88</li>
+            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 12</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/KVV97LvwtxoGR59hX6HBJ0Nej2bB58qKzoIMtBRXg4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4OTc3/OC0xNTYwNDM4Mzg1/LTEyMDAuanBlZw.jpeg" alt="Cover for Body of Light" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5bcc802d5aeb7b43187fd053c6db3f56.png" alt="Cover for Body of Light" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-08-26</td>
       <td>Halo</td>
@@ -457,7 +458,7 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 65</li>
+            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -476,30 +477,26 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/57fad80eaaa2f94ec88a206baf100126.png" alt="Cover for Boris at Last - Feedbacker" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-12-25</td>
       <td>Boris</td>
       <td>Boris at Last - Feedbacker</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 44</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 46</li>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 96</li>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 99</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 8</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -519,7 +516,7 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 37</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -539,8 +536,9 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 55</li>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 67</li>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 29</li>
+            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 44</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -563,7 +561,7 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 90</li>
+            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -583,7 +581,7 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 60</li>
+            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -637,7 +635,7 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 88</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -698,6 +696,7 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c731259c3db683a547d2141615f36990.png" alt="Cover for Dowsing Anemone With Copper Tongue" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-01-10</td>
       <td>Kayo Dot</td>
@@ -712,8 +711,8 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 41</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 57</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 52</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -734,7 +733,7 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 91</li>
+            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -759,6 +758,7 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
     <tr>
       <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79411ce3b8c893f351c41619805d1a53.png" alt="Cover for Altar" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-10-31</td>
       <td>Sunn O))) &amp; Boris</td>
@@ -770,7 +770,7 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 68</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -826,7 +826,7 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 24</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -862,8 +862,8 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 37</li>
-            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 87</li>
+            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 52</li>
+            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -916,7 +916,6 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rac" | relative_url }}">rac</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a></li>
@@ -933,32 +932,31 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 10</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 7</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 8</li>
+            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 10</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 11</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 14</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 18</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 24</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 25</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 29</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 30</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 33</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 34</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 33</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 33</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 38</li>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 39</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 41</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 51</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 53</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 48</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 50</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 59</li>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 65</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 68</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 69</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 61</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 67</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 70</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 72</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 75</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 77</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 78</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 80</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 79</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 81</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 82</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 83</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 87</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 90</li>
-            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 91</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 93</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 94</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 88</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 96</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 97</li>
         </ul>
@@ -979,8 +977,8 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 2</li>
-            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 17</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 81</li>
+            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1062,7 +1060,7 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 21</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1102,7 +1100,7 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 96</li>
+            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1120,6 +1118,7 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1165,6 +1164,7 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
     <tr>
       <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ff7ec6e3c146968f1cc66d222882e66.png" alt="Cover for Clean Hands Go Foul" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01-09</td>
       <td>Khanate</td>
@@ -1178,6 +1178,7 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1198,7 +1199,7 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 95</li>
+            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1234,14 +1235,14 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 85</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>62</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bcc85607e50a48cdc8a979d5ca739096.png" alt="Cover for Monoliths and dimensions" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbb43f1097084840a9b7727971719ad5.png" alt="Cover for Monoliths and dimensions" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-26</td>
       <td>Sunn O)))</td>
@@ -1278,15 +1279,15 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
     <tr>
       <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3ea64241cee4d818cdf295023d6ed13.png" alt="Cover for Disconnected" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-07-24</td>
       <td>Greymachine</td>
       <td>Disconnected</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
-            <li style="font-size: calc(1rem * 88 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
-            <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a></li>
+            <li style="font-size: calc(1rem * 65.47619047619048 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
         </ul>
       </td>
       <td>
@@ -1318,6 +1319,7 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
     <tr>
       <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca13a17eadf0be3282bc8881c0580ee2.png" alt="Cover for All the Dread Magnificence of Perversity" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-08</td>
       <td>Gnaw Their Tongues</td>
@@ -1330,7 +1332,7 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 95</li>
+            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1354,32 +1356,31 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 2</li>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 6</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 16</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 19</li>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 44</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 8</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 9</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 11</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 15</li>
+            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 15</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 16</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 19</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 25</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 33</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 37</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 46</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 46</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 47</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 53</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 53</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 54</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 54</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 61</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 64</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 68</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 68</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 68</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 69</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 69</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 69</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 74</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 77</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 79</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 85</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 86</li>
-            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 86</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 83</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 85</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 86</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 90</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 91</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 92</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1454,7 +1455,6 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
@@ -1476,37 +1476,38 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 2</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 3</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 8</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 9</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 16</li>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 28</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 10</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 12</li>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 14</li>
+            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 16</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 16</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 27</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 30</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 30</li>
+            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 32</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 35</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 38</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 40</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 42</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 44</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 48</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 48</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 51</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 53</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 58</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 62</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 62</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 47</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 53</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 53</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 54</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 54</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 55</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 63</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 65</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 66</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 66</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 67</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 72</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 75</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 81</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 83</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 83</li>
-            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 85</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 85</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 86</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 87</li>
-            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 87</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 89</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 91</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 92</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1525,9 +1526,9 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 5</li>
+            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 10</li>
             <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 44</li>
-            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 91</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 93</li>
             <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 94</li>
         </ul>
       </td>
@@ -1565,29 +1566,28 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 23</li>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 28</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 37</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 15</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 18</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 19</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 22</li>
+            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 25</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 26</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 28</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 29</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 37</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 39</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 46</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 42</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 49</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 50</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 52</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 51</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 52</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 56</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 53</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 57</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 62</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 63</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 66</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 73</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 75</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 75</li>
-            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 76</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 79</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 76</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 79</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 81</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 83</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 83</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1717,6 +1717,7 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1814,7 +1815,7 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
     <tr>
       <td>15</td>
       <td>
-          <img src="https://i.discogs.com/g-W5VTgYhL6nOKdMn7rk29z1Is8iREEDZBUrpbw_e_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODQ0/MDgtMTYwNDUxODYx/MS04MjYxLmpwZWc.jpeg" alt="Cover for Reflection of the Negative" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6abed757cedd4ba582e2173d2576b1a7.png" alt="Cover for Reflection of the Negative" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-16</td>
       <td>Cough, Windhand</td>
@@ -1846,7 +1847,7 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       <td>
         <ul>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 6</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 68</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1918,8 +1919,8 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 10</li>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 45</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 54</li>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1957,7 +1958,7 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 21</li>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -2039,60 +2040,62 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       <td>
         <ul>
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 4</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 4</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 4</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 4</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 4</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 5</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 5</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 5</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 6</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 24</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 5</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 5</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 6</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 6</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 6</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 6</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 6</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 6</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 7</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 7</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 8</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 11</li>
+            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 11</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 14</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 15</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 15</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 15</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 15</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 21</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 22</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 25</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 39</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 48</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 49</li>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 66</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 67</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 29</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 31</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 33</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 50</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 59</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 63</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 72</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 73</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 75</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 80</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 74</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 83</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 83</li>
-            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 85</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 86</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 86</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 87</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 90</li>
-            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 90</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 87</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 91</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 92</li>
             <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 92</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 92</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 92</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 92</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 93</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 93</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 93</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 93</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 94</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 94</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 94</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 94</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 95</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 95</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 95</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 95</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 95</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 96</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 96</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 96</li>
-            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 96</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 96</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 96</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 96</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 97</li>
+            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 96</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 96</li>
             <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 97</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 97</li>
             <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 97</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 97</li>
             <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 97</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -2111,8 +2114,8 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 33</li>
-            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 96</li>
+            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 4</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -2171,9 +2174,9 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 31</li>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 88</li>
-            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 91</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 7</li>
+            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 9</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -2309,68 +2312,69 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 2</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 2</li>
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 2</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 2</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 2</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 2</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 2</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 3</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 3</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 3</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 3</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 3</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 3</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 3</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 3</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 4</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 4</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 4</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 4</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 5</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 5</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 6</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 14</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 20</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 28</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 28</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 42</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 44</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 51</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 67</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 72</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 72</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 78</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 7</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 7</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 7</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 8</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 9</li>
+            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 9</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 11</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 11</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 14</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 17</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 20</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 20</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 21</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 26</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 36</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 43</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 45</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 47</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 47</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 48</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 79</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 80</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 80</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 87</li>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 87</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 79</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 81</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 85</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 88</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 90</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 90</li>
             <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 90</li>
-            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 92</li>
-            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 92</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 93</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 94</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 94</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 94</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 95</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 95</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 96</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 96</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 96</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 96</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 96</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 97</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 97</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 96</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 96</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 96</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 97</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 97</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 98</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 98</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 98</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 98</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 98</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 99</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 99</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 99</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 99</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 98</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 98</li>
             <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 99</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 99</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 99</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 99</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 99</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 99</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 99</li>
             <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 99</li>
         </ul>
       </td>
@@ -2378,7 +2382,7 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
     <tr>
       <td>12</td>
       <td>
-          <img src="https://i.discogs.com/Uki_VlOfaFAQGgZ_woiP8Q-jhl5Y9zIfxGVPzHMXZ9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTE1/NTYxLTE1NDQ0NDcw/ODQtNjA5OC5qcGVn.jpeg" alt="Cover for Somme" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad7334b9f41b2b915985b9f2d46a3a94.png" alt="Cover for Somme" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-04-08</td>
       <td>Somme</td>
@@ -2514,62 +2518,67 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       <td>
         <ul>
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 3</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 3</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 3</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 3</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 3</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 4</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 4</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 4</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 5</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 17</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 4</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 4</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 4</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 4</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 4</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 5</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 5</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 5</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 5</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 5</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 6</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 6</li>
+            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 10</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 10</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 11</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 12</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 12</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 12</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 13</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 13</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 18</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 19</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 21</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 38</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 46</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 56</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 58</li>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 72</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 72</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 24</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 28</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 43</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 44</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 51</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 71</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 72</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 73</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 79</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 74</li>
             <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 82</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 83</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 84</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 85</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 88</li>
-            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 88</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 89</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 90</li>
-            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 91</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 91</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 87</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 87</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 92</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 92</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 92</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 93</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 93</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 93</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 94</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 94</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 94</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 94</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 94</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 95</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 95</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 95</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 96</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 96</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 96</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 96</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 96</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 97</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 97</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 97</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 95</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 97</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 97</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 97</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 98</li>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 98</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 98</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 98</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 98</li>
             <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 98</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -2595,7 +2604,7 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/kh3JEgxmBR8AWj4YIMxxBlOK1Wq4d-VtvDckDc3aWQ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTE2/ODUzLTE2OTMzNTIx/NDktODkwMS5qcGVn.jpeg" alt="Cover for Outskirts" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ac4600ccdaa802e6b0d2dd82464f666.png" alt="Cover for Outskirts" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-03-10</td>
       <td>Sam Hunt</td>
@@ -2672,79 +2681,79 @@ Drone metal is an extreme subgenre that emphasizes sustained, heavily distorted 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 1</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 1</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 1</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 1</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 1</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 1</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 1</li>
             <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 1</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 1</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 1</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 1</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 1</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 1</li>
             <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 2</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 2</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 2</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 2</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 2</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 3</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 3</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 3</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 3</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 3</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 25</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 46</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 46</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 55</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 55</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 61</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 66</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 72</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 4</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 4</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 4</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 4</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 5</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 5</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 6</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 6</li>
+            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 7</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 9</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 11</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 13</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 16</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 16</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 22</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 25</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 28</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 30</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 31</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 52</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 60</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 62</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 80</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 83</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 83</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 84</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 85</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 89</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 89</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 90</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 90</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 92</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 92</li>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 93</li>
-            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 94</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 95</li>
-            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 95</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 89</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 94</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 95</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 96</li>
             <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 96</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 97</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 97</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 97</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 97</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 98</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 98</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 98</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 98</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 97</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 98</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 98</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 99</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 99</li>
             <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 99</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 99</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 100</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 100</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 100</li>
             <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 100</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 100</li>
             <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 100</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 100</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 100</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 100</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 100</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 100</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 100</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 100</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 100</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 100</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/Fce7K3bf05qdraqSYgHqNvu77qd1GER7Qx8klOoQh7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTIz/MTU2LTE2ODQ0ODA3/OTUtMjUwOS5qcGVn.jpeg" alt="Cover for To Be Cruel" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2fc6a07708da4ffcfdb55cd2d02e3d03.png" alt="Cover for To Be Cruel" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-06-30</td>
       <td>Khanate</td>

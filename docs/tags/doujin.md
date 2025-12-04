@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T06:40:50.364Z
+date: 2025-12-04T09:47:18.107Z
 permalink: tags/doujin
 title: doujin
 ---
 
 ## doujin
 
-Last updated: <time datetime="2025-10-22T06:40:50.364Z">Wed Oct 22 2025 09:40:50 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T09:47:18.107Z">Thu Dec 04 2025 11:47:18 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -79,9 +79,9 @@ Doujin refers to self-published or independent music originating from Japan&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 28</li>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 55</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 73</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 28</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 47</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 71</li>
             <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 94</li>
             <li> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a> # 94</li>
         </ul>
@@ -122,11 +122,11 @@ Doujin refers to self-published or independent music originating from Japan&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 26</li>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 81</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 89</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 90</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 93</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 8</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 10</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 12</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 19</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 30</li>
             <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 98</li>
             <li> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a> # 100</li>
         </ul>
@@ -240,7 +240,7 @@ Doujin refers to self-published or independent music originating from Japan&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 21</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 78</li>
             <li> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a> # 92</li>
         </ul>
       </td>
@@ -265,7 +265,7 @@ Doujin refers to self-published or independent music originating from Japan&#39;
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/snMh1n-cn82uFJjBIVPVjnJWMvTk89T0l3xzvSNd6Zo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTQy/NjI5LTE2MTA3MzI3/NTUtNDc4MS5qcGVn.jpeg" alt="Cover for 聖戦のイベリア" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1af49a6f35924e75cea6a5ece4ed92e0.png" alt="Cover for 聖戦のイベリア" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-08-01</td>
       <td>Sound Horizon</td>
@@ -283,7 +283,7 @@ Doujin refers to self-published or independent music originating from Japan&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 82</li>
+            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -488,8 +488,8 @@ Doujin refers to self-published or independent music originating from Japan&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 42</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 53</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 43</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 60</li>
             <li> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a> # 76</li>
             <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 81</li>
         </ul>
@@ -528,7 +528,7 @@ Doujin refers to self-published or independent music originating from Japan&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 17</li>
+            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -553,7 +553,7 @@ Doujin refers to self-published or independent music originating from Japan&#39;
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/_64KBRwr2CKBuGrthhCcHLaVkb_LtUgCjRL3OoeWU7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTg4/NTQtMTQ2NDgyMTYz/Ny0zMjEyLmpwZWc.jpeg" alt="Cover for マジコカタストロフィ" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7fe22e3cecc47d692efad310ce7db7c.png" alt="Cover for マジコカタストロフィ" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-30</td>
       <td>Shibayan</td>
@@ -573,6 +573,7 @@ Doujin refers to self-published or independent music originating from Japan&#39;
     <tr>
       <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6f76b709bbf4f4f83e321b3f64c3e52.png" alt="Cover for 一撃" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-30</td>
       <td>Undead Corporation</td>
@@ -695,10 +696,10 @@ Doujin refers to self-published or independent music originating from Japan&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 70</li>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 75</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 80</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 88</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 13</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 20</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 25</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 31</li>
             <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 97</li>
             <li> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a> # 99</li>
         </ul>
@@ -707,6 +708,7 @@ Doujin refers to self-published or independent music originating from Japan&#39;
     <tr>
       <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0eae17d4dbd54cd1bea8abb2cbf7a0e9.png" alt="Cover for The Opening Of HATE" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-29</td>
       <td>Hymn Above Traumatic Emotion</td>
@@ -840,7 +842,7 @@ Doujin refers to self-published or independent music originating from Japan&#39;
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/bO_BCroi9QvO-qjZXT2MzcmYkm43Ekmh01T9RLc0LgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTM1/MjI4LTE2NDQ3MDY4/MTktOTM1Ni5wbmc.jpeg" alt="Cover for この世で一番愛しい記憶" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f90e0b302d145fcb2eec466ee694dba.png" alt="Cover for この世で一番愛しい記憶" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-05-11</td>
       <td>Alstroemeria</td>
@@ -879,7 +881,7 @@ Doujin refers to self-published or independent music originating from Japan&#39;
     <tr>
       <td>2</td>
       <td>
-          <img src="https://i.discogs.com/f9s5ykf1KwUSEQ76cyhKee4ag6yehOyDaLKd_Qo1AKE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzI1/MzYyLTE2ODc4ODY5/NjMtODkyOC5qcGVn.jpeg" alt="Cover for MINDCRAFT" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ded2d9d2f775f091f339578d0b0607e4.png" alt="Cover for MINDCRAFT" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-04-26</td>
       <td>オレオレウサギ</td>
@@ -900,7 +902,7 @@ Doujin refers to self-published or independent music originating from Japan&#39;
     <tr>
       <td>19</td>
       <td>
-          <img src="https://i.discogs.com/f9s5ykf1KwUSEQ76cyhKee4ag6yehOyDaLKd_Qo1AKE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzI1/MzYyLTE2ODc4ODY5/NjMtODkyOC5qcGVn.jpeg" alt="Cover for Restrain This Refrain" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e14afe7c7ac44dda5ed256191275b77.png" alt="Cover for Restrain This Refrain" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-04-26</td>
       <td>オレオレウサギ</td>
@@ -920,7 +922,7 @@ Doujin refers to self-published or independent music originating from Japan&#39;
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/X9IN2Ut18YisTjXA9JiPGZgdYz1qm-jaRpqPl_GyFm0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NzQ4/NDctMTUzMzA3MTI4/OC02Mzc5LmpwZWc.jpeg" alt="Cover for RAVER&#39;S NEST 3 TOHO RAVE PARTY" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a4765189f3f4effceb34374fbca4f0b.png" alt="Cover for RAVER&#39;S NEST 3 TOHO RAVE PARTY" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-12-30</td>
       <td>DiGiTAL WiNG</td>
@@ -1002,7 +1004,7 @@ Doujin refers to self-published or independent music originating from Japan&#39;
     <tr>
       <td>17</td>
       <td>
-          <img src="https://i.discogs.com/UFLa0fkmaijpRvhoXE7-hE6f6_9Hl7yyUQESrUTRxhI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNDAz/MTktMTQxNjg1NTA3/Ny0yMTM3LmpwZWc.jpeg" alt="Cover for シンデレラアバター" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a006052bc022405ab06bf583a8dadcad.png" alt="Cover for シンデレラアバター" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-06-09</td>
       <td>Senya</td>
@@ -1082,7 +1084,7 @@ Doujin refers to self-published or independent music originating from Japan&#39;
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/MWEmLpv3XMaBSxsOeO3V9vZqQb1IG2QUASX5KQoF2Rk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTc0/OTE1LTE2MjAwNTg5/NzMtOTAwMS5wbmc.jpeg" alt="Cover for KAKATTEKOYEAH!!!!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a10ad8bcbc26fdead155a227424b20e0.png" alt="Cover for KAKATTEKOYEAH!!!!" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-08-19</td>
       <td>t+pazolite</td>
@@ -1098,7 +1100,7 @@ Doujin refers to self-published or independent music originating from Japan&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 14</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1144,6 +1146,7 @@ Doujin refers to self-published or independent music originating from Japan&#39;
     <tr>
       <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22a43168edd84a28ca27cc2a03ee6d4c.png" alt="Cover for DANCE with WOLVES" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>発熱巫女～ず</td>
@@ -1208,6 +1211,7 @@ Doujin refers to self-published or independent music originating from Japan&#39;
     <tr>
       <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c491ca0f17c45f7b3417230ed38a7fc.png" alt="Cover for napitas" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Pulot</td>
@@ -1416,6 +1420,7 @@ Doujin refers to self-published or independent music originating from Japan&#39;
     <tr>
       <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9527da8b22365e30cb2b918236c74c62.png" alt="Cover for 夢神殿" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>癒月</td>
@@ -1560,6 +1565,7 @@ Doujin refers to self-published or independent music originating from Japan&#39;
     <tr>
       <td>39</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9936521ec4c245122d4188b140cce8bd.png" alt="Cover for OMBRA" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Hymn Above Traumatic Emotion</td>
@@ -1579,6 +1585,7 @@ Doujin refers to self-published or independent music originating from Japan&#39;
     <tr>
       <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb19974192034131c19b6b10cdc9bca8.png" alt="Cover for Mors Certa Hora Incerta" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Hymn Above Traumatic Emotion</td>
@@ -1614,6 +1621,7 @@ Doujin refers to self-published or independent music originating from Japan&#39;
     <tr>
       <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/60dfe7ede39942bac2c73d3b4f7795eb.png" alt="Cover for いきものの魂のゆくえ" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Kikuo feat. si_ku</td>
@@ -1632,6 +1640,7 @@ Doujin refers to self-published or independent music originating from Japan&#39;
     <tr>
       <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc47094e195e628c24b70e9cf5905c33.png" alt="Cover for 砕夢" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>瑶山百霊</td>
@@ -1706,6 +1715,7 @@ Doujin refers to self-published or independent music originating from Japan&#39;
     <tr>
       <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6483d3f4013de717e3df29eb5272179c.png" alt="Cover for DOWN DOWN DOLL -to the beginning 07-" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>暁Records</td>
@@ -2034,4 +2044,4 @@ Doujin refers to self-published or independent music originating from Japan&#39;
 - [ambient]({{ "/tags/ambient" | relative_url }})
 - [japan]({{ "/tags/japan" | relative_url }})
 - [metal]({{ "/tags/metal" | relative_url }})
-- [piano]({{ "/tags/piano" | relative_url }})
+- [j-pop]({{ "/tags/j-pop" | relative_url }})

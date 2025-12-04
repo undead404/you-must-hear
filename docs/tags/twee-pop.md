@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T18:42:38.185Z
+date: 2025-12-04T09:51:31.852Z
 permalink: tags/twee-pop
 title: twee pop
 ---
 
 ## twee pop
 
-Last updated: <time datetime="2025-11-26T18:42:38.185Z">Wed Nov 26 2025 20:42:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T09:51:31.852Z">Thu Dec 04 2025 11:51:31 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -67,6 +67,7 @@ Twee pop is a subgenre of indie pop music that emerged in the 1980s and early 19
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d8c477cca10478ec7d1ec4a3aff65c9.png" alt="Cover for Will Anything Happen" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Shop Assistants</td>
@@ -205,7 +206,7 @@ Twee pop is a subgenre of indie pop music that emerged in the 1980s and early 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 16</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -361,7 +362,7 @@ Twee pop is a subgenre of indie pop music that emerged in the 1980s and early 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 77</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -382,8 +383,8 @@ Twee pop is a subgenre of indie pop music that emerged in the 1980s and early 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 30</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 82</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 19</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -404,8 +405,8 @@ Twee pop is a subgenre of indie pop music that emerged in the 1980s and early 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 79</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 100</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 1</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -442,8 +443,8 @@ Twee pop is a subgenre of indie pop music that emerged in the 1980s and early 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 15</li>
-            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 62</li>
+            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 38</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -483,8 +484,8 @@ Twee pop is a subgenre of indie pop music that emerged in the 1980s and early 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 27</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 32</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 69</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -507,7 +508,7 @@ Twee pop is a subgenre of indie pop music that emerged in the 1980s and early 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 50</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -544,7 +545,7 @@ Twee pop is a subgenre of indie pop music that emerged in the 1980s and early 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 15</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -563,7 +564,7 @@ Twee pop is a subgenre of indie pop music that emerged in the 1980s and early 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 91</li>
+            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -582,8 +583,8 @@ Twee pop is a subgenre of indie pop music that emerged in the 1980s and early 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 50</li>
-            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 83</li>
+            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 17</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -664,7 +665,7 @@ Twee pop is a subgenre of indie pop music that emerged in the 1980s and early 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 84</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -682,7 +683,7 @@ Twee pop is a subgenre of indie pop music that emerged in the 1980s and early 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 9</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -721,7 +722,7 @@ Twee pop is a subgenre of indie pop music that emerged in the 1980s and early 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 86</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -740,7 +741,7 @@ Twee pop is a subgenre of indie pop music that emerged in the 1980s and early 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 1</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -912,7 +913,7 @@ Twee pop is a subgenre of indie pop music that emerged in the 1980s and early 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 60</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1005,8 +1006,7 @@ Twee pop is a subgenre of indie pop music that emerged in the 1980s and early 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 58</li>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 97</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1024,7 +1024,7 @@ Twee pop is a subgenre of indie pop music that emerged in the 1980s and early 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 35</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1079,7 +1079,7 @@ Twee pop is a subgenre of indie pop music that emerged in the 1980s and early 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 30</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1118,8 +1118,8 @@ Twee pop is a subgenre of indie pop music that emerged in the 1980s and early 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 86</li>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 91</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 10</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1177,7 +1177,7 @@ Twee pop is a subgenre of indie pop music that emerged in the 1980s and early 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 43</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1287,7 +1287,7 @@ Twee pop is a subgenre of indie pop music that emerged in the 1980s and early 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 27</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1471,9 +1471,9 @@ Twee pop is a subgenre of indie pop music that emerged in the 1980s and early 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 44</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 61</li>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 92</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 9</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 39</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1494,8 +1494,8 @@ Twee pop is a subgenre of indie pop music that emerged in the 1980s and early 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 66</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 83</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 18</li>
+            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1532,8 +1532,8 @@ Twee pop is a subgenre of indie pop music that emerged in the 1980s and early 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 3</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 54</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 47</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1590,8 +1590,8 @@ Twee pop is a subgenre of indie pop music that emerged in the 1980s and early 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 80</li>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 91</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 10</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1629,9 +1629,9 @@ Twee pop is a subgenre of indie pop music that emerged in the 1980s and early 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 9</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 5</li>
             <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 28</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 96</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1654,7 +1654,7 @@ Twee pop is a subgenre of indie pop music that emerged in the 1980s and early 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 21</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1693,7 +1693,7 @@ Twee pop is a subgenre of indie pop music that emerged in the 1980s and early 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 78</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1712,7 +1712,7 @@ Twee pop is a subgenre of indie pop music that emerged in the 1980s and early 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 30</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1730,7 +1730,7 @@ Twee pop is a subgenre of indie pop music that emerged in the 1980s and early 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 81</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1750,7 +1750,7 @@ Twee pop is a subgenre of indie pop music that emerged in the 1980s and early 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 99</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1771,7 +1771,7 @@ Twee pop is a subgenre of indie pop music that emerged in the 1980s and early 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 55</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1828,7 +1828,7 @@ Twee pop is a subgenre of indie pop music that emerged in the 1980s and early 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 83</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1857,11 +1857,11 @@ Twee pop is a subgenre of indie pop music that emerged in the 1980s and early 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 3</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 29</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 35</li>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 46</li>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 80</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 21</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 55</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 66</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 72</li>
+            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1905,7 +1905,7 @@ Twee pop is a subgenre of indie pop music that emerged in the 1980s and early 19
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 44</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 57</li>
         </ul>
       </td>
     </tr>

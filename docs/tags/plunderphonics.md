@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T13:17:15.578Z
+date: 2025-12-04T09:49:00.089Z
 permalink: tags/plunderphonics
 title: plunderphonics
 ---
 
 ## plunderphonics
 
-Last updated: <time datetime="2025-11-25T13:17:15.578Z">Tue Nov 25 2025 15:17:15 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T09:49:00.089Z">Thu Dec 04 2025 11:49:00 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -46,7 +46,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 2</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -65,13 +65,14 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 73</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1a88a8b5c03ff65ac5995296d6b66dd.png" alt="Cover for Grayfolded - Mirror Ashes" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Grateful Dead</td>
@@ -127,9 +128,9 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 14</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 47</li>
             <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 51</li>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 54</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -149,7 +150,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 74</li>
+            <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -190,7 +191,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 61</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -209,10 +210,10 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 40</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 41</li>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 59</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 62</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 39</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 42</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 60</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -232,10 +233,10 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 34</li>
-            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 46</li>
+            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 7</li>
+            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 54</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 66</li>
             <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 82</li>
-            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -256,7 +257,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 78</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -297,7 +298,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 66</li>
+            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -317,7 +318,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 13</li>
+            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -336,8 +337,8 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 11</li>
-            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 34</li>
+            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 67</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -374,7 +375,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 51</li>
+            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -430,7 +431,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 1</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -468,12 +469,12 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 2</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 9</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 12</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 17</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 67</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 72</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 28</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 33</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 77</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 88</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 90</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -494,7 +495,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 39</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -514,7 +515,8 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 100</li>
+            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 1</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -554,11 +556,11 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 35</li>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 37</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 66</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 12</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 35</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 64</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 66</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 76</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -578,7 +580,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 26</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 75</li>
             <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 83</li>
         </ul>
       </td>
@@ -600,7 +602,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 84</li>
+            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -622,8 +624,8 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 20</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 20</li>
+            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -668,7 +670,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 71</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -742,7 +744,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 61</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -763,7 +765,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 88</li>
+            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 13</li>
             <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 94</li>
         </ul>
       </td>
@@ -812,10 +814,10 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 24</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 24</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 25</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 73</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 77</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 28</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -856,8 +858,8 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 17</li>
-            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 65</li>
+            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 34</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -876,7 +878,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 61</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 40</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 69</li>
         </ul>
       </td>
@@ -914,7 +916,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 40</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1013,7 +1015,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 21</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1036,7 +1038,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 53</li>
+            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1121,10 +1123,10 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 32</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 48</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 49</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 52</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 67</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 68</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1143,7 +1145,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 15</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1165,8 +1167,8 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 72</li>
-            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 82</li>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 19</li>
+            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 27</li>
             <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 93</li>
         </ul>
       </td>
@@ -1209,7 +1211,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 65</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 36</li>
             <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 96</li>
         </ul>
       </td>
@@ -1399,7 +1401,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 76</li>
+            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1423,7 +1425,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 67</li>
+            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1482,7 +1484,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 22</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 83</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1506,8 +1508,8 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 36</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 44</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 56</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1525,12 +1527,12 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 40</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 78</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 3</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 4</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 16</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 22</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 61</li>
             <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 83</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 84</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 96</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1552,8 +1554,8 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 83</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 84</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 17</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1611,8 +1613,8 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 83</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 85</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 17</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 86</li>
             <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 99</li>
         </ul>
       </td>
@@ -1620,7 +1622,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/isU-gQyRls1b3_2IJmy4CGDnSi6mijvXr6qYBvaVNTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODM1/MzYtMTM2MDYzNzQ4/NS04ODQwLmpwZWc.jpeg" alt="Cover for The Consuming Flame: Open Exercises in Group Form" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7fd19682504f8b1cde8edc5042a054d.png" alt="Cover for The Consuming Flame: Open Exercises in Group Form" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-08-21</td>
       <td>Matmos</td>
@@ -1639,11 +1641,12 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 67</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 2</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 5</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 8</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 32</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 88</li>
             <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 92</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 93</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 96</li>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1664,7 +1667,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 99</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1709,10 +1712,10 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 5</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 23</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 32</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 37</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 69</li>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 77</li>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1735,9 +1738,9 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 84</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 97</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 98</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 3</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 4</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1755,7 +1758,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 6</li>
+            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1796,8 +1799,8 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 84</li>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 95</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 6</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1840,9 +1843,9 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 11</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 23</li>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 71</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 30</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 78</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1865,8 +1868,8 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 16</li>
             <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 64</li>
-            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1892,8 +1895,9 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 3</li>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 22</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 23</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 97</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1947,7 +1951,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 15</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 19</li>
             <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 57</li>
         </ul>
       </td>
@@ -1974,10 +1978,10 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 49</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 51</li>
             <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 61</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 76</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 83</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 78</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 85</li>
             <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 88</li>
         </ul>
       </td>
@@ -2002,7 +2006,7 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 18</li>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -2039,8 +2043,8 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 66</li>
             <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 77</li>
-            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -2062,7 +2066,9 @@ Plunderphonics is a genre of experimental music that involves taking pre-existin
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 1</li>
             <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 26</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 98</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-16T06:53:19.696Z
+date: 2025-12-04T11:16:29.618Z
 permalink: tags/garage-house
 title: garage house
 ---
 
 ## garage house
 
-Last updated: <time datetime="2025-11-16T06:53:19.696Z">Sun Nov 16 2025 08:53:19 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T11:16:29.618Z">Thu Dec 04 2025 13:16:29 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -109,13 +109,14 @@ Garage house is a subgenre of house music that originated in the early 1990s in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 2</li>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e909e92cf98330270970c49e703a9cda.png" alt="Cover for Baby wants to ride &#x2F; your love" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Frankie Knuckles</td>
@@ -123,12 +124,10 @@ Garage house is a subgenre of house music that originated in the early 1990s in 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-house" | relative_url }}">garage house</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -334,7 +333,7 @@ Garage house is a subgenre of house music that originated in the early 1990s in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 90</li>
+            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -432,7 +431,7 @@ Garage house is a subgenre of house music that originated in the early 1990s in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 68</li>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -656,8 +655,8 @@ Garage house is a subgenre of house music that originated in the early 1990s in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 46</li>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 74</li>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 28</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -781,8 +780,8 @@ Garage house is a subgenre of house music that originated in the early 1990s in 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 40</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 57</li>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -805,7 +804,7 @@ Garage house is a subgenre of house music that originated in the early 1990s in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 36</li>
+            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -851,7 +850,7 @@ Garage house is a subgenre of house music that originated in the early 1990s in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 67</li>
+            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -938,7 +937,7 @@ Garage house is a subgenre of house music that originated in the early 1990s in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 57</li>
+            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -960,7 +959,7 @@ Garage house is a subgenre of house music that originated in the early 1990s in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 64</li>
+            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1003,7 +1002,7 @@ Garage house is a subgenre of house music that originated in the early 1990s in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 22</li>
+            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1046,8 +1045,8 @@ Garage house is a subgenre of house music that originated in the early 1990s in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 8</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 65</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 37</li>
+            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1305,7 +1304,7 @@ Garage house is a subgenre of house music that originated in the early 1990s in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 85</li>
+            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1326,7 +1325,7 @@ Garage house is a subgenre of house music that originated in the early 1990s in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 27</li>
+            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1392,7 +1391,7 @@ Garage house is a subgenre of house music that originated in the early 1990s in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 35</li>
+            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1667,7 +1666,7 @@ Garage house is a subgenre of house music that originated in the early 1990s in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 10</li>
+            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1847,7 +1846,7 @@ Garage house is a subgenre of house music that originated in the early 1990s in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 15</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1896,8 +1895,8 @@ Garage house is a subgenre of house music that originated in the early 1990s in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 28</li>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 50</li>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 52</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1921,8 +1920,8 @@ Garage house is a subgenre of house music that originated in the early 1990s in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 67</li>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 86</li>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 15</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1964,9 +1963,9 @@ Garage house is a subgenre of house music that originated in the early 1990s in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 36</li>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 60</li>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 91</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 10</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 57</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -2012,7 +2011,7 @@ Garage house is a subgenre of house music that originated in the early 1990s in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 15</li>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 87</li>
         </ul>
       </td>
     </tr>

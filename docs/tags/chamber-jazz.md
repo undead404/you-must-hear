@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T18:57:37.964Z
+date: 2025-12-04T09:50:50.062Z
 permalink: tags/chamber-jazz
 title: chamber jazz
 ---
 
 ## chamber jazz
 
-Last updated: <time datetime="2025-11-23T18:57:37.964Z">Sun Nov 23 2025 20:57:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T09:50:50.062Z">Thu Dec 04 2025 11:50:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -62,7 +62,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 16</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -106,11 +106,11 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 54</li>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 1</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 17</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 45</li>
             <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 82</li>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 84</li>
             <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 96</li>
-            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -147,7 +147,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 96</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -209,8 +209,8 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 26</li>
-            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 97</li>
+            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 4</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -384,7 +384,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 48</li>
+            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -634,7 +634,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 81</li>
+            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -836,9 +836,9 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 7</li>
-            <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 48</li>
+            <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 53</li>
             <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 87</li>
+            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 94</li>
             <li> <a href="{{ "/tags/european-jazz" | relative_url }}">european jazz</a> # 95</li>
         </ul>
       </td>
@@ -866,9 +866,9 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 34</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 37</li>
             <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 37</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 64</li>
+            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 67</li>
             <li> <a href="{{ "/tags/european-jazz" | relative_url }}">european jazz</a> # 99</li>
         </ul>
       </td>
@@ -992,8 +992,8 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 7</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 34</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 11</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1014,7 +1014,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 16</li>
+            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1165,9 +1165,9 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 10</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 19</li>
             <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 62</li>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 82</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1382,7 +1382,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 21</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1506,7 +1506,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 48</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1545,9 +1545,9 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 6</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 7</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 21</li>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 94</li>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1668,8 +1668,8 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 29</li>
-            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 88</li>
+            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 13</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1709,7 +1709,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-jazz" | relative_url }}">polish jazz</a> # 8</li>
+            <li> <a href="{{ "/tags/polish-jazz" | relative_url }}">polish jazz</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1729,7 +1729,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 55</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1845,7 +1845,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 73</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 28</li>
             <li> <a href="{{ "/tags/ghazal" | relative_url }}">ghazal</a> # 100</li>
         </ul>
       </td>
@@ -1865,8 +1865,8 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 21</li>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 55</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 45</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1905,7 +1905,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 82</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1991,6 +1991,7 @@ Chamber jazz blends the intimate, conversational interplay of small classical en
     <tr>
       <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a272f202aeb39e747c1d7894d85aa0e1.png" alt="Cover for The Corner" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>a world wondered full</td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-07T11:09:53.688Z
+date: 2025-12-04T11:52:33.865Z
 permalink: tags/schranz
 title: schranz
 ---
 
 ## schranz
 
-Last updated: <time datetime="2025-11-07T11:09:53.688Z">Fri Nov 07 2025 13:09:53 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T11:52:33.865Z">Thu Dec 04 2025 13:52:33 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -50,7 +50,7 @@ Schranz is a style of techno music that originated in Germany in the mid-1990s. 
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for Hard Techno Underground (Best Of Schranz Vol.1)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/01f327e0acc74e45bf688995f66e7993.png" alt="Cover for Hard Techno Underground (Best Of Schranz Vol.1)" style="max-width:120px; height:auto;" />
       </td>
       <td>1980</td>
       <td>Various Artists</td>
@@ -85,7 +85,7 @@ Schranz is a style of techno music that originated in Germany in the mid-1990s. 
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/kdJXX1l_C0Zao30NUc2dbC-cws3majx77f4quDbS2gw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NzMt/MTE3MzgyODYxMi5q/cGVn.jpeg" alt="Cover for Generation Star Wars" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/30b48592cb604537853d2376a309e531.png" alt="Cover for Generation Star Wars" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Alec Empire</td>
@@ -102,7 +102,7 @@ Schranz is a style of techno music that originated in Germany in the mid-1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 39</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 61</li>
             <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 88</li>
         </ul>
       </td>
@@ -131,15 +131,15 @@ Schranz is a style of techno music that originated in Germany in the mid-1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 7</li>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 33</li>
+            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 34</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/QqeY7IE1lLORW3fupvIn4qQdX4hbQEv2c-VmgHw3I_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzYw/MC0xMjI3NTU1NzIw/LmpwZWc.jpeg" alt="Cover for Lost In Space" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/351c9bab453c6d7e4e22a097dec7c202.png" alt="Cover for Lost In Space" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Subsonic</td>
@@ -175,8 +175,8 @@ Schranz is a style of techno music that originated in Germany in the mid-1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 6</li>
             <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 61</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -203,7 +203,7 @@ Schranz is a style of techno music that originated in Germany in the mid-1990s. 
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/xsiu_TxgI3zXOunW_5WaCIQ9I5NXsfCF0YRU_aTHOPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Nzg2/LTExNDI1OTY3NjIu/anBlZw.jpeg" alt="Cover for Rich In Paradise E.P." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/30e9c2e9ce804937976f6e5db3f36624.png" alt="Cover for Rich In Paradise E.P." style="max-width:120px; height:auto;" />
       </td>
       <td>1996-02-26</td>
       <td>Richard Benson</td>
@@ -224,6 +224,7 @@ Schranz is a style of techno music that originated in Germany in the mid-1990s. 
     <tr>
       <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0920d1e212a3c5ee7006cf640da950d7.png" alt="Cover for The Geist of Alec Empire" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Alec Empire</td>
@@ -254,7 +255,7 @@ Schranz is a style of techno music that originated in Germany in the mid-1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 51</li>
+            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -275,7 +276,7 @@ Schranz is a style of techno music that originated in Germany in the mid-1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 19</li>
+            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -302,7 +303,7 @@ Schranz is a style of techno music that originated in Germany in the mid-1990s. 
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/ZfBPD6rVzotaVC909K1mrGbT4FJDtslNgnU7_AMJd_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDAw/LTE1MTQ2Njk3MjAt/NDA5Ny5qcGVn.jpeg" alt="Cover for Jóga" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6544038391a14955af0519e4abf354a4.png" alt="Cover for Jóga" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-05</td>
       <td>Björk</td>
@@ -314,12 +315,12 @@ Schranz is a style of techno music that originated in Germany in the mid-1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 37</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 82</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 83</li>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 93</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 94</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 97</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 3</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 6</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 8</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 49</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 84</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 86</li>
             <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 99</li>
         </ul>
       </td>
@@ -439,7 +440,7 @@ Schranz is a style of techno music that originated in Germany in the mid-1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 39</li>
+            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -505,7 +506,7 @@ Schranz is a style of techno music that originated in Germany in the mid-1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 25</li>
+            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -608,8 +609,8 @@ Schranz is a style of techno music that originated in Germany in the mid-1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 10</li>
             <li> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a> # 70</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -707,7 +708,7 @@ Schranz is a style of techno music that originated in Germany in the mid-1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 33</li>
+            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1191,7 +1192,7 @@ Schranz is a style of techno music that originated in Germany in the mid-1990s. 
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/UFDVrs-zipPNqz6J-uoyOBQm9JKt1gn60fWql_xC6V8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTY1/NjYtMTI5MDI4NjMw/MS5qcGVn.jpeg" alt="Cover for SOPHISTICATED" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91bd676121c74ce9a714f99852cadbec.png" alt="Cover for SOPHISTICATED" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-31</td>
       <td>Volvic</td>
@@ -1268,6 +1269,7 @@ Schranz is a style of techno music that originated in Germany in the mid-1990s. 
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/95944b0d266b48dabbfc90d6a858f4a2.png" alt="Cover for Stiletto" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-11-30</td>
       <td>Korsakoff</td>
@@ -1277,6 +1279,36 @@ Schranz is a style of techno music that originated in Germany in the mid-1990s. 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://i.discogs.com/0fFXJd02LvnNJBgdwvBjQYvwubQ59KjhfFJqkMZZIO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzMx/MjItMTM5MzIzODM2/NC0xNTMxLmpwZWc.jpeg" alt="Cover for Torture Land" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-04-19</td>
+      <td>A Flipping Budjunky</td>
+      <td>Torture Land</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
         </ul>
       </td>
       <td>
@@ -1301,37 +1333,6 @@ Schranz is a style of techno music that originated in Germany in the mid-1990s. 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 2</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>51</td>
-      <td>
-          <img src="https://i.discogs.com/0fFXJd02LvnNJBgdwvBjQYvwubQ59KjhfFJqkMZZIO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzMx/MjItMTM5MzIzODM2/NC0xNTMxLmpwZWc.jpeg" alt="Cover for Torture Land" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013-04-19</td>
-      <td>A Flipping Budjunky</td>
-      <td>Torture Land</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dub" | relative_url }}">dub</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a></li>
@@ -1404,7 +1405,7 @@ Schranz is a style of techno music that originated in Germany in the mid-1990s. 
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/TRxHXTMdh5OXHkNg7yD07t60_BD48d1ejqjk94einLY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzk5/MzQ5LTE2MTU1MDgw/NDAtNzYzMS5wbmc.jpeg" alt="Cover for YUNG RAPUNXEL PT. II" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/281e82bc3d6719372e06aaf0f51b6060.png" alt="Cover for YUNG RAPUNXEL PT. II" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-09-12</td>
       <td>Azealia Banks</td>
@@ -1426,7 +1427,7 @@ Schranz is a style of techno music that originated in Germany in the mid-1990s. 
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/XOsF_gloBjiNCrHTjJOXqyu4RYQR4fdA8ViSK79DXsM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjEz/MDQ1LTE1OTQ1NTIz/NjgtMTExOC5qcGVn.jpeg" alt="Cover for SELFALBUM I" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/69a16bb98be2a0e9957c446d8b4aac7c.png" alt="Cover for SELFALBUM I" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-02-12</td>
       <td>sLime Coca</td>
@@ -1542,7 +1543,7 @@ Schranz is a style of techno music that originated in Germany in the mid-1990s. 
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/n8Ry60IoXE0hWfKzpcFMFMC1iVbZVrBT52lQZnSxaIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzE0/NzcxLTE2NzMyNzM4/NTUtMzU5MS5qcGVn.jpeg" alt="Cover for archive" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dfd5d1e4a8b7e0f780cd8473a31cf7e1.png" alt="Cover for archive" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-06-03</td>
       <td>Truthspeaker</td>
@@ -1596,8 +1597,8 @@ Schranz is a style of techno music that originated in Germany in the mid-1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 28</li>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 64</li>
+            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 29</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1615,8 +1616,8 @@ Schranz is a style of techno music that originated in Germany in the mid-1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 51</li>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 83</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 17</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1638,8 +1639,8 @@ Schranz is a style of techno music that originated in Germany in the mid-1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 10</li>
             <li> <a href="{{ "/tags/sextrance" | relative_url }}">sextrance</a> # 59</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1660,7 +1661,7 @@ Schranz is a style of techno music that originated in Germany in the mid-1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 8</li>
+            <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1709,6 +1710,7 @@ Schranz is a style of techno music that originated in Germany in the mid-1990s. 
     <tr>
       <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8218bc3f70ed6175bf4b152ca05e09d9.png" alt="Cover for アカラドノクライスキ" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>fractaleline</td>
@@ -1852,6 +1854,7 @@ Schranz is a style of techno music that originated in Germany in the mid-1990s. 
     <tr>
       <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a4df848c38e4ce08548d8f5d0e7b7a5.png" alt="Cover for Two Space Cowboys On a Bad Trip" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Ian Pooley &amp; The Jaguar</td>
@@ -1891,6 +1894,7 @@ Schranz is a style of techno music that originated in Germany in the mid-1990s. 
     <tr>
       <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9cc97fd0a2854c559a93c1a7d4e3fd59.png" alt="Cover for Proper Techno Innit" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Nasty Fingers</td>
@@ -2062,6 +2066,7 @@ Schranz is a style of techno music that originated in Germany in the mid-1990s. 
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/761b5d1750c0415383e874886bd4c8c0.png" alt="Cover for Sgt. Peppers Lonely Hearts Club Band" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Beatles</td>

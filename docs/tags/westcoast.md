@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T19:45:43.318Z
+date: 2025-12-04T10:42:56.909Z
 permalink: tags/westcoast
 title: westcoast
 ---
 
 ## westcoast
 
-Last updated: <time datetime="2025-11-23T19:45:43.318Z">Sun Nov 23 2025 21:45:43 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T10:42:56.909Z">Thu Dec 04 2025 12:42:56 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,7 +47,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 41</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 42</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 58</li>
         </ul>
       </td>
@@ -370,7 +370,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 3</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 4</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 29</li>
         </ul>
       </td>
@@ -396,7 +396,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 35</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 36</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 56</li>
         </ul>
       </td>
@@ -423,7 +423,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 52</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 54</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 71</li>
         </ul>
       </td>
@@ -559,7 +559,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 17</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 82</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 93</li>
             <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 94</li>
         </ul>
@@ -580,8 +580,8 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 8</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 9</li>
-            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -647,7 +647,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 60</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 61</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 77</li>
         </ul>
       </td>
@@ -667,7 +667,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 65</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 66</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 96</li>
         </ul>
       </td>
@@ -712,7 +712,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 68</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 69</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 80</li>
         </ul>
       </td>
@@ -801,7 +801,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 6</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 7</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 31</li>
         </ul>
       </td>
@@ -928,7 +928,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 12</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1082,7 +1082,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 16</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1263,8 +1263,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 68</li>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 74</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1286,7 +1285,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 32</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1352,7 +1351,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 52</li>
+            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1457,7 +1456,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 46</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 47</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 64</li>
         </ul>
       </td>
@@ -1613,7 +1612,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 8</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 9</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 33</li>
         </ul>
       </td>
@@ -1721,7 +1720,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 14</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 15</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 42</li>
         </ul>
       </td>
@@ -1745,7 +1744,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 58</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 59</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 76</li>
         </ul>
       </td>
@@ -1792,7 +1791,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 9</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 10</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 37</li>
         </ul>
       </td>
@@ -1897,7 +1896,7 @@ West Coast represents a laid-back, sun-soaked sound rooted in California&#39;s m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 71</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 72</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 84</li>
         </ul>
       </td>

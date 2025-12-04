@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T17:51:50.964Z
+date: 2025-12-04T11:34:02.195Z
 permalink: tags/traditional-heavy-metal
 title: traditional heavy metal
 ---
 
 ## traditional heavy metal
 
-Last updated: <time datetime="2025-11-03T17:51:50.964Z">Mon Nov 03 2025 19:51:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T11:34:02.195Z">Thu Dec 04 2025 13:34:02 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -124,7 +124,7 @@ Traditional heavy metal, often referred to simply as &quot;heavy metal,&quot; is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/old-school-heavy-metal" | relative_url }}">old-school heavy metal</a> # 8</li>
+            <li> <a href="{{ "/tags/old-school-heavy-metal" | relative_url }}">old-school heavy metal</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -161,7 +161,7 @@ Traditional heavy metal, often referred to simply as &quot;heavy metal,&quot; is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 62</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -268,7 +268,7 @@ Traditional heavy metal, often referred to simply as &quot;heavy metal,&quot; is
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/DdG1tygJz7gRwv6lR8ggnaJg5gTjdF-oQx3gbINGO8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzE5/MS0xNjI1OTQ3MDk2/LTUwNjAuanBlZw.jpeg" alt="Cover for Rehearsal 1983" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9ab6650900aa6b555b170aacd29a4a7.png" alt="Cover for Rehearsal 1983" style="max-width:120px; height:auto;" />
       </td>
       <td>1983</td>
       <td>Parasite</td>
@@ -347,7 +347,7 @@ Traditional heavy metal, often referred to simply as &quot;heavy metal,&quot; is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/old-school-heavy-metal" | relative_url }}">old-school heavy metal</a> # 64</li>
+            <li> <a href="{{ "/tags/old-school-heavy-metal" | relative_url }}">old-school heavy metal</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -422,7 +422,7 @@ Traditional heavy metal, often referred to simply as &quot;heavy metal,&quot; is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/old-school-heavy-metal" | relative_url }}">old-school heavy metal</a> # 73</li>
+            <li> <a href="{{ "/tags/old-school-heavy-metal" | relative_url }}">old-school heavy metal</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -446,7 +446,7 @@ Traditional heavy metal, often referred to simply as &quot;heavy metal,&quot; is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 28</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -534,9 +534,9 @@ Traditional heavy metal, often referred to simply as &quot;heavy metal,&quot; is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 33</li>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 42</li>
-            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 44</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 45</li>
+            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 57</li>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -579,7 +579,7 @@ Traditional heavy metal, often referred to simply as &quot;heavy metal,&quot; is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 18</li>
+            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -658,7 +658,7 @@ Traditional heavy metal, often referred to simply as &quot;heavy metal,&quot; is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/old-school-heavy-metal" | relative_url }}">old-school heavy metal</a> # 95</li>
+            <li> <a href="{{ "/tags/old-school-heavy-metal" | relative_url }}">old-school heavy metal</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -697,7 +697,7 @@ Traditional heavy metal, often referred to simply as &quot;heavy metal,&quot; is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 76</li>
+            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -718,7 +718,7 @@ Traditional heavy metal, often referred to simply as &quot;heavy metal,&quot; is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/old-school-heavy-metal" | relative_url }}">old-school heavy metal</a> # 90</li>
+            <li> <a href="{{ "/tags/old-school-heavy-metal" | relative_url }}">old-school heavy metal</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -780,7 +780,7 @@ Traditional heavy metal, often referred to simply as &quot;heavy metal,&quot; is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 7</li>
+            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -801,7 +801,7 @@ Traditional heavy metal, often referred to simply as &quot;heavy metal,&quot; is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a> # 33</li>
+            <li> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -830,7 +830,7 @@ Traditional heavy metal, often referred to simply as &quot;heavy metal,&quot; is
     <tr>
       <td>19</td>
       <td>
-          <img src="https://i.discogs.com/Wjm4xy--6Fh3uaMC3lCUScoaC6of8oLDDCm5NxfjAlY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDgy/MjgtMTI2NDQ0Njkz/My5qcGVn.jpeg" alt="Cover for Ninya Warrior - The Anthology" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d688fa03bef47a297f79ad711021b1a2.png" alt="Cover for Ninya Warrior - The Anthology" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Wizzard</td>
@@ -974,7 +974,7 @@ Traditional heavy metal, often referred to simply as &quot;heavy metal,&quot; is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 8</li>
+            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1017,7 +1017,7 @@ Traditional heavy metal, often referred to simply as &quot;heavy metal,&quot; is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 9</li>
+            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1041,7 +1041,7 @@ Traditional heavy metal, often referred to simply as &quot;heavy metal,&quot; is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 12</li>
+            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1064,7 +1064,7 @@ Traditional heavy metal, often referred to simply as &quot;heavy metal,&quot; is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 32</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1124,7 +1124,7 @@ Traditional heavy metal, often referred to simply as &quot;heavy metal,&quot; is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 44</li>
+            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1214,7 +1214,7 @@ Traditional heavy metal, often referred to simply as &quot;heavy metal,&quot; is
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/YcV5ydA8Igpn97vCMIMNRKpIM2AyA23FFll3nsSshuI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTU4/NjQtMTM2MTU0NzAx/MC0zNDc1LmpwZWc.jpeg" alt="Cover for The Ark Of Gemini" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/695f411980eb3ccc537b6a18cca2b808.png" alt="Cover for The Ark Of Gemini" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-06-13</td>
       <td>Kryptos</td>
@@ -1433,8 +1433,8 @@ Traditional heavy metal, often referred to simply as &quot;heavy metal,&quot; is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-metal" | relative_url }}">polish metal</a> # 30</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 44</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 52</li>
+            <li> <a href="{{ "/tags/polish-metal" | relative_url }}">polish metal</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1615,7 +1615,7 @@ Traditional heavy metal, often referred to simply as &quot;heavy metal,&quot; is
       <td>
         <ul>
             <li> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a> # 91</li>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 92</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1676,7 +1676,7 @@ Traditional heavy metal, often referred to simply as &quot;heavy metal,&quot; is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a> # 1</li>
+            <li> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1779,7 +1779,7 @@ Traditional heavy metal, often referred to simply as &quot;heavy metal,&quot; is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a> # 34</li>
+            <li> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a> # 35</li>
             <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 54</li>
         </ul>
       </td>
@@ -1837,7 +1837,7 @@ Traditional heavy metal, often referred to simply as &quot;heavy metal,&quot; is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a> # 15</li>
+            <li> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1899,7 +1899,7 @@ Traditional heavy metal, often referred to simply as &quot;heavy metal,&quot; is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a> # 17</li>
+            <li> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1985,7 +1985,7 @@ Traditional heavy metal, often referred to simply as &quot;heavy metal,&quot; is
       <td>
         <ul>
             <li> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a> # 36</li>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 36</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -2007,7 +2007,7 @@ Traditional heavy metal, often referred to simply as &quot;heavy metal,&quot; is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a> # 11</li>
+            <li> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -2068,7 +2068,7 @@ Traditional heavy metal, often referred to simply as &quot;heavy metal,&quot; is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 2</li>
+            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 5</li>
         </ul>
       </td>
     </tr>

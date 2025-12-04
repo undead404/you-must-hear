@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T18:30:37.985Z
+date: 2025-12-04T09:48:26.723Z
 permalink: tags/techstep
 title: techstep
 ---
 
 ## techstep
 
-Last updated: <time datetime="2025-11-26T18:30:37.985Z">Wed Nov 26 2025 20:30:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T09:48:26.723Z">Thu Dec 04 2025 11:48:26 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -48,7 +48,7 @@ Techstep is a subgenre of drum and bass that emerged in the mid-1990s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 12</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -70,7 +70,7 @@ Techstep is a subgenre of drum and bass that emerged in the mid-1990s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 42</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -414,7 +414,7 @@ Techstep is a subgenre of drum and bass that emerged in the mid-1990s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 40</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -509,7 +509,7 @@ Techstep is a subgenre of drum and bass that emerged in the mid-1990s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 63</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -566,7 +566,7 @@ Techstep is a subgenre of drum and bass that emerged in the mid-1990s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 88</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -638,9 +638,9 @@ Techstep is a subgenre of drum and bass that emerged in the mid-1990s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 44</li>
-            <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 47</li>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 84</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 17</li>
+            <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 54</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -686,7 +686,7 @@ Techstep is a subgenre of drum and bass that emerged in the mid-1990s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 62</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -728,7 +728,7 @@ Techstep is a subgenre of drum and bass that emerged in the mid-1990s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 67</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -768,7 +768,7 @@ Techstep is a subgenre of drum and bass that emerged in the mid-1990s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 48</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -815,7 +815,7 @@ Techstep is a subgenre of drum and bass that emerged in the mid-1990s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 29</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -896,9 +896,9 @@ Techstep is a subgenre of drum and bass that emerged in the mid-1990s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 4</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 12</li>
             <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 42</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 90</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -938,9 +938,9 @@ Techstep is a subgenre of drum and bass that emerged in the mid-1990s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 10</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 21</li>
             <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 50</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 81</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -980,9 +980,9 @@ Techstep is a subgenre of drum and bass that emerged in the mid-1990s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 7</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 17</li>
             <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 47</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 85</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1022,9 +1022,9 @@ Techstep is a subgenre of drum and bass that emerged in the mid-1990s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 16</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 31</li>
             <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 60</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 70</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1065,10 +1065,10 @@ Techstep is a subgenre of drum and bass that emerged in the mid-1990s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 11</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 22</li>
             <li> <a href="{{ "/tags/haiti" | relative_url }}">haiti</a> # 30</li>
             <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 54</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 80</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1110,10 +1110,10 @@ Techstep is a subgenre of drum and bass that emerged in the mid-1990s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 6</li>
-            <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 15</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 15</li>
             <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 44</li>
+            <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 86</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 87</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1155,7 +1155,7 @@ Techstep is a subgenre of drum and bass that emerged in the mid-1990s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 3</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1217,7 +1217,7 @@ Techstep is a subgenre of drum and bass that emerged in the mid-1990s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 34</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1237,7 +1237,7 @@ Techstep is a subgenre of drum and bass that emerged in the mid-1990s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 75</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1274,7 +1274,7 @@ Techstep is a subgenre of drum and bass that emerged in the mid-1990s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 50</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1329,7 +1329,7 @@ Techstep is a subgenre of drum and bass that emerged in the mid-1990s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 89</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 12</li>
             <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 95</li>
         </ul>
       </td>
@@ -1351,7 +1351,7 @@ Techstep is a subgenre of drum and bass that emerged in the mid-1990s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/liquid-funk" | relative_url }}">liquid funk</a> # 74</li>
+            <li> <a href="{{ "/tags/liquid-funk" | relative_url }}">liquid funk</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1389,7 +1389,7 @@ Techstep is a subgenre of drum and bass that emerged in the mid-1990s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 68</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1409,7 +1409,7 @@ Techstep is a subgenre of drum and bass that emerged in the mid-1990s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 25</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1680,8 +1680,8 @@ Techstep is a subgenre of drum and bass that emerged in the mid-1990s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jump-up" | relative_url }}">jump up</a> # 36</li>
-            <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 97</li>
+            <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 16</li>
+            <li> <a href="{{ "/tags/jump-up" | relative_url }}">jump up</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1719,7 +1719,7 @@ Techstep is a subgenre of drum and bass that emerged in the mid-1990s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/liquid-funk" | relative_url }}">liquid funk</a> # 5</li>
+            <li> <a href="{{ "/tags/liquid-funk" | relative_url }}">liquid funk</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1757,7 +1757,7 @@ Techstep is a subgenre of drum and bass that emerged in the mid-1990s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 89</li>
+            <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1779,8 +1779,8 @@ Techstep is a subgenre of drum and bass that emerged in the mid-1990s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 6</li>
-            <li> <a href="{{ "/tags/liquid-funk" | relative_url }}">liquid funk</a> # 17</li>
+            <li> <a href="{{ "/tags/liquid-funk" | relative_url }}">liquid funk</a> # 84</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1819,8 +1819,8 @@ Techstep is a subgenre of drum and bass that emerged in the mid-1990s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 22</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 50</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 49</li>
+            <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1901,7 +1901,7 @@ Techstep is a subgenre of drum and bass that emerged in the mid-1990s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 2</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1979,7 +1979,7 @@ Techstep is a subgenre of drum and bass that emerged in the mid-1990s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 55</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -2024,7 +2024,7 @@ Techstep is a subgenre of drum and bass that emerged in the mid-1990s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 9</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -2047,7 +2047,7 @@ Techstep is a subgenre of drum and bass that emerged in the mid-1990s, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 3</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 98</li>
         </ul>
       </td>
     </tr>

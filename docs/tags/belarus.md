@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T17:48:51.061Z
+date: 2025-12-04T11:16:41.123Z
 permalink: tags/belarus
 title: belarus
 ---
 
 ## belarus
 
-Last updated: <time datetime="2025-11-03T17:48:51.061Z">Mon Nov 03 2025 19:48:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T11:16:41.123Z">Thu Dec 04 2025 13:16:41 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -62,14 +62,14 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 54</li>
+            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/gnAjh7G0iLZMhzMQGvC93T7nha8M1lSEbzAJOR_kUGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc2/LTAwMS5qcGc.jpeg" alt="Cover for Песьні Свабоды 3" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f237dfa128e9858c351e9024f359566.png" alt="Cover for Песьні Свабоды 3" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Various Artists</td>
@@ -82,14 +82,14 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 66</li>
+            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/FSziKy0Ftjw4hvRCDntAp5a-EueWedQQNf6I-9w0eeg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjk3/NTMyLTE1NDAyNDE5/MDUtMjQ5MS5qcGVn.jpeg" alt="Cover for Singles" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2411bdc7765148498ba357f22c2b77cc.png" alt="Cover for Singles" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Red Groove</td>
@@ -110,7 +110,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/gWDY8h-OeEn0u10vSnh6rIi9UXEjs0ubgDOh32rUS0I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzg3/NDktMTM5MTkxMTEz/MC03NTc4LmpwZWc.jpeg" alt="Cover for Born under a bad sign" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/641ad9016b6b4403c43f8da187e98dec.png" alt="Cover for Born under a bad sign" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Unsilent</td>
@@ -133,7 +133,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/2FEjq8gxpFnYnA00kQdBtI9y54k-7Ai4jzMrp7Ehslw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzYx/NS0xMDc5MjA4MzM3/LmpwZw.jpeg" alt="Cover for Evidence of Utopia EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe11f013d8845186334ba9029ff7c43b.png" alt="Cover for Evidence of Utopia EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-08</td>
       <td>Randomajestiq</td>
@@ -152,7 +152,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/_IpxaEJ6DkmAOl7Rg0xaBncuglNqzm0o_okJc_gkQC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzIw/OS0xNDkyMTYzMzM1/LTUyNDAuanBlZw.jpeg" alt="Cover for 02&#39;cmp" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/48bcd59f5ce4a1a1384e58f44a164f24.png" alt="Cover for 02&#39;cmp" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-11-11</td>
       <td>Stone People</td>
@@ -207,7 +207,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 45</li>
+            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -233,7 +233,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/1QztNcujy2zj4_om1nZ3INw_YKZ8nC8LnspbxVrNGgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDYx/OS0xMDc4NTIxMTIw/LmpwZw.jpeg" alt="Cover for Versions &amp; Remixes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d828a3cf5fd40b2831d78f3063dd741.png" alt="Cover for Versions &amp; Remixes" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-01-31</td>
       <td>Dreamlin</td>
@@ -279,7 +279,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/1QztNcujy2zj4_om1nZ3INw_YKZ8nC8LnspbxVrNGgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDYx/OS0xMDc4NTIxMTIw/LmpwZw.jpeg" alt="Cover for Untitled 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/94bf810434db469d95327633518da9ba.png" alt="Cover for Untitled 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-01-31</td>
       <td>Dreamlin</td>
@@ -320,7 +320,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/MGsdTc9ehYwTk_oXW4AVYyJnlRWD7Oy_C3dsPB816oI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjE3/MC0xMTQ3NzczODky/LmpwZWc.jpeg" alt="Cover for Intro Jagody" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf80ca4c7faed03e116b209e23885d6b.png" alt="Cover for Intro Jagody" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-05-08</td>
       <td>CherryVata</td>
@@ -356,7 +356,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 18</li>
+            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -423,7 +423,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/PWH5FtZdOUQXAE6J56dPEy8bioKbNwQhHmNabUpTnSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mzg5/NC0xMjcyODM3ODIy/LmpwZWc.jpeg" alt="Cover for Mo&gt;&gt;Audio" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6929dc45583b3c9a5406e5dc78a85371.png" alt="Cover for Mo&gt;&gt;Audio" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-12</td>
       <td>Randomajestiq</td>
@@ -502,6 +502,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6cfdfcdb1d06062a5fe95847af4ceb8.png" alt="Cover for The Colour Of The City" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-10-01</td>
       <td>Dreamlin</td>
@@ -519,14 +520,14 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 14</li>
+            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/AGuI_GtvgxVbYcPuQRl8ihIhyY-SCWWhgIfcgKMJPus/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Njk2/My0xMTM2NTIyNzgx/LmpwZWc.jpeg" alt="Cover for Irreverse demo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/52789fef16095d2a85381f1fa9ec709f.png" alt="Cover for Irreverse demo" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Koordinate Of Wonders</td>
@@ -549,7 +550,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/AGuI_GtvgxVbYcPuQRl8ihIhyY-SCWWhgIfcgKMJPus/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Njk2/My0xMTM2NTIyNzgx/LmpwZWc.jpeg" alt="Cover for Irreverse [Last.fm Edit]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7f85174d7414016a580157a677c111b.png" alt="Cover for Irreverse [Last.fm Edit]" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Koordinate Of Wonders</td>
@@ -591,7 +592,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/WURVqHh0yS4lS9unP2H4nY1pyuXkJ8FQL4Mev0E3MAk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTYw/NDI1LTE1MTg1MTI0/MzUtNjkxNi5qcGVn.jpeg" alt="Cover for GDE!?" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e179b4f2d0314b04a1e5d01bcbc556ac.png" alt="Cover for GDE!?" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-07-01</td>
       <td>CherryVata</td>
@@ -626,7 +627,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 76</li>
+            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -670,7 +671,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/Ck618wjrxJAcymvcgQqMPLJ06z4Wg46wE5wkwqn5ozw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQ3/MjktMTE4NzU4NTQ5/OC5qcGVn.jpeg" alt="Cover for Let It Be" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1cb265069204fc68b1d6abfc900268f.png" alt="Cover for Let It Be" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>4KUBA</td>
@@ -742,7 +743,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 52</li>
+            <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -809,8 +810,8 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 25</li>
-            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 44</li>
+            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 57</li>
+            <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -835,7 +836,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 30</li>
+            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -857,14 +858,14 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 21</li>
+            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/HoRSi-DiMgJf8LhYI953BsaU0xv6_H8zZtZdlXZImgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzU3/NDEyLTE1MjUxNTU2/ODUtODQ3NC5qcGVn.jpeg" alt="Cover for Клиника" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f414e5f0a0d9582f3c66af497e6112dd.png" alt="Cover for Клиника" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Re1ikt</td>
@@ -882,13 +883,14 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 35</li>
+            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cdf76316b494439da2455344070cf8d0.png" alt="Cover for Mannequin" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03-05</td>
       <td>Таня Кушнер</td>
@@ -907,6 +909,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
     <tr>
       <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eda633081c39432c82f32aceacafce77.png" alt="Cover for Rock&#39;n&#39;Troll" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-15</td>
       <td>Litvintroll</td>
@@ -918,7 +921,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 51</li>
+            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -944,7 +947,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/Qb85uB27BclLxyOjn7-YMFJozSG8x4mqN7FWCepplCQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDQ4/ODctMTMzODY2MTc4/Mi02MjY3LmpwZWc.jpeg" alt="Cover for ViaVanilla" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c608954737a452a9d63ce0c91cc2394.png" alt="Cover for ViaVanilla" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-15</td>
       <td>CherryVata</td>
@@ -985,7 +988,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/GWu_WKMa2h-V-kqQsjLGHAX_1pHp-Nn5gqbco9-urYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDU2/OTAtMTM0MTA5MTIz/Mi0xMzM3LmpwZWc.jpeg" alt="Cover for Objective" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bba343d050144b1b81de986fddaab88c.png" alt="Cover for Objective" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Lost Regrets</td>
@@ -1062,7 +1065,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 69</li>
+            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1081,13 +1084,14 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 64</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6933708ad8d48a0c8821d3eda2a7e89.png" alt="Cover for Gone Away With the Memories" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Cold in May</td>
@@ -1104,14 +1108,14 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 38</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/oOj5c5C9-PKq6Nu9o9Es2z7AygPpsj25JWXTQwLJwPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mzk0/MTItMTM0MjQzNjcy/MC04NDE4LmpwZWc.jpeg" alt="Cover for Our Own Prisons" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/51edd7a17fb34f10820cad722e0a9c8d.png" alt="Cover for Our Own Prisons" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-07-04</td>
       <td>Challenger Deep</td>
@@ -1151,7 +1155,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/FbY-oqnNquRm1IJTHnUuuV_6u2UemLDzzdsDYbowoFU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNTMw/NzktMTM1OTgwNTQw/MS02MTI3LmpwZWc.jpeg" alt="Cover for Life So Changing" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11ffe7f909b84ac7cadb57f3cf00a541.png" alt="Cover for Life So Changing" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-01</td>
       <td>Come To Get Her</td>
@@ -1166,13 +1170,14 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 1</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f093f605ed4d45c6aff369146f50e8cf.png" alt="Cover for Road To Victory" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>A HERO WILL STAND</td>
@@ -1194,7 +1199,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/XaIR-MB0EVKqM7wIOWIgbS-S87eCIzO0eeKl9jSmwhA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDU2/ODQ5LTE1NzQ4ODg3/MjctMTE0NC5qcGVn.jpeg" alt="Cover for Nirnaeth Arnediad" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/139a485d93234e0792e46792fbf1b071.png" alt="Cover for Nirnaeth Arnediad" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03-12</td>
       <td>Forodwaith</td>
@@ -1212,13 +1217,14 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 79</li>
+            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/31440f83b1f14232baabdcc6a0a507ec.png" alt="Cover for The End of Days" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12-22</td>
       <td>Diversant:13</td>
@@ -1235,7 +1241,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 21</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1260,7 +1266,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/_9EvjnLOJD21h_8398Fa27avLsdwtFIYZAENokMBo_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODY0/NjYtMTQwMDI2NjIy/Ny00MDcwLmpwZWc.jpeg" alt="Cover for Žniajar Mrojaŭ (Dream Reaper)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe59cd8fe4bde0508fa852cf893bd23c.png" alt="Cover for Žniajar Mrojaŭ (Dream Reaper)" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-14</td>
       <td>Dzivia</td>
@@ -1280,15 +1286,16 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 14</li>
-            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 43</li>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 53</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 47</li>
+            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 58</li>
+            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0bf9314152f640bbc0c54e812795adba.png" alt="Cover for Dark Season" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-11-27</td>
       <td>Cold in May</td>
@@ -1306,14 +1313,14 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 65</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/2HAzWQimY4ejqAppR5xRfTe6cdtr41M2sqiBcsl_p_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTIy/ODA5LTE1MjQ4MzQw/OTItOTE2NC5qcGVn.jpeg" alt="Cover for Haradzenski Harmidar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c33d1414b5846bfc6decb411cfa5ba3.png" alt="Cover for Haradzenski Harmidar" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Dzieciuki</td>
@@ -1328,7 +1335,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 62</li>
+            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1373,14 +1380,14 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 91</li>
+            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/Bjr5Ve0VTvR2nFFNS-9deIBnO9-VnIW9PdTLf4dWgT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NzQy/OTUtMTQyODQ4Mzg0/OS00NDMxLmpwZWc.jpeg" alt="Cover for Нет пути назад" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4cbe3b3d26471ca6cf20c607a68a8a49.png" alt="Cover for Нет пути назад" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-11-23</td>
       <td>Бостонское чаепитие</td>
@@ -1412,14 +1419,14 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 91</li>
+            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>6</td>
       <td>
-          <img src="https://i.discogs.com/yhMkfWa9444xp2sRIfA0B0QuAnkU2T-E_4YwxsVU0aE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDU1/NTQ0LTE1NjY5NTY3/MDQtNzg1Ny5qcGVn.jpeg" alt="Cover for Флюиды Любви" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c83530ff1c23ae349a0015a250eabe4.png" alt="Cover for Флюиды Любви" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Another Lips</td>
@@ -1456,7 +1463,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
     <tr>
       <td>21</td>
       <td>
-          <img src="https://i.discogs.com/JZokjF43pXl8wh11f4uzxwwpcsV-O44SEtDgIMedhU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDk5/NTMtMTQ1MTQ1OTQ2/OS01MjMyLnBuZw.jpeg" alt="Cover for Staražytnaje licha" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d176eb8778bcb3dda99f879042edee5.png" alt="Cover for Staražytnaje licha" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-12-25</td>
       <td>Ljosazabojstwa</td>
@@ -1471,14 +1478,14 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 34</li>
+            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/8LnrvHyBbo6N3eu0y9xfrnE2sN0DTPaYP03na8pNy5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTIy/OTUzLTE1MjQ4MzQx/NTgtNTMwMi5qcGVn.jpeg" alt="Cover for Рэха" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3d4778ebb4cafb8e936572bf35476b9.png" alt="Cover for Рэха" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Dzieciuki</td>
@@ -1497,7 +1504,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/5tfkKrldZ46aiK3hm-nazobji8s_21-FjsjvbILUt7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTU3/OTU3LTE0OTk4NjQ1/ODAtNjMwMi5qcGVn.jpeg" alt="Cover for Этажи" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/153101fc4adc56f38f0d698bb2125c8d.png" alt="Cover for Этажи" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-04-24</td>
       <td>молчат дома</td>
@@ -1516,7 +1523,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/rx3pZcc2nGrYRKwCYLS2AU0hZagN5hySAWsEw_KHpas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTA3/ODQzLTE1MzY2NTY1/MDUtMzg2Ni5qcGVn.jpeg" alt="Cover for Demo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09c1ed7d918095145181daf550c6495f.png" alt="Cover for Demo" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-08-08</td>
       <td>Nürnberg</td>
@@ -1531,14 +1538,14 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 36</li>
+            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>1</td>
       <td>
-          <img src="https://i.discogs.com/jz6n6NTYdlz0quvN_XpmV32lA36nfWntEKjk9aiLyAk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDgx/MzgwLTE1Njc0ODU2/NDEtODIwNS5qcGVn.jpeg" alt="Cover for Вада, хмель і солад" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/94aecc1c680368bd46de4c610c581355.png" alt="Cover for Вада, хмель і солад" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-08-21</td>
       <td>Стары Ольса</td>
@@ -1555,7 +1562,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/H63TnPCrfNoccd9NwNlmv0InHtnzju09PMt2tLh6yPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzg3/MjE1LTE1NDE5NDI2/ODctODkyMi5qcGVn.jpeg" alt="Cover for Rise Of The Humanity" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/84eafff83f2d42288b2a2cde5af6096a.png" alt="Cover for Rise Of The Humanity" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-10-01</td>
       <td>paradise surfers</td>
@@ -1591,14 +1598,14 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 75</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>10</td>
       <td>
-          <img src="https://i.discogs.com/txwruBE6UUuYtA41EuPZsyvMLdIJtJb1uXBTKG2CSvM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTc1/NzA5LTE1NDkzNzYz/MzMtNTE3Ny5qcGVn.jpeg" alt="Cover for You died under me" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5417d48bb4414008a07258921a6b9907.png" alt="Cover for You died under me" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-08</td>
       <td>Volk</td>
@@ -1643,7 +1650,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/ltYcx31LlsWn8VebB-A98-Y0U8p3jXiGu5GTJ5QXh5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDQx/MzE0LTE1OTE1Njcy/MjQtOTg5Ny5qcGVn.jpeg" alt="Cover for Głoryja Śmierci" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21d107e3a9e8d00d4ca1d4ee7e2e541b.png" alt="Cover for Głoryja Śmierci" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-05-21</td>
       <td>Ljosazabojstwa</td>
@@ -1658,7 +1665,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 38</li>
+            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1679,7 +1686,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 75</li>
+            <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1699,7 +1706,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 40</li>
+            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1717,7 +1724,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 32</li>
+            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1744,7 +1751,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/TfU06s_Fg0IBxuzRNZI2VyGoAQEfYG2EbzU0nb7tk0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ1/MTk4LTE1MDg4MzY4/OTQtODc1OC5qcGVn.jpeg" alt="Cover for Nebulae Come Sweet &amp; Difleger Split" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3fc5f0cff0a746fbb5db99f875e2f88f.png" alt="Cover for Nebulae Come Sweet &amp; Difleger Split" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-04-20</td>
       <td>Nebulae Come Sweet</td>
@@ -1766,7 +1773,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
     <tr>
       <td>13</td>
       <td>
-          <img src="https://i.discogs.com/H2HTf1pV1jJm9EZD0Hskxh_jAbMRISp0HAw658EwhJ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzkz/MjY5LTE3MTY4MDkw/NDgtOTgzNi5qcGVn.jpeg" alt="Cover for Temptation Station" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e77a367b035a446188af440087c00642.png" alt="Cover for Temptation Station" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-03-05</td>
       <td>T-Trider</td>
@@ -1801,7 +1808,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 52</li>
+            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1820,13 +1827,14 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 80</li>
+            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ec2fa2955344375c3dfbd68a470e424.png" alt="Cover for ADEVA" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Mindalevidnoe Telo</td>
@@ -1908,6 +1916,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
     <tr>
       <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0fc58def0bce32e7c4a9b88704d5bb1.png" alt="Cover for Abysmal" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Ugasanie &amp; Xerxes the Dark</td>
@@ -1988,6 +1997,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
     <tr>
       <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f914990f6d095cd412e0c81cb468ec7.png" alt="Cover for Першы" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Neuro Dubel</td>
@@ -2049,6 +2059,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
     <tr>
       <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d31866637d6335cef046c7bf6159033f.png" alt="Cover for Na provode" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Atmoravi</td>
@@ -2086,6 +2097,7 @@ Belarusian music refers to the music of Belarus, a country in Eastern Europe. Be
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfa79fac571b2dddf76e214180ef5ccf.png" alt="Cover for For The Brotherhood (EP)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>ВFI</td>

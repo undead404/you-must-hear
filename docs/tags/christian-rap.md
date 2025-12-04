@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-16T06:54:22.532Z
+date: 2025-12-04T11:52:28.882Z
 permalink: tags/christian-rap
 title: christian rap
 ---
 
 ## christian rap
 
-Last updated: <time datetime="2025-11-16T06:54:22.532Z">Sun Nov 16 2025 08:54:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T11:52:28.882Z">Thu Dec 04 2025 13:52:28 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -232,7 +232,8 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 37</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 58</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -288,7 +289,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 64</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -363,7 +364,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 34</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -441,7 +442,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 30</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1121,7 +1122,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-gospel" | relative_url }}">contemporary gospel</a> # 12</li>
+            <li> <a href="{{ "/tags/contemporary-gospel" | relative_url }}">contemporary gospel</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1182,7 +1183,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 57</li>
+            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1389,9 +1390,9 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 66</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 100</li>
-            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 100</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 1</li>
+            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 1</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1464,9 +1465,10 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 52</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 72</li>
-            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 97</li>
+            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 3</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 28</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 46</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1504,7 +1506,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 86</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1540,7 +1542,7 @@ Christian rap blends hip-hop&#39;s rhythmic flows and beats with explicitly fait
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 40</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 60</li>
         </ul>
       </td>
     </tr>

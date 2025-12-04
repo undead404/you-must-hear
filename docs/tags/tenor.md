@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T16:07:59.875Z
+date: 2025-12-04T10:42:19.446Z
 permalink: tags/tenor
 title: tenor
 ---
 
 ## tenor
 
-Last updated: <time datetime="2025-10-28T16:07:59.875Z">Tue Oct 28 2025 18:07:59 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T10:42:19.446Z">Thu Dec 04 2025 12:42:19 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -381,7 +381,7 @@ The tenor tag identifies music featuring the highest male vocal range, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 23</li>
+            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -519,7 +519,7 @@ The tenor tag identifies music featuring the highest male vocal range, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lieder" | relative_url }}">lieder</a> # 51</li>
+            <li> <a href="{{ "/tags/lieder" | relative_url }}">lieder</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -594,7 +594,7 @@ The tenor tag identifies music featuring the highest male vocal range, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 18</li>
+            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -743,8 +743,8 @@ The tenor tag identifies music featuring the highest male vocal range, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 2</li>
-            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 50</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 4</li>
+            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -873,7 +873,7 @@ The tenor tag identifies music featuring the highest male vocal range, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lieder" | relative_url }}">lieder</a> # 24</li>
+            <li> <a href="{{ "/tags/lieder" | relative_url }}">lieder</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1048,7 +1048,7 @@ The tenor tag identifies music featuring the highest male vocal range, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lieder" | relative_url }}">lieder</a> # 61</li>
+            <li> <a href="{{ "/tags/lieder" | relative_url }}">lieder</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1111,6 +1111,7 @@ The tenor tag identifies music featuring the highest male vocal range, character
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/059be2ac03404394bcc798e7d9aafbf7.png" alt="Cover for In The Hands Of Love" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-03</td>
       <td>Vittorio Grigolo</td>
@@ -1123,7 +1124,7 @@ The tenor tag identifies music featuring the highest male vocal range, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 7</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1176,7 +1177,7 @@ The tenor tag identifies music featuring the highest male vocal range, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 91</li>
+            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1195,8 +1196,8 @@ The tenor tag identifies music featuring the highest male vocal range, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 63</li>
-            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 90</li>
+            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 11</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1242,6 +1243,7 @@ The tenor tag identifies music featuring the highest male vocal range, character
     <tr>
       <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d8720d1a2414c87cc117fe0b428cb41.png" alt="Cover for 千の風になって～一期一会～" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-04-02</td>
       <td>秋川雅史</td>
@@ -1378,8 +1380,8 @@ The tenor tag identifies music featuring the highest male vocal range, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 58</li>
-            <li> <a href="{{ "/tags/natal" | relative_url }}">natal</a> # 79</li>
+            <li> <a href="{{ "/tags/natal" | relative_url }}">natal</a> # 22</li>
+            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1479,7 +1481,7 @@ The tenor tag identifies music featuring the highest male vocal range, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lieder" | relative_url }}">lieder</a> # 69</li>
+            <li> <a href="{{ "/tags/lieder" | relative_url }}">lieder</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1503,7 +1505,7 @@ The tenor tag identifies music featuring the highest male vocal range, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harpsichord" | relative_url }}">harpsichord</a> # 65</li>
+            <li> <a href="{{ "/tags/harpsichord" | relative_url }}">harpsichord</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1553,7 +1555,7 @@ The tenor tag identifies music featuring the highest male vocal range, character
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/vJlB1FswC3Ixqm9UaTPaj9wvfax6wWX_o15aFegSwoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDIx/Njc4LTE1MzQ5NTky/MTUtNzgwNS5qcGVn.jpeg" alt="Cover for Slick&#39;s Picks" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc145be73cee468498f101dc05b89b0e.png" alt="Cover for Slick&#39;s Picks" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-08-20</td>
       <td>J. Slick</td>
@@ -1616,7 +1618,7 @@ The tenor tag identifies music featuring the highest male vocal range, character
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/fIqiX8x8eB-LGMYoiVg_gQ-7vsqcksnalW7n4IczXOI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDI4/ODIwLTE2OTU5Mzgx/NDAtMTU4Ny5qcGVn.jpeg" alt="Cover for Honor Song" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/59587375560d3eb063ac7b732f3b27e2.png" alt="Cover for Honor Song" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-10-06</td>
       <td>Jeremy Dutcher</td>
@@ -1632,8 +1634,8 @@ The tenor tag identifies music featuring the highest male vocal range, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 23</li>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 71</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 24</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1697,13 +1699,14 @@ The tenor tag identifies music featuring the highest male vocal range, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lieder" | relative_url }}">lieder</a> # 65</li>
+            <li> <a href="{{ "/tags/lieder" | relative_url }}">lieder</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/130ffe100c614fd9a983dc5c9293895a.png" alt="Cover for Light" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Saad Hebboul</td>
@@ -1724,8 +1727,8 @@ The tenor tag identifies music featuring the highest male vocal range, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 3</li>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 22</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 79</li>
+            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1881,6 +1884,7 @@ The tenor tag identifies music featuring the highest male vocal range, character
     <tr>
       <td>17</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3d4db01815d41d0c10222d92d149098.png" alt="Cover for ねがい" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>秋川雅史</td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-22T16:34:09.115Z
+date: 2025-12-04T09:48:14.259Z
 permalink: tags/bagpipes
 title: bagpipes
 ---
 
 ## bagpipes
 
-Last updated: <time datetime="2025-11-22T16:34:09.115Z">Sat Nov 22 2025 18:34:09 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T09:48:14.259Z">Thu Dec 04 2025 11:48:14 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -301,9 +301,9 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
         <ul>
             <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 6</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 19</li>
-            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 22</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 24</li>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 30</li>
+            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 24</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 71</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -344,7 +344,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 51</li>
+            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -405,7 +405,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 11</li>
+            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -448,7 +448,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 12</li>
+            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -527,7 +527,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 22</li>
+            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -547,7 +547,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 52</li>
+            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -610,7 +610,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 20</li>
+            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -664,7 +664,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 51</li>
+            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -780,9 +780,9 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 31</li>
-            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 76</li>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 80</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 16</li>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 20</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -845,7 +845,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 78</li>
+            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1097,9 +1097,9 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 68</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 75</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 90</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 11</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 26</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 33</li>
             <li> <a href="{{ "/tags/latvian" | relative_url }}">latvian</a> # 93</li>
         </ul>
       </td>
@@ -1155,7 +1155,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 93</li>
+            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1192,7 +1192,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 20</li>
+            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1487,7 +1487,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 72</li>
+            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1510,7 +1510,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 65</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1554,7 +1554,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 15</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1614,7 +1614,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 19</li>
+            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1695,7 +1695,7 @@ This tag features the distinctive drone and melody of bagpipes, recognizable by 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 46</li>
+            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 55</li>
         </ul>
       </td>
     </tr>

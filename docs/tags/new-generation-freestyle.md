@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T03:57:47.223Z
+date: 2025-12-04T09:51:41.436Z
 permalink: tags/new-generation-freestyle
 title: new generation freestyle
 ---
 
 ## new generation freestyle
 
-Last updated: <time datetime="2025-11-11T03:57:47.223Z">Tue Nov 11 2025 05:57:47 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T09:51:41.436Z">Thu Dec 04 2025 11:51:41 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -587,7 +587,7 @@ New Generation Freestyle music is a modern take on the classic Freestyle genre, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 76</li>
+            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -964,7 +964,7 @@ New Generation Freestyle music is a modern take on the classic Freestyle genre, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 99</li>
+            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1047,6 +1047,7 @@ New Generation Freestyle music is a modern take on the classic Freestyle genre, 
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e148ac8a6c24cdeccd7429e0beae1be.png" alt="Cover for My Kind of World" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-10-05</td>
       <td>Amber</td>
@@ -1063,7 +1064,7 @@ New Generation Freestyle music is a modern take on the classic Freestyle genre, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 63</li>
+            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1215,7 +1216,7 @@ New Generation Freestyle music is a modern take on the classic Freestyle genre, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 45</li>
+            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1310,7 +1311,7 @@ New Generation Freestyle music is a modern take on the classic Freestyle genre, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 48</li>
+            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1405,7 +1406,7 @@ New Generation Freestyle music is a modern take on the classic Freestyle genre, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 54</li>
+            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 53</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T20:01:37.971Z
+date: 2025-12-04T11:16:20.720Z
 permalink: tags/post-grunge
 title: post-grunge
 ---
 
 ## post-grunge
 
-Last updated: <time datetime="2025-11-26T20:01:37.971Z">Wed Nov 26 2025 22:01:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T11:16:20.720Z">Thu Dec 04 2025 13:16:20 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
   </thead>
   <tbody>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b66bc5eeefde46398746969ffebb09d4.png" alt="Cover for Home" style="max-width:120px; height:auto;" />
       </td>
@@ -45,12 +45,12 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 94</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/37c8495797bb4fb5b1e35e946780496a.png" alt="Cover for American Standard" style="max-width:120px; height:auto;" />
       </td>
@@ -68,7 +68,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/wKAVcYqVFwY1eoaF9mG8GSKL2w7R6LktPirfZt0ukn8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDc1/NjU2LTE0OTgyMTU5/NDEtMTQ3My5qcGVn.jpeg" alt="Cover for Rhino Hi-Five: Better Than Ezra" style="max-width:120px; height:auto;" />
       </td>
@@ -86,14 +86,14 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 88</li>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 90</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 11</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 13</li>
             <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/o9yXVOVKiqiDkBBm5gfyYdi-8hReFUfNsX6JKJCzsGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTg4/ODUtMTUxMjI5MDU0/NC03OTc5LmpwZWc.jpeg" alt="Cover for Best Of Local H – The Island Years" style="max-width:120px; height:auto;" />
       </td>
@@ -111,7 +111,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/103bb6d6e1234c9bcccd830a0e9b98c6.png" alt="Cover for Counting Blue Cars" style="max-width:120px; height:auto;" />
       </td>
@@ -130,7 +130,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbf32f333680bb2bfd412602b7e2edee.png" alt="Cover for As Good As Dead" style="max-width:120px; height:auto;" />
       </td>
@@ -149,7 +149,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/15f1900c89625deedfb11a299779eb99.png" alt="Cover for Curb" style="max-width:120px; height:auto;" />
       </td>
@@ -167,7 +167,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/006ed44fa946733c32673682f20e3a45.png" alt="Cover for Yourself or Someone Like You" style="max-width:120px; height:auto;" />
       </td>
@@ -187,7 +187,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>88</td>
       <td>
       </td>
       <td>1996-10-23</td>
@@ -203,7 +203,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/bDH5T5Xfrfr5ubp32DE1KrAGThMcJRGcCyzhFLVcO84/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzMx/NDYtMTUxNzk2Nzg3/Ny05Njg5LmpwZWc.jpeg" alt="Cover for Razorblade Suitcase (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -222,7 +222,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ec3a53152a3d890bd112de752f686d9.png" alt="Cover for Marcy Playground" style="max-width:120px; height:auto;" />
       </td>
@@ -241,7 +241,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/57847335de9dd9d7bbe1cf001b1444d2.png" alt="Cover for The Colour and the Shape" style="max-width:120px; height:auto;" />
       </td>
@@ -254,13 +254,13 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 20</li>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 65</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/04179dfe6ccb47c18f97f4ab4af487a9.png" alt="Cover for My Own Prison" style="max-width:120px; height:auto;" />
       </td>
@@ -277,7 +277,24 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>100</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4e81307a5769dc3b96c488931adf7d4.png" alt="Cover for Cold" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998-06-02</td>
+      <td>Cold</td>
+      <td>Cold</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b042cc7a4d34ac59e34ef4c1789cf3d.png" alt="Cover for The State" style="max-width:120px; height:auto;" />
       </td>
@@ -294,7 +311,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4010ccecd184dc48916e4010e82d26c.png" alt="Cover for Human Clay" style="max-width:120px; height:auto;" />
       </td>
@@ -311,7 +328,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f47acfda92b4ff488a52aee4b80da3f.png" alt="Cover for There Is Nothing Left to Lose" style="max-width:120px; height:auto;" />
       </td>
@@ -328,7 +345,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e569aae2ffe4466872eab20ff2b35ab.png" alt="Cover for Shapeshifter" style="max-width:120px; height:auto;" />
       </td>
@@ -347,7 +364,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c18f979649ce4490481c65adb2f48b7.png" alt="Cover for The Greyest of Blue Skies" style="max-width:120px; height:auto;" />
       </td>
@@ -365,7 +382,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f202cd8043e4baecb1cb89a9f81cc32.png" alt="Cover for Spiritual Machines" style="max-width:120px; height:auto;" />
       </td>
@@ -383,7 +400,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/397a546626eecdfbd55527580a5dbc2a.png" alt="Cover for Weathered" style="max-width:120px; height:auto;" />
       </td>
@@ -396,12 +413,12 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 26</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ba95013678446d49c1f6189f8f9016f.png" alt="Cover for Anthology" style="max-width:120px; height:auto;" />
       </td>
@@ -416,13 +433,13 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 41</li>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 49</li>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e3a4cf5a123da1eb70c18cec6adc3bd.png" alt="Cover for Break the Cycle" style="max-width:120px; height:auto;" />
       </td>
@@ -439,7 +456,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
       </td>
       <td>2001-06-26</td>
@@ -457,7 +474,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e371ad3ddc154899c821bc86716d1346.png" alt="Cover for Come Clean" style="max-width:120px; height:auto;" />
       </td>
@@ -473,13 +490,13 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 18</li>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 28</li>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/80649fca746c7014df458258f983d63d.png" alt="Cover for Silver Side Up" style="max-width:120px; height:auto;" />
       </td>
@@ -492,12 +509,12 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 11</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c36b492f3244ce1cc4d527e4286d812.png" alt="Cover for Saturate" style="max-width:120px; height:auto;" />
       </td>
@@ -510,12 +527,12 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 24</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e49b8d7e6a45a4098a3b9a3e328c74f.png" alt="Cover for Disclaimer" style="max-width:120px; height:auto;" />
       </td>
@@ -528,12 +545,12 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 3</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/056ec23d90254b70b62aa84ce14876aa.png" alt="Cover for Away from the Sun" style="max-width:120px; height:auto;" />
       </td>
@@ -551,24 +568,6 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
     </tr>
     <tr>
       <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad71ca3acd8e4cebb7567500a5ec8006.png" alt="Cover for Joyride" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>Oleander</td>
-      <td>Joyride</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/acb686e2310fd3ead4f2db393a1fa2e8.png" alt="Cover for I’m a Mess (with YUNGBLUD)" style="max-width:120px; height:auto;" />
       </td>
@@ -589,7 +588,25 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>99</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad71ca3acd8e4cebb7567500a5ec8006.png" alt="Cover for Joyride" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Oleander</td>
+      <td>Joyride</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/33cf09bc8de04bc8bb6fd8496949ecaa.png" alt="Cover for The Beautiful Letdown" style="max-width:120px; height:auto;" />
       </td>
@@ -607,7 +624,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/09ef53a67e94d31cbec46a22a282bb3d.png" alt="Cover for 14 Shades of Grey" style="max-width:120px; height:auto;" />
       </td>
@@ -625,7 +642,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/650a35ea5b384b35cb5bc35998da5c1a.png" alt="Cover for Smile Empty Soul" style="max-width:120px; height:auto;" />
       </td>
@@ -643,7 +660,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef37f4e43576427fc2d2c2042eee820d.png" alt="Cover for The Long Road" style="max-width:120px; height:auto;" />
       </td>
@@ -660,7 +677,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/04a7ffdd3ece4eb7a218a881d0d65ce0.png" alt="Cover for Another 700 Miles" style="max-width:120px; height:auto;" />
       </td>
@@ -679,7 +696,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/accab21fd46042a5c2327aaaaa4d0db1.png" alt="Cover for Life On Display" style="max-width:120px; height:auto;" />
       </td>
@@ -698,7 +715,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/PdYeAUzGwlOk2uA3GbVHIZphr6p65tr1CBtwlO-8QAQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzkw/MjUtMTM3NDA3MDI3/OS02NjY2LmpwZWc.jpeg" alt="Cover for The Reason (15th Anniversary Deluxe)" style="max-width:120px; height:auto;" />
       </td>
@@ -717,7 +734,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/50af0f80157779fe1a9b6261fbe63fb7.png" alt="Cover for Winning Days" style="max-width:120px; height:auto;" />
       </td>
@@ -732,13 +749,13 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 29</li>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 74</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 26</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb3280898b126f9dcb560fc4b64c0fe6.png" alt="Cover for Crossfade" style="max-width:120px; height:auto;" />
       </td>
@@ -755,7 +772,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/05652a67d11a41e1a0cf573250649471.png" alt="Cover for Disclaimer II" style="max-width:120px; height:auto;" />
       </td>
@@ -768,12 +785,12 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 1</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc719ac0d176f94c3646551a0c57005c.png" alt="Cover for In Due Time" style="max-width:120px; height:auto;" />
       </td>
@@ -791,7 +808,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d80f3a9c052e9fc75a169c6978318e6.png" alt="Cover for LVL IV" style="max-width:120px; height:auto;" />
       </td>
@@ -807,12 +824,12 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 67</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/62f142aed639db2539c63ebb9803bc0d.png" alt="Cover for Head For The Door" style="max-width:120px; height:auto;" />
       </td>
@@ -829,13 +846,13 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 5</li>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 47</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 4</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ba1ae7621cf764615e035bf2e9465d2.png" alt="Cover for Up In The Attic" style="max-width:120px; height:auto;" />
       </td>
@@ -853,7 +870,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9be50cc0539a47e5924966ee116b12f3.png" alt="Cover for Seventeen Days" style="max-width:120px; height:auto;" />
       </td>
@@ -872,7 +889,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4bfb2018f7c4c56a6e9d3bd8b0e10a3.png" alt="Cover for Best of You" style="max-width:120px; height:auto;" />
       </td>
@@ -892,7 +909,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3b076a45d944b508d4455556b96b5ad.png" alt="Cover for In Your Honor" style="max-width:120px; height:auto;" />
       </td>
@@ -909,7 +926,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/NpFseSQMLs1HxMDLffdmpXa5gg4m5K9OtT6QDk9l5FY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNDA1/MS0xNjYyNTYxODkw/LTI1MDkuanBlZw.jpeg" alt="Cover for With You" style="max-width:120px; height:auto;" />
       </td>
@@ -930,7 +947,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a882a58b15ce4298c2d8d12cb8ffddec.png" alt="Cover for Anxiety" style="max-width:120px; height:auto;" />
       </td>
@@ -948,7 +965,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/73f0bcf49b8d468ce3e00b2ef71f831e.png" alt="Cover for Extreme Behavior" style="max-width:120px; height:auto;" />
       </td>
@@ -965,7 +982,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>98</td>
       <td>
       </td>
       <td>2006</td>
@@ -982,7 +999,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/233eaaf8942aa7d56306e85e8a749367.png" alt="Cover for Vision Valley" style="max-width:120px; height:auto;" />
       </td>
@@ -1000,27 +1017,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>23</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/987969981ddd474bc73a434a20d36ed4.png" alt="Cover for Come What(Ever) May [Special Edition]" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006-07-28</td>
-      <td>Stone Sour</td>
-      <td>Come What(Ever) May [Special Edition]</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2feb093562dbe58d0ad33be9a5067e7b.png" alt="Cover for Flyleaf (Re-Release)" style="max-width:120px; height:auto;" />
       </td>
@@ -1041,7 +1038,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/171e6c62408146ecae6c1c653abb1e8d.png" alt="Cover for Art of Dying" style="max-width:120px; height:auto;" />
       </td>
@@ -1058,7 +1055,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1efaea91deea4a8386bcfa09f9201460.png" alt="Cover for Vultures" style="max-width:120px; height:auto;" />
       </td>
@@ -1076,7 +1073,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/0zWoTpRDHQmDCz4Trj0UrRbZKQqDBGv2d1JjhDXXnTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODk1/Ny0xMTczNTc5OTAy/LmpwZWc.jpeg" alt="Cover for A Decade" style="max-width:120px; height:auto;" />
       </td>
@@ -1092,12 +1089,12 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 17</li>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe0850a8d97e4d1fa7ec5c45a56b04c4.png" alt="Cover for Oh! Gravity." style="max-width:120px; height:auto;" />
       </td>
@@ -1116,7 +1113,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e71bf4310694162c19cd90fa6ef20c2.png" alt="Cover for Famous" style="max-width:120px; height:auto;" />
       </td>
@@ -1133,7 +1130,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1a33e78e5ee4efab5827b28776795fb.png" alt="Cover for Echoes, Silence, Patience &amp; Grace" style="max-width:120px; height:auto;" />
       </td>
@@ -1150,7 +1147,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/QHw5sW17r_rDP7zN80ZYB41B89WzWTRTKmdJDAzay5k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDQy/MDI2LTE2MzAyNjE4/MjItNDgwMC5wbmc.jpeg" alt="Cover for Crash - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1165,12 +1162,12 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 99</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c384571cc1bb3c896d41f8d319f642fc.png" alt="Cover for The Sound of Madness" style="max-width:120px; height:auto;" />
       </td>
@@ -1183,12 +1180,12 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 14</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9a1f42e926e495ec95b872b9370c6a2.png" alt="Cover for Melodia" style="max-width:120px; height:auto;" />
       </td>
@@ -1203,12 +1200,12 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 53</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/83e6f040477b4a9a9cd6da7495bfb851.png" alt="Cover for Only Through The Pain..." style="max-width:120px; height:auto;" />
       </td>
@@ -1227,7 +1224,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3335319d37744aa0bb90ef5d9647a1ed.png" alt="Cover for Dark Horse" style="max-width:120px; height:auto;" />
       </td>
@@ -1240,12 +1237,13 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 54</li>
+            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 2</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d164685184441fdc151007b115e52f4.png" alt="Cover for Dear Agony" style="max-width:120px; height:auto;" />
       </td>
@@ -1262,7 +1260,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5dee59c598c84eb1a28ba3c303147100.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1279,7 +1277,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c832364f78b491598f3ac31b793f9a7.png" alt="Cover for Screaming Our Sins" style="max-width:120px; height:auto;" />
       </td>
@@ -1298,7 +1296,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/221cbce8db8d0e18ff94e6ae75ed8910.png" alt="Cover for Volume 4: Songs in the Key of Love &amp; Hate" style="max-width:120px; height:auto;" />
       </td>
@@ -1316,7 +1314,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1ac43a600a94a759f6ba606dd2c5c0c.png" alt="Cover for The Sound of Madness (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1335,7 +1333,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/jzSWvDMwaYuZKl-nX0SdkOu_E8EswpyXgJDNlIpKOOA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTA3/MDQyLTE2NTQ2OTA5/ODctNzM0OS5qcGVn.jpeg" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1354,7 +1352,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb6f14f415884737e197e6566355ac68.png" alt="Cover for Light Me Up" style="max-width:120px; height:auto;" />
       </td>
@@ -1371,7 +1369,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c504f054358f4a24aee52f05eee967a6.png" alt="Cover for Vices and Virtues" style="max-width:120px; height:auto;" />
       </td>
@@ -1390,7 +1388,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d59afb19a4cb41c785d613518a3eb641.png" alt="Cover for Wasting Light" style="max-width:120px; height:auto;" />
       </td>
@@ -1407,7 +1405,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/db9daae9c9b74fc59f1f0b5ad15fb534.png" alt="Cover for Holding Onto Strings Better Left To Fray" style="max-width:120px; height:auto;" />
       </td>
@@ -1425,7 +1423,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5aee654b9ee09eb6d6febb59623bb4c.png" alt="Cover for Superfiction" style="max-width:120px; height:auto;" />
       </td>
@@ -1443,7 +1441,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>91</td>
       <td>
       </td>
       <td>2012</td>
@@ -1461,7 +1459,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
       </td>
       <td>2012-03-06</td>
@@ -1479,7 +1477,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/387cf5b12c379dfe7e1e46be5314e8fd.png" alt="Cover for Colourmeinkindness" style="max-width:120px; height:auto;" />
       </td>
@@ -1494,13 +1492,13 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 28</li>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 32</li>
-            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/73cc0af4fce742b2b5e6f360535cda06.png" alt="Cover for Kill Me" style="max-width:120px; height:auto;" />
       </td>
@@ -1518,7 +1516,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff2e06009add3c3535422119e2ec3862.png" alt="Cover for Jar" style="max-width:120px; height:auto;" />
       </td>
@@ -1539,7 +1537,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>94</td>
       <td>
       </td>
       <td>2013-08-20</td>
@@ -1554,12 +1552,12 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 2</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6cb42e61da4846a1c66373c5bf36d5be.png" alt="Cover for Seether: 2002-2013" style="max-width:120px; height:auto;" />
       </td>
@@ -1578,7 +1576,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>82</td>
       <td>
       </td>
       <td>2014-04-27</td>
@@ -1595,7 +1593,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc3a6f569f93436bc3aa2e70754213e5.png" alt="Cover for Isolate and Medicate" style="max-width:120px; height:auto;" />
       </td>
@@ -1614,7 +1612,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
       </td>
       <td>2014-07-22</td>
@@ -1690,68 +1688,68 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 2</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 14</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 4</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 4</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 4</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 4</li>
+            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 4</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 5</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 5</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 5</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 5</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 5</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 6</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 6</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 6</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 6</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 6</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 6</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 6</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 7</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 7</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 8</li>
+            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 11</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 11</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 14</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 15</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 15</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 15</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 15</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 21</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 22</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 25</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 29</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 41</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 51</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 64</li>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 65</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 68</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 31</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 33</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 50</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 59</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 63</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 72</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 75</li>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 76</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 80</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 83</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 83</li>
-            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 85</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 86</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 86</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 87</li>
-            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 90</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 90</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 87</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 91</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 92</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 92</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 92</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 92</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 93</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 93</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 93</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 94</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 94</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 94</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 94</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 94</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 95</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 95</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 95</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 95</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 95</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 95</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 96</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 94</li>
             <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 96</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 96</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 96</li>
-            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 96</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 96</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 96</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 96</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 96</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 97</li>
-            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 97</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 96</li>
             <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 97</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 97</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 97</li>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 97</li>
             <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 97</li>
             <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
       </td>
       <td>2014-09-30</td>
@@ -1767,12 +1765,12 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 65</li>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d216653647dc4be6cb0a178fd64e1aab.png" alt="Cover for No Fixed Address" style="max-width:120px; height:auto;" />
       </td>
@@ -1789,7 +1787,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1bdd2f33c81b8bfd8ed7e294d43195ed.png" alt="Cover for Up" style="max-width:120px; height:auto;" />
       </td>
@@ -1807,7 +1805,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd89381a39814dc9198ef145eba7afc5.png" alt="Cover for Poison the Parish (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1825,7 +1823,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/_h0aqOdPbRXSagACfmlXQgD90MQra9yZ-T8i-tLsxY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3Njkx/MzktMTQ4NjA1OTQy/Mi0zNzU0LmpwZWc.jpeg" alt="Cover for Feed The Machine" style="max-width:120px; height:auto;" />
       </td>
@@ -1845,7 +1843,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c1d50ee921cc6b4d95405fb59a41f74.png" alt="Cover for You&#39;re Losing Me (From the Vault)" style="max-width:120px; height:auto;" />
       </td>
@@ -1859,15 +1857,15 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 3</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 24</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 61</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 40</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 76</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 90</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/7qh3cVqK0seNhle8QOquXXBWyE3PqPsOr_u3Zeb7yEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDQy/MjEyLTE1OTE1OTA2/ODQtMzI2NC5qcGVn.jpeg" alt="Cover for Kinfolks" style="max-width:120px; height:auto;" />
       </td>
@@ -1944,75 +1942,75 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 16</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 2</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 2</li>
+            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 2</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 2</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 2</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 2</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 2</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 3</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 3</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 3</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 3</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 3</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 3</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 3</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 3</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 4</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 4</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 4</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 4</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 5</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 5</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 6</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 7</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 7</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 7</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 8</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 9</li>
+            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 9</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 11</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 11</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 14</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 17</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 20</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 20</li>
             <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 21</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 26</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 36</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 43</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 45</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 47</li>
             <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 47</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 53</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 54</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 56</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 56</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 66</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 73</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 79</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 48</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 79</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 81</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 81</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 82</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 83</li>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 87</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 87</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 79</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 81</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 85</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 88</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 90</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 90</li>
-            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 92</li>
-            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 92</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 93</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 94</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 94</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 94</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 95</li>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 95</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 96</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 96</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 96</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 96</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 96</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 96</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 96</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 97</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 97</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 98</li>
             <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 98</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 98</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 98</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 98</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 98</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 98</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 98</li>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 99</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 99</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 99</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 99</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 99</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 99</li>
             <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 99</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 99</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 99</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 99</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 99</li>
-            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 99</li>
             <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 99</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 99</li>
             <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4916defd167f83cc1bbf92f242759ba3.png" alt="Cover for Rotting Pinata" style="max-width:120px; height:auto;" />
       </td>
@@ -2030,7 +2028,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/-Mq689_34uSYBSAy80JhjyeqRjPJ-vRyNFG0o1H8VMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODY2/MDc5LTE1OTkyMzU3/NzEtNjkzNS5qcGVn.jpeg" alt="Cover for A ROCK" style="max-width:120px; height:auto;" />
       </td>
@@ -2047,13 +2045,13 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 81</li>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 84</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 13</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/Xx7jgBdECDrqVxUxpyibtMfXPBB3JYetI-w1DjfxJ4g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjUz/MDUwLTE2MjQ0OTU0/MzEtNDQ2OS5qcGVn.jpeg" alt="Cover for Death Of A Cheerleader" style="max-width:120px; height:auto;" />
       </td>
@@ -2077,16 +2075,16 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 21</li>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 28</li>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 55</li>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 56</li>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 94</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 7</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 43</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 46</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 73</li>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://i.discogs.com/PxKUXwHf6swBK0vgbZ1Fjk83s8yWclHILimHBRAB8zg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQz/NTMyLTE2Nzg5OTU5/MzYtNjY5MS5qcGVn.jpeg" alt="Cover for Water Under The Bridge" style="max-width:120px; height:auto;" />
       </td>
@@ -2163,73 +2161,73 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 8</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 9</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 10</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 13</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 16</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 25</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 30</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 3</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 3</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 3</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 3</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 3</li>
+            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 3</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 4</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 4</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 4</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 4</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 4</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 4</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 4</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 5</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 5</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 5</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 5</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 5</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 6</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 6</li>
+            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 10</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 10</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 11</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 12</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 12</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 12</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 13</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 13</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 18</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 19</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 21</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 24</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 28</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 43</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 44</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 49</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 58</li>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 72</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 72</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 51</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 71</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 72</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 73</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 73</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 79</li>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 80</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 83</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 74</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 84</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 85</li>
-            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 88</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 88</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 89</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 90</li>
-            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 91</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 91</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 87</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 87</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 92</li>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 93</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 92</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 92</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 93</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 93</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 94</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 94</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 94</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 94</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 95</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 95</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 95</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 95</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 96</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 96</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 96</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 96</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 96</li>
-            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 97</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 97</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 97</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 97</li>
-            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 97</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 95</li>
             <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 97</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 97</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 97</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 98</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 97</li>
+            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 97</li>
             <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 98</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 98</li>
             <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 98</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 98</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 98</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 98</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
       </td>
       <td>2022-08-26</td>
@@ -2250,7 +2248,7 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/ZVuuVDrd1hiYv-rfLKWltfrHN9-bUsg0qvZqFBnqjWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODIw/NzAwLTE2NjU3NTQz/ODEtNDU3My5qcGVn.jpeg" alt="Cover for the mockingbird &amp; THE CROW" style="max-width:120px; height:auto;" />
       </td>
@@ -2267,13 +2265,13 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 96</li>
-            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 96</li>
+            <li> <a href="{{ "/tags/bro-country" | relative_url }}">bro-country</a> # 5</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ac4600ccdaa802e6b0d2dd82464f666.png" alt="Cover for Outskirts" style="max-width:120px; height:auto;" />
       </td>
@@ -2352,72 +2350,72 @@ Post-grunge is a subgenre of alternative rock music that emerged in the mid-1990
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 49</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 1</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 1</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 1</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 1</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 1</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 1</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 1</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 1</li>
+            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 1</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 1</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 1</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 1</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 1</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 2</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 2</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 2</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 2</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 2</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 3</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 3</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 3</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 3</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 3</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 4</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 4</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 4</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 4</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 5</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 5</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 6</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 6</li>
+            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 7</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 9</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 11</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 13</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 16</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 16</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 22</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 25</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 28</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 30</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 31</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 52</li>
             <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 60</li>
             <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 62</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 70</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 71</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 72</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 76</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 80</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 80</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 85</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 86</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 88</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 89</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 90</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 90</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 92</li>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 93</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 93</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 89</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 94</li>
-            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 94</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 95</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 95</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 95</li>
-            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 95</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 97</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 97</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 97</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 97</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 97</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 98</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 98</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 98</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 98</li>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 98</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 97</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 97</li>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 98</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 99</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 99</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 99</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 99</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 99</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 99</li>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 100</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 100</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 100</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 100</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 99</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 100</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 100</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 100</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 100</li>
             <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 100</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 100</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 100</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 100</li>
             <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 100</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 100</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 100</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 100</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 100</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 100</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 100</li>
         </ul>
       </td>
     </tr>

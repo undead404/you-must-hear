@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-22T16:51:51.074Z
+date: 2025-12-04T09:53:11.493Z
 permalink: tags/chicago-house
 title: chicago house
 ---
 
 ## chicago house
 
-Last updated: <time datetime="2025-11-22T16:51:51.074Z">Sat Nov 22 2025 18:51:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T09:53:11.493Z">Thu Dec 04 2025 11:53:11 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -357,6 +357,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -487,7 +488,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 46</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 55</li>
             <li> <a href="{{ "/tags/garage-house" | relative_url }}">garage house</a> # 71</li>
         </ul>
       </td>
@@ -672,7 +673,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       <td>
         <ul>
             <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 26</li>
-            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 69</li>
+            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 30</li>
             <li> <a href="{{ "/tags/ghettotech" | relative_url }}">ghettotech</a> # 95</li>
         </ul>
       </td>
@@ -975,7 +976,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 13</li>
+            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1002,10 +1003,10 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 15</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 66</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 69</li>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 79</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 22</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 32</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 35</li>
+            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1203,7 +1204,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 61</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1445,7 +1446,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 20</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1492,8 +1493,8 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 27</li>
             <li> <a href="{{ "/tags/garage-house" | relative_url }}">garage house</a> # 51</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1517,7 +1518,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       <td>
         <ul>
             <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 47</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 47</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1541,7 +1542,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 67</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 34</li>
             <li> <a href="{{ "/tags/garage-house" | relative_url }}">garage house</a> # 83</li>
         </ul>
       </td>
@@ -1667,8 +1668,8 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 23</li>
             <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 33</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1686,8 +1687,8 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 6</li>
             <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 14</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1755,8 +1756,8 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 25</li>
             <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 35</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1778,7 +1779,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 14</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1801,8 +1802,8 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 20</li>
             <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 27</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1870,8 +1871,8 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 32</li>
             <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 41</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1888,7 +1889,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 16</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1925,7 +1926,7 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 33</li>
+            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1954,8 +1955,8 @@ Chicago House Music originated in the mid-1980s in Chicago, combining elements o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 27</li>
-            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 56</li>
+            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 45</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 74</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T19:36:18.773Z
+date: 2025-12-04T09:53:22.716Z
 permalink: tags/tech-trance
 title: tech trance
 ---
 
 ## tech trance
 
-Last updated: <time datetime="2025-11-26T19:36:18.773Z">Wed Nov 26 2025 21:36:18 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T09:53:22.716Z">Thu Dec 04 2025 11:53:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -165,7 +165,7 @@ Tech Trance is a subgenre of trance music that emerged in the mid-1990s, heavily
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 30</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -228,7 +228,7 @@ Tech Trance is a subgenre of trance music that emerged in the mid-1990s, heavily
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 48</li>
+            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 53</li>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 97</li>
         </ul>
       </td>
@@ -258,8 +258,8 @@ Tech Trance is a subgenre of trance music that emerged in the mid-1990s, heavily
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 7</li>
             <li> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a> # 80</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -381,8 +381,8 @@ Tech Trance is a subgenre of trance music that emerged in the mid-1990s, heavily
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 53</li>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 63</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 38</li>
+            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -411,7 +411,7 @@ Tech Trance is a subgenre of trance music that emerged in the mid-1990s, heavily
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 81</li>
+            <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -544,7 +544,7 @@ Tech Trance is a subgenre of trance music that emerged in the mid-1990s, heavily
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 26</li>
+            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -610,7 +610,7 @@ Tech Trance is a subgenre of trance music that emerged in the mid-1990s, heavily
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 13</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -642,7 +642,7 @@ Tech Trance is a subgenre of trance music that emerged in the mid-1990s, heavily
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 81</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -671,8 +671,8 @@ Tech Trance is a subgenre of trance music that emerged in the mid-1990s, heavily
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 6</li>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 59</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 42</li>
+            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -741,7 +741,7 @@ Tech Trance is a subgenre of trance music that emerged in the mid-1990s, heavily
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 44</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -762,7 +762,7 @@ Tech Trance is a subgenre of trance music that emerged in the mid-1990s, heavily
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 17</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -909,7 +909,7 @@ Tech Trance is a subgenre of trance music that emerged in the mid-1990s, heavily
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 54</li>
+            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -931,7 +931,7 @@ Tech Trance is a subgenre of trance music that emerged in the mid-1990s, heavily
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 13</li>
+            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -978,8 +978,8 @@ Tech Trance is a subgenre of trance music that emerged in the mid-1990s, heavily
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 9</li>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 72</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 29</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1085,8 +1085,8 @@ Tech Trance is a subgenre of trance music that emerged in the mid-1990s, heavily
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 13</li>
-            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 52</li>
+            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 49</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1156,7 +1156,7 @@ Tech Trance is a subgenre of trance music that emerged in the mid-1990s, heavily
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 40</li>
+            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1188,8 +1188,8 @@ Tech Trance is a subgenre of trance music that emerged in the mid-1990s, heavily
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 2</li>
-            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 42</li>
+            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 59</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1220,8 +1220,8 @@ Tech Trance is a subgenre of trance music that emerged in the mid-1990s, heavily
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 6</li>
-            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 45</li>
+            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 56</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1272,7 +1272,7 @@ Tech Trance is a subgenre of trance music that emerged in the mid-1990s, heavily
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 81</li>
+            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1299,8 +1299,8 @@ Tech Trance is a subgenre of trance music that emerged in the mid-1990s, heavily
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 40</li>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 83</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 18</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1363,7 +1363,7 @@ Tech Trance is a subgenre of trance music that emerged in the mid-1990s, heavily
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 91</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 10</li>
             <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 99</li>
         </ul>
       </td>
@@ -1410,7 +1410,7 @@ Tech Trance is a subgenre of trance music that emerged in the mid-1990s, heavily
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 33</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1697,8 +1697,8 @@ Tech Trance is a subgenre of trance music that emerged in the mid-1990s, heavily
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 82</li>
-            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 96</li>
+            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 5</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1761,7 +1761,7 @@ Tech Trance is a subgenre of trance music that emerged in the mid-1990s, heavily
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 3</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1782,8 +1782,8 @@ Tech Trance is a subgenre of trance music that emerged in the mid-1990s, heavily
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 9</li>
             <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 53</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1806,7 +1806,7 @@ Tech Trance is a subgenre of trance music that emerged in the mid-1990s, heavily
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 77</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 24</li>
             <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 85</li>
         </ul>
       </td>
@@ -1865,7 +1865,7 @@ Tech Trance is a subgenre of trance music that emerged in the mid-1990s, heavily
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 81</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1887,9 +1887,9 @@ Tech Trance is a subgenre of trance music that emerged in the mid-1990s, heavily
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 37</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 55</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 63</li>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 64</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 65</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T06:51:29.753Z
+date: 2025-12-04T09:53:05.729Z
 permalink: tags/mashcore
 title: mashcore
 ---
 
 ## mashcore
 
-Last updated: <time datetime="2025-10-22T06:51:29.753Z">Wed Oct 22 2025 09:51:29 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T09:53:05.729Z">Thu Dec 04 2025 11:53:05 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,7 +47,7 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 42</li>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -72,7 +72,7 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 49</li>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -94,7 +94,7 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 51</li>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -134,7 +134,7 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 34</li>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -198,14 +198,14 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 66</li>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Favicon Vol. 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c1d53a3d3896200a6f9a718ba55c07b.png" alt="Cover for Favicon Vol. 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Various Artists</td>
@@ -224,7 +224,7 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 45</li>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -245,7 +245,7 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 40</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -290,9 +290,9 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 20</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 58</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 73</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 15</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 43</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -319,7 +319,7 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/0qwrLQvwFWoZmAhmfwcUZI_MHOZQwcwd_tZZ0QHJvjM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI4/NjYwLTE2MDAzNzA0/MzEtODIzMC5qcGVn.jpeg" alt="Cover for inaumadosexual vol. 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/64f9bb6b19ff745f38ac1f6b7cee09f9.png" alt="Cover for inaumadosexual vol. 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>dj 3.14159</td>
@@ -340,7 +340,7 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/-nTs1dp-MRCSRPCxTlzXU9QBAe__YnDAEMC5EbXwBwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NjA1/MjItMTM2NTQ5NzM1/NS05Njg0LmpwZWc.jpeg" alt="Cover for inaumadosexual" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b192f63474ae7754db208f4b3cf47bc4.png" alt="Cover for inaumadosexual" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>dj 3.14159</td>
@@ -378,7 +378,7 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 48</li>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -420,14 +420,14 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 43</li>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/TOFqYwrYNX7Gkl2zmgON8-hC6H2GOAQ_r5rUNmC1bVE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NDE3/ODAtMTQwNjkyMTIz/OS05NTQ5LmpwZWc.jpeg" alt="Cover for lolicon ghetto mix" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/08eb6ff7ab344b780483983937ac1a6d.png" alt="Cover for lolicon ghetto mix" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Laser Imouto</td>
@@ -459,14 +459,14 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 25</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/l0JLgodhkr-1UqJrl89YSEy__5QJI5L2vE0f8Ccs4io/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODI0/NzctMTI0OTkxNTY3/OS5qcGVn.jpeg" alt="Cover for Dream That I Saw EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/88f666d8966f544527f0ebe32e5d910e.png" alt="Cover for Dream That I Saw EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-07-02</td>
       <td>AleX Tune</td>
@@ -481,7 +481,7 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 71</li>
+            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -505,16 +505,16 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 44</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 58</li>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 93</li>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 8</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 44</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/paRQuLfdTVA__DGNOOd5FHIii6PSk2IdjXIC2dkV_0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDc3/OTAtMTI1NDMzNDc0/MS5qcGVn.jpeg" alt="Cover for What is a Mashup?" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21d99468d7ea0c2313e1f86243a66a7c.png" alt="Cover for What is a Mashup?" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09-30</td>
       <td>AleX Tune</td>
@@ -534,7 +534,7 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/zOG7O-TRYtx1GGHChPTu2whH2DnHlTnTKWo_w9Y45pw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDM2/MzQtMTI4MjA4MTM1/MC5qcGVn.jpeg" alt="Cover for Granite City Dancecore" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/926e8218b8c649798432064da55bbc94.png" alt="Cover for Granite City Dancecore" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01-02</td>
       <td>Annoying Ringtone</td>
@@ -548,8 +548,8 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 52</li>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 91</li>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 10</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -568,8 +568,8 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 6</li>
             <li> <a href="{{ "/tags/j-core" | relative_url }}">j-core</a> # 86</li>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -588,7 +588,7 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 97</li>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -628,14 +628,14 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 76</li>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/y3Taia2S4t_251y0h429cr7Nt159HjF0lhg2ruNA8eE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODk4/MDktMTMxNTIzNDkz/MC5wbmc.jpeg" alt="Cover for PARTYCORE" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/80f7ee62805646ceb84946f2a21ec3ae.png" alt="Cover for PARTYCORE" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-12</td>
       <td>odaxelagnia</td>
@@ -649,7 +649,7 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 94</li>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -713,7 +713,7 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 62</li>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -735,8 +735,8 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 4</li>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 80</li>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 21</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -756,7 +756,7 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 64</li>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -779,7 +779,7 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 78</li>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -800,7 +800,7 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 71</li>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -822,8 +822,8 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 31</li>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 40</li>
+            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 30</li>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -870,7 +870,7 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/c-VMpvIRlnLos4Zw89Im1AZTpekmeYCaAl7Kz_24lDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTc1/ODctMTM0MTU3NDIx/Ni02OTA3LmpwZWc.jpeg" alt="Cover for Absolute Rave Vol. 2: What&#39;s Wrong With My Dancecore (Swag)?" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2fa948d610854ee5b3a98003634462bd.png" alt="Cover for Absolute Rave Vol. 2: What&#39;s Wrong With My Dancecore (Swag)?" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-07-05</td>
       <td>Negrobeat</td>
@@ -888,14 +888,13 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 57</li>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/icd1cWl1Axvt4bx5RIhENR5M2kwW4cJddjNTPdzvY6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjI5/NzktMTQ3MzQ0MTI5/Ny04NjkzLmpwZWc.jpeg" alt="Cover for Beatless" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08-22</td>
       <td>Stantekk</td>
@@ -912,7 +911,7 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 30</li>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -935,7 +934,7 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 38</li>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -957,7 +956,7 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 44</li>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1029,15 +1028,15 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 25</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 68</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 21</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/0jbAavAibKt5_P0lQLQjua-rwmcMGqo5-iuNy1neoFQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDg5/MjktMTQxOTUwNzI1/Ny00ODU2LmpwZWc.jpeg" alt="Cover for LOLI NURSE EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/acc352fcda9f4633c6b69470de77e38b.png" alt="Cover for LOLI NURSE EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-04-24</td>
       <td>LOLI NURSE</td>
@@ -1055,14 +1054,14 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 82</li>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/h1LloHEjfk2gsfe0ZiHCXSWLwY5e0kQykYNgWVhOay4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTAz/NzgtMTQwMDAxNjUy/MC0yMDcyLnBuZw.jpeg" alt="Cover for 18" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa06ff03c3df4a0ccaa873161af6cc0e.png" alt="Cover for 18" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-05-13</td>
       <td>DCIM</td>
@@ -1099,8 +1098,8 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 41</li>
             <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 53</li>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1123,13 +1122,14 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 65</li>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b873526604354613c619a498e32c3372.png" alt="Cover for copyright infringement ep" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-08-30</td>
       <td>goreshit</td>
@@ -1144,16 +1144,16 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 85</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 87</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 100</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 1</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 13</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/58q8GZYSffw4WC5DIZeVClQItHsjoFelzfI8IRDMCls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMzIw/ODQtMTQxNjY3NDY2/MS0xNzIzLmpwZWc.jpeg" alt="Cover for DIY Brain Surgery" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ed2b9c76829493ec9728ccd43e3fe14.png" alt="Cover for DIY Brain Surgery" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-09-20</td>
       <td>Annoying Ringtone</td>
@@ -1171,7 +1171,7 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 74</li>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1194,7 +1194,7 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 29</li>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1391,7 +1391,7 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/xKAjAPyroOEZgXJct7OjYsUOu_8LORoAGcHQrevb3QE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTA3/ODU5LTE1MTc1ODUz/NTYtNjE0MS5qcGVn.jpeg" alt="Cover for Cooler WC Music Strongest" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/97ef55d8a85a41e3ea3fb1bf15d7f391.png" alt="Cover for Cooler WC Music Strongest" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-02-02</td>
       <td>odaxelagnia</td>
@@ -1411,7 +1411,7 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/7z87YvSLX3I6k20w8mYX_u_nFCiWsQE0DBmErhK70ss/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjE0/MTYwLTE2MTIyMDc3/NDEtMTc1Mi5qcGVn.jpeg" alt="Cover for ろりすぺるまむ" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a9289bd35f444648608b7f4a827573e.png" alt="Cover for ろりすぺるまむ" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-05-04</td>
       <td>Bukiko</td>
@@ -1450,10 +1450,10 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 69</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 78</li>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 86</li>
-            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 91</li>
+            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 9</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 15</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 20</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1475,7 +1475,7 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 37</li>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1497,9 +1497,9 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 80</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 85</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 96</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 4</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 17</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1565,7 +1565,7 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/kDhc-Xyv2IeAeSiAwWPEZvSjfjOm16IRjEPiMXozAJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDY2/ODU2LTE2MzMzNDYx/NTgtNzk5OS5qcGVn.jpeg" alt="Cover for dariacore" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9585185f9431f7621a31c50796025451.png" alt="Cover for dariacore" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-05-14</td>
       <td>Leroy</td>
@@ -1581,7 +1581,7 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 22</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1635,9 +1635,10 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 34</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 88</li>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 92</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 9</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 12</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 60</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1717,7 +1718,7 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 36</li>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1738,7 +1739,7 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 34</li>
+            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1776,7 +1777,7 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 84</li>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1795,7 +1796,7 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 77</li>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1840,7 +1841,7 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Absolute Dansband 3000" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8eec4af1411e4044be9797be99c3a2e6.png" alt="Cover for Absolute Dansband 3000" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Various Artists</td>
@@ -1959,7 +1960,7 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 33</li>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1980,7 +1981,7 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 23</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -2024,9 +2025,9 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 21</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 60</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 75</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 16</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 41</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -2070,10 +2071,10 @@ Mashcore is a chaotic fusion of breakcore, digital hardcore, and internet cultur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 3</li>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 34</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 75</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 83</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 26</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 30</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 84</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 99</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T18:47:37.954Z
+date: 2025-12-04T09:48:20.849Z
 permalink: tags/uk-hardcore
 title: uk hardcore
 ---
 
 ## uk hardcore
 
-Last updated: <time datetime="2025-11-23T18:47:37.954Z">Sun Nov 23 2025 20:47:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T09:48:20.849Z">Thu Dec 04 2025 11:48:20 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -198,7 +198,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/Vdjje-FAHWK941T6ki-RXrU8eUk5TJJly8YNIWle-7U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NjE3/LTExODMyMjkwMTYu/anBlZw.jpeg" alt="Cover for Synthetic Dreams &#x2F; Hardcore Is The Future" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d41465430b03fb645978224a55f4a7f.png" alt="Cover for Synthetic Dreams &#x2F; Hardcore Is The Future" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-08</td>
       <td>Scott Brown</td>
@@ -219,7 +219,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/Q7Oa5xAdDoP2fuOCjIidqVw6_kYSrSqsAaFIjauAWjI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDc0/OC0xMjE3OTQ4NTk5/LmpwZWc.jpeg" alt="Cover for Like an Angel &#x2F; Feel the Beats Bang" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/861a7b3b5203a01e64b50ff3379e303b.png" alt="Cover for Like an Angel &#x2F; Feel the Beats Bang" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Q-Tex</td>
@@ -315,7 +315,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/IhO3qwaK8f2kJggN2JgXET9MdmMdWiXn5qwAk4bAifU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzE1/MTkwLTE1NDUxNTUz/MTEtMjkxMi5qcGVn.jpeg" alt="Cover for Evolution Plus Classics, Vol. 3" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/afc912e95f8aa3c62a2fe1b1eaefc9ac.png" alt="Cover for Evolution Plus Classics, Vol. 3" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Scott Brown</td>
@@ -391,13 +391,14 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 69</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/65c5bc14ab5640c58d40001a722131ae.png" alt="Cover for Best of Bonkers" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-01-15</td>
       <td>Hixxy &amp; Re-Con &#x2F; Druid &amp; Sharkey &#x2F; Scott Brown</td>
@@ -475,7 +476,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/HBuzKPH9j0PpikV5tBGtW9_mGq-cbDvTfXR6VdZUwOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzQ4/MjUtMTMyNzMyNjYx/Ny5qcGVn.jpeg" alt="Cover for Little Kandi Raver &#x2F; Dealer &#x2F; Le Rock" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/74c95890c9c7f4c497242d281a0d965f.png" alt="Cover for Little Kandi Raver &#x2F; Dealer &#x2F; Le Rock" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09-30</td>
       <td>S3RL</td>
@@ -492,15 +493,15 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 21</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 52</li>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/OL1NA9uGM5gwB_NBsm7uwHYyIWEglnV1gS-2gC0w45A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjEy/NjgtMTI1NTE5NTc1/NC5qcGVn.jpeg" alt="Cover for [chase033] - Strobcore - Funky Music Ep" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5aed890e8716fa63e06b142501247b0b.png" alt="Cover for [chase033] - Strobcore - Funky Music Ep" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10</td>
       <td>Strobcore</td>
@@ -515,7 +516,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 12</li>
+            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -534,7 +535,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 86</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -552,14 +553,15 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 79</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 19</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/YCCzXZo7EVXzIhlX4QxaZNNjLfkn8ohDFpTa6i77RFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Mjg0/NDgtMTU4ODYyMDY2/My02NzUzLmpwZWc.jpeg" alt="Cover for Hardcore Addiction 3" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8bbfbce20d247ba9af86dc2d12c0902.png" alt="Cover for Hardcore Addiction 3" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-26</td>
       <td>Orbit1</td>
@@ -600,7 +602,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/g84HmgLoalKiswNXse1d9Y11jXqs7XDPAuQhWPUuJJc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NTkx/MDAtMTY0MDY4MTE2/Mi01NDQ1LnBuZw.jpeg" alt="Cover for Filth &amp; Dumb Hatred" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/180a671688a648b2c840f624a4cdb085.png" alt="Cover for Filth &amp; Dumb Hatred" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-08-08</td>
       <td>Fracus</td>
@@ -619,6 +621,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21290051baa94a398b42d44a52480c38.png" alt="Cover for ELEKTRONIX" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-08-24</td>
       <td>DJ Shimamura</td>
@@ -658,10 +661,10 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 65</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 2</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 17</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 29</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 80</li>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 83</li>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -745,7 +748,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/SggJAfH85TuVGAikBdhUMP5bo2KrlBggO7pYdioycic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NzQ2/NjctMTQwMjMwNjMz/Ny03MjU5LmpwZWc.jpeg" alt="Cover for Shadowed By Vultures" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a7f98970b5bfd0af1925d6ff0918e5e.png" alt="Cover for Shadowed By Vultures" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Polar</td>
@@ -777,7 +780,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 62</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -797,7 +800,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 11</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -880,7 +883,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/KnSjCtNn8s6xqat3QclveNWJxW3PEXAUR6AvxB6rbgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNzYz/MTAtMTQxNTM4NjMx/NS01NTExLmpwZWc.jpeg" alt="Cover for Supersonic" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba6c53496b6a17c12a10ff2295b32b8a.png" alt="Cover for Supersonic" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-10-13</td>
       <td>Pegboard Nerds</td>
@@ -899,7 +902,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/muOZ80Ms75N6gSnuflyu_CiU3l1oEBhWfgh958bUbEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNjI2/MzMtMTQxNTA1NjU0/MS05MjU4LmpwZWc.jpeg" alt="Cover for Cherry Pop" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/093e7b972cf7a61398fd317dc6ec9e79.png" alt="Cover for Cherry Pop" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-10-15</td>
       <td>S3RL</td>
@@ -916,7 +919,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 38</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -957,7 +960,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 89</li>
+            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -998,7 +1001,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 17</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1038,7 +1041,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 33</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1058,7 +1061,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 97</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1078,7 +1081,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 18</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1158,14 +1161,14 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 20</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/tA48pX5dTvshl4eH23x4xjeG4GF8-fDtlF_Su1QKu1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDU2/NTctMTI2MDMzMzI4/Ny5qcGVn.jpeg" alt="Cover for Bass Slut" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebe0fd4c04a08028127c884c9698b653.png" alt="Cover for Bass Slut" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-01-31</td>
       <td>S3RL</td>
@@ -1261,9 +1264,9 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 38</li>
-            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 92</li>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 95</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 6</li>
+            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 9</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1286,8 +1289,8 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 29</li>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 69</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 33</li>
+            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 72</li>
             <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 91</li>
         </ul>
       </td>
@@ -1345,8 +1348,8 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 9</li>
             <li> <a href="{{ "/tags/j-core" | relative_url }}">j-core</a> # 85</li>
-            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1407,7 +1410,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       <td>
         <ul>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 18</li>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 53</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1427,8 +1430,8 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 42</li>
-            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 57</li>
+            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 44</li>
+            <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1549,7 +1552,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 14</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1628,14 +1631,14 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 68</li>
+            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/Wj6fb0L9rLt9WZSJJP3f5Mnyqo2D9410PZmzWFBlgnE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0Njgz/NDQtMTQ0ODE2Njc5/Ny05MjAyLmpwZWc.jpeg" alt="Cover for Blow the Bloody Doors Off" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6eaa01bfa79c42bc389c649f284789bc.png" alt="Cover for Blow the Bloody Doors Off" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-02-23</td>
       <td>Dynamite</td>
@@ -1666,7 +1669,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 21</li>
+            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1726,7 +1729,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 27</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1848,6 +1851,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
     <tr>
       <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/63f041e0d1a77096f473f5bc210f4581.png" alt="Cover for Bonkers 16: Maximum Hardcore Energy!" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Hixxy &amp; Re-Con &#x2F; Sharkey &amp; CLSM feat. DJ Kutski &#x2F; Scott Brown &amp; Gammer</td>
@@ -1904,6 +1908,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
     <tr>
       <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10302c441dcd4465953434c6883c6276.png" alt="Cover for Bass Slut" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>S3RL feat Tamika</td>
@@ -1922,6 +1927,7 @@ UK Hardcore is a genre that evolved from the United Kingdom’s rave scene, char
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf6ee82721394c7089ba6ceacd72a114.png" alt="Cover for Bass Slut" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>S3RL &amp; Kato</td>

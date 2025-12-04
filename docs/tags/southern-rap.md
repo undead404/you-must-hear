@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T21:13:31.197Z
+date: 2025-12-04T11:33:50.827Z
 permalink: tags/southern-rap
 title: southern rap
 ---
 
 ## southern rap
 
-Last updated: <time datetime="2025-11-23T21:13:31.197Z">Sun Nov 23 2025 23:13:31 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T11:33:50.827Z">Thu Dec 04 2025 13:33:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,8 +47,8 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 19</li>
-            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 84</li>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 17</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -85,10 +85,10 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 25</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 32</li>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 78</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 98</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 3</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 21</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 63</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -125,7 +125,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 25</li>
+            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -147,7 +147,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       <td>
         <ul>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 42</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 50</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -167,7 +167,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 70</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -190,8 +190,8 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 56</li>
-            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 84</li>
+            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 17</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -249,9 +249,9 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 25</li>
-            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 80</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 92</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 9</li>
+            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 21</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -273,8 +273,8 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 47</li>
-            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 79</li>
+            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 19</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -297,7 +297,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bounce" | relative_url }}">bounce</a> # 88</li>
+            <li> <a href="{{ "/tags/bounce" | relative_url }}">bounce</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -318,8 +318,8 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 5</li>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 72</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -342,7 +342,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       <td>
         <ul>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 51</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 55</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -364,7 +364,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 67</li>
+            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -406,9 +406,9 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 47</li>
+            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 9</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 54</li>
             <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 80</li>
-            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -426,9 +426,9 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 1</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 9</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 21</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 80</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 90</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -449,8 +449,8 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 6</li>
-            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 78</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 5</li>
+            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -491,9 +491,9 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 12</li>
+            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 24</li>
             <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 49</li>
-            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 77</li>
-            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -514,8 +514,8 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 6</li>
-            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 79</li>
+            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 22</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -534,9 +534,9 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 54</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 24</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 44</li>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 60</li>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -577,9 +577,9 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 53</li>
+            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 6</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 48</li>
             <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 83</li>
-            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -598,8 +598,8 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 63</li>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 83</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 38</li>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -661,7 +661,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 54</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -684,7 +684,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bounce" | relative_url }}">bounce</a> # 84</li>
+            <li> <a href="{{ "/tags/bounce" | relative_url }}">bounce</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -721,8 +721,8 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 43</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 47</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -744,8 +744,8 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 31</li>
-            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 87</li>
+            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 14</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -802,8 +802,8 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 5</li>
             <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 68</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -822,7 +822,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 29</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -842,8 +842,8 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 11</li>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 39</li>
-            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -959,7 +959,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 10</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -978,7 +978,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 37</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1020,7 +1020,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 71</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1040,7 +1040,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 62</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1059,7 +1059,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 61</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1119,7 +1119,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bounce" | relative_url }}">bounce</a> # 94</li>
+            <li> <a href="{{ "/tags/bounce" | relative_url }}">bounce</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1139,7 +1139,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 77</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1158,7 +1158,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 72</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1178,7 +1178,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 70</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1235,7 +1235,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 69</li>
+            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1290,7 +1290,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 83</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1309,9 +1309,9 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 16</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 26</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 73</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 27</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 77</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1352,7 +1352,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 20</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1444,8 +1444,8 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 18</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 82</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 19</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1468,9 +1468,9 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 43</li>
+            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 6</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 51</li>
             <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 77</li>
-            <li> <a href="{{ "/tags/houston-rap" | relative_url }}">houston rap</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1515,9 +1515,9 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 26</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 45</li>
-            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 56</li>
+            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 45</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1553,7 +1553,8 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 86</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 73</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1576,7 +1577,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 25</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1705,6 +1706,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1726,7 +1728,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 18</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1765,8 +1767,8 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 56</li>
-            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 85</li>
+            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 16</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1837,12 +1839,12 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 34</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 28</li>
             <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 35</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 35</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 53</li>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 60</li>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 72</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 40</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 48</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 60</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -2033,7 +2035,7 @@ Southern rap is a hip-hop style originating from the American South, characteriz
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 41</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 60</li>
         </ul>
       </td>
     </tr>

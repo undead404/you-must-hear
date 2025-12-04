@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T18:24:37.964Z
+date: 2025-12-04T09:47:23.892Z
 permalink: tags/jump-up
 title: jump up
 ---
 
 ## jump up
 
-Last updated: <time datetime="2025-11-26T18:24:37.964Z">Wed Nov 26 2025 20:24:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T09:47:23.892Z">Thu Dec 04 2025 11:47:23 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -146,7 +146,7 @@ Jump up is an energetic subgenre of drum and bass characterized by heavy, rollin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 35</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -167,7 +167,7 @@ Jump up is an energetic subgenre of drum and bass characterized by heavy, rollin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/liquid-funk" | relative_url }}">liquid funk</a> # 52</li>
+            <li> <a href="{{ "/tags/liquid-funk" | relative_url }}">liquid funk</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -319,7 +319,7 @@ Jump up is an energetic subgenre of drum and bass characterized by heavy, rollin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 8</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -337,7 +337,7 @@ Jump up is an energetic subgenre of drum and bass characterized by heavy, rollin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 7</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -541,7 +541,7 @@ Jump up is an energetic subgenre of drum and bass characterized by heavy, rollin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 9</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -651,7 +651,8 @@ Jump up is an energetic subgenre of drum and bass characterized by heavy, rollin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 97</li>
+            <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 16</li>
+            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -671,7 +672,7 @@ Jump up is an energetic subgenre of drum and bass characterized by heavy, rollin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 35</li>
+            <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -712,8 +713,8 @@ Jump up is an energetic subgenre of drum and bass characterized by heavy, rollin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 49</li>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 95</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 6</li>
+            <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1163,8 +1164,8 @@ Jump up is an energetic subgenre of drum and bass characterized by heavy, rollin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 46</li>
-            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 69</li>
+            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 32</li>
+            <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 55</li>
             <li> <a href="{{ "/tags/riddim" | relative_url }}">riddim</a> # 88</li>
         </ul>
       </td>
@@ -1771,7 +1772,7 @@ Jump up is an energetic subgenre of drum and bass characterized by heavy, rollin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 69</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 32</li>
         </ul>
       </td>
     </tr>
