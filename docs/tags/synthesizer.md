@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T02:11:54.463Z
+date: 2025-12-04T07:09:33.184Z
 permalink: tags/synthesizer
 title: synthesizer
 ---
 
 ## synthesizer
 
-Last updated: <time datetime="2025-10-22T02:11:54.463Z">Wed Oct 22 2025 05:11:54 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T07:09:33.184Z">Thu Dec 04 2025 09:09:33 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -49,6 +49,7 @@ Synthesizer music centers on electronic instruments that generate and shape soun
     <tr>
       <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/90f5d585ba3f2385923ce03d48c891b7.png" alt="Cover for Switched-On Bach" style="max-width:120px; height:auto;" />
       </td>
       <td>1968</td>
       <td>Wendy Carlos</td>
@@ -67,6 +68,7 @@ Synthesizer music centers on electronic instruments that generate and shape soun
     <tr>
       <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b4c9fac21587aa47fd01fbc31a92c87.png" alt="Cover for Rubycon" style="max-width:120px; height:auto;" />
       </td>
       <td>1975-03</td>
       <td>Tangerine Dream</td>
@@ -78,14 +80,14 @@ Synthesizer music centers on electronic instruments that generate and shape soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 64</li>
+            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>5</td>
       <td>
-          <img src="https://i.discogs.com/YziTFWST2t7F6La7dIlOz3jNYRzC_JGH0HoVTaaL00M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDQ5/Mjk4LTE2MzQyODEz/NDItMzU2Ny5qcGVn.jpeg" alt="Cover for Oxygène" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0098e085cc0a49c9bf2b387f92cdef9b.png" alt="Cover for Oxygène" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Jean-Michel Jarre</td>
@@ -103,6 +105,7 @@ Synthesizer music centers on electronic instruments that generate and shape soun
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/51302170cac5d4fc28410b440b5c8968.png" alt="Cover for Chronolyse" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>Richard Pinhas</td>
@@ -123,7 +126,7 @@ Synthesizer music centers on electronic instruments that generate and shape soun
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/PSQ6UXGbFxdirLcyoyrYsEbjh2cd0CYtwF_J4VsKOK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDI0/NzgtMTI4OTY1Njk0/Mi5qcGVn.jpeg" alt="Cover for Yellow Magic Orchestra" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c80547cecb6444a170f98128430f0add.png" alt="Cover for Yellow Magic Orchestra" style="max-width:120px; height:auto;" />
       </td>
       <td>1978-11-25</td>
       <td>Yellow Magic Orchestra</td>
@@ -161,7 +164,6 @@ Synthesizer music centers on electronic instruments that generate and shape soun
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/SuTP2KTdPRX3KdYZuOALxDUtT5LFHxv1XvaVRc1Oz8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzg4/ODUxLTE2NTM0ODYx/NzktMjM2Ni5qcGVn.jpeg" alt="Cover for A Clockwork Orange Soundtrack" style="max-width:120px; height:auto;" />
       </td>
       <td>1980</td>
       <td>Wendy Carlos</td>
@@ -181,6 +183,7 @@ Synthesizer music centers on electronic instruments that generate and shape soun
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8320a388a69318d5d37c88e75cd7a587.png" alt="Cover for Music For Parties" style="max-width:120px; height:auto;" />
       </td>
       <td>1980-09-01</td>
       <td>Silicon Teens</td>
@@ -199,7 +202,7 @@ Synthesizer music centers on electronic instruments that generate and shape soun
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/n0rhar5jvJtdXXx2-rEfs8DMctbLhZ-69LCa9vVx_XY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NTU4/Ni0xNTUzOTUyMTIz/LTM1MzUuanBlZw.jpeg" alt="Cover for Duck Stab&#x2F;Buster &amp; Glen" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca6767a06006e786a977ca576976e2aa.png" alt="Cover for Duck Stab&#x2F;Buster &amp; Glen" style="max-width:120px; height:auto;" />
       </td>
       <td>1981</td>
       <td>The Residents</td>
@@ -216,8 +219,8 @@ Synthesizer music centers on electronic instruments that generate and shape soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 37</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 42</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 43</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -376,6 +379,7 @@ Synthesizer music centers on electronic instruments that generate and shape soun
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -419,7 +423,7 @@ Synthesizer music centers on electronic instruments that generate and shape soun
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/Ktv6MT3njLzBw_XbmemCyyJPnO15V77M6_oGZPrdN2o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTQ2/OTMtMTMzMDQzNzI5/Ny5qcGVn.jpeg" alt="Cover for Sweet Little Mysteries" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/29e8a5397cc467376064fc9ed84dcfef.png" alt="Cover for Sweet Little Mysteries" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>John Martyn</td>
@@ -518,6 +522,7 @@ Synthesizer music centers on electronic instruments that generate and shape soun
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd63d17d0b9e4d0f89708b3844eb9ff9.png" alt="Cover for Flop!" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-03-30</td>
       <td>And One</td>
@@ -530,14 +535,13 @@ Synthesizer music centers on electronic instruments that generate and shape soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 23</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/8lJVqpBFDFQA76DbgYd66VkIXHy8FHQ5-xniE5zGrg0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NzAz/NzAtMTQwMjE3NzI0/Ni01NTczLmpwZWc.jpeg" alt="Cover for Switched-On Bach 2000" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-05-22</td>
       <td>Wendy Carlos</td>
@@ -571,7 +575,7 @@ Synthesizer music centers on electronic instruments that generate and shape soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 48</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -636,6 +640,7 @@ Synthesizer music centers on electronic instruments that generate and shape soun
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2877c73258fc40fab17a8169d3fe2434.png" alt="Cover for Hummel" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-11-19</td>
       <td>Spacecraft</td>
@@ -656,7 +661,7 @@ Synthesizer music centers on electronic instruments that generate and shape soun
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/dLUqpCEeDEBNky00SEq-CQh32N8i5_-YehomfvF3XVg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzQy/LTE2MDk3OTgxMzAt/MTcxNi5qcGVn.jpeg" alt="Cover for Un" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eca2deb64831417633fd30ded9ca6a8e.png" alt="Cover for Un" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-09</td>
       <td>Mel</td>
@@ -837,7 +842,7 @@ Synthesizer music centers on electronic instruments that generate and shape soun
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/jQ9sxqstN7UnWKAkyjyVNTUU5_SsDNJQeb3gIsYekPU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1ODYx/NjItMTQ4OTUxNzkx/My0xNTAzLmpwZWc.jpeg" alt="Cover for Yellow Magic Orchestra USA" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f69e3983e96e9e0ab33c61383de4cb9a.png" alt="Cover for Yellow Magic Orchestra USA" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Yellow Magic Orchestra</td>
@@ -927,13 +932,14 @@ Synthesizer music centers on electronic instruments that generate and shape soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 31</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/83fd124ca79984d8da1b90d3a31497b1.png" alt="Cover for Re:sonate" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-01-23</td>
       <td>Pete Namlook &amp; Gaudi</td>
@@ -951,9 +957,9 @@ Synthesizer music centers on electronic instruments that generate and shape soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 42</li>
-            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 63</li>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 84</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 17</li>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 38</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1002,6 +1008,7 @@ Synthesizer music centers on electronic instruments that generate and shape soun
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09e2246a11b660307a5bf16d687428d9.png" alt="Cover for no man&#39;s land" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-02-06</td>
       <td>subtractiveLAD</td>
@@ -1022,7 +1029,7 @@ Synthesizer music centers on electronic instruments that generate and shape soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 32</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1076,7 +1083,7 @@ Synthesizer music centers on electronic instruments that generate and shape soun
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/WaKDu2bNh8_9h3MaU-mSRfQLFhAgZU7wm9Ga9Y-paAg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzg5/ODUtMTM0ODUzNTYy/Ny04OTM5LmpwZWc.jpeg" alt="Cover for Vapor Trails: The Echoes Living Room Concerts, Vol. 14" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/16873058307f88362cf8bb0ec4aa94e7.png" alt="Cover for Vapor Trails: The Echoes Living Room Concerts, Vol. 14" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Jami Sieber</td>
@@ -1087,8 +1094,8 @@ Synthesizer music centers on electronic instruments that generate and shape soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 41</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 61</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 40</li>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1111,13 +1118,14 @@ Synthesizer music centers on electronic instruments that generate and shape soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 59</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2d90828f38ca50d20dfb2eb5edc761f.png" alt="Cover for Inside the Shell" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-03-26</td>
       <td>KatazTrophee</td>
@@ -1144,14 +1152,14 @@ Synthesizer music centers on electronic instruments that generate and shape soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 3</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/u0_Nmos261hOuUozecIoUOY87AUOUyrqKLkqgkylwEE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjI5/NzgtMTIxODQ1NjE3/Ni5qcGVn.jpeg" alt="Cover for Sunshine" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0916611c447f10c8d584664314c06749.png" alt="Cover for Sunshine" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-05-03</td>
       <td>Wellenfeld</td>
@@ -1171,14 +1179,15 @@ Synthesizer music centers on electronic instruments that generate and shape soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 10</li>
-            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 48</li>
+            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 47</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c9d85d89b1c866c0d194f92d08b7728.png" alt="Cover for Revolt" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-05-09</td>
       <td>Endanger</td>
@@ -1205,7 +1214,7 @@ Synthesizer music centers on electronic instruments that generate and shape soun
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/Z2wpx0LSDsNJqdSKF6P8MMJwq6BbYI-RwyPjgr2qYKM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTA4/MTMtMTI4MzY1MTU0/NC5qcGVn.jpeg" alt="Cover for Space &amp; The Woods &#x2F; Focker" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bae6e08e8b4b8a681233c33a338ee304.png" alt="Cover for Space &amp; The Woods &#x2F; Focker" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-05-19</td>
       <td>Late of the Pier</td>
@@ -1240,8 +1249,8 @@ Synthesizer music centers on electronic instruments that generate and shape soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 16</li>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 47</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 55</li>
+            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1269,6 +1278,7 @@ Synthesizer music centers on electronic instruments that generate and shape soun
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/74bb6b6d437047f7aee4b07b65e56dd1.png" alt="Cover for Beijing 2008" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-08-04</td>
       <td>NEIZAN</td>
@@ -1322,13 +1332,13 @@ Synthesizer music centers on electronic instruments that generate and shape soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 2</li>
-            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 23</li>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 25</li>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 33</li>
-            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 43</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 45</li>
-            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 82</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 56</li>
+            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 58</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 66</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 74</li>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 78</li>
+            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 84</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1374,7 +1384,7 @@ Synthesizer music centers on electronic instruments that generate and shape soun
     <tr>
       <td>17</td>
       <td>
-          <img src="https://i.discogs.com/EfIz30hZHujk2sRA0IAupZW8ODoEnc5EZcjM7KnN6YM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODgx/MTgtMTI1MDI2MDg4/MC5qcGVn.jpeg" alt="Cover for Are We Going to Fix It?" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/211747f53ff441fc929b8ad65f233e10.png" alt="Cover for Are We Going to Fix It?" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09-18</td>
       <td>Echo2k</td>
@@ -1398,7 +1408,7 @@ Synthesizer music centers on electronic instruments that generate and shape soun
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/pppYlpeFCEHY4OUEAOaXbn4n-Uoc1JLETPGt9VHFSSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTYx/MjctMTYwMzI1MzQx/MS04NzEwLmpwZWc.jpeg" alt="Cover for The Best Of" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/abe638c1e0cb421a9eca9a1339c4113c.png" alt="Cover for The Best Of" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-11-09</td>
       <td>Space</td>
@@ -1419,7 +1429,7 @@ Synthesizer music centers on electronic instruments that generate and shape soun
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/mYtMpUEKEBordgsBvp8uxe06QJj4APSQiBVrlqFRPFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTg4/MDEtMTQ1ODEzMDIx/OS05NDA2LmpwZWc.jpeg" alt="Cover for Enter the Infinite" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8bab2a0f7aa452fc501842676124210.png" alt="Cover for Enter the Infinite" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Trinity Ward</td>
@@ -1440,7 +1450,7 @@ Synthesizer music centers on electronic instruments that generate and shape soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 75</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1461,7 +1471,7 @@ Synthesizer music centers on electronic instruments that generate and shape soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 9</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1489,7 +1499,7 @@ Synthesizer music centers on electronic instruments that generate and shape soun
     <tr>
       <td>7</td>
       <td>
-          <img src="https://i.discogs.com/CZzr6jV8E12uxTn9JboilG9L_F_4o0R_CPOYiC2GbzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTc4/NDEtMTI3NjUyNjgy/MC5qcGVn.jpeg" alt="Cover for Attempt to change a running system e.p." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce24f84ac6dc4aa4a8a3baad9e3db635.png" alt="Cover for Attempt to change a running system e.p." style="max-width:120px; height:auto;" />
       </td>
       <td>2010-09-10</td>
       <td>Sebastian Arnold</td>
@@ -1512,6 +1522,7 @@ Synthesizer music centers on electronic instruments that generate and shape soun
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8daa8ed175289102e20d9c5b5f4634dc.png" alt="Cover for Herself" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-12-03</td>
       <td>Console</td>
@@ -1532,7 +1543,7 @@ Synthesizer music centers on electronic instruments that generate and shape soun
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/zUnaojAFG8HtNjUseVrQjwGX8tNL_Pkv5v5ljMMHZ0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTc0/OTctMTQ1ODA5MDMw/MS0zODc3LmpwZWc.jpeg" alt="Cover for Echoes from Earth" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8eda3d29291f464dc6ff81df32b72590.png" alt="Cover for Echoes from Earth" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Trinity Ward</td>
@@ -1551,8 +1562,8 @@ Synthesizer music centers on electronic instruments that generate and shape soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a> # 69</li>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 79</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 23</li>
+            <li> <a href="{{ "/tags/spacesynth" | relative_url }}">spacesynth</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1604,10 +1615,10 @@ Synthesizer music centers on electronic instruments that generate and shape soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 67</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 68</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 75</li>
-            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 85</li>
+            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 16</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 26</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 33</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 35</li>
             <li> <a href="{{ "/tags/nederlands" | relative_url }}">nederlands</a> # 90</li>
         </ul>
       </td>
@@ -1615,6 +1626,7 @@ Synthesizer music centers on electronic instruments that generate and shape soun
     <tr>
       <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8121d85990b04e03873e9adb1e0b7cd8.png" alt="Cover for Interstellar Getaway" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-25</td>
       <td>Sebastian Arnold</td>
@@ -1668,7 +1680,7 @@ Synthesizer music centers on electronic instruments that generate and shape soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 13</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1712,9 +1724,9 @@ Synthesizer music centers on electronic instruments that generate and shape soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 32</li>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 42</li>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 59</li>
             <li> <a href="{{ "/tags/braindance" | relative_url }}">braindance</a> # 63</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1735,7 +1747,7 @@ Synthesizer music centers on electronic instruments that generate and shape soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 55</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1786,14 +1798,14 @@ Synthesizer music centers on electronic instruments that generate and shape soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 19</li>
+            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/WA5_2oc9GZK0CqluxvSChCoyXBNyLVLRS9d5lk2l03c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTk0/NjYtMTQzNzM5NTI2/My0xMjA4LmpwZWc.jpeg" alt="Cover for The Invitation of The Dead" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f014b1d5a1ffeb013d547897d7d07de.png" alt="Cover for The Invitation of The Dead" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-09-16</td>
       <td>Tomo Akikawabaya</td>
@@ -1841,7 +1853,7 @@ Synthesizer music centers on electronic instruments that generate and shape soun
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/wetyH7W9GCjATyIboWjWCbfLhttxr68k_iQzytgIGkI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzMz/ODkyLTE1NTIyNTMz/ODAtNDQ4OC5wbmc.jpeg" alt="Cover for People of the Dawn" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b13e47d837bef59f2e92428b341becb.png" alt="Cover for People of the Dawn" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-11-14</td>
       <td>Spencer Zahn</td>
@@ -1858,14 +1870,14 @@ Synthesizer music centers on electronic instruments that generate and shape soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/keyboard" | relative_url }}">keyboard</a> # 84</li>
+            <li> <a href="{{ "/tags/keyboard" | relative_url }}">keyboard</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/-K134ComPhr9wAGFClsttcgXQJyalgoq5-AwSzZISII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njc2/MTc2LTE2Mjc2NzQ5/OTktMjM4MS5qcGVn.jpeg" alt="Cover for Retro Vision" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/177aa53154efcab6746e9d15b4abb0d0.png" alt="Cover for Retro Vision" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-12</td>
       <td>Felsmann + Tiley</td>
@@ -1909,7 +1921,7 @@ Synthesizer music centers on electronic instruments that generate and shape soun
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/ihWOgtj3BFvQEDxwxgT6ZBseSFFD2z-SjYoQvQak6nM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzQ0/NzYzLTE1OTAwNjMy/NzctODY0My5qcGVn.jpeg" alt="Cover for Vapor Trails: The Echoes Living Room Concerts, Vol. 14" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87c931a8d787b070cc64dff0ceb2a897.png" alt="Cover for Vapor Trails: The Echoes Living Room Concerts, Vol. 14" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-12-26</td>
       <td>Ulrich Schnauss</td>
@@ -1920,8 +1932,8 @@ Synthesizer music centers on electronic instruments that generate and shape soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 61</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 72</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 29</li>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1948,7 +1960,7 @@ Synthesizer music centers on electronic instruments that generate and shape soun
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/jJvti_LXxrrkKihhB_QIusUiZfEKHOUhc5kRljEBn28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTMw/MTUyLTE2MTk3OTky/MTYtNjY1Ni5qcGVn.jpeg" alt="Cover for New electro" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0dcdeaca92e04e04b85446e99f89c9dd.png" alt="Cover for New electro" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-04-30</td>
       <td>Thalassa</td>
@@ -1981,13 +1993,14 @@ Synthesizer music centers on electronic instruments that generate and shape soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 66</li>
+            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10b44f9507a875ffd9d5dc327905ab0d.png" alt="Cover for Space, Time &amp; Plexiglass" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>One Inch Man</td>
@@ -1998,15 +2011,17 @@ Synthesizer music centers on electronic instruments that generate and shape soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 30</li>
-            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 38</li>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 76</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 26</li>
+            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 62</li>
+            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 70</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/39a8ceeb195c41f0a4cda4a9475094c4.png" alt="Cover for Funkamoog" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Blindfold Knobs</td>
@@ -2024,13 +2039,14 @@ Synthesizer music centers on electronic instruments that generate and shape soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 4</li>
+            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac88023ef1a55b2aa52fda8806941e07.png" alt="Cover for Adaptation" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>INADRM</td>
@@ -2052,9 +2068,9 @@ Synthesizer music centers on electronic instruments that generate and shape soun
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 17</li>
             <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 25</li>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 27</li>
-            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 84</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -2082,8 +2098,8 @@ Synthesizer music centers on electronic instruments that generate and shape soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 24</li>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 36</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 65</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -2121,10 +2137,10 @@ Synthesizer music centers on electronic instruments that generate and shape soun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 15</li>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 63</li>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 66</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 70</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 20</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 27</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 31</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -2168,6 +2184,7 @@ Synthesizer music centers on electronic instruments that generate and shape soun
     <tr>
       <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb76d01b4ccd45a18f106e29faa6d1ff.png" alt="Cover for Gardens of the Nile" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Zahra M.M.A. Sadiq</td>
@@ -2210,6 +2227,7 @@ Synthesizer music centers on electronic instruments that generate and shape soun
     <tr>
       <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/956bec7e79034b9649be9908955b122e.png" alt="Cover for AudioAlysis 1" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Audioalysis</td>
@@ -2251,6 +2269,7 @@ Synthesizer music centers on electronic instruments that generate and shape soun
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/57f4cc8c98de46a582ab70135058ce3d.png" alt="Cover for Gas 0095" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Gas (Mat Jarvis)</td>

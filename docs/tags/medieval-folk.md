@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T23:16:22.039Z
+date: 2025-12-04T07:08:42.984Z
 permalink: tags/medieval-folk
 title: medieval folk
 ---
 
 ## medieval folk
 
-Last updated: <time datetime="2025-11-15T23:16:22.039Z">Sun Nov 16 2025 01:16:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:08:42.984Z">Thu Dec 04 2025 09:08:42 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -50,7 +50,7 @@ Medieval folk blends traditional European folk music with historical instruments
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/720hy8WA-XKN94nwRJyHDcO2jmV-HDzR0HJRYsgPgbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODQw/NzEtMTYwMjM0ODYw/OC05MDk4LmpwZWc.jpeg" alt="Cover for Almanach" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ead7dc4df10648389405ee97b0319128.png" alt="Cover for Almanach" style="max-width:120px; height:auto;" />
       </td>
       <td>1976</td>
       <td>Malicorne</td>
@@ -142,7 +142,7 @@ Medieval folk blends traditional European folk music with historical instruments
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 46</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -221,7 +221,7 @@ Medieval folk blends traditional European folk music with historical instruments
       <td>
         <ul>
             <li> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a> # 26</li>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 55</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -261,10 +261,10 @@ Medieval folk blends traditional European folk music with historical instruments
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 29</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 30</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 32</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 50</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 69</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 72</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 72</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 90</li>
         </ul>
       </td>
@@ -322,10 +322,10 @@ Medieval folk blends traditional European folk music with historical instruments
       <td>
         <ul>
             <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 14</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 19</li>
-            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 34</li>
             <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 48</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 58</li>
+            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 68</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -365,8 +365,8 @@ Medieval folk blends traditional European folk music with historical instruments
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 31</li>
             <li> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a> # 32</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -406,7 +406,7 @@ Medieval folk blends traditional European folk music with historical instruments
         <ul>
             <li> <a href="{{ "/tags/breizh" | relative_url }}">breizh</a> # 29</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 39</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 59</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -434,7 +434,7 @@ Medieval folk blends traditional European folk music with historical instruments
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/Z-wXjPdTbdSDVb7hEn4bODea6BqMox5qR3JU6arNplg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NjM2/Mi0xMjQ4Nzc3MTM3/LmpwZWc.jpeg" alt="Cover for Tavernakel" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c74edc9dbb14f0f88da74da944d9c26.png" alt="Cover for Tavernakel" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Saltatio Mortis</td>
@@ -485,9 +485,9 @@ Medieval folk blends traditional European folk music with historical instruments
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 36</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 43</li>
             <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 51</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 57</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 62</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 84</li>
         </ul>
       </td>
@@ -510,9 +510,9 @@ Medieval folk blends traditional European folk music with historical instruments
       <td>
         <ul>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 8</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 62</li>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 70</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 72</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 27</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 37</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 71</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 88</li>
         </ul>
       </td>
@@ -570,10 +570,10 @@ Medieval folk blends traditional European folk music with historical instruments
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 18</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 27</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 44</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 57</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 57</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 73</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -595,8 +595,8 @@ Medieval folk blends traditional European folk music with historical instruments
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 44</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 72</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 29</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 45</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 95</li>
         </ul>
       </td>
@@ -731,7 +731,7 @@ Medieval folk blends traditional European folk music with historical instruments
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 88</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -771,7 +771,7 @@ Medieval folk blends traditional European folk music with historical instruments
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 3</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -813,6 +813,7 @@ Medieval folk blends traditional European folk music with historical instruments
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9cac9bf34b2bbf2cbd54f6e66d90686.png" alt="Cover for Prima Nocte" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-11-25</td>
       <td>Feuerschwanz</td>
@@ -986,18 +987,18 @@ Medieval folk blends traditional European folk music with historical instruments
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 5</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 19</li>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 34</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 6</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 11</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 37</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 38</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 40</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 48</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 50</li>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 50</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 52</li>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 53</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 61</li>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 63</li>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 64</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 66</li>
             <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 76</li>
             <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 79</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 90</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1063,7 +1064,7 @@ Medieval folk blends traditional European folk music with historical instruments
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/HcQk3QB_MlSMfvc4TGpsi7W59vls6eeX_6xa5rqK7Es/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDIy/OTYzLTE1MDg0Mjg4/MjEtNDQ0My5qcGVn.jpeg" alt="Cover for laut&amp;garstig" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/793c1a4c1bf42e66c6ee2f1b79a58813.png" alt="Cover for laut&amp;garstig" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Rayneke</td>
@@ -1130,8 +1131,8 @@ Medieval folk blends traditional European folk music with historical instruments
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 18</li>
             <li> <a href="{{ "/tags/breizh" | relative_url }}">breizh</a> # 33</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1157,10 +1158,10 @@ Medieval folk blends traditional European folk music with historical instruments
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 25</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 36</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 44</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 49</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 52</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 56</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 66</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1263,9 +1264,9 @@ Medieval folk blends traditional European folk music with historical instruments
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 19</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 67</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 75</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 26</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 32</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 82</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 96</li>
         </ul>
       </td>
@@ -1273,7 +1274,7 @@ Medieval folk blends traditional European folk music with historical instruments
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/wgh4B5s5GzulubXdO7P2Nu0wg1JM0_ZNwiiQGBZ1tuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzIx/MDMtMTIzOTc4ODg4/MS5qcGVn.jpeg" alt="Cover for Ösforrás" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d6e6a021dba4effced5a8f2b214f5ed.png" alt="Cover for Ösforrás" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03-15</td>
       <td>The Moon and the Nightspirit</td>
@@ -1287,7 +1288,7 @@ Medieval folk blends traditional European folk music with historical instruments
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 93</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1345,9 +1346,9 @@ Medieval folk blends traditional European folk music with historical instruments
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 24</li>
-            <li> <a href="{{ "/tags/louisiana" | relative_url }}">louisiana</a> # 39</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 67</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 32</li>
+            <li> <a href="{{ "/tags/louisiana" | relative_url }}">louisiana</a> # 40</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 77</li>
             <li> <a href="{{ "/tags/eai" | relative_url }}">eai</a> # 87</li>
             <li> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a> # 89</li>
         </ul>
@@ -1356,7 +1357,7 @@ Medieval folk blends traditional European folk music with historical instruments
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/V08u6grZrZkz_kFYWsC9adgjEWq3MRRmod8Y7kcyHbo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0OTY2/MTQtMTM5NDk1MDk1/MC01NTU0LmpwZWc.jpeg" alt="Cover for Двери Апреля" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb6b497783074ffd897d5120e6de0411.png" alt="Cover for Двери Апреля" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>F.R.A.M.</td>
@@ -1376,7 +1377,7 @@ Medieval folk blends traditional European folk music with historical instruments
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 28</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1456,11 +1457,11 @@ Medieval folk blends traditional European folk music with historical instruments
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 17</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 32</li>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 33</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 60</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 18</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 35</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 39</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 68</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1558,8 +1559,8 @@ Medieval folk blends traditional European folk music with historical instruments
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 5</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 26</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 75</li>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1601,7 +1602,7 @@ Medieval folk blends traditional European folk music with historical instruments
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 50</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1649,7 +1650,7 @@ Medieval folk blends traditional European folk music with historical instruments
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/4dltzSfFrqtINqR_oyZ4UDwsY_hDL2QAzT6ZwyLObgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MjA3/NTAtMTM5NTUxMjg5/OC0xMzExLmpwZWc.jpeg" alt="Cover for Odysseus" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3641ee02a2a6423a8cb3397ac2d3f2cd.png" alt="Cover for Odysseus" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-01-01</td>
       <td>Luc Arbogast</td>
@@ -1670,13 +1671,13 @@ Medieval folk blends traditional European folk music with historical instruments
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 9</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 18</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 22</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 25</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 46</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 46</li>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 52</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 47</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 49</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 55</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 75</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 80</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1740,10 +1741,10 @@ Medieval folk blends traditional European folk music with historical instruments
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 13</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 14</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 28</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 40</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 55</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 59</li>
             <li> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a> # 87</li>
         </ul>
       </td>
@@ -1770,7 +1771,7 @@ Medieval folk blends traditional European folk music with historical instruments
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/h1xF_JoJdmhDEMSh8q7zCjqcoDACeHCkrcZLFWkWlGY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NzQ5/ODQtMTQyODUxMDgy/Ny01NzA3LmpwZWc.jpeg" alt="Cover for Oreflam" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3767ec2dab0ad025ea9f3426896b9fbb.png" alt="Cover for Oreflam" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-08-25</td>
       <td>Luc Arbogast</td>
@@ -1787,10 +1788,10 @@ Medieval folk blends traditional European folk music with historical instruments
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 11</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 36</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 37</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 12</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 56</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 64</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1851,7 +1852,7 @@ Medieval folk blends traditional European folk music with historical instruments
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 59</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1878,7 +1879,7 @@ Medieval folk blends traditional European folk music with historical instruments
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/9WkZzLc7hrlSlBiqeuOsI0O5BiM5vZJVhSkw0rTFaTY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDc4/NDUzLTE1MDk0NTI0/MDQtOTgxNC5qcGVn.jpeg" alt="Cover for Fauler Zauber" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d6d19f309f14051f0426655c6959e8e.png" alt="Cover for Fauler Zauber" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-11-13</td>
       <td>Vroudenspil</td>
@@ -1969,7 +1970,7 @@ Medieval folk blends traditional European folk music with historical instruments
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 45</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1989,7 +1990,7 @@ Medieval folk blends traditional European folk music with historical instruments
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 85</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 16</li>
         </ul>
       </td>
     </tr>

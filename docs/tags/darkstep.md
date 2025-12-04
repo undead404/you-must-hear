@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T15:09:05.044Z
+date: 2025-12-04T07:06:09.019Z
 permalink: tags/darkstep
 title: darkstep
 ---
 
 ## darkstep
 
-Last updated: <time datetime="2025-10-28T15:09:05.044Z">Tue Oct 28 2025 17:09:05 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:06:09.019Z">Thu Dec 04 2025 09:06:09 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -48,7 +48,7 @@ Darkstep represents the most intense and aggressive extreme of drum and bass, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 25</li>
+            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -169,7 +169,7 @@ Darkstep represents the most intense and aggressive extreme of drum and bass, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 15</li>
+            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -190,9 +190,9 @@ Darkstep represents the most intense and aggressive extreme of drum and bass, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 41</li>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 53</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 91</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 8</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 46</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -323,7 +323,7 @@ Darkstep represents the most intense and aggressive extreme of drum and bass, ch
     <tr>
       <td>13</td>
       <td>
-          <img src="https://i.discogs.com/WyynBzt-GbCRHY5YiXAJu-d9T0DddxP0PklYfoVNqiU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDgy/MTMtMTMxMTQ3Nzg5/MC5wbmc.jpeg" alt="Cover for Beat Shyfter" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/496381177e7516cbf2e9e988444c6509.png" alt="Cover for Beat Shyfter" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-06-23</td>
       <td>Shyft</td>
@@ -356,14 +356,14 @@ Darkstep represents the most intense and aggressive extreme of drum and bass, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 28</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/yOcd88CJd3Sis6Hpx69KLon2v5UjQd12Ek5AA5VkzDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDgx/OTktMTMxMTQ3NzAz/Mi5qcGVn.jpeg" alt="Cover for Drudge" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/522475a5aaf6556fb7aee76c2129ea1c.png" alt="Cover for Drudge" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-07-23</td>
       <td>Shyft</td>
@@ -388,7 +388,7 @@ Darkstep represents the most intense and aggressive extreme of drum and bass, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 53</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -427,8 +427,8 @@ Darkstep represents the most intense and aggressive extreme of drum and bass, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 37</li>
-            <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 47</li>
+            <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 54</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 57</li>
             <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 62</li>
         </ul>
       </td>
@@ -472,7 +472,7 @@ Darkstep represents the most intense and aggressive extreme of drum and bass, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 56</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 44</li>
             <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 64</li>
             <li> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a> # 88</li>
         </ul>
@@ -499,6 +499,7 @@ Darkstep represents the most intense and aggressive extreme of drum and bass, ch
     <tr>
       <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e40e3b18bee6427182dbdb606dd4d86f.png" alt="Cover for Warlords Rising" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-03-07</td>
       <td>Future Prophecies</td>
@@ -510,7 +511,7 @@ Darkstep represents the most intense and aggressive extreme of drum and bass, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 9</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -700,7 +701,7 @@ Darkstep represents the most intense and aggressive extreme of drum and bass, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 3</li>
+            <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -760,9 +761,9 @@ Darkstep represents the most intense and aggressive extreme of drum and bass, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 11</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 11</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 41</li>
+            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 10</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 12</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -802,9 +803,9 @@ Darkstep represents the most intense and aggressive extreme of drum and bass, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 19</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 20</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 49</li>
+            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 18</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 21</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -844,9 +845,8 @@ Darkstep represents the most intense and aggressive extreme of drum and bass, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 1</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 7</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 34</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 8</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -886,9 +886,9 @@ Darkstep represents the most intense and aggressive extreme of drum and bass, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 16</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 16</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 46</li>
+            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 15</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 17</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -928,9 +928,9 @@ Darkstep represents the most intense and aggressive extreme of drum and bass, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 27</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 30</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 59</li>
+            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 26</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 31</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -971,10 +971,10 @@ Darkstep represents the most intense and aggressive extreme of drum and bass, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 21</li>
-            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 23</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 22</li>
+            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 22</li>
             <li> <a href="{{ "/tags/haiti" | relative_url }}">haiti</a> # 30</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 53</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1016,16 +1016,17 @@ Darkstep represents the most intense and aggressive extreme of drum and bass, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 13</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 14</li>
-            <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 15</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 43</li>
+            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 12</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 15</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 44</li>
+            <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e31f9d829dd37eac047b525dacddaa56.png" alt="Cover for Era of Diversion" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-03-04</td>
       <td>Evol Intent</td>
@@ -1039,6 +1040,7 @@ Darkstep represents the most intense and aggressive extreme of drum and bass, ch
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1099,7 +1101,7 @@ Darkstep represents the most intense and aggressive extreme of drum and bass, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 10</li>
+            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1178,7 +1180,7 @@ Darkstep represents the most intense and aggressive extreme of drum and bass, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 30</li>
+            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1221,7 +1223,7 @@ Darkstep represents the most intense and aggressive extreme of drum and bass, ch
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/KtJN2b4NYpQJidRdLUmyv0jO_uncoW38E7Fxo28p97g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDgx/MTctMTMxMTQ2ODI0/NS5wbmc.jpeg" alt="Cover for The Magnificent Metalloid Man EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d2c8cec19f24d00cdf1abbb258525f5.png" alt="Cover for The Magnificent Metalloid Man EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-08-18</td>
       <td>Shyft</td>
@@ -1244,8 +1246,8 @@ Darkstep represents the most intense and aggressive extreme of drum and bass, ch
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 34</li>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 40</li>
             <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 50</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1399,7 +1401,7 @@ Darkstep represents the most intense and aggressive extreme of drum and bass, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 74</li>
+            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1419,7 +1421,7 @@ Darkstep represents the most intense and aggressive extreme of drum and bass, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 75</li>
+            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1519,7 +1521,7 @@ Darkstep represents the most intense and aggressive extreme of drum and bass, ch
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/D0_O15ahwva633lADfwRW707RxYZpEjAyg3GCYkBndo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDY3/MDAtMTMxMTU5MjQ2/My5qcGVn.jpeg" alt="Cover for Berlin &#x2F; Hit the Ground" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5065d54f82c7a6fb0c762e3e5af27a7.png" alt="Cover for Berlin &#x2F; Hit the Ground" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-07-23</td>
       <td>Loadstar</td>
@@ -1594,6 +1596,7 @@ Darkstep represents the most intense and aggressive extreme of drum and bass, ch
     <tr>
       <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/89de1d4b303512f7d8cb4bd73ba718af.png" alt="Cover for Silent Siren" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03-20</td>
       <td>Underhill</td>
@@ -1686,7 +1689,7 @@ Darkstep represents the most intense and aggressive extreme of drum and bass, ch
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/FlaUQmTDOrkSqvSocP_MRzwO_QBcUv1cSUX6GXT5JcY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MTY5/MjEtMTM2NzExODgw/MC01MjQ5LmpwZWc.jpeg" alt="Cover for Remaining Sense of Pain" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5006c699a14140afa09ba5ffd2fc9529.png" alt="Cover for Remaining Sense of Pain" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-28</td>
       <td>MyXoMoPBL</td>
@@ -1726,6 +1729,7 @@ Darkstep represents the most intense and aggressive extreme of drum and bass, ch
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0468b8f48e94f3f9a7aa7264db29f0b.png" alt="Cover for rituals" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-02</td>
       <td>goreshit</td>
@@ -1888,8 +1892,8 @@ Darkstep represents the most intense and aggressive extreme of drum and bass, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 49</li>
-            <li> <a href="{{ "/tags/jump-up" | relative_url }}">jump up</a> # 90</li>
+            <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 52</li>
+            <li> <a href="{{ "/tags/jump-up" | relative_url }}">jump up</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1931,7 +1935,7 @@ Darkstep represents the most intense and aggressive extreme of drum and bass, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 57</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1954,7 +1958,7 @@ Darkstep represents the most intense and aggressive extreme of drum and bass, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 46</li>
+            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1999,7 +2003,7 @@ Darkstep represents the most intense and aggressive extreme of drum and bass, ch
     <tr>
       <td>19</td>
       <td>
-          <img src="https://i.discogs.com/4ux4c-bn2l925iL8BRdS9PeaSeq-U2y6E5ab8uswd6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjI5/NzcxLTE2Mzg2NDk1/MjgtMTgyMC5qcGVn.jpeg" alt="Cover for SpikeHxD꙳⁎✰⁴᛭❹₄ₑᵥᵣ࿐◌͛⁺" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c9fa55a0e7157e9e31ea8ec09c4d6d2.png" alt="Cover for SpikeHxD꙳⁎✰⁴᛭❹₄ₑᵥᵣ࿐◌͛⁺" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-04-10</td>
       <td>Kaiju Soup</td>
@@ -2026,7 +2030,8 @@ Darkstep represents the most intense and aggressive extreme of drum and bass, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 37</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 63</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -2066,7 +2071,7 @@ Darkstep represents the most intense and aggressive extreme of drum and bass, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 5</li>
+            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -2086,7 +2091,7 @@ Darkstep represents the most intense and aggressive extreme of drum and bass, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 90</li>
+            <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -2130,6 +2135,7 @@ Darkstep represents the most intense and aggressive extreme of drum and bass, ch
     <tr>
       <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/94e2b56797974e26bd51c9ae1069962c.png" alt="Cover for Music Forged In Hate" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Skinshrink</td>
@@ -2146,13 +2152,14 @@ Darkstep represents the most intense and aggressive extreme of drum and bass, ch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 18</li>
+            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>5</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf529b67743b76ae739f35ef4eda16b3.png" alt="Cover for Broken" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Shattered Quartz</td>
@@ -2194,6 +2201,7 @@ Darkstep represents the most intense and aggressive extreme of drum and bass, ch
     <tr>
       <td>39</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1512f49b63344a2ecaf60eb55929a940.png" alt="Cover for Filthy Poor" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Testla</td>

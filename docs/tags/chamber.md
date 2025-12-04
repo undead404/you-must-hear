@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T11:52:24.857Z
+date: 2025-12-04T07:11:29.422Z
 permalink: tags/chamber
 title: chamber
 ---
 
 ## chamber
 
-Last updated: <time datetime="2025-11-25T11:52:24.857Z">Tue Nov 25 2025 13:52:24 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:11:29.422Z">Thu Dec 04 2025 09:11:29 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -188,9 +188,9 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 15</li>
             <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 73</li>
             <li> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a> # 80</li>
-            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -446,7 +446,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 35</li>
+            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 66</li>
             <li> <a href="{{ "/tags/sonata" | relative_url }}">sonata</a> # 95</li>
         </ul>
       </td>
@@ -649,7 +649,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a> # 1</li>
+            <li> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -687,9 +687,9 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 47</li>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 69</li>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 71</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 29</li>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 32</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -735,7 +735,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 12</li>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -824,7 +824,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 26</li>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -856,7 +856,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 8</li>
+            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -917,13 +917,13 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 2</li>
-            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 23</li>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 27</li>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 33</li>
-            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 34</li>
-            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 43</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 45</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 56</li>
+            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 58</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 66</li>
+            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 67</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 74</li>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 78</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -984,9 +984,9 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 14</li>
-            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 21</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 23</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 78</li>
+            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 80</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1018,7 +1018,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
         <ul>
             <li> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a> # 3</li>
             <li> <a href="{{ "/tags/oboe" | relative_url }}">oboe</a> # 10</li>
-            <li> <a href="{{ "/tags/keyboard" | relative_url }}">keyboard</a> # 57</li>
+            <li> <a href="{{ "/tags/keyboard" | relative_url }}">keyboard</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1079,8 +1079,8 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 48</li>
-            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 58</li>
+            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 42</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1145,8 +1145,8 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 33</li>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 42</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 58</li>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1654,7 +1654,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a> # 39</li>
+            <li> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1690,7 +1690,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       <td>
         <ul>
             <li> <a href="{{ "/tags/oboe" | relative_url }}">oboe</a> # 34</li>
-            <li> <a href="{{ "/tags/keyboard" | relative_url }}">keyboard</a> # 63</li>
+            <li> <a href="{{ "/tags/keyboard" | relative_url }}">keyboard</a> # 38</li>
             <li> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a> # 69</li>
             <li> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a> # 75</li>
             <li> <a href="{{ "/tags/italian-baroque" | relative_url }}">italian baroque</a> # 85</li>
@@ -1765,8 +1765,8 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 2</li>
             <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 43</li>
+            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1838,8 +1838,8 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 11</li>
             <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 48</li>
+            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1895,7 +1895,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 7</li>
+            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1922,7 +1922,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 14</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1943,7 +1943,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 64</li>
+            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1966,7 +1966,7 @@ Chamber music emphasizes intimate, intricate arrangements originally designed fo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 55</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 46</li>
         </ul>
       </td>
     </tr>

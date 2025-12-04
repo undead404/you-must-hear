@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-24T14:29:34.075Z
+date: 2025-12-04T07:11:12.636Z
 permalink: tags/croatian
 title: croatian
 ---
 
 ## croatian
 
-Last updated: <time datetime="2025-10-24T14:29:34.075Z">Fri Oct 24 2025 17:29:34 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T07:11:12.636Z">Thu Dec 04 2025 09:11:12 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -197,7 +197,7 @@ Croatian music encompasses diverse styles from the Adriatic region, blending Med
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/9tOsLPjIqyOASXVFvWghv2em8dFnr08nN6GupJU_S4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTI5/OC0xMTcyMDg3NTg3/LmpwZWc.jpeg" alt="Cover for Videosex84" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a7fa34a56066aa69d6389b77e3eb4db.png" alt="Cover for Videosex84" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>Videosex</td>
@@ -213,15 +213,15 @@ Croatian music encompasses diverse styles from the Adriatic region, blending Med
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 63</li>
-            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 85</li>
+            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 10</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>21</td>
       <td>
-          <img src="https://i.discogs.com/QpgnYPOncZewOkr-GRh8jPTW2OpXjgphP1sQT_auUpM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODU1/OTQtMTM0NDMzNzc5/NS03NTU2LmpwZWc.jpeg" alt="Cover for Gustaph y njegovi dobri duhovi" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1bf123ef6921f846384eb154dcad1b48.png" alt="Cover for Gustaph y njegovi dobri duhovi" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>Gustaph Y Njegovi Dobri Duhovi</td>
@@ -241,7 +241,7 @@ Croatian music encompasses diverse styles from the Adriatic region, blending Med
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/F8pwR77VSQlwIHHmTvMt23PsrzhzQ26_2fne3_svx0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNDE2/MTAtMTQ2NjEwNTE4/MS01MjgxLmpwZWc.jpeg" alt="Cover for Diksilend" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/65dd5ecf7b1d460e98e6abe100d06b06.png" alt="Cover for Diksilend" style="max-width:120px; height:auto;" />
       </td>
       <td>1986-11</td>
       <td>Jinx</td>
@@ -280,7 +280,7 @@ Croatian music encompasses diverse styles from the Adriatic region, blending Med
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/qdks_h8glY2zScMTiTscDaODQ8mJgWmtTDTMnkiaQc8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODc3/NTktMTM0NDQyNDM5/My0xODc3LmpwZWc.jpeg" alt="Cover for Thrash is Alive" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/13410909f1ac4ec98476d0bfe3ae38f7.png" alt="Cover for Thrash is Alive" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-02-15</td>
       <td>Vortex</td>
@@ -318,7 +318,7 @@ Croatian music encompasses diverse styles from the Adriatic region, blending Med
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/-hxY0dVcDVxze5-RdGhYNvwAC4YPTZzt9djDlb8c7Vw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mzg0/NjktMTQyMTUzMzc5/Mi00MDE5LmpwZWc.jpeg" alt="Cover for Pobjedimo laž" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50e658e3715e7ab64a787535b309fb2a.png" alt="Cover for Pobjedimo laž" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Nula</td>
@@ -341,7 +341,6 @@ Croatian music encompasses diverse styles from the Adriatic region, blending Med
     <tr>
       <td>1</td>
       <td>
-          <img src="https://i.discogs.com/O0SHjax8IbYD8qt4GWqnoDAS9L2Iq9vZBOHhdE0GKCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjE4/NzY4LTE1MTIxMDc4/MTgtOTE0MC5qcGVn.jpeg" alt="Cover for It&#39;s Not Like You&#39;re Right All The Time" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Vatroslav</td>
@@ -397,7 +396,6 @@ Croatian music encompasses diverse styles from the Adriatic region, blending Med
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/PytkuakFuc_aLwsEg0arBJXLdURUb6NyOwuttmQLGBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTcy/MjAtMTMwNDIzNzMy/OS5qcGVn.jpeg" alt="Cover for Live in Ljubljana" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Fakofbolan</td>
@@ -511,14 +509,14 @@ Croatian music encompasses diverse styles from the Adriatic region, blending Med
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 17</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/HFb-TFAP8guwFpQNVHk-PXW3ss5GpNP-aFpz5R__if8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MTI4/MjktMTQ2MTEwNDMx/NS0zNDM2LmpwZWc.jpeg" alt="Cover for Godina majmuna" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6dad27c0325421b67814b571e00d019.png" alt="Cover for Godina majmuna" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Debeli Precjednik</td>
@@ -540,7 +538,7 @@ Croatian music encompasses diverse styles from the Adriatic region, blending Med
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/lB3Yshzn6qLXw8_lm7CnTdbwqdRkuT0NjHYaK9NELjg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQw/NDItMTU2Njk5ODc4/Ni05NjI5LmpwZWc.jpeg" alt="Cover for Svoga tijela gospodar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/882383520df4550d79a7af68f90de459.png" alt="Cover for Svoga tijela gospodar" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Mikrofonija</td>
@@ -555,7 +553,7 @@ Croatian music encompasses diverse styles from the Adriatic region, blending Med
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 22</li>
+            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 78</li>
             <li> <a href="{{ "/tags/croatia" | relative_url }}">croatia</a> # 78</li>
         </ul>
       </td>
@@ -563,7 +561,7 @@ Croatian music encompasses diverse styles from the Adriatic region, blending Med
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/1uairMiYn40sWw7IR1KDb5iaZdJXXZRFIEefOL6cZpQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjM2/NzctMTM2MDA5MjM4/NC05NDA0LmpwZWc.jpeg" alt="Cover for electro istra" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4ae3118f3de4163a0f91d064f5301d4.png" alt="Cover for electro istra" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>tito&#39;s bojs</td>
@@ -582,7 +580,7 @@ Croatian music encompasses diverse styles from the Adriatic region, blending Med
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/vPPA0wZ2Zhp2Vx-bs1HnzWEghWaJ2tHSrAMds2FdlqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTM5/NjctMTMyODY5MjU3/My5qcGVn.jpeg" alt="Cover for Amen" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eefe46c2c8baa07e4e312c0272bb09dd.png" alt="Cover for Amen" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>El Bahattee</td>
@@ -663,7 +661,7 @@ Croatian music encompasses diverse styles from the Adriatic region, blending Med
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/0mY_-ndX96gafxjbIoBiziNVtd00-Fta8HNirXnccXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjYx/MDQtMTE5Nzk4NzAz/NC5qcGVn.jpeg" alt="Cover for Doba vodenjaka" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e46fb8facf4a4ee88f1ea6568d1c7cd2.png" alt="Cover for Doba vodenjaka" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Šajeta</td>
@@ -1017,7 +1015,7 @@ Croatian music encompasses diverse styles from the Adriatic region, blending Med
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/473qHt1fBKd2HAi9HZud0g-h73rP5S_XJq0v0tq7Atk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjM5/MTYtMTM2MDA5NTQz/Ni00NDQ2LmpwZWc.jpeg" alt="Cover for picajolo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0c2dddd20214c0ca279dde4fb875b7b.png" alt="Cover for picajolo" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>tito&#39;s bojs</td>
@@ -1055,7 +1053,7 @@ Croatian music encompasses diverse styles from the Adriatic region, blending Med
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/CTpPAg64ChBXGt_ZXeFjGLvvHNHkJuGSa5hiED-xyXw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQ4/NDctMTM1MDEyMTU1/OS04MDg3LmpwZWc.jpeg" alt="Cover for 100% Prirodno" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/043acb0e0035473d8715848bd996f727.png" alt="Cover for 100% Prirodno" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-04-01</td>
       <td>Đubrivo</td>
@@ -1074,7 +1072,7 @@ Croatian music encompasses diverse styles from the Adriatic region, blending Med
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/naIcyBKdE8kVk-sFP3sHYR19TJ_3kNbmg4Nt-Y1qixQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2Nzc5/MC0xMTc4ODE5OTUy/LmpwZWc.jpeg" alt="Cover for 2007" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e6683e66bd7b13c852b42d63fe0f594.png" alt="Cover for 2007" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-04-16</td>
       <td>Hipi</td>
@@ -1095,6 +1093,7 @@ Croatian music encompasses diverse styles from the Adriatic region, blending Med
     <tr>
       <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7fe808b4d27b4eb9b85e4dbd9f7d972f.png" alt="Cover for Prva kuja u svemiru" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Kajla</td>
@@ -1137,6 +1136,7 @@ Croatian music encompasses diverse styles from the Adriatic region, blending Med
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ecaf9a370414274944aa52ce2eeafff.png" alt="Cover for Zdravo Marijo" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Severina</td>
@@ -1156,7 +1156,7 @@ Croatian music encompasses diverse styles from the Adriatic region, blending Med
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/G41lii0BONDMIBcqAaSCptjHikM8vzB2C-uavTs7lrM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk3/MTQtMTQxNDk0NzYx/My01NTA3LmpwZWc.jpeg" alt="Cover for Nothing&#39;s Gonna Stop Us Now" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/95cfe92f23ef7ab8e63861381516fc57.png" alt="Cover for Nothing&#39;s Gonna Stop Us Now" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-05-19</td>
       <td>Magnetic</td>
@@ -1177,7 +1177,7 @@ Croatian music encompasses diverse styles from the Adriatic region, blending Med
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/Xl4HJd9Cywv4gK7iWHa-B0QqTwLLzjdwsLkCQhmR0bU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMjM4/NTEtMTQ1MzY2ODk4/My01NjU0LmpwZWc.jpeg" alt="Cover for Pissed Off Beast" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db41512e399c414aa695dc351ca20f00.png" alt="Cover for Pissed Off Beast" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-08-15</td>
       <td>Roadkill Egzotix</td>
@@ -1256,6 +1256,7 @@ Croatian music encompasses diverse styles from the Adriatic region, blending Med
     <tr>
       <td>5</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/35ca651c32a0450b87357aca2a354800.png" alt="Cover for Putovanje u Qaqortoq" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Kajla</td>
@@ -1279,7 +1280,7 @@ Croatian music encompasses diverse styles from the Adriatic region, blending Med
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/1ZJfWmdVARErgnj0hg19zXtqbQj5aFbgBLL0rQyGYhE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODI1/NzkxLTE2MTU2NTgz/MDMtMTA0NS5qcGVn.jpeg" alt="Cover for Bijelo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3bcb4eb018ee29f6e52547950dda1d96.png" alt="Cover for Bijelo" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Mika Male</td>
@@ -1336,6 +1337,7 @@ Croatian music encompasses diverse styles from the Adriatic region, blending Med
     <tr>
       <td>29</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f61511524f84523ba720e3f98110f91.png" alt="Cover for Još Ti Nije Kasno..." style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Krešo i kisele kiše</td>
@@ -1360,7 +1362,7 @@ Croatian music encompasses diverse styles from the Adriatic region, blending Med
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/08IHXS_0-21sGm9CRKUKNRrdTTlrXtK9E0Jyz9gqdEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NTU4/NDQtMTM5NzIxNDcz/Mi02NTcxLmpwZWc.jpeg" alt="Cover for Svetište svinja" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/17cc8ce3a34642239899f4f7793a17d5.png" alt="Cover for Svetište svinja" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Jantar</td>
@@ -1381,7 +1383,7 @@ Croatian music encompasses diverse styles from the Adriatic region, blending Med
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/SRDk56WaGmFQJDIq5ulpebqp3ZstcyNG-XfRqojMFis/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTk0/OTYtMTMxNTcxMjEw/MC5qcGVn.jpeg" alt="Cover for Halfasleep" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b6508038f434e72a759a7e276e611a0.png" alt="Cover for Halfasleep" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-23</td>
       <td>Shaita</td>
@@ -1421,7 +1423,7 @@ Croatian music encompasses diverse styles from the Adriatic region, blending Med
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 27</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1467,7 +1469,7 @@ Croatian music encompasses diverse styles from the Adriatic region, blending Med
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/TYQqKkprQJn0S2I8nD1GrkOit21vzssFXFaTYwDWOYU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjgw/NTItMTY1NzUyMzEy/NS02Mzg2LmpwZWc.jpeg" alt="Cover for Su Bolje Majke" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/44acc6acda8c4395bafaf78d2a00008c.png" alt="Cover for Su Bolje Majke" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-23</td>
       <td>Kurve</td>
@@ -1507,6 +1509,7 @@ Croatian music encompasses diverse styles from the Adriatic region, blending Med
     <tr>
       <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a50b67cbcd044473884d956a58756db6.png" alt="Cover for Prespavana Tragedija" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Pokret Otpora</td>
@@ -1569,7 +1572,7 @@ Croatian music encompasses diverse styles from the Adriatic region, blending Med
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/RuKZWVJbPLOlRm_-vythNppppgn58CiaAYD81pQvx2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MzAw/MjUtMTM3OTc1ODE5/Mi00NTg1LmpwZWc.jpeg" alt="Cover for No Room For Us" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd387f8a54a64f98cf02d1a60412f9e9.png" alt="Cover for No Room For Us" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-20</td>
       <td>Lovely Quinces</td>
@@ -1644,14 +1647,14 @@ Croatian music encompasses diverse styles from the Adriatic region, blending Med
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 87</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/ORfdyqI6OCD0_3rxfFyC-dGTxbt41QJDUNtTRbxMBy4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDg4/OTMtMTQ0OTIyNzI4/OC03ODE4LnBuZw.jpeg" alt="Cover for Kraj Programa" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d0ede0dcce548f091ba858198aa2200.png" alt="Cover for Kraj Programa" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-11-25</td>
       <td>Kraj Programa</td>
@@ -1686,14 +1689,14 @@ Croatian music encompasses diverse styles from the Adriatic region, blending Med
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 31</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/SMSSzU9H7j7_RnbvE1figCqh0H0AZqdPeYEYPDgXf54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODUy/NTg5LTE1MDUzODEz/NDMtOTU5Mi5qcGVn.jpeg" alt="Cover for Sno sna" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/919544eed31cc7b0c1faa959d1785699.png" alt="Cover for Sno sna" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-09-14</td>
       <td>Seine</td>
@@ -1732,7 +1735,7 @@ Croatian music encompasses diverse styles from the Adriatic region, blending Med
     <tr>
       <td>3</td>
       <td>
-          <img src="https://i.discogs.com/yToP8s3QprMmAFBRpdVkOhcVDMS10O7YUzAMXHbMHsA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjQ5/OTgwLTE2NTU4MzQ2/NjAtMTY1Ni5qcGVn.jpeg" alt="Cover for The Fall Of My Youth" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce47c92ea3442b354cfe9de442ca89fe.png" alt="Cover for The Fall Of My Youth" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Seed Holden</td>
@@ -1846,7 +1849,7 @@ Croatian music encompasses diverse styles from the Adriatic region, blending Med
     <tr>
       <td>2</td>
       <td>
-          <img src="https://i.discogs.com/jXNjVyE02Q-rNkILcpzqGuAq1xxCSaL7qJO_CMAUOTA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjkx/ODg5LTE2MzkwODk5/MzUtMzI5NS5qcGVn.jpeg" alt="Cover for split tape with FAAK AM SEE" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/537f237a8d6c478eb8caf93d5c9422b9.png" alt="Cover for split tape with FAAK AM SEE" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-11</td>
       <td>Kriva Istina</td>
@@ -1884,7 +1887,7 @@ Croatian music encompasses diverse styles from the Adriatic region, blending Med
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/Lf-VLGu4iYJ4iQQTAddzJIGKe-v9oDNgnIQhHqcLOJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTYz/MDgyLTE2OTcwMzkz/MjgtMzQ1MS5qcGVn.jpeg" alt="Cover for On the Wings of Unknown" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0e2564aa2e69f969baed5ac07e286f6.png" alt="Cover for On the Wings of Unknown" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-07-28</td>
       <td>Dvorac</td>
@@ -1978,6 +1981,7 @@ Croatian music encompasses diverse styles from the Adriatic region, blending Med
     <tr>
       <td>64</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ececd2f6554649a88db467c9ff0ca2fe.png" alt="Cover for split with Abnormal" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Dolibasija</td>
@@ -1996,6 +2000,7 @@ Croatian music encompasses diverse styles from the Adriatic region, blending Med
     <tr>
       <td>4</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da8f1b63ce0d4c039f99877e8360af1a.png" alt="Cover for Croatian Songs (The Collected Guitar Works Of Branimir Krstic, Vol. III)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Branimir Krstic</td>

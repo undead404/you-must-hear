@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T02:13:07.207Z
+date: 2025-12-04T07:10:29.140Z
 permalink: tags/urbain
 title: urbain
 ---
 
 ## urbain
 
-Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T07:10:29.140Z">Thu Dec 04 2025 09:10:29 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/LQNV0bbp0VKhVvzL_aHaro2DjFhz9aQoDXUbHXlBn28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDQ3/MTktMTQxOTM3MjMz/Ny00MzEyLmpwZWc.jpeg" alt="Cover for L&#39;été est mort" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7c9c773645b50badd8b5506ca784b2e.png" alt="Cover for L&#39;été est mort" style="max-width:120px; height:auto;" />
       </td>
       <td>1973</td>
       <td>kalika</td>
@@ -51,14 +51,14 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 17</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/UeS2GTdh0GOflhgqOwYr8_Cdb1J3zYHbss-DTbJRgUY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMTY3/NDctMTU2MjExOTQw/Ni02NTU0LmpwZWc.jpeg" alt="Cover for Chaudasse" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eef2c0bc66740308d83e92fa984b901d.png" alt="Cover for Chaudasse" style="max-width:120px; height:auto;" />
       </td>
       <td>1973</td>
       <td>kalika</td>
@@ -78,14 +78,14 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 46</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/LQNV0bbp0VKhVvzL_aHaro2DjFhz9aQoDXUbHXlBn28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDQ3/MTktMTQxOTM3MjMz/Ny00MzEyLmpwZWc.jpeg" alt="Cover for Mon amour, mon ami" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/febb1085591ff5c9287a8694c5aa69b0.png" alt="Cover for Mon amour, mon ami" style="max-width:120px; height:auto;" />
       </td>
       <td>1973</td>
       <td>kalika</td>
@@ -96,7 +96,7 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 68</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -146,7 +146,7 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 11</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -184,7 +184,7 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/WIpYCOBi3FQe0Qyozr64LPWuXVa9bC6Alp3yfUaN8Mg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDA3/OTAwLTE1OTEwMzc0/MzAtNDUxMi5qcGVn.jpeg" alt="Cover for Tempo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/400d843f11de890c023122f8971e8d96.png" alt="Cover for Tempo" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>koline</td>
@@ -215,7 +215,7 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/WIpYCOBi3FQe0Qyozr64LPWuXVa9bC6Alp3yfUaN8Mg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDA3/OTAwLTE1OTEwMzc0/MzAtNDUxMi5qcGVn.jpeg" alt="Cover for KO" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f033d488ec5ef1a5da7af1debb9d6a82.png" alt="Cover for KO" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>koline</td>
@@ -246,7 +246,7 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/WIpYCOBi3FQe0Qyozr64LPWuXVa9bC6Alp3yfUaN8Mg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDA3/OTAwLTE1OTEwMzc0/MzAtNDUxMi5qcGVn.jpeg" alt="Cover for Lost" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c28a11434065f9ffa91b3a1e5f4dbdb.png" alt="Cover for Lost" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>koline</td>
@@ -270,8 +270,8 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 7</li>
             <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 47</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -368,7 +368,7 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/d6Scpj7lesQQ_-AepuXuXPdXGqzrMAsMMsw0wyWib4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDkz/NjY5LTE1ODY2ODI0/NzUtMjk1MC5qcGVn.jpeg" alt="Cover for Sortir de la tess" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a95028b5b15c92a6f4f4e7f21c0205bd.png" alt="Cover for Sortir de la tess" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Leys</td>
@@ -389,16 +389,16 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 4</li>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 26</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 73</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 76</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/d6Scpj7lesQQ_-AepuXuXPdXGqzrMAsMMsw0wyWib4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDkz/NjY5LTE1ODY2ODI0/NzUtMjk1MC5qcGVn.jpeg" alt="Cover for Parabellum (Nouvelle École)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4dab74ceed534b375153156531b22b84.png" alt="Cover for Parabellum (Nouvelle École)" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Leys</td>
@@ -419,9 +419,9 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 30</li>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 64</li>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 65</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 37</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 37</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 71</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 93</li>
         </ul>
       </td>
@@ -429,7 +429,7 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/IBU0xNzutS0IGgAqtQisthKCwHMoss4xHBlo1NXnQeE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Mjk2/NTYtMTQ4ODcyNzIw/Ny01MDQwLmpwZWc.jpeg" alt="Cover for I Know" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c4c3b4d13c033dcb245dbcd5896d7e9.png" alt="Cover for I Know" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Romane</td>
@@ -453,7 +453,7 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/IBU0xNzutS0IGgAqtQisthKCwHMoss4xHBlo1NXnQeE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Mjk2/NTYtMTQ4ODcyNzIw/Ny01MDQwLmpwZWc.jpeg" alt="Cover for Fantasy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ada41970079f369980e03607d5ad2840.png" alt="Cover for Fantasy" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Romane</td>
@@ -477,7 +477,7 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/6HhwPdH2KRpBjbFN-5y_X5l5hARFpnKnZOHj7AAXnVs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MTU2/LTE0MjQ3OTM3NDQt/MzkxMC5qcGVn.jpeg" alt="Cover for Foufoune" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fed0302aaa8a92459d889a8a9caaae65.png" alt="Cover for Foufoune" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-03-03</td>
       <td>Mara</td>
@@ -500,11 +500,11 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 38</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 60</li>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 76</li>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 79</li>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 84</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 14</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 23</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 25</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 41</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -534,17 +534,17 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 13</li>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 51</li>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 51</li>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 53</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 48</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 49</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 50</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/ZL3Im4CVyEoerRLb8Hq8q-WmH-wm9FjN4b2pfgCXAr8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2Nzkx/LTEzNTg1Njg2NzAt/MTg2My5qcGVn.jpeg" alt="Cover for Dans ta bouche" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3328fc3f1cc61c6ad1523690d550f5d8.png" alt="Cover for Dans ta bouche" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Mara</td>
@@ -567,11 +567,11 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 65</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 78</li>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 82</li>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 89</li>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 92</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 7</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 12</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 19</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 23</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -626,14 +626,14 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 3</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/CPVDQe6nsEn9bBdgDSUnzUqmV9ptEXuKT0BU_TS1jTA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMDg3/MjYtMTM1ODYwMTc2/My02MDQ3LmpwZWc.jpeg" alt="Cover for JTM" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e9f8d8f0cf67d7dcc56410b46edadf8.png" alt="Cover for JTM" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Myra</td>
@@ -657,9 +657,9 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 37</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 59</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 60</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 41</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 42</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -690,17 +690,17 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 11</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 67</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 77</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 80</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 21</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 24</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 34</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>5</td>
       <td>
-          <img src="https://i.discogs.com/QYJkUTfviaBfrQgKH7Zaa3s8Sty5IoEQ57ByRIuxGg0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDEz/My0xMTI0NjU5OTE0/LmpwZWc.jpeg" alt="Cover for L&#39;appétit" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dca568400009b2b736e4d86ccb16cd69.png" alt="Cover for L&#39;appétit" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Myra</td>
@@ -790,7 +790,7 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/QYJkUTfviaBfrQgKH7Zaa3s8Sty5IoEQ57ByRIuxGg0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDEz/My0xMTI0NjU5OTE0/LmpwZWc.jpeg" alt="Cover for En vrai" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3287e7826035f9b76332b496d41dc1fc.png" alt="Cover for En vrai" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Myra</td>
@@ -820,7 +820,7 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/QYJkUTfviaBfrQgKH7Zaa3s8Sty5IoEQ57ByRIuxGg0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDEz/My0xMTI0NjU5OTE0/LmpwZWc.jpeg" alt="Cover for 37 degrés" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c8c90f69029b1f45dfdfc6715966151.png" alt="Cover for 37 degrés" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Myra</td>
@@ -903,8 +903,8 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 15</li>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 36</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 66</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -934,10 +934,10 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 2</li>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 30</li>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 43</li>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 49</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 54</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 58</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 69</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -965,8 +965,8 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 13</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 67</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -994,8 +994,8 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 33</li>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 45</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 57</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 68</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 82</li>
         </ul>
       </td>
@@ -1110,7 +1110,7 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 48</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1146,6 +1146,7 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
     <tr>
       <td>18</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/41457ce880dd53686c3ddbb5b405b25d.png" alt="Cover for Elia - EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-11-13</td>
       <td>Elia</td>
@@ -1174,7 +1175,7 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
     <tr>
       <td>12</td>
       <td>
-          <img src="https://i.discogs.com/SNB27VjKND6ZeZhMxnlDLgCFWPvFAzk3XYHWUcv96dw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTcw/MjkzLTE1MDc0MTkz/OTEtNDEyNS5wbmc.jpeg" alt="Cover for Des mots d&#39;amour" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b898323e24a9b6dc0322e04c4c7ffe8f.png" alt="Cover for Des mots d&#39;amour" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Myra</td>
@@ -1234,6 +1235,7 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
     <tr>
       <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/085af9743f009ddf0a58d95024b8a3f9.png" alt="Cover for Tendresse" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01</td>
       <td>Elia</td>
@@ -1256,8 +1258,8 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 10</li>
             <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 49</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1286,9 +1288,9 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 8</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 27</li>
             <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 61</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 74</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1317,16 +1319,17 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 19</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 45</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 50</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 51</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 56</li>
             <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 75</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/765972ebe787982474159fd58d6de20d.png" alt="Cover for Aurore" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01</td>
       <td>Elia</td>
@@ -1349,9 +1352,9 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 39</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 61</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 62</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 39</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 40</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 62</li>
             <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 83</li>
         </ul>
       </td>
@@ -1359,6 +1362,7 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a3a9694d3effc59cedec2c4e8d5e45f.png" alt="Cover for Téléphone" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01</td>
       <td>Elia</td>
@@ -1382,9 +1386,9 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 45</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 65</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 65</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 36</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 36</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 56</li>
             <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 85</li>
         </ul>
       </td>
@@ -1409,7 +1413,7 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 7</li>
+            <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1496,7 +1500,7 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/g3DQpwPj0QwEm1SgZ19_j9qtdY-Cw5C4zn12Mfvgj4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MzA1/NzgtMTQ2NTUwOTk0/NS0xMzU5LmpwZWc.jpeg" alt="Cover for La Main" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1611934e9e9f8d5e538c2d415849c1c4.png" alt="Cover for La Main" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-06</td>
       <td>Naë</td>
@@ -1528,7 +1532,7 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/yxF12qvcM2uR1VGPhZsJTLeAZS2ucfTZeuHjV3h7P9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjc0/MjYzLTE1MDIxNTQy/NzEtOTA2MS5qcGVn.jpeg" alt="Cover for Sos (Chapitre 1)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ec328eb624140663fc137655f5d5493.png" alt="Cover for Sos (Chapitre 1)" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-07-15</td>
       <td>Nej</td>
@@ -1547,8 +1551,8 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 41</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 53</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 44</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1681,7 +1685,7 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/AGqot6PdQKBQl1pD5CjWOjxe79cln4Q5F1SWGssdY4A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzg3/NDk5LTE1NjExMjYw/OTItMTI0NC5qcGVn.jpeg" alt="Cover for Toute une histoire" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11f1d4e563b4d364f9dc2eb6d503ed58.png" alt="Cover for Toute une histoire" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>Fanny Polly</td>
@@ -1699,7 +1703,7 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 47</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1724,15 +1728,15 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 3</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 22</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 7</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/Fl9kmMjP5lo_QoFhI2yjZpSL6WDlb0GL_j4DBvayGpA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTYx/NjI5LTE1ODQ3ODc1/NjItNjYxNi5qcGVn.jpeg" alt="Cover for Boucle - EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8618ceedd6e3ae6e460530378081994.png" alt="Cover for Boucle - EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>Enchantée Julia</td>
@@ -1777,7 +1781,7 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/Fl9kmMjP5lo_QoFhI2yjZpSL6WDlb0GL_j4DBvayGpA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTYx/NjI5LTE1ODQ3ODc1/NjItNjYxNi5qcGVn.jpeg" alt="Cover for Douze heures (Extrait de &quot;Fait Maison&quot;)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/672ec6eecc048520c9ef59e4fe4e46d2.png" alt="Cover for Douze heures (Extrait de &quot;Fait Maison&quot;)" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>Enchantée Julia</td>
@@ -1804,7 +1808,7 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/Fl9kmMjP5lo_QoFhI2yjZpSL6WDlb0GL_j4DBvayGpA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTYx/NjI5LTE1ODQ3ODc1/NjItNjYxNi5qcGVn.jpeg" alt="Cover for Montreuil-Chapelle" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c80956eb3acd31dd8eda0065b219e21f.png" alt="Cover for Montreuil-Chapelle" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>Enchantée Julia</td>
@@ -1883,7 +1887,7 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/0DnX1VH7Gyf8JDVf2636q7IYcQd0HgAhjHbi6yUBZ3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzI4/NDYyLTE1NTk4ODU4/OTUtOTUyMy5qcGVn.jpeg" alt="Cover for Les étoiles vagabondes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6947ad4926b10dafc675d247ddd9e091.png" alt="Cover for Les étoiles vagabondes" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-06-06</td>
       <td>Nekfeu</td>
@@ -1900,16 +1904,16 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 42</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 88</li>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 93</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 8</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 14</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/WM45eDDVinb8truXSipDuRohXWw0yChzF1v81KSwQ9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTAx/NzYyLTE1Njc4NzUw/OTgtOTUzMi5qcGVn.jpeg" alt="Cover for Il suffit d&#39;y croire (Edition deluxe)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/78435440ca660701a83676019d04e553.png" alt="Cover for Il suffit d&#39;y croire (Edition deluxe)" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-06-21</td>
       <td>Hoshi</td>
@@ -1932,16 +1936,16 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 14</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 31</li>
             <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 65</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 70</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/WM45eDDVinb8truXSipDuRohXWw0yChzF1v81KSwQ9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTAx/NzYyLTE1Njc4NzUw/OTgtOTUzMi5qcGVn.jpeg" alt="Cover for Il suffit d&#39;y croire (Version deluxe)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/935856874d5dc7c61eb6818b49405aac.png" alt="Cover for Il suffit d&#39;y croire (Version deluxe)" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-06-21</td>
       <td>Hoshi</td>
@@ -1964,11 +1968,11 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 69</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 76</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 93</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 93</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 95</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 6</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 8</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 8</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 23</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 70</li>
             <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 97</li>
         </ul>
       </td>
@@ -1976,7 +1980,7 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/ze7kEDhtriAac7W5aja0LvBwPkPvtpa3bOn93XhABrc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODQ4/MjI0LTE2MjE3Nzg0/NjEtOTI0Ni5qcGVn.jpeg" alt="Cover for Projet 7" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b792a5239ec8d98fd8d4631711ddf1e7.png" alt="Cover for Projet 7" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-02-24</td>
       <td>Myra</td>
@@ -2006,7 +2010,7 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/y_j8VHBmSzoccVUGhRAd2l3R_8-QMq3vaSifQCvoUgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NDc2/LTE1MTcwODI0OTEt/MzQ1Mi5qcGVn.jpeg" alt="Cover for Météo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1661caeb9265faa7ed19d31d5b0dd720.png" alt="Cover for Météo" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-02-26</td>
       <td>jäde</td>
@@ -2024,14 +2028,14 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 73</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/xpV0rqQ1mikm0M5dRJQuzqYXWv-_ObPwCCegssS4Ff4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDUy/MTczLTE2ODQxMzQ1/OTUtODgzOS5qcGVn.jpeg" alt="Cover for Minouche mafia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4898edeb7ab133caddea1a7714964aef.png" alt="Cover for Minouche mafia" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-12-10</td>
       <td>Cœur</td>
@@ -2053,16 +2057,16 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 8</li>
-            <li> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a> # 14</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 66</li>
+            <li> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a> # 85</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/knR8gMFCN6oi2OuW1CSylKNk1H8tdbJtexJtapJ-lVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzQ0/NTI1LTE2MjgxMjI2/MDAtODMxMi5qcGVn.jpeg" alt="Cover for Minouche mafia (Deluxe)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d1bf7f6db76df0dcec58cfb3931d338.png" alt="Cover for Minouche mafia (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-12-10</td>
       <td>Cœur</td>
@@ -2084,9 +2088,9 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 15</li>
-            <li> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a> # 25</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 68</li>
+            <li> <a href="{{ "/tags/female-rapper" | relative_url }}">female rapper</a> # 74</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -2115,9 +2119,9 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 27</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 51</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 55</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 46</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 50</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 74</li>
             <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 79</li>
         </ul>
       </td>
@@ -2125,7 +2129,7 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/betjmbeVDg6gL5ylMmhgE9dWlTvzMiECxUXfSUbfKqA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDI0/MTczLTE2MzAxNDQ1/NjYtODQ0My5qcGVn.jpeg" alt="Cover for Rêvalité" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c9033c6108673728797715a78e5593f.png" alt="Cover for Rêvalité" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-03-12</td>
       <td>Thérèse</td>
@@ -2178,9 +2182,9 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 20</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 34</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 67</li>
             <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 68</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -2210,22 +2214,23 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 24</li>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 87</li>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 92</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 99</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 100</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 100</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 100</li>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 100</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 1</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 1</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 1</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 2</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 48</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 90</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 92</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 94</li>
             <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 100</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/SOlH9965pO6iGPTAOxYsRRk3kwQxQeUixvePDYjezg0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjc4/NzkzLTE2MjY3ODI3/NTctNTk3Ni5qcGVn.jpeg" alt="Cover for Étoile flippante" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a008bf718839c6b147d0420adfc5702d.png" alt="Cover for Étoile flippante" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-06-18</td>
       <td>Hoshi</td>
@@ -2248,9 +2253,9 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 43</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 63</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 63</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 38</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 38</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 58</li>
             <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 84</li>
         </ul>
       </td>
@@ -2281,11 +2286,11 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 5</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 63</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 75</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 77</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 24</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 26</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 38</li>
             <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 90</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -2310,14 +2315,14 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 36</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/Dq0rgx-0ZnlsgMlDFm2eyLdg-HWZd97S7w3VQHYf1ao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjU4/ODU0LTE2NzI4MTY3/NTEtNDMyOC5qcGVn.jpeg" alt="Cover for Sans amour" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8985bfcc2b2d00683c124bc38c54ff43.png" alt="Cover for Sans amour" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-06-17</td>
       <td>Olympe Chabert</td>
@@ -2339,8 +2344,8 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 11</li>
             <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 50</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -2369,9 +2374,9 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 12</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 30</li>
             <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 64</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 71</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -2458,7 +2463,7 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 44</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 57</li>
             <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 74</li>
         </ul>
       </td>
@@ -2515,9 +2520,9 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 16</li>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 37</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 65</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 77</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -2545,8 +2550,8 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 54</li>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 55</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 47</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 47</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 87</li>
         </ul>
       </td>
@@ -2576,13 +2581,14 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 7</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/48b95a9a8bb29709d157b6c72b399242.png" alt="Cover for Tout ce temps" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>SOUMEYA</td>
@@ -2601,13 +2607,14 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 10</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd387e754acba56782dc073450a823b4.png" alt="Cover for Sérénade" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Boa Joo</td>
@@ -2630,13 +2637,14 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 12</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/93e3cf1d49a32cc4fd382787b45fc4b3.png" alt="Cover for Résilience" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>SOUMEYA</td>
@@ -2655,8 +2663,8 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 22</li>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 42</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 60</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -2713,6 +2721,7 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
     <tr>
       <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af3165c1b252c228b36af2106414787c.png" alt="Cover for DIGITAL" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Vannye</td>
@@ -2734,7 +2743,7 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 41</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 60</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 84</li>
         </ul>
       </td>
@@ -2767,6 +2776,7 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61e0dd59cfdd9f084912cbfddb6671cf.png" alt="Cover for Nacarat" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Marie Plassard</td>
@@ -2784,7 +2794,7 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 35</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -2808,13 +2818,14 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 61</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cce56e2f8bc1d65b2f09fd61f2a6f453.png" alt="Cover for SPLEEN" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Marie Plassard</td>
@@ -2832,14 +2843,15 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 12</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 78</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 23</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/20f3fb2514a283741bd1ef6b637e2d4f.png" alt="Cover for PASSÉ&#x2F;PRÉSENT&#x2F;FUTUR" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>$afia Bahmed-Schwartz</td>
@@ -2864,6 +2876,7 @@ Last updated: <time datetime="2025-10-22T02:13:07.207Z">Wed Oct 22 2025 05:13:07
     <tr>
       <td>17</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5e1a972d61e06dbcaed74722ed6a910.png" alt="Cover for Best Of" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>$afia Bahmed-Schwartz</td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-26T05:59:14.974Z
+date: 2025-12-04T07:03:59.958Z
 permalink: tags/trova
 title: trova
 ---
 
 ## trova
 
-Last updated: <time datetime="2025-10-26T05:59:14.974Z">Sun Oct 26 2025 07:59:14 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:03:59.958Z">Thu Dec 04 2025 09:03:59 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -63,7 +63,7 @@ Trova is a Latin American singer-songwriter tradition rooted in poetic storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautor" | relative_url }}">cantautor</a> # 35</li>
+            <li> <a href="{{ "/tags/cantautor" | relative_url }}">cantautor</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -84,8 +84,8 @@ Trova is a Latin American singer-songwriter tradition rooted in poetic storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 47</li>
-            <li> <a href="{{ "/tags/cantautor" | relative_url }}">cantautor</a> # 61</li>
+            <li> <a href="{{ "/tags/cantautor" | relative_url }}">cantautor</a> # 40</li>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -110,7 +110,6 @@ Trova is a Latin American singer-songwriter tradition rooted in poetic storytell
     <tr>
       <td>2</td>
       <td>
-          <img src="https://i.discogs.com/kqs7mXaArthjncZQlL623fzKh2ejtUkQNfw_XNB3PKE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMDAx/MTAtMTQxMTA2MzU0/OS01MDU3LmpwZWc.jpeg" alt="Cover for Cuba Sí, yanquis No" style="max-width:120px; height:auto;" />
       </td>
       <td>1976</td>
       <td>Carlos Puebla</td>
@@ -141,7 +140,7 @@ Trova is a Latin American singer-songwriter tradition rooted in poetic storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautor" | relative_url }}">cantautor</a> # 78</li>
+            <li> <a href="{{ "/tags/cantautor" | relative_url }}">cantautor</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -203,7 +202,7 @@ Trova is a Latin American singer-songwriter tradition rooted in poetic storytell
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/lm8t7Yi-RkyPEp5fgGY1idm64VaGtgGvsiYSVsa7Mbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgw/MDktMTY1NzU2Mzc1/Ny0xMjMwLmpwZWc.jpeg" alt="Cover for Pedro Aznar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8dcf645ac7a84b83be07cf07cb0b2240.png" alt="Cover for Pedro Aznar" style="max-width:120px; height:auto;" />
       </td>
       <td>1982</td>
       <td>Pedro Aznar</td>
@@ -310,9 +309,9 @@ Trova is a Latin American singer-songwriter tradition rooted in poetic storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 21</li>
             <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 26</li>
-            <li> <a href="{{ "/tags/cantautor" | relative_url }}">cantautor</a> # 47</li>
+            <li> <a href="{{ "/tags/cantautor" | relative_url }}">cantautor</a> # 54</li>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -332,15 +331,15 @@ Trova is a Latin American singer-songwriter tradition rooted in poetic storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 54</li>
-            <li> <a href="{{ "/tags/cantautor" | relative_url }}">cantautor</a> # 81</li>
+            <li> <a href="{{ "/tags/cantautor" | relative_url }}">cantautor</a> # 19</li>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/6xpIsTay_OH1tsyt8zBnqD7NV4mYd2_DfCWiYfRa81w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzA0/NjItMTMzOTY4OTQx/Ny01NzAyLmpwZWc.jpeg" alt="Cover for Contemplación" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0890453af4248daaf7a80d36b907d4e.png" alt="Cover for Contemplación" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>Pedro Aznar</td>
@@ -374,8 +373,8 @@ Trova is a Latin American singer-songwriter tradition rooted in poetic storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 47</li>
-            <li> <a href="{{ "/tags/cantautor" | relative_url }}">cantautor</a> # 53</li>
+            <li> <a href="{{ "/tags/cantautor" | relative_url }}">cantautor</a> # 48</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -400,7 +399,7 @@ Trova is a Latin American singer-songwriter tradition rooted in poetic storytell
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/aPKolnCfHxP0s-1Ev1ohROqqFW1jb0qkZy1FEs0dT-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMjk0/NDktMTM4MjU2Mjgw/Ni0yMjM3LmpwZWc.jpeg" alt="Cover for Reinas De Pueblo Grande" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/29903f5a2eb4493c98888702887b385c.png" alt="Cover for Reinas De Pueblo Grande" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Silvina Garre</td>
@@ -556,7 +555,7 @@ Trova is a Latin American singer-songwriter tradition rooted in poetic storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 72</li>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -574,7 +573,7 @@ Trova is a Latin American singer-songwriter tradition rooted in poetic storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 81</li>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -594,7 +593,7 @@ Trova is a Latin American singer-songwriter tradition rooted in poetic storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautor" | relative_url }}">cantautor</a> # 90</li>
+            <li> <a href="{{ "/tags/cantautor" | relative_url }}">cantautor</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -690,7 +689,7 @@ Trova is a Latin American singer-songwriter tradition rooted in poetic storytell
     <tr>
       <td>21</td>
       <td>
-          <img src="https://i.discogs.com/W32zkNaw46sG7oyXAOWwTCUijYB-RR48AS6RpeOtMp0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDUx/NjQ2LTE1MDkwMDI3/OTgtNjUzMS5qcGVn.jpeg" alt="Cover for Cambio De Planes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eff502279eb0448db4fd3923dfc98e2f.png" alt="Cover for Cambio De Planes" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Sandra Mihanovich</td>
@@ -727,7 +726,7 @@ Trova is a Latin American singer-songwriter tradition rooted in poetic storytell
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/z8GeSA-ZwhMO70tJmFMHFocv8zauU5YrHtJ_DwZksC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTky/MDUtMTQzMTgwNTIx/My04NjI2LmpwZWc.jpeg" alt="Cover for En el Camino" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc6a65b6450993085816d94e48e9dd98.png" alt="Cover for En el Camino" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Mexicanto</td>
@@ -763,7 +762,7 @@ Trova is a Latin American singer-songwriter tradition rooted in poetic storytell
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/K8fEWjotzmpEVteRGovsH2Doy_KJdeBUQ1jZ-b99ouc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzEz/MTU2LTE1OTY0MDk0/MTItODc1NC5qcGVn.jpeg" alt="Cover for Lo Mejor De Los Mejores" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd41654ea60b4d2ab32219b3be1b4797.png" alt="Cover for Lo Mejor De Los Mejores" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Silvina Garre</td>
@@ -781,6 +780,7 @@ Trova is a Latin American singer-songwriter tradition rooted in poetic storytell
     <tr>
       <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ae615dd9d0e0cb776ff2ae2620c2813.png" alt="Cover for David Y Goliath" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Pedro Aznar</td>
@@ -819,7 +819,7 @@ Trova is a Latin American singer-songwriter tradition rooted in poetic storytell
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/-b7lqyd565PianBW0SaXFZqPV0tQlxOkXPgfULEoryU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyOTA5/MTItMTQ1MzEzNjU3/NC04ODI1LmpwZWc.jpeg" alt="Cover for Cuerpo y Alma" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2fd2f7a17c64beebf1058be84e188cb.png" alt="Cover for Cuerpo y Alma" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Pedro Aznar</td>
@@ -832,14 +832,13 @@ Trova is a Latin American singer-songwriter tradition rooted in poetic storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 86</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/bxVEMk-I6Fx23bDgj85HVyBiW2aofPw644iHXoBrT3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjUx/MzU5LTE1Nzg5MzE0/NTgtODc2Ni5qcGVn.jpeg" alt="Cover for 21 Exitos de Siempre" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Fernando Ubiergo</td>
@@ -928,7 +927,7 @@ Trova is a Latin American singer-songwriter tradition rooted in poetic storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 33</li>
+            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -979,11 +978,11 @@ Trova is a Latin American singer-songwriter tradition rooted in poetic storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 15</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 29</li>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 56</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 66</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 35</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 44</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 71</li>
             <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 78</li>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1061,7 +1060,7 @@ Trova is a Latin American singer-songwriter tradition rooted in poetic storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 55</li>
+            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1105,6 +1104,7 @@ Trova is a Latin American singer-songwriter tradition rooted in poetic storytell
     <tr>
       <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ce62dd46824ba827c16bd568860de5e.png" alt="Cover for Auterretratos, Vol. 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Luis Eduardo Aute</td>
@@ -1184,10 +1184,10 @@ Trova is a Latin American singer-songwriter tradition rooted in poetic storytell
       <td>
         <ul>
             <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 9</li>
-            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 33</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 51</li>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 65</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 77</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 23</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 35</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 49</li>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 68</li>
             <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 89</li>
         </ul>
       </td>
@@ -1195,6 +1195,7 @@ Trova is a Latin American singer-songwriter tradition rooted in poetic storytell
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a2873affc5d4140921af58152beb41b.png" alt="Cover for Pánico" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Manuel García</td>
@@ -1206,7 +1207,7 @@ Trova is a Latin American singer-songwriter tradition rooted in poetic storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautor" | relative_url }}">cantautor</a> # 99</li>
+            <li> <a href="{{ "/tags/cantautor" | relative_url }}">cantautor</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1285,7 +1286,7 @@ Trova is a Latin American singer-songwriter tradition rooted in poetic storytell
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/1ad65cu3Egxz54ZYpB3SXGB4Bm4VcaaxiabrB7q5Uvc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDIz/NzIzLTE1MTYwNzE5/MjEtMzMzMC5qcGVn.jpeg" alt="Cover for A Roar Of Southern Clouds" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2c565ec45ac4747c78d77c7eba6b533.png" alt="Cover for A Roar Of Southern Clouds" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-06-06</td>
       <td>Pedro Aznar</td>
@@ -1298,7 +1299,7 @@ Trova is a Latin American singer-songwriter tradition rooted in poetic storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 39</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1336,7 +1337,7 @@ Trova is a Latin American singer-songwriter tradition rooted in poetic storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish-rock" | relative_url }}">spanish rock</a> # 89</li>
+            <li> <a href="{{ "/tags/spanish-rock" | relative_url }}">spanish rock</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1397,7 +1398,7 @@ Trova is a Latin American singer-songwriter tradition rooted in poetic storytell
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/14XjX0xV4qRMnRzH2_jJ_ozTzURQcoex-hoz1n40-BI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzOTAx/NzYtMTM2MzYxMzY3/NC05NDIwLmpwZWc.jpeg" alt="Cover for Esenciales" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/99ace99fafede9bf43514ce145b706ad.png" alt="Cover for Esenciales" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Pedro Aznar</td>
@@ -1464,8 +1465,8 @@ Trova is a Latin American singer-songwriter tradition rooted in poetic storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 65</li>
-            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 92</li>
+            <li> <a href="{{ "/tags/chilean" | relative_url }}">chilean</a> # 9</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1577,7 +1578,7 @@ Trova is a Latin American singer-songwriter tradition rooted in poetic storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 3</li>
+            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1616,7 +1617,7 @@ Trova is a Latin American singer-songwriter tradition rooted in poetic storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 49</li>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1677,33 +1678,24 @@ Trova is a Latin American singer-songwriter tradition rooted in poetic storytell
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/Av6Zwda7xoCYtCAqqIXXhFNDGjkoF0aYivti2rvcg0w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzk2/Mzk2LTE0OTY2Mjcw/MDYtNzUzOS5qcGVn.jpeg" alt="Cover for Ciencia Exacta" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b7954a581806d6c93cf87bf388c3e25.png" alt="Cover for Ciencia Exacta" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-26</td>
       <td>Gepe</td>
       <td>Ciencia Exacta</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chile" | relative_url }}">chile</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin" | relative_url }}">latin</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trova" | relative_url }}">trova</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-chileno" | relative_url }}">rock chileno</a> # 91</li>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/0HGnlOmu7l6KkYb-6Z9mdVDQAJVeN44Iu8NkrM7neR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTMx/MDA2LTE2ODIwMTE4/NzktNzQ3Ny5qcGVn.jpeg" alt="Cover for El mundo no se hizo en dos días" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/29c4749581b530fa625ef4a52f07c167.png" alt="Cover for El mundo no se hizo en dos días" style="max-width:120px; height:auto;" />
       </td>
       <td>2022</td>
       <td>Pedro Aznar</td>
@@ -1794,7 +1786,6 @@ Trova is a Latin American singer-songwriter tradition rooted in poetic storytell
     <tr>
       <td>6</td>
       <td>
-          <img src="https://i.discogs.com/7dyu4fUM9OUnjBtR11aMwNwXzKGWY3xpeZUmkpASuu8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwOTIw/NjgtMTQ1NDk3NTc2/My03MzI3LmpwZWc.jpeg" alt="Cover for teikirisi" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-06-16</td>
       <td>Diek</td>
@@ -1817,6 +1808,7 @@ Trova is a Latin American singer-songwriter tradition rooted in poetic storytell
     <tr>
       <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/197fa11a32594efe944b31a8eb1a0aaa.png" alt="Cover for Víctor Jara Sinfónico" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Manuel García &amp; Orquesta Sinfónica U. de Concepción</td>
@@ -1832,7 +1824,7 @@ Trova is a Latin American singer-songwriter tradition rooted in poetic storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautor" | relative_url }}">cantautor</a> # 27</li>
+            <li> <a href="{{ "/tags/cantautor" | relative_url }}">cantautor</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1850,7 +1842,7 @@ Trova is a Latin American singer-songwriter tradition rooted in poetic storytell
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautor" | relative_url }}">cantautor</a> # 15</li>
+            <li> <a href="{{ "/tags/cantautor" | relative_url }}">cantautor</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1910,6 +1902,7 @@ Trova is a Latin American singer-songwriter tradition rooted in poetic storytell
     <tr>
       <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a822ba9666f420ba570cf185a2229e7.png" alt="Cover for Inolvidables" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Los Guitandantes</td>
@@ -1949,11 +1942,11 @@ Trova is a Latin American singer-songwriter tradition rooted in poetic storytell
 
 - [cantautor]({{ "/tags/cantautor" | relative_url }})
 - [latin]({{ "/tags/latin" | relative_url }})
-- [folk]({{ "/tags/folk" | relative_url }})
 - [cuba]({{ "/tags/cuba" | relative_url }})
-- [singer-songwriter]({{ "/tags/singer-songwriter" | relative_url }})
+- [folk]({{ "/tags/folk" | relative_url }})
 - [spanish]({{ "/tags/spanish" | relative_url }})
+- [singer-songwriter]({{ "/tags/singer-songwriter" | relative_url }})
 - [rock]({{ "/tags/rock" | relative_url }})
 - [pop]({{ "/tags/pop" | relative_url }})
 - [peruvian]({{ "/tags/peruvian" | relative_url }})
-- [alternativo]({{ "/tags/alternativo" | relative_url }})
+- [latin america]({{ "/tags/latin-america" | relative_url }})

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T15:09:31.752Z
+date: 2025-12-04T07:07:08.434Z
 permalink: tags/mantra
 title: mantra
 ---
 
 ## mantra
 
-Last updated: <time datetime="2025-10-28T15:09:31.752Z">Tue Oct 28 2025 17:09:31 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:07:08.434Z">Thu Dec 04 2025 09:07:08 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -187,7 +187,7 @@ Mantra music features repetitive sacred chants and devotional phrases rooted in 
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/0q3DMdXLZqcw6Zr9Ja9ReoK0lC_JAHj_W86JhqvWyf8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzQw/MzIxLTE1MzMyNzAz/ODktNzgxMi5qcGVn.jpeg" alt="Cover for Golden Voice" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3110c04cc46ddd952a892165fd64161e.png" alt="Cover for Golden Voice" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Bhagavan Das</td>
@@ -329,9 +329,9 @@ Mantra music features repetitive sacred chants and devotional phrases rooted in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 14</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 16</li>
             <li> <a href="{{ "/tags/indian-fusion" | relative_url }}">indian fusion</a> # 55</li>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 96</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 85</li>
             <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 98</li>
         </ul>
       </td>
@@ -389,7 +389,7 @@ Mantra music features repetitive sacred chants and devotional phrases rooted in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 61</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -521,7 +521,7 @@ Mantra music features repetitive sacred chants and devotional phrases rooted in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 65</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -611,7 +611,7 @@ Mantra music features repetitive sacred chants and devotional phrases rooted in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 17</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -670,8 +670,8 @@ Mantra music features repetitive sacred chants and devotional phrases rooted in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 35</li>
-            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 69</li>
+            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 31</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -749,14 +749,14 @@ Mantra music features repetitive sacred chants and devotional phrases rooted in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 77</li>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/Tiv5pACxpI8WcydSqtwnh7lOGzcT0X1oP-IiFF3p-4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODk1/Ni0xMTY5NTIyMDgz/LmpwZWc.jpeg" alt="Cover for Now" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/05eb019847c245f989cb882f5ad61156.png" alt="Cover for Now" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-07-09</td>
       <td>Bhagavan Das</td>
@@ -769,7 +769,7 @@ Mantra music features repetitive sacred chants and devotional phrases rooted in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 92</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -788,7 +788,7 @@ Mantra music features repetitive sacred chants and devotional phrases rooted in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 48</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -902,8 +902,8 @@ Mantra music features repetitive sacred chants and devotional phrases rooted in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 23</li>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 71</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 30</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -964,7 +964,7 @@ Mantra music features repetitive sacred chants and devotional phrases rooted in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 17</li>
+            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -983,7 +983,7 @@ Mantra music features repetitive sacred chants and devotional phrases rooted in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 21</li>
+            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1156,7 +1156,7 @@ Mantra music features repetitive sacred chants and devotional phrases rooted in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 46</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1286,7 +1286,7 @@ Mantra music features repetitive sacred chants and devotional phrases rooted in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a> # 13</li>
+            <li> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a> # 14</li>
             <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 71</li>
         </ul>
       </td>
@@ -1387,8 +1387,8 @@ Mantra music features repetitive sacred chants and devotional phrases rooted in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 42</li>
-            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 44</li>
+            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 45</li>
+            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1430,7 +1430,7 @@ Mantra music features repetitive sacred chants and devotional phrases rooted in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 46</li>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1474,7 +1474,7 @@ Mantra music features repetitive sacred chants and devotional phrases rooted in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 73</li>
+            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 28</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 74</li>
         </ul>
       </td>
@@ -1520,6 +1520,7 @@ Mantra music features repetitive sacred chants and devotional phrases rooted in 
     <tr>
       <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0554590de3b94899c81a2ea9b16bd828.png" alt="Cover for Sub Mira" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-08-01</td>
       <td>Hidden Tribe</td>
@@ -1560,7 +1561,7 @@ Mantra music features repetitive sacred chants and devotional phrases rooted in 
     <tr>
       <td>2</td>
       <td>
-          <img src="https://i.discogs.com/7dpMd_YtzZ0X5ij97tEAznowotR__yNR8ZnpOOLc2V0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0Mjgy/NzMtMTQxODk5MzQz/MC00OTI4LmpwZWc.jpeg" alt="Cover for Bardo EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e299ed2bfca4ac5ca38dee55a275d18.png" alt="Cover for Bardo EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-12-19</td>
       <td>Hidden Tribe</td>
@@ -1686,10 +1687,10 @@ Mantra music features repetitive sacred chants and devotional phrases rooted in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 18</li>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 25</li>
-            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 26</li>
             <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 39</li>
+            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 73</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 75</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1709,7 +1710,7 @@ Mantra music features repetitive sacred chants and devotional phrases rooted in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a> # 15</li>
+            <li> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1728,7 +1729,7 @@ Mantra music features repetitive sacred chants and devotional phrases rooted in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a> # 64</li>
+            <li> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1897,6 +1898,7 @@ Mantra music features repetitive sacred chants and devotional phrases rooted in 
     <tr>
       <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2ce8e79c62d4fe8cfacc92c49d2c778.png" alt="Cover for Mantra Lounge Vol.1" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Mantrance</td>
@@ -1948,6 +1950,7 @@ Mantra music features repetitive sacred chants and devotional phrases rooted in 
     <tr>
       <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/27d265365857cccdcc5ed6ffe190bb03.png" alt="Cover for Sounds Of Awakening - Healing Mantras" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Chandra Lacombe</td>

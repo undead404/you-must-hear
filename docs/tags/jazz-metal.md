@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T12:57:37.982Z
+date: 2025-12-04T07:02:41.814Z
 permalink: tags/jazz-metal
 title: jazz metal
 ---
 
 ## jazz metal
 
-Last updated: <time datetime="2025-11-23T12:57:37.982Z">Sun Nov 23 2025 14:57:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:02:41.814Z">Thu Dec 04 2025 09:02:41 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -81,7 +81,7 @@ Jazz metal fuses the technical complexity and improvisational spirit of jazz wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 57</li>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 42</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 87</li>
         </ul>
       </td>
@@ -89,6 +89,7 @@ Jazz metal fuses the technical complexity and improvisational spirit of jazz wit
     <tr>
       <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/52399f7ee818475dc715d4890442e329.png" alt="Cover for Possession" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-04-17</td>
       <td>God</td>
@@ -102,7 +103,7 @@ Jazz metal fuses the technical complexity and improvisational spirit of jazz wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 60</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 61</li>
             <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 90</li>
         </ul>
       </td>
@@ -124,8 +125,8 @@ Jazz metal fuses the technical complexity and improvisational spirit of jazz wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 34</li>
             <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 55</li>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -143,8 +144,7 @@ Jazz metal fuses the technical complexity and improvisational spirit of jazz wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 33</li>
-            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 51</li>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -306,7 +306,7 @@ Jazz metal fuses the technical complexity and improvisational spirit of jazz wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 18</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -321,7 +321,6 @@ Jazz metal fuses the technical complexity and improvisational spirit of jazz wit
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
         </ul>
       </td>
       <td>
@@ -344,14 +343,15 @@ Jazz metal fuses the technical complexity and improvisational spirit of jazz wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 93</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 8</li>
+            <li> <a href="{{ "/tags/extreme-progressive-metal" | relative_url }}">extreme progressive metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/k6zYvlTiuA2qdO8xIkkw0FBe_GVBQvKp4gMX8-YyGCY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MDI1/MzQtMTQ2MzMzMzk0/MS00NzA5LmpwZWc.jpeg" alt="Cover for Type II" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2e11131776640bba9e52281be417147.png" alt="Cover for Type II" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Red Tide</td>
@@ -537,7 +537,7 @@ Jazz metal fuses the technical complexity and improvisational spirit of jazz wit
       <td>
         <ul>
             <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 22</li>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 73</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -576,7 +576,7 @@ Jazz metal fuses the technical complexity and improvisational spirit of jazz wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 63</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -660,8 +660,8 @@ Jazz metal fuses the technical complexity and improvisational spirit of jazz wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 19</li>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 44</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 21</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 45</li>
             <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 74</li>
         </ul>
       </td>
@@ -683,7 +683,7 @@ Jazz metal fuses the technical complexity and improvisational spirit of jazz wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 22</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -701,8 +701,7 @@ Jazz metal fuses the technical complexity and improvisational spirit of jazz wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 58</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 99</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -890,9 +889,9 @@ Jazz metal fuses the technical complexity and improvisational spirit of jazz wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 22</li>
-            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 27</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 28</li>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 69</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 73</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -912,8 +911,8 @@ Jazz metal fuses the technical complexity and improvisational spirit of jazz wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 28</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 36</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 29</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 59</li>
             <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 66</li>
         </ul>
       </td>
@@ -996,7 +995,8 @@ Jazz metal fuses the technical complexity and improvisational spirit of jazz wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 87</li>
+            <li> <a href="{{ "/tags/extreme-progressive-metal" | relative_url }}">extreme progressive metal</a> # 17</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1073,7 +1073,7 @@ Jazz metal fuses the technical complexity and improvisational spirit of jazz wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 57</li>
+            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1181,7 +1181,7 @@ Jazz metal fuses the technical complexity and improvisational spirit of jazz wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 67</li>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1200,7 +1200,7 @@ Jazz metal fuses the technical complexity and improvisational spirit of jazz wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 53</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1469,7 +1469,8 @@ Jazz metal fuses the technical complexity and improvisational spirit of jazz wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 10</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 13</li>
+            <li> <a href="{{ "/tags/extreme-progressive-metal" | relative_url }}">extreme progressive metal</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1682,7 +1683,7 @@ Jazz metal fuses the technical complexity and improvisational spirit of jazz wit
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/cX7tz-zOpRb0vNFrWr4p_yJ0dlXY4za97tY_NaPW2e8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDE3/ODMxLTE2MDE5Njgy/ODAtNzM4MC5qcGVn.jpeg" alt="Cover for Axiom" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/51047223b5958121fef6858996bb91c0.png" alt="Cover for Axiom" style="max-width:120px; height:auto;" />
       </td>
       <td>2020</td>
       <td>Kilter</td>
@@ -1742,7 +1743,7 @@ Jazz metal fuses the technical complexity and improvisational spirit of jazz wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 22</li>
+            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1805,7 +1806,7 @@ Jazz metal fuses the technical complexity and improvisational spirit of jazz wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 37</li>
+            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1905,7 +1906,7 @@ Jazz metal fuses the technical complexity and improvisational spirit of jazz wit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 29</li>
+            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 71</li>
         </ul>
       </td>
     </tr>

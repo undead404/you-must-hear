@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T12:26:50.994Z
+date: 2025-12-04T07:07:14.154Z
 permalink: tags/melodic-hard-rock
 title: melodic hard rock
 ---
 
 ## melodic hard rock
 
-Last updated: <time datetime="2025-11-03T12:26:50.994Z">Mon Nov 03 2025 14:26:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:07:14.154Z">Thu Dec 04 2025 09:07:14 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,9 +29,9 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
   </thead>
   <tbody>
     <tr>
-      <td>59</td>
+      <td>43</td>
       <td>
-          <img src="https://i.discogs.com/iUWT3OVjbDMPEjt9yXL4eRcoymxz5Og2x6PE8jaM7vw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzg3/NjktMTYzNzI3OTkx/Ny0zODU0LmpwZWc.jpeg" alt="Cover for Surrender" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5673b2066f5684decda964707a0d8594.png" alt="Cover for Surrender" style="max-width:120px; height:auto;" />
       </td>
       <td>1979</td>
       <td>Surrender</td>
@@ -48,7 +48,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/wq-GbQQ4SGuBtrEH0dQgwELnlda0NB3xN3BpizR5SR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwODIz/OS0xMjY3ODgyNDUw/LmpwZWc.jpeg" alt="Cover for Sabu" style="max-width:120px; height:auto;" />
       </td>
@@ -67,7 +67,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e601d6e774c66e7038e54eeddd73bdd.png" alt="Cover for Kix" style="max-width:120px; height:auto;" />
       </td>
@@ -84,7 +84,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c29fb12f95d615880a2bfe0f6698adc3.png" alt="Cover for Young, Wild and Free" style="max-width:120px; height:auto;" />
       </td>
@@ -97,12 +97,49 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 52</li>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>3</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec368ab6919fcf14cfd12e51deb19086.png" alt="Cover for Indiscreet" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1986</td>
+      <td>FM</td>
+      <td>Indiscreet</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-hard-rock" | relative_url }}">melodic hard rock</a></li>
+            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://i.discogs.com/aGu_mA9ksUCkQCysUf43yv8Ix2Xbq541fRg-8ZerXv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzYz/MjEtMTM1NjYzOTE5/My04MzIzLmdpZg.jpeg" alt="Cover for Strangeways" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1986</td>
+      <td>Strangeways</td>
+      <td>Strangeways</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-hard-rock" | relative_url }}">melodic hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/h7b1scoxji0Y2BI5Kfgkub-cQ0AEYYegWS225-Eq4Ek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNjQy/ODctMTY0NDM2ODg0/MC01OTAzLmpwZWc.jpeg" alt="Cover for Walk The Walk" style="max-width:120px; height:auto;" />
       </td>
@@ -121,16 +158,16 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>17</td>
       <td>
-          <img src="https://i.discogs.com/aGu_mA9ksUCkQCysUf43yv8Ix2Xbq541fRg-8ZerXv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzYz/MjEtMTM1NjYzOTE5/My04MzIzLmdpZg.jpeg" alt="Cover for Strangeways" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f82d2c9f7da704bbac17e1b3bc58188.png" alt="Cover for Dreamhunter" style="max-width:120px; height:auto;" />
       </td>
-      <td>1986</td>
-      <td>Strangeways</td>
-      <td>Strangeways</td>
+      <td>1987</td>
+      <td>Treat</td>
+      <td>Dreamhunter</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-hard-rock" | relative_url }}">melodic hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
         </ul>
       </td>
       <td>
@@ -139,26 +176,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>98</td>
-      <td>
-          <img src="https://i.discogs.com/NMvm2a1wZJrLCKVhsRG25720ZqvD5gmvhwKeanXnD8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDg4/ODUtMTI1NDMyMjI4/Ni5qcGVn.jpeg" alt="Cover for Indiscreet" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1986</td>
-      <td>FM</td>
-      <td>Indiscreet</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-hard-rock" | relative_url }}">melodic hard rock</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/xM76QGYFFGVW8xysZj_J47Fws1eSg4qgR9n4LOptMnM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzMw/NjctMTMwMDM4NTQz/OS5qcGVn.jpeg" alt="Cover for Ain&#39;t It a Sin" style="max-width:120px; height:auto;" />
       </td>
@@ -178,43 +196,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>84</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f82d2c9f7da704bbac17e1b3bc58188.png" alt="Cover for Dreamhunter" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1987</td>
-      <td>Treat</td>
-      <td>Dreamhunter</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>
-          <img src="https://i.discogs.com/WUp-dwcVBroxBQRbqIS-3OyO-pMd90pJABZO-_cf4uA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NDU4/LTE2MTc3MDU5NDgt/OTQxNy5qcGVn.jpeg" alt="Cover for Into the Future" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1988</td>
-      <td>Alien</td>
-      <td>Into the Future</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-hard-rock" | relative_url }}">melodic hard rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>43</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/7Hw_N3bGvfqm4e-BOYU1jsz1jlov06e3gYIl-zZru7A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDIw/NzItMTQ0MDcxNTI5/MS0xMjAxLmpwZWc.jpeg" alt="Cover for Lost In The City" style="max-width:120px; height:auto;" />
       </td>
@@ -232,7 +214,25 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>90</td>
+      <td>
+          <img src="https://i.discogs.com/WUp-dwcVBroxBQRbqIS-3OyO-pMd90pJABZO-_cf4uA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NDU4/LTE2MTc3MDU5NDgt/OTQxNy5qcGVn.jpeg" alt="Cover for Into the Future" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988</td>
+      <td>Alien</td>
+      <td>Into the Future</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-hard-rock" | relative_url }}">melodic hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/Udp9D12A5YLy_494Vjd4vhRdppF0YEu8oQiHPUP6KIQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Njcy/MTQtMTUxNDMyNzU4/NS02MjQwLmpwZWc.jpeg" alt="Cover for Gallery Closed" style="max-width:120px; height:auto;" />
       </td>
@@ -250,7 +250,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/uH4TUbm23hHOL_Rqa3xd44Y8rn0wai76P2DkM8FxHlE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjcx/NjEtMTYxODY3OTAx/MS0yODgzLmpwZWc.jpeg" alt="Cover for That Kind of Girl" style="max-width:120px; height:auto;" />
       </td>
@@ -269,7 +269,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/WEQmYcIQitO4lkZCgoGpw1PpIviQTvlWfIIJzY08xZ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTkw/ODYtMTU5ODE1MjUw/NC05MzI0LmpwZWc.jpeg" alt="Cover for Walk In The Fire" style="max-width:120px; height:auto;" />
       </td>
@@ -287,7 +287,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
       </td>
       <td>1990</td>
@@ -303,12 +303,12 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 27</li>
+            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf99fb985339ffad0af47247dc51531b.png" alt="Cover for Harem Scarem" style="max-width:120px; height:auto;" />
       </td>
@@ -326,7 +326,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d675742e4bff6ca82cbb2eae5847d121.png" alt="Cover for White Trash" style="max-width:120px; height:auto;" />
       </td>
@@ -360,7 +360,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>82</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e58f4456aeac410097c97148c63c2142.png" alt="Cover for No Sweat" style="max-width:120px; height:auto;" />
       </td>
@@ -380,7 +380,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/ldia8o_rINGgCiBxbc5eg_P8UEgtomj5n31lDxlNRwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njc4/MjAtMTM4MzUxNjM3/OS03NjU1LmpwZWc.jpeg" alt="Cover for Gary Hughes" style="max-width:120px; height:auto;" />
       </td>
@@ -398,7 +398,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/6WBSIOHBqjG-7qySIhuG9MEvaNfJ8U0Llfl-FWNdfnM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTg1/MzE2LTE2NzcwNTM0/MDYtNDgzMS5qcGVn.jpeg" alt="Cover for MISSION ROCK" style="max-width:120px; height:auto;" />
       </td>
@@ -418,7 +418,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/972d864c19fd49c63feb3e6ac2c49f15.png" alt="Cover for Mood Swings" style="max-width:120px; height:auto;" />
       </td>
@@ -435,7 +435,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a38712dc96c93667f080cd006496e2b0.png" alt="Cover for A Cry for the New World" style="max-width:120px; height:auto;" />
       </td>
@@ -457,7 +457,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/96a5ae52a9a04676f4e1ce2081bc15b6.png" alt="Cover for Korn" style="max-width:120px; height:auto;" />
       </td>
@@ -470,14 +470,14 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 62</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 65</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 66</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 24</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 69</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/TJXaYU0TJoiuVHvkpHNc6RmSlJZQ95BuGdmhF2OoUs8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg5/MDA2LTE1NTE0NTc3/ODUtMTQyMC5qcGVn.jpeg" alt="Cover for G" style="max-width:120px; height:auto;" />
       </td>
@@ -495,7 +495,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/PFdOC6qO43I38dpjKbTT-fgSd2Z0NJ5YjfoNe84FFEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMzE3/NDctMTUyNjc4NDk3/My0yODg5LmpwZWc.jpeg" alt="Cover for Loud &amp; Clear" style="max-width:120px; height:auto;" />
       </td>
@@ -514,7 +514,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
       </td>
       <td>1997-03-29</td>
@@ -531,26 +531,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>18</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/05d8630c2c3b9db9208724a5b7c6579a.png" alt="Cover for Right Attitude" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1999</td>
-      <td>Frontline</td>
-      <td>Right Attitude</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-hard-rock" | relative_url }}">melodic hard rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>54</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/BWhQGR-z7LYboZS59cMuFQPE0N5D5r6Es32VtGn9dIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDc4/NzUtMTMwODY0NDAz/Mi5qcGVn.jpeg" alt="Cover for Battlelines" style="max-width:120px; height:auto;" />
       </td>
@@ -569,8 +550,28 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/05d8630c2c3b9db9208724a5b7c6579a.png" alt="Cover for Right Attitude" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1999</td>
+      <td>Frontline</td>
+      <td>Right Attitude</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-hard-rock" | relative_url }}">melodic hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/54fba7a5856b465ddb4e6de824bf3c53.png" alt="Cover for Latest &amp; Greatest" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Great White</td>
@@ -584,12 +585,12 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 95</li>
+            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/UlGw-Q4GVisQ3o0ArbeihljJzeqlakxWGng1h--Gmzg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDEx/NzMtMTQ4NzI1Mjky/MC01ODMwLmpwZWc.jpeg" alt="Cover for Believe It" style="max-width:120px; height:auto;" />
       </td>
@@ -607,7 +608,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b291b8379417425db32be81549cf13f3.png" alt="Cover for The Definitive Alice Cooper" style="max-width:120px; height:auto;" />
       </td>
@@ -625,7 +626,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/dHQBAAPPr6sqetNEei_3BjSWyKeRkCK1nW9-VbbuwtA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDUw/MzMtMTQ0MDUzNjY1/OS03ODE4LnBuZw.jpeg" alt="Cover for Middle of Nowhere" style="max-width:120px; height:auto;" />
       </td>
@@ -643,7 +644,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d3f829b6bf3a94dd53231c2dfdb6784.png" alt="Cover for Against the World" style="max-width:120px; height:auto;" />
       </td>
@@ -662,7 +663,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
       </td>
       <td>2003</td>
@@ -678,12 +679,12 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish-rock" | relative_url }}">spanish rock</a> # 33</li>
+            <li> <a href="{{ "/tags/spanish-rock" | relative_url }}">spanish rock</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/kp_qjGS01fN-J5XFCG2Vf8t9HcePLWaeBGXBf2AjIPY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzEy/NDAtMTQxMjg0ODg5/My02NTE5LmpwZWc.jpeg" alt="Cover for Right the Music" style="max-width:120px; height:auto;" />
       </td>
@@ -701,7 +702,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0b697181300f9c59ea8799bbb5e76ba.png" alt="Cover for Almost Unreleased" style="max-width:120px; height:auto;" />
       </td>
@@ -720,9 +721,8 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>92</td>
       <td>
-          <img src="https://i.discogs.com/h--mb7gx03Guvmmldp-Br4J168_csBb-KS9rULA2Sfc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTcz/OS0xMTU1MTM4Nzg2/LmpwZWc.jpeg" alt="Cover for Arena Sweden" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-11-19</td>
       <td>Arena Sweden</td>
@@ -741,9 +741,9 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
-          <img src="https://i.discogs.com/QGFLCix9aFeKLrd1usDwL5S8Emo-Zf_i5FRjovc4Pdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTAz/MzAtMTM0Mjg3MzM3/MC0zNDkzLmpwZWc.jpeg" alt="Cover for Perfect World" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0eeff13e704e20628641554e07c0b329.png" alt="Cover for Perfect World" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Perfect World</td>
@@ -761,7 +761,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
       </td>
       <td>2004-11-21</td>
@@ -778,43 +778,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>49</td>
-      <td>
-          <img src="https://i.discogs.com/R6Du2nWW9BLp3aliuBC-rS2G6m3swAIGab7BVSEedC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NzM2/MDYtMTUyNTI5MTMw/OC01NDg3LmpwZWc.jpeg" alt="Cover for Version 1.2" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>Johnny Lima</td>
-      <td>Version 1.2</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-hard-rock" | relative_url }}">melodic hard rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>71</td>
-      <td>
-          <img src="https://i.discogs.com/jxahLebQuiSRmTQzULoTL4EFsJF4nTVNE8ICvjXPtGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDg1/NjMtMTQwMTYyNTc2/MC05MjQxLmpwZWc.jpeg" alt="Cover for Times They Change" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>91 Suite</td>
-      <td>Times They Change</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-hard-rock" | relative_url }}">melodic hard rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/HG9_TQ8RkRRDpncQn4W7COXltYn0B_kRf3P1tQXI4XQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODk1/NTYtMTUzNDU5MzMz/Ni00Nzc1LmpwZWc.jpeg" alt="Cover for Hear-Say" style="max-width:120px; height:auto;" />
       </td>
@@ -832,7 +796,43 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>30</td>
+      <td>
+          <img src="https://i.discogs.com/jxahLebQuiSRmTQzULoTL4EFsJF4nTVNE8ICvjXPtGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDg1/NjMtMTQwMTYyNTc2/MC05MjQxLmpwZWc.jpeg" alt="Cover for Times They Change" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>91 Suite</td>
+      <td>Times They Change</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-hard-rock" | relative_url }}">melodic hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>
+          <img src="https://i.discogs.com/R6Du2nWW9BLp3aliuBC-rS2G6m3swAIGab7BVSEedC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NzM2/MDYtMTUyNTI5MTMw/OC01NDg3LmpwZWc.jpeg" alt="Cover for Version 1.2" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Johnny Lima</td>
+      <td>Version 1.2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-hard-rock" | relative_url }}">melodic hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd11e8fdefa043d59ee860f0bbe3376c.png" alt="Cover for Lipservice" style="max-width:120px; height:auto;" />
       </td>
@@ -845,30 +845,12 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 8</li>
+            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fde6c9cd866bf53d8cdf76ce65ffe43d.png" alt="Cover for V" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Fate</td>
-      <td>V</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/itYYyYVqYP4Ly90P-LAAesP6Ap75deLPTUJuI1cFZ0U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDg2/NDItMTUxMzY4MjUx/Mi0xOTk4LmpwZWc.jpeg" alt="Cover for Precious Time" style="max-width:120px; height:auto;" />
       </td>
@@ -886,7 +868,25 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>64</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fde6c9cd866bf53d8cdf76ce65ffe43d.png" alt="Cover for V" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Fate</td>
+      <td>V</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>69</td>
       <td>
       </td>
       <td>2006-01-13</td>
@@ -904,7 +904,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/W8l8wPDeaVYK02F8RME4GmLAJomm3iLa1qVsFE9hWrE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDUw/ODEtMTU5Njc3ODkw/MC01NzA0LmpwZWc.jpeg" alt="Cover for Weapons Of Choice" style="max-width:120px; height:auto;" />
       </td>
@@ -919,12 +919,12 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 23</li>
+            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>54</td>
       <td>
       </td>
       <td>2007-01-26</td>
@@ -941,7 +941,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/61aa44d7c8614596a074e456aa42156f.png" alt="Cover for Domino Effect" style="max-width:120px; height:auto;" />
       </td>
@@ -954,12 +954,12 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 31</li>
+            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
       </td>
       <td>2007-09-03</td>
@@ -976,7 +976,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/O-kWQtRBzbsvyFs9vRolcxzKYpYKtVrxl2DMVaqKbW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDIx/NjgtMTU3ODUxODI3/Mi02MjI5LmpwZWc.jpeg" alt="Cover for Indigo Dying" style="max-width:120px; height:auto;" />
       </td>
@@ -995,43 +995,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>45</td>
-      <td>
-          <img src="https://i.discogs.com/4fyAigMNCdDCwztZpPoJaeips6GKbP6mBWHl_z778qo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk1/MDEtMTQxNzY3NjYw/Ny05MjQyLmpwZWc.jpeg" alt="Cover for Soul Salvation" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>Valentine</td>
-      <td>Soul Salvation</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-hard-rock" | relative_url }}">melodic hard rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>60</td>
-      <td>
-          <img src="https://i.discogs.com/w0eK-ZQ4QgSFBS8kRRS3x3HPccjj4wqi-csv3Ekz2Y4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDA4/MDY2LTE1MjY0NjQ4/MTktNTMyMy5qcGVn.jpeg" alt="Cover for The Road Goes On" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2008</td>
-      <td>Hardreams</td>
-      <td>The Road Goes On</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-hard-rock" | relative_url }}">melodic hard rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://i.discogs.com/KC01ucL2mQ3b-zjRvI4mUVdIIKp23AcnBWndeAslvzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjQ4/NTItMTMyNzQ4OTUx/OC5naWY.jpeg" alt="Cover for Complex" style="max-width:120px; height:auto;" />
       </td>
@@ -1050,7 +1014,43 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>42</td>
+      <td>
+          <img src="https://i.discogs.com/w0eK-ZQ4QgSFBS8kRRS3x3HPccjj4wqi-csv3Ekz2Y4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDA4/MDY2LTE1MjY0NjQ4/MTktNTMyMy5qcGVn.jpeg" alt="Cover for The Road Goes On" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Hardreams</td>
+      <td>The Road Goes On</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-hard-rock" | relative_url }}">melodic hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+          <img src="https://i.discogs.com/4fyAigMNCdDCwztZpPoJaeips6GKbP6mBWHl_z778qo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzk1/MDEtMTQxNzY3NjYw/Ny05MjQyLmpwZWc.jpeg" alt="Cover for Soul Salvation" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2008</td>
+      <td>Valentine</td>
+      <td>Soul Salvation</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-hard-rock" | relative_url }}">melodic hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2fab6c278284f748c7bdc64401496d3.png" alt="Cover for Love&#39;s Dying Wish" style="max-width:120px; height:auto;" />
       </td>
@@ -1071,7 +1071,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/vFV2ducOeMdjTeSxqEo6mQRozwskcaTYJIML4SnJgIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDAy/NjItMTM2MTIwMTE2/NC05NjQzLmpwZWc.jpeg" alt="Cover for are you ready to rock" style="max-width:120px; height:auto;" />
       </td>
@@ -1090,7 +1090,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/tVmC-lm4idzvjJYW5GkTItarIosT_krTRTSvHrbPn60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNTQ2/MzAtMTU1MjEyNzMw/Ni00MjM4LmpwZWc.jpeg" alt="Cover for A Point Of Destiny" style="max-width:120px; height:auto;" />
       </td>
@@ -1109,7 +1109,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7bd3f1bf67039936d11d753bc7c053f.png" alt="Cover for Leaving The End Open" style="max-width:120px; height:auto;" />
       </td>
@@ -1127,7 +1127,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
       </td>
       <td>2009-05-20</td>
@@ -1142,12 +1142,12 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 71</li>
+            <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c14e25bda564bf4a40ffce56ff2e18a.png" alt="Cover for Spirit Black" style="max-width:120px; height:auto;" />
       </td>
@@ -1165,7 +1165,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/qaz3g9SlyzlIZCk3jFVTZwN0o98q5WkkcA3cSOtfPGA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NzU0/MDQtMTM2NTkzODQz/MC01NDAxLmpwZWc.jpeg" alt="Cover for Ambassadors of the Hidden Sun" style="max-width:120px; height:auto;" />
       </td>
@@ -1183,7 +1183,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
       </td>
       <td>2010-02-24</td>
@@ -1203,7 +1203,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>41</td>
       <td>
       </td>
       <td>2010-10-29</td>
@@ -1220,7 +1220,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/025554ff35e7691ae5e7f1e33b035a4a.png" alt="Cover for Branded" style="max-width:120px; height:auto;" />
       </td>
@@ -1237,7 +1237,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>62</td>
       <td>
       </td>
       <td>2011-03-01</td>
@@ -1254,7 +1254,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/330aeb13240d48dba91a2041190fb1c5.png" alt="Cover for Set The Night On Fire" style="max-width:120px; height:auto;" />
       </td>
@@ -1273,43 +1273,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>21</td>
-      <td>
-          <img src="https://i.discogs.com/iIfmDkjJlS5a0qdN-VfebxVzxFDMhmTD1gp1MU_JSTg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NjI4/NzAtMTM5OTI4MDQ2/MS05NDUzLmpwZWc.jpeg" alt="Cover for Obsession" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013</td>
-      <td>Badhoven</td>
-      <td>Obsession</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-hard-rock" | relative_url }}">melodic hard rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>24</td>
-      <td>
-          <img src="https://i.discogs.com/E4_WFzRv0d07cxOtP_ivc9y-n7YfNHKNJxTKVdrqmlk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MTE5/OTctMTQyMzIzNzEw/Ny03MzUxLmpwZWc.jpeg" alt="Cover for Back on the Streets" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013</td>
-      <td>Dogface</td>
-      <td>Back on the Streets</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-hard-rock" | relative_url }}">melodic hard rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>41</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/Z3BF_QMmmDG9w2VsbfQLFhLTjdnb3Yibh1SqUeMwLrg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NDY4/MTMtMTQ5NjkxMDQ3/NS05NTY5LmpwZWc.jpeg" alt="Cover for Dear Sanity" style="max-width:120px; height:auto;" />
       </td>
@@ -1327,7 +1291,43 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>78</td>
+      <td>
+          <img src="https://i.discogs.com/E4_WFzRv0d07cxOtP_ivc9y-n7YfNHKNJxTKVdrqmlk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MTE5/OTctMTQyMzIzNzEw/Ny03MzUxLmpwZWc.jpeg" alt="Cover for Back on the Streets" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013</td>
+      <td>Dogface</td>
+      <td>Back on the Streets</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-hard-rock" | relative_url }}">melodic hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://i.discogs.com/iIfmDkjJlS5a0qdN-VfebxVzxFDMhmTD1gp1MU_JSTg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NjI4/NzAtMTM5OTI4MDQ2/MS05NDUzLmpwZWc.jpeg" alt="Cover for Obsession" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013</td>
+      <td>Badhoven</td>
+      <td>Obsession</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-hard-rock" | relative_url }}">melodic hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/UEEMMW1l-0mQUclPY4U_wo6o0nFM2-zOe684dT07SHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NjU0/NjItMTUzMDE4NDU4/NS0yMzkwLmpwZWc.jpeg" alt="Cover for Bohemian Kingdom" style="max-width:120px; height:auto;" />
       </td>
@@ -1345,7 +1345,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>66</td>
       <td>
       </td>
       <td>2013-04-26</td>
@@ -1362,7 +1362,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee004d0cd1954467c4160b43aa006b31.png" alt="Cover for Thunder In The Distance" style="max-width:120px; height:auto;" />
       </td>
@@ -1380,7 +1380,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/837484fca8ad0f7d4661f19d7b529508.png" alt="Cover for Escape From The Shadow Garden" style="max-width:120px; height:auto;" />
       </td>
@@ -1397,7 +1397,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5014793fdcfa48adc81b205e2420f769.png" alt="Cover for Three Lions" style="max-width:120px; height:auto;" />
       </td>
@@ -1414,7 +1414,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/Bh3O7lfJ3RgwArrWRNv0GL78o9--WHpKQa9ZQchtYEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyOTk0/NTMtMTQzODMzMzQ1/My05MTQ5LmpwZWc.jpeg" alt="Cover for Rock Your World" style="max-width:120px; height:auto;" />
       </td>
@@ -1432,7 +1432,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/09b7aaac9d5e45b3c5ee3f6c747b9a53.png" alt="Cover for Thrill Of The Night" style="max-width:120px; height:auto;" />
       </td>
@@ -1449,7 +1449,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/jaG_2yce-usH8-oEpuB1z1hHEeymY5_YR97FUNUG0KI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTc3/MTgtMTQ4OTIyMzM0/My0yODQ3LmpwZWc.jpeg" alt="Cover for Follow Your Stranger" style="max-width:120px; height:auto;" />
       </td>
@@ -1468,7 +1468,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>40</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9696e4af3a034758c7c47a76a96297fa.png" alt="Cover for Armageddonize" style="max-width:120px; height:auto;" />
       </td>
@@ -1486,25 +1486,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/g3fKXRxafsd84AL_OkaYB9aTp56ypqCEt4wDwAKJczU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzg1/NDY2LTE1MDQyODUx/NDktOTUzMC5qcGVn.jpeg" alt="Cover for Sky of Forever" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016</td>
-      <td>Sky Of Forever</td>
-      <td>Sky of Forever</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-hard-rock" | relative_url }}">melodic hard rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>58</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/2KN2yFoME1yndDrUzIO7F2LvtWPusjkjf7VG9deKOsE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjg4/NjQ2LTE1MDI0NDIz/NjItNjE2OC5qcGVn.jpeg" alt="Cover for Kryptonite" style="max-width:120px; height:auto;" />
       </td>
@@ -1523,7 +1505,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/3J13n0SbSU4XcHcTw7qDx3ErQgL_elQmLzIHQEVKFck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTE1/Mjc1LTE1NDQ0NDEx/MjktODkyNS5qcGVn.jpeg" alt="Cover for Radiant" style="max-width:120px; height:auto;" />
       </td>
@@ -1542,7 +1524,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>100</td>
       <td>
           <img src="https://i.discogs.com/Ae2wqoJjs83bZK_thmzpY07EVlFdwn6xLk6Le2IapaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzYx/OTAzLTE2MzY0Mzcy/MDktOTUxMC5qcGVn.jpeg" alt="Cover for Vision Quest" style="max-width:120px; height:auto;" />
       </td>
@@ -1562,7 +1544,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/AUpaxPag4FnZyfUJIzWpJz5XI2vv9o58USDnujrb7f0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzU0/MzMxLTE1NjA0MDcz/OTItMTUwMy5qcGVn.jpeg" alt="Cover for Open Wide" style="max-width:120px; height:auto;" />
       </td>
@@ -1580,7 +1562,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b3f195b06fa8183929104cd8e6d0742.png" alt="Cover for PARADIGM" style="max-width:120px; height:auto;" />
       </td>
@@ -1597,7 +1579,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/TtF9Bskm1km_Y0P9KKVfwZXEEHOS-eJULT-QmdhzFcw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTgw/NTIyLTE1ODUwNTIx/NTQtNTI5OC5naWY.jpeg" alt="Cover for Eye of the Storm" style="max-width:120px; height:auto;" />
       </td>
@@ -1616,7 +1598,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://i.discogs.com/-0IWgVSnahxQwhbepx7CzJ-Vq5e3GZgEvMJoD7NSrbw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTg2/MTU4LTE2Mjc4NTk0/NTQtNjQwOS5qcGVn.jpeg" alt="Cover for Renegade" style="max-width:120px; height:auto;" />
       </td>
@@ -1635,7 +1617,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/YEEj5pGm__h0vf7PEEGW4-Q70uzzwPzReWCV1HJHbNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTI4/MTE5LTE2NDIwOTc3/NjUtODYwMS5qcGVn.jpeg" alt="Cover for Out of This World" style="max-width:120px; height:auto;" />
       </td>
@@ -1653,7 +1635,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/d-3QQ7n7WnEiNIeYILISCwd9wWu9YuVHw8yRcHOW4ZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTk5/NjUzLTE2Mzg3NDMy/ODAtMzg5My5qcGVn.jpeg" alt="Cover for Back In the Game" style="max-width:120px; height:auto;" />
       </td>
@@ -1672,7 +1654,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/ita9rVbNLLviucU4d9X6w224kmU1EoPL_zZcSi3meAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTkx/NDMyLTE2NDM3OTMx/NzMtNDQyNi5qcGVn.jpeg" alt="Cover for All the Way" style="max-width:120px; height:auto;" />
       </td>
@@ -1690,7 +1672,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/OrtbHgTZD9TYqAWUsIXRe1p1As4qXO0voAv8EgYNTIQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDg5/ODUwLTE2NDQ0MjAy/OTAtNjY5NC5qcGVn.jpeg" alt="Cover for Before the Sun Sets" style="max-width:120px; height:auto;" />
       </td>
@@ -1709,7 +1691,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/hJmGF_To4460EcTesH9pSlM8xzAqslD6d-6Vtzo3GOg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjA0/MTg2LTE2NjMyNzI0/NDMtNTY1MS5qcGVn.jpeg" alt="Cover for Guiding Star" style="max-width:120px; height:auto;" />
       </td>
@@ -1727,7 +1709,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f53c25c8d68e6e2cbfbe53da33356c24.png" alt="Cover for Generation Mind" style="max-width:120px; height:auto;" />
       </td>
@@ -1744,7 +1726,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/bFcJGvLDgKaEonS3pRBlXKP9Qd1qXMQHDq6i6Gfv27Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDYw/ODY3LTE2NTEyOTgz/MzktODA1OS5qcGVn.jpeg" alt="Cover for Written By Life" style="max-width:120px; height:auto;" />
       </td>
@@ -1763,7 +1745,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/KGVPjo5C87QEbGriq3rCN4PS9e6wq-bnGNbGvQ0quNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTYz/Mzc3LTE2NjA0ODIz/NDMtNDI5Ni5qcGVn.jpeg" alt="Cover for Black Eye" style="max-width:120px; height:auto;" />
       </td>
@@ -1782,7 +1764,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/1ucdtTxsQINuqLM6SigpJ4cGdW0AuxceMC1E93lnDlI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDQ2/ODIzLTE3MDc5ODY2/MjQtMzQ1OC5qcGVn.jpeg" alt="Cover for Once" style="max-width:120px; height:auto;" />
       </td>
@@ -1801,26 +1783,7 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>
-          <img src="https://i.discogs.com/w5KsKz7niKBOn9HpsBrQqQI07TrM-mvgm9Gnd_7KRpE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTA3/NDgxLTE3MTQxMTY3/MDUtNjgyNi5qcGVn.jpeg" alt="Cover for Reborn" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2024</td>
-      <td>Holler</td>
-      <td>Reborn</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-hard-rock" | relative_url }}">melodic hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>16</td>
+      <td>86</td>
       <td>
           <img src="https://i.discogs.com/JUR3sqhTAYYoEKtH34HScudMVgrn-9jTyLTIcSoIimE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDY0/NzY1LTE3MTM3MTQw/NjItOTM4Ni5qcGVn.jpeg" alt="Cover for Destination Unknown" style="max-width:120px; height:auto;" />
       </td>
@@ -1839,7 +1802,44 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>99</td>
+      <td>
+          <img src="https://i.discogs.com/w5KsKz7niKBOn9HpsBrQqQI07TrM-mvgm9Gnd_7KRpE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTA3/NDgxLTE3MTQxMTY3/MDUtNjgyNi5qcGVn.jpeg" alt="Cover for Reborn" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2024</td>
+      <td>Holler</td>
+      <td>Reborn</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-hard-rock" | relative_url }}">melodic hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4f23a8510d6127ca2b517e703d92724.png" alt="Cover for Headstrong" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Pink Cream 69</td>
+      <td>Headstrong</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-hard-rock" | relative_url }}">melodic hard rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>63</td>
       <td>
       </td>
       <td></td>
@@ -1857,16 +1857,15 @@ Melodic hard rock blends the power and energy of heavy guitar-driven rock with s
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>38</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4f23a8510d6127ca2b517e703d92724.png" alt="Cover for Headstrong" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4fa395553beec2f9a3365bd8c08cb31d.png" alt="Cover for Surrender" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Pink Cream 69</td>
-      <td>Headstrong</td>
+      <td>The Veil</td>
+      <td>Surrender</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-hard-rock" | relative_url }}">melodic hard rock</a></li>
         </ul>
       </td>
       <td>

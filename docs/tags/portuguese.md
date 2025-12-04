@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-05T02:31:51.036Z
+date: 2025-12-04T07:03:43.194Z
 permalink: tags/portuguese
 title: portuguese
 ---
 
 ## portuguese
 
-Last updated: <time datetime="2025-11-05T02:31:51.036Z">Wed Nov 05 2025 04:31:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:03:43.194Z">Thu Dec 04 2025 09:03:43 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -81,7 +81,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fado" | relative_url }}">fado</a> # 92</li>
+            <li> <a href="{{ "/tags/fado" | relative_url }}">fado</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -105,7 +105,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/fE9MHFjb0mmrGM_2Im-8pwYLroJjfLPQyH_tDrQw9KY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjU2/NTgtMTUyOTY2NjU0/My02NTI3LmpwZWc.jpeg" alt="Cover for Valsa Dos Detectives" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebdd6f8ee2b1456b96ca78a6658b34ff.png" alt="Cover for Valsa Dos Detectives" style="max-width:120px; height:auto;" />
       </td>
       <td>1989-03</td>
       <td>GNR</td>
@@ -145,6 +145,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
     <tr>
       <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3b1532c6f0c4c34aa061e062c3bf389.png" alt="Cover for Auto Da Pimenta" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Rui Veloso</td>
@@ -197,7 +198,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 7</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -250,7 +251,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fado" | relative_url }}">fado</a> # 86</li>
+            <li> <a href="{{ "/tags/fado" | relative_url }}">fado</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -276,7 +277,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/xAm_DoA8lKQtkVRBGfBSv4fDGF39pNfSR6-e2ynR3eo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Njc3/NS0xMjYzNzg4MDQy/LmpwZWc.jpeg" alt="Cover for MESA" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/107e6f4f864e415e646a7177bad7cfb8.png" alt="Cover for MESA" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Mesa</td>
@@ -405,6 +406,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
     <tr>
       <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/56674aa19717a78bb7b16264e5f6749c.png" alt="Cover for Só Baladas" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Adelaide Ferreira</td>
@@ -475,6 +477,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fb1d39a2d9de0ee0638ecb75a80190a.png" alt="Cover for O Primeiro Canto" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Dulce Pontes</td>
@@ -493,6 +496,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
     <tr>
       <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb22863041eb4ee89a6b3119d9398d0f.png" alt="Cover for Antologia" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Madredeus</td>
@@ -504,7 +508,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fado" | relative_url }}">fado</a> # 99</li>
+            <li> <a href="{{ "/tags/fado" | relative_url }}">fado</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -524,7 +528,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       <td>
         <ul>
             <li> <a href="{{ "/tags/tango-argentino" | relative_url }}">tango argentino</a> # 75</li>
-            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 76</li>
+            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -546,7 +550,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 37</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -567,14 +571,14 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 34</li>
+            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/JNX6vsuyt1ElxAmhRT14cwo00019anrE9T6lUNZT_TM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjAx/MjYtMTI3NTU3Mjg0/OC5qcGVn.jpeg" alt="Cover for Esta voz que me atravessa" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3578c1330603e26a8e670bc14dd5460d.png" alt="Cover for Esta voz que me atravessa" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-03-05</td>
       <td>Mafalda Arnauth</td>
@@ -586,7 +590,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fado" | relative_url }}">fado</a> # 84</li>
+            <li> <a href="{{ "/tags/fado" | relative_url }}">fado</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -627,14 +631,15 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fado" | relative_url }}">fado</a> # 14</li>
-            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 53</li>
+            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 48</li>
+            <li> <a href="{{ "/tags/fado" | relative_url }}">fado</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/89065c731990f799e2a6af7dcfb275e3.png" alt="Cover for É Assim..." style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Tara Perdida</td>
@@ -670,6 +675,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
     <tr>
       <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3dda97afd9934703b0b853e2c061c695.png" alt="Cover for El Poder de tu Amor" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Aline Barros</td>
@@ -692,6 +698,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
     <tr>
       <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b43b21903cf44de2a0f565d7ef5cb81c.png" alt="Cover for Na Alma E Na Pele" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Mafalda Veiga</td>
@@ -710,6 +717,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfedf0b669ee4a308a7318be0bf69f78.png" alt="Cover for Focus" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Ennio Morricone &amp; Dulce Pontes</td>
@@ -816,7 +824,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 47</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -840,7 +848,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/j4GAPoWpfp5S_gUXw850Vtpj19H2JjIxRJCeVFJ9aDU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjUz/MjktMTMxNjc5NTI4/My5qcGVn.jpeg" alt="Cover for Balance" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b62ad219ee314bcdb056a9c8fad873ea.png" alt="Cover for Balance" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Sara Tavares</td>
@@ -859,7 +867,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
     <tr>
       <td>6</td>
       <td>
-          <img src="https://i.discogs.com/6D5e5tH8nmtMo1nOWVuiAooYrLhBqWjel7rSsdb3ubk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDkx/NC0xMTE3NDkxMjcy/LmpwZw.jpeg" alt="Cover for 5 Dimensões EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7a7f9ecb42d4341da75d1673a0e2cb9.png" alt="Cover for 5 Dimensões EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-05-20</td>
       <td>Gamma Ray Blast</td>
@@ -876,7 +884,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 27</li>
+            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -961,7 +969,6 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/ZKpHXNFYqD93kILe0-Us1e-prAKNoC-Y_gc61WBHz7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDgw/ODItMTI3NTkwMDkw/NS5qcGVn.jpeg" alt="Cover for Dazkarieh «Incógnita Alquimia»" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Dazkarieh</td>
@@ -982,6 +989,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
     <tr>
       <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/578a55340a142a087d42210c3f87e2ed.png" alt="Cover for Roots 98" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-02-02</td>
       <td>Metricks</td>
@@ -997,7 +1005,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 44</li>
+            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1017,7 +1025,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 69</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1037,7 +1045,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 52</li>
+            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1055,7 +1063,6 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1099,10 +1106,10 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 46</li>
-            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 78</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 81</li>
-            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 92</li>
+            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 9</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 20</li>
+            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 23</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 54</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 95</li>
         </ul>
       </td>
@@ -1148,7 +1155,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 10</li>
+            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1173,7 +1180,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/Ox2Y-fFwwHIs_3KevUGqMli3IyPb3_EkkMicdgVRHVs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjY3/NTAtMTMwNDcxNTQy/Ni5qcGVn.jpeg" alt="Cover for Beatsound Loverboy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f038de5c09e4d9195f4eb1d026f99af.png" alt="Cover for Beatsound Loverboy" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Slimmy</td>
@@ -1194,7 +1201,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/nVjmYuwuW6IFwoZ_viyE9w1EFHhgBWxhXul93aMagow/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODg1/OTQtMTU4NzU5MzE5/NS00MTYxLmpwZWc.jpeg" alt="Cover for Poles" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b142e2e46d6455391334bac40dead3e.png" alt="Cover for Poles" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-01-01</td>
       <td>Factory of Dreams</td>
@@ -1226,7 +1233,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 62</li>
+            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1275,7 +1282,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 54</li>
+            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1294,14 +1301,14 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 50</li>
+            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/KwSI2OtRvEW_9eR1pYvXCtV0AvCEFjNhtJ7FlSecSKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTkw/NTAyLTE1MDA1MDM0/MzItODYyNy5qcGVn.jpeg" alt="Cover for The Black Mamba" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/05da73b434b740e192e282fad8bf88fb.png" alt="Cover for The Black Mamba" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>The Black Mamba</td>
@@ -1363,7 +1370,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/QenigJdAOmUc-Q5ENxHrem_9kUP0WdYUt-cF97HQPcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTM0/OTAtMTM1ODcwOTMy/MS01MDEyLmpwZWc.jpeg" alt="Cover for Rude Sofisticado" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3089797cf180221521542f0189a386b7.png" alt="Cover for Rude Sofisticado" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05</td>
       <td>PZ</td>
@@ -1383,6 +1390,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
     <tr>
       <td>18</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f637fa726a44ee483d4315df8c4d511.png" alt="Cover for O Mistério" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06-12</td>
       <td>Teresa Salgueiro</td>
@@ -1399,7 +1407,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 39</li>
+            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1428,7 +1436,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
     <tr>
       <td>19</td>
       <td>
-          <img src="https://i.discogs.com/GRQHOfGitSduwuTik3Z-kdr_dRG0J9_N3-fDcIXbNOI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1OTE0/MDgtMTM3MDk0MDI3/NS0zODk1LmpwZWc.jpeg" alt="Cover for 2 Kinds Of Men &#x2F; Summer&#39;s Gone (Didn&#39;t Swim)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d087f74f8dc4d5dcd7d8407cd58a535.png" alt="Cover for 2 Kinds Of Men &#x2F; Summer&#39;s Gone (Didn&#39;t Swim)" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-03</td>
       <td>Marta Ren &amp; The Groovelvets</td>
@@ -1443,7 +1451,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 40</li>
+            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1491,7 +1499,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/nLiMBOI7zxM8ONdoXNRPw0aolx2ad_RHdY-xDxQ9ask/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NDY0/ODgtMTQwMTUyOTAw/Mi01NDk3LmpwZWc.jpeg" alt="Cover for Vol. 5 - Lost At Home" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/55582ff5d0df4a45ca0952f7f7be30c4.png" alt="Cover for Vol. 5 - Lost At Home" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>More Than a Thousand</td>
@@ -1516,7 +1524,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/eJ6VIyD_UQPCVKrHbYToubu6RW8bOj7ye58mKJVQJhY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MjUz/ODYtMTQ4NjkxODA5/NC0zOTM3LmpwZWc.jpeg" alt="Cover for #1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc30ec3b1e2543a8c3040783e2535d46.png" alt="Cover for #1" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-07-30</td>
       <td>Modernos</td>
@@ -1578,7 +1586,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/OdH9SYtePTKG6ryDRCeLzAJQkG40u1ojXReMEWGLuBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjcx/MS0xNTQ3OTc4MjUx/LTY4MzkuanBlZw.jpeg" alt="Cover for Lo-Fi Hipster Sheat" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7cd93bf2a05743ecc365968684b1811f.png" alt="Cover for Lo-Fi Hipster Sheat" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-10-20</td>
       <td>Corona</td>
@@ -1599,7 +1607,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/bE8CN7GMzUES8K8msfL7t0bXlkSvbtC1-GtsdsaihZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDE3/MzktMTQ4NTgxODg4/Ni0zMDg5LnBuZw.jpeg" alt="Cover for 20" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebae136881536cfb73fa806b07163906.png" alt="Cover for 20" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-11-20</td>
       <td>The Gift</td>
@@ -1616,7 +1624,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 30</li>
+            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1675,7 +1683,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 99</li>
+            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1697,15 +1705,15 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 29</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 32</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 68</li>
+            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>5</td>
       <td>
-          <img src="https://i.discogs.com/T0T6xlYeI19HJcH1te5r1CzOrxv5k8358RpaOgL6i-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDIy/ODUxLTE0OTAyOTMy/MjctNTAzOS5qcGVn.jpeg" alt="Cover for Panoramix" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2f6e3457a2fe21bcd045533ef088ecb.png" alt="Cover for Panoramix" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-02-27</td>
       <td>Madrepaz</td>
@@ -1723,7 +1731,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 25</li>
+            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1743,7 +1751,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 96</li>
+            <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1806,7 +1814,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/JSjn2XiRCgoFb2OQriW0nGwRNvrnWe2p-IMvelq-Rt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzEy/NDY4LTE1MDI4OTQ0/MDEtOTc0NC5qcGVn.jpeg" alt="Cover for Espera" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/82ad481fb7105423717fc60647cea3be.png" alt="Cover for Espera" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-07-11</td>
       <td>Fernando Daniel</td>
@@ -1825,7 +1833,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/JQcQHD3SSABELLwhAdZ0DztyQdukDUC_vt18CbaRwsk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTAx/MDc4LTE1ODY2OTM0/OTItMjM0NS5qcGVn.jpeg" alt="Cover for Favourite Ghost" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8907ce5a5a9d039de4862aa20a5cdf22.png" alt="Cover for Favourite Ghost" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-09-22</td>
       <td>Tomara</td>
@@ -1840,14 +1848,14 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 49</li>
+            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/8VCjenTZq20cQl2xpFpXTMx5RgYU0tVUcR9egrINX4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTAz/MTU1LTE1NTcxMzEx/MTEtMjQzMS5qcGVn.jpeg" alt="Cover for Antwerpen" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0da333b52875b1c1a5db09aeabd68c00.png" alt="Cover for Antwerpen" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-10-13</td>
       <td>Surma</td>
@@ -1863,8 +1871,8 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 38</li>
-            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 72</li>
+            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 29</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1909,7 +1917,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/eIa4YlUCXeX_NRF2QUuLDjJnccz64L3IWq13J4yJftQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTI0/Njg0LTE2NDc2NDA1/OTUtMTU0Ny5qcGVn.jpeg" alt="Cover for Bottled Up (Versão Portuguesa)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2246e365211d0919bf31607122cf2f87.png" alt="Cover for Bottled Up (Versão Portuguesa)" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-09-21</td>
       <td>Dinah Jane</td>
@@ -1930,7 +1938,6 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/SjSsCFhyqJl4hqakVUbSqqdURw5lG32uTMXbPk5OhKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDg3/NzMxLTE2MzA1OTYw/NDItNDM4Ny5qcGVn.jpeg" alt="Cover for Gente a Mais" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-05-14</td>
       <td>Rapaz Ego</td>
@@ -1962,14 +1969,14 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 83</li>
+            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/CgNbd_JD5GLph4fDzm4usCbb3NdBKW9fXv2f-KpttMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDcw/NDA4LTE1MDk5OTYz/ODAtNTI0NS5qcGVn.jpeg" alt="Cover for Todos Os Santos" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/feffe9e4c59e0cd9c591095f86f75fdd.png" alt="Cover for Todos Os Santos" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-04-20</td>
       <td>Moonspell</td>
@@ -2003,14 +2010,15 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 12</li>
-            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 57</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 11</li>
+            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/093597feb139a979f4bbb842dc5a9b22.png" alt="Cover for Cafeína" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Dj Dadda</td>
@@ -2024,7 +2032,7 @@ Portuguese music encompasses the melodic traditions and contemporary sounds orig
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 76</li>
+            <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 25</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T15:09:50.719Z
+date: 2025-12-04T07:07:51.609Z
 permalink: tags/jazzcore
 title: jazzcore
 ---
 
 ## jazzcore
 
-Last updated: <time datetime="2025-10-28T15:09:50.719Z">Tue Oct 28 2025 17:09:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:07:51.609Z">Thu Dec 04 2025 09:07:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -69,15 +69,14 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/HdCzdrVJhY2_1Xp2g7qwnH5QU3ynmyILm0KxCpGG2BQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODE2/Ni0xMTkxODM0MDk0/LmpwZWc.jpeg" alt="Cover for Wrong" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6425109c73351a58d6d617a7122ea92.png" alt="Cover for Wrong" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>NoMeansNo</td>
       <td>Wrong</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a></li>
-            <li style="font-size: calc(1rem * 84 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a></li>
         </ul>
       </td>
       <td>
@@ -88,6 +87,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
     <tr>
       <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/92648e2d569542529d6bda727676d4b2.png" alt="Cover for Naked City" style="max-width:120px; height:auto;" />
       </td>
       <td>1990-02-16</td>
       <td>John Zorn</td>
@@ -105,6 +105,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d12feb9e0ea988e00587bcf9e9d272b.png" alt="Cover for Guts Of A Virgin" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Painkiller</td>
@@ -116,7 +117,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 48</li>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -158,6 +159,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
     <tr>
       <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6dfed504062845b5811ad086f34e3045.png" alt="Cover for Grand Guignol" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Naked City</td>
@@ -175,6 +177,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/52399f7ee818475dc715d4890442e329.png" alt="Cover for Possession" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-04-17</td>
       <td>God</td>
@@ -188,15 +191,15 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 34</li>
             <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 61</li>
-            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/2z-jkS0sYI3B8KKfhIkntVFsOJI92NK_oOxEFQ3enXo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTYz/My0xMzE4MzQxMTE1/LmpwZWc.jpeg" alt="Cover for Buried Secrets" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c02eb1e89d992c2ab4631b8b61329062.png" alt="Cover for Buried Secrets" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-10</td>
       <td>Painkiller</td>
@@ -208,7 +211,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 34</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -234,6 +237,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9cb7e5ca5249ba22b6e0f96501537c73.png" alt="Cover for Radio" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Naked City</td>
@@ -251,6 +255,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
     <tr>
       <td>64</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de8f0bcff5814ba0bdab5fc7685a25bb.png" alt="Cover for Rituals: Live in Japan" style="max-width:120px; height:auto;" />
       </td>
       <td>1993-11-01</td>
       <td>Painkiller</td>
@@ -322,14 +327,14 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 3</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/pjuv29heTYcQJ7E8zbY30amtMLDQvrCbMKNUtImb-Is/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTA2/MjMtMTMxNjA5ODcw/OC5qcGVn.jpeg" alt="Cover for Deep in the Mental" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/650d27eab7b8c7a872689ca47ffd99ec.png" alt="Cover for Deep in the Mental" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Candiria</td>
@@ -364,7 +369,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 16</li>
+            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -420,7 +425,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 2</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -440,7 +445,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 9</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -482,7 +487,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/R_TLJKQ_GG1qPamKlzaSVO1U7IFke8K9r0Uzif92gHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTcw/OS0xMzA4Mjk4MjU5/LmpwZWc.jpeg" alt="Cover for Moonchild" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3fbe38cf49a44ba2b92cc209c77c16b3.png" alt="Cover for Moonchild" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>John Zorn</td>
@@ -502,7 +507,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/Vb4JkQqsIAV__sg0w0sCjo7PhkeITzdt2WopqsDzfy4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDE5/MzYtMTMyMzM1OTY5/Ny5qcGVn.jpeg" alt="Cover for Vrresto" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ab66571078841948d2bdab45500053b.png" alt="Cover for Vrresto" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Ruins</td>
@@ -515,7 +520,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 75</li>
+            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -587,7 +592,6 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/GIoGt4KRlLUSao08hxyN5KV56xCh6TvZV3pOOVTdGaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDY3/MS0xNDQ2MjIxNzQw/LTg1MjIuanBlZw.jpeg" alt="Cover for The Dillinger Escape Plan (Re-Issue)" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>The Dillinger Escape Plan</td>
@@ -703,7 +707,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
     <tr>
       <td>13</td>
       <td>
-          <img src="https://i.discogs.com/hSaK8Gfzb6SsGScl0WOHYUoCjGxOkvrAcE4tbxA8cIM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njcy/NzItMTQ4ODE1MDA0/MS02ODc0LmpwZWc.jpeg" alt="Cover for and little lambs eat nations" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f4b710c0c10d186a55f27ee7b58247e.png" alt="Cover for and little lambs eat nations" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-11-30</td>
       <td>Lights for Nero</td>
@@ -715,7 +719,6 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
         </ul>
       </td>
@@ -741,6 +744,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/innovative" | relative_url }}">innovative</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a></li>
@@ -753,6 +757,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/innovative" | relative_url }}">innovative</a> # 12</li>
             <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 23</li>
         </ul>
       </td>
@@ -778,7 +783,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/ZnRJ2a4hgD2qNxHnZI9h5HuSUQDfiqXnV-mr45C9XBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDc5/MS0xNjIzMjI3NzIy/LTIwNzQuanBlZw.jpeg" alt="Cover for Chromosome Gun" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7ab1664790e0bfe22461d76f005d611.png" alt="Cover for Chromosome Gun" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-03-22</td>
       <td>Ultralyd</td>
@@ -795,7 +800,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 88</li>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -815,13 +820,14 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a> # 91</li>
+            <li> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91df3e10658b4289bc97dbbed39f6e27.png" alt="Cover for Pain Necessary To Know" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-11-07</td>
       <td>Ephel Duath</td>
@@ -836,9 +842,9 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 16</li>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 2</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 21</li>
             <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 45</li>
-            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -862,7 +868,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/_2gwHYj20UgbVlnQ1PA1jiNeQHTJp63iDDiH4K4-V6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzA4/NzI4LTE1MTM4OTY1/NzgtODAyNy5qcGVn.jpeg" alt="Cover for Kids Eat Crayons is for Lovers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3fc39a108a64ad7a92bf914ffeac19f.png" alt="Cover for Kids Eat Crayons is for Lovers" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Kids Eat Crayons</td>
@@ -880,14 +886,14 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 66</li>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/EIhhR180y5vjplmGo1hmLmS2XZlVWLrVktASzPW2hjY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTQ2/ODgtMTI0NTE5ODgw/MC5qcGVn.jpeg" alt="Cover for Wild Gods" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0eaa7907ab53b3f09ccef070bc32c553.png" alt="Cover for Wild Gods" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>The Number Twelve Looks Like You</td>
@@ -903,7 +909,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 35</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -929,7 +935,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/DJFTulmWlMuDh1aDyhKx5VoDeM8kgILsXIdVyXvtZEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDU1/NjUtMTQzODQ2MjI3/My00OTczLmpwZWc.jpeg" alt="Cover for 2nd Sun in the Eclipse" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/00c2656a98f640d39ac3ba590b8856be.png" alt="Cover for 2nd Sun in the Eclipse" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-02-27</td>
       <td>Ingenium</td>
@@ -964,7 +970,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 78</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1041,7 +1047,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 41</li>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1061,7 +1067,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 71</li>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1086,7 +1092,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/uNwwXz5fk3LVfZAP4bkstQsNyDCCVmD4OYOTBry6bKc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDQy/NDUtMTQ0Nzg3ODMz/OC04NzI3LmpwZWc.jpeg" alt="Cover for Cognac Al Dente" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2852e77f3e74847b134021a027c1347.png" alt="Cover for Cognac Al Dente" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Errata</td>
@@ -1124,6 +1130,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
     <tr>
       <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/73e74bd4720987bc5e31a49986ce9e75.png" alt="Cover for あらためまして、はじめまして、ミドリです。" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-05-14</td>
       <td>ミドリ</td>
@@ -1135,14 +1142,16 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 89</li>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 94</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 89</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 94</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/74bb6b6d437047f7aee4b07b65e56dd1.png" alt="Cover for Beijing 2008" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-08-04</td>
       <td>NEIZAN</td>
@@ -1196,13 +1205,13 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 2</li>
-            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 23</li>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 25</li>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 33</li>
             <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 34</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 45</li>
-            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 82</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 56</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 66</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 74</li>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 78</li>
+            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 84</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1221,13 +1230,14 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 100</li>
+            <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/25957a1b26a24d0692b89cc1dcf21a5f.png" alt="Cover for Broken Toys" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-11-10</td>
       <td>NEIZAN</td>
@@ -1281,9 +1291,9 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 14</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 23</li>
-            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 74</li>
+            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 75</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 78</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1309,6 +1319,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
     <tr>
       <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9e1b8f65d054b3fcb2908f666822fd5.png" alt="Cover for Carboniferous" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-02-17</td>
       <td>Zu</td>
@@ -1321,9 +1332,9 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 18</li>
             <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 29</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 29</li>
-            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 82</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1424,7 +1435,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/D4RiyLhudsHIvtUtTIWNeim4wHUA3K-75WpX_qTUkR4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjUy/NTktMTIzNTQ4MTcx/OC5qcGVn.jpeg" alt="Cover for Grey Matter X Nuclear Moms" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7071c5eff646aeba50e2d5451059771c.png" alt="Cover for Grey Matter X Nuclear Moms" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-08-10</td>
       <td>Grey Matter</td>
@@ -1438,7 +1449,6 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a></li>
@@ -1447,8 +1457,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 10</li>
-            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 31</li>
+            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1492,6 +1501,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
     <tr>
       <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a22b94a253ee4268ab7cf2e896f50019.png" alt="Cover for Kuping Gatal" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-01-29</td>
       <td>telingaberdarah</td>
@@ -1516,6 +1526,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
     <tr>
       <td>16</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/401773622f354090995f921f7a9a8e31.png" alt="Cover for bercerita tentang akhir kisah sepasang kelinci yang sedang memadu kasih" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-31</td>
       <td>telingaberdarah</td>
@@ -1537,6 +1548,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aac39ea8c0e54c739ecbd2757fdb7247.png" alt="Cover for 42" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06-29</td>
       <td>Cthulhu Rise</td>
@@ -1553,7 +1565,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 11</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1573,7 +1585,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 36</li>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1615,6 +1627,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
     <tr>
       <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c3d0f4f52d2d05573fa0265f8aa0b30.png" alt="Cover for One of Us Is the Killer" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-05-14</td>
       <td>The Dillinger Escape Plan</td>
@@ -1626,14 +1639,14 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 95</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/STNiTLqKGXPKgKQHwYXTnCkPPsgqMzNPJoXzOUk62P8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwODA0/NjQtMTM4Mzk1MjY4/NC0xNDU5LmpwZWc.jpeg" alt="Cover for Water Resistance" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e3f7a4a63e248bfb5fc72a3186602bb.png" alt="Cover for Water Resistance" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-07-02</td>
       <td>Neo</td>
@@ -1651,15 +1664,15 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 37</li>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 70</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 31</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/BunPmX1kAapFTSvGbThqEveHHLGnA6KY1LBqwIVS_SE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTE3/MzEtMTM4NTkwNTUy/NS03NDY2LmpwZWc.jpeg" alt="Cover for Blimmguass" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5de6b6f05f62503cec1755f725087447.png" alt="Cover for Blimmguass" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-30</td>
       <td>Sax Ruins</td>
@@ -1675,8 +1688,8 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 9</li>
-            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 48</li>
+            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 49</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1703,7 +1716,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/rvsZytd7_wc6j4GVbM0mBrXInSKmB0_0Tav68sbmbxo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MjU0/MjMtMTQwMDk4MTAw/Mi03NDY1LmpwZWc.jpeg" alt="Cover for Invaders 7 Inch" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/01b41f2911826f42ef5f8b888843bbc6.png" alt="Cover for Invaders 7 Inch" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-04-29</td>
       <td>Candiria</td>
@@ -1723,6 +1736,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
     <tr>
       <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/45dabfc13a82991c05efbe37f2827896.png" alt="Cover for Invaders" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-04-29</td>
       <td>Candiria</td>
@@ -1763,7 +1777,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
     <tr>
       <td>5</td>
       <td>
-          <img src="https://i.discogs.com/NODSd8eVVFk4u6joad-tLcBSyg_ASvBENF5DkLJzQOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NDkx/NTMtMTQ0Mzc5Njcx/OS0xMjE1LnBuZw.jpeg" alt="Cover for Adplicatio Minima" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de1b1e42041245f3c54182ddd45c1135.png" alt="Cover for Adplicatio Minima" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-07-01</td>
       <td>Squartet</td>
@@ -1828,7 +1842,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/bBvtYWRZ9YLUeHkZ7QCeWpSD7qCmQBkjksG2K82P4ug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjAz/ODgwLTE1NzgwMDQ1/MTUtMjAwNy5qcGVn.jpeg" alt="Cover for Dying To Shed Light On The Narrow Path Of The Anathema Heist" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f8985dad8cdf1779c4213b62fcffc96.png" alt="Cover for Dying To Shed Light On The Narrow Path Of The Anathema Heist" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-02-05</td>
       <td>Lights for Nero</td>
@@ -1843,7 +1857,6 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
         </ul>
@@ -1856,7 +1869,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/CybB9vwpwfm1cE6JqezrOQvHYjJZpfm3Qwz8UNQp1Zo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzQw/NTA1LTE1NDEwNjgz/OTQtMTA0MC5qcGVn.jpeg" alt="Cover for Brutal Prog" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/68d5282c4fa089a81c5570885099b6b0.png" alt="Cover for Brutal Prog" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-07</td>
       <td>Cause For Effect</td>
@@ -1895,7 +1908,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
     <tr>
       <td>10</td>
       <td>
-          <img src="https://i.discogs.com/Kb9V7jcIi9Sk_YfcBvA_Z6fyD8T1V5ab84Svmdb_e48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTAy/NzIyLTE1NTU0MjE2/NTctMzUzNS5qcGVn.jpeg" alt="Cover for Tryptamyne" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa2a0328d90c8a95c5ad133279b59d80.png" alt="Cover for Tryptamyne" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-03-23</td>
       <td>Tryptamyne</td>
@@ -1916,7 +1929,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 38</li>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1945,30 +1958,24 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/Ly_uEMx66_Z_xdAiaN64HuVZ62NrNi-NjVpP2fjZCtg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDg3/NzQ4LTE3MDUyNTMy/MTYtODQ2Ni5qcGVn.jpeg" alt="Cover for Zeitgeist" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/287d612d18bae1e4a468b920563f469e.png" alt="Cover for Zeitgeist" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-05-05</td>
       <td>Maruja</td>
       <td>Zeitgeist</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 41</li>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>1</td>
       <td>
-          <img src="https://i.discogs.com/Vc1cTUnQDVoZkU9nwy974cb_MHLQbOf_NzK4__lnyyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDEy/Ny0xNTIyNDczNTY0/LTYxNDUuanBlZw.jpeg" alt="Cover for LORD OF THE DANCE" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8bf441e502fbd21c1d1a2ad0b9a28c1.png" alt="Cover for LORD OF THE DANCE" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-12-15</td>
       <td>Biodome</td>
@@ -2026,7 +2033,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 28</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -2045,7 +2052,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 87</li>
+            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -2069,6 +2076,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
     <tr>
       <td>18</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/113ab9d6f5c94a8fbf891888b2c19d58.png" alt="Cover for Directions" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Lost Without Direction</td>
@@ -2130,6 +2138,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
     <tr>
       <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dcc6853d2dec063988316632736a4cf6.png" alt="Cover for Amateur Theory - EP" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Amateur Theory</td>
@@ -2149,6 +2158,7 @@ Jazzcore fuses the complex harmonies and improvisation of jazz with the aggressi
     <tr>
       <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4caa220912252cf3c7f3a96ffd3548b1.png" alt="Cover for Dots" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Imahoritsuneoyoshidatatsuya</td>

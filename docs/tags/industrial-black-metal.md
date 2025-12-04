@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T13:37:07.438Z
+date: 2025-12-04T07:03:06.527Z
 permalink: tags/industrial-black-metal
 title: industrial black metal
 ---
 
 ## industrial black metal
 
-Last updated: <time datetime="2025-11-26T13:37:07.438Z">Wed Nov 26 2025 15:37:07 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:03:06.527Z">Thu Dec 04 2025 09:03:06 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -62,7 +62,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 71</li>
+            <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -80,7 +80,6 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -99,7 +98,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 67</li>
+            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -232,8 +231,8 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 31</li>
             <li> <a href="{{ "/tags/italian-black-metal" | relative_url }}">italian black metal</a> # 53</li>
+            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -345,7 +344,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 10</li>
+            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -472,7 +471,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 23</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -564,8 +563,8 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 64</li>
-            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 76</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 24</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -622,7 +621,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 6</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -642,7 +641,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 83</li>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -719,7 +718,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 56</li>
+            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -775,8 +774,8 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 17</li>
-            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 73</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 18</li>
+            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -795,6 +794,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -887,7 +887,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 58</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1027,9 +1027,9 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 20</li>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 47</li>
             <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 64</li>
-            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 81</li>
             <li> <a href="{{ "/tags/polish-metal" | relative_url }}">polish metal</a> # 87</li>
         </ul>
       </td>
@@ -1051,9 +1051,9 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 22</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 35</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 51</li>
-            <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 79</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1072,10 +1072,10 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 40</li>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 42</li>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 78</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 79</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 23</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 59</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 61</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1133,7 +1133,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 66</li>
+            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1229,7 +1229,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 50</li>
+            <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1354,7 +1354,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 52</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1410,7 +1410,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 54</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1451,8 +1451,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 36</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 77</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 60</li>
             <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 92</li>
         </ul>
       </td>
@@ -1547,7 +1546,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 26</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 27</li>
             <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 32</li>
         </ul>
       </td>
@@ -1666,7 +1665,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 73</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1693,8 +1692,8 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a> # 9</li>
             <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 21</li>
-            <li> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1780,8 +1779,8 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 1</li>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 35</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 66</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1825,8 +1824,8 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 4</li>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 79</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 22</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1911,8 +1910,8 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 28</li>
-            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 66</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 29</li>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 34</li>
             <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 70</li>
             <li> <a href="{{ "/tags/unblack-metal" | relative_url }}">unblack metal</a> # 75</li>
         </ul>
@@ -1951,7 +1950,7 @@ Industrial black metal fuses the raw aggression and tremolo-picked darkness of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 13</li>
+            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 88</li>
         </ul>
       </td>
     </tr>

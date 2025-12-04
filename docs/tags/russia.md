@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T11:52:43.475Z
+date: 2025-12-04T07:11:58.151Z
 permalink: tags/russia
 title: russia
 ---
 
 ## russia
 
-Last updated: <time datetime="2025-11-25T11:52:43.475Z">Tue Nov 25 2025 13:52:43 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:11:58.151Z">Thu Dec 04 2025 09:11:58 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -73,10 +73,10 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 4</li>
             <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 89</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 93</li>
             <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 95</li>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -255,9 +255,9 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 40</li>
+            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 48</li>
             <li> <a href="{{ "/tags/hungarian" | relative_url }}">hungarian</a> # 48</li>
-            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 52</li>
-            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 60</li>
             <li> <a href="{{ "/tags/hungary" | relative_url }}">hungary</a> # 83</li>
             <li> <a href="{{ "/tags/macedonian" | relative_url }}">macedonian</a> # 89</li>
         </ul>
@@ -395,7 +395,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 6</li>
+            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -418,7 +418,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
     <tr>
       <td>7</td>
       <td>
-          <img src="https://i.discogs.com/8HRs2aa_-d1g0LyKBK1lOXf88fyUwgZcgT4h7bGeYT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTE4/Ny0xNDI4Njc3Mzc5/LTQ1MDAuanBlZw.jpeg" alt="Cover for Post-pop Workshop" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/273499441dd84671ad19e49f16796198.png" alt="Cover for Post-pop Workshop" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Ambidextrous</td>
@@ -573,7 +573,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 43</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 55</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 88</li>
         </ul>
       </td>
@@ -674,7 +674,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 29</li>
+            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -719,7 +719,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 42</li>
+            <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -754,8 +754,8 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 12</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 71</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -816,7 +816,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 28</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 71</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 75</li>
         </ul>
       </td>
@@ -961,7 +961,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       <td>
         <ul>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 18</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 36</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 65</li>
             <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 77</li>
             <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 82</li>
         </ul>
@@ -990,8 +990,8 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 50</li>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 58</li>
+            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 34</li>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 73</li>
             <li> <a href="{{ "/tags/old-school-hardcore" | relative_url }}">old school hardcore</a> # 75</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 76</li>
         </ul>
@@ -1011,8 +1011,8 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/street-punk" | relative_url }}">street punk</a> # 26</li>
-            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 67</li>
+            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 35</li>
+            <li> <a href="{{ "/tags/street-punk" | relative_url }}">street punk</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1030,7 +1030,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 61</li>
+            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1095,8 +1095,8 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 45</li>
-            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 88</li>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 13</li>
+            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1176,7 +1176,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 70</li>
+            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1250,7 +1250,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 14</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1305,8 +1305,8 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 25</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 73</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1333,7 +1333,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 54</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1381,7 +1381,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 52</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 50</li>
             <li> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a> # 95</li>
         </ul>
       </td>
@@ -1407,7 +1407,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 1</li>
+            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1435,10 +1435,10 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 1</li>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 14</li>
+            <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 25</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 66</li>
-            <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 75</li>
-            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 87</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1484,8 +1484,8 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 11</li>
-            <li> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a> # 45</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 16</li>
+            <li> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1515,11 +1515,11 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 6</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 11</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 41</li>
             <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 79</li>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 90</li>
             <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 92</li>
-            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1614,7 +1614,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 36</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 62</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 83</li>
         </ul>
       </td>
@@ -1684,8 +1684,8 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 57</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 74</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 24</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 44</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 96</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 100</li>
         </ul>
@@ -1711,9 +1711,9 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 7</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 34</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 67</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 83</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 91</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 98</li>
         </ul>
       </td>
@@ -1783,8 +1783,8 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 34</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 40</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 61</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 63</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 87</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 99</li>
         </ul>
@@ -1832,8 +1832,8 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 33</li>
-            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 80</li>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 21</li>
+            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1918,8 +1918,8 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 67</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 77</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 24</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 32</li>
             <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 99</li>
         </ul>
       </td>
@@ -1943,8 +1943,8 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 7</li>
-            <li> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a> # 95</li>
+            <li> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a> # 5</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -2007,7 +2007,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 57</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -2046,8 +2046,8 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 66</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 73</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 28</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 33</li>
             <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 98</li>
         </ul>
       </td>
@@ -2070,8 +2070,8 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 93</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 93</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 8</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 9</li>
             <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 100</li>
         </ul>
       </td>
@@ -2091,7 +2091,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 12</li>
+            <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -2112,7 +2112,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 10</li>
+            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -2148,7 +2148,7 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 22</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 76</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 79</li>
         </ul>
       </td>
@@ -2172,8 +2172,8 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 13</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 82</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -2200,8 +2200,8 @@ The &quot;russia&quot; tag encompasses music created by Russian artists or incor
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 30</li>
             <li> <a href="{{ "/tags/chillhop" | relative_url }}">chillhop</a> # 50</li>
-            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 69</li>
         </ul>
       </td>
     </tr>

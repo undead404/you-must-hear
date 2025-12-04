@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T14:36:47.543Z
+date: 2025-12-04T07:10:39.870Z
 permalink: tags/polish
 title: polish
 ---
 
 ## polish
 
-Last updated: <time datetime="2025-11-23T14:36:47.543Z">Sun Nov 23 2025 16:36:47 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:10:39.870Z">Thu Dec 04 2025 09:10:39 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -290,7 +290,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 39</li>
+            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 61</li>
             <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 85</li>
         </ul>
       </td>
@@ -368,7 +368,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 7</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -389,7 +389,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 86</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -565,8 +565,8 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 43</li>
-            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 75</li>
+            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 26</li>
+            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -603,7 +603,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 13</li>
+            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -697,7 +697,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 44</li>
+            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 56</li>
             <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 95</li>
         </ul>
       </td>
@@ -760,10 +760,10 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 30</li>
-            <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 37</li>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 38</li>
-            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 98</li>
+            <li> <a href="{{ "/tags/polski-hip-hop" | relative_url }}">polski hip hop</a> # 3</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 47</li>
+            <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 48</li>
+            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -821,7 +821,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 76</li>
+            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -917,8 +917,8 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 2</li>
             <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 86</li>
-            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -978,7 +978,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 30</li>
+            <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1146,7 +1146,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 65</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1634,7 +1634,8 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 99</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 2</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1750,7 +1751,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 100</li>
+            <li> <a href="{{ "/tags/polish-hip-hop" | relative_url }}">polish hip-hop</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1824,7 +1825,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 85</li>
+            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 16</li>
             <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 99</li>
         </ul>
       </td>
@@ -1923,25 +1924,25 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 1</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 3</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 1</li>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 4</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 5</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 11</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 39</li>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 40</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 52</li>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 53</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 7</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 15</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 23</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 25</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 32</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 48</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 49</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 60</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 61</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 62</li>
             <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 67</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 69</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 71</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 71</li>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 75</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 78</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 85</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 75</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 75</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 90</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 98</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1997,7 +1998,7 @@ Polish music refers to music created or performed in Poland, or by Poles around 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 100</li>
+            <li> <a href="{{ "/tags/polski-rap" | relative_url }}">polski rap</a> # 1</li>
         </ul>
       </td>
     </tr>

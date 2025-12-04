@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T13:43:01.746Z
+date: 2025-12-04T07:12:04.236Z
 permalink: tags/chiptune
 title: chiptune
 ---
 
 ## chiptune
 
-Last updated: <time datetime="2025-11-26T13:43:01.746Z">Wed Nov 26 2025 15:43:01 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:12:04.236Z">Thu Dec 04 2025 09:12:04 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,7 +44,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 83</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -62,10 +62,10 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 62</li>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 75</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 86</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 93</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 8</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 15</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 26</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -101,7 +101,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 6</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -160,7 +160,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       <td>
         <ul>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 90</li>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 94</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -185,7 +185,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       <td>
         <ul>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 89</li>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 93</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -205,7 +205,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 91</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -225,8 +225,8 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 26</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 88</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 13</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -244,7 +244,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 24</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -376,9 +376,9 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 48</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 25</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 53</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 60</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -453,7 +453,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 61</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -487,11 +487,11 @@ Chiptune music is a type of electronic music that is created using sound chips f
             <li> <a href="{{ "/tags/darkpsy" | relative_url }}">darkpsy</a> # 1</li>
             <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 17</li>
             <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 28</li>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 33</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 29</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 29</li>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 45</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 68</li>
             <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 71</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 72</li>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -527,7 +527,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 69</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -602,7 +602,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 89</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -624,7 +624,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 64</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 37</li>
             <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 94</li>
         </ul>
       </td>
@@ -649,7 +649,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 79</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 22</li>
             <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 96</li>
         </ul>
       </td>
@@ -669,7 +669,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 73</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -726,7 +726,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 68</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 33</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 77</li>
             <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 95</li>
         </ul>
@@ -768,7 +768,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 65</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -806,7 +806,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 63</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -828,7 +828,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 13</li>
+            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -866,7 +866,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 70</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 31</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 93</li>
         </ul>
       </td>
@@ -888,8 +888,8 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 55</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 66</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 35</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -924,8 +924,8 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 59</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 77</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 24</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 42</li>
             <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 93</li>
         </ul>
       </td>
@@ -963,7 +963,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 90</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -982,10 +982,10 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 28</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 1</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 16</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 53</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 84</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 100</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1010,9 +1010,9 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 93</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 97</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 97</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 4</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 4</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 8</li>
             <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 100</li>
         </ul>
       </td>
@@ -1037,8 +1037,8 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 95</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 95</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 6</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 6</li>
             <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 99</li>
         </ul>
       </td>
@@ -1096,7 +1096,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 85</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1116,7 +1116,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 77</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1292,7 +1292,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 71</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1340,8 +1340,8 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 8</li>
             <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 62</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1364,7 +1364,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 67</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1402,8 +1402,8 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 29</li>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 57</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 44</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 72</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 92</li>
         </ul>
       </td>
@@ -1500,8 +1500,8 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 66</li>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 87</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 14</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1525,8 +1525,8 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 17</li>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 86</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 15</li>
+            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 82</li>
             <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 91</li>
         </ul>
       </td>
@@ -1575,10 +1575,10 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 6</li>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 73</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 75</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 26</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 28</li>
             <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 92</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1598,7 +1598,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 63</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1619,7 +1619,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 71</li>
+            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1644,8 +1644,8 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 82</li>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 85</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 15</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 19</li>
             <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 97</li>
         </ul>
       </td>
@@ -1669,8 +1669,8 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 60</li>
-            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 73</li>
+            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 28</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 41</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 73</li>
         </ul>
       </td>
@@ -1693,8 +1693,8 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 2</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 54</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 47</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1719,8 +1719,8 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 15</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 84</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1785,8 +1785,8 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 13</li>
             <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 52</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1847,9 +1847,9 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 9</li>
             <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 59</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 88</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1952,7 +1952,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 43</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -2038,7 +2038,7 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 3</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -2082,9 +2082,9 @@ Chiptune music is a type of electronic music that is created using sound chips f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 88</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 90</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 96</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 5</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 11</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 13</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 97</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 98</li>
         </ul>

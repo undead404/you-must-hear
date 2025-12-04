@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T13:38:44.963Z
+date: 2025-12-04T07:05:35.382Z
 permalink: tags/ska-punk
 title: ska punk
 ---
 
 ## ska punk
 
-Last updated: <time datetime="2025-11-26T13:38:44.963Z">Wed Nov 26 2025 15:38:44 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:05:35.382Z">Thu Dec 04 2025 09:05:35 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -84,7 +84,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 91</li>
+            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -108,9 +108,9 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 12</li>
             <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 18</li>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 29</li>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 89</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -130,7 +130,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 6</li>
+            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -150,7 +150,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 53</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -205,7 +205,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 99</li>
+            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -260,8 +260,8 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 69</li>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 100</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 1</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -281,7 +281,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 69</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -319,7 +319,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 33</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 68</li>
             <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 71</li>
         </ul>
       </td>
@@ -357,7 +357,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 93</li>
+            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -377,8 +377,8 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 73</li>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 99</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 2</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -397,7 +397,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 83</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -452,7 +452,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 65</li>
+            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -471,7 +471,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 73</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -491,7 +491,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 52</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -511,8 +511,8 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 18</li>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 97</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 4</li>
+            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -552,8 +552,8 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 19</li>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 75</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 25</li>
+            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -590,7 +590,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 38</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -663,7 +663,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 90</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -700,7 +700,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 67</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -735,7 +735,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 59</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -809,9 +809,9 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 70</li>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 83</li>
-            <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 94</li>
+            <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 7</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 18</li>
+            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -885,7 +885,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 51</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -923,7 +923,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 43</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -979,7 +979,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 82</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -999,7 +999,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 74</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1070,7 +1070,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 64</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1145,7 +1145,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 24</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1166,8 +1166,8 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 56</li>
-            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 99</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 2</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1206,8 +1206,8 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 37</li>
-            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 83</li>
+            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 17</li>
+            <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1262,7 +1262,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 15</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1299,7 +1299,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 95</li>
+            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1319,7 +1319,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 97</li>
+            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1338,8 +1338,8 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 54</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 97</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 4</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1488,7 +1488,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 61</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1542,7 +1542,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 80</li>
+            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1560,7 +1560,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 96</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1670,7 +1670,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 77</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1747,8 +1747,8 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 57</li>
-            <li> <a href="{{ "/tags/austrian" | relative_url }}">austrian</a> # 95</li>
+            <li> <a href="{{ "/tags/austrian" | relative_url }}">austrian</a> # 6</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1860,7 +1860,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 20</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1881,7 +1881,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 70</li>
+            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1899,7 +1899,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 95</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1918,7 +1918,7 @@ Ska punk is a genre of music that combines elements of ska (a Caribbean music ge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 63</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 38</li>
         </ul>
       </td>
     </tr>

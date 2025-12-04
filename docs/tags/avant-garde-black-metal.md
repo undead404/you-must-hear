@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T13:41:57.308Z
+date: 2025-12-04T07:10:22.802Z
 permalink: tags/avant-garde-black-metal
 title: avant-garde black metal
 ---
 
 ## avant-garde black metal
 
-Last updated: <time datetime="2025-11-26T13:41:57.308Z">Wed Nov 26 2025 15:41:57 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:10:22.802Z">Thu Dec 04 2025 09:10:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -101,7 +101,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/austria" | relative_url }}">austria</a> # 62</li>
+            <li> <a href="{{ "/tags/austria" | relative_url }}">austria</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -138,7 +138,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 55</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -203,8 +203,8 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 3</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 95</li>
-            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -245,9 +245,9 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 4</li>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 24</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 73</li>
-            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 77</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -270,10 +270,10 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 9</li>
             <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 19</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 60</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 41</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 87</li>
-            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -330,7 +330,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 9</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -420,7 +420,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 19</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -440,8 +440,8 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 79</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 84</li>
+            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 22</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -552,7 +552,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 20</li>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -589,8 +589,8 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 40</li>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 84</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 17</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -609,8 +609,8 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 59</li>
-            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 73</li>
+            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 28</li>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -629,8 +629,8 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 2</li>
             <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 6</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -648,7 +648,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 15</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -763,6 +763,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
     <tr>
       <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f1a966228fc4fd39218f4f523e64c2d.png" alt="Cover for White Tomb" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-13</td>
       <td>Altar of Plagues</td>
@@ -775,7 +776,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 71</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -795,7 +796,8 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 15</li>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 86</li>
+            <li> <a href="{{ "/tags/extreme-progressive-metal" | relative_url }}">extreme progressive metal</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -822,7 +824,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 60</li>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -842,9 +844,9 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 39</li>
-            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 68</li>
-            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 75</li>
+            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 26</li>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 32</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -909,9 +911,9 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 28</li>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 33</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 47</li>
-            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 67</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -955,7 +957,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 83</li>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -975,9 +977,9 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 2</li>
             <li> <a href="{{ "/tags/french-black-metal" | relative_url }}">french black metal</a> # 28</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 55</li>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1216,7 +1218,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 25</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1236,7 +1238,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 90</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1258,7 +1260,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 95</li>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 6</li>
             <li> <a href="{{ "/tags/french-black-metal" | relative_url }}">french black metal</a> # 96</li>
         </ul>
       </td>
@@ -1333,7 +1335,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 63</li>
+            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1355,7 +1357,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 55</li>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1374,8 +1376,8 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 22</li>
-            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 63</li>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 38</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1400,9 +1402,9 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 8</li>
             <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 10</li>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 34</li>
-            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 93</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1443,8 +1445,8 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 19</li>
             <li> <a href="{{ "/tags/french-black-metal" | relative_url }}">french black metal</a> # 79</li>
-            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1532,9 +1534,9 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 17</li>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 23</li>
             <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 64</li>
-            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 78</li>
-            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1579,7 +1581,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 51</li>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1640,7 +1642,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 8</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1662,7 +1664,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 17</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1688,8 +1690,8 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 25</li>
             <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 41</li>
-            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1729,8 +1731,8 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 54</li>
-            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 70</li>
+            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 31</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1772,7 +1774,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 81</li>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 20</li>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 85</li>
         </ul>
       </td>
@@ -1795,7 +1797,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 64</li>
+            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1816,7 +1818,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       <td>
         <ul>
             <li> <a href="{{ "/tags/french-black-metal" | relative_url }}">french black metal</a> # 13</li>
-            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 15</li>
+            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1839,7 +1841,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 37</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1867,9 +1869,9 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 13</li>
-            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 76</li>
-            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 96</li>
+            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 5</li>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 25</li>
+            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1893,10 +1895,10 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 18</li>
-            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 66</li>
-            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 70</li>
+            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 31</li>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 34</li>
             <li> <a href="{{ "/tags/unblack-metal" | relative_url }}">unblack metal</a> # 75</li>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -2052,7 +2054,7 @@ Avant-garde black metal pushes the genre&#39;s raw aggression and atmospheric da
       <td>
         <ul>
             <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 20</li>
-            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 53</li>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 47</li>
         </ul>
       </td>
     </tr>

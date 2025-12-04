@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T14:27:38.594Z
+date: 2025-12-04T07:04:51.846Z
 permalink: tags/poland
 title: poland
 ---
 
 ## poland
 
-Last updated: <time datetime="2025-11-14T14:27:38.594Z">Fri Nov 14 2025 16:27:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:04:51.846Z">Thu Dec 04 2025 09:04:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -167,7 +167,7 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
     <tr>
       <td>6</td>
       <td>
-          <img src="https://i.discogs.com/Hp-pzoLr_gEaDXyUNAsYdjmxWVKl0VE0k-vTFaYjROY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTMy/OTAtMTU4NzE2NzQ5/Mi03NTU2LmpwZWc.jpeg" alt="Cover for Zło" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc4cadfd0faf48ec87dc4f3fec670341.png" alt="Cover for Zło" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Alastor</td>
@@ -184,7 +184,7 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
       <td>
         <ul>
             <li> <a href="{{ "/tags/polish-metal" | relative_url }}">polish metal</a> # 66</li>
-            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 89</li>
+            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -245,7 +245,7 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/bRP5opPX3ybYTZ4okbsNnOt0Mi5AIri_PD5vFQ7q-ZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjI0/NzE0LTE2ODA0Mjg5/MzAtODExOC5qcGVn.jpeg" alt="Cover for Sznyty" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9facc8cf6744ed8ce81db9a0a940021.png" alt="Cover for Sznyty" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Marek Dyjak</td>
@@ -286,7 +286,7 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 79</li>
+            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -329,7 +329,7 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 43</li>
+            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -386,14 +386,14 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 76</li>
+            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/xw2wMd6oTRsFOF7_lyPmxU2oBHZ9Yx8Sa9gyychPpvs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNzc3/MjMtMTM2MDQ5NjY3/OC05Nzc3LmpwZWc.jpeg" alt="Cover for Masquerade of Shadows" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac6cbe3f09f116bc372a9dc17fbecb8b.png" alt="Cover for Masquerade of Shadows" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Misteria</td>
@@ -433,7 +433,7 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 20</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -513,7 +513,7 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 85</li>
+            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -593,7 +593,7 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 47</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -662,7 +662,7 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/E_2lZEyOSjzPP5IIqkeV3ZNe1-GWKIXFJht-fRe0yKM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzgy/NzctMTI3MTYxNjc0/OS5qcGVn.jpeg" alt="Cover for Desire For Torment" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de951d4634b33de0715d3a3b3a9278d9.png" alt="Cover for Desire For Torment" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-08-25</td>
       <td>Pyorrhoea</td>
@@ -705,9 +705,9 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 27</li>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 32</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 55</li>
-            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 74</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 46</li>
             <li> <a href="{{ "/tags/national-socialist" | relative_url }}">national socialist</a> # 98</li>
         </ul>
       </td>
@@ -737,8 +737,8 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
       <td>
         <ul>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 18</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 22</li>
-            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 70</li>
+            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 31</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 79</li>
             <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 91</li>
         </ul>
       </td>
@@ -761,7 +761,7 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 2</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -883,7 +883,7 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 47</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -904,14 +904,14 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 66</li>
+            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/_DJet8XEZ3zfViKPbXXS1f7UL5-dr0pk0O5hDq5PV0o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTE5/NDktMTI3NzA2MzAy/OS5qcGVn.jpeg" alt="Cover for Human Fuel of Death" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f7baf1f755e196a8832cb25f646755f.png" alt="Cover for Human Fuel of Death" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09-01</td>
       <td>Ohtar</td>
@@ -945,8 +945,8 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 14</li>
             <li> <a href="{{ "/tags/polish-rock" | relative_url }}">polish rock</a> # 57</li>
-            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -968,7 +968,7 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 66</li>
+            <li> <a href="{{ "/tags/polskie" | relative_url }}">polskie</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -990,7 +990,7 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 76</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1017,7 +1017,7 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/fwMTootGyNOvqI-de-4Pkf5WkI2sZ7D-VzVGYtooPUs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzUx/NDMtMTI4NjEwNTIw/MS5qcGVn.jpeg" alt="Cover for Kres Panowania Ery Ludzi" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5853ab92ca644cb2a37117702acd8a6f.png" alt="Cover for Kres Panowania Ery Ludzi" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Actum Inferni</td>
@@ -1045,7 +1045,7 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/1K9QWfXflXdbCdiZwhnETkhe6NTzkGtuZoHtsK5riYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjc1/MTYtMTI2NzY1NTU2/MS5qcGVn.jpeg" alt="Cover for toxic CSSABA" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cba314d9cf474b0dae8af7b3266caafc.png" alt="Cover for toxic CSSABA" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>CSSABA</td>
@@ -1066,9 +1066,9 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 42</li>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 20</li>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 47</li>
-            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 81</li>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 53</li>
             <li> <a href="{{ "/tags/polish-metal" | relative_url }}">polish metal</a> # 87</li>
         </ul>
       </td>
@@ -1135,6 +1135,7 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
     <tr>
       <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21164b3b32ca4ec7996897c546db1ecd.png" alt="Cover for Disorder" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Reactor7x</td>
@@ -1156,7 +1157,7 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/3LRNnNDZLmv07dBqHHbsl_24HguQiqSxqpqsVvG2OtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjgy/MzQtMTI0NjEyNjAw/Ni5qcGVn.jpeg" alt="Cover for Trucizna" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dfcf654a89754af78d7b65c113a6ebbd.png" alt="Cover for Trucizna" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-27</td>
       <td>Witchmaster</td>
@@ -1190,14 +1191,14 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 87</li>
+            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/AJkh6tH5Q1-U5_T47SJxKDG8tCf8mujOLLe3Kv7FT_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTcw/NTAtMTQ1MDQzNTI5/OC04Mjk3LmpwZWc.jpeg" alt="Cover for Ostrza" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/969aa694c0be4dd9b70b28a382c0c5d1.png" alt="Cover for Ostrza" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-05</td>
       <td>Leichengott</td>
@@ -1261,14 +1262,14 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 49</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>3</td>
       <td>
-          <img src="https://i.discogs.com/XTmJ1ywvOGsq__8t1N5POB14wnBxLDlJgf-ppeaTn5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzI0/ODctMTQ5Mjk2MTE3/OC00MzczLmpwZWc.jpeg" alt="Cover for Demo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebf9786f0e5440b784a403506a33a964.png" alt="Cover for Demo" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>One Kind Word</td>
@@ -1302,14 +1303,14 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 72</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/yAkCjpJ1AqruMXahjQXq2dWr1NnR8c1cpdsTFxF5Y00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDYz/NzItMTMwODU3MDUw/NC5qcGVn.jpeg" alt="Cover for V [fau]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6093104954e494ac9008918b994f957.png" alt="Cover for V [fau]" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-02-22</td>
       <td>Digit All Love</td>
@@ -1362,7 +1363,7 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 81</li>
+            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1382,7 +1383,7 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 45</li>
+            <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1492,6 +1493,7 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
     <tr>
       <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/717c1455290b41348a4bd07876c81d96.png" alt="Cover for Underground lo-fi Songs" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12-06</td>
       <td>CSSABA</td>
@@ -1536,6 +1538,7 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
     <tr>
       <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/256affcbb2432aa7d7608da8f8a6ce7b.png" alt="Cover for It Rains, It Pours" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-03-17</td>
       <td>Dormant Ordeal</td>
@@ -1546,7 +1549,7 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-death-metal" | relative_url }}">polish death metal</a> # 89</li>
+            <li> <a href="{{ "/tags/polish-death-metal" | relative_url }}">polish death metal</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1570,7 +1573,7 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/1M0AiZNKIadQhKPd79-KxOs9P6kbbAAna0JUQnuwKsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTk4/MDAtMTM4NjE3NTg0/MC04Mzg5LmpwZWc.jpeg" alt="Cover for Like we&#39;re all equal again" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8adf893c1624ddfcd5ddf60397e305d.png" alt="Cover for Like we&#39;re all equal again" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-12-06</td>
       <td>Fleshworld</td>
@@ -1596,7 +1599,7 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 62</li>
+            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1677,7 +1680,7 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 71</li>
+            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1705,11 +1708,11 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 24</li>
+            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 18</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 38</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 53</li>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 61</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 63</li>
-            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 83</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 77</li>
             <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 95</li>
         </ul>
       </td>
@@ -1759,7 +1762,7 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/4Wen_tv6KYz4uxw58jgx8gJb3XDleKYlIc89kWetcMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTc5/NDE5LTE1MTEzMzU0/NzQtNTYyMS5qcGVn.jpeg" alt="Cover for If it is True What the Prophets write" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ef01a304d32f6adb5d7b7c78a20df0c.png" alt="Cover for If it is True What the Prophets write" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-11-13</td>
       <td>Cisza</td>
@@ -1779,8 +1782,8 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 28</li>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 37</li>
-            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 72</li>
             <li> <a href="{{ "/tags/polish-metal" | relative_url }}">polish metal</a> # 79</li>
         </ul>
       </td>
@@ -1832,7 +1835,7 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/puIdiAE7gMVWsvxm1K9DEo6pNgB1p69UbgDwQmTPDek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzM1/MDA5LTE1NDA5NDA0/MjktMjAzMy5qcGVn.jpeg" alt="Cover for Lunar Ascension" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a89883b3630e0f41bff6b25514755304.png" alt="Cover for Lunar Ascension" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-05</td>
       <td>Ars Magna Umbrae</td>
@@ -1919,7 +1922,7 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
       <td>
         <ul>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 92</li>
-            <li> <a href="{{ "/tags/polish-metal" | relative_url }}">polish metal</a> # 98</li>
+            <li> <a href="{{ "/tags/polish-metal" | relative_url }}">polish metal</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1938,7 +1941,7 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 67</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1963,7 +1966,7 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/xZePdMkv66V-yJ8nARf1Ozh9JD_VovFVwTOYquWQWs8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDI3/ODUtMTQ3OTkzNDk0/Ny01NDg2LmpwZWc.jpeg" alt="Cover for Lunaris" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04350bca604884809895156cc9930f64.png" alt="Cover for Lunaris" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-15</td>
       <td>Arkona</td>
@@ -1984,11 +1987,11 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 9</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 18</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 22</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 73</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 79</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 83</li>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 89</li>
-            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 92</li>
             <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 99</li>
         </ul>
       </td>
@@ -2045,7 +2048,7 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 54</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 46</li>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 81</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 84</li>
         </ul>
@@ -2139,7 +2142,7 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 69</li>
+            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 32</li>
             <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 89</li>
         </ul>
       </td>
@@ -2179,7 +2182,6 @@ The &quot;poland&quot; tag encompasses diverse musical expressions from Poland&#
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/poland" | relative_url }}">poland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
         </ul>
       </td>
       <td>

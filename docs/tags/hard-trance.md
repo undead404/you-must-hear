@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T03:37:08.036Z
+date: 2025-12-04T07:06:25.854Z
 permalink: tags/hard-trance
 title: hard trance
 ---
 
 ## hard trance
 
-Last updated: <time datetime="2025-11-11T03:37:08.036Z">Tue Nov 11 2025 05:37:08 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:06:25.854Z">Thu Dec 04 2025 09:06:25 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -190,8 +190,8 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 45</li>
             <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 49</li>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -263,7 +263,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 87</li>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -282,13 +282,14 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 45</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9af42a390f245e39beab9e3d6e44587.png" alt="Cover for The Prophet" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-04-14</td>
       <td>CJ Bolland</td>
@@ -342,7 +343,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 70</li>
+            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -502,8 +503,8 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 1</li>
             <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 90</li>
+            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -526,7 +527,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 90</li>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -547,7 +548,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 94</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 6</li>
             <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 98</li>
         </ul>
       </td>
@@ -651,8 +652,8 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 83</li>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 95</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 5</li>
+            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -737,13 +738,14 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 98</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7676018ec4525727757620107004c356.png" alt="Cover for Multi-Boxer" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03</td>
       <td>Kplecraft</td>
@@ -768,13 +770,13 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       <td>
         <ul>
             <li> <a href="{{ "/tags/darkpsy" | relative_url }}">darkpsy</a> # 1</li>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 3</li>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 16</li>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 19</li>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 31</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 17</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 22</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 28</li>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 45</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 68</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 70</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 68</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 71</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -798,8 +800,8 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 54</li>
-            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 93</li>
+            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 48</li>
+            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -833,9 +835,9 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 7</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 43</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 73</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 26</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 45</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -876,7 +878,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 55</li>
+            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -915,7 +917,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/UZqZBmXbCEZJcZTcX_8wnpjDuoJ_gvjRP4mtnFkDOiw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzM4/OTQ4LTE2MTI5MDAw/NzYtNjY2Ni5wbmc.jpeg" alt="Cover for Ateriavia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/16f400bfe015993d96ad09c02b044213.png" alt="Cover for Ateriavia" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Exodia</td>
@@ -969,7 +971,6 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/sT6-8NcR86A_kyyfMafQ_joREj18mvpG07T6z3dBJic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjkx/OTMtMTMyNzY3MDU1/My5qcGVn.jpeg" alt="Cover for Autumn Shine" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-01-27</td>
       <td>Manox</td>
@@ -1076,8 +1077,8 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 99</li>
             <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 99</li>
+            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1100,7 +1101,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 72</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1167,7 +1168,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/qPS2CLzLDZu_d80CapB_Q2XEIxet9EYG9ONpqxoN888/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTg2/NDItMTM4ODkyODg2/NC0yMDA5LmpwZWc.jpeg" alt="Cover for Prove Your Love" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/146d4433345c4c3ecc312d4f04ea33eb.png" alt="Cover for Prove Your Love" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-12-20</td>
       <td>Stefan Rio</td>
@@ -1224,7 +1225,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 72</li>
+            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1254,6 +1255,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
     <tr>
       <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/23e994d2800541dbc1b21453fd98fd75.png" alt="Cover for Live Life Living" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-07-07</td>
       <td>Example</td>
@@ -1271,7 +1273,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 92</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1312,7 +1314,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 80</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 21</li>
             <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 83</li>
         </ul>
       </td>
@@ -1333,7 +1335,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 79</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1352,7 +1354,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 85</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1416,8 +1418,8 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 66</li>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 85</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 16</li>
+            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 34</li>
             <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 89</li>
         </ul>
       </td>
@@ -1442,9 +1444,9 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 82</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 9</li>
+            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 18</li>
             <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 92</li>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1467,7 +1469,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 79</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 22</li>
             <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 82</li>
         </ul>
       </td>
@@ -1513,7 +1515,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/rmaQDPEPMn1w48XGlIHjoNag0pOc4oz-pcOtReS3t4A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTMz/MTI5LTE1OTMxNTQw/MzItMzU3Ni5wbmc.jpeg" alt="Cover for Ateriavia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a88e2732957d8d0c5ffed550a47afd0a.png" alt="Cover for Ateriavia" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-05-18</td>
       <td>Anthony1</td>
@@ -1525,14 +1527,14 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 90</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/RQTr5TSRQpBl6-uef54lxwPm5Y9Wxq8QJnSfmivR6uY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjM2/NzI0LTE1OTQ5ODA4/NjMtMzU1MC5wbmc.jpeg" alt="Cover for Parmi Les Mortels" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b5d37bef165c13fcff9693134709102.png" alt="Cover for Parmi Les Mortels" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-07-17</td>
       <td>aamourocean</td>
@@ -1546,7 +1548,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 7</li>
+            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1569,7 +1571,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 42</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 44</li>
             <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 90</li>
         </ul>
       </td>
@@ -1593,15 +1595,15 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 5</li>
             <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 94</li>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/PCAD10IRrR3YWIRcBT1lslgj6IXU6bxTcVvQ1LiNUL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjg3/ODM0LTE2MzIwNDI0/MDUtODcyMi5qcGVn.jpeg" alt="Cover for Bye Bye Sky High" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f3570cd89ebb61a42595f4b636f2ba9.png" alt="Cover for Bye Bye Sky High" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-09-17</td>
       <td>Alpha Tracks</td>
@@ -1636,8 +1638,8 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 3</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 90</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 11</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1693,7 +1695,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 91</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1719,10 +1721,10 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 23</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 37</li>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 67</li>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 83</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 16</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 29</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 32</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 64</li>
             <li> <a href="{{ "/tags/sextrance" | relative_url }}">sextrance</a> # 100</li>
         </ul>
       </td>
@@ -1768,7 +1770,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 57</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 45</li>
             <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 70</li>
         </ul>
       </td>
@@ -1793,7 +1795,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       <td>
         <ul>
             <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 85</li>
-            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 95</li>
+            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1816,7 +1818,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 63</li>
+            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 37</li>
             <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 87</li>
         </ul>
       </td>
@@ -1841,8 +1843,8 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 53</li>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 78</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 23</li>
+            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 47</li>
             <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 80</li>
         </ul>
       </td>
@@ -1867,9 +1869,9 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 84</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 6</li>
+            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 16</li>
             <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 93</li>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1909,8 +1911,8 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 47</li>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 76</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 23</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 50</li>
             <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 97</li>
         </ul>
       </td>
@@ -1934,7 +1936,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 54</li>
+            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 46</li>
             <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 81</li>
         </ul>
       </td>
@@ -1958,7 +1960,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 59</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 40</li>
             <li> <a href="{{ "/tags/sextrance" | relative_url }}">sextrance</a> # 89</li>
         </ul>
       </td>
@@ -1982,8 +1984,9 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 90</li>
+            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 10</li>
             <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 97</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -2028,12 +2031,12 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 3</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 42</li>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 57</li>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 64</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 74</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 36</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 45</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 45</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 73</li>
             <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 88</li>
+            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -2055,8 +2058,8 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 45</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 48</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 51</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -2078,9 +2081,9 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 52</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 57</li>
-            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 94</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 55</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 65</li>
+            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -2099,7 +2102,7 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 83</li>
+            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -2121,9 +2124,9 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 14</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 82</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 82</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 23</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 85</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -2145,9 +2148,9 @@ Hard trance is an energetic electronic dance music genre that emerged in the 199
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 56</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 91</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 93</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 36</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 93</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 95</li>
             <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 98</li>
         </ul>
       </td>

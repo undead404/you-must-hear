@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T01:02:14.390Z
+date: 2025-12-04T07:03:00.653Z
 permalink: tags/japanese-female-pop-rock
 title: japanese female pop-rock
 ---
 
 ## japanese female pop-rock
 
-Last updated: <time datetime="2025-10-22T01:02:14.390Z">Wed Oct 22 2025 04:02:14 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T07:03:00.653Z">Thu Dec 04 2025 09:03:00 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -266,6 +266,7 @@ Japanese female pop-rock blends catchy J-pop melodies with rock instrumentation,
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e623c9e4db24c50e79c96479b9f94b75.png" alt="Cover for LOVE IS THE MESSAGE" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-01-01</td>
       <td>MISIA</td>
@@ -280,7 +281,7 @@ Japanese female pop-rock blends catchy J-pop melodies with rock instrumentation,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 35</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -521,9 +522,9 @@ Japanese female pop-rock blends catchy J-pop melodies with rock instrumentation,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 60</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 84</li>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 97</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 3</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 38</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -547,6 +548,7 @@ Japanese female pop-rock blends catchy J-pop melodies with rock instrumentation,
     <tr>
       <td>5</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a962f9619e444de89f447378cec26fb9.png" alt="Cover for 禁じられた歌" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-03-26</td>
       <td>亜矢</td>
@@ -895,7 +897,7 @@ Japanese female pop-rock blends catchy J-pop melodies with rock instrumentation,
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/yOkcp_op1kW2zeCfPF7v8BOs_sVXa2PJ8-iJehMngjg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjMy/NDQ1LTE2MjE1MzYz/MzMtMjM3Mi5qcGVn.jpeg" alt="Cover for A Perfect Sky" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d42b69bbc51b649de964c6ceaf91f72.png" alt="Cover for A Perfect Sky" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-06-28</td>
       <td>BONNIE PINK</td>
@@ -955,6 +957,7 @@ Japanese female pop-rock blends catchy J-pop melodies with rock instrumentation,
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b74e13a25215410f8bc5f5ca3011269.png" alt="Cover for First Message" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-11-01</td>
       <td>絢香</td>
@@ -977,7 +980,7 @@ Japanese female pop-rock blends catchy J-pop melodies with rock instrumentation,
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/ShAiEGn_LeLvjcu2nQW-MhrQ3Yp_TQXmGs5hHo4xtsU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjkz/NjMtMTI2NTYyNDky/Mi5qcGVn.jpeg" alt="Cover for Welcome To Tokyo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd7e29fdce9542d9897797a14f99ff9b.png" alt="Cover for Welcome To Tokyo" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-12-01</td>
       <td>Shanadoo</td>
@@ -1000,6 +1003,7 @@ Japanese female pop-rock blends catchy J-pop melodies with rock instrumentation,
     <tr>
       <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bcb3f773d52d0dc5f86e0743b4c1dd63.png" alt="Cover for 天球の音楽" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-12-06</td>
       <td>牧野由依</td>
@@ -1054,7 +1058,7 @@ Japanese female pop-rock blends catchy J-pop melodies with rock instrumentation,
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/KgE_LYm8D9NJElV96olePDAXmYSq_cE1sh4aAR7bTg0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjYy/MDMtMTYzNzY1OTk1/My00MDMyLmpwZWc.jpeg" alt="Cover for Close To Fantasy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/00b37f11551844c4c4684885f99b1b7f.png" alt="Cover for Close To Fantasy" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-21</td>
       <td>JYONGRI</td>
@@ -1075,6 +1079,7 @@ Japanese female pop-rock blends catchy J-pop melodies with rock instrumentation,
     <tr>
       <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/975e660269df4dd681d0c74bb832cf5e.png" alt="Cover for 愛 am BEST" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-28</td>
       <td>大塚愛</td>
@@ -1144,6 +1149,7 @@ Japanese female pop-rock blends catchy J-pop melodies with rock instrumentation,
     <tr>
       <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa709778d33dfed16bfbc79161a32875.png" alt="Cover for Beautiful World &#x2F; Kiss &amp; Cry" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-06-27</td>
       <td>宇多田ヒカル</td>
@@ -1250,6 +1256,7 @@ Japanese female pop-rock blends catchy J-pop melodies with rock instrumentation,
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/357e76b7245ce38d8670b92b1e7bcfe5.png" alt="Cover for Chasse" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-11-21</td>
       <td>詩月カオリ</td>
@@ -1327,6 +1334,7 @@ Japanese female pop-rock blends catchy J-pop melodies with rock instrumentation,
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/728a70244483d9304b2eef22720f3be2.png" alt="Cover for Big☆Bang!!!" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-03-19</td>
       <td>中川翔子</td>
@@ -1362,6 +1370,7 @@ Japanese female pop-rock blends catchy J-pop melodies with rock instrumentation,
     <tr>
       <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3cef22eadba15a589be7f29c0ff3c86.png" alt="Cover for 何度も" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-07-09</td>
       <td>青山テルマ</td>
@@ -1384,7 +1393,7 @@ Japanese female pop-rock blends catchy J-pop melodies with rock instrumentation,
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/v-1992rOCXWxHnTbKuIEdw-O5PteOxh8JNWuWMObV4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTEw/MDAtMTIyMDcwNzkw/My5qcGVn.jpeg" alt="Cover for 偶然の確率" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb5a04bd04f24811ae0e8429e6b82544.png" alt="Cover for 偶然の確率" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-03</td>
       <td>Girl Next Door</td>
@@ -1407,6 +1416,7 @@ Japanese female pop-rock blends catchy J-pop melodies with rock instrumentation,
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e05bcf5180dfcb14d8c6523bb7acdf09.png" alt="Cover for Are you happy now?" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-10</td>
       <td>上木彩矢</td>
@@ -1551,6 +1561,7 @@ Japanese female pop-rock blends catchy J-pop melodies with rock instrumentation,
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6b87de0076321491e2e5e5091610161.png" alt="Cover for Baptize" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-21</td>
       <td>妖精帝國</td>
@@ -1568,7 +1579,7 @@ Japanese female pop-rock blends catchy J-pop melodies with rock instrumentation,
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/osboiubL84dNYEhhgZBTrIRU9O0eYGekaAo5SOWpjsE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NDYz/NTktMTQ0NTg1NTMz/Mi0zNzI1LmpwZWc.jpeg" alt="Cover for BARBiE BARBiE" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/640a2393612b09631fc260b451ee16ab.png" alt="Cover for BARBiE BARBiE" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-08-21</td>
       <td>Aira Mitsuki</td>
@@ -1761,6 +1772,7 @@ Japanese female pop-rock blends catchy J-pop melodies with rock instrumentation,
     <tr>
       <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8bc8ce6575a5a92182263162bb318daf.png" alt="Cover for DOLCE" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>鈴木あみ</td>
@@ -1813,6 +1825,7 @@ Japanese female pop-rock blends catchy J-pop melodies with rock instrumentation,
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e2d5e713d1244ae4b9938410a2d45eb3.png" alt="Cover for Reincarnation" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>鈴木あみ</td>
@@ -1850,6 +1863,7 @@ Japanese female pop-rock blends catchy J-pop melodies with rock instrumentation,
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/157d12202a16bfe7f52f742fc80038fa.png" alt="Cover for Supreme Show" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>鈴木あみ</td>

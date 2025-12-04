@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T15:16:13.306Z
+date: 2025-12-04T07:11:24.204Z
 permalink: tags/polish-jazz
 title: polish jazz
 ---
 
 ## polish jazz
 
-Last updated: <time datetime="2025-10-28T15:16:13.306Z">Tue Oct 28 2025 17:16:13 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:11:24.204Z">Thu Dec 04 2025 09:11:24 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -65,7 +65,7 @@ Polish jazz represents a distinctive Eastern European approach to jazz that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 66</li>
+            <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 67</li>
             <li> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a> # 93</li>
         </ul>
       </td>
@@ -109,7 +109,7 @@ Polish jazz represents a distinctive Eastern European approach to jazz that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 6</li>
+            <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -132,7 +132,7 @@ Polish jazz represents a distinctive Eastern European approach to jazz that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 45</li>
+            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -154,7 +154,7 @@ Polish jazz represents a distinctive Eastern European approach to jazz that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 56</li>
+            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -486,7 +486,7 @@ Polish jazz represents a distinctive Eastern European approach to jazz that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 33</li>
+            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -625,7 +625,7 @@ Polish jazz represents a distinctive Eastern European approach to jazz that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 43</li>
+            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -650,7 +650,7 @@ Polish jazz represents a distinctive Eastern European approach to jazz that emer
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/U-P7AT6px5BEc7JcJS5IbJpooSekETqdgd38qMAYWsk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTQz/NjctMTM0NTQ2NzA0/NS00NDA2LmpwZWc.jpeg" alt="Cover for Astigmatic" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/06fac4ce783444e3c43b9ff9844b0b86.png" alt="Cover for Astigmatic" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Krzysztof Komeda</td>
@@ -669,7 +669,7 @@ Polish jazz represents a distinctive Eastern European approach to jazz that emer
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/bRP5opPX3ybYTZ4okbsNnOt0Mi5AIri_PD5vFQ7q-ZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjI0/NzE0LTE2ODA0Mjg5/MzAtODExOC5qcGVn.jpeg" alt="Cover for Sznyty" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9facc8cf6744ed8ce81db9a0a940021.png" alt="Cover for Sznyty" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Marek Dyjak</td>
@@ -688,7 +688,7 @@ Polish jazz represents a distinctive Eastern European approach to jazz that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 17</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -807,6 +807,7 @@ Polish jazz represents a distinctive Eastern European approach to jazz that emer
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11e179b883d7c55accb1be8a35bd8aa7.png" alt="Cover for Polish Jazz EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Skalpel</td>
@@ -917,14 +918,15 @@ Polish jazz represents a distinctive Eastern European approach to jazz that emer
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jazz-double-bass" | relative_url }}">jazz double bass</a> # 31</li>
             <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 42</li>
-            <li> <a href="{{ "/tags/jazz-double-bass" | relative_url }}">jazz double bass</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af381f6813b74e4ea051ae638ce47187.png" alt="Cover for Sorry Music Polska" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Pink Freud</td>
@@ -938,7 +940,7 @@ Polish jazz represents a distinctive Eastern European approach to jazz that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 71</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1080,6 +1082,7 @@ Polish jazz represents a distinctive Eastern European approach to jazz that emer
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc5e4157a2f8418eac85ae1aff0c073d.png" alt="Cover for Suspended Night" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-02-02</td>
       <td>Tomasz Stańko Quartet</td>
@@ -1097,27 +1100,25 @@ Polish jazz represents a distinctive Eastern European approach to jazz that emer
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/edd523c6c1de4d49b9b1b61119ad482b.png" alt="Cover for Skalpel" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-03</td>
       <td>Skalpel</td>
       <td>Skalpel</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
-            <li style="font-size: calc(1rem * 77 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 92</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 96</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>18</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/05c7daa8a5874e7482e17636243159ad.png" alt="Cover for The Time" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Możdżer Danielsson Fresco</td>
@@ -1232,6 +1233,7 @@ Polish jazz represents a distinctive Eastern European approach to jazz that emer
     <tr>
       <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/00145fbfa5f14b2a9e2b1a8cf646b1fb.png" alt="Cover for Konfusion" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-08</td>
       <td>Skalpel</td>
@@ -1243,7 +1245,7 @@ Polish jazz represents a distinctive Eastern European approach to jazz that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 19</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1287,7 +1289,7 @@ Polish jazz represents a distinctive Eastern European approach to jazz that emer
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/c4UnAJWfF-_70tCi-4hkWHaMa0hDvp9BSvNA45csciY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2OTc4/NS0xMTUyNDU4Njk2/LmpwZWc.jpeg" alt="Cover for Muzykoterapia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/090d3847a1094023a0d9e3f46539dfd9.png" alt="Cover for Muzykoterapia" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-04-28</td>
       <td>Muzykoterapia</td>
@@ -1309,6 +1311,7 @@ Polish jazz represents a distinctive Eastern European approach to jazz that emer
     <tr>
       <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8452a2025e2b4a31ca8c7e989a7a1668.png" alt="Cover for Pig Inside The Gentleman" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-10-30</td>
       <td>Contemporary Noise Quintet</td>
@@ -1363,7 +1366,7 @@ Polish jazz represents a distinctive Eastern European approach to jazz that emer
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/BFXtIvTrCptWCOcf2aGPH8JwbspXkVbTMHVmhgyjmEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTg3/NDItMTUwMzE2MDE4/MS01MTY5LmpwZWc.jpeg" alt="Cover for The Rock" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/37c6350ab797a178e46af7beae44271d.png" alt="Cover for The Rock" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-05-11</td>
       <td>SBB</td>
@@ -1412,7 +1415,7 @@ Polish jazz represents a distinctive Eastern European approach to jazz that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 45</li>
+            <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1438,7 +1441,7 @@ Polish jazz represents a distinctive Eastern European approach to jazz that emer
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/FM9cDTOUvN9QQCj5RVzVIyXeN0RfWO6b6Ubec6cI3Uo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTY1/OTktMTM3OTQzNTU0/OC05Mjg0LmpwZWc.jpeg" alt="Cover for January" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0723fb00d314d1ca7bcb2b4ef5e241c.png" alt="Cover for January" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-01-11</td>
       <td>Marcin Wasilewski Trio</td>
@@ -1450,8 +1453,8 @@ Polish jazz represents a distinctive Eastern European approach to jazz that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 61</li>
-            <li> <a href="{{ "/tags/piano-trio" | relative_url }}">piano trio</a> # 77</li>
+            <li> <a href="{{ "/tags/piano-trio" | relative_url }}">piano trio</a> # 30</li>
+            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1667,7 +1670,7 @@ Polish jazz represents a distinctive Eastern European approach to jazz that emer
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/6wRMFM8L48Qxzvgq7Bjgvom9TebfJ3RjQhqTs-nhII4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODMw/ODUxLTE2MjE2NzQy/OTctODkyMS5qcGVn.jpeg" alt="Cover for Jazz in Polish Cinema: Out of the Underground 1958-1967" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc5ae4f791c21cf82e8baaf044c884e5.png" alt="Cover for Jazz in Polish Cinema: Out of the Underground 1958-1967" style="max-width:120px; height:auto;" />
       </td>
       <td>2021</td>
       <td>Krzysztof Komeda</td>
@@ -1723,7 +1726,7 @@ Polish jazz represents a distinctive Eastern European approach to jazz that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 53</li>
+            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1745,7 +1748,7 @@ Polish jazz represents a distinctive Eastern European approach to jazz that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 6</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1789,7 +1792,7 @@ Polish jazz represents a distinctive Eastern European approach to jazz that emer
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/N0cyc7sQzvzayU_MhCs414qz6J2l3qtwUDi0E4EXWkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzQw/MDM1LTE3MTYyODky/MTAtOTkwOC5qcGVn.jpeg" alt="Cover for lumbago" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/47dfcc7123f23336374fb63a22531e47.png" alt="Cover for lumbago" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-05-22</td>
       <td>Lumbago</td>
@@ -1825,7 +1828,7 @@ Polish jazz represents a distinctive Eastern European approach to jazz that emer
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 34</li>
+            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 67</li>
         </ul>
       </td>
     </tr>

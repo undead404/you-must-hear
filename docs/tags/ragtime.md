@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-22T13:41:12.397Z
+date: 2025-12-04T07:08:37.132Z
 permalink: tags/ragtime
 title: ragtime
 ---
 
 ## ragtime
 
-Last updated: <time datetime="2025-11-22T13:41:12.397Z">Sat Nov 22 2025 15:41:12 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:08:37.132Z">Thu Dec 04 2025 09:08:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -108,6 +108,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
     <tr>
       <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e35e81be1dc24d8d98c84ca98ade48c9.png" alt="Cover for Ragtime Jug Stompers" style="max-width:120px; height:auto;" />
       </td>
       <td>1964</td>
       <td>Dave Van Ronk</td>
@@ -123,7 +124,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 47</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -204,7 +205,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/207cZC64wklu5eJsrUKnXBq2M4MByfdoLchX5dVgVGA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDgy/NTgtMTMwMTk1ODg3/OS5qcGVn.jpeg" alt="Cover for The Sting" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b82a22cc9cc426ead739700fd8046b8.png" alt="Cover for The Sting" style="max-width:120px; height:auto;" />
       </td>
       <td>1968</td>
       <td>Marvin Hamlisch</td>
@@ -260,7 +261,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 30</li>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -320,7 +321,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 21</li>
+            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -885,7 +886,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 18</li>
+            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1123,7 +1124,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 36</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1213,7 +1214,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 9</li>
+            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1458,8 +1459,8 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 34</li>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 61</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 38</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 64</li>
             <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 92</li>
         </ul>
       </td>
@@ -1481,7 +1482,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 23</li>
+            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1579,7 +1580,7 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a> # 64</li>
+            <li> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1740,8 +1741,8 @@ Ragtime is a syncopated, piano-driven style that emerged from African American c
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a> # 42</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 50</li>
-            <li> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a> # 59</li>
         </ul>
       </td>
     </tr>

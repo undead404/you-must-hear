@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T02:09:22.328Z
+date: 2025-12-04T07:08:07.278Z
 permalink: tags/sitar
 title: sitar
 ---
 
 ## sitar
 
-Last updated: <time datetime="2025-10-22T02:09:22.328Z">Wed Oct 22 2025 05:09:22 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T07:08:07.278Z">Thu Dec 04 2025 09:08:07 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -59,9 +59,9 @@ The sitar tag encompasses music featuring the distinctive long-necked Indian str
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 6</li>
             <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 18</li>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 53</li>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 94</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -201,7 +201,7 @@ The sitar tag encompasses music featuring the distinctive long-necked Indian str
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/_kPjaoXZZ1OQXm8XoJb_1_0C1IYORqa_1QM9Y0fG2Rw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDQw/Ni0xMzQ5MzkwODc5/LTUxNjUuanBlZw.jpeg" alt="Cover for Wonderwall Music" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/230b873de980411993ab0be96c45cba4.png" alt="Cover for Wonderwall Music" style="max-width:120px; height:auto;" />
       </td>
       <td>1968-11-01</td>
       <td>George Harrison</td>
@@ -219,7 +219,6 @@ The sitar tag encompasses music featuring the distinctive long-necked Indian str
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/pDlzGxQXWonqX-511CeF0GD2VjEIzjD9XMMT2iNjnSY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTY2/NzItMTM4NzMwMzY0/NS0xMTEyLmpwZWc.jpeg" alt="Cover for Psychedelic Dance Party" style="max-width:120px; height:auto;" />
       </td>
       <td>1969</td>
       <td>The Vampires&#39; Sound Incorporation</td>
@@ -262,6 +261,7 @@ The sitar tag encompasses music featuring the distinctive long-necked Indian str
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db913728e2bf4b7ebc1858cf3f0b23ea.png" alt="Cover for Dedicated To The Bird We Love" style="max-width:120px; height:auto;" />
       </td>
       <td>1970</td>
       <td>Oriental Sunshine</td>
@@ -277,7 +277,7 @@ The sitar tag encompasses music featuring the distinctive long-necked Indian str
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 81</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -297,8 +297,8 @@ The sitar tag encompasses music featuring the distinctive long-necked Indian str
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 45</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 64</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 37</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -363,9 +363,9 @@ The sitar tag encompasses music featuring the distinctive long-necked Indian str
       <td>
         <ul>
             <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 14</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 19</li>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 21</li>
-            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 39</li>
+            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 62</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 80</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -388,7 +388,7 @@ The sitar tag encompasses music featuring the distinctive long-necked Indian str
       <td>
         <ul>
             <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 25</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 62</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -488,7 +488,7 @@ The sitar tag encompasses music featuring the distinctive long-necked Indian str
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 40</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -587,7 +587,7 @@ The sitar tag encompasses music featuring the distinctive long-necked Indian str
       <td>
         <ul>
             <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 22</li>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 61</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -729,9 +729,9 @@ The sitar tag encompasses music featuring the distinctive long-necked Indian str
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 10</li>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 14</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 62</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 38</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 86</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 89</li>
             <li> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a> # 94</li>
         </ul>
       </td>
@@ -770,8 +770,8 @@ The sitar tag encompasses music featuring the distinctive long-necked Indian str
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 34</li>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 64</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 37</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -790,10 +790,10 @@ The sitar tag encompasses music featuring the distinctive long-necked Indian str
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 5</li>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 14</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 16</li>
             <li> <a href="{{ "/tags/indian-fusion" | relative_url }}">indian fusion</a> # 55</li>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 96</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 85</li>
+            <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -815,9 +815,9 @@ The sitar tag encompasses music featuring the distinctive long-necked Indian str
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 33</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 10</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 66</li>
             <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 68</li>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -842,6 +842,7 @@ The sitar tag encompasses music featuring the distinctive long-necked Indian str
     <tr>
       <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3cfb65ed76b444c6ba4f456f9cedd53c.png" alt="Cover for Fool..." style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Mark Deutsch</td>
@@ -863,7 +864,7 @@ The sitar tag encompasses music featuring the distinctive long-necked Indian str
       <td>
         <ul>
             <li> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a> # 33</li>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 39</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -884,7 +885,7 @@ The sitar tag encompasses music featuring the distinctive long-necked Indian str
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 63</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -910,7 +911,7 @@ The sitar tag encompasses music featuring the distinctive long-necked Indian str
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 54</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 46</li>
             <li> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a> # 93</li>
         </ul>
       </td>
@@ -931,8 +932,8 @@ The sitar tag encompasses music featuring the distinctive long-necked Indian str
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 90</li>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 91</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 9</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1007,7 +1008,7 @@ The sitar tag encompasses music featuring the distinctive long-necked Indian str
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 62</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1026,7 +1027,7 @@ The sitar tag encompasses music featuring the distinctive long-necked Indian str
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 3</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1144,7 +1145,7 @@ The sitar tag encompasses music featuring the distinctive long-necked Indian str
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 4</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1169,8 +1170,8 @@ The sitar tag encompasses music featuring the distinctive long-necked Indian str
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 36</li>
             <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 41</li>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1214,7 +1215,7 @@ The sitar tag encompasses music featuring the distinctive long-necked Indian str
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 32</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1304,6 +1305,7 @@ The sitar tag encompasses music featuring the distinctive long-necked Indian str
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/54b06380792482c8dce1a006e6f5cb05.png" alt="Cover for Rise" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-09-25</td>
       <td>Anoushka Shankar</td>
@@ -1315,7 +1317,7 @@ The sitar tag encompasses music featuring the distinctive long-necked Indian str
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 19</li>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1377,15 +1379,15 @@ The sitar tag encompasses music featuring the distinctive long-necked Indian str
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 57</li>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 94</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 8</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/cQ881dA1MaMLFfKUVUwfYXlZFSviVLxVH0C5lu5QzO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDIw/NDMtMTQ0Nzg0NTg0/MC05NzcwLmpwZWc.jpeg" alt="Cover for Rise Remixes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/be0ac3a5964c1c6149b270463b0ef08c.png" alt="Cover for Rise Remixes" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-10-01</td>
       <td>Anoushka Shankar</td>
@@ -1550,7 +1552,7 @@ The sitar tag encompasses music featuring the distinctive long-necked Indian str
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 43</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1572,7 +1574,7 @@ The sitar tag encompasses music featuring the distinctive long-necked Indian str
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 79</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1642,7 +1644,7 @@ The sitar tag encompasses music featuring the distinctive long-necked Indian str
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 28</li>
+            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1662,7 +1664,7 @@ The sitar tag encompasses music featuring the distinctive long-necked Indian str
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 68</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1728,7 +1730,7 @@ The sitar tag encompasses music featuring the distinctive long-necked Indian str
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 53</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 46</li>
             <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 82</li>
             <li> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a> # 99</li>
         </ul>
@@ -1879,7 +1881,7 @@ The sitar tag encompasses music featuring the distinctive long-necked Indian str
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 47</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1918,9 +1920,9 @@ The sitar tag encompasses music featuring the distinctive long-necked Indian str
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 32</li>
             <li> <a href="{{ "/tags/indian-fusion" | relative_url }}">indian fusion</a> # 49</li>
             <li> <a href="{{ "/tags/rai" | relative_url }}">rai</a> # 63</li>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 69</li>
         </ul>
       </td>
     </tr>

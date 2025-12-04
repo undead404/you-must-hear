@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-22T13:42:11.811Z
+date: 2025-12-04T07:09:48.370Z
 permalink: tags/modern-jazz
 title: modern jazz
 ---
 
 ## modern jazz
 
-Last updated: <time datetime="2025-11-22T13:42:11.811Z">Sat Nov 22 2025 15:42:11 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:09:48.370Z">Thu Dec 04 2025 09:09:48 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -120,7 +120,7 @@ Modern jazz encompasses progressive approaches to jazz from the 1960s onward, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 51</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -139,7 +139,7 @@ Modern jazz encompasses progressive approaches to jazz from the 1960s onward, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 12</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -185,7 +185,7 @@ Modern jazz encompasses progressive approaches to jazz from the 1960s onward, bl
       <td>
         <ul>
             <li> <a href="{{ "/tags/mambo" | relative_url }}">mambo</a> # 9</li>
-            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 50</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 51</li>
             <li> <a href="{{ "/tags/vibraphone" | relative_url }}">vibraphone</a> # 95</li>
         </ul>
       </td>
@@ -230,7 +230,7 @@ Modern jazz encompasses progressive approaches to jazz from the 1960s onward, bl
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/d2aocavtgA3fX56ApZER63H9Yy53qYS7qRCC99dxR5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjEy/MjktMTU0MTA4MDI5/OS03MjQzLmpwZWc.jpeg" alt="Cover for Rush Hour 2 Score" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/480d382948d240b2b27cfc247eb6571d.png" alt="Cover for Rush Hour 2 Score" style="max-width:120px; height:auto;" />
       </td>
       <td>1967</td>
       <td>Lalo Schifrin</td>
@@ -329,7 +329,6 @@ Modern jazz encompasses progressive approaches to jazz from the 1960s onward, bl
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/7pFtvI0gHmgQI4st8CTutE5ZKiOWIBUFohmkgEFTiOU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyODEy/MDYtMTQ3Nzg2ODQ3/Ny04ODY2LmpwZWc.jpeg" alt="Cover for Bespoke Songs, Lost Dogs, Deto" style="max-width:120px; height:auto;" />
       </td>
       <td>1974</td>
       <td>Chet Baker</td>
@@ -340,7 +339,7 @@ Modern jazz encompasses progressive approaches to jazz from the 1960s onward, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 49</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 53</li>
             <li> <a href="{{ "/tags/jazz-trumpet" | relative_url }}">jazz trumpet</a> # 59</li>
         </ul>
       </td>
@@ -383,8 +382,8 @@ Modern jazz encompasses progressive approaches to jazz from the 1960s onward, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 11</li>
             <li> <a href="{{ "/tags/vibraphone" | relative_url }}">vibraphone</a> # 88</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -768,7 +767,7 @@ Modern jazz encompasses progressive approaches to jazz from the 1960s onward, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 93</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -787,7 +786,7 @@ Modern jazz encompasses progressive approaches to jazz from the 1960s onward, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 83</li>
+            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1056,7 +1055,7 @@ Modern jazz encompasses progressive approaches to jazz from the 1960s onward, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 60</li>
+            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 36</li>
             <li> <a href="{{ "/tags/piano-trio" | relative_url }}">piano trio</a> # 79</li>
         </ul>
       </td>
@@ -1397,7 +1396,7 @@ Modern jazz encompasses progressive approaches to jazz from the 1960s onward, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 87</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1471,7 +1470,7 @@ Modern jazz encompasses progressive approaches to jazz from the 1960s onward, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fusion-jazz" | relative_url }}">fusion jazz</a> # 28</li>
+            <li> <a href="{{ "/tags/fusion-jazz" | relative_url }}">fusion jazz</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1491,7 +1490,7 @@ Modern jazz encompasses progressive approaches to jazz from the 1960s onward, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 49</li>
+            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1514,7 +1513,7 @@ Modern jazz encompasses progressive approaches to jazz from the 1960s onward, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-double-bass" | relative_url }}">jazz double bass</a> # 23</li>
+            <li> <a href="{{ "/tags/jazz-double-bass" | relative_url }}">jazz double bass</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1595,7 +1594,7 @@ Modern jazz encompasses progressive approaches to jazz from the 1960s onward, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 35</li>
+            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1633,7 +1632,7 @@ Modern jazz encompasses progressive approaches to jazz from the 1960s onward, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 47</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 54</li>
             <li> <a href="{{ "/tags/piano-trio" | relative_url }}">piano trio</a> # 92</li>
         </ul>
       </td>
@@ -1674,7 +1673,7 @@ Modern jazz encompasses progressive approaches to jazz from the 1960s onward, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 25</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1879,7 +1878,7 @@ Modern jazz encompasses progressive approaches to jazz from the 1960s onward, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 89</li>
+            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1902,9 +1901,9 @@ Modern jazz encompasses progressive approaches to jazz from the 1960s onward, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 81</li>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 85</li>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 91</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 10</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 16</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1973,7 +1972,7 @@ Modern jazz encompasses progressive approaches to jazz from the 1960s onward, bl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 83</li>
+            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 85</li>
         </ul>
       </td>
     </tr>

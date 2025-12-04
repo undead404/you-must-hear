@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-29T11:03:24.402Z
+date: 2025-12-04T07:03:54.682Z
 permalink: tags/nederlandstalig
 title: nederlandstalig
 ---
 
 ## nederlandstalig
 
-Last updated: <time datetime="2025-10-29T11:03:24.402Z">Wed Oct 29 2025 13:03:24 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:03:54.682Z">Thu Dec 04 2025 09:03:54 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -63,7 +63,7 @@ Nederlandstalig refers to music performed in the Dutch language, encompassing a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 47</li>
+            <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 54</li>
             <li> <a href="{{ "/tags/nederlands" | relative_url }}">nederlands</a> # 89</li>
         </ul>
       </td>
@@ -142,7 +142,7 @@ Nederlandstalig refers to music performed in the Dutch language, encompassing a 
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/q7CmIWiYRSu1praSDA4o8hIxEVnmONF2tQz4JX48BJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MzY5/NTktMTQ4NTU3NDA2/Ny03MzUzLmpwZWc.jpeg" alt="Cover for The Life Of Riley" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7fc1612dcb4540c4c0e4daf80f885044.png" alt="Cover for The Life Of Riley" style="max-width:120px; height:auto;" />
       </td>
       <td>1973</td>
       <td>B.B. King</td>
@@ -174,7 +174,7 @@ Nederlandstalig refers to music performed in the Dutch language, encompassing a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rocksteady" | relative_url }}">rocksteady</a> # 1</li>
+            <li> <a href="{{ "/tags/rocksteady" | relative_url }}">rocksteady</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -286,7 +286,7 @@ Nederlandstalig refers to music performed in the Dutch language, encompassing a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 20</li>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -515,7 +515,7 @@ Nederlandstalig refers to music performed in the Dutch language, encompassing a 
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/nAzGEkQ5oa8FZ9T1Ts9kbzHdEM4yKOJaEbNqO85l7hw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMjg1/OC0xMTU1NDcwNTMw/LmpwZWc.jpeg" alt="Cover for Het Beste Van Boudewijn De Groot" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c58288d29d55c78ef0debe1bc673afab.png" alt="Cover for Het Beste Van Boudewijn De Groot" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Boudewijn de Groot</td>
@@ -550,7 +550,7 @@ Nederlandstalig refers to music performed in the Dutch language, encompassing a 
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/K2W5dvugPaVwyDbLXatBoTKNA0qvM9ocVbG8aNzj8x4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3ODk4/OTEtMTU1NDYxNjYw/OS00MDMzLmpwZWc.jpeg" alt="Cover for Zonder titel" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c7b11838adf891277e3f035e1b541fd.png" alt="Cover for Zonder titel" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Gerard van Maasakkers</td>
@@ -620,6 +620,7 @@ Nederlandstalig refers to music performed in the Dutch language, encompassing a 
     <tr>
       <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ed45fef4f1b4dd79bfa2db1f6791123.png" alt="Cover for Ruth Jacott" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Ruth Jacott</td>
@@ -634,7 +635,7 @@ Nederlandstalig refers to music performed in the Dutch language, encompassing a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 30</li>
+            <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -785,6 +786,7 @@ Nederlandstalig refers to music performed in the Dutch language, encompassing a 
     <tr>
       <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dacf539af7fc4949a243b15972ad8edb.png" alt="Cover for Abnormaal" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>ABN</td>
@@ -798,7 +800,7 @@ Nederlandstalig refers to music performed in the Dutch language, encompassing a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 9</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -817,7 +819,7 @@ Nederlandstalig refers to music performed in the Dutch language, encompassing a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 68</li>
+            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -859,6 +861,7 @@ Nederlandstalig refers to music performed in the Dutch language, encompassing a 
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10ab5178c7e34e8c8cc382cdd49e5422.png" alt="Cover for Naar huis" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-09-07</td>
       <td>Acda en de Munnik</td>
@@ -871,7 +874,7 @@ Nederlandstalig refers to music performed in the Dutch language, encompassing a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 94</li>
+            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -907,7 +910,7 @@ Nederlandstalig refers to music performed in the Dutch language, encompassing a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 2</li>
+            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -972,7 +975,7 @@ Nederlandstalig refers to music performed in the Dutch language, encompassing a 
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/7AzPRkqd1lVfNodtD2PVcWwB6I4NFS5qdMf_PONc61w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc3/MTMtMTYyMTI2NTQz/My0xNjA1LmpwZWc.jpeg" alt="Cover for Seriewoordenaar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e869fce5def94eba9dfffb7728b081a5.png" alt="Cover for Seriewoordenaar" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>ABN</td>
@@ -1128,7 +1131,7 @@ Nederlandstalig refers to music performed in the Dutch language, encompassing a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 76</li>
+            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1153,7 +1156,7 @@ Nederlandstalig refers to music performed in the Dutch language, encompassing a 
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/KHrfDBLTfT37QoLWNEPaZxnN6sHNz1x8gVPD2q6iIhQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjYx/MzgtMTQ1Mzc0NjQ5/OS04MDcxLmpwZWc.jpeg" alt="Cover for Armand" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a869fd5af535b7920de6d99762dfb07.png" alt="Cover for Armand" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Armand</td>
@@ -1224,8 +1227,8 @@ Nederlandstalig refers to music performed in the Dutch language, encompassing a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 12</li>
             <li> <a href="{{ "/tags/nederlands" | relative_url }}">nederlands</a> # 40</li>
+            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1360,7 +1363,7 @@ Nederlandstalig refers to music performed in the Dutch language, encompassing a 
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/HZvnwR0FXvqdooOqD7JEJvhVPGF1hNw4mY_QrbuJCbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzE1/NTAtMTUzNDc0OTAw/NS0zMDU3LmpwZWc.jpeg" alt="Cover for Goochelaars en Geesten" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/19db0e996006479503474af4c85cd2f2.png" alt="Cover for Goochelaars en Geesten" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-08-27</td>
       <td>Spinvis</td>
@@ -1373,7 +1376,7 @@ Nederlandstalig refers to music performed in the Dutch language, encompassing a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 91</li>
+            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1484,7 +1487,7 @@ Nederlandstalig refers to music performed in the Dutch language, encompassing a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 24</li>
+            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 78</li>
             <li> <a href="{{ "/tags/nederlands" | relative_url }}">nederlands</a> # 94</li>
         </ul>
       </td>
@@ -1505,7 +1508,7 @@ Nederlandstalig refers to music performed in the Dutch language, encompassing a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 63</li>
+            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1581,7 +1584,7 @@ Nederlandstalig refers to music performed in the Dutch language, encompassing a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 68</li>
+            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 32</li>
             <li> <a href="{{ "/tags/nederlands" | relative_url }}">nederlands</a> # 77</li>
         </ul>
       </td>
@@ -1623,7 +1626,7 @@ Nederlandstalig refers to music performed in the Dutch language, encompassing a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 56</li>
+            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1648,7 +1651,7 @@ Nederlandstalig refers to music performed in the Dutch language, encompassing a 
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/YqwxvCYkvhNHB3pP4HiZ8bp55-WaTnd5ah0Ikwbg0S4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5Mzcw/NTEtMTQ1MjAyMTkz/Ni04NzU4LmpwZWc.jpeg" alt="Cover for Nachtlicht" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d7c31c12c0d1076d849e486c17966b1.png" alt="Cover for Nachtlicht" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01-08</td>
       <td>Eefje de Visser</td>
@@ -1666,7 +1669,7 @@ Nederlandstalig refers to music performed in the Dutch language, encompassing a 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 92</li>
+            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1898,6 +1901,7 @@ Nederlandstalig refers to music performed in the Dutch language, encompassing a 
     <tr>
       <td>18</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e215370525184f1f8de262576ff08915.png" alt="Cover for Toekomstdroom EP" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Stroomlyn</td>

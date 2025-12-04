@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T02:02:51.835Z
+date: 2025-12-04T07:05:30.182Z
 permalink: tags/piano-solo
 title: piano solo
 ---
 
 ## piano solo
 
-Last updated: <time datetime="2025-10-22T02:02:51.835Z">Wed Oct 22 2025 05:02:51 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T07:05:30.182Z">Thu Dec 04 2025 09:05:30 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -107,6 +107,7 @@ Piano solo features unaccompanied piano compositions that showcase the instrumen
     <tr>
       <td>64</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/67c4978757de199768da414e631a1670.png" alt="Cover for The Piano" style="max-width:120px; height:auto;" />
       </td>
       <td>1979</td>
       <td>Herbie Hancock</td>
@@ -143,8 +144,8 @@ Piano solo features unaccompanied piano compositions that showcase the instrumen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 69</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 76</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 24</li>
+            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -165,7 +166,7 @@ Piano solo features unaccompanied piano compositions that showcase the instrumen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 3</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -260,7 +261,7 @@ Piano solo features unaccompanied piano compositions that showcase the instrumen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 56</li>
+            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -358,6 +359,7 @@ Piano solo features unaccompanied piano compositions that showcase the instrumen
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a352b40df93a0dc576911e0fd51cc249.png" alt="Cover for The Last Waking Moment" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>David Nevue</td>
@@ -394,6 +396,7 @@ Piano solo features unaccompanied piano compositions that showcase the instrumen
     <tr>
       <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/46ed76be82224ac8bfdb20aab14d52ce.png" alt="Cover for Playin&#39; Hooky" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-09-16</td>
       <td>Bob James</td>
@@ -579,13 +582,14 @@ Piano solo features unaccompanied piano compositions that showcase the instrumen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 49</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a6219c97ca0407fc0d9fa5d9dd806ef.png" alt="Cover for Love Scene" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-05-01</td>
       <td>Yiruma</td>
@@ -603,7 +607,7 @@ Piano solo features unaccompanied piano compositions that showcase the instrumen
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/sBaMyqp-5CEPHxv5D9wRy6rN60qP9-nR2-E6AtIp4G0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Nzky/MDAtMTQyOTAxNzU4/MC0xODI2LmpwZWc.jpeg" alt="Cover for Piano For The Third Ear" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbb63a266cbaf7ba58f36f4163aa7cef.png" alt="Cover for Piano For The Third Ear" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Cyrille Verdeaux</td>
@@ -619,7 +623,7 @@ Piano solo features unaccompanied piano compositions that showcase the instrumen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 28</li>
+            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -645,7 +649,7 @@ Piano solo features unaccompanied piano compositions that showcase the instrumen
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/zkQ6rWv_Tn3q1l7X9RF1612nx0fLdajXa00FILO-XRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzQ0/NDY2LTE2NTM0MzQ3/NzctNDA4OS5qcGVn.jpeg" alt="Cover for Harmony Grove" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f702a0bd2d94fdba566c024b8e0cc4a.png" alt="Cover for Harmony Grove" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Greg Maroney</td>
@@ -752,6 +756,7 @@ Piano solo features unaccompanied piano compositions that showcase the instrumen
     <tr>
       <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0864f2a5bdcd2f5ba2b7095f6ee8de41.png" alt="Cover for Montana: A Love Story" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-10-12</td>
       <td>George Winston</td>
@@ -789,7 +794,7 @@ Piano solo features unaccompanied piano compositions that showcase the instrumen
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/1yn91prOtss-eYMZ_6XJjfayiwuQ8G7W4nnX7NjbK-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDcx/MzEtMTQxNzA0ODcw/My05MjEyLmpwZWc.jpeg" alt="Cover for My Secret Heart" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/310d5818c3beae3b17b789cff746a913.png" alt="Cover for My Secret Heart" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Michael Whalen</td>
@@ -863,9 +868,9 @@ Piano solo features unaccompanied piano compositions that showcase the instrumen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 7</li>
-            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 59</li>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 73</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 28</li>
+            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 42</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -935,7 +940,6 @@ Piano solo features unaccompanied piano compositions that showcase the instrumen
       <td>A Still Motion</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beethoven" | relative_url }}">beethoven</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
@@ -950,9 +954,8 @@ Piano solo features unaccompanied piano compositions that showcase the instrumen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 21</li>
-            <li> <a href="{{ "/tags/beethoven" | relative_url }}">beethoven</a> # 25</li>
-            <li> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a> # 81</li>
+            <li> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a> # 20</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1005,12 +1008,12 @@ Piano solo features unaccompanied piano compositions that showcase the instrumen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 19</li>
+            <li> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a> # 5</li>
+            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 16</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 21</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 42</li>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 53</li>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 59</li>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 79</li>
-            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 85</li>
-            <li> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a> # 96</li>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1039,8 +1042,8 @@ Piano solo features unaccompanied piano compositions that showcase the instrumen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 18</li>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 36</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 65</li>
+            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1083,8 +1086,8 @@ Piano solo features unaccompanied piano compositions that showcase the instrumen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 13</li>
-            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 46</li>
+            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 48</li>
+            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1150,14 +1153,14 @@ Piano solo features unaccompanied piano compositions that showcase the instrumen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 38</li>
+            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/sIG6oHuvaL8bhmsWeKsgNkp7EsTFVGsjaqDA1BWkPTg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTc2/OTAtMTI4ODM2MTg3/NC5qcGVn.jpeg" alt="Cover for Holly Lane" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70ac3e4e4bb946e7b818aa8eaac33180.png" alt="Cover for Holly Lane" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-09</td>
       <td>Clem Leek</td>
@@ -1175,20 +1178,21 @@ Piano solo features unaccompanied piano compositions that showcase the instrumen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 13</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 15</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 17</li>
-            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 65</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 68</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 14</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 21</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 31</li>
+            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 36</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 75</li>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 80</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 83</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 80</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 88</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f71b274980eb745a75e7188c7b2cce8.png" alt="Cover for Like green grass against a blue sky" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-25</td>
       <td>Library Tapes</td>
@@ -1204,14 +1208,15 @@ Piano solo features unaccompanied piano compositions that showcase the instrumen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 55</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 79</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 27</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5de959ddbd155787ba32b61d83aa19e.png" alt="Cover for Pianoscope" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-12</td>
       <td>Alexandra Streliski</td>
@@ -1244,7 +1249,7 @@ Piano solo features unaccompanied piano compositions that showcase the instrumen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 59</li>
+            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1264,7 +1269,7 @@ Piano solo features unaccompanied piano compositions that showcase the instrumen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 58</li>
+            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1285,7 +1290,7 @@ Piano solo features unaccompanied piano compositions that showcase the instrumen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-trio" | relative_url }}">piano trio</a> # 76</li>
+            <li> <a href="{{ "/tags/piano-trio" | relative_url }}">piano trio</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1305,7 +1310,7 @@ Piano solo features unaccompanied piano compositions that showcase the instrumen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 24</li>
+            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1319,7 +1324,6 @@ Piano solo features unaccompanied piano compositions that showcase the instrumen
       <td>Anteprime</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beethoven" | relative_url }}">beethoven</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/flute" | relative_url }}">flute</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harp" | relative_url }}">harp</a></li>
@@ -1362,7 +1366,7 @@ Piano solo features unaccompanied piano compositions that showcase the instrumen
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/EqQ3RaoabpfKDdO1xfS0jx4bFKiwZTeJZeIySrTaI-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MjE1/NTItMTQ2OTQ3OTk5/NC02ODIxLmpwZWc.jpeg" alt="Cover for Partire" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50eb656e60f3467e836278932c989de7.png" alt="Cover for Partire" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-01</td>
       <td>Andrea Carri</td>
@@ -1382,7 +1386,7 @@ Piano solo features unaccompanied piano compositions that showcase the instrumen
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/EqQ3RaoabpfKDdO1xfS0jx4bFKiwZTeJZeIySrTaI-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MjE1/NTItMTQ2OTQ3OTk5/NC02ODIxLmpwZWc.jpeg" alt="Cover for Metamorfosi" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a034fdd57334f2389dfb4cf8256b036.png" alt="Cover for Metamorfosi" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-01</td>
       <td>Andrea Carri</td>
@@ -1402,7 +1406,7 @@ Piano solo features unaccompanied piano compositions that showcase the instrumen
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/EqQ3RaoabpfKDdO1xfS0jx4bFKiwZTeJZeIySrTaI-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MjE1/NTItMTQ2OTQ3OTk5/NC02ODIxLmpwZWc.jpeg" alt="Cover for Chronos" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/31a7ea1006b14ea4ce01285da1cd3b4c.png" alt="Cover for Chronos" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-01</td>
       <td>Andrea Carri</td>
@@ -1442,7 +1446,7 @@ Piano solo features unaccompanied piano compositions that showcase the instrumen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 65</li>
+            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1686,7 +1690,7 @@ Piano solo features unaccompanied piano compositions that showcase the instrumen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 22</li>
+            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 79</li>
             <li> <a href="{{ "/tags/piano-sonata" | relative_url }}">piano sonata</a> # 88</li>
         </ul>
       </td>
@@ -1736,6 +1740,7 @@ Piano solo features unaccompanied piano compositions that showcase the instrumen
     <tr>
       <td>5</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8eaadf49a19cf135ab5e280302d21803.png" alt="Cover for Forthcoming Album - Untitled" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Bigo &amp; Twigetti</td>
@@ -1782,7 +1787,6 @@ Piano solo features unaccompanied piano compositions that showcase the instrumen
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beethoven" | relative_url }}">beethoven</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a></li>
         </ul>

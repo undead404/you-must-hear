@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T01:11:05.601Z
+date: 2025-12-04T07:04:39.694Z
 permalink: tags/dark-techno
 title: dark techno
 ---
 
 ## dark techno
 
-Last updated: <time datetime="2025-10-22T01:11:05.601Z">Wed Oct 22 2025 04:11:05 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T07:04:39.694Z">Thu Dec 04 2025 09:04:39 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -77,7 +77,7 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
       <td>
         <ul>
             <li> <a href="{{ "/tags/darkpsy" | relative_url }}">darkpsy</a> # 30</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 35</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 64</li>
             <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 69</li>
             <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 84</li>
             <li> <a href="{{ "/tags/psycore" | relative_url }}">psycore</a> # 98</li>
@@ -87,7 +87,7 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
     <tr>
       <td>7</td>
       <td>
-          <img src="https://i.discogs.com/vSWcW1Um-yzyftl8eC-XPAyGnm6x9RyhtPOUukx0P2A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODI4/My0xMjI2NTIzNTEx/LmpwZWc.jpeg" alt="Cover for Wire Science" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b8ffdf9b7dbcb02a4c16dfde72e6d84.png" alt="Cover for Wire Science" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Lagowski</td>
@@ -179,7 +179,7 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 35</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -309,7 +309,7 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/g-CKnmwCtfAEI5FqiHDaz26opGHilpGnR-NtUe72mvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDgw/OTYtMTMxMTQ2NjAw/OS5qcGVn.jpeg" alt="Cover for Pots and Pans EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f7d62edf1974a71cab8cf7d0951afd4.png" alt="Cover for Pots and Pans EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-12-07</td>
       <td>Shyft</td>
@@ -354,7 +354,7 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/9lb18WTF4vjP7BddQs_xdb75b4UqFmZTEhj7fAHOrHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjE4/ODUtMTMxODQ3MjYz/My5qcGVn.jpeg" alt="Cover for Metarail" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/12fd265254ab429bc2b257b29ef4a7c1.png" alt="Cover for Metarail" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-01</td>
       <td>Taxim</td>
@@ -372,7 +372,7 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/m8mgCzn3M19VFSr1Kb_wMsbaqxIDwhOUEPQKpIoUu0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjgw/MjMtMTI3NzIyNDIw/MC5qcGVn.jpeg" alt="Cover for Peste" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/450a04fa3ea76ccf955d34e67c2824be.png" alt="Cover for Peste" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-06-23</td>
       <td>Sturqen</td>
@@ -503,7 +503,7 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/biIqxmJH9pjHvaJ1Q5xqcMLsIaTYB5-H0lDn38q3r94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxOTgx/NzYtMTQ3NjgyOTEx/Mi02MTQxLmpwZWc.jpeg" alt="Cover for Mountains" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98772cc10b8a4780b057a71a4fccbdcf.png" alt="Cover for Mountains" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08-30</td>
       <td>Plattform</td>
@@ -559,13 +559,14 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 15</li>
+            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e442566076f64ecd82debf168b5b6aa7.png" alt="Cover for Mutation Reloaded" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-01-18</td>
       <td>Valium Era</td>
@@ -590,7 +591,7 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/vyLjeBfMdXJpyu-tpLPB5WHVodS-DR1lEBowNUdpqEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODc0/MDItMTM2OTE5ODAy/NC0xMzcxLmpwZWc.jpeg" alt="Cover for It Stands To Conceal (Special Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe9f05bcde6c433cc3b192f9cc7ffc36.png" alt="Cover for It Stands To Conceal (Special Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-05</td>
       <td>Vatican Shadow</td>
@@ -604,7 +605,7 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 1</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -654,19 +655,19 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 29</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 67</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 78</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 87</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 92</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 98</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 3</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 8</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 12</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 20</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 60</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/td7hNVvk5m05MpU1AA9-UT9iO0sZtn8GYB0dP0-57gY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Nzg1/NjEtMTQwNzkxOTYz/MC02NTkzLmpwZWc.jpeg" alt="Cover for Sovrastrutture" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c9c926118f34c15ccdeadd6b9560ebc.png" alt="Cover for Sovrastrutture" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Violet Poison</td>
@@ -701,7 +702,7 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 96</li>
+            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -734,7 +735,7 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
       <td>
         <ul>
             <li> <a href="{{ "/tags/darkpsy" | relative_url }}">darkpsy</a> # 28</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 37</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 61</li>
             <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 70</li>
             <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 85</li>
             <li> <a href="{{ "/tags/psycore" | relative_url }}">psycore</a> # 99</li>
@@ -784,16 +785,17 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 55</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 90</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 46</li>
             <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 90</li>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 99</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 91</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/44f23e882e58fc041aecf93872081bda.png" alt="Cover for Deathvox" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-10-27</td>
       <td>Paula Temple</td>
@@ -810,8 +812,8 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 75</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 82</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 19</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 79</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 96</li>
         </ul>
       </td>
@@ -833,7 +835,7 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 53</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -867,7 +869,7 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
       <td>
         <ul>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 18</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 27</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 26</li>
             <li> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a> # 33</li>
             <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 56</li>
         </ul>
@@ -876,7 +878,7 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/VrIXIj0sNp9ZAl7ervH-XTcNsdd8NKg5gzGzGymrZZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDQ5/NDYtMTQ4NzI1OTc3/OS05MTI5LmpwZWc.jpeg" alt="Cover for Riksbanken" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/12cd02694770cb43acc67e2e80a2b64e.png" alt="Cover for Riksbanken" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-02-10</td>
       <td>Motormännen</td>
@@ -934,7 +936,7 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/5-Z8IfhCbWyOWMiaJTT5eGmwbh36GDA7TPG9bbc2F_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODk4/MTA5LTE1MDcwMjQ4/OTktOTkzMi5qcGVn.jpeg" alt="Cover for Unfall" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b950fd174a2290ee06969c1e34f45da.png" alt="Cover for Unfall" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-09-22</td>
       <td>IAMX</td>
@@ -956,12 +958,12 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 11</li>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 45</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 61</li>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 88</li>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 88</li>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 94</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 6</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 13</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 14</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 40</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 46</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -985,14 +987,14 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 44</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/ZVKmIxacfImu7fTo8wDaTt2cNWzgE95rdAr40E98tOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjgw/MzA1LTE1NzEzNDU2/NjUtNDgxNy5qcGVn.jpeg" alt="Cover for Psycho" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3dd83917362a9760d2e99658834dd86.png" alt="Cover for Psycho" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-12-21</td>
       <td>Lucille Croft</td>
@@ -1013,7 +1015,7 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/ArLnokQNIWUgYDE4_AuCaGK0pk14I2t41sDuspAPD40/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTYx/OTIxLTE1MjU1NTIx/MTQtMjgzMS5qcGVn.jpeg" alt="Cover for To The Core" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1cdb847e35e2dbd7db186a306109e432.png" alt="Cover for To The Core" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Zanias</td>
@@ -1033,13 +1035,13 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 21</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 64</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 76</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 86</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 87</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 91</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 97</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 4</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 9</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 13</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 22</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 67</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 72</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1130,7 +1132,7 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 71</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1157,7 +1159,7 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/ccTC7S9JsvG7S7GbehY8dcAYrqmjWmDREtnigmQkt4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDQz/OTY5LTE1NDcwNDY1/NDctMzMwMS5qcGVn.jpeg" alt="Cover for Into the All" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab3f0e10481fca74737ed7af82fc45f9.png" alt="Cover for Into the All" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-12-03</td>
       <td>Zanias</td>
@@ -1183,11 +1185,11 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 18</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 20</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 31</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 41</li>
-            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 66</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 23</li>
+            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 35</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 57</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 70</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 81</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 84</li>
         </ul>
       </td>
@@ -1213,9 +1215,9 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 12</li>
             <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 80</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 83</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 85</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1262,9 +1264,9 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 14</li>
             <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 48</li>
             <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 53</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1313,12 +1315,12 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 21</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 39</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 42</li>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 49</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 85</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 52</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 56</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 62</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 78</li>
             <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 85</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1347,7 +1349,7 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
       <td>
         <ul>
             <li> <a href="{{ "/tags/darksynth" | relative_url }}">darksynth</a> # 16</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 72</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1400,7 +1402,7 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/ROB0fHs-vBoiidOmhBH8WXrxLYCd7o3tX1IRLq7J4UA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTE1/NDU1LTE1ODY4NzQz/NTQtMzM4OC5qcGVn.jpeg" alt="Cover for Perception is&#x2F;as&#x2F;of Deception" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/571fdb8cba922db1ac83f9fe2d998457.png" alt="Cover for Perception is&#x2F;as&#x2F;of Deception" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-04-10</td>
       <td>ADULT.</td>
@@ -1420,10 +1422,10 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 17</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 30</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 40</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 50</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 49</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 58</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 71</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1448,9 +1450,9 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 10</li>
             <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 79</li>
-            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 89</li>
+            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 83</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1478,12 +1480,12 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 13</li>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 63</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 65</li>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 80</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 83</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 91</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 10</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 16</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 20</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 28</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 36</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 77</li>
             <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 99</li>
         </ul>
       </td>
@@ -1516,7 +1518,7 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 25</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 24</li>
             <li> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a> # 30</li>
             <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 54</li>
         </ul>
@@ -1567,8 +1569,8 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 66</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 68</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 29</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 35</li>
             <li> <a href="{{ "/tags/darksynth" | relative_url }}">darksynth</a> # 69</li>
         </ul>
       </td>
@@ -1638,7 +1640,7 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 12</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1692,10 +1694,11 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 29</li>
             <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 48</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 49</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 52</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 70</li>
             <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 89</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1719,8 +1722,8 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 6</li>
             <li> <a href="{{ "/tags/darksynth" | relative_url }}">darksynth</a> # 28</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1865,7 +1868,7 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 86</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 15</li>
             <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 86</li>
         </ul>
       </td>
@@ -1893,7 +1896,7 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/vaP7yxXhPhDjrvCKrHkzY9KOcKPHtevNX8D5p4RucE0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDE1/MjY2LTE2MzA5NTE5/NzAtNTQ2MS5qcGVn.jpeg" alt="Cover for Unearthed" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c92bf55f1c0dc033e6515e662a64ae1.png" alt="Cover for Unearthed" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-09-06</td>
       <td>Zanias</td>
@@ -1914,17 +1917,17 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 31</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 59</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 73</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 85</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 15</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 28</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 62</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/qCsukQYMA0L72MQ80upgllHqDqz6qwV_sbsfe2Qf184/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjYy/Mzk3LTE2MzE4NjQy/MDktNzE5NC5qcGVn.jpeg" alt="Cover for Deviator" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0419eade01e15d6b5c89b944156e4ccf.png" alt="Cover for Deviator" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-09-17</td>
       <td>Noise Unit</td>
@@ -1949,7 +1952,6 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/Htgq-g3IY1SwBGPLV35tE-4lcWPjA__cprnimfkiIhU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTY4/MzE0LTE2NDM2NDQ3/NTEtOTM1MC5qcGVn.jpeg" alt="Cover for No Room for Doubt" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-11-21</td>
       <td>Mython</td>
@@ -1963,7 +1965,7 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 4</li>
+            <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -2106,7 +2108,7 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/BeCv9nB7iZlfEI9WlbarsiCGwucRVRBEDTJ3k-ppCGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDQ5/MTM0LTE2Njc1NjY2/MTctNTE3OS5qcGVn.jpeg" alt="Cover for 24" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed132aef6acd8428fbd42188c5572275.png" alt="Cover for 24" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-11-04</td>
       <td>Minuit Machine</td>
@@ -2126,15 +2128,15 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 46</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 87</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 55</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/4w3ExUByhtn0FN76esMaHVRGLhC2uJeYZmydK0FeqD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjQ1/NzQ4LTE2NjkyODEz/OTctMzMyOS5qcGVn.jpeg" alt="Cover for Fascination" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/764cc71e42b22f7937460e15464e7776.png" alt="Cover for Fascination" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-11-25</td>
       <td>Buzz Kull</td>
@@ -2157,11 +2159,11 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 24</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 43</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 44</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 86</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 52</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 58</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 75</li>
             <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 87</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -2188,7 +2190,7 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/tyir75x7ulCzsIrNJL4V96_UKSls-8_QOEayoVpuPLg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTMy/OTMyLTE2Nzk2OTIx/NTgtOTcwNi5qcGVn.jpeg" alt="Cover for End of an Era" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/921dbf2ac7b845ba2f8d052ea3b61890.png" alt="Cover for End of an Era" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-02-07</td>
       <td>WNDRLST</td>
@@ -2203,15 +2205,15 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 20</li>
             <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 60</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/qsYJK-wp6B7pq2gO2p_jcr9K9BJ9rlTU0wqEoGkyWCo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mzky/NTcxLTE2Nzg2MjA4/NTMtNzgyNC5qcGVn.jpeg" alt="Cover for Kill Your Idols" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/554f314ff026c375c2b2ee0a182086e3.png" alt="Cover for Kill Your Idols" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-03-03</td>
       <td>Ultra Sunn</td>
@@ -2230,8 +2232,8 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 15</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 63</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 38</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 81</li>
             <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 93</li>
         </ul>
       </td>
@@ -2260,7 +2262,7 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 72</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 75</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -2287,6 +2289,7 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
     <tr>
       <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0b18812acd64b47a8bbdef35f3ff12b.png" alt="Cover for BEYOND 4D" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>DJ DisGoTech</td>
@@ -2352,6 +2355,7 @@ Dark techno is an intense, atmospheric strain of electronic music characterized 
     <tr>
       <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a16af8076eb6663d8186542409a5cd36.png" alt="Cover for Eine Kleine Nachtmusik" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Hegstraction</td>

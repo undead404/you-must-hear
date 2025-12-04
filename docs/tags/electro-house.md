@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T13:39:10.711Z
+date: 2025-12-04T07:06:14.519Z
 permalink: tags/electro-house
 title: electro house
 ---
 
 ## electro house
 
-Last updated: <time datetime="2025-11-26T13:39:10.711Z">Wed Nov 26 2025 15:39:10 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:06:14.519Z">Thu Dec 04 2025 09:06:14 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -48,7 +48,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 39</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -91,8 +91,8 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 2</li>
             <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 51</li>
-            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -122,12 +122,12 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       <td>
         <ul>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 9</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 26</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 61</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 64</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 13</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 21</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 40</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 65</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 75</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 75</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 80</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 88</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 89</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 91</li>
         </ul>
@@ -158,15 +158,15 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 40</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 52</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 4</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 7</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 17</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 49</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 61</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 62</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 84</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 86</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 88</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 94</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 89</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 97</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 97</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 98</li>
         </ul>
       </td>
@@ -213,9 +213,9 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 14</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 15</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 28</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 46</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 54</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 69</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 83</li>
         </ul>
@@ -245,9 +245,9 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 16</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 17</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 30</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 47</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 53</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 70</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 84</li>
         </ul>
@@ -278,15 +278,15 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 21</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 8</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 13</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 26</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 39</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 41</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 75</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 78</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 60</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 79</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 80</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 81</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 88</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 93</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 93</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 95</li>
         </ul>
       </td>
@@ -328,26 +328,26 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 19</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 55</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 57</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 59</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 1</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 1</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 3</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 13</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 15</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 15</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 15</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 16</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 16</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 24</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 42</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 46</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 58</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 72</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 75</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 77</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 85</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 85</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 86</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 86</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 86</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 77</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 82</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 87</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 88</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 89</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 93</li>
             <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 97</li>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 98</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 100</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -382,18 +382,18 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 16</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 55</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 57</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 17</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 17</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 17</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 18</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 18</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 26</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 44</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 56</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 70</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 73</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 75</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 83</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 83</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 84</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 84</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 84</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 75</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 85</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 85</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 87</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 91</li>
         </ul>
@@ -431,17 +431,17 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       <td>
         <ul>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 6</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 23</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 60</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 63</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 14</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 14</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 14</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 14</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 15</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 23</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 41</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 64</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 73</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 78</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 78</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 86</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 87</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 87</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 87</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 87</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 78</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 80</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 88</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 90</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 94</li>
@@ -479,20 +479,20 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 10</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 11</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 11</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 11</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 12</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 12</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 17</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 29</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 34</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 36</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 72</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 72</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 65</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 74</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 78</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 84</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 84</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 89</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 89</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 90</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 90</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 85</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 90</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 90</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 91</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 92</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 96</li>
         </ul>
@@ -523,14 +523,14 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 16</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 9</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 15</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 27</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 37</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 38</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 74</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 75</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 63</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 77</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 80</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 86</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 92</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 85</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 92</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 94</li>
         </ul>
@@ -561,15 +561,15 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 37</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 49</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 5</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 9</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 21</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 52</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 55</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 80</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 64</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 85</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 86</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 92</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 87</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 96</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 96</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 97</li>
         </ul>
       </td>
@@ -598,15 +598,15 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 8</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 8</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 8</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 88</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 89</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 89</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 93</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 93</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 93</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 90</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 90</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 99</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 99</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 99</li>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -635,14 +635,14 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 3</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 48</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 51</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 20</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 34</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 49</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 50</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 66</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 67</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 80</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 83</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 86</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -796,7 +796,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 52</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 50</li>
             <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 98</li>
         </ul>
       </td>
@@ -816,7 +816,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       <td>
         <ul>
             <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 42</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 58</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -834,8 +834,8 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 22</li>
             <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 76</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 79</li>
             <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 95</li>
         </ul>
       </td>
@@ -855,7 +855,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 42</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -915,7 +915,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 60</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -934,8 +934,8 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 5</li>
             <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 59</li>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -956,7 +956,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 14</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -974,7 +974,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 63</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1030,7 +1030,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 47</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1052,7 +1052,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 74</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1072,7 +1072,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 78</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1111,7 +1111,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 65</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1168,7 +1168,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 38</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1188,7 +1188,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 69</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1209,8 +1209,8 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 93</li>
-            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 100</li>
+            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 1</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1231,7 +1231,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 69</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 32</li>
             <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 95</li>
         </ul>
       </td>
@@ -1292,8 +1292,8 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 21</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 57</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 44</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 80</li>
             <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 94</li>
         </ul>
       </td>
@@ -1387,8 +1387,8 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 22</li>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 88</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 13</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1406,7 +1406,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 86</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1426,10 +1426,10 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 2</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 6</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 20</li>
             <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 23</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 81</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 95</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1450,7 +1450,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 55</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1475,7 +1475,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 34</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1496,7 +1496,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 71</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1557,10 +1557,10 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 25</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 29</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 41</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 50</li>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 76</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 51</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 95</li>
         </ul>
       </td>
@@ -1597,8 +1597,8 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 24</li>
-            <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 100</li>
+            <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 1</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1621,9 +1621,9 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 10</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 14</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 51</li>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 87</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 91</li>
             <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 97</li>
         </ul>
       </td>
@@ -1663,7 +1663,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 57</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1687,7 +1687,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 36</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 66</li>
             <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 93</li>
         </ul>
       </td>
@@ -1728,7 +1728,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 20</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1751,11 +1751,11 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 61</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 75</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 80</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 93</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 99</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 2</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 8</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 21</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 26</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1801,10 +1801,10 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 28</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 71</li>
+            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 4</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 73</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 74</li>
             <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 92</li>
-            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1822,7 +1822,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 9</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 10</li>
             <li> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a> # 83</li>
         </ul>
       </td>
@@ -1861,19 +1861,19 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 44</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 45</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 23</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 24</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 25</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 25</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 26</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 38</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 45</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 56</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 60</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 63</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 63</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 74</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 76</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 76</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 77</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 78</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 64</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 82</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 85</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 85</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1908,19 +1908,19 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 23</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 7</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 9</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 9</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 10</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 10</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 12</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 25</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 40</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 42</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 76</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 79</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 59</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 78</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 80</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 82</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 86</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 89</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 91</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 91</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 92</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 92</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 94</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 87</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 94</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 96</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 98</li>
@@ -1981,7 +1981,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 26</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -2003,8 +2003,8 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 54</li>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 63</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 47</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -2050,8 +2050,8 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 53</li>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 99</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 2</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -2069,8 +2069,8 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 20</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 56</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 44</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -2091,10 +2091,10 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 50</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 70</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 72</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 76</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 25</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 29</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 30</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 51</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 95</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 98</li>
         </ul>
@@ -2120,7 +2120,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 5</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -2145,10 +2145,10 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 22</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 46</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 58</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 87</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 13</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 43</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 56</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -2166,11 +2166,11 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 5</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 17</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 76</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 84</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 92</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 93</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 95</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 96</li>
             <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 97</li>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 99</li>
         </ul>
@@ -2207,21 +2207,21 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 50</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 64</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 3</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 6</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 7</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 7</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 7</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 7</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 15</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 37</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 51</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 65</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 86</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 89</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 90</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 90</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 94</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 94</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 94</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 94</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 95</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 98</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 100</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 91</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 91</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 100</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 100</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 100</li>
         </ul>
       </td>
@@ -2280,8 +2280,8 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 92</li>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 95</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 6</li>
+            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 9</li>
             <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 98</li>
         </ul>
       </td>
@@ -2302,7 +2302,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 99</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -2337,17 +2337,17 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 17</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 56</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 58</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 16</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 16</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 16</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 17</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 17</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 25</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 43</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 57</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 71</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 74</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 76</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 84</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 84</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 85</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 85</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 85</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 76</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 84</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 86</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 88</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 92</li>
@@ -2379,15 +2379,15 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 12</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 10</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 16</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 28</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 35</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 37</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 73</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 73</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 64</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 75</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 79</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 85</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 89</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 91</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 91</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 93</li>
         </ul>
       </td>
@@ -2415,12 +2415,12 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 25</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 31</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 43</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 70</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 76</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 82</li>
             <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 85</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 88</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -2465,7 +2465,7 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 25</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -2485,11 +2485,11 @@ Electro house is a subgenre of electronic dance music (EDM) that emerged in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 8</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 31</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 80</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 9</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 21</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 32</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 90</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 91</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 93</li>
         </ul>
       </td>
     </tr>

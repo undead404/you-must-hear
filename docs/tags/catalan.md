@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T02:14:00.371Z
+date: 2025-12-04T07:11:05.841Z
 permalink: tags/catalan
 title: catalan
 ---
 
 ## catalan
 
-Last updated: <time datetime="2025-10-22T02:14:00.371Z">Wed Oct 22 2025 05:14:00 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T07:11:05.841Z">Thu Dec 04 2025 09:11:05 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -48,7 +48,7 @@ Catalan refers to music sung in the Catalan language, originating from Catalonia
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/KUEZ-vNh93OoikUZhjfL-EcN8pklBw7LucJD6HWpMW8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NTk1/NDgtMTM5OTIwMDcz/OS04OTg2LmpwZWc.jpeg" alt="Cover for Dioptria" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f72441c340c40669e69439c75f19234.png" alt="Cover for Dioptria" style="max-width:120px; height:auto;" />
       </td>
       <td>1969</td>
       <td>Pau Riba</td>
@@ -68,6 +68,7 @@ Catalan refers to music sung in the Catalan language, originating from Catalonia
     <tr>
       <td>18</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a4e4fbbe66d47e6b4ff8eed24a074ff.png" alt="Cover for Jo, la donya i el gripau" style="max-width:120px; height:auto;" />
       </td>
       <td>1971</td>
       <td>Pau Riba</td>
@@ -97,7 +98,7 @@ Catalan refers to music sung in the Catalan language, originating from Catalonia
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautor" | relative_url }}">cantautor</a> # 38</li>
+            <li> <a href="{{ "/tags/cantautor" | relative_url }}">cantautor</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -135,14 +136,14 @@ Catalan refers to music sung in the Catalan language, originating from Catalonia
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautor" | relative_url }}">cantautor</a> # 37</li>
+            <li> <a href="{{ "/tags/cantautor" | relative_url }}">cantautor</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/Ivhgr8A94mTPZ_3j4enKkaDYW2k9v-2pKQwPrBhwNQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQ5/NjA4LTE1MzkzMzU0/MzItMzUwOS5qcGVn.jpeg" alt="Cover for Reviure" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/20c412d77ac5612840ef9bf3f2b4bd2d.png" alt="Cover for Reviure" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Atila</td>
@@ -180,7 +181,7 @@ Catalan refers to music sung in the Catalan language, originating from Catalonia
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/JzwoB9fYCVoeG0d9g9mu11F9FWt_9uvmq-WN84_RZCg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjQ2/NzAtMTUxMDIyODY2/NC0zMDgwLmpwZWc.jpeg" alt="Cover for Quan El Mal Ve d&#39;Almansa..." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/90ef7802394d4e2d8781a81911b22b83.png" alt="Cover for Quan El Mal Ve d&#39;Almansa..." style="max-width:120px; height:auto;" />
       </td>
       <td>1979</td>
       <td>Al Tall</td>
@@ -199,7 +200,6 @@ Catalan refers to music sung in the Catalan language, originating from Catalonia
     <tr>
       <td>13</td>
       <td>
-          <img src="https://i.discogs.com/Lo85DtPQXplPcLl6Xms4blqazcdxNpLNHk_Q5w8nW8U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTcx/ODY0LTE2NDUwNDcz/NDktODQwOS5qcGVn.jpeg" alt="Cover for novembre 2007" style="max-width:120px; height:auto;" />
       </td>
       <td>1980</td>
       <td>Guillem Joan</td>
@@ -287,7 +287,7 @@ Catalan refers to music sung in the Catalan language, originating from Catalonia
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 83</li>
+            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -451,7 +451,7 @@ Catalan refers to music sung in the Catalan language, originating from Catalonia
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 79</li>
+            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -636,7 +636,7 @@ Catalan refers to music sung in the Catalan language, originating from Catalonia
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 15</li>
+            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -800,7 +800,7 @@ Catalan refers to music sung in the Catalan language, originating from Catalonia
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautor" | relative_url }}">cantautor</a> # 44</li>
+            <li> <a href="{{ "/tags/cantautor" | relative_url }}">cantautor</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -821,7 +821,7 @@ Catalan refers to music sung in the Catalan language, originating from Catalonia
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 5</li>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -955,7 +955,7 @@ Catalan refers to music sung in the Catalan language, originating from Catalonia
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 52</li>
+            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1050,7 +1050,7 @@ Catalan refers to music sung in the Catalan language, originating from Catalonia
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 100</li>
+            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1190,7 +1190,7 @@ Catalan refers to music sung in the Catalan language, originating from Catalonia
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/HudqBQ74LuqwrV1VVwuS-JtB7WM5YsueKa5OX-D21yQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzkz/MjUtMTIyOTg2Mzg3/Ni5qcGVn.jpeg" alt="Cover for Els Millons Professors Europeus" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/06626c9dc2d343c2809889ad5b3ffff2.png" alt="Cover for Els Millons Professors Europeus" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Manel</td>
@@ -1208,7 +1208,7 @@ Catalan refers to music sung in the Catalan language, originating from Catalonia
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/qrkBYsSt6VTCPzZ0z_fPBndEdwB9QhbbRwZ29RHutZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTcw/NTg1LTE1MTExNTc5/NjItNjc4MC5qcGVn.jpeg" alt="Cover for Guerres dolcíssimes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab65584527234ae1a4de789e8609b701.png" alt="Cover for Guerres dolcíssimes" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-04</td>
       <td>Ivette Nadal</td>
@@ -1222,7 +1222,7 @@ Catalan refers to music sung in the Catalan language, originating from Catalonia
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautor" | relative_url }}">cantautor</a> # 41</li>
+            <li> <a href="{{ "/tags/cantautor" | relative_url }}">cantautor</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1286,7 +1286,7 @@ Catalan refers to music sung in the Catalan language, originating from Catalonia
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/rBYiyt-q3yDas2G9a20RcZvwQhJeGRQY5_hshKkpww4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzgw/MjItMTMyNjM5NjYw/Ni5qcGVn.jpeg" alt="Cover for L&#39;alba d&#39;un nou jorn" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/02d4f23b7189724b29082f66b7cec2a4.png" alt="Cover for L&#39;alba d&#39;un nou jorn" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Desperta Ferro</td>
@@ -1306,7 +1306,7 @@ Catalan refers to music sung in the Catalan language, originating from Catalonia
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/ai9Yn6sk2oRwsJNukquhscCeS7qpkgxx5U5sUIcyM88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyODA2/MjItMTM4OTQ3MzIw/MS02NjU1LmpwZWc.jpeg" alt="Cover for Beyond Organic" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b6347387bd0f3faa4b6927111ded4ab.png" alt="Cover for Beyond Organic" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>La Familia Torelli</td>
@@ -1364,7 +1364,7 @@ Catalan refers to music sung in the Catalan language, originating from Catalonia
     <tr>
       <td>17</td>
       <td>
-          <img src="https://i.discogs.com/fe6ed9bI6qr1hIWVcXe-5aGx0f8AniGxL5XBJEcutDU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNjY4/MDUtMTQ1ODI5MzQ0/MS03NTEyLmpwZWc.jpeg" alt="Cover for Pamxuculata" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/989d55fc16864092a66cc595f3c5166d.png" alt="Cover for Pamxuculata" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-26</td>
       <td>Pitt Marvel</td>
@@ -1404,7 +1404,7 @@ Catalan refers to music sung in the Catalan language, originating from Catalonia
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/aFfBUZfb15C0TlSBEbLugEDR2SzMV-mc87KVly5ogFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjE2/MDIzLTE2MjcxOTk2/OTctMzUyMS5qcGVn.jpeg" alt="Cover for Cançons d&#39;ara" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4ff7b496e28423ea5abb0140f6425ea.png" alt="Cover for Cançons d&#39;ara" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Jordi Montañez</td>
@@ -1472,6 +1472,7 @@ Catalan refers to music sung in the Catalan language, originating from Catalonia
     <tr>
       <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c24fd2bc48244be3b66194fd69d597aa.png" alt="Cover for L&#39;Estat i la Revolució" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Eina</td>
@@ -1495,6 +1496,7 @@ Catalan refers to music sung in the Catalan language, originating from Catalonia
     <tr>
       <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98f47137dc30838ad38402858dbd2e39.png" alt="Cover for Per Principis Elegants" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-30</td>
       <td>At Versaris i Asstrio</td>
@@ -1514,7 +1516,7 @@ Catalan refers to music sung in the Catalan language, originating from Catalonia
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/GWaXhAwyYsADIYAk5PlPOhVZ1bRouXjHCLf_d0eV0h0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTk4/MzAtMTMzMzY4MjMy/Ni5qcGVn.jpeg" alt="Cover for Sparkling days, sparkling nights E.P." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3f07eb59fa94775933c00a1abef7771.png" alt="Cover for Sparkling days, sparkling nights E.P." style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Fighting Lion</td>
@@ -1525,7 +1527,7 @@ Catalan refers to music sung in the Catalan language, originating from Catalonia
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 13</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1550,7 +1552,6 @@ Catalan refers to music sung in the Catalan language, originating from Catalonia
     <tr>
       <td>7</td>
       <td>
-          <img src="https://i.discogs.com/7C8OSmDLHG8dCrXdc1ZkAqM71jX0Ii5CM6cB_8X5BaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMjM4/MzctMTM1NjA4MDQy/Ni01ODI3LmpwZWc.jpeg" alt="Cover for Cavan" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12-21</td>
       <td>Gumbel</td>
@@ -1586,6 +1587,7 @@ Catalan refers to music sung in the Catalan language, originating from Catalonia
     <tr>
       <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/19a7e723c3bc4ed68ab82042fde0d347.png" alt="Cover for La figura del buit" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-02-26</td>
       <td>El Petit De Cal Eril</td>
@@ -1625,9 +1627,9 @@ Catalan refers to music sung in the Catalan language, originating from Catalonia
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 6</li>
             <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 80</li>
             <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 81</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1647,7 +1649,7 @@ Catalan refers to music sung in the Catalan language, originating from Catalonia
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 71</li>
+            <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1674,7 +1676,6 @@ Catalan refers to music sung in the Catalan language, originating from Catalonia
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/mij-joNc6xTGSCj3N08jngRScz1W603F7n_039Obj1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzMy/OTI4LTE1MjE0NTg4/MDktMjM2OS5qcGVn.jpeg" alt="Cover for Mightly Mad" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Holy Bouncer</td>
@@ -1693,7 +1694,7 @@ Catalan refers to music sung in the Catalan language, originating from Catalonia
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/jITndM_jhnNZCPnvbbzLDIga_m6D1bTqY5x2JPaoyqk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNjAx/NDctMTQ1ODE0OTAz/Mi01Nzg5LmpwZWc.jpeg" alt="Cover for Radikal" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0dd83eced95b1e5c5ae1511b0d515ef9.png" alt="Cover for Radikal" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>KOP</td>
@@ -1730,14 +1731,14 @@ Catalan refers to music sung in the Catalan language, originating from Catalonia
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 19</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/hrWSG39P1_9F_A93Z-RrkvyC4ezKnfIf9StVsnGPQ-o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTMw/MTI5LTE2Mzc5NDE1/MTktNTQ5NC5qcGVn.jpeg" alt="Cover for 10 Vos Guard" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1591909da972487120b16e7f39816bee.png" alt="Cover for 10 Vos Guard" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>LILDAMI</td>
@@ -1829,6 +1830,7 @@ Catalan refers to music sung in the Catalan language, originating from Catalonia
     <tr>
       <td>12</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dcab6c4ff23314f5c6ab651934408230.png" alt="Cover for I A Pendre Pel Cul!" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Antitank</td>
@@ -1953,6 +1955,7 @@ Catalan refers to music sung in the Catalan language, originating from Catalonia
     <tr>
       <td>27</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c35cb4b9a4a53fa4a70f2fa5d4ba00b4.png" alt="Cover for Al final es asho" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>P.A.W.N. Gang</td>

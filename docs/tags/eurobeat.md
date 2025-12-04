@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T02:03:16.307Z
+date: 2025-12-04T07:05:41.104Z
 permalink: tags/eurobeat
 title: eurobeat
 ---
 
 ## eurobeat
 
-Last updated: <time datetime="2025-10-22T02:03:16.307Z">Wed Oct 22 2025 05:03:16 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T07:05:41.104Z">Thu Dec 04 2025 09:05:41 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -210,14 +210,14 @@ Eurobeat is a high-energy electronic dance genre characterized by driving four-o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 90</li>
+            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/Q0oP1TWsvvI3LxEHcLkIs19sJANqH_cwlSENgZi3sSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNzk4/Ni0xNTA3OTU5OTAw/LTQ5NjguanBlZw.jpeg" alt="Cover for GIVE ME UP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a39e9d08c254faacf7c6fd23f13d290.png" alt="Cover for GIVE ME UP" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Michael Fortunati</td>
@@ -343,7 +343,7 @@ Eurobeat is a high-energy electronic dance genre characterized by driving four-o
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/b_xxVsJZ1NipuB-dGxpffV3fC-z9kJZkc9cK9ygse8s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzQy/Ni0xNDIxOTI1NjA5/LTYwNDMuanBlZw.jpeg" alt="Cover for Eurobeat Masters Vol. 3" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/51c2a6b0e8b7742853aacfefb5b2de7b.png" alt="Cover for Eurobeat Masters Vol. 3" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Max Coveri</td>
@@ -397,7 +397,7 @@ Eurobeat is a high-energy electronic dance genre characterized by driving four-o
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/sl7V7em3Kp8pA0Qt4NYyzAmrnX2jHJGXrHeUzKdZCiw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjg4/MjktMTUwNDIxNDM5/NS05MjEzLmpwZWc.jpeg" alt="Cover for Ti i ja mozemo sve" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c0bcc2477e74ea4b872e3dc1d579466.png" alt="Cover for Ti i ja mozemo sve" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Luna</td>
@@ -496,7 +496,7 @@ Eurobeat is a high-energy electronic dance genre characterized by driving four-o
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/8Wj-PnPwfCGmbzzlgZykYZmj56fvgULSjUAQSoUU-6w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTE0/ODAtMTMxNDc4NDgw/OC5qcGVn.jpeg" alt="Cover for Samo Svoja" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d6ab1e838dfd0467825b0bba8d1c4fd.png" alt="Cover for Samo Svoja" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Luna</td>
@@ -553,7 +553,7 @@ Eurobeat is a high-energy electronic dance genre characterized by driving four-o
     <tr>
       <td>13</td>
       <td>
-          <img src="https://i.discogs.com/FhVqNdjivH0s9Rz7xz12RurXv9eZ3L3EtIW6mDquhTg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDA4/NC0xNjAyNTEwMDc0/LTQ3NTkuanBlZw.jpeg" alt="Cover for Igra" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c57e4966a8be48e2b47114f24a327180.png" alt="Cover for Igra" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Tap 011</td>
@@ -850,7 +850,7 @@ Eurobeat is a high-energy electronic dance genre characterized by driving four-o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 4</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -970,7 +970,7 @@ Eurobeat is a high-energy electronic dance genre characterized by driving four-o
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/ShAiEGn_LeLvjcu2nQW-MhrQ3Yp_TQXmGs5hHo4xtsU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjkz/NjMtMTI2NTYyNDky/Mi5qcGVn.jpeg" alt="Cover for Welcome To Tokyo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd7e29fdce9542d9897797a14f99ff9b.png" alt="Cover for Welcome To Tokyo" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-12-01</td>
       <td>Shanadoo</td>
@@ -986,7 +986,7 @@ Eurobeat is a high-energy electronic dance genre characterized by driving four-o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-female-pop-rock" | relative_url }}">japanese female pop-rock</a> # 31</li>
+            <li> <a href="{{ "/tags/japanese-female-pop-rock" | relative_url }}">japanese female pop-rock</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1078,7 +1078,7 @@ Eurobeat is a high-energy electronic dance genre characterized by driving four-o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 40</li>
+            <li> <a href="{{ "/tags/hi-nrg" | relative_url }}">hi-nrg</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1158,11 +1158,11 @@ Eurobeat is a high-energy electronic dance genre characterized by driving four-o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 1</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 16</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 20</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 7</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 18</li>
             <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 66</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 68</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1374,7 +1374,7 @@ Eurobeat is a high-energy electronic dance genre characterized by driving four-o
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/GV40yKChExTiDiV-CDN2uSKCVCkqOHOLKLo4GVpGk7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDc0/ODA4LTE2NDcwMzA0/NjAtOTM2My5qcGVn.jpeg" alt="Cover for Lovetime Groove" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79f9666e1a4a114bbdbe1be34ac108d7.png" alt="Cover for Lovetime Groove" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-06-29</td>
       <td>Sintipon</td>
@@ -1394,8 +1394,8 @@ Eurobeat is a high-energy electronic dance genre characterized by driving four-o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 20</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 29</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 74</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1483,21 +1483,22 @@ Eurobeat is a high-energy electronic dance genre characterized by driving four-o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 10</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 57</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 76</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 1</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 3</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 4</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 6</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 12</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 16</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 24</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 25</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 37</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 77</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 77</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 85</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 78</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 85</li>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 88</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 94</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 94</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 96</li>
             <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 98</li>
             <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 99</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 99</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1720,6 +1721,7 @@ Eurobeat is a high-energy electronic dance genre characterized by driving four-o
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/73fdd0f60c772c23f87ae9d4471f3a39.png" alt="Cover for SUPER EUROBEAT presents INITIAL D 〜D SELECTION 2〜" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Various Artists</td>

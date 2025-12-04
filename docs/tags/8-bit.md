@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T13:41:35.272Z
+date: 2025-12-04T07:10:16.975Z
 permalink: tags/8-bit
 title: 8-bit
 ---
 
 ## 8-bit
 
-Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:10:16.975Z">Thu Dec 04 2025 09:10:16 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,7 +44,7 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 23</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -83,10 +83,10 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 3</li>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 75</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 86</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 93</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 5</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 8</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 15</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -128,7 +128,7 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 58</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 43</li>
             <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 78</li>
         </ul>
       </td>
@@ -148,7 +148,7 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 35</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -166,7 +166,7 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 16</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -190,7 +190,7 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 68</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 33</li>
             <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 87</li>
         </ul>
       </td>
@@ -213,7 +213,7 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 70</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -233,7 +233,7 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 70</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -251,7 +251,7 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 43</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -271,8 +271,8 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 8</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 26</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 10</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -465,9 +465,9 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 48</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 53</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 60</li>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 90</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -515,7 +515,7 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 2</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -568,12 +568,12 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
         <ul>
             <li> <a href="{{ "/tags/darkpsy" | relative_url }}">darkpsy</a> # 1</li>
             <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 17</li>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 20</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 22</li>
             <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 28</li>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 33</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 29</li>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 45</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 68</li>
             <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 71</li>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -591,7 +591,7 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 82</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -634,8 +634,8 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 73</li>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 78</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 23</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 26</li>
             <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 86</li>
         </ul>
       </td>
@@ -701,7 +701,7 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 65</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -758,7 +758,7 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 4</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 6</li>
             <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 94</li>
         </ul>
       </td>
@@ -783,7 +783,7 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 37</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 39</li>
             <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 96</li>
         </ul>
       </td>
@@ -803,7 +803,7 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 26</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -879,7 +879,7 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 86</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 15</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 91</li>
         </ul>
       </td>
@@ -903,7 +903,7 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 12</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 14</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 77</li>
             <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 95</li>
         </ul>
@@ -927,8 +927,8 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 65</li>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 93</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 8</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 36</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 97</li>
         </ul>
       </td>
@@ -987,7 +987,7 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 77</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1032,8 +1032,8 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 55</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 60</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 38</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 46</li>
             <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 77</li>
         </ul>
       </td>
@@ -1097,7 +1097,7 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 73</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1117,7 +1117,7 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 66</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1157,7 +1157,7 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       <td>
         <ul>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 93</li>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 94</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1196,8 +1196,8 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 10</li>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 55</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 12</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1233,7 +1233,8 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 77</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 1</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 24</li>
             <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 93</li>
         </ul>
       </td>
@@ -1294,7 +1295,7 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 9</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1313,10 +1314,10 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 28</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 16</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 53</li>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 57</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 84</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 60</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1341,9 +1342,9 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 91</li>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 93</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 97</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 4</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 8</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 92</li>
             <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 100</li>
         </ul>
       </td>
@@ -1368,8 +1369,8 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 89</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 95</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 6</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 90</li>
             <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 99</li>
         </ul>
       </td>
@@ -1391,7 +1392,7 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 50</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1411,7 +1412,7 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 35</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1450,7 +1451,7 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 54</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1492,7 +1493,7 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 17</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1516,8 +1517,8 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 41</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 68</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 33</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 60</li>
             <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 88</li>
         </ul>
       </td>
@@ -1541,7 +1542,7 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 11</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1691,8 +1692,8 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 32</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 68</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 69</li>
             <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 90</li>
         </ul>
       </td>
@@ -1758,10 +1759,10 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 6</li>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 32</li>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 73</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 28</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 34</li>
             <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 92</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1786,8 +1787,8 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 46</li>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 85</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 15</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 48</li>
             <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 97</li>
         </ul>
       </td>
@@ -1811,8 +1812,8 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 1</li>
-            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 73</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 3</li>
+            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 28</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 73</li>
         </ul>
       </td>
@@ -1838,7 +1839,7 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 52</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 55</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 84</li>
         </ul>
       </td>
@@ -1949,7 +1950,7 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 58</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 43</li>
             <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 77</li>
             <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 94</li>
         </ul>
@@ -1993,7 +1994,7 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       <td>
         <ul>
             <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 59</li>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 74</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 77</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 88</li>
         </ul>
       </td>
@@ -2096,7 +2097,7 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 67</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 34</li>
             <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 79</li>
         </ul>
       </td>
@@ -2122,8 +2123,8 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 66</li>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 75</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 26</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 35</li>
             <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 83</li>
         </ul>
       </td>
@@ -2146,7 +2147,7 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 77</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 24</li>
             <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 85</li>
         </ul>
       </td>
@@ -2171,7 +2172,7 @@ Last updated: <time datetime="2025-11-26T13:41:35.272Z">Wed Nov 26 2025 15:41:35
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 79</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 22</li>
             <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 91</li>
         </ul>
       </td>

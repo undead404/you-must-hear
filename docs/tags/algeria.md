@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T15:07:55.582Z
+date: 2025-12-04T07:03:37.360Z
 permalink: tags/algeria
 title: algeria
 ---
 
 ## algeria
 
-Last updated: <time datetime="2025-10-28T15:07:55.582Z">Tue Oct 28 2025 17:07:55 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:03:37.360Z">Thu Dec 04 2025 09:03:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -575,7 +575,7 @@ The Algeria tag encompasses music rooted in North African traditions, blending B
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/c5i-bA_FUyk0MmhasuiLaLgNwbSE6JVtA2LCVMv2Wj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNDc5/OC0xMTczNDI2ODg0/LmpwZWc.jpeg" alt="Cover for Made In Medina" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/63a566dbe5dd4af1854765b86b2bf180.png" alt="Cover for Made In Medina" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-11-07</td>
       <td>Rachid Taha</td>
@@ -613,21 +613,20 @@ The Algeria tag encompasses music rooted in North African traditions, blending B
     <tr>
       <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/28a73f3ea36c808706294950132962fc.png" alt="Cover for Amassakoul" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Tinariwen</td>
       <td>Amassakoul</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/africa" | relative_url }}">africa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/african" | relative_url }}">african</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 23</li>
-            <li> <a href="{{ "/tags/mali" | relative_url }}">mali</a> # 31</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 38</li>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 84</li>
+            <li> <a href="{{ "/tags/mali" | relative_url }}">mali</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -820,7 +819,7 @@ The Algeria tag encompasses music rooted in North African traditions, blending B
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/5fgREFsO6XsHHqtROwLO7uIy8rjnb6z7Egt0IGvJwq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTU1/NjgtMTM5NzU0NzI5/Ni00NTc0LmpwZWc.jpeg" alt="Cover for Aman Iman: Water Is Life" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/028e744dcfddacf1a37ce8c6aa250c91.png" alt="Cover for Aman Iman: Water Is Life" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Tinariwen</td>
@@ -833,9 +832,9 @@ The Algeria tag encompasses music rooted in North African traditions, blending B
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 13</li>
             <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 17</li>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 19</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 86</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 81</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 92</li>
         </ul>
       </td>
@@ -843,6 +842,7 @@ The Algeria tag encompasses music rooted in North African traditions, blending B
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/41c506ead036b19535034d58a85561fc.png" alt="Cover for Diwan 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-10-16</td>
       <td>Rachid Taha</td>
@@ -1346,7 +1346,7 @@ The Algeria tag encompasses music rooted in North African traditions, blending B
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 40</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 60</li>
             <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 86</li>
         </ul>
       </td>
@@ -1392,7 +1392,7 @@ The Algeria tag encompasses music rooted in North African traditions, blending B
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/c7wVSWlGT0aW6QKArXn3mcYNNdrWvjBpM6z5Lv4qDlw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDU4/ODQtMTUwNTMxMjA0/My0xMzI4LmpwZWc.jpeg" alt="Cover for Algerian Berber Music" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/430d003fbbd7395c2beb4b70297765e2.png" alt="Cover for Algerian Berber Music" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Various Artists</td>
@@ -1476,11 +1476,11 @@ The Algeria tag encompasses music rooted in North African traditions, blending B
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 31</li>
             <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 53</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 55</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 60</li>
             <li> <a href="{{ "/tags/tunisia" | relative_url }}">tunisia</a> # 63</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1530,6 +1530,7 @@ The Algeria tag encompasses music rooted in North African traditions, blending B
     <tr>
       <td>4</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc6b837124a06bb6c4f7bd8d124782a9.png" alt="Cover for Ghouyoum - Single" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Djouher</td>
@@ -1550,6 +1551,7 @@ The Algeria tag encompasses music rooted in North African traditions, blending B
     <tr>
       <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/03ddf254561009843309854f6bb4eef1.png" alt="Cover for Kingdom - EP" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Djouher</td>
@@ -1745,6 +1747,7 @@ The Algeria tag encompasses music rooted in North African traditions, blending B
     <tr>
       <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9104edfd76231b08735835cf2672c6c.png" alt="Cover for Stories" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Djouher</td>
@@ -1802,6 +1805,7 @@ The Algeria tag encompasses music rooted in North African traditions, blending B
     <tr>
       <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/571c2b551a74921e851e3bbded9fc2e9.png" alt="Cover for 111" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Djouher</td>

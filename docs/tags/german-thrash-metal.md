@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-22T13:43:09.247Z
+date: 2025-12-04T07:11:18.536Z
 permalink: tags/german-thrash-metal
 title: german thrash metal
 ---
 
 ## german thrash metal
 
-Last updated: <time datetime="2025-11-22T13:43:09.247Z">Sat Nov 22 2025 15:43:09 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:11:18.536Z">Thu Dec 04 2025 09:11:18 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -80,7 +80,7 @@ German thrash metal emerged in the 1980s as an aggressive counterpart to the Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 62</li>
+            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -99,7 +99,7 @@ German thrash metal emerged in the 1980s as an aggressive counterpart to the Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 66</li>
+            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -189,7 +189,7 @@ German thrash metal emerged in the 1980s as an aggressive counterpart to the Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 56</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -262,6 +262,7 @@ German thrash metal emerged in the 1980s as an aggressive counterpart to the Ame
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -298,7 +299,6 @@ German thrash metal emerged in the 1980s as an aggressive counterpart to the Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -335,7 +335,7 @@ German thrash metal emerged in the 1980s as an aggressive counterpart to the Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 57</li>
+            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -445,6 +445,7 @@ German thrash metal emerged in the 1980s as an aggressive counterpart to the Ame
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -499,8 +500,7 @@ German thrash metal emerged in the 1980s as an aggressive counterpart to the Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 33</li>
-            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 58</li>
+            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -519,7 +519,7 @@ German thrash metal emerged in the 1980s as an aggressive counterpart to the Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 35</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -629,7 +629,7 @@ German thrash metal emerged in the 1980s as an aggressive counterpart to the Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 38</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -666,7 +666,7 @@ German thrash metal emerged in the 1980s as an aggressive counterpart to the Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 36</li>
+            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -849,7 +849,7 @@ German thrash metal emerged in the 1980s as an aggressive counterpart to the Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 20</li>
+            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1056,6 +1056,7 @@ German thrash metal emerged in the 1980s as an aggressive counterpart to the Ame
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1422,8 +1423,8 @@ German thrash metal emerged in the 1980s as an aggressive counterpart to the Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 50</li>
-            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 64</li>
+            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 51</li>
+            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1442,7 +1443,7 @@ German thrash metal emerged in the 1980s as an aggressive counterpart to the Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 19</li>
+            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1479,7 +1480,6 @@ German thrash metal emerged in the 1980s as an aggressive counterpart to the Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1629,6 +1629,7 @@ German thrash metal emerged in the 1980s as an aggressive counterpart to the Ame
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1812,7 +1813,6 @@ German thrash metal emerged in the 1980s as an aggressive counterpart to the Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 8</li>
         </ul>
       </td>
     </tr>

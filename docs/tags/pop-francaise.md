@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T02:13:23.615Z
+date: 2025-12-04T07:10:34.573Z
 permalink: tags/pop-francaise
 title: pop francaise
 ---
 
 ## pop francaise
 
-Last updated: <time datetime="2025-10-22T02:13:23.615Z">Wed Oct 22 2025 05:13:23 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T07:10:34.573Z">Thu Dec 04 2025 09:10:34 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -55,14 +55,14 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 31</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/WIpYCOBi3FQe0Qyozr64LPWuXVa9bC6Alp3yfUaN8Mg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDA3/OTAwLTE1OTEwMzc0/MzAtNDUxMi5qcGVn.jpeg" alt="Cover for Tempo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/400d843f11de890c023122f8971e8d96.png" alt="Cover for Tempo" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>koline</td>
@@ -86,14 +86,14 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 33</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/WIpYCOBi3FQe0Qyozr64LPWuXVa9bC6Alp3yfUaN8Mg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDA3/OTAwLTE1OTEwMzc0/MzAtNDUxMi5qcGVn.jpeg" alt="Cover for KO" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f033d488ec5ef1a5da7af1debb9d6a82.png" alt="Cover for KO" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>koline</td>
@@ -117,14 +117,14 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 42</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/WIpYCOBi3FQe0Qyozr64LPWuXVa9bC6Alp3yfUaN8Mg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDA3/OTAwLTE1OTEwMzc0/MzAtNDUxMi5qcGVn.jpeg" alt="Cover for Lost" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c28a11434065f9ffa91b3a1e5f4dbdb.png" alt="Cover for Lost" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>koline</td>
@@ -148,15 +148,15 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 7</li>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 64</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 37</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/Lvq7EOXx9Vyb1gn0G0pOsVyucktJVSptOE4lM0_QZ-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODgz/NTktMTU3Mzc2MzUx/NC01NjEyLmpwZWc.jpeg" alt="Cover for Sans filtre" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b342b4c54f17b436fc3d31dfe7e21b21.png" alt="Cover for Sans filtre" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Carla</td>
@@ -174,7 +174,7 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 49</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -199,10 +199,10 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 61</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 95</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 2</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 5</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 69</li>
             <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 96</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -281,7 +281,7 @@ Pop française represents contemporary French-language pop music that blends mel
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/IZYLTNEa00KgGotUJf5PTjRv6oeVppG0jzmK0K12oVU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIy/Mzg5LTE2NzM4MTk2/NjgtMzQ2Ny5qcGVn.jpeg" alt="Cover for 999 - EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d03f824bac6585006c140fe4ec976c19.png" alt="Cover for 999 - EP" style="max-width:120px; height:auto;" />
       </td>
       <td>1990-06-01</td>
       <td>Santa</td>
@@ -302,14 +302,14 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 28</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/K-TnXyIlz5BoLvEhAKdXOCVdy9kyrqvd2WDl90FCI9M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjMy/NDkzLTE2NTU2OTAz/NzgtMzg1My5qcGVn.jpeg" alt="Cover for Paris en Août" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/20ec363e6ab661035d4d019c29ba245b.png" alt="Cover for Paris en Août" style="max-width:120px; height:auto;" />
       </td>
       <td>1990-06-01</td>
       <td>Santa</td>
@@ -330,16 +330,16 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 12</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 46</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 57</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 44</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 55</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/ILPrR0rPr1OlNa6mNrzx1VrG8v0hKhpyJxyp4r92ErM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNjQy/LTEyODMzNjc1NTku/anBlZw.jpeg" alt="Cover for Two Years" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cba4059e34d81ad640543e66812f8e83.png" alt="Cover for Two Years" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Miki</td>
@@ -360,14 +360,14 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 21</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/__9048MDA1jKfCEIhqLgmsLFnfjtIhdpmxxribqjzZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyOTY5/ODMtMTM2MTAzNTc4/OC05NzMxLmpwZWc.jpeg" alt="Cover for Ici et Maintenant" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/131258089f7c231949451c734345ef1d.png" alt="Cover for Ici et Maintenant" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Reb</td>
@@ -395,7 +395,7 @@ Pop française represents contemporary French-language pop music that blends mel
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/Q8YopO3pk2h-F68UsyqWj8w42nG2o7neDuHjwyeoiks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Nzkz/MTctMTMzMjAxNDg2/Mi5qcGVn.jpeg" alt="Cover for Amore Amore" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/963e1e5d4ce660efc71a487ec6bedeb2.png" alt="Cover for Amore Amore" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-03-07</td>
       <td>Cäroline</td>
@@ -477,7 +477,7 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 36</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -507,13 +507,14 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 49</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/085af9743f009ddf0a58d95024b8a3f9.png" alt="Cover for Tendresse" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01</td>
       <td>Elia</td>
@@ -536,8 +537,8 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 10</li>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 65</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 36</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -566,9 +567,9 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 8</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 27</li>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 71</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 30</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 74</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -597,16 +598,17 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 19</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 45</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 50</li>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 81</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 20</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 51</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 56</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/765972ebe787982474159fd58d6de20d.png" alt="Cover for Aurore" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01</td>
       <td>Elia</td>
@@ -629,16 +631,17 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 39</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 61</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 62</li>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 87</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 14</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 39</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 40</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a3a9694d3effc59cedec2c4e8d5e45f.png" alt="Cover for Téléphone" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01</td>
       <td>Elia</td>
@@ -662,10 +665,10 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 45</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 65</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 65</li>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 89</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 12</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 36</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 36</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -702,7 +705,7 @@ Pop française represents contemporary French-language pop music that blends mel
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/Lvq7EOXx9Vyb1gn0G0pOsVyucktJVSptOE4lM0_QZ-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODgz/NTktMTU3Mzc2MzUx/NC01NjEyLmpwZWc.jpeg" alt="Cover for L&#39;autre moi" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b52e1d5905f1de87ce017f029662f28f.png" alt="Cover for L&#39;autre moi" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-04-18</td>
       <td>Carla</td>
@@ -720,9 +723,9 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 31</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 41</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 88</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 13</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 34</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -786,7 +789,7 @@ Pop française represents contemporary French-language pop music that blends mel
     <tr>
       <td>3</td>
       <td>
-          <img src="https://i.discogs.com/g3DQpwPj0QwEm1SgZ19_j9qtdY-Cw5C4zn12Mfvgj4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MzA1/NzgtMTQ2NTUwOTk0/NS0xMzU5LmpwZWc.jpeg" alt="Cover for La Main" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1611934e9e9f8d5e538c2d415849c1c4.png" alt="Cover for La Main" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-06</td>
       <td>Naë</td>
@@ -811,7 +814,7 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 29</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -838,14 +841,14 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 10</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/n9rmzrrd8bI5YZ_glTKRNFTFzQkrRjOMkLmslSUxdOI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDkx/ODY0LTE1MDk3MTM2/MDItMzYzOS5qcGVn.jpeg" alt="Cover for Umusuna" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a422005e47620efddcd2e01fb2582a34.png" alt="Cover for Umusuna" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Flèche Love</td>
@@ -865,7 +868,7 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 73</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -897,7 +900,7 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 34</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -929,14 +932,14 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 53</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>10</td>
       <td>
-          <img src="https://i.discogs.com/qPXTrzF2x0EW7xFiZ05MWbVWZKtw_9JKVtw15UD3Me8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDcy/Njg0LTE1ODYzMzAw/NzQtOTEzNy5qcGVn.jpeg" alt="Cover for Ceux comme toi" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8e18b435d8c12a101bf39412fc4cf83.png" alt="Cover for Ceux comme toi" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-06-12</td>
       <td>phelto</td>
@@ -996,7 +999,7 @@ Pop française represents contemporary French-language pop music that blends mel
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/IsGbPoIX_6W_w0mgKBo8qHm8-4Tf5N6YVapY3F2wI9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjc4/NzUxLTE1MzIwMjE0/NjQtODQ4Mi5qcGVn.jpeg" alt="Cover for Carla" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c77c752b555dcc3f356caeab6f900af.png" alt="Cover for Carla" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-10-27</td>
       <td>Carla</td>
@@ -1015,8 +1018,8 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 34</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 58</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 43</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1034,9 +1037,9 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 14</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 40</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 48</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 53</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 61</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1064,8 +1067,9 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 19</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 80</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 3</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 21</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1099,7 +1103,7 @@ Pop française represents contemporary French-language pop music that blends mel
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/D3P1vdZdz8PIRw4SFj7WXRaYbjutwCCArd3qOv-N7lE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjEx/NTgzLTE1Mzg1NzYx/MDUtNTQ0NS5qcGVn.jpeg" alt="Cover for Humains après tout" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91d204a12d09ae4bef1d1be34b74c3e1.png" alt="Cover for Humains après tout" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-02</td>
       <td>Nell Widmer</td>
@@ -1146,7 +1150,7 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 15</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1206,7 +1210,7 @@ Pop française represents contemporary French-language pop music that blends mel
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/hL6CktfjSlMzrOfMnpzIqosMsXZxNGL7BuquRO3eU5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDU4/MzMyLTE2MTkzNzM3/MzAtNzQ2Ni5qcGVn.jpeg" alt="Cover for Poker" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/985e07fe94ea68bef2aca2c8f8c48325.png" alt="Cover for Poker" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-04-19</td>
       <td>Clara Doxal</td>
@@ -1228,8 +1232,8 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 15</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 32</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 69</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1289,14 +1293,14 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 39</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/WM45eDDVinb8truXSipDuRohXWw0yChzF1v81KSwQ9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTAx/NzYyLTE1Njc4NzUw/OTgtOTUzMi5qcGVn.jpeg" alt="Cover for Il suffit d&#39;y croire (Edition deluxe)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/78435440ca660701a83676019d04e553.png" alt="Cover for Il suffit d&#39;y croire (Edition deluxe)" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-06-21</td>
       <td>Hoshi</td>
@@ -1319,16 +1323,16 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 14</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 31</li>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 73</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 28</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 70</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/WM45eDDVinb8truXSipDuRohXWw0yChzF1v81KSwQ9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTAx/NzYyLTE1Njc4NzUw/OTgtOTUzMi5qcGVn.jpeg" alt="Cover for Il suffit d&#39;y croire (Version deluxe)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/935856874d5dc7c61eb6818b49405aac.png" alt="Cover for Il suffit d&#39;y croire (Version deluxe)" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-06-21</td>
       <td>Hoshi</td>
@@ -1351,12 +1355,12 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 69</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 76</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 93</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 93</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 95</li>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 99</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 2</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 6</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 8</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 8</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 23</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1382,9 +1386,9 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 6</li>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 66</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 81</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 20</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 35</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1443,7 +1447,7 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 66</li>
+            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1472,14 +1476,14 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 68</li>
+            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/fUGOxl3N4qppDLUz309rYyfFmyvQluFSLVt-QQADH1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTky/OTM3LTE2MzgzOTAy/NjAtOTA3Ni5qcGVn.jpeg" alt="Cover for Fatigue" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3cee3a6cb4dd103d5a7ac5e2c6ab58d1.png" alt="Cover for Fatigue" style="max-width:120px; height:auto;" />
       </td>
       <td>2021</td>
       <td>Louisadonna</td>
@@ -1500,7 +1504,7 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 18</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1522,7 +1526,7 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 71</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1548,8 +1552,8 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 54</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 74</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 27</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1575,16 +1579,16 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 13</li>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 71</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 83</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 18</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 30</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/bjw_uzD6x5rCCuX7-x9ehw-TYLcGW-YEok3Vo7Agn3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzAx/MTA5LTE2MTI3MDAy/OTItNjI2Ny5qcGVn.jpeg" alt="Cover for Moins Joli" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/545548f86a57ba5009ef7f97c983ebbd.png" alt="Cover for Moins Joli" style="max-width:120px; height:auto;" />
       </td>
       <td>2021</td>
       <td>Iliona</td>
@@ -1603,9 +1607,9 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 61</li>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 87</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 98</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 3</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 14</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1634,17 +1638,17 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 27</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 51</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 55</li>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 83</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 18</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 46</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 50</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/betjmbeVDg6gL5ylMmhgE9dWlTvzMiECxUXfSUbfKqA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDI0/MTczLTE2MzAxNDQ1/NjYtODQ0My5qcGVn.jpeg" alt="Cover for Rêvalité" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c9033c6108673728797715a78e5593f.png" alt="Cover for Rêvalité" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-03-12</td>
       <td>Thérèse</td>
@@ -1668,7 +1672,7 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 45</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1697,9 +1701,9 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 20</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 34</li>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 76</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 25</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 67</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1729,14 +1733,15 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 24</li>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 87</li>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 92</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 99</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 100</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 100</li>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 100</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 100</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 1</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 1</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 1</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 1</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 2</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 48</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 90</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 92</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 94</li>
             <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 100</li>
         </ul>
       </td>
@@ -1744,7 +1749,7 @@ Pop française represents contemporary French-language pop music that blends mel
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/OhLBQboRC_ygn6oGuMDcdaiISICAjCDG5pZPl1Gmrlk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjEz/MzIxLTE2MjAzMTEw/MTctNzYzNy5qcGVn.jpeg" alt="Cover for CUBE" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd001d449f653aea5e6e671f5b3eb462.png" alt="Cover for CUBE" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-04-29</td>
       <td>Thaïs Lona</td>
@@ -1773,7 +1778,7 @@ Pop française represents contemporary French-language pop music that blends mel
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/SOlH9965pO6iGPTAOxYsRRk3kwQxQeUixvePDYjezg0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjc4/NzkzLTE2MjY3ODI3/NTctNTk3Ni5qcGVn.jpeg" alt="Cover for Étoile flippante" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a008bf718839c6b147d0420adfc5702d.png" alt="Cover for Étoile flippante" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-06-18</td>
       <td>Hoshi</td>
@@ -1796,10 +1801,10 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 43</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 63</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 63</li>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 88</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 13</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 38</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 38</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1829,11 +1834,11 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 5</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 63</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 75</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 77</li>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 92</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 9</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 24</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 26</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 38</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1858,7 +1863,7 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 7</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1904,7 +1909,7 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 76</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1922,7 +1927,8 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 87</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 12</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1944,7 +1950,7 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 17</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1966,7 +1972,7 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 44</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1988,7 +1994,7 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 45</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -2010,7 +2016,7 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 56</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -2037,14 +2043,14 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 11</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/bJolmu1HHHSh46xixu5fjlgTNtb7Mib3W7KtKxy1mj8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc5/NDk4LTE2NDM3MjA2/MTAtNTIxMS5qcGVn.jpeg" alt="Cover for Tête brûlée" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af8f35be1a4fd0ec15d29c96b9e6f5b8.png" alt="Cover for Tête brûlée" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-01-28</td>
       <td>Iliona</td>
@@ -2063,9 +2069,10 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 89</li>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 93</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 100</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 1</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 8</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 11</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -2093,11 +2100,11 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 44</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 56</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 89</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 92</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 97</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 4</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 9</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 13</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 43</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -2125,14 +2132,14 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 36</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/Dq0rgx-0ZnlsgMlDFm2eyLdg-HWZd97S7w3VQHYf1ao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjU4/ODU0LTE2NzI4MTY3/NTEtNDMyOC5qcGVn.jpeg" alt="Cover for Sans amour" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8985bfcc2b2d00683c124bc38c54ff43.png" alt="Cover for Sans amour" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-06-17</td>
       <td>Olympe Chabert</td>
@@ -2154,8 +2161,8 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 11</li>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 66</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 35</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -2184,16 +2191,16 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 12</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 30</li>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 72</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 29</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 71</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/9FcO1OUJHpjUlqyElCTaTmXBZ9v_RVkkPMRIs6mhmUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIy/Mzg5LTE2NjMyNTM3/MTgtNzAyNy5qcGVn.jpeg" alt="Cover for 999" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/030f45dea7cb2f61148188f6547ad255.png" alt="Cover for 999" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-09</td>
       <td>Santa</td>
@@ -2214,9 +2221,9 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 50</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 68</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 75</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 26</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 33</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -2238,14 +2245,14 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 54</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/tI8D7nguLp-uuCtbGKCVYNU_Ii6UJopqrYpelJ4xzEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzEx/MTAwLTE2ODYxMjMz/MzgtODU3My5qcGVn.jpeg" alt="Cover for Horizon" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/df86e7e27358b5ba11c9b81b81a36045.png" alt="Cover for Horizon" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Coline Rio</td>
@@ -2265,15 +2272,15 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 10</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 51</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 50</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/tI8D7nguLp-uuCtbGKCVYNU_Ii6UJopqrYpelJ4xzEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzEx/MTAwLTE2ODYxMjMz/MzgtODU3My5qcGVn.jpeg" alt="Cover for On m&#39;a dit" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f88ebdbaedb6f4f1c41d13e40decc08b.png" alt="Cover for On m&#39;a dit" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Coline Rio</td>
@@ -2293,15 +2300,15 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 43</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 59</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 42</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/tI8D7nguLp-uuCtbGKCVYNU_Ii6UJopqrYpelJ4xzEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzEx/MTAwLTE2ODYxMjMz/MzgtODU3My5qcGVn.jpeg" alt="Cover for Lourd et délicat" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8022ce9c849c32f10fc23494f2a418e4.png" alt="Cover for Lourd et délicat" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Coline Rio</td>
@@ -2321,8 +2328,8 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 55</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 68</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 33</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -2351,7 +2358,7 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 35</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -2380,14 +2387,14 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 51</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/SjXuBnbVQkqx9CGXXJQfgsWVMjj52rLU1Hva3wyKOJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzQ2/OTAxLTE3MTYzNTE0/MjUtMTMxMC5qcGVn.jpeg" alt="Cover for VENISE" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9a7cfc163b9b53a598646370cb76e71.png" alt="Cover for VENISE" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-03-24</td>
       <td>Leslie Medina</td>
@@ -2412,7 +2419,7 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 14</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -2444,7 +2451,7 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 16</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -2476,14 +2483,14 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 22</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/SjXuBnbVQkqx9CGXXJQfgsWVMjj52rLU1Hva3wyKOJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzQ2/OTAxLTE3MTYzNTE0/MjUtMTMxMC5qcGVn.jpeg" alt="Cover for AMOURS IMAGINAIRES" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa8180cb1b91e9fa951a1951868f9026.png" alt="Cover for AMOURS IMAGINAIRES" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-03-24</td>
       <td>Leslie Medina</td>
@@ -2508,8 +2515,8 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 11</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 28</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 73</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -2538,15 +2545,15 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 44</li>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 80</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 21</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/SjXuBnbVQkqx9CGXXJQfgsWVMjj52rLU1Hva3wyKOJA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzQ2/OTAxLTE3MTYzNTE0/MjUtMTMxMC5qcGVn.jpeg" alt="Cover for T&#39;IRAS OÙ" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4fc90ac115be4e01b4410b4e277da2b4.png" alt="Cover for T&#39;IRAS OÙ" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-03-24</td>
       <td>Leslie Medina</td>
@@ -2597,7 +2604,7 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 7</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -2648,7 +2655,7 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 46</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -2673,13 +2680,14 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 48</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0e4946a26a75352f6c3cfc2f94ca324.png" alt="Cover for Construire un feu" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Vickie Cherie</td>
@@ -2700,7 +2708,7 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 4</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -2725,13 +2733,14 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 67</li>
+            <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbca7e0dbb5ab2a65a3e7d42e077281e.png" alt="Cover for Trust the Process" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Vickie Cherie</td>
@@ -2752,9 +2761,9 @@ Pop française represents contemporary French-language pop music that blends mel
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 30</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 52</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 56</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 45</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 49</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -2788,6 +2797,7 @@ Pop française represents contemporary French-language pop music that blends mel
     <tr>
       <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34c301e7302a58a5b3bb447701292d27.png" alt="Cover for À toi (Joe Dassin)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Multi-interprètes</td>
@@ -2811,6 +2821,7 @@ Pop française represents contemporary French-language pop music that blends mel
     <tr>
       <td>22</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/820ba1ea0ee55a545371bb30adfd5268.png" alt="Cover for À moitié chiens" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Château Forte</td>

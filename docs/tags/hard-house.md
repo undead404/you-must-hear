@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T18:46:50.967Z
+date: 2025-12-04T07:08:55.152Z
 permalink: tags/hard-house
 title: hard house
 ---
 
 ## hard house
 
-Last updated: <time datetime="2025-11-17T18:46:50.967Z">Mon Nov 17 2025 20:46:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:08:55.152Z">Thu Dec 04 2025 09:08:55 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -87,7 +87,7 @@ Hard house is an aggressive, high-energy evolution of house music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 29</li>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -180,7 +180,7 @@ Hard house is an aggressive, high-energy evolution of house music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 22</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -297,7 +297,7 @@ Hard house is an aggressive, high-energy evolution of house music characterized 
       <td>
         <ul>
             <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 83</li>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 95</li>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -417,8 +417,8 @@ Hard house is an aggressive, high-energy evolution of house music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 46</li>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 83</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 43</li>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -501,8 +501,8 @@ Hard house is an aggressive, high-energy evolution of house music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 53</li>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 85</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 51</li>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -604,7 +604,7 @@ Hard house is an aggressive, high-energy evolution of house music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 52</li>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -627,8 +627,8 @@ Hard house is an aggressive, high-energy evolution of house music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 59</li>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 88</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 57</li>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -669,7 +669,7 @@ Hard house is an aggressive, high-energy evolution of house music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 58</li>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -689,7 +689,7 @@ Hard house is an aggressive, high-energy evolution of house music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 53</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -714,7 +714,7 @@ Hard house is an aggressive, high-energy evolution of house music characterized 
       <td>
         <ul>
             <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 85</li>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 96</li>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -774,7 +774,7 @@ Hard house is an aggressive, high-energy evolution of house music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 55</li>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -797,7 +797,7 @@ Hard house is an aggressive, high-energy evolution of house music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 30</li>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -894,7 +894,7 @@ Hard house is an aggressive, high-energy evolution of house music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 31</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -989,8 +989,8 @@ Hard house is an aggressive, high-energy evolution of house music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 1</li>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 47</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 54</li>
+            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1013,7 +1013,7 @@ Hard house is an aggressive, high-energy evolution of house music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 36</li>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1034,8 +1034,8 @@ Hard house is an aggressive, high-energy evolution of house music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 76</li>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 94</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 6</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1059,9 +1059,9 @@ Hard house is an aggressive, high-energy evolution of house music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 17</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 15</li>
             <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 59</li>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 79</li>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1105,7 +1105,6 @@ Hard house is an aggressive, high-energy evolution of house music characterized 
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/D6huOBvfjnmXFakRi7sHFESILLqOlOIbcfJ5crorhTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NTI4/MDctMTM5Mzc0MTcz/Ni05MDcxLmpwZWc.jpeg" alt="Cover for ballad of the broken turntable" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-06-13</td>
       <td>SPL</td>
@@ -1167,7 +1166,7 @@ Hard house is an aggressive, high-energy evolution of house music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 6</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1188,7 +1187,7 @@ Hard house is an aggressive, high-energy evolution of house music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 57</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1290,6 +1289,7 @@ Hard house is an aggressive, high-energy evolution of house music characterized 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1334,7 +1334,7 @@ Hard house is an aggressive, high-energy evolution of house music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 31</li>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1358,7 +1358,7 @@ Hard house is an aggressive, high-energy evolution of house music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 53</li>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1395,7 +1395,7 @@ Hard house is an aggressive, high-energy evolution of house music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 22</li>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1442,9 +1442,9 @@ Hard house is an aggressive, high-energy evolution of house music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 18</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 46</li>
             <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 46</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 48</li>
+            <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1467,8 +1467,8 @@ Hard house is an aggressive, high-energy evolution of house music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 54</li>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 87</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 52</li>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1509,7 +1509,7 @@ Hard house is an aggressive, high-energy evolution of house music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 46</li>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1543,9 +1543,9 @@ Hard house is an aggressive, high-energy evolution of house music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 15</li>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 70</li>
-            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 79</li>
+            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 22</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 71</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1612,7 +1612,7 @@ Hard house is an aggressive, high-energy evolution of house music characterized 
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/4X6S3ZsFNtI_mrCMMoqMEfJbuXx0kqE_pRcKqPJ3cHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODA2/NTEtMTMwMDcyNTQ1/OC5qcGVn.jpeg" alt="Cover for Gxchxn" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4077af440e8247c3a948fdd72a73d493.png" alt="Cover for Gxchxn" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03-20</td>
       <td>Guchon</td>
@@ -1666,7 +1666,7 @@ Hard house is an aggressive, high-energy evolution of house music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 41</li>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1689,7 +1689,7 @@ Hard house is an aggressive, high-energy evolution of house music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 48</li>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1756,7 +1756,7 @@ Hard house is an aggressive, high-energy evolution of house music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 44</li>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1802,7 +1802,7 @@ Hard house is an aggressive, high-energy evolution of house music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 42</li>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1847,8 +1847,8 @@ Hard house is an aggressive, high-energy evolution of house music characterized 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 9</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 76</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1895,7 +1895,7 @@ Hard house is an aggressive, high-energy evolution of house music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 49</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1935,15 +1935,15 @@ Hard house is an aggressive, high-energy evolution of house music characterized 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 6</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 79</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/wAUfFq-9zlEvUE0jcgkP7CD1hyHUSTyuU83YpSy2v2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTM5/MDUxLTE1ODcxOTUy/MzYtNjM5My5qcGVn.jpeg" alt="Cover for Hardcore Sound EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1028d41df0b9466d61a96baae29ef904.png" alt="Cover for Hardcore Sound EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-04-17</td>
       <td>Otira</td>
@@ -2038,7 +2038,7 @@ Hard house is an aggressive, high-energy evolution of house music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 5</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -2067,8 +2067,8 @@ Hard house is an aggressive, high-energy evolution of house music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 20</li>
-            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 56</li>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 19</li>
+            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -2098,7 +2098,7 @@ Hard house is an aggressive, high-energy evolution of house music characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 54</li>
+            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 53</li>
         </ul>
       </td>
     </tr>

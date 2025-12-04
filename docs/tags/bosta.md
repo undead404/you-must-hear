@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T02:07:53.485Z
+date: 2025-12-04T07:07:45.494Z
 permalink: tags/bosta
 title: bosta
 ---
 
 ## bosta
 
-Last updated: <time datetime="2025-10-22T02:07:53.485Z">Wed Oct 22 2025 05:07:53 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T07:07:45.494Z">Thu Dec 04 2025 09:07:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -205,7 +205,7 @@ Bosta is a Brazilian popular music style that blends elements of sertanejo, forr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 36</li>
+            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -308,7 +308,7 @@ Bosta is a Brazilian popular music style that blends elements of sertanejo, forr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sertanejo" | relative_url }}">sertanejo</a> # 26</li>
+            <li> <a href="{{ "/tags/sertanejo" | relative_url }}">sertanejo</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -600,7 +600,7 @@ Bosta is a Brazilian popular music style that blends elements of sertanejo, forr
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/RzHxCRZUnBcrXpc71iqlAKfNJi5SfxOZPXsS966N0ck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDAx/ODktMTQxNTkxOTc3/OC00MjQ2LmpwZWc.jpeg" alt="Cover for Latino Ao Vivo 10 Anos" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac7f6d1d995da6d76897dbfcf70c5d0c.png" alt="Cover for Latino Ao Vivo 10 Anos" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Latino</td>
@@ -704,7 +704,7 @@ Bosta is a Brazilian popular music style that blends elements of sertanejo, forr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 66</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -886,7 +886,7 @@ Bosta is a Brazilian popular music style that blends elements of sertanejo, forr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 79</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -923,7 +923,7 @@ Bosta is a Brazilian popular music style that blends elements of sertanejo, forr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sertanejo" | relative_url }}">sertanejo</a> # 37</li>
+            <li> <a href="{{ "/tags/sertanejo" | relative_url }}">sertanejo</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -962,7 +962,7 @@ Bosta is a Brazilian popular music style that blends elements of sertanejo, forr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 47</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 49</li>
             <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 98</li>
         </ul>
       </td>
@@ -1199,7 +1199,7 @@ Bosta is a Brazilian popular music style that blends elements of sertanejo, forr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sertanejo" | relative_url }}">sertanejo</a> # 66</li>
+            <li> <a href="{{ "/tags/sertanejo" | relative_url }}">sertanejo</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1471,7 +1471,7 @@ Bosta is a Brazilian popular music style that blends elements of sertanejo, forr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sertanejo" | relative_url }}">sertanejo</a> # 46</li>
+            <li> <a href="{{ "/tags/sertanejo" | relative_url }}">sertanejo</a> # 54</li>
         </ul>
       </td>
     </tr>

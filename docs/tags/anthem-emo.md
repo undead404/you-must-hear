@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T16:05:32.628Z
+date: 2025-12-04T07:08:49.233Z
 permalink: tags/anthem-emo
 title: anthem emo
 ---
 
 ## anthem emo
 
-Last updated: <time datetime="2025-11-14T16:05:32.628Z">Fri Nov 14 2025 18:05:32 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:08:49.233Z">Thu Dec 04 2025 09:08:49 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -274,7 +274,7 @@ Anthem emo blends the emotional vulnerability of emo with soaring, crowd-ready c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 14</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -493,13 +493,14 @@ Anthem emo blends the emotional vulnerability of emo with soaring, crowd-ready c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 35</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7998deaa7174aff8830893f3b90cf06.png" alt="Cover for A Dance You Won&#39;t Forget - EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-08-16</td>
       <td>Farewell, My Love</td>
@@ -510,8 +511,8 @@ Anthem emo blends the emotional vulnerability of emo with soaring, crowd-ready c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 55</li>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 92</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 9</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -567,7 +568,7 @@ Anthem emo blends the emotional vulnerability of emo with soaring, crowd-ready c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 59</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -647,7 +648,7 @@ Anthem emo blends the emotional vulnerability of emo with soaring, crowd-ready c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 39</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -751,7 +752,7 @@ Anthem emo blends the emotional vulnerability of emo with soaring, crowd-ready c
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/X9jrnWJk2uWn-uYZ43uX77QXUpW0_-m4mUSgC0IED1Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDgy/MTMxLTE1NzU0MTIy/NzMtMjc4Mi5qcGVn.jpeg" alt="Cover for Mirror, Mirror" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/423a0da5b441b3b3c418682721e6ba4e.png" alt="Cover for Mirror, Mirror" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-07-22</td>
       <td>Farewell, My Love</td>
@@ -762,7 +763,7 @@ Anthem emo blends the emotional vulnerability of emo with soaring, crowd-ready c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 57</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -786,7 +787,7 @@ Anthem emo blends the emotional vulnerability of emo with soaring, crowd-ready c
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/4U46raDFQXB7TuP-kIUNy1p2hjvYzUsXtrXerJ87MKI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMDM0/NTctMTQ3NjYwMjI3/Ni0yODkwLmpwZWc.jpeg" alt="Cover for Unfamiliar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/368c22fa9745a76e471cd32f605d5b9d.png" alt="Cover for Unfamiliar" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-10-14</td>
       <td>In Her Own Words</td>
@@ -928,7 +929,7 @@ Anthem emo blends the emotional vulnerability of emo with soaring, crowd-ready c
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/3AoJ99-M0vqcb1RbbXIPC-9NvqtZz_lLaAxwNrpx_NY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQx/MjIxLTE1ODQ0NjAz/MjQtNDUwNi5qcGVn.jpeg" alt="Cover for Nothing More Than This" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11161006ed8cb79ed7dc08566005aff1.png" alt="Cover for Nothing More Than This" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-03-11</td>
       <td>Chief State</td>
@@ -1173,7 +1174,7 @@ Anthem emo blends the emotional vulnerability of emo with soaring, crowd-ready c
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/Mzk2x2U-ofDDKPXhriVT0707PJHBB_MpNwojoigtmCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQx/MzM4LTE1ODQ0NjE0/NzctNjExNS5qcGVn.jpeg" alt="Cover for Africa" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/901f38c0024b43ae2a9da8f4c06f1a1c.png" alt="Cover for Africa" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-03-27</td>
       <td>Chief State</td>
@@ -1211,7 +1212,7 @@ Anthem emo blends the emotional vulnerability of emo with soaring, crowd-ready c
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/Mzk2x2U-ofDDKPXhriVT0707PJHBB_MpNwojoigtmCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQx/MzM4LTE1ODQ0NjE0/NzctNjExNS5qcGVn.jpeg" alt="Cover for Broken Eyes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87fde93eb024476981e47eac8934c4c0.png" alt="Cover for Broken Eyes" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-03-27</td>
       <td>Chief State</td>
@@ -1230,7 +1231,7 @@ Anthem emo blends the emotional vulnerability of emo with soaring, crowd-ready c
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/Mzk2x2U-ofDDKPXhriVT0707PJHBB_MpNwojoigtmCs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQx/MzM4LTE1ODQ0NjE0/NzctNjExNS5qcGVn.jpeg" alt="Cover for Tough Love" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd5c94989336682ec9ffd0e109c9fca7.png" alt="Cover for Tough Love" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-03-27</td>
       <td>Chief State</td>
@@ -1354,7 +1355,7 @@ Anthem emo blends the emotional vulnerability of emo with soaring, crowd-ready c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 11</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1593,7 +1594,7 @@ Anthem emo blends the emotional vulnerability of emo with soaring, crowd-ready c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 39</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1751,7 +1752,7 @@ Anthem emo blends the emotional vulnerability of emo with soaring, crowd-ready c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 13</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1776,7 +1777,7 @@ Anthem emo blends the emotional vulnerability of emo with soaring, crowd-ready c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 22</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1796,7 +1797,7 @@ Anthem emo blends the emotional vulnerability of emo with soaring, crowd-ready c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 47</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1816,7 +1817,7 @@ Anthem emo blends the emotional vulnerability of emo with soaring, crowd-ready c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 50</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1835,7 +1836,7 @@ Anthem emo blends the emotional vulnerability of emo with soaring, crowd-ready c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 66</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 36</li>
         </ul>
       </td>
     </tr>

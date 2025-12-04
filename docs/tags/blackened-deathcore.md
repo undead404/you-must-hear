@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-27T16:23:00.265Z
+date: 2025-12-04T07:08:31.583Z
 permalink: tags/blackened-deathcore
 title: blackened deathcore
 ---
 
 ## blackened deathcore
 
-Last updated: <time datetime="2025-10-27T16:23:00.265Z">Mon Oct 27 2025 18:23:00 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:08:31.583Z">Thu Dec 04 2025 09:08:31 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -90,7 +90,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/0jAms3-PeUz981uizs3DITsgDFC7MkTYnSo_6_sjSAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzIw/NDA4LTE1NTk3MTgw/NjYtNTUyNi5qcGVn.jpeg" alt="Cover for 27" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa460b19f488d1efe1516cdf8260c6e2.png" alt="Cover for 27" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Make Them Suffer</td>
@@ -109,7 +109,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 86</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -127,7 +127,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 72</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -153,6 +153,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
     <tr>
       <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/57216f77e1a14a318955f3e031b00b55.png" alt="Cover for Genocide Chapters" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Dawn of Ashes</td>
@@ -166,13 +167,14 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 36</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f18272548cdc47ecbdc558c05185b445.png" alt="Cover for My Damnation" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-07-19</td>
       <td>Chelsea Grin</td>
@@ -185,14 +187,14 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
       <td>
         <ul>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 2</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 50</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/Fdp1tE_ikg2d1npWr3_A8kqQ9Edcdup7XZrtlV2BEVI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTU3/MTgtMTYzMTEzOTcx/NS0zNjk4LmpwZWc.jpeg" alt="Cover for Until I Feel Nothing" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7646682f518a9dc9dd1d1b83c71e2690.png" alt="Cover for Until I Feel Nothing" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-24</td>
       <td>Carnifex</td>
@@ -210,6 +212,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/689c762a9ae4cafe3d8fd2937a264a3f.png" alt="Cover for Bone Kingdom" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02-14</td>
       <td>Lorna Shore</td>
@@ -229,6 +232,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
     <tr>
       <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a81e1ccbfdfd4a95a46079a206d5b0ef.png" alt="Cover for Neverbloom" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-25</td>
       <td>Make Them Suffer</td>
@@ -241,14 +245,15 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 94</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 7</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/RjPwXui_Pw_lbQk8kP03s15aJN2cfRob1eHbU5Y6Lo0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzOTY2/MzQtMTY0Mjg1MTQx/My05OTYwLmpwZWc.jpeg" alt="Cover for Hidden Reality" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b26e2eece7e841a18c1a408a10d45fcc.png" alt="Cover for Hidden Reality" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Cruelty in the Garden</td>
@@ -289,6 +294,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
     <tr>
       <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ace4734b62284c6dcc6c183f55e69eb3.png" alt="Cover for Maleficium" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-12-20</td>
       <td>Lorna Shore</td>
@@ -320,7 +326,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 57</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -366,6 +372,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
     <tr>
       <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1486649b966142fec2d206d83a43a6a8.png" alt="Cover for Die Without Hope" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-03-04</td>
       <td>Carnifex</td>
@@ -383,7 +390,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
     <tr>
       <td>2</td>
       <td>
-          <img src="https://i.discogs.com/myPF63tZa_3AFcKi16GhDj6rIOi2rRx_zaa-WF8tIas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4ODYz/MDYtMTQ1MDkxOTQ4/NS02MDg2LmpwZWc.jpeg" alt="Cover for Who Stole The Cookie From The Cookie Jar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/766df98a01e50788bac149f675c6e7f4.png" alt="Cover for Who Stole The Cookie From The Cookie Jar" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>WHO STOLE THE COOKIE FROM THE COOKIE JAR</td>
@@ -406,7 +413,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/kv9dLm4U0Mz7wAvg6t96MrVN2cBT_7cY24bgrTREV8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDAx/NTAtMTQ0NDg3ODAx/Ny05MTA2LmpwZWc.jpeg" alt="Cover for Dissentient" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4356eceed6d3ab064a96a2e0fce4804b.png" alt="Cover for Dissentient" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-02-25</td>
       <td>Angelmaker</td>
@@ -420,15 +427,15 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
       <td>
         <ul>
             <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 16</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 23</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 28</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/KbEnSEyvRwTVoCXjIAKchvvKEm_nigj-oCw-0s1TFPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwODA4/MzItMTQzMzI1NTk0/MC0zNzAzLmpwZWc.jpeg" alt="Cover for Old Souls" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/865661d2c69068b26dffb7b130b21c8a.png" alt="Cover for Old Souls" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-05-29</td>
       <td>Make Them Suffer</td>
@@ -441,7 +448,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 79</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -461,7 +468,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 45</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -481,7 +488,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 51</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -519,7 +526,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 85</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -546,7 +553,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/AfEgjRs7w23wMytW9l_uJ-y2cRLXz7uHJXxm9mHk5Vo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTUw/NzQtMTQ1NTQxNTA4/NS04ODMxLmpwZWc.jpeg" alt="Cover for Avian Vassalage" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0798edd1fba2b41daaa9cfd6ac2d54ba.png" alt="Cover for Avian Vassalage" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01-15</td>
       <td>WHO STOLE THE COOKIE FROM THE COOKIE JAR</td>
@@ -570,7 +577,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/oxEMlmEDrXq7xZITkeygDj6YWEhVwnY7IarOmOlTTms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTQw/NDktMTQ1ODAzMTQ4/NS01NTM0LmpwZWc.jpeg" alt="Cover for Through Existence" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d4cc7a97b067dd4674fd88ee9ac957d.png" alt="Cover for Through Existence" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-02-05</td>
       <td>An Argency</td>
@@ -612,7 +619,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
     <tr>
       <td>19</td>
       <td>
-          <img src="https://i.discogs.com/HL0OuEJ36Odd4xAI9eSayHD3567FH_neH8H2GbG9ixk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NjM2/NzctMTQ3MDM0MTkw/OS04NzkzLmpwZWc.jpeg" alt="Cover for Requiem Aeternam" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c29a0696cdbfaaeb83eb6b3af120bbc4.png" alt="Cover for Requiem Aeternam" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-06-06</td>
       <td>Hater</td>
@@ -632,7 +639,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/T05CsKW-ffGziPwXOZ1WZQ-WwDfipRI4qsb7hY_ZVZw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzIw/MzkyLTE1NTk3MTgw/MzEtODIzMi5qcGVn.jpeg" alt="Cover for Ether" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e581bce8303736d76e33c7962d58dc99.png" alt="Cover for Ether" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-06-14</td>
       <td>Make Them Suffer</td>
@@ -648,7 +655,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 81</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -686,7 +693,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 26</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -706,7 +713,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 40</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -726,7 +733,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 58</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -766,7 +773,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 73</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -786,7 +793,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 76</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -806,7 +813,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 88</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -827,7 +834,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 82</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -963,7 +970,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 49</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1040,8 +1047,8 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 57</li>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 66</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 35</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1156,8 +1163,8 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 5</li>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 49</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 52</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1180,9 +1187,9 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 49</li>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 59</li>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 80</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 21</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 43</li>
+            <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1218,7 +1225,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 43</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1389,8 +1396,8 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 32</li>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 98</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 3</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1473,7 +1480,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/-EWVR6AcDHCuUmqsSppVxlYAQggbjlr3EGue3vcDP7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODg3/NDQ3LTE3MDg2MjQ0/OTAtMjEwMi5qcGVn.jpeg" alt="Cover for The Void Eternal" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7417d8436d84fb3e7e6581f7b2a3bc1d.png" alt="Cover for The Void Eternal" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-22</td>
       <td>Art of Attrition</td>
@@ -1509,7 +1516,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 52</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1529,7 +1536,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 22</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1550,7 +1557,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 32</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1570,7 +1577,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 37</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1590,7 +1597,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 61</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1610,7 +1617,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 67</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1630,7 +1637,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 74</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1650,7 +1657,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 92</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1668,7 +1675,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 99</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1693,7 +1700,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/8lQqJBPl3O5EvvEMSiPaxWyLCLT5Ns0RdfZEZ3k6jY4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODk1/ODk4LTE2NjYzNTg2/NDktNzMyMy5qcGVn.jpeg" alt="Cover for Magno Interitus" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0595f7283222e37eb2c7b280021b0ef2.png" alt="Cover for Magno Interitus" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-10-21</td>
       <td>Cabal</td>
@@ -1820,7 +1827,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 30</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1859,7 +1866,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 75</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1885,6 +1892,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
     <tr>
       <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5ed6d87f59e405eb5c4c49a0ed2cff5.png" alt="Cover for Flatline" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Hymn For The Fallen</td>
@@ -1905,6 +1913,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
     <tr>
       <td>12</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b17defea822bce00f6d6d74fd4f77560.png" alt="Cover for Circling the Drain" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Shell Complex</td>
@@ -1968,6 +1977,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
     <tr>
       <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6622f560e10881e29f162a5b47bdfaec.png" alt="Cover for Scarlet" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Sunscourge</td>
@@ -1990,6 +2000,7 @@ Blackened deathcore fuses the atmospheric darkness and tremolo-picked riffs of b
     <tr>
       <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/423e2144976b7ce002687a0a2ac9fe83.png" alt="Cover for Wraith" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Sunscourge</td>

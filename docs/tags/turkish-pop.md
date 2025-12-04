@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T15:09:59.994Z
+date: 2025-12-04T07:08:02.127Z
 permalink: tags/turkish-pop
 title: turkish pop
 ---
 
 ## turkish pop
 
-Last updated: <time datetime="2025-10-28T15:09:59.994Z">Tue Oct 28 2025 17:09:59 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:08:02.127Z">Thu Dec 04 2025 09:08:02 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -146,6 +146,7 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
     <tr>
       <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbcd2c1b98690323849a73d732ec3d90.png" alt="Cover for Yine Sensiz" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-12-21</td>
       <td>Tarkan</td>
@@ -184,6 +185,7 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
     <tr>
       <td>64</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da66af88185c1f35897e9232da2a9dfb.png" alt="Cover for Alev Alev" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Ayşegül Aldinç</td>
@@ -275,7 +277,7 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/8OylIHj7tA1BrxNgTRW1aOd9TPZayy9BXunuIhCNo3I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzE1/MjUzLTE1MjExNDMw/MzItNDc0Ny5qcGVn.jpeg" alt="Cover for Kapılar Ardında" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/41c73b99e13041d9c1e8d0edd80b2705.png" alt="Cover for Kapılar Ardında" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Mask</td>
@@ -290,7 +292,7 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a> # 23</li>
+            <li> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -422,7 +424,7 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/IhqxLPEOLlGzdpEK-l8_gZ2NfWACQdz09YEQ9uyoFAk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjE3/Mjc3LTE0OTM1NjYz/ODQtNzEzMy5tcG8.jpeg" alt="Cover for Hümeyra (Türk Pop Tarihi)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5e97a308d1453fe69628021f58fdd20.png" alt="Cover for Hümeyra (Türk Pop Tarihi)" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Hümeyra</td>
@@ -458,7 +460,7 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/nrKMb4VH0FUjrid4C6mOchNvCei50vJ94UlcSk4TBIo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTM5/MTgtMTQ2MzE0OTMx/Ny0zNjIxLmpwZWc.jpeg" alt="Cover for Tarkan Best Of The Tarkan 2011 Albümü Şarkıları" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee8f8336a1024eb4ce351cfc99ad975d.png" alt="Cover for Tarkan Best Of The Tarkan 2011 Albümü Şarkıları" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Tarkan</td>
@@ -536,6 +538,7 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec92d790018a4e0eb70968792e9648b2.png" alt="Cover for Elbette" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-11-30</td>
       <td>Candan Erçetin</td>
@@ -568,15 +571,15 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 44</li>
-            <li> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a> # 59</li>
+            <li> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a> # 37</li>
+            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/7qneFMWOAZgbvlOuVtWQp3cR_Ly8AbUsXkQjc0Qzoyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTYw/MjctMTI4NzUyNzQx/MC5qcGVn.jpeg" alt="Cover for Nefes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/82f53e62f21f23c5a985f0e60f28d3ff.png" alt="Cover for Nefes" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Ayşegül Aldinç</td>
@@ -607,26 +610,6 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>66</td>
-      <td>
-          <img src="https://i.discogs.com/z44XEW6AWbtmL_L915BBAw3DbIMp3IAIf3lGpsh773Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDky/OC0xNjQ4MjA5NzAx/LTY1OTMuanBlZw.jpeg" alt="Cover for Nildunyasi" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>Nil Karaibrahimgil</td>
-      <td>Nildunyasi</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a></li>
-            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/turkish-pop" | relative_url }}">turkish pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -669,9 +652,28 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
       </td>
     </tr>
     <tr>
+      <td>66</td>
+      <td>
+          <img src="https://i.discogs.com/z44XEW6AWbtmL_L915BBAw3DbIMp3IAIf3lGpsh773Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDky/OC0xNjQ4MjA5NzAx/LTY1OTMuanBlZw.jpeg" alt="Cover for Nildunyasi" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Nil Karaibrahimgil</td>
+      <td>Nildunyasi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a></li>
+            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/turkish-pop" | relative_url }}">turkish pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/MXvXBtytkYq7K2lkssbiqu35v89qDeUldvoMxl6aSuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDYz/MzYtMTYyNzE0MTc3/NC05NjY1LmpwZWc.jpeg" alt="Cover for Alagül" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/36f73fcab70636cae27a67f1bc455567.png" alt="Cover for Alagül" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Funda Arar</td>
@@ -689,7 +691,7 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/5a-VSd6tp6LGKqMv_1jhD5ojFOE1Nz4m_8LuL3KCNkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDg0/OTgtMTMzMjY2NTY5/NS5qcGVn.jpeg" alt="Cover for Bir Oluruz Yolunda" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/856bfc65c16a4ccbb4bc2177eda4a376.png" alt="Cover for Bir Oluruz Yolunda" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Tarkan</td>
@@ -721,8 +723,8 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 45</li>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 97</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 4</li>
+            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -762,7 +764,7 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 2</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -787,7 +789,7 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 12</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -812,7 +814,7 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/QOPdBovjLS5o-fRHZ9a5B3Yn71yTlHk4PqY5IMDNytQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzMz/OTIwLTE1ODk4OTQy/MDgtNzQ2Mi5qcGVn.jpeg" alt="Cover for Kara Toprak" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a035bc30f8747b4c78aefc803fd4330.png" alt="Cover for Kara Toprak" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Tarkan</td>
@@ -851,6 +853,7 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
     <tr>
       <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a48580eb0b5640c89313f509a5b45f96.png" alt="Cover for Sevda Yanığı" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Funda Arar</td>
@@ -890,7 +893,7 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/JVLm0Xm_Nwb5QBfx9rtfiaIXKMuChLt1Is72FW5U0EU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NDQ4/Mi0xMzMzODc3MTU1/LmpwZWc.jpeg" alt="Cover for Dudu" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e60720999fc94b319f73e1526374941d.png" alt="Cover for Dudu" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-12</td>
       <td>Tarkan</td>
@@ -902,8 +905,8 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 2</li>
             <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 98</li>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -922,7 +925,7 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 67</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -967,6 +970,7 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
     <tr>
       <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4386fe0e6a564725b6ff5482786cdd01.png" alt="Cover for Aman Doktor" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Candan Erçetin</td>
@@ -1003,6 +1007,7 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
     <tr>
       <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6ab60f4d964aeb22ad1a4ceef69ae34.png" alt="Cover for Aşk Denizi" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-05-05</td>
       <td>Deniz Seki</td>
@@ -1040,7 +1045,7 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/4yaZEEvVxxWjPC2UYXUT75YzERokeeT5TEY6XLR2WdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQ5/MjYtMTMzMjU4OTQ1/My5qcGVn.jpeg" alt="Cover for Bounce" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac0797922d431143836d4d1ef023561a.png" alt="Cover for Bounce" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-10</td>
       <td>Tarkan</td>
@@ -1051,7 +1056,7 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bounce" | relative_url }}">bounce</a> # 61</li>
+            <li> <a href="{{ "/tags/bounce" | relative_url }}">bounce</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1072,7 +1077,7 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 44</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1091,7 +1096,7 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 69</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1129,14 +1134,14 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 60</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/mKtvhksviu3RO6C0701CyKY0H9gn7wdId8ZkrWeeaFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODIx/NS0xMzQ4NzcyOTU0/LTcyODQuanBlZw.jpeg" alt="Cover for Come Closer" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a221046c858b23ebd932e5050f2e835.png" alt="Cover for Come Closer" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-04-07</td>
       <td>Tarkan</td>
@@ -1148,7 +1153,7 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 21</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1169,7 +1174,7 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a> # 76</li>
+            <li> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1207,7 +1212,7 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a> # 75</li>
+            <li> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1227,15 +1232,15 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 28</li>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 41</li>
+            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 27</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/Aq3OB7vaEJdefyxU25YJ_sOfJD_jUflzA40fHNBoTGk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTAy/OTAtMTYwMzQwMzc5/Ny05MDQwLmpwZWc.jpeg" alt="Cover for Start The Fire" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0803bb77e864d16ae6a0bca34c0a1b9b.png" alt="Cover for Start The Fire" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-09</td>
       <td>Tarkan</td>
@@ -1283,7 +1288,7 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 11</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1303,7 +1308,7 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 37</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1384,6 +1389,7 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
     <tr>
       <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b95583c09602174642ccb74bfe96cae3.png" alt="Cover for Metamorfoz" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-12-26</td>
       <td>Tarkan</td>
@@ -1396,13 +1402,14 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 90</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d2d6264e6244d48816c11e77ae9b254.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Tarkan</td>
@@ -1495,7 +1502,7 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/_xOUL-jMHPj9NdUWFrqW7rM3gllhtqBfwaRP7CPadic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzg5/NzQtMTUxODUyOTEx/MC04MDE5LmpwZWc.jpeg" alt="Cover for Hande&#39;ye Neler Oluyor?" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2be80d650f6a48c9a8a858081b684506.png" alt="Cover for Hande&#39;ye Neler Oluyor?" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-01</td>
       <td>Hande Yener</td>
@@ -1619,7 +1626,7 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 31</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1640,7 +1647,7 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 36</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1665,28 +1672,18 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/k5e9iHIboQKu42RVhg4R66bE3o5WtoZAtyTge_HkarU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjA2/ODQtMTQ0MTE4MTE1/OC0zNzQ4LmpwZWc.jpeg" alt="Cover for Eski Dostum Tankla Gelmiş" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/62add568218a4c0fccc362ec82c68dcf.png" alt="Cover for Eski Dostum Tankla Gelmiş" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-09-08</td>
       <td>Adamlar</td>
       <td>Eski Dostum Tankla Gelmiş</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/turkish-pop" | relative_url }}">turkish pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 89</li>
-            <li> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a> # 93</li>
+            <li> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1764,15 +1761,15 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 65</li>
-            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 94</li>
+            <li> <a href="{{ "/tags/asian-female-vocalists" | relative_url }}">asian female vocalists</a> # 7</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/XbPEJoBt8D6EgYCrjFJvNWpXniV-Q0tHTpoB8OEHRUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTQ2/NjctMTQ4NTMzNDU0/My05NDQwLmpwZWc.jpeg" alt="Cover for Biraz Pop Biraz Sezen" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/459f9be25615c8b0c9589aeb0f144710.png" alt="Cover for Biraz Pop Biraz Sezen" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-08-04</td>
       <td>Sezen Aksu</td>
@@ -1827,7 +1824,7 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/sd3hqKmJMsQmBZgX5TKiNrwFLeWN4VAyxo9J0JilUfM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQz/NDAxLTE1MjUxODQ5/MzQtMTk1OC5qcGVn.jpeg" alt="Cover for Akustik Travma" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9818068aa984a27da4c1989beb10a7d1.png" alt="Cover for Akustik Travma" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-02-23</td>
       <td>Yüzyüzeyken Konuşuruz</td>
@@ -1842,50 +1839,39 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 59</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/81I-3AMORBFUZzF-pg7_zix8lu-3LR_Dpdy6bXXLy08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc5/MjMxLTE1Mjg5MDk4/MjUtNzQyNC5qcGVn.jpeg" alt="Cover for Fırtınayt" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e700832b6e8c58a6cbabb30da07a03f.png" alt="Cover for Fırtınayt" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-05-25</td>
       <td>Büyük Ev Ablukada</td>
       <td>Fırtınayt</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/turkish-pop" | relative_url }}">turkish pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 74</li>
-            <li> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a> # 98</li>
+            <li> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a> # 62</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/ClYqz0gUB8fWm_4y9JSb_QNUWCAy3yBeJC1zlesCDMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjQ1/NTA3LTE3MDI5ODcy/MTMtNzY5NC5qcGVn.jpeg" alt="Cover for KADER SK." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0545258a1a61ee0a3944eb8a0380a77.png" alt="Cover for KADER SK." style="max-width:120px; height:auto;" />
       </td>
       <td>2023-12-01</td>
       <td>Yüzyüzeyken Konuşuruz</td>
       <td>KADER SK.</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/turkish-pop" | relative_url }}">turkish pop</a></li>
         </ul>
       </td>
       <td>
@@ -1908,8 +1894,8 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 66</li>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 78</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 23</li>
+            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1936,6 +1922,7 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
     <tr>
       <td>27</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a623a3b53e8ebfd744425cc772c5a20.png" alt="Cover for Bal Dök Yala" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Nurcan Çalışır</td>
@@ -1961,9 +1948,9 @@ Turkish pop blends Western pop music structures with distinctive Anatolian melod
 - [turkish]({{ "/tags/turkish" | relative_url }})
 - [dance]({{ "/tags/dance" | relative_url }})
 - [female vocalists]({{ "/tags/female-vocalists" | relative_url }})
-- [turkish rock]({{ "/tags/turkish-rock" | relative_url }})
 - [world]({{ "/tags/world" | relative_url }})
-- [indie pop]({{ "/tags/indie-pop" | relative_url }})
+- [turkish rock]({{ "/tags/turkish-rock" | relative_url }})
 - [pop rock]({{ "/tags/pop-rock" | relative_url }})
-- [acoustic]({{ "/tags/acoustic" | relative_url }})
-- [neo-psychedelia]({{ "/tags/neo-psychedelia" | relative_url }})
+- [indie pop]({{ "/tags/indie-pop" | relative_url }})
+- [dream pop]({{ "/tags/dream-pop" | relative_url }})
+- [ambient pop]({{ "/tags/ambient-pop" | relative_url }})

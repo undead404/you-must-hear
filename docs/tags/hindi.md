@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T03:40:18.675Z
+date: 2025-12-04T07:12:16.173Z
 permalink: tags/hindi
 title: hindi
 ---
 
 ## hindi
 
-Last updated: <time datetime="2025-11-11T03:40:18.675Z">Tue Nov 11 2025 05:40:18 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:12:16.173Z">Thu Dec 04 2025 09:12:16 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -45,7 +45,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 8</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -69,9 +69,9 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 20</li>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 30</li>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 50</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 51</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 71</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 79</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 85</li>
         </ul>
       </td>
@@ -98,7 +98,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/gnAjh7G0iLZMhzMQGvC93T7nha8M1lSEbzAJOR_kUGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc2/LTAwMS5qcGc.jpeg" alt="Cover for Creature 3D" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9975aea0b10ddabe918b23359f87ea2.png" alt="Cover for Creature 3D" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Various Artists</td>
@@ -116,14 +116,13 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/lZSmQhnC7iz8FzkVUzIR6T4nEwqmf95ZFVOHpmZ7UpM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjYz/ODAtMTM1Mjc3OTg2/OS05NjA0LmpwZWc.jpeg" alt="Cover for Om Shanti Om" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/15f059cf9cdf4bb69d54a32dfa28469d.png" alt="Cover for Om Shanti Om" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Om Shanti Om</td>
       <td>Om Shanti Om</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a></li>
         </ul>
       </td>
       <td>
@@ -274,7 +273,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 86</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -299,7 +298,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/cWvVYG25tXDYXWX-hfcJIDLetnvDstNeAb49JNgqCIM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDkw/ODg4LTE2MDMyNzAz/NTQtODEzMy5qcGVn.jpeg" alt="Cover for Dabangg" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/105c3478e46e46cac60ad3bba613f134.png" alt="Cover for Dabangg" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Rahat Fateh Ali Khan</td>
@@ -333,9 +332,9 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 33</li>
-            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 74</li>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 91</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 10</li>
+            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 27</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -356,8 +355,8 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 3</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 25</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -379,8 +378,8 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 34</li>
             <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 51</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -416,7 +415,6 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       <td>
         <ul>
             <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 100</li>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -456,8 +454,8 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 23</li>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 32</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 69</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 76</li>
             <li> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a> # 97</li>
         </ul>
       </td>
@@ -533,8 +531,8 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 43</li>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 57</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 44</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -554,7 +552,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 54</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -574,7 +572,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 58</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -592,7 +590,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 42</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -667,7 +665,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 87</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -763,10 +761,10 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 81</li>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 88</li>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 90</li>
-            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 95</li>
+            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 5</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 10</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 12</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -788,6 +786,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       <td>
         <ul>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 75</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -808,7 +807,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 67</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -828,7 +827,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 95</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -846,8 +845,8 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 83</li>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 99</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 2</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -882,7 +881,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 49</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -903,7 +902,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 52</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 49</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 77</li>
         </ul>
       </td>
@@ -924,7 +923,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 37</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 62</li>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 89</li>
         </ul>
       </td>
@@ -946,7 +945,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 79</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -990,7 +989,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/SJhRsOD9AjKNOrN-Guwi_rb2k6BsU-Vo48nwYo0SZHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTkx/MjEtMTI3MTQ2OTUy/NC5qcGVn.jpeg" alt="Cover for Raavan" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/38ac8cfbdeb1c6b849910f47e01a5955.png" alt="Cover for Raavan" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>A.R. Rahman</td>
@@ -1008,7 +1007,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/SJhRsOD9AjKNOrN-Guwi_rb2k6BsU-Vo48nwYo0SZHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTkx/MjEtMTI3MTQ2OTUy/NC5qcGVn.jpeg" alt="Cover for Tamasha" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/25e98cce872a1c76c24e7b4a29ec45ef.png" alt="Cover for Tamasha" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>A.R. Rahman</td>
@@ -1027,6 +1026,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5a1d9516f02463b1846ff395797f748.png" alt="Cover for Om Shanti Om" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09-18</td>
       <td>Vishal-Shekhar</td>
@@ -1039,14 +1039,14 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 97</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/MIDlyki3ljdPy9xKGpYGKfhKLnpIfV_CBXxW6KcJXYk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNzA0/ODktMTQ1NjU1OTQx/NC04NDU1LmpwZWc.jpeg" alt="Cover for Ajab Prem Ki Ghazab Kahani" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/75a84470bf234cb59754255485bbc043.png" alt="Cover for Ajab Prem Ki Ghazab Kahani" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-01-08</td>
       <td>Atif Aslam</td>
@@ -1149,7 +1149,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 53</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 48</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 92</li>
         </ul>
       </td>
@@ -1170,7 +1170,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 80</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1193,8 +1193,8 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 85</li>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 97</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 3</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1214,7 +1214,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 1</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1255,7 +1255,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/KtTtmxAWndSfng_XCQ8CH3b07oy3dX6kxAbC9JJ5jhI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzU2/NTYtMTI5ODg1Nzg2/My5qcGVn.jpeg" alt="Cover for Anjaana Anjaani" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/917c754cfdf64c05ccc283f19289b09b.png" alt="Cover for Anjaana Anjaani" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-09</td>
       <td>Lucky Ali</td>
@@ -1286,7 +1286,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 41</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1307,8 +1307,8 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 50</li>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 62</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 39</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1370,13 +1370,14 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 53</li>
+            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca7bffb915faf1b582ef95139a87f2f2.png" alt="Cover for Bol Bachchan" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06-07</td>
       <td>Himesh Reshammiya</td>
@@ -1415,6 +1416,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
     <tr>
       <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/86a04ecbf9a6452ac52424ad4642deea.png" alt="Cover for Shortcut Romeo" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-05-29</td>
       <td>Himesh Reshammiya</td>
@@ -1468,7 +1470,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
     <tr>
       <td>1</td>
       <td>
-          <img src="https://i.discogs.com/6Gpu34eFQZlrAsF585Quaglnhn6GsGlJ1GFrrLa9ZG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MjE5/NjUtMTU2MzI2MTA1/OC0zMzg2LmpwZWc.jpeg" alt="Cover for Yeh Jawaani Hai Deewani" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d16233ca01a7a0e20d280fe935d4460b.png" alt="Cover for Yeh Jawaani Hai Deewani" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Arijit Singh</td>
@@ -1547,7 +1549,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/vLc1P11RLWcELRJOHOKxSjw-Xp2cWvegZ9qWpTix0zg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODcz/NDYwLTE1MDU3Mzkw/ODgtNTAxNS5qcGVn.jpeg" alt="Cover for Ek Villain" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4527f03503234b88cb1138edadb8a8b5.png" alt="Cover for Ek Villain" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-03-15</td>
       <td>Arijit Singh</td>
@@ -1567,7 +1569,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/6Gpu34eFQZlrAsF585Quaglnhn6GsGlJ1GFrrLa9ZG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MjE5/NjUtMTU2MzI2MTA1/OC0zMzg2LmpwZWc.jpeg" alt="Cover for Barfi!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/32da5705b73341c6c1f821a0a033701f.png" alt="Cover for Barfi!" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-03-15</td>
       <td>Arijit Singh</td>
@@ -1586,7 +1588,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/6Gpu34eFQZlrAsF585Quaglnhn6GsGlJ1GFrrLa9ZG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MjE5/NjUtMTU2MzI2MTA1/OC0zMzg2LmpwZWc.jpeg" alt="Cover for Aashiqui 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/23b690a01e7711b0f67d23199f17561b.png" alt="Cover for Aashiqui 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-03-15</td>
       <td>Arijit Singh</td>
@@ -1624,7 +1626,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/zGpFdByElZSp1hiF1v7C9cNk_24GbkC317b6sZ7-V-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MTM2/NDktMTUzMDM2Njg5/My05MzA1LmpwZWc.jpeg" alt="Cover for Dil Se" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10f4f0692ff61504c29bf5cc417d2b72.png" alt="Cover for Dil Se" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-04</td>
       <td>A.R. Rahman</td>
@@ -1637,7 +1639,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 64</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1658,8 +1660,8 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 82</li>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 93</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 7</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1730,8 +1732,8 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 36</li>
             <li> <a href="{{ "/tags/hungarian" | relative_url }}">hungarian</a> # 36</li>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 65</li>
             <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 90</li>
         </ul>
       </td>
@@ -1750,7 +1752,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 59</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1769,7 +1771,7 @@ Hindi music encompasses songs performed in the Hindi language, predominantly ori
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 48</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 53</li>
         </ul>
       </td>
     </tr>

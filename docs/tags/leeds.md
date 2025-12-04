@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-12T17:26:19.880Z
+date: 2025-12-04T07:09:27.004Z
 permalink: tags/leeds
 title: leeds
 ---
 
 ## leeds
 
-Last updated: <time datetime="2025-11-12T17:26:19.880Z">Wed Nov 12 2025 19:26:19 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:09:27.004Z">Thu Dec 04 2025 09:09:27 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -99,7 +99,7 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 38</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -233,7 +233,7 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 70</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -554,7 +554,7 @@ Leeds represents the diverse musical output from the northern English city, span
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/Zw6DYP3lO1-M6cIMMlgY_tXKE2o79u4MUHjS9l4pxzw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTMx/MDU1LTE1NjQzMjc0/NjYtMTg2My5qcGVn.jpeg" alt="Cover for Unicorn" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5f114f95bce4bafa17c88fc526db4fd.png" alt="Cover for Unicorn" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-05-15</td>
       <td>Whores Whores Whores</td>
@@ -627,7 +627,7 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 22</li>
+            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -788,7 +788,7 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 34</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -899,24 +899,19 @@ Leeds represents the diverse musical output from the northern English city, span
       <td>The Heavens</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britain" | relative_url }}">britain</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/leeds" | relative_url }}">leeds</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/northern-soul" | relative_url }}">northern soul</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 29</li>
             <li> <a href="{{ "/tags/northern-soul" | relative_url }}">northern soul</a> # 61</li>
-            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 62</li>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 72</li>
+            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 63</li>
             <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 93</li>
         </ul>
       </td>
@@ -1059,8 +1054,8 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 3</li>
             <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 69</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1084,7 +1079,7 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sheffield" | relative_url }}">sheffield</a> # 35</li>
+            <li> <a href="{{ "/tags/sheffield" | relative_url }}">sheffield</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1170,7 +1165,7 @@ Leeds represents the diverse musical output from the northern English city, span
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/7E2vp7kUTg28-_FY-JbzEDRpWjTNeu6e3IcffTAlm2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTY1/NTktMTY1MDQ2ODE1/OC05NzMwLmpwZWc.jpeg" alt="Cover for Able Archer" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c53bad089b9d48189a24463beb1dbee1.png" alt="Cover for Able Archer" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>I Concur</td>
@@ -1317,7 +1312,7 @@ Leeds represents the diverse musical output from the northern English city, span
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/EmqNzxXEsynmah3ZzQZuq_eADjvx0EwdmomanWZ8_ow/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjE1/NTktMTI4NTM1OTI1/Ny5qcGVn.jpeg" alt="Cover for Riser" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fa67d1f17a84e6da7f7ffb67a3c7bc4.png" alt="Cover for Riser" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-07-12</td>
       <td>Fieldhead</td>
@@ -1333,14 +1328,14 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vancouver" | relative_url }}">vancouver</a> # 85</li>
+            <li> <a href="{{ "/tags/vancouver" | relative_url }}">vancouver</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/Pqeva18Q4f2E541BYUkKmaOQwmCRAwaYW7gOJThTaQc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTg5/MTMtMTY2ODYzMzA2/NC0zNjU4LmpwZWc.jpeg" alt="Cover for The Donor" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b54de14cc904ecab25e4f0c3ed18f71.png" alt="Cover for The Donor" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11</td>
       <td>Mob Rules</td>
@@ -1378,7 +1373,7 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 55</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 46</li>
             <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 85</li>
         </ul>
       </td>
@@ -1475,14 +1470,14 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sheffield" | relative_url }}">sheffield</a> # 60</li>
+            <li> <a href="{{ "/tags/sheffield" | relative_url }}">sheffield</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>12</td>
       <td>
-          <img src="https://i.discogs.com/Lfcmip2L8BrBYKUgUt7MUCNhRuGTDS32xYrtEW_CoCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTky/MjU1LTE1MDc4MTg2/MTgtOTc0MS5qcGVn.jpeg" alt="Cover for Pedant" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/47e58b0b5b164d20aeb26d710adcb614.png" alt="Cover for Pedant" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-11</td>
       <td>Magnapinna</td>
@@ -1651,9 +1646,7 @@ Leeds represents the diverse musical output from the northern English city, span
       <td>A Word of Science</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 88 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
         </ul>
       </td>
       <td>
@@ -1725,13 +1718,14 @@ Leeds represents the diverse musical output from the northern English city, span
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 42</li>
+            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e550cdf1f9a142e4b771425890ddd516.png" alt="Cover for Escape Rope" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Cicerone Dead</td>
@@ -2018,6 +2012,7 @@ Leeds represents the diverse musical output from the northern English city, span
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6c5050e682a401cbb5c24a98091878f.png" alt="Cover for Nine" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>¡Forward, Russia!</td>
