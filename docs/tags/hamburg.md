@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-10T04:12:39.766Z
+date: 2025-12-03T21:38:52.252Z
 permalink: tags/hamburg
 title: hamburg
 ---
 
 ## hamburg
 
-Last updated: <time datetime="2025-11-10T04:12:39.766Z">Mon Nov 10 2025 06:12:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T21:38:52.252Z">Wed Dec 03 2025 23:38:52 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -69,6 +69,7 @@ The Hamburg tag represents the diverse musical output from Germany&#39;s port ci
     <tr>
       <td>39</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dff47ca29002e27b5db45a0b77d8203d.png" alt="Cover for Live" style="max-width:120px; height:auto;" />
       </td>
       <td>1975</td>
       <td>Atlantis</td>
@@ -148,7 +149,7 @@ The Hamburg tag represents the diverse musical output from Germany&#39;s port ci
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/NtT63Ry6tC9EF5Ri8sgS5crnyznRG87VBOqoFOFQKlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODgx/MjUtMTYwMTc3MTEz/Ni02NDA4LmpwZWc.jpeg" alt="Cover for Live Punk Club" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbaf801364d14a08ab5cb7731aecc812.png" alt="Cover for Live Punk Club" style="max-width:120px; height:auto;" />
       </td>
       <td>1983-04-15</td>
       <td>Slime</td>
@@ -165,15 +166,15 @@ The Hamburg tag represents the diverse musical output from Germany&#39;s port ci
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 2</li>
-            <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 48</li>
+            <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 53</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/GRH5CoLKkMb9IvvUoKiywQdgv2-DA13oTG7S8cBAzMo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzA2/OC0xMzU3Mjk5NTEx/LTMwMDcuanBlZw.jpeg" alt="Cover for Musik Aus Der Grauzone" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4e6b606c0f1a3674730d0dbef1e7007.png" alt="Cover for Musik Aus Der Grauzone" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Asmus Tietchens</td>
@@ -310,7 +311,7 @@ The Hamburg tag represents the diverse musical output from Germany&#39;s port ci
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-hip-hop" | relative_url }}">german hip hop</a> # 72</li>
+            <li> <a href="{{ "/tags/german-hip-hop" | relative_url }}">german hip hop</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -329,14 +330,14 @@ The Hamburg tag represents the diverse musical output from Germany&#39;s port ci
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-hip-hop" | relative_url }}">german hip hop</a> # 99</li>
+            <li> <a href="{{ "/tags/german-hip-hop" | relative_url }}">german hip hop</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/8BVjVSI5Mijdt11ZLNK2_g4tyIKQZDXBeL9UBnDknWU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDU4/NTQtMTQ5MjQ0MjAz/OC03NjkzLmpwZWc.jpeg" alt="Cover for Everything Louder Than Everyone Else" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0b09b4845b74f46855523b446ae8eaf.png" alt="Cover for Everything Louder Than Everyone Else" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-03-09</td>
       <td>Motörhead</td>
@@ -351,8 +352,8 @@ The Hamburg tag represents the diverse musical output from Germany&#39;s port ci
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 52</li>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 79</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 22</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -450,7 +451,7 @@ The Hamburg tag represents the diverse musical output from Germany&#39;s port ci
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 74</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -571,7 +572,7 @@ The Hamburg tag represents the diverse musical output from Germany&#39;s port ci
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/2pRC6yDPj3_Oz8DxUoXb17Kf8jerWy2PbF658Bo303Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzIz/OTk1LTE1MzI5NTAz/MTYtODIwOC5qcGVn.jpeg" alt="Cover for Kante Akustik Sessions" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/01dbf771d5c84f999367059782fbb081.png" alt="Cover for Kante Akustik Sessions" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-01-06</td>
       <td>Kante</td>
@@ -797,7 +798,7 @@ The Hamburg tag represents the diverse musical output from Germany&#39;s port ci
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 24</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -864,7 +865,7 @@ The Hamburg tag represents the diverse musical output from Germany&#39;s port ci
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/FM5D6W0bqeV5eXhhBvGoAoC24K8ZRXoRyz0qXuJRY2A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDgw/MTAtMTE5MjYwMTQx/MS5qcGVn.jpeg" alt="Cover for Frerk (aer009)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8553139a9ddbaa06bdbb0332a377f366.png" alt="Cover for Frerk (aer009)" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-07-24</td>
       <td>My First Trumpet</td>
@@ -884,7 +885,8 @@ The Hamburg tag represents the diverse musical output from Germany&#39;s port ci
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 74</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 8</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 26</li>
             <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 99</li>
         </ul>
       </td>
@@ -914,7 +916,7 @@ The Hamburg tag represents the diverse musical output from Germany&#39;s port ci
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/abSEmEaLJi6LJcutFW1fIgTWPrO4reExQ_7bS16_r5k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjc0/MDEtMTIzMzA4NzQ5/OC5qcGVn.jpeg" alt="Cover for Masters Of The Universe" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/96880d95caf549d4963ad05e48601306.png" alt="Cover for Masters Of The Universe" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-11-16</td>
       <td>Mikrofisch</td>
@@ -949,7 +951,7 @@ The Hamburg tag represents the diverse musical output from Germany&#39;s port ci
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 79</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1035,6 +1037,7 @@ The Hamburg tag represents the diverse musical output from Germany&#39;s port ci
     <tr>
       <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/89275b5f1bb0b2a2df5edc9079d55c8f.png" alt="Cover for Haben Haben" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-09</td>
       <td>Prinz König</td>
@@ -1052,7 +1055,7 @@ The Hamburg tag represents the diverse musical output from Germany&#39;s port ci
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/8ilbW_JpoMO6IUb776JbaNclbys-RjSr_t8fjEP7ywM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMTU3/MzctMTU1NTAwNTAz/MC0zMzk0LmpwZWc.jpeg" alt="Cover for Treibstoff" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11d3e1e0c93e0cd67bb69bedc3673667.png" alt="Cover for Treibstoff" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-26</td>
       <td>Der Fall Böse</td>
@@ -1072,7 +1075,7 @@ The Hamburg tag represents the diverse musical output from Germany&#39;s port ci
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/aXLZQWvMZsG3iken3rskDqbTvA3zof93ntN1vdLgl6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzE2/NjAtMTIzNTkwNjQx/OS5qcGVn.jpeg" alt="Cover for Tard dans la nuit" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a0609fff941472fb334aef8cb38c70c.png" alt="Cover for Tard dans la nuit" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-10-31</td>
       <td>adamned.age</td>
@@ -1095,7 +1098,7 @@ The Hamburg tag represents the diverse musical output from Germany&#39;s port ci
     <tr>
       <td>13</td>
       <td>
-          <img src="https://i.discogs.com/Mw9yYdAkfXAhWnAafdvK7W3iIq9fMQSB0jZNDoPQqbU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDUw/NTM5LTE0OTc2OTcx/NDEtODcyMy5qcGVn.jpeg" alt="Cover for VENITO" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5631c1f28ff44d10a06b847d25fd8c18.png" alt="Cover for VENITO" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Böhm-Kalpen-Maass</td>
@@ -1160,7 +1163,6 @@ The Hamburg tag represents the diverse musical output from Germany&#39;s port ci
     <tr>
       <td>17</td>
       <td>
-          <img src="https://i.discogs.com/XmltnthnnKLrIYvt1uLr4V0yYCf6jg2H1Y7rmrxJNU8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTU1/MTctMTIzNTAzNzAy/MC5qcGVn.jpeg" alt="Cover for tousand yard stare EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-02-16</td>
       <td>adamned.age</td>
@@ -1213,6 +1215,7 @@ The Hamburg tag represents the diverse musical output from Germany&#39;s port ci
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1237,7 +1240,7 @@ The Hamburg tag represents the diverse musical output from Germany&#39;s port ci
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/tyiNNvRrv37oRd3ZqgDvxVMH1W9FGoKNxefsUn1yvL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTc3/MzEtMTI4NzI3MDkz/OS5qcGVn.jpeg" alt="Cover for Melodica" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/776e85767f83411a93581dcb540c5396.png" alt="Cover for Melodica" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>loki luke</td>
@@ -1331,14 +1334,14 @@ The Hamburg tag represents the diverse musical output from Germany&#39;s port ci
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 40</li>
+            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/qey1SL3ZFV2MBoie_YVfhSJD66kIo6Oj6zp98ecGD7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjMw/MTMtMTM1NzM2NzMw/MC05MDc3LmpwZWc.jpeg" alt="Cover for mimicry" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c88c5d424e1233c4330575164aeed3d.png" alt="Cover for mimicry" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-01-25</td>
       <td>propylaion</td>
@@ -1359,6 +1362,7 @@ The Hamburg tag represents the diverse musical output from Germany&#39;s port ci
     <tr>
       <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b415beff215c4b4cb058f626065109b5.png" alt="Cover for Der Boss am Bass" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-02-15</td>
       <td>Flashmaster Ray</td>
@@ -1420,6 +1424,7 @@ The Hamburg tag represents the diverse musical output from Germany&#39;s port ci
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4960a88ab734a459abe66a5c51b3b36.png" alt="Cover for SOS - Save Olli Schulz" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03-16</td>
       <td>Olli Schulz</td>
@@ -1497,14 +1502,14 @@ The Hamburg tag represents the diverse musical output from Germany&#39;s port ci
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 73</li>
+            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/xRVvmkPvh4MuH-F0OFv8VS83mxbLg1qgJv7YhXVnfFU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTYw/MjAtMTQyMTkyMTg0/Mi00ODM5LmpwZWc.jpeg" alt="Cover for Bleiben oder gehen" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c79618ff28079bff8833c7c977e7b91b.png" alt="Cover for Bleiben oder gehen" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-01-23</td>
       <td>Feine Sahne Fischfilet</td>
@@ -1526,7 +1531,7 @@ The Hamburg tag represents the diverse musical output from Germany&#39;s port ci
     <tr>
       <td>1</td>
       <td>
-          <img src="https://i.discogs.com/zwVYsCsW3SGD6qzjVd9CpponEnaubaArbiKGTzjrw4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQy/ODg3LTE2NDc1MjI3/ODEtMjUxOC5qcGVn.jpeg" alt="Cover for Sleepwalker" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9fd45b8e0abc6688b88c31e71523787.png" alt="Cover for Sleepwalker" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Paranoid Pictures</td>
@@ -1562,8 +1567,8 @@ The Hamburg tag represents the diverse musical output from Germany&#39;s port ci
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 52</li>
-            <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 84</li>
+            <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 17</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1616,7 +1621,6 @@ The Hamburg tag represents the diverse musical output from Germany&#39;s port ci
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/PYxf9s_eApabxfQ7iXC9hkKMt9hZAr4lLOFk2chv8oA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzE2/Mjg2LTE2MzU0NjAw/NzktOTgwOS5qcGVn.jpeg" alt="Cover for Goolive Vol.1" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-09-20</td>
       <td>Thees Uhlmann</td>
@@ -1654,6 +1658,7 @@ The Hamburg tag represents the diverse musical output from Germany&#39;s port ci
     <tr>
       <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4fab04202093463c90a39964f11870e8.png" alt="Cover for Remix" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Bluezz Bastardzz</td>
@@ -1679,6 +1684,7 @@ The Hamburg tag represents the diverse musical output from Germany&#39;s port ci
     <tr>
       <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/904eedbc07a549a6abce1a7e72d67eb2.png" alt="Cover for Haben Haben - Nachgeladen" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Prinz König</td>
@@ -1945,6 +1951,7 @@ The Hamburg tag represents the diverse musical output from Germany&#39;s port ci
     <tr>
       <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/89ca9a98526689fd9d4e7157b8353815.png" alt="Cover for Indigo Rocks Live im Riff 2008" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Indigo Rocks</td>
@@ -1986,6 +1993,7 @@ The Hamburg tag represents the diverse musical output from Germany&#39;s port ci
     <tr>
       <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f06d61b091d57ea059753c1545231e53.png" alt="Cover for Demos" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Indigo Rocks</td>

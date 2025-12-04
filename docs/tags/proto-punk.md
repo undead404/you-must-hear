@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T06:12:09.995Z
+date: 2025-12-03T21:39:22.625Z
 permalink: tags/proto-punk
 title: proto-punk
 ---
 
 ## proto-punk
 
-Last updated: <time datetime="2025-11-26T06:12:09.995Z">Wed Nov 26 2025 08:12:09 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T21:39:22.625Z">Wed Dec 03 2025 23:39:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 70</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -66,7 +66,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 10</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -159,7 +159,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 43</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -179,8 +179,8 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 44</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 96</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 5</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -200,8 +200,8 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 6</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 82</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 5</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -255,7 +255,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 91</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -310,7 +310,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 11</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -355,7 +355,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 66</li>
+            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -454,7 +454,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avantgarde-pop" | relative_url }}">avantgarde pop</a> # 63</li>
+            <li> <a href="{{ "/tags/avantgarde-pop" | relative_url }}">avantgarde pop</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -472,8 +472,8 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 66</li>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 88</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 35</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -661,7 +661,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 53</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 49</li>
             <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 82</li>
         </ul>
       </td>
@@ -757,7 +757,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       <td>
         <ul>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 10</li>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 76</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -811,8 +811,8 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 77</li>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 89</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 24</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 90</li>
             <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 95</li>
         </ul>
       </td>
@@ -945,7 +945,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 32</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1114,7 +1114,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 35</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1152,7 +1152,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 27</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1204,6 +1204,25 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
     </tr>
     <tr>
+      <td>37</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/12fa7e2da95d41c6f51c3c9d3047c58a.png" alt="Cover for Rock &#39;N Roll" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>New York Dolls</td>
+      <td>Rock &#39;N Roll</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 4</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>26</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/50b372233695c294bcd3ef0bd599d1c9.png" alt="Cover for Rock &#39;n&#39; Roll" style="max-width:120px; height:auto;" />
@@ -1216,24 +1235,6 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>37</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/12fa7e2da95d41c6f51c3c9d3047c58a.png" alt="Cover for Rock &#39;N Roll" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1994</td>
-      <td>New York Dolls</td>
-      <td>Rock &#39;N Roll</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a></li>
         </ul>
       </td>
       <td>
@@ -1598,7 +1599,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 18</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1619,7 +1620,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 80</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1692,7 +1693,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 90</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1733,7 +1734,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 6</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1752,7 +1753,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 28</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1792,7 +1793,7 @@ Proto-punk is a genre of rock music that emerged in the late 1960s and early 197
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 89</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 11</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T06:14:38.059Z
+date: 2025-12-03T21:55:25.474Z
 permalink: tags/trap-metal
 title: trap metal
 ---
 
 ## trap metal
 
-Last updated: <time datetime="2025-11-26T06:14:38.059Z">Wed Nov 26 2025 08:14:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T21:55:25.474Z">Wed Dec 03 2025 23:55:25 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -63,7 +63,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 95</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 6</li>
             <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 96</li>
         </ul>
       </td>
@@ -82,7 +82,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 46</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 55</li>
             <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 57</li>
         </ul>
       </td>
@@ -106,10 +106,10 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 1</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 5</li>
             <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 95</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 96</li>
             <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 100</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -149,7 +149,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 79</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 22</li>
             <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 81</li>
         </ul>
       </td>
@@ -168,7 +168,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 86</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 15</li>
             <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 87</li>
         </ul>
       </td>
@@ -206,7 +206,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 68</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 33</li>
             <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 71</li>
         </ul>
       </td>
@@ -225,7 +225,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 73</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 28</li>
             <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 79</li>
         </ul>
       </td>
@@ -244,9 +244,9 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 37</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 18</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 62</li>
             <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 82</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -288,11 +288,11 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 74</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 1</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 1</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 2</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 27</li>
             <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 80</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 99</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 100</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -310,7 +310,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 71</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 30</li>
             <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 77</li>
         </ul>
       </td>
@@ -514,8 +514,8 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 51</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 55</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 46</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -622,7 +622,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 4</li>
-            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 51</li>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -676,8 +676,8 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 15</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 18</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 25</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -837,8 +837,8 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 15</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 64</li>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -856,7 +856,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 58</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 68</li>
             <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 88</li>
         </ul>
       </td>
@@ -895,7 +895,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 63</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -930,7 +930,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       <td>
         <ul>
             <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 19</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 38</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -949,7 +949,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 9</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 55</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -969,7 +969,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 10</li>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 86</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 83</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 94</li>
         </ul>
       </td>
@@ -993,10 +993,10 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 4</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 9</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 20</li>
             <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 49</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 81</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 92</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1074,7 +1074,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 7</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1096,9 +1096,9 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 80</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 81</li>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 96</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 5</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 20</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1116,10 +1116,10 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 19</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 34</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 37</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 68</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 20</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 33</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 46</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1139,10 +1139,10 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 26</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 48</li>
-            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 49</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 68</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 25</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 33</li>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 52</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1222,7 +1222,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 58</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 39</li>
             <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 93</li>
         </ul>
       </td>
@@ -1249,7 +1249,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 19</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1272,8 +1272,8 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 7</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 46</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 93</li>
             <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 94</li>
         </ul>
       </td>
@@ -1298,9 +1298,9 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 22</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 37</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 50</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 55</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 64</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1342,8 +1342,8 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 14</li>
             <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 81</li>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1365,7 +1365,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 75</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1425,7 +1425,8 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 94</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 40</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1444,7 +1445,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       <td>
         <ul>
             <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 3</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 59</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1490,7 +1491,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 49</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 52</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 57</li>
         </ul>
       </td>
@@ -1533,8 +1534,8 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 13</li>
             <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 50</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1591,8 +1592,8 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 3</li>
             <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 40</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1611,8 +1612,8 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 19</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 53</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 23</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1630,7 +1631,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 13</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1659,9 +1660,9 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 27</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 13</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 28</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 34</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 86</li>
             <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 94</li>
             <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 99</li>
         </ul>
@@ -1681,7 +1682,7 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 16</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1699,11 +1700,11 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 26</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 35</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 43</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 67</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 75</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 90</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 58</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 72</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1743,8 +1744,8 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 17</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 33</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 34</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1788,8 +1789,8 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 45</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 45</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1810,8 +1811,8 @@ Trap metal fuses aggressive hip-hop trap beats with distorted guitars and scream
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 91</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 98</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 3</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 92</li>
             <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 99</li>
         </ul>
       </td>

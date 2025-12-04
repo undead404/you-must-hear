@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T20:26:31.215Z
+date: 2025-12-03T21:39:53.422Z
 permalink: tags/anti-folk
 title: anti-folk
 ---
 
 ## anti-folk
 
-Last updated: <time datetime="2025-11-19T20:26:31.215Z">Wed Nov 19 2025 22:26:31 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T21:39:53.422Z">Wed Dec 03 2025 23:39:53 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -124,7 +124,7 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 14</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -142,7 +142,7 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 2</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -203,7 +203,7 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 46</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -243,7 +243,7 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 9</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -284,6 +284,7 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 20</li>
             <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 47</li>
         </ul>
       </td>
@@ -305,7 +306,7 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 11</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -367,7 +368,7 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 28</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -446,7 +447,7 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 24</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -465,7 +466,7 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 59</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -484,12 +485,12 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 5</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 22</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 33</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 66</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 69</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 90</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 11</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 20</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 32</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 40</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 60</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 69</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 94</li>
         </ul>
       </td>
@@ -625,7 +626,7 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 61</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -643,7 +644,7 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 49</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -724,8 +725,8 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 37</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 78</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 63</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -790,8 +791,8 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 6</li>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 33</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 68</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -809,9 +810,9 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 70</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 75</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 77</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 24</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 77</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -830,7 +831,7 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 42</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -876,7 +877,7 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 43</li>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -965,10 +966,10 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 10</li>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 21</li>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 56</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 72</li>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 80</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -998,10 +999,10 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 3</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 52</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 49</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 87</li>
             <li> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a> # 95</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1081,7 +1082,7 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 24</li>
+            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1118,7 +1119,7 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 20</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1155,7 +1156,7 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 27</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1213,7 +1214,7 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 25</li>
+            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1337,7 +1338,7 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 28</li>
+            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1432,7 +1433,7 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 41</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 59</li>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 72</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 78</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 80</li>
@@ -1474,8 +1475,8 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 3</li>
             <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 88</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1497,7 +1498,7 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 19</li>
+            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1535,7 +1536,7 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 3</li>
+            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1553,7 +1554,7 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 39</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1588,10 +1589,10 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 33</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 35</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 37</li>
             <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 60</li>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 64</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 81</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1633,7 +1634,7 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 64</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1656,7 +1657,7 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 45</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1685,10 +1686,11 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 20</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 26</li>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 29</li>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 45</li>
+            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 3</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 29</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 31</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 35</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1709,7 +1711,7 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 7</li>
+            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1733,9 +1735,9 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 6</li>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 88</li>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 98</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 2</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 89</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1816,7 +1818,7 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 21</li>
+            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1836,7 +1838,7 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 4</li>
+            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1911,26 +1913,8 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 24</li>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 43</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>48</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/82baa2a3c17c4d84caf2a1c587227db0.png" alt="Cover for Freshman Year" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Hop Along, Queen Ansleis</td>
-      <td>Freshman Year</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 82</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 58</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1966,7 +1950,7 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 14</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -2000,8 +1984,8 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 38</li>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 53</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 48</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -2041,13 +2025,13 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 11</li>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 16</li>
-            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 24</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 46</li>
-            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 47</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 59</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 42</li>
+            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 52</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 53</li>
+            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 77</li>
             <li> <a href="{{ "/tags/dixieland" | relative_url }}">dixieland</a> # 79</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 85</li>
+            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -2085,9 +2069,9 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 19</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 20</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 27</li>
             <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 64</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 74</li>
             <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 81</li>
         </ul>
       </td>
@@ -2367,6 +2351,23 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>48</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/82baa2a3c17c4d84caf2a1c587227db0.png" alt="Cover for Freshman Year" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Hop Along, Queen Ansleis</td>
+      <td>Freshman Year</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -2374,8 +2375,8 @@ Anti-folk is a musical genre that developed in the 1980s in response to the main
 
 - [folk]({{ "/tags/folk" | relative_url }})
 - [acoustic]({{ "/tags/acoustic" | relative_url }})
-- [alternative]({{ "/tags/alternative" | relative_url }})
 - [singer-songwriter]({{ "/tags/singer-songwriter" | relative_url }})
+- [alternative]({{ "/tags/alternative" | relative_url }})
 - [folk punk]({{ "/tags/folk-punk" | relative_url }})
 - [lo-fi]({{ "/tags/lo-fi" | relative_url }})
 - [indie folk]({{ "/tags/indie-folk" | relative_url }})
