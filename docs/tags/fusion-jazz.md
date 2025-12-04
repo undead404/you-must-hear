@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-22T13:52:13.996Z
+date: 2025-12-04T09:38:04.247Z
 permalink: tags/fusion-jazz
 title: fusion jazz
 ---
 
 ## fusion jazz
 
-Last updated: <time datetime="2025-11-22T13:52:13.996Z">Sat Nov 22 2025 15:52:13 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T09:38:04.247Z">Thu Dec 04 2025 11:38:04 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -80,9 +80,9 @@ Fusion jazz, also known as jazz fusion, is a genre that emerged in the late 1960
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 14</li>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 47</li>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 52</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 49</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 53</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -141,7 +141,7 @@ Fusion jazz, also known as jazz fusion, is a genre that emerged in the late 1960
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 96</li>
+            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -180,7 +180,7 @@ Fusion jazz, also known as jazz fusion, is a genre that emerged in the late 1960
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 82</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 18</li>
             <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 94</li>
         </ul>
       </td>
@@ -200,7 +200,6 @@ Fusion jazz, also known as jazz fusion, is a genre that emerged in the late 1960
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -296,7 +295,7 @@ Fusion jazz, also known as jazz fusion, is a genre that emerged in the late 1960
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 77</li>
+            <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 78</li>
             <li> <a href="{{ "/tags/jazz-trumpet" | relative_url }}">jazz trumpet</a> # 81</li>
         </ul>
       </td>
@@ -316,8 +315,8 @@ Fusion jazz, also known as jazz fusion, is a genre that emerged in the late 1960
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 20</li>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 64</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 22</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -909,7 +908,7 @@ Fusion jazz, also known as jazz fusion, is a genre that emerged in the late 1960
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/mHWQJY3RCZA5DvXy92L3S2UePzFrIR3i_juR3flH7xA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5ODA5/ODMtMTYwMTMyMjYz/My05MTQzLmpwZWc.jpeg" alt="Cover for Rare &amp; Well Done: The Greatest And Most Obscure Recordings 1964-2001" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/51196f85fc3f983066e7bc9640216cc6.png" alt="Cover for Rare &amp; Well Done: The Greatest And Most Obscure Recordings 1964-2001" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Al Kooper</td>
@@ -1100,7 +1099,7 @@ Fusion jazz, also known as jazz fusion, is a genre that emerged in the late 1960
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-guitar" | relative_url }}">jazz guitar</a> # 97</li>
+            <li> <a href="{{ "/tags/jazz-guitar" | relative_url }}">jazz guitar</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1155,7 +1154,7 @@ Fusion jazz, also known as jazz fusion, is a genre that emerged in the late 1960
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 38</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1215,7 +1214,7 @@ Fusion jazz, also known as jazz fusion, is a genre that emerged in the late 1960
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 33</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1626,7 +1625,7 @@ Fusion jazz, also known as jazz fusion, is a genre that emerged in the late 1960
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 37</li>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1717,7 +1716,7 @@ Fusion jazz, also known as jazz fusion, is a genre that emerged in the late 1960
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 73</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 28</li>
         </ul>
       </td>
     </tr>

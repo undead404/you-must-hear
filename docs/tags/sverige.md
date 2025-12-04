@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T18:13:54.814Z
+date: 2025-12-04T09:44:31.612Z
 permalink: tags/sverige
 title: sverige
 ---
 
 ## sverige
 
-Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T09:44:31.612Z">Thu Dec 04 2025 11:44:31 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -87,7 +87,6 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/pLU2JwtCdXcNBR7OfdgSQRErXh7OtI23ybcdeyRn_2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5OTEz/MzktMTUyNTU5NzQ4/OC02MDAzLm1wbw.jpeg" alt="Cover for Melodifestivalen 2015" style="max-width:120px; height:auto;" />
       </td>
       <td>1976</td>
       <td>Kalle Johansson</td>
@@ -107,7 +106,7 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/cs9S6IUzMe1keOOTHzvrvbk1g6bEi4ebvmLaheBJL1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDkw/ODAtMTQzODU0ODU1/NS03NDk4LmpwZWc.jpeg" alt="Cover for Copacabana" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10916da2b288ab03c7a912613819955a.png" alt="Cover for Copacabana" style="max-width:120px; height:auto;" />
       </td>
       <td>1976-05</td>
       <td>Sten &amp; Stanley</td>
@@ -150,7 +149,7 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/ndF510kRO_ElV4PQwh1EYl7v-A0hoDuwVPLoQuxpZ-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODIy/MDg1LTE1NjE4OTY5/MjQtMzA0Ni5qcGVn.jpeg" alt="Cover for Whiskey Barrel" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/44088caa41a9c493d580bfa51e9b1021.png" alt="Cover for Whiskey Barrel" style="max-width:120px; height:auto;" />
       </td>
       <td>1983</td>
       <td>Lasse Stefanz</td>
@@ -171,7 +170,6 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>7</td>
       <td>
-          <img src="https://i.discogs.com/-mHsAlPtJCCY0HkK3jYocBXeXC6n3a8-Zle88Sn4Vbw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODIz/OTgtMTI0Mjk4MzAy/Mi5qcGVn.jpeg" alt="Cover for 40 år i Folkparkens tjänst" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Wizex</td>
@@ -273,7 +271,6 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>21</td>
       <td>
-          <img src="https://i.discogs.com/oNpDTCZbGGS9zxpj6UrLtBtDRQM2NSfCiHUtHZcubhw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMDU2/MjctMTQ3ODI5ODQ3/Ni01NTA1LmpwZWc.jpeg" alt="Cover for Lasse Stefanz stora julparty" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Lasse Stefanz</td>
@@ -294,7 +291,7 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/OdlUG5ctD9g1W-OO2IZfuCzOVwywxGZ42fmQtAT3nPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NTIz/MzYtMTQ4NTg4MDE1/MC00NzI0LmpwZWc.jpeg" alt="Cover for Trouble Boys" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/49fc88591e1246afe68fab9af488f3e5.png" alt="Cover for Trouble Boys" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Lasse Stefanz</td>
@@ -335,7 +332,6 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>17</td>
       <td>
-          <img src="https://i.discogs.com/NIUXgHY71eNJYz0NqcZM6qNuk5DHsATxijc1e_iPbh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Mjky/NjMyLTE2ODU5NjIw/NTEtNDQ5OS5qcGVn.jpeg" alt="Cover for Du lärde mig älska" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Voize</td>
@@ -356,7 +352,6 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/L58h1otybtKKz-ND1_8ruQuHU_UVhWiPFl_h1_m4PcI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTAy/NzY0LTE1MjQ0MjM3/NjYtOTkxMi5qcGVn.jpeg" alt="Cover for Melodifestivalen 2015" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Hasse Andersson</td>
@@ -376,7 +371,6 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>3</td>
       <td>
-          <img src="https://i.discogs.com/WXRa0paS3vmTk4SxUmm5Br6Df8lPmAq5LJ6ao4YrxG8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTM1/MjUtMTM4OTg5MjEw/My00NDg0LmpwZWc.jpeg" alt="Cover for Melodifestivalen 1958 - 2013" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Pernilla Wahlgren</td>
@@ -419,7 +413,6 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/E7l_WQAm3rE2Erym02dvqxveqkZhcainrwizjnTwhKY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDY5/Mi0xMzQxMzI4NTI1/LTc4MzQuanBlZw.jpeg" alt="Cover for Melodifestivalen 2015" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Andreas Johnson</td>
@@ -452,7 +445,7 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 55</li>
+            <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -510,7 +503,7 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 5</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -557,7 +550,7 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/pigceiNvQ30YcQ-ydmKuBNpTOIQY9vZtOar5ElUDTw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDM1/NzA4LTE1NzU0OTI2/ODEtODA2Mi5qcGVn.jpeg" alt="Cover for Ta mig tillbaka nu" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40d84db055fe4c529dbb018b38e3972e.png" alt="Cover for Ta mig tillbaka nu" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Arvingarna</td>
@@ -590,8 +583,8 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 50</li>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 78</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 25</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -613,7 +606,7 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 58</li>
+            <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -654,7 +647,7 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 22</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -695,7 +688,7 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 11</li>
+            <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -738,7 +731,7 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 86</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -785,6 +778,7 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/000a242aa3baad28d11144adafab5843.png" alt="Cover for Bästa!" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-05-16</td>
       <td>Streaplers</td>
@@ -805,7 +799,6 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/p8pRTN024D3mtz1We-MAUX6NuqITSxrHIsh4W0GMGCo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzc1/OTUtMTI3MTU4NjAx/OC5qcGVn.jpeg" alt="Cover for Melodifestivalen 2015" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Neverstore</td>
@@ -845,15 +838,15 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 28</li>
-            <li> <a href="{{ "/tags/svensk" | relative_url }}">svensk</a> # 84</li>
+            <li> <a href="{{ "/tags/svensk" | relative_url }}">svensk</a> # 17</li>
+            <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/bv-uaig2XiX739MPp5n55NX4M0ctKLWQhMGPE3K85kg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjc5/ODQ2LTE2MDY0OTA0/NDEtOTEwOS5qcGVn.jpeg" alt="Cover for Våra bästa!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f7b3f5457bfd19ce3c87333c0062869.png" alt="Cover for Våra bästa!" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Larz-Kristerz</td>
@@ -874,7 +867,7 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/yY3eCwnRgTYYCV-B8LfMH4zYeoL8UxwPMdcbe-5TbwE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDg2/MzQtMTUzNjc4NjQ1/My0yMDAzLmpwZWc.jpeg" alt="Cover for Änglarnas tid (Special Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91f8e7f069b08309905c0426ae838736.png" alt="Cover for Änglarnas tid (Special Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-08</td>
       <td>Magnus Carlsson</td>
@@ -894,7 +887,7 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/tkQti3A8WdsuUowpltU0d9n0t5LMwDnBRw8pxqKJlDM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MTgy/NzktMTM5NTQ0NzQz/OC04NTczLmpwZWc.jpeg" alt="Cover for Happy Holidays" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ad940d100ee19ab4c89726b3004a2e3.png" alt="Cover for Happy Holidays" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-01</td>
       <td>Magnus Carlsson</td>
@@ -914,7 +907,6 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/oY88tTU_oA-TOfjnjrj0bx-NCUNyCdECo1u8zEPh7Lo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2ODk4/MTYtMTQ2NjY3NTAz/OC0zOTk0LmpwZWc.jpeg" alt="Cover for Melodifestivalen 2015" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Caroline Wennergren</td>
@@ -934,7 +926,6 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/zfRTTD7iS5ARMC6G2E9Z3fzwaUekS-d24qL_dZvAc4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTk4/MTk3LTE2NDM4Mjgx/MjEtNjE0Mi5qcGVn.jpeg" alt="Cover for Louisiana" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Willez</td>
@@ -955,7 +946,6 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>15</td>
       <td>
-          <img src="https://i.discogs.com/F0UTqIDT9duE8_LWRCYr1b2BRMBp87NDM1cjwg5OheQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTIz/MTE2LTE1NjQyNTk1/NTctODUwMy5qcGVn.jpeg" alt="Cover for Vår sköna sommar" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-30</td>
       <td>Bengt Hennings</td>
@@ -976,7 +966,6 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/X5ZeWrjlyn1rewJgaphPb6n9A--_JAZlL7H-cMDX2no/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDUx/MTctMTQyMjkyOTMx/Ni02MjQ5LmpwZWc.jpeg" alt="Cover for Utan dina andetag" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Canyons</td>
@@ -992,14 +981,14 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/svensk" | relative_url }}">svensk</a> # 56</li>
+            <li> <a href="{{ "/tags/svensk" | relative_url }}">svensk</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>13</td>
       <td>
-          <img src="https://i.discogs.com/OAkPEaY6KyEfey9E59inhelMwvF9Q7E1A_bNJ2hcVi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzcy/ODc0LTE1ODEyOTE4/NDQtOTc1OC5qcGVn.jpeg" alt="Cover for Om du vill åka med" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c18ec28af1494fd7b7cae39369f8d78e.png" alt="Cover for Om du vill åka med" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Donnez</td>
@@ -1020,7 +1009,6 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/S_SM8PzjfI3lGapkYF_46i-h4ixDrl8flbWWRBHFhQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzA3/OTg1LTE1NjE3Mzcx/NDktNTY3NS5qcGVn.jpeg" alt="Cover for Sommar I Sverige" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Casanovas</td>
@@ -1041,7 +1029,6 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/QDLuM1NJSbiecT87SDlzBizGfBtQv_4D-KTxQnQKWwM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjA4/NDA1LTE1Mzg1MDg2/MzUtOTA2MC5qcGVn.jpeg" alt="Cover for En gnistrande jul" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Elisa&#39;s</td>
@@ -1062,7 +1049,6 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/458FkJAmdEkceZYSlNhMrBQqLmHa5UKqzCU_rvjAnHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njcx/NjUxLTE1NzkzNDE0/MjMtMTI1Ny5qcGVn.jpeg" alt="Cover for Melodifestivalen 2015" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-02-23</td>
       <td>Behrang Miri</td>
@@ -1082,7 +1068,7 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/hjSEqPXh9idmASyPSDvPdHRiHju6Q3rSru3X1iFFp4o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzk4/OTAyLTE1MTU2MjIy/NzgtNTE1Ni5qcGVn.jpeg" alt="Cover for Det måste gå att dansa till" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3003b8d29e0840bdb5167a874d069b77.png" alt="Cover for Det måste gå att dansa till" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-26</td>
       <td>Larz-Kristerz</td>
@@ -1103,7 +1089,7 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/mNs8eRXacP2aidoH_YMWUmuFZi3BCjqQuyNfxU1V9ck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjU0/NjItMTMxODcyMDc4/MC5qcGVn.jpeg" alt="Cover for Melodifestivalen 2015" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf7cfff36e7b20979b2b86bc561cea5f.png" alt="Cover for Melodifestivalen 2015" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-08-28</td>
       <td>Eric Saade</td>
@@ -1123,6 +1109,7 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ef51840227ca1fee8ff367e45fa8323.png" alt="Cover for Sånger om oss" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-23</td>
       <td>Lisa Nilsson</td>
@@ -1142,7 +1129,7 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/--8-UZobiTy5TnAgXS8FVAG2EwRvq97gdL9X_krRSYM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxODU3/NTctMTQzNTc0NDI0/Mi01NDc0LmpwZWc.jpeg" alt="Cover for Duetterna" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3c240c7d4e64c6b56db1adba89e4083.png" alt="Cover for Duetterna" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-25</td>
       <td>Jill Johnson</td>
@@ -1159,14 +1146,14 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 70</li>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/J4XoyR2fKTZoVFhW6RmpUrzyfhw_dQ3asDJp3ySwwJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MjYw/OTktMTQ4MzgzMzI0/MS0zNzg5LmpwZWc.jpeg" alt="Cover for Goeksegh" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b85de05e6bf8bbdc4cbfd50c0ea11fef.png" alt="Cover for Goeksegh" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Jon Henrik Fjällgren</td>
@@ -1180,14 +1167,13 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 41</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>12</td>
       <td>
-          <img src="https://i.discogs.com/MV-JYze5N6DMCxo0fwDyYcC3e3C3jIFu7BUzrPNEH5w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzAx/ODQtMTU0MTI2MzE1/Mi03NzMzLmpwZWc.jpeg" alt="Cover for Hela veckan lång" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Streaplers</td>
@@ -1208,7 +1194,7 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/EKyPprJDzSXLf8W3VRWBclNDlli-WwHO5BwOa3qBux8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MzI3/NTQtMTQzMDY0NTM2/NC01NzMyLmpwZWc.jpeg" alt="Cover for Drama Queen" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5508e3ed27d44e6c4e625cc894fa6e9.png" alt="Cover for Drama Queen" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Nanne Grönvall</td>
@@ -1229,7 +1215,6 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/OrKUS1sbl-7hYTOLnEWTS6feYksxCJedLg0spDRCeFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTc2/NDktMTQ0ODk4NDM1/MC0xNzY1LmpwZWc.jpeg" alt="Cover for Det ska va lätt" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Elisa&#39;s</td>
@@ -1250,7 +1235,7 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/muZscfHqAiAsVjyxOh-Y7tGvMRNdDKGesFK7oXviKwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTEw/MTYzLTE1MTc2MTk3/NTEtMzcxMS5qcGVn.jpeg" alt="Cover for Ut på vägarna igen" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9727eb747d5edd78b0e5469b5377c9b9.png" alt="Cover for Ut på vägarna igen" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Kindbergs</td>
@@ -1271,7 +1256,7 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/IyIBX3IcQ_HOQ41NjKm_x1_BgTtzKUwZLgpnjIU9Q2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NjU4/MzItMTQ4OTM0NjQz/Mi04MTM1LmpwZWc.jpeg" alt="Cover for Leva" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fd7ffdaeb154378c31a0911d049c5cd.png" alt="Cover for Leva" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Elisa Lindström</td>
@@ -1293,7 +1278,7 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/372uJGb3IG1BNs5mFzvhcXPPhcE7kMuAxO1wECF8mxE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODg1/NDEtMTQ4OTc1MDE3/Mi0zODI0LmpwZWc.jpeg" alt="Cover for Hon ska bli min" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3007ef3c83cb68aa74c15c87d7c97cee.png" alt="Cover for Hon ska bli min" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Casanovas</td>
@@ -1314,7 +1299,7 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/1aNgGsPp-OJsWPvmgyIf7Ifu3WhpF_fzG3BEgwY5wGk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM3/MjE5LTE1MzExNDQ2/ODktOTY1MC5qcGVn.jpeg" alt="Cover for Jag vill leva" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ec82d81327275ffc74addd9ba6384bd.png" alt="Cover for Jag vill leva" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Sannex</td>
@@ -1335,7 +1320,7 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/5dAIxSFokvRqK87r6DFmhGNL3WXqOGpzZva1dlldUxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNDU5/OTItMTQ2NDc1NjEx/MC0zMjg0LmpwZWc.jpeg" alt="Cover for Honky Tonk Rebels" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4a68abc8155839238dff6d09c4de333.png" alt="Cover for Honky Tonk Rebels" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Lasse Stefanz</td>
@@ -1356,7 +1341,6 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/2vHLe1GJGoUFvfYjW45SSmtade-5nqZHuKdCddVQ3uo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzU1/ODg3LTE2MjkwMTk3/MzctMzM3MC5qcGVn.jpeg" alt="Cover for 40 mil från Stureplan" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Larz-Kristerz</td>
@@ -1377,7 +1361,6 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/m4TnoOFTM8fzlGnBbxbv6s4kB3Agzhmz8RM41-oO7Bk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3OTE2/ODItMTQyNjcwNjMz/NC03NDA4LmpwZWc.jpeg" alt="Cover for Melodifestivalen 2015" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-05-21</td>
       <td>Linus Svenning</td>
@@ -1397,7 +1380,7 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/5JcBwk55EjZdRI7CB0kO-8d9noLb8N5kZWAnV-Jb1H0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NzQ5/OTMtMTUxMDQzNzk0/OS00NjMzLmpwZWc.jpeg" alt="Cover for On My Way" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ea584ebff6048ebc8f2928ef9b1a60f.png" alt="Cover for On My Way" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-06-09</td>
       <td>Anton Ewald</td>
@@ -1413,14 +1396,14 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 13</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>2</td>
       <td>
-          <img src="https://i.discogs.com/h4QBhc7OL8rlnbAJ-S5ciaH2i0SiEsNx7dT3XNdLEXc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzYx/MzQwLTE1MTQ5NDcz/MDAtMTkyNi5qcGVn.jpeg" alt="Cover for Tre år senare" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a5d9a3107c6423ec21e00a60d9a073c.png" alt="Cover for Tre år senare" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-11-12</td>
       <td>Scotts</td>
@@ -1441,7 +1424,6 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>5</td>
       <td>
-          <img src="https://i.discogs.com/GnhobMC_73HrTtUELq9szIVdH20QvxqsF9SAb3V3a24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzcz/MDM4LTE1ODEyOTYw/OTctMTcxNS5qcGVn.jpeg" alt="Cover for Stora Starka Män" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Donnez</td>
@@ -1462,7 +1444,6 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/Oz0c1F96uNl9r58wPLKkaMk96HRYRvu9CZtAZ5Ip6V4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNTAw/ODctMTQ1NjMyOTgz/MC05NTUwLmpwZWc.jpeg" alt="Cover for Melodifestivalen 2015" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Jessica Andersson</td>
@@ -1482,7 +1463,7 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/9MjMTa3OiKEu9-3p75XjtTEwT_2jR25-eYy8fwQAk0I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNDk3/MzMtMTQzMjU0Mjcz/NC05OTQxLmpwZWc.jpeg" alt="Cover for Melodifestivalen 2015" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c8c3f8e0d485360d28a3022dfc7869c9.png" alt="Cover for Melodifestivalen 2015" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Ellen Benediktson</td>
@@ -1502,7 +1483,7 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/Wac1VdHoTAXRAwnaxfuOIUQonSb0o__6wTH0lpPVZI4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzkw/NTQ1LTE1MzM2ODA4/MTYtODM5OS5qcGVn.jpeg" alt="Cover for Utekväll" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fca346fc10c03dfdd21f5413afb19918.png" alt="Cover for Utekväll" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Elisa&#39;s</td>
@@ -1523,7 +1504,6 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/gKi3pNvIFTn9tLAhHGHhD_J2tT8uVazbPd7ce85a12M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDY1/NTYzLTE2Mzc0ODk0/NDAtNDc4MC5qcGVn.jpeg" alt="Cover for Melodifestivalen 2015" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Dolly Style</td>
@@ -1568,7 +1548,6 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/ZVPyCX75Vxq4UbRYe9R4wTg-UHIhhpWr9Ck73q97WGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3Mzky/OTUtMTQyNTY0Nzk2/NC0xODA3LmpwZWc.jpeg" alt="Cover for Melodifestivalen 2015" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-02-07</td>
       <td>Daniel Gildenlöw</td>
@@ -1588,7 +1567,6 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/iKhhsOjn45YMicgFjqvitktSKc7ERRxNwZkBZfUj5ow/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY5/MTkyLTE1NzUxNjAz/NDYtMzY4MC5qcGVn.jpeg" alt="Cover for Melodifestivalen 2015" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-02-21</td>
       <td>Kristin Amparo</td>
@@ -1608,29 +1586,24 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/_eHFXhrtFKRmGz6x39FDwo8nWiwTqooeZZAJLoRUhWk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NTA0/NzQtMTQyNTg0ODU2/OC00MTMwLmpwZWc.jpeg" alt="Cover for Guld och gröna skogar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c8962de870f0872c7cc5b898fa93d29.png" alt="Cover for Guld och gröna skogar" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-02-28</td>
       <td>Hasse Andersson</td>
       <td>Guld och gröna skogar</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sverige" | relative_url }}">sverige</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/C0yKal8w5GwWyiERFG_CHe27N8_BX1toFys9U4TJ2TQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTUx/MDctMTQ1NTQxNjI2/NC0yNzQ0LmpwZWc.jpeg" alt="Cover for Melodifestivalen 2015" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac30626ccd80fe173890b09947923c3b.png" alt="Cover for Melodifestivalen 2015" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-03-01</td>
       <td>Dinah Nah</td>
@@ -1650,7 +1623,6 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/t94wlyJ6jKNPeTQl14Mq6N2P0BJ4AkW9aan2_fEYGL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNzE4/NjgtMTQ1ODM5MTMw/MC04NjExLmpwZWc.jpeg" alt="Cover for Ride" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-03-02</td>
       <td>JTR</td>
@@ -1671,7 +1643,7 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/Q_JmKi7e7Dz9JdWPA5AGXwR1UekeBHhYGtxweEH2Ch4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3Mjgz/ODUtMTQyNTQzODI3/NS01OTQwLmpwZWc.jpeg" alt="Cover for Melodifestivalen 2015" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7dac580d6e10de825bd6c9ec1ab3f3f3.png" alt="Cover for Melodifestivalen 2015" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-05-22</td>
       <td>Måns Zelmerlöw</td>
@@ -1691,7 +1663,6 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/jA16TvSlgRZEWl9QetsFo3BNMcO7k5nPHG8i6KrpFyw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODUw/NDMtMTQ1NDg0OTg0/Ny04OTc1LmpwZWc.jpeg" alt="Cover for Melodifestivalen 2015" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-06-05</td>
       <td>Samir &amp; Viktor</td>
@@ -1711,7 +1682,6 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/t94wlyJ6jKNPeTQl14Mq6N2P0BJ4AkW9aan2_fEYGL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNzE4/NjgtMTQ1ODM5MTMw/MC04NjExLmpwZWc.jpeg" alt="Cover for Melodifestivalen 2015" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-11-25</td>
       <td>JTR</td>
@@ -1731,7 +1701,6 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/uXaIC-NZGIG0Rpn971eZ8W908w_U05XtXq7YblMKgNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNDA5/NTktMTQ3NTQ4NTcw/NS04NzM3LmpwZWc.jpeg" alt="Cover for Melodifestivalen 2015" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Molly Pettersson Hammar</td>
@@ -1777,7 +1746,7 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/iE4TgO167tIaX2zTTmNCx9PhZYBAEe2M4KtjRtU3OWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDg2/MjYtMTI5NDg4MTg3/NS5qcGVn.jpeg" alt="Cover for Melodifestivalen 2015" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/54eef1fa0f6a40155a1a31f36d31f42d.png" alt="Cover for Melodifestivalen 2015" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-07-31</td>
       <td>Magnus Carlsson</td>
@@ -1812,15 +1781,14 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 21</li>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 92</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 67</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/n8g__HYAvg3_UAks-BuzcYEPVkPAd4OFUFTKIfxt6LA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjUw/MDMyLTE1NTgyNzU0/MjYtMTg2OC5qcGVn.jpeg" alt="Cover for Melodifestivalen 2015" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-02-25</td>
       <td>Jon Henrik Fjällgren</td>
@@ -1840,7 +1808,7 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/vGsqD5ufOtd-CKdNe0p-idMZYuCRskUGGrTibUcqwwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3OTMz/ODUtMTQ2MzU5NjU0/NC05NDU4LmpwZWc.jpeg" alt="Cover for Soldans på din grammofon" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb962b6c4b784dc5a9dab3708fb4cfd1.png" alt="Cover for Soldans på din grammofon" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-06-14</td>
       <td>Gyllene Tider</td>
@@ -1892,34 +1860,31 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 67</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/cGpg0u7u9b57pQdaa0K_o1kf4mLMQ_nOdFJKdAzqA40/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTAx/ODU0LTE2NzQ4MjM2/NjAtNjAxNS5qcGVn.jpeg" alt="Cover for Can&#39;t Tame Her" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e01bf0a69f89894cff675ce9795e38a.png" alt="Cover for Can&#39;t Tame Her" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-01-26</td>
       <td>Zara Larsson</td>
       <td>Can&#39;t Tame Her</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sverige" | relative_url }}">sverige</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 86</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/09RV6CTt5aHc9cGRed8SzZ4oIupCgpgunb4ctOX7lr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTEx/MTAxLTE1MDQ2MzE1/MjQtNjAzNi5qcGVn.jpeg" alt="Cover for Melodifestivalen 2015" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-03-17</td>
       <td>Andreas Weise</td>
@@ -1994,7 +1959,6 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/p3Xs-rh4uO_RJvCzJpQq-hwvU-AhmB-qUoiMoxz5gNU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MDk0/NjEtMTM5MjY0Nzk3/NS02ODQ2LmpwZWc.jpeg" alt="Cover for Melodifestivalen 2015" style="max-width:120px; height:auto;" />
       </td>
       <td>2024</td>
       <td>Mariette</td>
@@ -2033,6 +1997,7 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c242fa7a62f7306fc89829978dd98e0.png" alt="Cover for Melodifestivalen 2015" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Annika Herlitz</td>
@@ -2052,6 +2017,7 @@ Last updated: <time datetime="2025-11-23T18:13:54.814Z">Sun Nov 23 2025 20:13:54
     <tr>
       <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/070b2c48a4ea85ec5d87e8abeefab11a.png" alt="Cover for Melodifestivalen 2015" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Midnight Boy</td>

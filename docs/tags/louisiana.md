@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T18:39:37.960Z
+date: 2025-12-04T09:46:19.360Z
 permalink: tags/louisiana
 title: louisiana
 ---
 
 ## louisiana
 
-Last updated: <time datetime="2025-11-23T18:39:37.960Z">Sun Nov 23 2025 20:39:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T09:46:19.360Z">Thu Dec 04 2025 11:46:19 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -241,7 +241,7 @@ Louisiana’s music is rich and diverse, with the state being the birthplace of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 72</li>
+            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 28</li>
             <li> <a href="{{ "/tags/cajun" | relative_url }}">cajun</a> # 90</li>
             <li> <a href="{{ "/tags/zydeco" | relative_url }}">zydeco</a> # 93</li>
         </ul>
@@ -917,7 +917,7 @@ Louisiana’s music is rich and diverse, with the state being the birthplace of 
       <td>
         <ul>
             <li> <a href="{{ "/tags/cajun" | relative_url }}">cajun</a> # 42</li>
-            <li> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a> # 48</li>
+            <li> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1180,8 +1180,8 @@ Louisiana’s music is rich and diverse, with the state being the birthplace of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 33</li>
-            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 80</li>
+            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 21</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1641,7 +1641,7 @@ Louisiana’s music is rich and diverse, with the state being the birthplace of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a> # 58</li>
+            <li> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a> # 43</li>
             <li> <a href="{{ "/tags/cajun" | relative_url }}">cajun</a> # 63</li>
         </ul>
       </td>
@@ -1742,9 +1742,9 @@ Louisiana’s music is rich and diverse, with the state being the birthplace of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 17</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 24</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 67</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 32</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 77</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 84</li>
             <li> <a href="{{ "/tags/eai" | relative_url }}">eai</a> # 87</li>
             <li> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a> # 89</li>
         </ul>
@@ -1772,7 +1772,7 @@ Louisiana’s music is rich and diverse, with the state being the birthplace of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 76</li>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 25</li>
             <li> <a href="{{ "/tags/harmonica-blues" | relative_url }}">harmonica blues</a> # 93</li>
         </ul>
       </td>
@@ -1799,7 +1799,7 @@ Louisiana’s music is rich and diverse, with the state being the birthplace of 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 46</li>
+            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 52</li>
             <li> <a href="{{ "/tags/cajun" | relative_url }}">cajun</a> # 56</li>
             <li> <a href="{{ "/tags/zydeco" | relative_url }}">zydeco</a> # 63</li>
         </ul>
@@ -1902,7 +1902,7 @@ Louisiana’s music is rich and diverse, with the state being the birthplace of 
       <td>
         <ul>
             <li> <a href="{{ "/tags/cajun" | relative_url }}">cajun</a> # 10</li>
-            <li> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a> # 37</li>
+            <li> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a> # 63</li>
         </ul>
       </td>
     </tr>

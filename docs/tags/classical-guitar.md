@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T06:16:51.974Z
+date: 2025-12-04T09:22:47.317Z
 permalink: tags/classical-guitar
 title: classical guitar
 ---
 
 ## classical guitar
 
-Last updated: <time datetime="2025-10-22T06:16:51.974Z">Wed Oct 22 2025 09:16:51 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T09:22:47.317Z">Thu Dec 04 2025 11:22:47 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -283,7 +283,7 @@ Classical guitar is a refined musical tradition centered on the nylon-stringed a
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/QQAUxr4uNUOo_E_dBO4kL0lKQOlxQ0uZYj54pICUzfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTQz/MjMtMTI5NzczMzQ4/My5qcGVn.jpeg" alt="Cover for Bay of Kings" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1059e1d742bc4352b1a7c2efd28b8b36.png" alt="Cover for Bay of Kings" style="max-width:120px; height:auto;" />
       </td>
       <td>1983</td>
       <td>Steve Hackett</td>
@@ -391,6 +391,7 @@ Classical guitar is a refined musical tradition centered on the nylon-stringed a
     <tr>
       <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec2f6ed360af4c0185f244876f79956e.png" alt="Cover for Spanish Guitar Music" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>John Williams</td>
@@ -402,7 +403,7 @@ Classical guitar is a refined musical tradition centered on the nylon-stringed a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 33</li>
+            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 69</li>
             <li> <a href="{{ "/tags/spanish-guitar" | relative_url }}">spanish guitar</a> # 99</li>
         </ul>
       </td>
@@ -591,7 +592,7 @@ Classical guitar is a refined musical tradition centered on the nylon-stringed a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 16</li>
+            <li> <a href="{{ "/tags/modern-rock" | relative_url }}">modern rock</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -759,7 +760,7 @@ Classical guitar is a refined musical tradition centered on the nylon-stringed a
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/Nh-xMWBj5yGMVLqnQQ1iJfZaS9SB4bXcgyQQqlP1EJI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDc2/MjU1LTE1MDkzOTYw/OTQtNTA1OS5qcGVn.jpeg" alt="Cover for Richard Baker&#39;s Favourite Guitar Music" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a15e5b70d436d7c4bfbda507d60ad8a.png" alt="Cover for Richard Baker&#39;s Favourite Guitar Music" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Carlos Bonell</td>
@@ -1171,7 +1172,7 @@ Classical guitar is a refined musical tradition centered on the nylon-stringed a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 66</li>
+            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1556,7 +1557,7 @@ Classical guitar is a refined musical tradition centered on the nylon-stringed a
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/PawkZM-R7Lh3IWkNIyYZiIl4dZ2QjnQqh6VU0IPmJEY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDI3/MDAtMTU0NDEyODc0/MS05MTgyLnBuZw.jpeg" alt="Cover for Little By Little" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac3492dcac947da232eecae14bf0fda0.png" alt="Cover for Little By Little" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-05</td>
       <td>Tommy Emmanuel</td>
@@ -1575,7 +1576,7 @@ Classical guitar is a refined musical tradition centered on the nylon-stringed a
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/I8hfvagcalTEaqEp4j-zYx64nA59JxGji85Hs3ckgYo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjMy/ODI4LTE1NDU5NjU1/ODUtNTU2Ny5qcGVn.jpeg" alt="Cover for Yamour" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22f6dc9ac4f542f2b18c7bd74c71e53a.png" alt="Cover for Yamour" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Andrew York</td>
@@ -1668,7 +1669,7 @@ Classical guitar is a refined musical tradition centered on the nylon-stringed a
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/U9U1vD2RoO4InU8iuiz-EBtli-r59xjGErVlRWMdjYo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzAx/NDA5LTE1MDI2MTc4/NTUtNTMyNC5qcGVn.jpeg" alt="Cover for Classic Williams -- Romance of the Guitar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5252fd1638c48d3b464c5bd9a165141.png" alt="Cover for Classic Williams -- Romance of the Guitar" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-01-19</td>
       <td>John Williams</td>
@@ -1825,6 +1826,7 @@ Classical guitar is a refined musical tradition centered on the nylon-stringed a
     <tr>
       <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc46bf250ce12aded25be2a980062ab2.png" alt="Cover for Lute &amp; Guitar music of Renaissance Spain, Holland, Germany, England, France, Italy volume 4" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Andrei Krylov</td>

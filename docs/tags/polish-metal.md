@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T17:35:38.084Z
+date: 2025-12-04T09:42:58.958Z
 permalink: tags/polish-metal
 title: polish metal
 ---
 
 ## polish metal
 
-Last updated: <time datetime="2025-11-23T17:35:38.084Z">Sun Nov 23 2025 19:35:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T09:42:58.958Z">Thu Dec 04 2025 11:42:58 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -158,7 +158,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-death-metal" | relative_url }}">polish death metal</a> # 54</li>
+            <li> <a href="{{ "/tags/polish-death-metal" | relative_url }}">polish death metal</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -181,8 +181,8 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 6</li>
-            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 88</li>
+            <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 13</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -244,7 +244,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
       <td>
         <ul>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 38</li>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 50</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -583,7 +583,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-death-metal" | relative_url }}">polish death metal</a> # 67</li>
+            <li> <a href="{{ "/tags/polish-death-metal" | relative_url }}">polish death metal</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -733,8 +733,8 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
       <td>
         <ul>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 26</li>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 31</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 61</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -762,10 +762,10 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 42</li>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 20</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 37</li>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 47</li>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 64</li>
-            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 81</li>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -879,8 +879,8 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
       <td>
         <ul>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 27</li>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 32</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 66</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1051,7 +1051,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 44</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 52</li>
             <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 72</li>
         </ul>
       </td>
@@ -1102,8 +1102,8 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 36</li>
-            <li> <a href="{{ "/tags/polish-death-metal" | relative_url }}">polish death metal</a> # 51</li>
+            <li> <a href="{{ "/tags/polish-death-metal" | relative_url }}">polish death metal</a> # 50</li>
+            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1127,7 +1127,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 53</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1154,7 +1154,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 23</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1259,8 +1259,8 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 33</li>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 49</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1373,8 +1373,8 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 17</li>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 68</li>
-            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1512,9 +1512,9 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 28</li>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 37</li>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 46</li>
-            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 72</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1586,8 +1586,8 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 11</li>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 77</li>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1606,8 +1606,8 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 39</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 78</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 23</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1633,7 +1633,7 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
       <td>
         <ul>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 24</li>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 30</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1679,8 +1679,8 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 6</li>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 92</li>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -2073,8 +2073,8 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
       <td>
         <ul>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 6</li>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 27</li>
-            <li> <a href="{{ "/tags/polish-death-metal" | relative_url }}">polish death metal</a> # 82</li>
+            <li> <a href="{{ "/tags/polish-death-metal" | relative_url }}">polish death metal</a> # 19</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -2093,8 +2093,8 @@ Polish metal encompasses the diverse heavy metal scene emerging from Poland, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 28</li>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 43</li>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 73</li>
         </ul>
       </td>
     </tr>

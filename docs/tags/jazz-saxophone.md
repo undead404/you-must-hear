@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-22T15:57:40.060Z
+date: 2025-12-04T09:41:15.950Z
 permalink: tags/jazz-saxophone
 title: jazz saxophone
 ---
 
 ## jazz saxophone
 
-Last updated: <time datetime="2025-11-22T15:57:40.060Z">Sat Nov 22 2025 17:57:40 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T09:41:15.950Z">Thu Dec 04 2025 11:41:15 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -121,7 +121,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-jazz" | relative_url }}">polish jazz</a> # 74</li>
+            <li> <a href="{{ "/tags/polish-jazz" | relative_url }}">polish jazz</a> # 25</li>
             <li> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a> # 93</li>
         </ul>
       </td>
@@ -141,7 +141,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 32</li>
+            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -358,8 +358,8 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/fusion-jazz" | relative_url }}">fusion jazz</a> # 14</li>
             <li> <a href="{{ "/tags/jazz-trumpet" | relative_url }}">jazz trumpet</a> # 81</li>
-            <li> <a href="{{ "/tags/fusion-jazz" | relative_url }}">fusion jazz</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -494,7 +494,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-jazz" | relative_url }}">polish jazz</a> # 31</li>
+            <li> <a href="{{ "/tags/polish-jazz" | relative_url }}">polish jazz</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -857,8 +857,8 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 9</li>
             <li> <a href="{{ "/tags/jazz-trumpet" | relative_url }}">jazz trumpet</a> # 83</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1056,7 +1056,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/south-african" | relative_url }}">south african</a> # 36</li>
+            <li> <a href="{{ "/tags/south-african" | relative_url }}">south african</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1151,7 +1151,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-jazz" | relative_url }}">polish jazz</a> # 33</li>
+            <li> <a href="{{ "/tags/polish-jazz" | relative_url }}">polish jazz</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1250,7 +1250,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 62</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1507,7 +1507,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-jazz" | relative_url }}">polish jazz</a> # 52</li>
+            <li> <a href="{{ "/tags/polish-jazz" | relative_url }}">polish jazz</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1586,7 +1586,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a> # 37</li>
+            <li> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1683,7 +1683,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-jazz" | relative_url }}">polish jazz</a> # 30</li>
+            <li> <a href="{{ "/tags/polish-jazz" | relative_url }}">polish jazz</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1787,7 +1787,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       <td>
         <ul>
             <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 7</li>
-            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 37</li>
+            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 35</li>
             <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 87</li>
             <li> <a href="{{ "/tags/european-jazz" | relative_url }}">european jazz</a> # 95</li>
         </ul>
@@ -1863,7 +1863,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-double-bass" | relative_url }}">jazz double bass</a> # 87</li>
+            <li> <a href="{{ "/tags/jazz-double-bass" | relative_url }}">jazz double bass</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1947,7 +1947,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 65</li>
+            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1969,7 +1969,7 @@ Jazz saxophone represents the quintessential sound of jazz through the instrumen
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 42</li>
+            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 59</li>
         </ul>
       </td>
     </tr>

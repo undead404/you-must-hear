@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T06:29:32.196Z
+date: 2025-12-04T09:41:02.090Z
 permalink: tags/ambient-electronica
 title: ambient electronica
 ---
 
 ## ambient electronica
 
-Last updated: <time datetime="2025-10-22T06:29:32.196Z">Wed Oct 22 2025 09:29:32 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T09:41:02.090Z">Thu Dec 04 2025 11:41:02 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -51,7 +51,7 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/gnAjh7G0iLZMhzMQGvC93T7nha8M1lSEbzAJOR_kUGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTc2/LTAwMS5qcGc.jpeg" alt="Cover for Place Language" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c05f2daf20350f2e60aef929fd5efe7.png" alt="Cover for Place Language" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Various Artists</td>
@@ -156,9 +156,9 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 49</li>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 67</li>
-            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 73</li>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 28</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 34</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -216,7 +216,7 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 74</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -235,7 +235,7 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 1</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -261,7 +261,7 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
     <tr>
       <td>21</td>
       <td>
-          <img src="https://i.discogs.com/ReDH5uDfm6hRsedX8LNsh0H0jy-E7NPJyk3VAPl0jSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzM3/NDYtMTU3NjE4NTIy/Mi02MTMxLmpwZWc.jpeg" alt="Cover for Rauschgold: Alec Empire Plays Staubgold" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a73edbb6b04e4390ac52c608e7d15450.png" alt="Cover for Rauschgold: Alec Empire Plays Staubgold" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Alec Empire</td>
@@ -336,7 +336,7 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/bpKabQd4YVk3vp-yjhZxqcsjqedbXzfGRMhKsldFczE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MTU4/Ny0xMTI5Mzc0NTU2/LmpwZWc.jpeg" alt="Cover for You Go Now" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a45a86c42b73cdd514460e06068517b.png" alt="Cover for You Go Now" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-07-24</td>
       <td>Chroma Key</td>
@@ -378,24 +378,24 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebb1ea33510c4daabe84c2acffdd82b7.png" alt="Cover for Love Sensuality Devotion: The Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-10-08</td>
       <td>Enigma</td>
       <td>Love Sensuality Devotion: The Greatest Hits</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-age" | relative_url }}">new age</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ae2b9cf5ab7ffca6b1aa824a890c464.png" alt="Cover for Four Thousand Years EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-09-07</td>
       <td>Sabi</td>
@@ -488,11 +488,11 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 5</li>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 14</li>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 19</li>
-            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 34</li>
-            <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 52</li>
+            <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 47</li>
+            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 66</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 85</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 90</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -592,7 +592,7 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 20</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -690,9 +690,9 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 59</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 63</li>
-            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 83</li>
+            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 18</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 36</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -789,8 +789,8 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 24</li>
             <li> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a> # 59</li>
-            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -852,10 +852,11 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
       <td>
         <ul>
             <li> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a> # 6</li>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 63</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 72</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 8</li>
+            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 9</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 27</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 38</li>
             <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 86</li>
-            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 92</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 92</li>
             <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 97</li>
         </ul>
@@ -895,14 +896,14 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 83</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/5wLF0lkwVt1yRxtcrg8JADVtuVNdSkx0CL8AScQrsz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNzc1/NS0xMTQxNzQ5Nzc1/LmpwZWc.jpeg" alt="Cover for Linedrop Remix EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09d37e15d205f20f028efc73d2e1c6f2.png" alt="Cover for Linedrop Remix EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-03-05</td>
       <td>Sabi</td>
@@ -924,7 +925,7 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 62</li>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -975,6 +976,7 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fac0a7ef4715479f90eea6211ff7162d.png" alt="Cover for The Shine Of Dried Electric Leaves" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-05-02</td>
       <td>Cibelle</td>
@@ -993,6 +995,7 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
     <tr>
       <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c010f8009380a1c8f4e19b8658d9c491.png" alt="Cover for In the Deep" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-07-01</td>
       <td>Jette-Ives</td>
@@ -1017,9 +1020,9 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 13</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 32</li>
-            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 48</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 54</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1041,7 +1044,7 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 26</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1106,7 +1109,7 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/-U61wgXUj15Z3Ckoy2Dw1nOGgo4jOyjXlLBupxj3l60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTI5/OTktMTQ2NDU2ODI1/MC00MDgzLmpwZWc.jpeg" alt="Cover for Digiwatt Lydt" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c728fb7648a988771d04f38bfa7afb2e.png" alt="Cover for Digiwatt Lydt" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-12-03</td>
       <td>Morgen Mittag</td>
@@ -1139,7 +1142,7 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/_Q7Y0qrx92tEzsdNEwDHTJ2CCUsd9RLk19GHSOVy6Zk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzMz/MjctMTIwMjUyMjE3/NC5qcGVn.jpeg" alt="Cover for Devils Tower" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/915dc1ca5d8a27ede1fd7d937fc254ff.png" alt="Cover for Devils Tower" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-12-27</td>
       <td>Lee Rosevere</td>
@@ -1187,6 +1190,7 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a0529ded4fb48258c84e8d9c3394701.png" alt="Cover for React" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-03-25</td>
       <td>Robert Rich &amp; Ian Boddy</td>
@@ -1205,7 +1209,7 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/3lmGUol1368vqrkpYvt-J61oqeaE92eELiAYGQ5IrUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDIz/MzQtMTMyODk5ODAy/NS5qcGVn.jpeg" alt="Cover for A Granma" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/380f397c1b1547bc92a8bf4d199a4c47.png" alt="Cover for A Granma" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-05-16</td>
       <td>Oh Yes, By All Means</td>
@@ -1216,7 +1220,7 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-noise" | relative_url }}">experimental noise</a> # 27</li>
+            <li> <a href="{{ "/tags/experimental-noise" | relative_url }}">experimental noise</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1291,11 +1295,12 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 5</li>
             <li> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a> # 9</li>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 60</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 62</li>
+            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 16</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 36</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 41</li>
             <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 80</li>
-            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 85</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 87</li>
             <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 94</li>
         </ul>
@@ -1304,7 +1309,6 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/ftebJRptogQkrLYz6Q0QswgdFRqTWPfEDu3Dz02AFvo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM2/NzMtMTIyMDg5MTA3/MC5qcGVn.jpeg" alt="Cover for Ao" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-08</td>
       <td>Apecis</td>
@@ -1362,14 +1366,14 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 26</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>17</td>
       <td>
-          <img src="https://i.discogs.com/K_5UP6zQCHsR4RfdscttW8Uy8WkF8jeQOkpFJX0kDnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTcy/NDEtMTIzODg4MTQ4/OC5qcGVn.jpeg" alt="Cover for Drift" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f38557c9bbb1c22e8641c80c95100c39.png" alt="Cover for Drift" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Stray Theories</td>
@@ -1390,7 +1394,7 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/kIc28jnZ_h2GlYkhe_tvXII1BxAVfRD3PKVM1q9G4IY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjYw/ODktMTI1OTMxNzU0/Ny5qcGVn.jpeg" alt="Cover for Fuzzy Emotions" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9ff066333574fe09eca997e7692c647.png" alt="Cover for Fuzzy Emotions" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-11-18</td>
       <td>AquaFur</td>
@@ -1410,7 +1414,7 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 54</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 46</li>
             <li> <a href="{{ "/tags/didgeridoo" | relative_url }}">didgeridoo</a> # 69</li>
         </ul>
       </td>
@@ -1418,7 +1422,7 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/CG3VGh5cKcZVWHp-db5fHEGzFCICbAamgUTOVUSqEyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDU3/MDMtMTMwNjYwNjky/Mi5qcGVn.jpeg" alt="Cover for Event Horizon" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3850ae9190af40d78fe987a832db3b53.png" alt="Cover for Event Horizon" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Subterrestrial</td>
@@ -1447,7 +1451,7 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/CG3VGh5cKcZVWHp-db5fHEGzFCICbAamgUTOVUSqEyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDU3/MDMtMTMwNjYwNjky/Mi5qcGVn.jpeg" alt="Cover for Subterrestrial" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a19835860c34c74b4ca00a64e6ef9c2.png" alt="Cover for Subterrestrial" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Subterrestrial</td>
@@ -1473,7 +1477,7 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/5DC99AFZhtXKsS0ZGXOmHhjlqJR3Ot3KUXvTWIj88SA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTc1/MTctMTQxNjMyMTky/NC05OTk4LmpwZWc.jpeg" alt="Cover for Viking Trance 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/682bdf65c11f425ac218c04745152c5a.png" alt="Cover for Viking Trance 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01-01</td>
       <td>Viking Trance</td>
@@ -1496,7 +1500,7 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
     <tr>
       <td>12</td>
       <td>
-          <img src="https://i.discogs.com/CUvJgSyQUnM4KTQ_1WEep674No-GJj6tSWeTpmOn-js/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MjQ2/NDItMTQwNjQ4MzYx/Mi01ODMxLmpwZWc.jpeg" alt="Cover for Twilight Tipi" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/72d4d383c4044ba984e2d1d694792df6.png" alt="Cover for Twilight Tipi" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Byrd&#x2F;Thompson</td>
@@ -1539,7 +1543,7 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
     <tr>
       <td>13</td>
       <td>
-          <img src="https://i.discogs.com/wO5l0crmYja7uRT4yszoDqaeQy-ea01HAz2BpSIEmY4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDcz/NzctMTMwNjY5MTM4/Ni5qcGVn.jpeg" alt="Cover for Music Is My 0²" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/687f41a44bbd4beabe30401938cd270c.png" alt="Cover for Music Is My 0²" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-29</td>
       <td>Pollux</td>
@@ -1561,6 +1565,7 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
     <tr>
       <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b25d93292df49c48f02a1f9f8378c9b.png" alt="Cover for Plasma Weapon" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-03</td>
       <td>Subterrestrial</td>
@@ -1584,7 +1589,7 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/oCNgXq_WP1rSD0YT0bACtcevZnypLC1pvLCNvWlnH9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDkx/NjY4LTE1ODY1NzY5/NTMtNjczNi5qcGVn.jpeg" alt="Cover for ClaireRocket" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/598c389f78fa4109af28ceadd9457ea4.png" alt="Cover for ClaireRocket" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-07</td>
       <td>ElectricOkra</td>
@@ -1668,7 +1673,7 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/mUWnqLr4EG6KnZHTOsFR1AfXTnqV3y-W4SheeRCElZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjA0/OTgtMTMyMTA0NTE5/OC5qcGVn.jpeg" alt="Cover for Tragedy &amp; Geometry" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0814adbce46b460a942a9169d6d5465b.png" alt="Cover for Tragedy &amp; Geometry" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-11-14</td>
       <td>Steve Hauschildt</td>
@@ -1681,14 +1686,14 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 22</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>10</td>
       <td>
-          <img src="https://i.discogs.com/mY55hJ0vdmWjFUdeIjX346CsDbQDtyRm-ZWZ5r0Ec4A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTE1/MzQtMTMyNjEwNDE4/NS5qcGVn.jpeg" alt="Cover for Old Autumn Tales EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd046dddc4c74d59af433378330fa40e.png" alt="Cover for Old Autumn Tales EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-18</td>
       <td>Noisesurfer</td>
@@ -1750,7 +1755,7 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/t_M4gvedmDJ4x65JgXdesEordylWj3JQE1yIoPi0DV0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDQ2/OTktMTQyMTY3MzM5/MC00MzI2LmpwZWc.jpeg" alt="Cover for Viking Trance 4" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/adc487b20cfc4a52ca623f2f84649abe.png" alt="Cover for Viking Trance 4" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06-25</td>
       <td>Viking Trance</td>
@@ -1795,7 +1800,7 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/RAy8pOirkZueJBa8ulAcLlpCoQtdqBE8MYOxBogrJ24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNzgz/OTktMTM4OTQzMDgw/Ni0yMzE4LmpwZWc.jpeg" alt="Cover for Collapse" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d678435013fa2c165d479f940dda867.png" alt="Cover for Collapse" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Flaer Smin</td>
@@ -1833,7 +1838,7 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/IjvyG6Sxdc2mZNRm7W-LsdE5Lj8qIt0msvIM8_wdjEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzc0/MjAxLTE2MzI2NTcy/OTktOTU2MS5qcGVn.jpeg" alt="Cover for Free Tracks" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d171c322da7d09b0c21d7815542fdea2.png" alt="Cover for Free Tracks" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-02-14</td>
       <td>Sabi</td>
@@ -1884,6 +1889,7 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
     <tr>
       <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a208fec74307499bba89c4d339e4e071.png" alt="Cover for Elements EP" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Shaion</td>
@@ -1929,7 +1935,7 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 5</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1956,7 +1962,7 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 11</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -2009,7 +2015,7 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 29</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -2038,8 +2044,8 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 4</li>
             <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 10</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2062,13 +2068,14 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 37</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/daf142d60f6944f5a4903a0f58a5c3fc.png" alt="Cover for Time Mapped Time V2" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Martin Budd Mono Input</td>
@@ -2088,8 +2095,8 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 12</li>
             <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 22</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -2124,14 +2131,15 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 16</li>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 40</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 60</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/53c3aab3b4ac4142a2a0c3d41af11f46.png" alt="Cover for Closed Book" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Mono Input</td>
@@ -2151,8 +2159,8 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 22</li>
             <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 32</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -2181,8 +2189,8 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 25</li>
             <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 38</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -2209,8 +2217,8 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 27</li>
             <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 39</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -2256,7 +2264,7 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 60</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 43</li>
             <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 73</li>
         </ul>
       </td>
@@ -2283,6 +2291,7 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
     <tr>
       <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f755766d03ddd0ba20b4245bd3465f4.png" alt="Cover for Die_" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Birdhub</td>
@@ -2415,6 +2424,7 @@ Ambient electronica blends the spacious, atmospheric qualities of ambient music 
     <tr>
       <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3a7a088953a48b99bc98bf88ebfddea.png" alt="Cover for Free Toy Inside!" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Bobbie Boob</td>

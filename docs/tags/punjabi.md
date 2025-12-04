@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T06:20:56.054Z
+date: 2025-12-04T09:38:54.325Z
 permalink: tags/punjabi
 title: punjabi
 ---
 
 ## punjabi
 
-Last updated: <time datetime="2025-10-22T06:20:56.054Z">Wed Oct 22 2025 09:20:56 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T09:38:54.325Z">Thu Dec 04 2025 11:38:54 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,7 +44,7 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 3</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -84,8 +84,8 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 46</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 54</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 55</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 74</li>
         </ul>
       </td>
@@ -112,12 +112,12 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 7</li>
-            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 45</li>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 71</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 30</li>
+            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 56</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 79</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 88</li>
             <li> <a href="{{ "/tags/uk-bhangra" | relative_url }}">uk bhangra</a> # 92</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -141,8 +141,8 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 35</li>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 80</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 21</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 64</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 87</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 93</li>
             <li> <a href="{{ "/tags/uk-bhangra" | relative_url }}">uk bhangra</a> # 96</li>
@@ -166,7 +166,7 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 98</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -191,7 +191,7 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/Aq1fAFt2NdccApc6jMHyecjjg-29FBBDyDc3Fol3voQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODcz/MC0xMjg5NTk3Njg2/LmpwZWc.jpeg" alt="Cover for Thousand Thoughts" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6aea3eb2ba334609b88da96edaf4666a.png" alt="Cover for Thousand Thoughts" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Bohemia</td>
@@ -255,9 +255,9 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 8</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 14</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 49</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -275,7 +275,7 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 10</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 88</li>
             <li> <a href="{{ "/tags/pakistani" | relative_url }}">pakistani</a> # 90</li>
         </ul>
       </td>
@@ -301,10 +301,10 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 13</li>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 25</li>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 75</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 26</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 76</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 81</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 86</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 90</li>
         </ul>
       </td>
@@ -329,9 +329,9 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 26</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 36</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 61</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -354,8 +354,8 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 35</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 43</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 66</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 66</li>
         </ul>
       </td>
@@ -380,9 +380,9 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 6</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 12</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 47</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -404,7 +404,7 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       <td>
         <ul>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 15</li>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 53</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -425,7 +425,7 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 54</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 47</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 60</li>
         </ul>
       </td>
@@ -433,6 +433,7 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
     <tr>
       <td>16</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/384b0005ca2993df5201757220da5505.png" alt="Cover for Legalised" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Panjabi MC</td>
@@ -444,7 +445,7 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 72</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -466,8 +467,8 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 44</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 52</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 57</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 73</li>
         </ul>
       </td>
@@ -490,7 +491,7 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 76</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 25</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 84</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 91</li>
             <li> <a href="{{ "/tags/uk-bhangra" | relative_url }}">uk bhangra</a> # 94</li>
@@ -516,7 +517,7 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 73</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 28</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 80</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 89</li>
             <li> <a href="{{ "/tags/uk-bhangra" | relative_url }}">uk bhangra</a> # 93</li>
@@ -540,8 +541,8 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 12</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 19</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -565,9 +566,9 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 22</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 31</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 57</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -590,7 +591,7 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 58</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 43</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 63</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 78</li>
             <li> <a href="{{ "/tags/uk-bhangra" | relative_url }}">uk bhangra</a> # 87</li>
@@ -616,7 +617,7 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 65</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 36</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 71</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 82</li>
             <li> <a href="{{ "/tags/uk-bhangra" | relative_url }}">uk bhangra</a> # 89</li>
@@ -658,7 +659,7 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 29</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -680,7 +681,7 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 79</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 22</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 86</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 92</li>
             <li> <a href="{{ "/tags/uk-bhangra" | relative_url }}">uk bhangra</a> # 95</li>
@@ -728,10 +729,10 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 23</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 32</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 58</li>
             <li> <a href="{{ "/tags/uk-bhangra" | relative_url }}">uk bhangra</a> # 76</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -751,7 +752,7 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 32</li>
+            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -774,7 +775,7 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 85</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 16</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 93</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 97</li>
             <li> <a href="{{ "/tags/uk-bhangra" | relative_url }}">uk bhangra</a> # 98</li>
@@ -799,7 +800,7 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 87</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 14</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 95</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 98</li>
             <li> <a href="{{ "/tags/uk-bhangra" | relative_url }}">uk bhangra</a> # 99</li>
@@ -826,11 +827,11 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 6</li>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 69</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 32</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 76</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 86</li>
             <li> <a href="{{ "/tags/uk-bhangra" | relative_url }}">uk bhangra</a> # 90</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -852,7 +853,7 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 60</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 41</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 66</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 80</li>
         </ul>
@@ -898,7 +899,7 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 63</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 38</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 69</li>
         </ul>
       </td>
@@ -960,9 +961,9 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 34</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 42</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 65</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 67</li>
             <li> <a href="{{ "/tags/uk-bhangra" | relative_url }}">uk bhangra</a> # 79</li>
         </ul>
       </td>
@@ -985,8 +986,8 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 37</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 44</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 64</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 67</li>
             <li> <a href="{{ "/tags/uk-bhangra" | relative_url }}">uk bhangra</a> # 80</li>
         </ul>
@@ -1011,7 +1012,7 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 48</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 53</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 56</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 76</li>
             <li> <a href="{{ "/tags/uk-bhangra" | relative_url }}">uk bhangra</a> # 85</li>
@@ -1038,15 +1039,16 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 5</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 11</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 46</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d15b8607d529dbb7ecd01d4dab7877a1.png" alt="Cover for Mundian to Bach Ke" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-11-25</td>
       <td>Panjabi MC</td>
@@ -1059,8 +1061,8 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 3</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 96</li>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1081,9 +1083,9 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 14</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 22</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 52</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1106,9 +1108,9 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 25</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 34</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 60</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1131,7 +1133,7 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 47</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 54</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 55</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 75</li>
             <li> <a href="{{ "/tags/uk-bhangra" | relative_url }}">uk bhangra</a> # 84</li>
@@ -1160,9 +1162,9 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 63</li>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 73</li>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 90</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 11</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 28</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 36</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 97</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 99</li>
             <li> <a href="{{ "/tags/uk-bhangra" | relative_url }}">uk bhangra</a> # 100</li>
@@ -1188,16 +1190,16 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 18</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 26</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 55</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/d0RKQGb1dRAttDcYR3fe6hU_NYRAd9s7pOTxlVqPgdU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDk3/MC0xMTcxMjY2ODQw/LmpwZWc.jpeg" alt="Cover for The Album" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6572e0e394c41b9b0f61f7b7c0faef0.png" alt="Cover for The Album" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-05-05</td>
       <td>Panjabi MC</td>
@@ -1209,7 +1211,7 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 99</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 2</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 100</li>
         </ul>
       </td>
@@ -1232,7 +1234,7 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 84</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 17</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 91</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 96</li>
             <li> <a href="{{ "/tags/uk-bhangra" | relative_url }}">uk bhangra</a> # 97</li>
@@ -1254,8 +1256,8 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 5</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 82</li>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1300,8 +1302,8 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 10</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 17</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1323,8 +1325,8 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 13</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 20</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1345,8 +1347,8 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 38</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 45</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1369,7 +1371,7 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 66</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 35</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 73</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 84</li>
         </ul>
@@ -1394,7 +1396,7 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 67</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 34</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 72</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 83</li>
         </ul>
@@ -1417,7 +1419,7 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 86</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 15</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 94</li>
         </ul>
       </td>
@@ -1482,8 +1484,8 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 40</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 48</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 62</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 69</li>
             <li> <a href="{{ "/tags/uk-bhangra" | relative_url }}">uk bhangra</a> # 82</li>
         </ul>
@@ -1507,9 +1509,9 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 4</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 10</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 45</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1531,8 +1533,8 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 42</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 50</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 59</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 71</li>
             <li> <a href="{{ "/tags/uk-bhangra" | relative_url }}">uk bhangra</a> # 83</li>
         </ul>
@@ -1556,7 +1558,7 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 70</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 31</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 78</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 87</li>
             <li> <a href="{{ "/tags/uk-bhangra" | relative_url }}">uk bhangra</a> # 91</li>
@@ -1580,7 +1582,7 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 81</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 20</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 88</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 94</li>
         </ul>
@@ -1604,8 +1606,8 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 65</li>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 91</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 10</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 34</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 98</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 100</li>
         </ul>
@@ -1627,7 +1629,7 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 74</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1650,9 +1652,9 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 15</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 23</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 53</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1675,10 +1677,10 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 7</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 13</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 48</li>
             <li> <a href="{{ "/tags/uk-bhangra" | relative_url }}">uk bhangra</a> # 74</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1700,7 +1702,7 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 52</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 49</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 58</li>
         </ul>
       </td>
@@ -1720,8 +1722,8 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 19</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 39</li>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1765,7 +1767,7 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 19</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1829,9 +1831,9 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 12</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 64</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 79</li>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1878,8 +1880,8 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 20</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 56</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1905,10 +1907,10 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 11</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 18</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 51</li>
             <li> <a href="{{ "/tags/uk-bhangra" | relative_url }}">uk bhangra</a> # 75</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1957,9 +1959,9 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 1</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 9</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 44</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1980,8 +1982,8 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 41</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 49</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 60</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 70</li>
         </ul>
       </td>
@@ -2004,9 +2006,9 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 9</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 16</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 50</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -2028,9 +2030,9 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 33</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 41</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 64</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 68</li>
             <li> <a href="{{ "/tags/uk-bhangra" | relative_url }}">uk bhangra</a> # 78</li>
         </ul>
       </td>
@@ -2054,7 +2056,7 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 56</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 45</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 62</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 77</li>
             <li> <a href="{{ "/tags/uk-bhangra" | relative_url }}">uk bhangra</a> # 86</li>
@@ -2079,7 +2081,7 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 83</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 18</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 89</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 95</li>
         </ul>
@@ -2104,7 +2106,7 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 62</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 39</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 68</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 81</li>
             <li> <a href="{{ "/tags/uk-bhangra" | relative_url }}">uk bhangra</a> # 88</li>
@@ -2150,9 +2152,9 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 17</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 24</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 54</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -2172,7 +2174,7 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 2</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2194,7 +2196,7 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 68</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 33</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 74</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 85</li>
         </ul>
@@ -2218,9 +2220,9 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 31</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 38</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 63</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 70</li>
             <li> <a href="{{ "/tags/uk-bhangra" | relative_url }}">uk bhangra</a> # 77</li>
         </ul>
       </td>
@@ -2279,9 +2281,9 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 24</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 33</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 59</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -2323,8 +2325,8 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 39</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 47</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 61</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 68</li>
             <li> <a href="{{ "/tags/uk-bhangra" | relative_url }}">uk bhangra</a> # 81</li>
         </ul>
@@ -2348,8 +2350,8 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 21</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 27</li>
+            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -2372,9 +2374,9 @@ Punjabi music encompasses the vibrant sounds originating from Punjab, characteri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 31</li>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 43</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 51</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 58</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 70</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 72</li>
         </ul>
       </td>

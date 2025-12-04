@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T16:00:03.776Z
+date: 2025-12-04T09:27:52.632Z
 permalink: tags/indonesia
 title: indonesia
 ---
 
 ## indonesia
 
-Last updated: <time datetime="2025-10-28T16:00:03.776Z">Tue Oct 28 2025 18:00:03 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T09:27:52.632Z">Thu Dec 04 2025 11:27:52 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -69,7 +69,7 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/4y_rf-J5gsA1A_jsJoHjs7UP8aVFYaznkdffuUyP1tc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzQ3/Ny0xMzk5MzQ1MTEz/LTI4NjYuanBlZw.jpeg" alt="Cover for Just Black Star" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a257487758a4c4aacad01d5d9a91c2b.png" alt="Cover for Just Black Star" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>Black Star</td>
@@ -139,7 +139,7 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 19</li>
+            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -299,6 +299,7 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/faa6a3bbcc554d24cd64e730c3db0add.png" alt="Cover for Cintailah Cinta" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-04-05</td>
       <td>Dewa</td>
@@ -443,7 +444,7 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 8</li>
+            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -479,7 +480,7 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 86</li>
+            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -539,6 +540,7 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
     <tr>
       <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b87610ee83de4993b7e45da5df7be2f3.png" alt="Cover for Tak Hanya Diam" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-11-16</td>
       <td>Padi</td>
@@ -685,7 +687,7 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 71</li>
+            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -729,7 +731,7 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 12</li>
+            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -777,10 +779,10 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 1</li>
             <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 18</li>
-            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 33</li>
-            <li> <a href="{{ "/tags/progressive-breaks" | relative_url }}">progressive breaks</a> # 57</li>
+            <li> <a href="{{ "/tags/progressive-breaks" | relative_url }}">progressive breaks</a> # 44</li>
+            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 68</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -823,6 +825,7 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e973cba984bd4737a84af71db4ede7b4.png" alt="Cover for 1000 Kisah Satu Hati" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01-01</td>
       <td>Ungu</td>
@@ -855,7 +858,7 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 80</li>
+            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -882,7 +885,7 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/gRfbUGqvBKBd5s_1FpcKPDq-cKVfSvV1qWxrH41O0Tc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDA5/MjUtMTM5NzY3NDYy/Ni04NDczLmpwZWc.jpeg" alt="Cover for PROMO 2020" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/93223fce57e66cd5d21fbfdca85d7f56.png" alt="Cover for PROMO 2020" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-12</td>
       <td>Centra</td>
@@ -996,7 +999,7 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/uaRc06zzySmmxbR7jbj-2g1-zDdUFWkhWzS31hedN2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTM0/NDgzLTE1NDQ4NDQy/MjYtODgxMS5qcGVn.jpeg" alt="Cover for Katalika" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb7841446b0b717c00e850ed0e128b70.png" alt="Cover for Katalika" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>The Upstairs</td>
@@ -1015,7 +1018,7 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
     <tr>
       <td>17</td>
       <td>
-          <img src="https://i.discogs.com/dS3ZWtpYNOSsAuH41-GL1cQ4m8CCVTMRqmvv6KnTAWo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjYw/OTEtMTQ2NTQwOTc4/OS03NTI5LmpwZWc.jpeg" alt="Cover for Hymn to Your God" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f651b12c0bf43ffc3ee35e7225d5d87.png" alt="Cover for Hymn to Your God" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03-05</td>
       <td>Exhumation</td>
@@ -1030,7 +1033,7 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 16</li>
+            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1120,7 +1123,7 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/sIss0gcdSp5JzYG4yy6K6jIo53DmbB5nGvbuSjTnGTo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMzg0/NTctMTU1MjY1NjMw/NC03MzA1LmpwZWc.jpeg" alt="Cover for Sunset Di Tanah Anarki" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d6605073fc946f1839b667b142805fd.png" alt="Cover for Sunset Di Tanah Anarki" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Superman Is Dead</td>
@@ -1139,6 +1142,7 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5371f500592546f8a352b89dd607370e.png" alt="Cover for RIVER" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-01-01</td>
       <td>JKT48</td>
@@ -1154,8 +1158,8 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 63</li>
-            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 94</li>
+            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 7</li>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1199,6 +1203,7 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
     <tr>
       <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/201f2bac60ca46b1c6c237f2c6f45d81.png" alt="Cover for Yuuhi wo Miteiruka?" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-07-03</td>
       <td>JKT48</td>
@@ -1214,7 +1219,7 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 65</li>
+            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1234,13 +1239,14 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 78</li>
+            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dfec477d824740f3c0db458d37590fe4.png" alt="Cover for Fortune Cookie in Love" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-08-21</td>
       <td>JKT48</td>
@@ -1256,7 +1262,7 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 83</li>
+            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1277,7 +1283,7 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 49</li>
+            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1298,7 +1304,7 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 46</li>
+            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1319,7 +1325,7 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 92</li>
+            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1359,7 +1365,7 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 52</li>
+            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1385,7 +1391,7 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/RdyS7CtjCfoIoffW5Ec5le7WR-UiBlffdgSxwc-tQX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQ1/NTQwLTE1ODI2OTcz/NzQtNTU3Ni5qcGVn.jpeg" alt="Cover for Bersinar Terang" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b76146702ef4b8c8776593cb69ece60.png" alt="Cover for Bersinar Terang" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-04-23</td>
       <td>Geisha</td>
@@ -1404,7 +1410,7 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/g-WZvzmjAfBmsxjkgQ7fhZZjxwaqza4oRYracdfGt_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODgw/NDctMTQ4ODA4MTky/NC0yMTQxLmpwZWc.jpeg" alt="Cover for Brave" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a872d903c6f4184c167d0461d202847.png" alt="Cover for Brave" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-05</td>
       <td>Billfold</td>
@@ -1472,7 +1478,7 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 89</li>
+            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1493,7 +1499,7 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 95</li>
+            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1536,7 +1542,7 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/5hF6riLj1DOascbvnbzXYV7A9omN6sGH0xUyO8FBpS8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU1/NzM0LTE1NDEzNDIy/OTctNzU1Ni5qcGVn.jpeg" alt="Cover for ePop008" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2976285678ef3ee5206da1868e142be5.png" alt="Cover for ePop008" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-11-18</td>
       <td>Sometimes Always</td>
@@ -1574,7 +1580,7 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/59z0nNdL2Gs37q-j-BA1Ih_wm0ZPfEYRVWQEUm1puPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTA3/MDc4LTE2MDM1NDcz/MzUtODQ3MS5qcGVn.jpeg" alt="Cover for Sports between Trenches" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8cac46dcae10598a2d88955c5352dadb.png" alt="Cover for Sports between Trenches" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Murphy Radio</td>
@@ -1592,7 +1598,7 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 28</li>
+            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1613,7 +1619,7 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 97</li>
+            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1636,8 +1642,8 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 39</li>
-            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 100</li>
+            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 1</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1675,7 +1681,7 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 26</li>
+            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1697,39 +1703,32 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 48</li>
+            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/ob98BHqj0xlAWixhntHwOySEXiJmB7ljYQMyPslKgeU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjc1/NzQtMTMxNzA1MDQw/MS5qcGVn.jpeg" alt="Cover for MOMO&#39;S MYSTERIOUS SKIN" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/743a1b670dfffa6d247e4e28a87465ef.png" alt="Cover for MOMO&#39;S MYSTERIOUS SKIN" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-03-23</td>
       <td>BAP.</td>
       <td>MOMO&#39;S MYSTERIOUS SKIN</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indonesia" | relative_url }}">indonesia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 56</li>
+            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for Indonesia: Music from West Java" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0dd42c50564de73033618ed2b3471731.png" alt="Cover for Indonesia: Music from West Java" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Various Artists</td>
@@ -1747,16 +1746,16 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 8</li>
-            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 20</li>
             <li> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a> # 78</li>
+            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 81</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for Music of Indonesia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ac250b8825bd121964f7ee3beb1e9ef.png" alt="Cover for Music of Indonesia" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Various Artists</td>
@@ -1774,7 +1773,7 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 10</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1819,7 +1818,7 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/5sOvmQEMsfPZjyjb-7baLUceUpfZenYQMdPNUHSXamQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODE5/LTExNjQ0NTE1OTYu/anBlZw.jpeg" alt="Cover for Home" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/57ce43f1573e454daebfe459ef734908.png" alt="Cover for Home" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-06-21</td>
       <td>Tristan</td>
@@ -1842,6 +1841,7 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
     <tr>
       <td>16</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c692079af72420a951a192aea4561bc4.png" alt="Cover for Khusus Dewasa" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Sexmengesek</td>
@@ -1896,6 +1896,7 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
     <tr>
       <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/01c7f29cc00c416d9e802d90b13555b3.png" alt="Cover for Pursuit of Happiness" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Britta Nordica</td>
@@ -1918,6 +1919,7 @@ Indonesian pop music blends Western contemporary styles with local melodic sensi
     <tr>
       <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/43f9ec343a9e4514c5387508ddf28fa1.png" alt="Cover for Lawless Vomit Crew" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Lawless Jakarta</td>

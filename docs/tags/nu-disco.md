@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T17:36:37.991Z
+date: 2025-12-04T09:43:04.169Z
 permalink: tags/nu-disco
 title: nu-disco
 ---
 
 ## nu-disco
 
-Last updated: <time datetime="2025-11-23T17:36:37.991Z">Sun Nov 23 2025 19:36:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T09:43:04.169Z">Thu Dec 04 2025 11:43:04 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -108,9 +108,9 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 74</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 76</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 84</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 17</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 25</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -146,7 +146,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 34</li>
+            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 67</li>
             <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 98</li>
         </ul>
       </td>
@@ -183,8 +183,8 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 5</li>
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 87</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -227,12 +227,12 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 2</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 63</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 11</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 15</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 16</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 38</li>
             <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 81</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 85</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 86</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 90</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -252,7 +252,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 51</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -280,8 +280,8 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 25</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 74</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -332,8 +332,8 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 70</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 80</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 21</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -391,10 +391,10 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 1</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 61</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 27</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 40</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 72</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 74</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -463,8 +463,8 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 71</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 81</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 20</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 30</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 83</li>
         </ul>
       </td>
@@ -521,8 +521,8 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 63</li>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 89</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 12</li>
+            <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -606,10 +606,10 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 15</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 24</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 26</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 73</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 75</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 77</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 86</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 89</li>
         </ul>
       </td>
@@ -668,7 +668,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 34</li>
+            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -706,7 +706,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 40</li>
+            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -741,9 +741,9 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 5</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 9</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 91</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 92</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -798,10 +798,10 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       <td>
         <ul>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 31</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 35</li>
             <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 39</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 40</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 49</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 66</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 52</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -842,17 +842,17 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 4</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 14</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 22</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 63</li>
-            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 84</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 97</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 97</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 97</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 2</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 4</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 4</li>
+            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 17</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 38</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 79</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 87</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 96</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 98</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 98</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 99</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -873,7 +873,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 42</li>
+            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -908,9 +908,9 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 47</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 53</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 69</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 32</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 48</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1005,9 +1005,9 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 18</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 28</li>
             <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 68</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 73</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 83</li>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 86</li>
         </ul>
       </td>
@@ -1069,8 +1069,8 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 60</li>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 92</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 8</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1206,6 +1206,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1310,8 +1311,8 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 5</li>
             <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 51</li>
+            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1332,7 +1333,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 93</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1354,7 +1355,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 70</li>
+            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1396,9 +1397,9 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 2</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 68</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 94</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 4</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 7</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1420,8 +1421,8 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 55</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 76</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 25</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1443,7 +1444,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 75</li>
+            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1463,7 +1464,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 72</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1536,7 +1537,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 89</li>
+            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1619,8 +1620,8 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 20</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 41</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 60</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1638,7 +1639,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 57</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1678,8 +1679,9 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 71</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 94</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 7</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 31</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1701,7 +1703,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 83</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 18</li>
             <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 99</li>
         </ul>
       </td>
@@ -1720,10 +1722,8 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 25</li>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 75</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 85</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 97</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 12</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1746,8 +1746,8 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 39</li>
-            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 62</li>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 39</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1784,9 +1784,9 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 26</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 40</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 87</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 14</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 61</li>
+            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1804,7 +1804,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 30</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1841,8 +1841,8 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 31</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 75</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 26</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1902,7 +1902,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 79</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1920,8 +1920,7 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 83</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 99</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -2017,10 +2016,10 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 5</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 73</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 5</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 28</li>
             <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 95</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 96</li>
+            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -2040,10 +2039,10 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 77</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 77</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 95</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 97</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 4</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 5</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 24</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -2066,9 +2065,9 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 75</li>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 1</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 26</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 90</li>
-            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2161,8 +2160,8 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 35</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 82</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 19</li>
+            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -2183,8 +2182,8 @@ Nu-disco is a genre of dance music that emerged in the early 2000s and is influe
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 3</li>
             <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 96</li>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 98</li>
         </ul>
       </td>
     </tr>

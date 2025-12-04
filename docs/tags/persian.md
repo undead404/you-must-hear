@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T06:21:39.590Z
+date: 2025-12-04T09:39:00.483Z
 permalink: tags/persian
 title: persian
 ---
 
 ## persian
 
-Last updated: <time datetime="2025-10-22T06:21:39.590Z">Wed Oct 22 2025 09:21:39 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T09:39:00.483Z">Thu Dec 04 2025 11:39:00 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -48,10 +48,10 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 31</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 54</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 48</li>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 60</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 61</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 69</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 69</li>
         </ul>
       </td>
@@ -70,9 +70,9 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 41</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 52</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 60</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 61</li>
             <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 66</li>
             <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 74</li>
         </ul>
@@ -153,12 +153,12 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 8</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 52</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 66</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 36</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 48</li>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 68</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 73</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 79</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -183,6 +183,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/df2f8ef3d7d71c505a961f50d1f8325b.png" alt="Cover for Niya Yesh" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Axiom Of Choice</td>
@@ -303,8 +304,8 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 71</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 89</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 12</li>
+            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 29</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 91</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 95</li>
         </ul>
@@ -405,7 +406,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 87</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 14</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 89</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 93</li>
             <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 94</li>
@@ -445,8 +446,8 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 77</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 80</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 19</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -473,7 +474,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/L-AQ3siqhywkg0C_CAOgIevWeMPJhI1KXsEJKMvky1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njc1/NjQ5LTE2MjA2ODYw/NTItOTkwNC5qcGVn.jpeg" alt="Cover for Mardeh Tanhayeh Shab" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b7cb93b4d4d5dd9c392ad467c6d856e.png" alt="Cover for Mardeh Tanhayeh Shab" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Habib</td>
@@ -490,7 +491,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 58</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 44</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 64</li>
             <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 74</li>
             <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 81</li>
@@ -520,6 +521,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
     <tr>
       <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2bb00716d9bc2115eef91efb20701f29.png" alt="Cover for Elysium For The Brave" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-07-25</td>
       <td>Azam Ali</td>
@@ -533,11 +535,11 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 32</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 81</li>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 85</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 92</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 100</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 1</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 8</li>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 15</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 20</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -562,7 +564,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 46</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 56</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 56</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 64</li>
             <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 69</li>
@@ -591,7 +593,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 70</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 31</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 77</li>
             <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 80</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 82</li>
@@ -625,10 +627,10 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 35</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 80</li>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 15</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 21</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 36</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 85</li>
-            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 86</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 89</li>
             <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 89</li>
             <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 91</li>
@@ -708,7 +710,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/rUn-mAEy07kgKb2xU1QryPno0EFJCC1Ebp2-OaXDT0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mzk2/ODc4LTE3MDQ0MjIy/NTgtMTI2My5wbmc.jpeg" alt="Cover for I Return (Baz Amadam)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/113c59661bcc4942ae6401b658df3986.png" alt="Cover for I Return (Baz Amadam)" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Rana Farhan</td>
@@ -745,7 +747,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 57</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 45</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 63</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 72</li>
             <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 73</li>
@@ -790,7 +792,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 67</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 34</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 74</li>
             <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 79</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 80</li>
@@ -812,8 +814,8 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 13</li>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 70</li>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 30</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -858,7 +860,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 77</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 24</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 82</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 85</li>
             <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 87</li>
@@ -885,9 +887,9 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 38</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 50</li>
             <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 63</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 64</li>
             <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 72</li>
         </ul>
       </td>
@@ -895,6 +897,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
     <tr>
       <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04a4fa2afa9aaa6649b225977877907a.png" alt="Cover for A Lifetime In Oriental Jazz" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Lloyd Miller</td>
@@ -911,8 +914,8 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 39</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 58</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -936,7 +939,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 92</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 9</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 93</li>
             <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 97</li>
             <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 97</li>
@@ -946,7 +949,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/q7nux_1dzzO_dWtxKuEOi946gw46RoXdlgiItUgLeg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2ODU2/NTItMTQyNDYwNTc1/OS03NzAxLmpwZWc.jpeg" alt="Cover for Tango Perso" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f016e783f4014dfecd8c8ed87001b4cf.png" alt="Cover for Tango Perso" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03-22</td>
       <td>Shahab Tolouie</td>
@@ -959,7 +962,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 46</li>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -986,10 +989,10 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 34</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 45</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 56</li>
             <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 62</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 68</li>
             <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 71</li>
         </ul>
       </td>
@@ -997,7 +1000,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/OPO1R_6UjdssQVx7Ms670EKs6l3hrXtjpCr_87_3FC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODU5/LTE2Mzk3MjkxOTct/ODI3OS5qcGVn.jpeg" alt="Cover for Shahrvand" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8d27f42e36f109152a8849850691d8f.png" alt="Cover for Shahrvand" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-08-17</td>
       <td>Rez</td>
@@ -1015,7 +1018,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 62</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 40</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 67</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 75</li>
         </ul>
@@ -1024,7 +1027,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/fwCSV7qhuCMHgHSce_GNZg-6_r863-5eicYc6XM9rH8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDIy/OTQtMTI5NDYwMTcz/OS5qcGVn.jpeg" alt="Cover for Hypermnesia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/63a707aa1a2ccaeed20bf88efe5d37da.png" alt="Cover for Hypermnesia" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Ekove Efrits</td>
@@ -1045,9 +1048,9 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 40</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 51</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 59</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 62</li>
             <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 65</li>
             <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 73</li>
         </ul>
@@ -1072,7 +1075,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 97</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 4</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 97</li>
             <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 99</li>
             <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 99</li>
@@ -1082,7 +1085,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/AMWmIAwrSaZ1SGQZqGpSRjJUK1LnD2L049mExr2X254/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjEz/MjUtMTMxNjc4MDcy/NS5qcGVn.jpeg" alt="Cover for Back From The Brink: Pre-Revolution Psychedelic Rock From Iran: 1973-1979" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4cce20889739f9911ee5b3c490f24963.png" alt="Cover for Back From The Brink: Pre-Revolution Psychedelic Rock From Iran: 1973-1979" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Kourosh Yaghmaei</td>
@@ -1091,24 +1094,20 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iran" | relative_url }}">iran</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian" | relative_url }}">persian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 74 / 100)"> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 27</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 98</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 3</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 98</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 99</li>
             <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 100</li>
@@ -1142,8 +1141,8 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 82</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 86</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 15</li>
+            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 18</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 88</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 92</li>
             <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 93</li>
@@ -1167,8 +1166,8 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 13</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 82</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 19</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1192,7 +1191,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 74</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 27</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 79</li>
             <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 83</li>
             <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 86</li>
@@ -1223,7 +1222,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 85</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 16</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 87</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 91</li>
             <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 92</li>
@@ -1266,9 +1265,9 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 6</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 8</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 80</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 93</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1291,9 +1290,9 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 7</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 11</li>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 86</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 90</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 94</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 95</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 98</li>
         </ul>
@@ -1334,7 +1333,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 61</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 41</li>
             <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 75</li>
         </ul>
       </td>
@@ -1367,10 +1366,10 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 45</li>
-            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 59</li>
-            <li> <a href="{{ "/tags/native-american" | relative_url }}">native american</a> # 60</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 68</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 32</li>
+            <li> <a href="{{ "/tags/native-american" | relative_url }}">native american</a> # 39</li>
+            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 40</li>
+            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1395,8 +1394,8 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 45</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 55</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 57</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 63</li>
             <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 68</li>
             <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 76</li>
@@ -1406,7 +1405,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/ih1I0VS-LFM9jbSBrGRhHCCO_pnNClsECnMyP87gJ6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDA0/ODk0LTE3MTMxODgx/NDEtODU1Ni5qcGVn.jpeg" alt="Cover for White Tree" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/36f8a1f29f716e9a1b449bad2d4b4ee9.png" alt="Cover for White Tree" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Marjan Farsad</td>
@@ -1424,8 +1423,8 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 73</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 79</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 22</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 28</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 87</li>
         </ul>
       </td>
@@ -1453,8 +1452,8 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 55</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 93</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 8</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 46</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 94</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 97</li>
             <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 98</li>
@@ -1465,7 +1464,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/mG4g9Bv8H3dYzPGRD_QcIOnHesiisqUf_LmhycvTaRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njkx/Njg1LTE1OTYwMDI3/OTYtMzAyNC5qcGVn.jpeg" alt="Cover for Ye Wan Tony" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10d12a6f208488a559ada7586df16246.png" alt="Cover for Ye Wan Tony" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Arta</td>
@@ -1484,7 +1483,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 63</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 39</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 68</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 76</li>
         </ul>
@@ -1514,7 +1513,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 64</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 38</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 69</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 77</li>
             <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 77</li>
@@ -1563,7 +1562,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/5d1gJ5SBAAl8vpicA6Zxj5BAyblYetiimDuGnEWqg2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzg5/MDE2LTE0OTY0OTY3/MDUtMjYzOS5qcGVn.jpeg" alt="Cover for All The Troubled Hearts" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab41d9f1240ba0863fda92d105e2d1f7.png" alt="Cover for All The Troubled Hearts" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-06-02</td>
       <td>Hiatus</td>
@@ -1584,8 +1583,8 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 62</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 100</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 1</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 41</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 100</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 100</li>
         </ul>
@@ -1594,7 +1593,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/f3ZoiwvbfYH2LlNembvMyuKrTWxGyFQQFWGh4UFkmq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjgw/NDQ1LTE2MTI1OTc4/MjUtMjA4Mi5qcGVn.jpeg" alt="Cover for Ghabe Akse Khali" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5bd82e3e0b5fd2a7a4acff46d3b89dd.png" alt="Cover for Ghabe Akse Khali" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-08-11</td>
       <td>Sirvan Khosravi</td>
@@ -1611,7 +1610,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 55</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 47</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 70</li>
         </ul>
       </td>
@@ -1638,7 +1637,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 56</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 46</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 62</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 71</li>
             <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 72</li>
@@ -1649,7 +1648,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/ualU873VCFrnPx4tBuL5M95RGrPAGHUquWGPuNt72fc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTUx/NDk0LTE2NDA5NDY1/MTMtNjUzOC5qcGVn.jpeg" alt="Cover for Sorrow For An Unfinished Dream" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5533a55a052c9d49ca9aaf38d1b8b0ff.png" alt="Cover for Sorrow For An Unfinished Dream" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-04-24</td>
       <td>Crows in the Rain</td>
@@ -1670,7 +1669,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 65</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 37</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 72</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 78</li>
             <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 78</li>
@@ -1699,7 +1698,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 76</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 25</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 81</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 84</li>
             <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 85</li>
@@ -1720,10 +1719,10 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 8</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 36</li>
+            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 38</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 46</li>
-            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 63</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 66</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1746,11 +1745,11 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 12</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 37</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 48</li>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 49</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 57</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 65</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1777,6 +1776,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
     <tr>
       <td>12</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ce52627dff51369ad55192486a3c076.png" alt="Cover for Chant Of Drums" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Kamkars</td>
@@ -1795,9 +1795,9 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 21</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 42</li>
-            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 64</li>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 37</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 60</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 79</li>
             <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 82</li>
             <li> <a href="{{ "/tags/kurdish" | relative_url }}">kurdish</a> # 86</li>
             <li> <a href="{{ "/tags/kurdistan" | relative_url }}">kurdistan</a> # 92</li>
@@ -1823,10 +1823,10 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 43</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 40</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 53</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 59</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 61</li>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1853,8 +1853,8 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 44</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 54</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 58</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 62</li>
             <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 67</li>
             <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 75</li>
@@ -1880,17 +1880,18 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 24</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 47</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 55</li>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 57</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 57</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 65</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0e3e1d0a38a41e4a9ee3456c9d25682.png" alt="Cover for Sarbaze Khoda" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Sadegh</td>
@@ -1905,7 +1906,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 48</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1924,7 +1925,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 50</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1947,17 +1948,18 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 29</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 52</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 50</li>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 58</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 59</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 67</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb5bbd0f92d9f5d8a6088d54aba23aec.png" alt="Cover for King" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Sami Beigi</td>
@@ -1974,7 +1976,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 53</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 49</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 60</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 68</li>
         </ul>
@@ -2018,7 +2020,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 59</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 43</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 65</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 73</li>
         </ul>
@@ -2043,8 +2045,8 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 40</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 60</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 42</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 60</li>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 61</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 66</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 74</li>
@@ -2070,13 +2072,14 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 4</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aedfe476aad1657de481b73c9561a01b.png" alt="Cover for Kavir" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Ali Sorena</td>
@@ -2094,7 +2097,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 68</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 33</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 75</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 81</li>
         </ul>
@@ -2135,7 +2138,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 71</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -2160,9 +2163,9 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 72</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 23</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 28</li>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 73</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 78</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 83</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 86</li>
         </ul>
@@ -2192,7 +2195,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 83</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 18</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 86</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 90</li>
             <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 91</li>
@@ -2215,7 +2218,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 82</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -2239,7 +2242,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 88</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 13</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 90</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 94</li>
             <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 95</li>
@@ -2266,7 +2269,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 90</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 11</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 96</li>
         </ul>
       </td>
@@ -2291,10 +2294,10 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 87</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 91</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 3</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 10</li>
+            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 14</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 92</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -2369,6 +2372,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
     <tr>
       <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac9de1bd80c5b265f23973088371d85d.png" alt="Cover for Sade" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Shahin Najafi</td>
@@ -2406,6 +2410,7 @@ Persian music blends ancient Middle Eastern traditions with distinctive melodic 
     <tr>
       <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/97b299a563f1ffc21e941a641c4c54b2.png" alt="Cover for Toonel, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Mehrad Hidden</td>

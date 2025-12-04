@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T16:03:34.259Z
+date: 2025-12-04T09:42:45.544Z
 permalink: tags/estonian
 title: estonian
 ---
 
 ## estonian
 
-Last updated: <time datetime="2025-10-28T16:03:34.259Z">Tue Oct 28 2025 18:03:34 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T09:42:45.544Z">Thu Dec 04 2025 11:42:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for Groove of ESSR: Funk, Disco, Jazz from Soviet Estonia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9000bfa2cd95cdcf33b2fd234f20ef46.png" alt="Cover for Groove of ESSR: Funk, Disco, Jazz from Soviet Estonia" style="max-width:120px; height:auto;" />
       </td>
       <td>1974</td>
       <td>Various Artists</td>
@@ -70,9 +70,9 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 61</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 92</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 93</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 8</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 9</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 41</li>
             <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 97</li>
         </ul>
       </td>
@@ -80,7 +80,7 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/FpvgPa1FCRNP2VXcAb-HsG4Lst2uYiWlYKp6g6G3EL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MTM0/NC0xMTc1NTQ1MDI1/LmpwZWc.jpeg" alt="Cover for Rhinos and other forms of life" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ca868779fe34cdbb48c6c75789df7ad.png" alt="Cover for Rhinos and other forms of life" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Ne Zhdali</td>
@@ -98,7 +98,7 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/oWKUabGgy7aGbevyM5_e8O5Zk2SSqQBk1eTz11sxb2o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDc0/ODczLTE1MzYwMDg5/NzYtMzQ1Ni5qcGVn.jpeg" alt="Cover for Eesti rahvalaule" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f450f76cf316adcd49536722fdb5bee.png" alt="Cover for Eesti rahvalaule" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Reet</td>
@@ -117,7 +117,7 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/fgWmIUsok7MthvTbBMeIOeLxQiXExeRNlpb13uwcG_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjU1/NTYtMTM4NzMxMjA2/NS0xNjAyLmpwZWc.jpeg" alt="Cover for Propeller 1980-1995" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e66010ad3daa406f9f371cb3127110c9.png" alt="Cover for Propeller 1980-1995" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Propeller</td>
@@ -173,7 +173,7 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/uz7sf-EzT1SW-KmRQm_BoDYnQt3RK-dngEUAZpyJUn0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTEw/MDctMTMxMTYxMDEz/OC5qcGVn.jpeg" alt="Cover for Ballistic" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2218ed999a65e56749ef9a8f0a792fb2.png" alt="Cover for Ballistic" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Borax</td>
@@ -206,7 +206,7 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
     <tr>
       <td>15</td>
       <td>
-          <img src="https://i.discogs.com/DgIX4Xr2wc48bDapTqKzVtK9Dtima-qJ8VQucBl6lOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTYx/NzMtMTQ4MzM4NTUw/OS02NDU2LmpwZWc.jpeg" alt="Cover for ...And Sorrow" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/38359503c0e94356bcb0a680c20594c9.png" alt="Cover for ...And Sorrow" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Echosilence</td>
@@ -222,7 +222,7 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 21</li>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -252,8 +252,8 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 6</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 31</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 11</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 30</li>
             <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 45</li>
         </ul>
       </td>
@@ -261,7 +261,6 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
     <tr>
       <td>21</td>
       <td>
-          <img src="https://i.discogs.com/rKTI4n_7uxeZ2kOlhfqeAgINY-HDNt6pfem-Qht-7hc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTA0/ODMtMTM5ODAzMDEz/Ny0zNjM3LmpwZWc.jpeg" alt="Cover for Made In Nightonia" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>The Sorts</td>
@@ -286,7 +285,7 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/IkOpdSngzCZZmu1TMeUaQ1D3nAKtEUtwUkj7K_68b4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njcx/OTItMTIzNjY5MTQ5/MS5qcGVn.jpeg" alt="Cover for Sinus" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/59514102b95448da8d0d3ac22e0ea685.png" alt="Cover for Sinus" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Metro Luminal</td>
@@ -322,10 +321,10 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 32</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 32</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 38</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 46</li>
             <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 54</li>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 55</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 67</li>
             <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 76</li>
         </ul>
       </td>
@@ -371,6 +370,7 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
     <tr>
       <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/05746d1cb1fbe748263d02b84a8dee05.png" alt="Cover for Kõik mis tehtud..." style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Kate</td>
@@ -433,7 +433,7 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 12</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 17</li>
             <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 52</li>
         </ul>
       </td>
@@ -441,7 +441,6 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/ckDZ7DoANb-zBGv9uBHUv0mSYBREqG7ZjvpY90hRVE4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODkz/NS0wMDEuanBn.jpeg" alt="Cover for [APL007] Televiisor On Tuksis" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-11-17</td>
       <td>Taavi Tulev</td>
@@ -461,7 +460,7 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
     <tr>
       <td>2</td>
       <td>
-          <img src="https://i.discogs.com/2VLguJUeUBWEKtmHYxB9mS0qBpF3MUK9lQGHi_QUOWk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTEx/Mi0xMTE3NDQ2MDI0/LmpwZw.jpeg" alt="Cover for Piimaš" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7992c070a1d0f1a1f1787f34cabb947.png" alt="Cover for Piimaš" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Kago</td>
@@ -484,9 +483,9 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 1</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 20</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 26</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 75</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 82</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -538,7 +537,6 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/5nfpXOahVjj90w3fRxE-ypGkxUf-_1p_rH1Iw2EAR1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDgx/MzItMTMwODY1MzQ2/Ni5qcGVn.jpeg" alt="Cover for Wet Planet" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Plastic Whore</td>
@@ -620,7 +618,7 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
       <td>
         <ul>
             <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 28</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 28</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -647,6 +645,7 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
     <tr>
       <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/77395f07299b9069ac076375bc74a3f0.png" alt="Cover for Eesti kullafond" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-12-07</td>
       <td>Singer Vinger</td>
@@ -684,6 +683,7 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
     <tr>
       <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c38b06d0eaaa254a8b4764ff806dac9a.png" alt="Cover for Kalvikkaanid" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-03</td>
       <td>Kalvik</td>
@@ -705,6 +705,7 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
     <tr>
       <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/86ebd48790034bfdcbc4f2d8b3ce9cf2.png" alt="Cover for sisekosmosemasin" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-05-15</td>
       <td>Kapusta ja ?</td>
@@ -745,8 +746,8 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 44</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 58</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 42</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -818,16 +819,16 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 42</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 37</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 59</li>
             <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 62</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/CK6u8y0vbynEc14CgriTC7DXSL2793A8RaZ-5fdRn8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjgw/NTI2LTE2MDY0OTg1/NTktNDUyNi5qcGVn.jpeg" alt="Cover for Formations" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ac69b8d4de5aa5a802c62268d144c62.png" alt="Cover for Formations" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Multiphonic Rodent</td>
@@ -855,16 +856,15 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 27</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 46</li>
             <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 49</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 55</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/XnCElJEGED-9iYwEro93n6VF561D8sia_xi4I6e-k6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzAx/MzktMTU4MzQwODU4/MC0yMzM0LmpwZWc.jpeg" alt="Cover for Kosmoseodüsseia" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Vaiko Eplik &amp; Eliit</td>
@@ -886,15 +886,16 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 29</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 44</li>
             <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 53</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 57</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1235241c98a4908a38d052e8267d02b.png" alt="Cover for Superv6imed" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Chalice</td>
@@ -915,6 +916,7 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/52d4cd83b16a7c534978fc3937e8b010.png" alt="Cover for Iivakivi" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-02-24</td>
       <td>Metsatöll</td>
@@ -960,7 +962,7 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/FRoJjdrYJYNFyRgrFysvF-cuJ3fWqCTMFxOUOTSbD00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTAw/ODAtMTQwNDQxMzM1/OS0xOTg3LmpwZWc.jpeg" alt="Cover for Claudia singel" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/833aeb01c4cf04b91cdca14f376af6e2.png" alt="Cover for Claudia singel" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Kreatiivmootor</td>
@@ -974,7 +976,7 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dada" | relative_url }}">dada</a> # 52</li>
+            <li> <a href="{{ "/tags/dada" | relative_url }}">dada</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1075,7 +1077,7 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/RTNd9pK6CU8zwB372zp09nQEzTwsXzZeE1oLC9Q6HOo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODU1/NzgtMTI4NjYzMzg1/Ny5qcGVn.jpeg" alt="Cover for Teineteisel Pool" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3043cb7f25d6423dac1634b19062f0ce.png" alt="Cover for Teineteisel Pool" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-11-19</td>
       <td>Birgit Õigemeel</td>
@@ -1097,7 +1099,7 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/mDEDSmCFmjy8mpYCI_H97mUFh87REzcFB3ZuWWdZd24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODQz/ODctMTI5NjQ2Njc4/Mi5qcGVn.jpeg" alt="Cover for The Last Escape" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ea79713c30653e6b114bbcfbb8164ab.png" alt="Cover for The Last Escape" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-12-24</td>
       <td>Tallinn Daggers</td>
@@ -1112,7 +1114,7 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 36</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 64</li>
             <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 88</li>
         </ul>
       </td>
@@ -1165,7 +1167,6 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
     <tr>
       <td>7</td>
       <td>
-          <img src="https://i.discogs.com/HapSRPeRrcnHYlU3gxAleWnhO3x-3W8rkkZ3hIcHjyw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTgw/ODMtMTMyNDU1ODY1/Ni5naWY.jpeg" alt="Cover for S&#x2F;T" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Music For Your Plants</td>
@@ -1228,7 +1229,7 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/zEqKAoj41oBr-Cq9IHPBK_eP-8MiN2LVl8xXRQNIB8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjMx/NzctMTQwMDIzNTUx/Ni0yMDgwLmpwZWc.jpeg" alt="Cover for analog gentleman" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/18d89efb0681424eba2030866bca0c96.png" alt="Cover for analog gentleman" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Out-Or</td>
@@ -1253,7 +1254,7 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
       <td>
         <ul>
             <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 21</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 34</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1296,8 +1297,8 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 20</li>
             <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 78</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1344,7 +1345,6 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
     <tr>
       <td>3</td>
       <td>
-          <img src="https://i.discogs.com/PXCONrEATDXmxl0IrHNizbdzfh-CWAUu9wv53dhpytc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0OTcw/NjEtMTQ2Mjc5NDk2/OC02ODcwLmpwZWc.jpeg" alt="Cover for Virr-varri ähvardus" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Martiini</td>
@@ -1387,6 +1387,7 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
     <tr>
       <td>18</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/85191efc84ad4614a7f33078474a05cc.png" alt="Cover for Gallic Cones" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02-11</td>
       <td>Ratkiller</td>
@@ -1411,7 +1412,7 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/m_DxbPYaVbEodn_1AehzwFle9PW7IHkXiyrkTGIvo58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODIy/NzYtMTUwMDk3NTYx/MS01MTg3LmpwZWc.jpeg" alt="Cover for Janu" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad2e42fd24a741f39c02cb4f4a1bca28.png" alt="Cover for Janu" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06-14</td>
       <td>Marten Kuningas</td>
@@ -1435,8 +1436,8 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 90</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 91</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 10</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 11</li>
             <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 94</li>
         </ul>
       </td>
@@ -1463,6 +1464,7 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
     <tr>
       <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ced7980b4b694c7db19bb977b82272b5.png" alt="Cover for Expedition Chant Cup" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-26</td>
       <td>Music For Your Plants</td>
@@ -1497,6 +1499,7 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
     <tr>
       <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8158408bb9efeb15c96c5c4820f22f27.png" alt="Cover for Cellar Dweller" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-11-13</td>
       <td>Ratkiller</td>
@@ -1525,16 +1528,16 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 23</li>
             <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 42</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 53</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 48</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/mNo6vzU7N99_Yfy0K6J2iJQGrUscSyrTeuiGwvE8Jxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0OTc2/ODktMTQ2MjgwNjMx/Ni01MzYyLmpwZWc.jpeg" alt="Cover for Laulud lindudelt" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1a31805201063084bac7fa591593158.png" alt="Cover for Laulud lindudelt" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Iduvigik</td>
@@ -1558,17 +1561,18 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 17</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 28</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 45</li>
             <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 50</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 51</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 56</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 50</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 73</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d4702e394d44c5fb237f00f4ae0821e.png" alt="Cover for Utopia" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-01-01</td>
       <td>Kerli</td>
@@ -1688,7 +1692,7 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
     <tr>
       <td>19</td>
       <td>
-          <img src="https://i.discogs.com/sWZY54sz7FdT6RDNVQyeW8HrgcO6I3c4-vEW2AX8CSA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMTIw/NzItMTM4NDgxMjA2/NC0yMjcwLmpwZWc.jpeg" alt="Cover for Styx" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0812ba6adf9446289f74af06e8d6578c.png" alt="Cover for Styx" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-07-24</td>
       <td>Tahm</td>
@@ -1713,15 +1717,15 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
       <td>
         <ul>
             <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 32</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 36</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 44</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 57</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/_kz-olEwh2biG-pmDcqyMe6YNCb3yknBZRHAGbzMAPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyODc0/NTYtMTM4OTY0NzA0/OS0yMjIyLmpwZWc.jpeg" alt="Cover for Humanity" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6da513b1c9a34ac5ca9bf96d53af48e6.png" alt="Cover for Humanity" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-12</td>
       <td>Music For Your Plants</td>
@@ -1742,7 +1746,7 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 39</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 64</li>
             <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 84</li>
         </ul>
       </td>
@@ -1764,7 +1768,7 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 20</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1833,8 +1837,8 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 91</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 92</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 9</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 10</li>
             <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 96</li>
         </ul>
       </td>
@@ -1842,7 +1846,6 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
     <tr>
       <td>12</td>
       <td>
-          <img src="https://i.discogs.com/L76lIAW8O70hbS9AD9f17jYqqVJV9J20x11gXosdA-o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTY0/OTQtMTQwMDIzNDIx/Ni01MzI0LmpwZWc.jpeg" alt="Cover for Väntorel" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-05-16</td>
       <td>Väntorel</td>
@@ -1882,7 +1885,7 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 29</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 71</li>
             <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 82</li>
         </ul>
       </td>
@@ -1947,14 +1950,14 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 23</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/6xpNhnZ_twYZngY1r6MlgmB_6QmdRF-6u68IB1KSw8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMTIw/NDQtMTQ1OTEzMzgw/NS0yMDM0LmpwZWc.jpeg" alt="Cover for Abandoned Elysium" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d320455b609b4a39ca860ca0ff65acb6.png" alt="Cover for Abandoned Elysium" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-04-20</td>
       <td>Abandoned Elysium</td>
@@ -1977,7 +1980,7 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/_u67h3B8tMOrAR19rWUHxLUwfinAV7G4CNVhgiybvBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1ODUy/ODUtMTQ0NDU3NDQ1/MS00NjM1LmpwZWc.jpeg" alt="Cover for Viiv" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/223f8585f4e2f8016bb5e2c08090d276.png" alt="Cover for Viiv" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-10-01</td>
       <td>She Bit Her Lip</td>
@@ -1997,7 +2000,7 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/Rbe9Ty56Yo-l5ftvT4xLDjeaQOabRtFnQnwwa3AKyUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NTQ3/MjMtMTQ4MjY1NzEx/NS0xNDQwLmpwZWc.jpeg" alt="Cover for Täna" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/edd5ece0e5456cced75bb9cf30aa71e5.png" alt="Cover for Täna" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-11-18</td>
       <td>Jüri Pootsmann</td>
@@ -2018,7 +2021,7 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/R9uyqiq5_X-mOo_9wYx5-YQuKzkqDXCGdOspwaYqrBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTYy/MTgyLTE2MjI0ODU0/NTAtMzQ3OC5wbmc.jpeg" alt="Cover for Kaustik" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/57ff5985f58bdc6f24e85588a2efdc61.png" alt="Cover for Kaustik" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Sten-Olle</td>
@@ -2037,7 +2040,7 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/Dvf1nN8G2NqWzlUb3HwURltI6_R4s4o-MT_5LHwhIyU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDcy/MDA5LTE1NjE1NDg4/NDEtOTMwNC5qcGVn.jpeg" alt="Cover for Rahu" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/416535a8bd5c615edf6a529cb22a16ea.png" alt="Cover for Rahu" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Reket</td>
@@ -2075,7 +2078,7 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/Fc6FEot645Mh12h2drc4SGmmiicBThcP_bUfDknGZsk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTU1/NTYzLTE1Njg4NzQ4/MjQtOTI1NS5qcGVn.jpeg" alt="Cover for Higher Ground" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca2429e140654b465ed6828f08210304.png" alt="Cover for Higher Ground" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-09-17</td>
       <td>Parabol</td>
@@ -2153,7 +2156,7 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/GIGe6h47IvtJuIGnCJwJID3UMVudlh6yEouw3xVpetA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDU2/NDk0LTE3MDQ5ODQ3/ODctNjExMS5qcGVn.jpeg" alt="Cover for Alchemise" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4da069d6813cf3609dbd014abcdfdfe1.png" alt="Cover for Alchemise" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-01-12</td>
       <td>Kerli</td>
@@ -2268,6 +2271,7 @@ Estonian music encompasses diverse sounds from the Baltic nation, ranging from f
     <tr>
       <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a61d759f37f4df58d113fa42b54d4ad.png" alt="Cover for Remains Of Decay" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Still Haunts Me</td>

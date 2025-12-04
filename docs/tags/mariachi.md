@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T06:33:08.797Z
+date: 2025-12-04T09:42:52.760Z
 permalink: tags/mariachi
 title: mariachi
 ---
 
 ## mariachi
 
-Last updated: <time datetime="2025-10-22T06:33:08.797Z">Wed Oct 22 2025 09:33:08 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T09:42:52.760Z">Thu Dec 04 2025 11:42:52 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -188,7 +188,7 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 61</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -226,7 +226,7 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 23</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -246,7 +246,7 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 95</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -284,7 +284,7 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 21</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -304,7 +304,7 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 24</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -341,7 +341,7 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 45</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -379,13 +379,14 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 29</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2671a9f286f341ba1f609d430a951133.png" alt="Cover for Canciones de mi Padre" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Linda Ronstadt</td>
@@ -399,7 +400,7 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 58</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -441,7 +442,7 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 18</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -552,8 +553,8 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 31</li>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 54</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 46</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -575,7 +576,7 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 40</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -594,13 +595,14 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 6</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c943b20812654ff784a93b67f602306f.png" alt="Cover for Alejandro Fernandez" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Alejandro Fernández</td>
@@ -617,14 +619,14 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 63</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/MabNPUCAEOKEoUv2iyi9tsi9VIYecw1m1DsFvmbMwJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNDY1/NzEtMTU4MTAzMTk0/MS04NDEwLmpwZWc.jpeg" alt="Cover for Un Lu*Jo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/562f220090ac47acb1b15662ef25a777.png" alt="Cover for Un Lu*Jo" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Lucero</td>
@@ -651,13 +653,13 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 38</li>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 65</li>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 74</li>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 85</li>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 88</li>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 88</li>
-            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 92</li>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 9</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 12</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 13</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 16</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 35</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 61</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -677,7 +679,7 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 46</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -741,8 +743,8 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 33</li>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 46</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 54</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -762,7 +764,7 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 62</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -836,7 +838,7 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 64</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -857,7 +859,7 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 5</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -876,7 +878,7 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 3</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -968,7 +970,7 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 28</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -988,7 +990,7 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 39</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1008,14 +1010,14 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 37</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/sd9HMZb3bDMYeXqwpkz_PzX79HqzDrxlHDxQs1XShAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTU2/My0xNTE0MjI4MTM1/LTQ4NDAuanBlZw.jpeg" alt="Cover for Esperanza" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f1455a7b67843e7ae0206ba5eedf6b9.png" alt="Cover for Esperanza" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Esperanza</td>
@@ -1029,7 +1031,7 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 69</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1048,7 +1050,7 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 60</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1104,7 +1106,7 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 36</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1179,7 +1181,7 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 41</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1199,7 +1201,7 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 49</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1259,6 +1261,7 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87ff2029ac70b74a24dc5a1eed55a5e1.png" alt="Cover for Una Volta" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-05-20</td>
       <td>DeVotchKa</td>
@@ -1295,6 +1298,7 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
     <tr>
       <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87a3a1eabb344e1fae143c8ba513afd7.png" alt="Cover for Una Mujer, un Sueño" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Ana Bárbara</td>
@@ -1305,7 +1309,7 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 58</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1325,14 +1329,14 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 72</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/uN5EsN7X5UcnhDYl9XR5_eD4bqZKq3LGcX4Rhgg9AcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM0/ODM1LTE1MzEwODUx/MjgtMzgyOS5qcGVn.jpeg" alt="Cover for Loca De Amar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c4818222a73017951e61b08501b5d1e.png" alt="Cover for Loca De Amar" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Ana Bárbara</td>
@@ -1346,7 +1350,7 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 88</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1406,7 +1410,7 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/EOsRdxN_n7b4IVJ84lAE7R1yLo63GZWBJtUcawkE-YE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM0/OTA0LTE1MzEwODU1/NjQtNTQ4Ny5qcGVn.jpeg" alt="Cover for No Es Brujeria" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e04e29df71a3479f84910d0179993f36.png" alt="Cover for No Es Brujeria" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Ana Bárbara</td>
@@ -1420,7 +1424,7 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 53</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1476,14 +1480,14 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 86</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/Clhj9dFyLK1-i3vh2EkLeGW2NsTsYBldRK7iXUQS0wM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDEz/NzA3LTE2MDYzNjQz/MTItNzI1My5qcGVn.jpeg" alt="Cover for Todo Tiene Color" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/46bf5e09528b4739a708a0a954410a8f.png" alt="Cover for Todo Tiene Color" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Lidia Avila</td>
@@ -1497,25 +1501,7 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 27</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>32</td>
-      <td>
-          <img src="https://i.discogs.com/Z1dqb95BSqjIxzW2fpVBnfUNdHGO9pti82ZBRE-KIDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODc3/OTE5LTE2Mjg2Nzcy/MzYtMjM3Mi5qcGVn.jpeg" alt="Cover for La Gran Colecccion Del 60 Aniversario CBS - Gerardo Reyes" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Gerardo Reyes</td>
-      <td>La Gran Colecccion Del 60 Aniversario CBS - Gerardo Reyes</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mariachi" | relative_url }}">mariachi</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1530,6 +1516,25 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://i.discogs.com/Z1dqb95BSqjIxzW2fpVBnfUNdHGO9pti82ZBRE-KIDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODc3/OTE5LTE2Mjg2Nzcy/MzYtMjM3Mi5qcGVn.jpeg" alt="Cover for La Gran Colecccion Del 60 Aniversario CBS - Gerardo Reyes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Gerardo Reyes</td>
+      <td>La Gran Colecccion Del 60 Aniversario CBS - Gerardo Reyes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mariachi" | relative_url }}">mariachi</a></li>
         </ul>
       </td>
       <td>
@@ -1589,7 +1594,7 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 43</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1610,7 +1615,7 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 96</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1711,7 +1716,7 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/dDoaA85lh0YNFP8n8jpfghw8zHvRDcmzwTi_zxhhgl4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTU5/NjctMTQyNzIxNzQ1/Ny0yMTQ5LmpwZWc.jpeg" alt="Cover for Edge of the Sun (Deluxe Version)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe348c53d98511540c47bb6b300a7c35.png" alt="Cover for Edge of the Sun (Deluxe Version)" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-04-10</td>
       <td>Calexico</td>
@@ -1745,7 +1750,7 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 38</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1782,7 +1787,7 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 9</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1802,14 +1807,14 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 88</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/Ws0TbOm3VxZ_Ek0BdKdn4GCgSyqNm2U6qFCehGqDjmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjM4/NDAyLTE2MzQ1ODg5/NzYtMjE5NC5qcGVn.jpeg" alt="Cover for Mexicana Enamorada" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d530621dda5147e21a14c07dda0a95f.png" alt="Cover for Mexicana Enamorada" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-09-24</td>
       <td>Angela Aguilar</td>
@@ -1846,7 +1851,7 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/6woVMRF91ZzyRZ4NVpCJejheltThxtdvliREMyE_pRo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjQ2/OTYtMTIyMTczMTEz/NC5qcGVn.jpeg" alt="Cover for La Fuerza" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b00ee3904591323d0dd2078ab2836a3.png" alt="Cover for La Fuerza" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-01-21</td>
       <td>Christina Aguilera</td>
@@ -1863,9 +1868,9 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 11</li>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 28</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 50</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 13</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 49</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1884,7 +1889,7 @@ Mariachi is a vibrant Mexican musical tradition featuring ensembles of violins, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 31</li>
+            <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 70</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-12T18:47:54.781Z
+date: 2025-12-04T09:40:55.113Z
 permalink: tags/irish
 title: irish
 ---
 
 ## irish
 
-Last updated: <time datetime="2025-11-12T18:47:54.781Z">Wed Nov 12 2025 20:47:54 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T09:40:55.113Z">Thu Dec 04 2025 11:40:55 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -46,9 +46,9 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 47</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 69</li>
-            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 96</li>
+            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 5</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 33</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -67,7 +67,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 57</li>
+            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -126,6 +126,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -144,7 +145,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/street-punk" | relative_url }}">street punk</a> # 89</li>
+            <li> <a href="{{ "/tags/street-punk" | relative_url }}">street punk</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -164,7 +165,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 88</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -183,7 +184,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 1</li>
+            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -244,7 +245,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 16</li>
+            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -265,34 +266,34 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 82</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da37fc3c0024459cc5e7be788f2f256f.png" alt="Cover for If I Should Fall From Grace With God" style="max-width:120px; height:auto;" />
       </td>
       <td>1988-01-01</td>
       <td>The Pogues</td>
       <td>If I Should Fall From Grace With God</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a></li>
         </ul>
       </td>
       <td>
         <ul>
             <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 13</li>
-            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 21</li>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 91</li>
-            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 91</li>
+            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 46</li>
+            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2c1b167d7224aadb4cc01bfc4219023.png" alt="Cover for Irish Heartbeat" style="max-width:120px; height:auto;" />
       </td>
       <td>1988-06-20</td>
       <td>Van Morrison &amp; The Chieftains</td>
@@ -382,8 +383,8 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 1</li>
             <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 34</li>
-            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -441,6 +442,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -459,8 +461,8 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 60</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 78</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 20</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -478,8 +480,8 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 56</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 79</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 19</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -519,7 +521,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 89</li>
+            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -694,6 +696,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9572138a9de438da3c5b62749cced31.png" alt="Cover for Alive Behind the Green Door" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Flogging Molly</td>
@@ -744,7 +747,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 86</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -762,7 +765,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 33</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -781,7 +784,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 83</li>
+            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -813,8 +816,6 @@ Irish music refers to music that originated in Ireland or is strongly associated
       <td>Do or Die</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
-            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/irish" | relative_url }}">irish</a></li>
         </ul>
       </td>
       <td>
@@ -839,7 +840,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 42</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -859,8 +860,8 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 20</li>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 34</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 62</li>
+            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -882,9 +883,9 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 5</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 2</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 35</li>
             <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 92</li>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -923,7 +924,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 48</li>
+            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -942,7 +943,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 36</li>
+            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -963,7 +964,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 11</li>
+            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1021,7 +1022,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 1</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1060,7 +1061,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 99</li>
+            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1116,7 +1117,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 15</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1209,8 +1210,8 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 82</li>
-            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 87</li>
+            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 12</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1229,8 +1230,8 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 46</li>
-            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 65</li>
+            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 36</li>
+            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 54</li>
             <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 96</li>
         </ul>
       </td>
@@ -1287,8 +1288,8 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 23</li>
             <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 35</li>
-            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1313,6 +1314,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
     <tr>
       <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a188ca0f2c324032c10f462987828051.png" alt="Cover for Blackout" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-06-10</td>
       <td>Dropkick Murphys</td>
@@ -1324,7 +1326,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 16</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 47</li>
             <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 88</li>
         </ul>
       </td>
@@ -1347,8 +1349,8 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 6</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 85</li>
-            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1385,7 +1387,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 71</li>
+            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1440,7 +1442,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 88</li>
+            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1460,8 +1462,8 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 66</li>
-            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 100</li>
+            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 1</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1480,8 +1482,8 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 63</li>
-            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 73</li>
+            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 27</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 73</li>
             <li> <a href="{{ "/tags/celtic-punk" | relative_url }}">celtic punk</a> # 98</li>
         </ul>
       </td>
@@ -1518,7 +1520,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 96</li>
+            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1575,8 +1577,8 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 56</li>
-            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 79</li>
+            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 17</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1595,7 +1597,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 65</li>
+            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1692,7 +1694,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 100</li>
+            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1711,7 +1713,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 62</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1750,8 +1752,8 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 68</li>
-            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 99</li>
+            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 2</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1774,8 +1776,8 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 14</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 36</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 56</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1794,7 +1796,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 40</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1815,7 +1817,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 62</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1877,7 +1879,7 @@ Irish music refers to music that originated in Ireland or is strongly associated
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 2</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1944,19 +1946,10 @@ Irish music refers to music that originated in Ireland or is strongly associated
       <td>The Wisp Sings</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/irish" | relative_url }}">irish</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 59</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 70</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 77</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 79</li>
         </ul>
       </td>
     </tr>

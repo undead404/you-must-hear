@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T04:44:44.008Z
+date: 2025-12-04T09:44:00.819Z
 permalink: tags/lounge
 title: lounge
 ---
 
 ## lounge
 
-Last updated: <time datetime="2025-11-18T04:44:44.008Z">Tue Nov 18 2025 06:44:44 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T09:44:00.819Z">Thu Dec 04 2025 11:44:00 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -67,7 +67,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/lffMwBQq0w5z4K4h9hoSnPANfgbyHaJNajl4rbDpTus/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODYy/NzAtMTQ2MTIzNjM1/MC0xMTM5LmpwZWc.jpeg" alt="Cover for It Might As Well Be Swing" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dee8d3d05909cf28bae90767f36e95e9.png" alt="Cover for It Might As Well Be Swing" style="max-width:120px; height:auto;" />
       </td>
       <td>1962</td>
       <td>Frank Sinatra</td>
@@ -86,7 +86,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/OcshpSBLCu0czxYTwCWE2vF7a8IbYHisuBQhFlCFoCI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTAz/NjMtMTQ4OTI1MjI5/MC01ODM3LnBuZw.jpeg" alt="Cover for Sinatra&#39;s Sinatra" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5721edcbed072637ee12f25a94a9c09e.png" alt="Cover for Sinatra&#39;s Sinatra" style="max-width:120px; height:auto;" />
       </td>
       <td>1963</td>
       <td>Frank Sinatra</td>
@@ -101,13 +101,14 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 39</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d722c2511d6aee22bee0bd6144f1519d.png" alt="Cover for The World We Knew" style="max-width:120px; height:auto;" />
       </td>
       <td>1967</td>
       <td>Frank Sinatra</td>
@@ -123,10 +124,10 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 89</li>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 94</li>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 98</li>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 100</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 1</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 3</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 8</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -144,13 +145,14 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 58</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c085d07e1dbe5bbf202e0bc8e91684a.png" alt="Cover for Bamboo" style="max-width:120px; height:auto;" />
       </td>
       <td>1970</td>
       <td>Minoru Muraoka</td>
@@ -166,8 +168,8 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 44</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 96</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 5</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -250,10 +252,11 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 55</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 76</li>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 94</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 99</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 2</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 7</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 24</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 36</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -273,7 +276,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 84</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -328,8 +331,8 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 18</li>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 27</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 24</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -370,7 +373,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 70</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 22</li>
             <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 100</li>
         </ul>
       </td>
@@ -410,14 +413,14 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 27</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 31</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 31</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 40</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 61</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 65</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 87</li>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 95</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 6</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 13</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 35</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 45</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 48</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 50</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 65</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -438,7 +441,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 18</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 21</li>
             <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 60</li>
         </ul>
       </td>
@@ -534,7 +537,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 40</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -556,8 +559,8 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 4</li>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 46</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 53</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -571,16 +574,15 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       <td>Temperamental</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 91.07142857142857 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 27</li>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 51</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 48</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -598,7 +600,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 24</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -626,16 +628,16 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 12</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 12</li>
-            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 14</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 14</li>
-            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 15</li>
+            <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 12</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 16</li>
+            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 18</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 26</li>
             <li> <a href="{{ "/tags/lounge-downtempo" | relative_url }}">lounge downtempo</a> # 28</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 83</li>
-            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 83</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 88</li>
+            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 88</li>
+            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -655,7 +657,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 64</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -673,8 +675,8 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 26</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 42</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 58</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -695,10 +697,10 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 87</li>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 94</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 99</li>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 100</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 1</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 2</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 7</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -716,7 +718,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 30</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 70</li>
             <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 98</li>
             <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 99</li>
         </ul>
@@ -737,7 +739,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 49</li>
+            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -758,9 +760,9 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 51</li>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 54</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 79</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 20</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 45</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -796,8 +798,8 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 36</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 59</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 40</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 63</li>
             <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 100</li>
         </ul>
       </td>
@@ -837,7 +839,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       <td>
         <ul>
             <li> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a> # 44</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 47</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -859,11 +861,11 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 35</li>
+            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 25</li>
+            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 28</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 39</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 52</li>
-            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 73</li>
-            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 78</li>
+            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 68</li>
             <li> <a href="{{ "/tags/lounge-downtempo" | relative_url }}">lounge downtempo</a> # 83</li>
         </ul>
       </td>
@@ -903,8 +905,8 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 95</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 96</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 4</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -942,9 +944,9 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 63</li>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 98</li>
-            <li> <a href="{{ "/tags/japanese-female-pop-rock" | relative_url }}">japanese female pop-rock</a> # 100</li>
+            <li> <a href="{{ "/tags/japanese-female-pop-rock" | relative_url }}">japanese female pop-rock</a> # 1</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 3</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -993,17 +995,17 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 3</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 5</li>
             <li> <a href="{{ "/tags/lounge-downtempo" | relative_url }}">lounge downtempo</a> # 9</li>
-            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 11</li>
-            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 12</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 12</li>
-            <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 14</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 14</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 15</li>
+            <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 14</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 17</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 87</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 89</li>
-            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 98</li>
+            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 90</li>
+            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1025,9 +1027,9 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 25</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 58</li>
-            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 64</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 41</li>
+            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 66</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1064,7 +1066,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 61</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1083,7 +1085,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/austria" | relative_url }}">austria</a> # 96</li>
+            <li> <a href="{{ "/tags/austria" | relative_url }}">austria</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1139,7 +1141,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 20</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1158,7 +1160,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 19</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1178,7 +1180,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 21</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1214,11 +1216,11 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 6</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 10</li>
-            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 43</li>
-            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 81</li>
+            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 22</li>
+            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 58</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 94</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 97</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 100</li>
         </ul>
       </td>
@@ -1240,8 +1242,8 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 54</li>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 96</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 5</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1260,7 +1262,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a> # 54</li>
+            <li> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1299,9 +1301,9 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 9</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 56</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 90</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 10</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 11</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1326,6 +1328,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
     <tr>
       <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ae5780ad9f03c42b75d4aa411df535d.png" alt="Cover for Aperitif for Destruction" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-05-24</td>
       <td>Richard Cheese</td>
@@ -1339,7 +1342,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 81</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1359,7 +1362,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 95</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1388,7 +1391,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 40</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 42</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 44</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 45</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 58</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 61</li>
         </ul>
       </td>
@@ -1450,6 +1453,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
     <tr>
       <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b260639053e1473984e9cfae917ea232.png" alt="Cover for The Sunny Side of the Moon: The Best of Richard Cheese" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-02-07</td>
       <td>Richard Cheese</td>
@@ -1481,7 +1485,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 62</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 37</li>
             <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 98</li>
         </ul>
       </td>
@@ -1502,7 +1506,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 17</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1523,15 +1527,16 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 23</li>
-            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 72</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 85</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 18</li>
+            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 31</li>
+            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e807062db1deda82559366400b74753.png" alt="Cover for Silent Nightclub" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-09-26</td>
       <td>Richard Cheese</td>
@@ -1543,7 +1548,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 87</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1562,7 +1567,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 50</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1622,7 +1627,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 37</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1717,7 +1722,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 62</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1756,11 +1761,12 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 37</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 50</li>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 61</li>
-            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 69</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 82</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 19</li>
+            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 30</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 49</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 49</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 64</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1789,9 +1795,9 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 60</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 3</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 39</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 91</li>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1815,9 +1821,9 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 35</li>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 58</li>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 73</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 28</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 40</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1837,7 +1843,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 48</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1875,7 +1881,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 75</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1933,7 +1939,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 67</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1957,12 +1963,12 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 41</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 65</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 82</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 96</li>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 98</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 100</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 1</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 2</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 3</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 18</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 29</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1980,8 +1986,8 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 74</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 88</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 13</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -2023,7 +2029,7 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 70</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -2060,40 +2066,37 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 22</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/2CV1kMChdAjQK16XzKrPAx4g3LAhbvnr-g9gPA07O5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzc2/Nzg4LTE3MjY3ODEx/MDctNTk5Ni5qcGVn.jpeg" alt="Cover for Nimbasa CORE" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/69a066bd9773b365ba20e48544fa737d.png" alt="Cover for Nimbasa CORE" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>pLasterbrain</td>
       <td>Nimbasa CORE</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 98</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 98</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 98</li>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 100</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 1</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 3</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/CpIsudSLFWZ7BywsjkwiQCIRqWvyPVsTAMjMFr_t6kY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzA1/NDQ4LTE2ODYwNjU5/OTAtMzU0OS5qcGVn.jpeg" alt="Cover for Colpo Rovente - Red Hot Shot (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c21a25b9a0335b4554798cc6a216ab2.png" alt="Cover for Colpo Rovente - Red Hot Shot (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-04-17</td>
       <td>Piero Piccioni</td>
@@ -2108,8 +2111,8 @@ Lounge music is a genre of popular music that emerged in the 1950s and 1960s. It
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 67</li>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 79</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 29</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 84</li>
         </ul>
       </td>
     </tr>

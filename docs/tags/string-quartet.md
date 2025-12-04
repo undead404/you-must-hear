@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T13:12:19.215Z
+date: 2025-12-04T09:40:02.737Z
 permalink: tags/string-quartet
 title: string quartet
 ---
 
 ## string quartet
 
-Last updated: <time datetime="2025-11-25T13:12:19.215Z">Tue Nov 25 2025 15:12:19 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T09:40:02.737Z">Thu Dec 04 2025 11:40:02 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -82,7 +82,7 @@ A string quartet features four string instruments—typically two violins, viola
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 66</li>
+            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -268,7 +268,7 @@ A string quartet features four string instruments—typically two violins, viola
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 61</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -340,7 +340,7 @@ A string quartet features four string instruments—typically two violins, viola
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 37</li>
+            <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -515,7 +515,7 @@ A string quartet features four string instruments—typically two violins, viola
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 53</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -535,7 +535,7 @@ A string quartet features four string instruments—typically two violins, viola
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 83</li>
+            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -611,7 +611,7 @@ A string quartet features four string instruments—typically two violins, viola
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 42</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -705,7 +705,7 @@ A string quartet features four string instruments—typically two violins, viola
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 34</li>
+            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 67</li>
             <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 89</li>
         </ul>
       </td>
@@ -1467,7 +1467,7 @@ A string quartet features four string instruments—typically two violins, viola
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 92</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1709,7 +1709,7 @@ A string quartet features four string instruments—typically two violins, viola
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 22</li>
+            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1735,8 +1735,8 @@ A string quartet features four string instruments—typically two violins, viola
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 18</li>
-            <li> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a> # 78</li>
+            <li> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a> # 23</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 83</li>
             <li> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a> # 100</li>
         </ul>
       </td>
@@ -1766,8 +1766,8 @@ A string quartet features four string instruments—typically two violins, viola
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 18</li>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 19</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 82</li>
+            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 83</li>
             <li> <a href="{{ "/tags/sonata" | relative_url }}">sonata</a> # 88</li>
         </ul>
       </td>
@@ -1809,7 +1809,7 @@ A string quartet features four string instruments—typically two violins, viola
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 70</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 29</li>
         </ul>
       </td>
     </tr>

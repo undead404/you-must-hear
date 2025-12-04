@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T04:04:17.408Z
+date: 2025-12-04T09:43:35.310Z
 permalink: tags/lattice
 title: lattice
 ---
 
 ## lattice
 
-Last updated: <time datetime="2025-11-18T04:04:17.408Z">Tue Nov 18 2025 06:04:17 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T09:43:35.310Z">Thu Dec 04 2025 11:43:35 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -392,7 +392,7 @@ Lattice music, in the context of musical tuning, is a method of modeling the tun
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 11</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 89</li>
         </ul>
       </td>
     </tr>

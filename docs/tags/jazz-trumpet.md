@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-22T16:31:47.731Z
+date: 2025-12-04T09:43:41.432Z
 permalink: tags/jazz-trumpet
 title: jazz trumpet
 ---
 
 ## jazz trumpet
 
-Last updated: <time datetime="2025-11-22T16:31:47.731Z">Sat Nov 22 2025 18:31:47 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T09:43:41.432Z">Thu Dec 04 2025 11:43:41 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -38,7 +38,6 @@ Jazz trumpet music is a key component of jazz, a genre with roots in the early 1
       <td>Ascenseur Pour L&#39;échafaud</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
         </ul>
       </td>
       <td>
@@ -162,7 +161,6 @@ Jazz trumpet music is a key component of jazz, a genre with roots in the early 1
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/7pFtvI0gHmgQI4st8CTutE5ZKiOWIBUFohmkgEFTiOU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyODEy/MDYtMTQ3Nzg2ODQ3/Ny04ODY2LmpwZWc.jpeg" alt="Cover for Bespoke Songs, Lost Dogs, Deto" style="max-width:120px; height:auto;" />
       </td>
       <td>1974</td>
       <td>Chet Baker</td>
@@ -173,8 +171,8 @@ Jazz trumpet music is a key component of jazz, a genre with roots in the early 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 31</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 49</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 53</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -254,7 +252,7 @@ Jazz trumpet music is a key component of jazz, a genre with roots in the early 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 88</li>
+            <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -298,8 +296,8 @@ Jazz trumpet music is a key component of jazz, a genre with roots in the early 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 78</li>
-            <li> <a href="{{ "/tags/fusion-jazz" | relative_url }}">fusion jazz</a> # 87</li>
+            <li> <a href="{{ "/tags/fusion-jazz" | relative_url }}">fusion jazz</a> # 14</li>
+            <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -319,7 +317,7 @@ Jazz trumpet music is a key component of jazz, a genre with roots in the early 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 5</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -487,8 +485,8 @@ Jazz trumpet music is a key component of jazz, a genre with roots in the early 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-guitar" | relative_url }}">jazz guitar</a> # 27</li>
-            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 48</li>
+            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 51</li>
+            <li> <a href="{{ "/tags/jazz-guitar" | relative_url }}">jazz guitar</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -566,7 +564,7 @@ Jazz trumpet music is a key component of jazz, a genre with roots in the early 1
       <td>
         <ul>
             <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 4</li>
-            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 48</li>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -769,7 +767,7 @@ Jazz trumpet music is a key component of jazz, a genre with roots in the early 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-jazz" | relative_url }}">polish jazz</a> # 17</li>
+            <li> <a href="{{ "/tags/polish-jazz" | relative_url }}">polish jazz</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -791,7 +789,7 @@ Jazz trumpet music is a key component of jazz, a genre with roots in the early 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 33</li>
+            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 68</li>
             <li> <a href="{{ "/tags/dixieland" | relative_url }}">dixieland</a> # 88</li>
         </ul>
       </td>
@@ -833,7 +831,7 @@ Jazz trumpet music is a key component of jazz, a genre with roots in the early 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 19</li>
+            <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -889,8 +887,8 @@ Jazz trumpet music is a key component of jazz, a genre with roots in the early 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 9</li>
-            <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 80</li>
+            <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 21</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -912,7 +910,7 @@ Jazz trumpet music is a key component of jazz, a genre with roots in the early 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-jazz" | relative_url }}">polish jazz</a> # 37</li>
+            <li> <a href="{{ "/tags/polish-jazz" | relative_url }}">polish jazz</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1142,7 +1140,7 @@ Jazz trumpet music is a key component of jazz, a genre with roots in the early 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 60</li>
+            <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1355,7 +1353,7 @@ Jazz trumpet music is a key component of jazz, a genre with roots in the early 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 62</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1413,8 +1411,8 @@ Jazz trumpet music is a key component of jazz, a genre with roots in the early 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 47</li>
-            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 90</li>
+            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 12</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1583,7 +1581,7 @@ Jazz trumpet music is a key component of jazz, a genre with roots in the early 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 3</li>
+            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1719,7 +1717,7 @@ Jazz trumpet music is a key component of jazz, a genre with roots in the early 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-jazz" | relative_url }}">polish jazz</a> # 15</li>
+            <li> <a href="{{ "/tags/polish-jazz" | relative_url }}">polish jazz</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1762,7 +1760,7 @@ Jazz trumpet music is a key component of jazz, a genre with roots in the early 1
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 25</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 76</li>
         </ul>
       </td>
     </tr>

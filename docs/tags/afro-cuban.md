@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T17:25:40.825Z
+date: 2025-12-04T09:44:43.388Z
 permalink: tags/afro-cuban
 title: afro-cuban
 ---
 
 ## afro-cuban
 
-Last updated: <time datetime="2025-11-03T17:25:40.825Z">Mon Nov 03 2025 19:25:40 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T09:44:43.388Z">Thu Dec 04 2025 11:44:43 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -48,7 +48,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 60</li>
+            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -71,13 +71,14 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 20</li>
+            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c58922006852722b86b99dcc3e2a03af.png" alt="Cover for Afro-Cuban" style="max-width:120px; height:auto;" />
       </td>
       <td>1955</td>
       <td>Kenny Dorham</td>
@@ -187,14 +188,15 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 97</li>
-            <li> <a href="{{ "/tags/calypso" | relative_url }}">calypso</a> # 99</li>
+            <li> <a href="{{ "/tags/calypso" | relative_url }}">calypso</a> # 2</li>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/52ae36b4f4f3d2d6e3fe12915ff87221.png" alt="Cover for Havana &amp; Matanzas, Cuba, ca. 1957: Batá, Bembé, and Palo Songs from the historic recordings of Lydia Cabrera and Josefina Tarafa" style="max-width:120px; height:auto;" />
       </td>
       <td>1964</td>
       <td>Various Artists</td>
@@ -228,7 +230,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
         <ul>
             <li> <a href="{{ "/tags/mambo" | relative_url }}">mambo</a> # 36</li>
             <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 36</li>
-            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 37</li>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -288,7 +290,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 99</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -309,7 +311,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 71</li>
+            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -369,7 +371,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 57</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -475,7 +477,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/PFByN_Bsxin7cjv19OnlijSzpklD9heVAvOjofyAGDU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTE5/ODAtMTM5OTk1ODQ5/OS0yNjQ0LmpwZWc.jpeg" alt="Cover for Afro Roots" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09107a52194f83cb00b742a15d5597ec.png" alt="Cover for Afro Roots" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Mongo Santamaria</td>
@@ -489,7 +491,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 82</li>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -526,7 +528,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 14</li>
+            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -643,7 +645,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 56</li>
+            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -707,7 +709,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 19</li>
+            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -727,7 +729,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 58</li>
+            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -763,7 +765,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 32</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -782,7 +784,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 58</li>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -806,7 +808,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 67</li>
+            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -824,7 +826,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/puerto-rico" | relative_url }}">puerto rico</a> # 54</li>
+            <li> <a href="{{ "/tags/puerto-rico" | relative_url }}">puerto rico</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -842,8 +844,8 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 1</li>
             <li> <a href="{{ "/tags/mambo" | relative_url }}">mambo</a> # 68</li>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -866,7 +868,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 16</li>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -885,14 +887,14 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 76</li>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/8Mg56_t8jnOpuGHePez__3qv4Wn5qEY5qEJ5iZn2xS4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTg1/NjktMTIzODk2NTgy/OS5qcGVn.jpeg" alt="Cover for Master Sessions Vol. II" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/111112540d6e4455a1e377534087e8da.png" alt="Cover for Master Sessions Vol. II" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Cachao</td>
@@ -910,8 +912,8 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 46</li>
-            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 56</li>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 45</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1007,7 +1009,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 67</li>
+            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1027,7 +1029,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish-guitar" | relative_url }}">spanish guitar</a> # 46</li>
+            <li> <a href="{{ "/tags/spanish-guitar" | relative_url }}">spanish guitar</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1051,7 +1053,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 32</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 70</li>
             <li> <a href="{{ "/tags/mambo" | relative_url }}">mambo</a> # 84</li>
         </ul>
       </td>
@@ -1344,7 +1346,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-trumpet" | relative_url }}">jazz trumpet</a> # 3</li>
+            <li> <a href="{{ "/tags/jazz-trumpet" | relative_url }}">jazz trumpet</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1506,6 +1508,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/42bca8ee290c41fbbe7502263187b1d7.png" alt="Cover for Island Life" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Yerba Buena</td>
@@ -1522,7 +1525,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 57</li>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1691,8 +1694,8 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 11</li>
             <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 86</li>
-            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1733,9 +1736,9 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 41</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 13</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 57</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 92</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 59</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 92</li>
         </ul>
       </td>
@@ -1766,7 +1769,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/5J62wtclCcxl1Pe-jV7h79gO_lsOg7A3tG_330mwe4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMjg0/NTQtMTQ3NTI1ODk0/Ny0yNTQ2LmpwZWc.jpeg" alt="Cover for Ancients Speak" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1cecbeffa3d56343e01ebdc10898b024.png" alt="Cover for Ancients Speak" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Melvin Gibbs&#39; Elevated Entity</td>
@@ -1868,8 +1871,8 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 79</li>
-            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 86</li>
+            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 15</li>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1930,6 +1933,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
     <tr>
       <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a92ea67455a9e12b91871802bc2208a.png" alt="Cover for Japan Goes Latin" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Tokyo All-Star Orchestra</td>
@@ -1952,7 +1956,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       <td>
         <ul>
             <li> <a href="{{ "/tags/pacific" | relative_url }}">pacific</a> # 20</li>
-            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 26</li>
+            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1974,7 +1978,7 @@ Afro-Cuban blends African rhythmic traditions with Cuban musical elements, creat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 46</li>
+            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 55</li>
         </ul>
       </td>
     </tr>

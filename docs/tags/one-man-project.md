@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T06:22:20.349Z
+date: 2025-12-04T09:39:40.705Z
 permalink: tags/one-man-project
 title: one man project
 ---
 
 ## one man project
 
-Last updated: <time datetime="2025-10-22T06:22:20.349Z">Wed Oct 22 2025 09:22:20 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T09:39:40.705Z">Thu Dec 04 2025 11:39:40 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ A &quot;one man project&quot; represents music created entirely or predominantly
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/hSReOariM6s9HVPArXSa6JuGxWqfgGhQ-G-nk7a2Og4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgz/MTEtMTM2NDcyMzY5/Ni04NDIwLmpwZWc.jpeg" alt="Cover for Echo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bba1f290d9eb45d6b97313c276a2d7e4.png" alt="Cover for Echo" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>Achim Reichel</td>
@@ -51,7 +51,7 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 40</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -80,8 +80,8 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 61</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 93</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 8</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 41</li>
             <li> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a> # 94</li>
             <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 97</li>
         </ul>
@@ -90,7 +90,7 @@ A &quot;one man project&quot; represents music created entirely or predominantly
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/ybi0EygOpvpY7qXQqW_US0mMTKtX-EbOTrrRG_E4ziE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDA2/MTEtMTI3MjA1MTQ2/Mi5qcGVn.jpeg" alt="Cover for Chimera" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40ae8b1484ea4d1eba879990bb4909c9.png" alt="Cover for Chimera" style="max-width:120px; height:auto;" />
       </td>
       <td>1983</td>
       <td>Paul Nagle</td>
@@ -111,14 +111,14 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 12</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>15</td>
       <td>
-          <img src="https://i.discogs.com/yUE4XbThLAJFQGOIrS21LS541IAaM89H7IiZPcQ-P64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDY2/ODU0LTE1NjE0MDkz/NTYtNDI5Ny5qcGVn.jpeg" alt="Cover for Natives In A Foreign Land" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/19bc892ea693434aa9ee0e6c8dfb2192.png" alt="Cover for Natives In A Foreign Land" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Jon Hans</td>
@@ -148,7 +148,7 @@ A &quot;one man project&quot; represents music created entirely or predominantly
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/OJqqzQDwEf9RQUWd2CEcTwfxiSrZ-WiXBE5WusQQyr0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODY3/NjEtMTQyNjMyNzI2/OS0zNzY1LmpwZWc.jpeg" alt="Cover for Aerial - A Sea Of Honey" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4a381483b7a4d47bbe88e809224f48d.png" alt="Cover for Aerial - A Sea Of Honey" style="max-width:120px; height:auto;" />
       </td>
       <td>1986-02-17</td>
       <td>Kate Bush</td>
@@ -171,15 +171,15 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       <td>
         <ul>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 9</li>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 82</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 86</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 15</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/GRH5CoLKkMb9IvvUoKiywQdgv2-DA13oTG7S8cBAzMo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzA2/OC0xMzU3Mjk5NTEx/LTMwMDcuanBlZw.jpeg" alt="Cover for Musik Aus Der Grauzone" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4e6b606c0f1a3674730d0dbef1e7007.png" alt="Cover for Musik Aus Der Grauzone" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Asmus Tietchens</td>
@@ -203,16 +203,16 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 15</li>
-            <li> <a href="{{ "/tags/hamburg" | relative_url }}">hamburg</a> # 43</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 48</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 53</li>
+            <li> <a href="{{ "/tags/hamburg" | relative_url }}">hamburg</a> # 58</li>
+            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/vBzC0zK-t8ulU7Fm4LFOKwkpvzrSbIf5PQEcZ4l45B0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzE1/NS0xMTg0ODMzNTA1/LmpwZWc.jpeg" alt="Cover for The Poison Boyfriend" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1076cf3be37bc894e8d6a8c1f679745d.png" alt="Cover for The Poison Boyfriend" style="max-width:120px; height:auto;" />
       </td>
       <td>1987-05</td>
       <td>Momus</td>
@@ -245,13 +245,13 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 23</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 55</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 77</li>
-            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 79</li>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 90</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 95</li>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 95</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 6</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 6</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 11</li>
+            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 20</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 24</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 59</li>
+            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 78</li>
             <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 99</li>
         </ul>
       </td>
@@ -289,12 +289,12 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 24</li>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 34</li>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 51</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 63</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 71</li>
-            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 72</li>
+            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 30</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 30</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 38</li>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 47</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 65</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -350,10 +350,10 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 24</li>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 34</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 50</li>
-            <li> <a href="{{ "/tags/wales" | relative_url }}">wales</a> # 70</li>
+            <li> <a href="{{ "/tags/wales" | relative_url }}">wales</a> # 29</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 51</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 67</li>
+            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 76</li>
             <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 78</li>
         </ul>
       </td>
@@ -361,7 +361,7 @@ A &quot;one man project&quot; represents music created entirely or predominantly
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/2VLguJUeUBWEKtmHYxB9mS0qBpF3MUK9lQGHi_QUOWk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTEx/Mi0xMTE3NDQ2MDI0/LmpwZw.jpeg" alt="Cover for Piimaš" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7992c070a1d0f1a1f1787f34cabb947.png" alt="Cover for Piimaš" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Kago</td>
@@ -384,16 +384,16 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 1</li>
             <li> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a> # 2</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 20</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 82</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/naST5hDRmg1HatokFSMr0fQnfWeHnXDcJcc5ycK5Dmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MzYx/ODItMTM5NTkxMjk5/MC05MTgzLmpwZWc.jpeg" alt="Cover for Vagabond" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3ab79a0bfd7d64ed2b9ec5ad7241415.png" alt="Cover for Vagabond" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>svemir</td>
@@ -410,7 +410,7 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 54</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -448,8 +448,8 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 5</li>
-            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 19</li>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 82</li>
+            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -476,8 +476,8 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 42</li>
             <li> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a> # 53</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 59</li>
             <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 62</li>
         </ul>
       </td>
@@ -485,7 +485,7 @@ A &quot;one man project&quot; represents music created entirely or predominantly
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/CK6u8y0vbynEc14CgriTC7DXSL2793A8RaZ-5fdRn8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjgw/NTI2LTE2MDY0OTg1/NTktNDUyNi5qcGVn.jpeg" alt="Cover for Formations" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ac69b8d4de5aa5a802c62268d144c62.png" alt="Cover for Formations" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Multiphonic Rodent</td>
@@ -513,16 +513,15 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 27</li>
             <li> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a> # 38</li>
             <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 49</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/XnCElJEGED-9iYwEro93n6VF561D8sia_xi4I6e-k6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzAx/MzktMTU4MzQwODU4/MC0yMzM0LmpwZWc.jpeg" alt="Cover for Kosmoseodüsseia" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Vaiko Eplik &amp; Eliit</td>
@@ -544,16 +543,15 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 29</li>
             <li> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a> # 43</li>
             <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 53</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>2</td>
       <td>
-          <img src="https://i.discogs.com/h7LOozHx1g2hE9X51lCpfO11fDZ0m5OWodcqL44Z7i4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjc2/NjEtMTIzMzEwMzE4/OS5qcGVn.jpeg" alt="Cover for Rocks and Feathers" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Cagey House</td>
@@ -628,8 +626,8 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 20</li>
-            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 35</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 21</li>
+            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -659,7 +657,7 @@ A &quot;one man project&quot; represents music created entirely or predominantly
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/jmHSrOO_u0AGFluFAY1S2FeOZGwU_kg1kW0GvTSCnVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzkx/ODUtMTM2MzMxNzIy/Ny00NTM5LmpwZWc.jpeg" alt="Cover for Daytrotter Session - 7&#x2F;8&#x2F;2008" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2343264dcec4c9a99ed3144ac6c4873.png" alt="Cover for Daytrotter Session - 7&#x2F;8&#x2F;2008" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-07-08</td>
       <td>Kaki King</td>
@@ -679,13 +677,14 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 56</li>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/15edae9de77a7d36ab2c94c7288a9d29.png" alt="Cover for we are synonymous with sin" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-08-04</td>
       <td>gotikplage</td>
@@ -709,7 +708,7 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 11</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -740,9 +739,9 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 54</li>
-            <li> <a href="{{ "/tags/sheffield" | relative_url }}">sheffield</a> # 67</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 68</li>
+            <li> <a href="{{ "/tags/sheffield" | relative_url }}">sheffield</a> # 33</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 33</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 47</li>
             <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 84</li>
         </ul>
       </td>
@@ -784,16 +783,16 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 7</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 10</li>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 40</li>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 42</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 47</li>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 53</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 3</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 5</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 17</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 41</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 48</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 50</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 62</li>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 68</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 83</li>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 96</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 98</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 88</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 90</li>
             <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 100</li>
         </ul>
       </td>
@@ -890,9 +889,9 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 14</li>
             <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 20</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 55</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 87</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -917,10 +916,10 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 48</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 25</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 27</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 53</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 61</li>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 72</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -938,14 +937,14 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 1</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/hcDN4NeIoCe-PPS6HNRv_HaeZDcz8Nh77GNbhxnKKbM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjcz/NTItMTI2MjA4MTI4/MS5qcGVn.jpeg" alt="Cover for Contact Book" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/32265c2facfd880193a7be6d16feed74.png" alt="Cover for Contact Book" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-31</td>
       <td>Dopedrone</td>
@@ -972,16 +971,16 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 17</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 25</li>
             <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 60</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 76</li>
-            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/3_YTYzKbJcdexm6o-g8Ln7QoT1IWu8RyLR4w7_QbSNM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDkx/ODI3LTE2ODQyMDg5/MTMtODMwNC5qcGVn.jpeg" alt="Cover for The Arrival" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9366d324321441e7bd20985dab69690e.png" alt="Cover for The Arrival" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-11</td>
       <td>Keith Merrow</td>
@@ -1030,7 +1029,6 @@ A &quot;one man project&quot; represents music created entirely or predominantly
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/OXhk-Yy0QSk9A18-C_AGtdaf12s7Y8DinHS3nT2YW4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTM4/MjctMTI3NjI1Njg5/My5qcGVn.jpeg" alt="Cover for Ma première sortie" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-06-10</td>
       <td>Charmant Juliette</td>
@@ -1098,10 +1096,10 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 11</li>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 20</li>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 27</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 56</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 45</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 75</li>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 80</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1136,7 +1134,6 @@ A &quot;one man project&quot; represents music created entirely or predominantly
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/ZmzeNUgUeOzovQdYMzLT2Isxg752_jqZYXI4Cb7qOA8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTc3/NTQtMTI5MzQ5NzIz/My5qcGVn.jpeg" alt="Cover for translations ep" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-12-27</td>
       <td>Raymundo Mendoza</td>
@@ -1157,14 +1154,14 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 10</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/zEqKAoj41oBr-Cq9IHPBK_eP-8MiN2LVl8xXRQNIB8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjMx/NzctMTQwMDIzNTUx/Ni0yMDgwLmpwZWc.jpeg" alt="Cover for analog gentleman" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/18d89efb0681424eba2030866bca0c96.png" alt="Cover for analog gentleman" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Out-Or</td>
@@ -1196,7 +1193,6 @@ A &quot;one man project&quot; represents music created entirely or predominantly
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/y09pQ8zrkpPn1g5zADDhqvdcx7r_AAi090INDr7P67E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODYx/MTIxLTE2ODQwNjgz/ODUtMTUyMy5qcGVn.jpeg" alt="Cover for live at WFMU August 2008" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Kurt Vile</td>
@@ -1219,10 +1215,10 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 16</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 33</li>
-            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 52</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 57</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 44</li>
+            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 49</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 65</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1252,14 +1248,14 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 51</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/IZWFtnEPP-5mYgpj8yu3UKuS6JRCW-FXieM72_gSVd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODc1/NTItMTQ1NDg4MjI5/NS0xMTU5LmpwZWc.jpeg" alt="Cover for Outsider" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e482fca5ecfedbcf5fa004d7c105a96e.png" alt="Cover for Outsider" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-30</td>
       <td>Cyesm</td>
@@ -1284,15 +1280,15 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 76</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 94</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 7</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/C7gEqVxdagZjkMcbBRrhidEm49jW1MNbOd2dVnIBPU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODA3/NjYtMTM2NDU4MzI1/NS00ODI0LmpwZWc.jpeg" alt="Cover for Plus" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a26a3966e904730c750de729772c2bd.png" alt="Cover for Plus" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-10</td>
       <td>Saito Koji</td>
@@ -1317,13 +1313,14 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 31</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 32</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/151a56783b78495593e9f9424eef4171.png" alt="Cover for Flamingo" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-13</td>
       <td>Sean Nicholas Savage</td>
@@ -1345,12 +1342,12 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 5</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 26</li>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 80</li>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 95</li>
-            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 96</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 100</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 1</li>
+            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 5</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 5</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 52</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 81</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1378,9 +1375,9 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 24</li>
-            <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 71</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 74</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 27</li>
+            <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 29</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1427,7 +1424,7 @@ A &quot;one man project&quot; represents music created entirely or predominantly
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/m_DxbPYaVbEodn_1AehzwFle9PW7IHkXiyrkTGIvo58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODIy/NzYtMTUwMDk3NTYx/MS01MTg3LmpwZWc.jpeg" alt="Cover for Janu" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad2e42fd24a741f39c02cb4f4a1bca28.png" alt="Cover for Janu" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06-14</td>
       <td>Marten Kuningas</td>
@@ -1451,8 +1448,8 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 10</li>
             <li> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a> # 91</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 91</li>
             <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 94</li>
         </ul>
       </td>
@@ -1460,7 +1457,7 @@ A &quot;one man project&quot; represents music created entirely or predominantly
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/X7GDAhPyDE7tS8Y3D3mEbU98km9Z4of37fswq5yk8Ec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzU4/MjEtMTQyMTQ5MTY4/Ny0zMjg0LmpwZWc.jpeg" alt="Cover for JUST FOR YOU" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/52d9fce4b1d44bacba58f93be97bbf79.png" alt="Cover for JUST FOR YOU" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-07-01</td>
       <td>EMBARK</td>
@@ -1484,7 +1481,7 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 8</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1510,7 +1507,7 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 16</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1531,15 +1528,15 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 78</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 96</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 5</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/c3UDK-mpwbBNandv04hOokpr0JZOln3Pyj0razj6IFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NjIz/MjUtMTM2ODQ0NzUz/NS04NDc5LmpwZWc.jpeg" alt="Cover for Bisamråtta (LP)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/be1030dbc6d84d74cd5da1fa08619763.png" alt="Cover for Bisamråtta (LP)" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08-05</td>
       <td>Bisamråtta</td>
@@ -1561,15 +1558,14 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 24</li>
-            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 54</li>
+            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 48</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/HVF8SVStle6cH7Y61YdireGvz_U9QJnlDv6QfY-w57E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDQ4/NzgtMTQzODQ1MDAy/My03NTQ4LmpwZWc.jpeg" alt="Cover for Pussy Willow" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08-09</td>
       <td>Coppertone</td>
@@ -1596,7 +1592,6 @@ A &quot;one man project&quot; represents music created entirely or predominantly
     <tr>
       <td>13</td>
       <td>
-          <img src="https://i.discogs.com/m6M4qcgzvl-jUorn0FiGBZuE5WHWvSllXudS2XG3P5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMDI5/NzEtMTQ1ODk3MDQy/Ny0xNTU3LmpwZWc.jpeg" alt="Cover for Afterthought EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08-30</td>
       <td>Naked House</td>
@@ -1624,7 +1619,7 @@ A &quot;one man project&quot; represents music created entirely or predominantly
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/UMzH3QsixFQDcjyMfBp_QtbjuFJdJUq8NdimrOuLMHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MjI3/MzktMTM2NzI3ODU5/MS0zMTU1LmpwZWc.jpeg" alt="Cover for All Downhill From Here" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/20f6a177241c434d8a21a28d8d3b8351.png" alt="Cover for All Downhill From Here" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-09-14</td>
       <td>Ssaliva</td>
@@ -1646,13 +1641,14 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 53</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8158408bb9efeb15c96c5c4820f22f27.png" alt="Cover for Cellar Dweller" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-11-13</td>
       <td>Ratkiller</td>
@@ -1681,16 +1677,16 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 23</li>
             <li> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a> # 31</li>
             <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 42</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/SaGnv5B1nsRBhmd6WZ27jajRTm61NeWFSaq8cLlnrKg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzEz/MTctMTM1NjMyODA5/NC01ODg5LmpwZWc.jpeg" alt="Cover for Circadian" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/289d056063304bf8946325b7754e9b0d.png" alt="Cover for Circadian" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12-06</td>
       <td>Off Land</td>
@@ -1715,8 +1711,8 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 22</li>
-            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 47</li>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 54</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1740,15 +1736,14 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 10</li>
-            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 24</li>
+            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 80</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>21</td>
       <td>
-          <img src="https://i.discogs.com/7C8OSmDLHG8dCrXdc1ZkAqM71jX0Ii5CM6cB_8X5BaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMjM4/MzctMTM1NjA4MDQy/Ni01ODI3LmpwZWc.jpeg" alt="Cover for Cavan" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12-21</td>
       <td>Gumbel</td>
@@ -1776,15 +1771,15 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/catalan" | relative_url }}">catalan</a> # 7</li>
-            <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 16</li>
+            <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 85</li>
+            <li> <a href="{{ "/tags/catalan" | relative_url }}">catalan</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/MgEhM_m7b92_A0NJIaKNqGg-lkNhqVun8EbPR3I3cJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMzc1/NTAtMTQwOTQ2MDAz/NS0xMDM5LmpwZWc.jpeg" alt="Cover for The Art Of Dreaming" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/65770da4c40146c3ae0b991dd9687527.png" alt="Cover for The Art Of Dreaming" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12-28</td>
       <td>AbJo</td>
@@ -1813,7 +1808,7 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 36</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1837,14 +1832,14 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 19</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/mNo6vzU7N99_Yfy0K6J2iJQGrUscSyrTeuiGwvE8Jxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0OTc2/ODktMTQ2MjgwNjMx/Ni01MzYyLmpwZWc.jpeg" alt="Cover for Laulud lindudelt" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1a31805201063084bac7fa591593158.png" alt="Cover for Laulud lindudelt" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Iduvigik</td>
@@ -1868,17 +1863,18 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 17</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 28</li>
             <li> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a> # 39</li>
             <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 50</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 51</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 50</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 73</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/93d64a41beef4f089d3589fd3273a614.png" alt="Cover for isn&#39;t this dangerous?" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-01-25</td>
       <td>lefolk</td>
@@ -1901,13 +1897,14 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 33</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd94f9fd32ac4e69bca1f0d34557a8b3.png" alt="Cover for Crow44" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-02-12</td>
       <td>Crow44</td>
@@ -1937,9 +1934,9 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 35</li>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 57</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 71</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 30</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 44</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 68</li>
             <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 86</li>
         </ul>
       </td>
@@ -1947,7 +1944,7 @@ A &quot;one man project&quot; represents music created entirely or predominantly
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/dRZi2CalUAvGG1qcpA8Dm5djqj4C17XzkKSZzPLoQ7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDYy/NTYtMTQ4NzI3NTYx/Mi03MzY4LmpwZWc.jpeg" alt="Cover for Sea in a Circle" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8041dcc56c8848cfa4ba2fde23514ee2.png" alt="Cover for Sea in a Circle" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-03-02</td>
       <td>A Cackle or a Coughing Fit</td>
@@ -1971,14 +1968,14 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 49</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/Pf9OkCr-py3iLCgP4luN9r_YvxMfdkL_UZYxdKAmqJQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMDky/MDItMTM2MTYyNjUz/NS00MDc4LmpwZWc.jpeg" alt="Cover for Globe Rush Progressions" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fde8953adfe4373ad8c7f4f5c5fcd24.png" alt="Cover for Globe Rush Progressions" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-03-12</td>
       <td>Elephant Micah</td>
@@ -2003,17 +2000,17 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 42</li>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 44</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 72</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 78</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 23</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 29</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 56</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/NgT-ebwZUlTe9cF6wJ6kx1wRXqYzdwaf9IXOsW47hcw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0OTkw/NTAtMTM2NjYxMjY4/Ny0yNDM1LmpwZWc.jpeg" alt="Cover for Und unsere Häuser sind Särge" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f462d49b6e0242b1b6bfe8d5cc55e2d7.png" alt="Cover for Und unsere Häuser sind Särge" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-17</td>
       <td>Nils Quak</td>
@@ -2039,16 +2036,16 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 15</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 32</li>
-            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 51</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 33</li>
+            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 50</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/0lRPKyiMQr6rLOJH9BMDD_8O2VVknWjWyKLWXTkv2H8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDAy/ODctMTM2NjY0MTQz/MC05MTQzLmpwZWc.jpeg" alt="Cover for Learning to Cheat" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/13007767de3f41c8c11709c817dc63bd.png" alt="Cover for Learning to Cheat" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-22</td>
       <td>Firetail</td>
@@ -2070,7 +2067,7 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 27</li>
+            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -2105,7 +2102,7 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 5</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -2134,8 +2131,8 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 2</li>
-            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 25</li>
+            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 23</li>
+            <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2201,7 +2198,7 @@ A &quot;one man project&quot; represents music created entirely or predominantly
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/sWZY54sz7FdT6RDNVQyeW8HrgcO6I3c4-vEW2AX8CSA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMTIw/NzItMTM4NDgxMjA2/NC0yMjcwLmpwZWc.jpeg" alt="Cover for Styx" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0812ba6adf9446289f74af06e8d6578c.png" alt="Cover for Styx" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-07-24</td>
       <td>Tahm</td>
@@ -2227,7 +2224,7 @@ A &quot;one man project&quot; represents music created entirely or predominantly
         <ul>
             <li> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a> # 19</li>
             <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 32</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 36</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -2257,16 +2254,17 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 43</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 67</li>
-            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 70</li>
+            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 31</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 58</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 68</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>1</td>
       <td>
-          <img src="https://i.discogs.com/qCPZ70qRZugznTFrHX2ijZ7TvL0cuKpeR4K4WhtTF74/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzkx/MTgxLTE1MTU0NzY3/MzAtNjIyNi5qcGVn.jpeg" alt="Cover for Cosmic Shimmy Blues" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7dad532b31ef4aa79d8f67ac6b448abb.png" alt="Cover for Cosmic Shimmy Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-12-19</td>
       <td>Saint Julien</td>
@@ -2287,14 +2285,14 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 12</li>
+            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/LDULmpry13FM7XklcMiVf1y_7pWyhn7szWlytpzywzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjA2/Mzc4LTE2MTIxNzIx/NzEtMjgyOC5qcGVn.jpeg" alt="Cover for Best of Misha Mansoor" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0750791048a5e5e4638ad119d6dbd18a.png" alt="Cover for Best of Misha Mansoor" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Bulb</td>
@@ -2341,7 +2339,7 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 11</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -2370,7 +2368,7 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 92</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 9</li>
             <li> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a> # 93</li>
             <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 96</li>
         </ul>
@@ -2411,7 +2409,7 @@ A &quot;one man project&quot; represents music created entirely or predominantly
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/OZtOyvu-QNbLZbeoYg46a_drApNGm6RkLLpT9QP8EeQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMzQ3/MDItMTQxNjczOTIw/Ny00MzQzLmpwZWc.jpeg" alt="Cover for Ending to Beginning" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/71f30678ff2951ac5c6960ac7051cd07.png" alt="Cover for Ending to Beginning" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-09-03</td>
       <td>Mikaere</td>
@@ -2499,7 +2497,6 @@ A &quot;one man project&quot; represents music created entirely or predominantly
     <tr>
       <td>10</td>
       <td>
-          <img src="https://i.discogs.com/i7YM6SfSbxGysNQNqpPmAkp5CybSMitPGhvwz8rvynw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0ODQw/NjItMTQyMDMyMzA2/Ny03ODcyLmpwZWc.jpeg" alt="Cover for 0714" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-01</td>
       <td>Philip Johnson</td>
@@ -2519,14 +2516,14 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dada" | relative_url }}">dada</a> # 36</li>
+            <li> <a href="{{ "/tags/dada" | relative_url }}">dada</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/HOR-oGjKiD6a23d1OLHaXN6YRYy_XwDwr2b_mXkSksU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDcz/MTQtMTQ0NTAzMTQ2/Ni03MTk4LmpwZWc.jpeg" alt="Cover for Belonging" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a24abb2276b55726b28cd3e0fb139c1.png" alt="Cover for Belonging" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-06-30</td>
       <td>Melinda Ligeti</td>
@@ -2553,7 +2550,7 @@ A &quot;one man project&quot; represents music created entirely or predominantly
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/f_YLN3Ky8rrn0vAjHqKRaybzZWvs-KaFZMkPBtu5w2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDg3/MDgtMTQzODU0MDc5/MC0yNjYwLmpwZWc.jpeg" alt="Cover for Overlook the Human Race" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a67e5667d2df4667b8d7741e46d7afb6.png" alt="Cover for Overlook the Human Race" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-07-24</td>
       <td>Derek Clegg</td>
@@ -2606,10 +2603,10 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 6</li>
-            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 8</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 21</li>
             <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 62</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 80</li>
+            <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 93</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -2641,10 +2638,10 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 38</li>
-            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 58</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 62</li>
-            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 68</li>
+            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 33</li>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 43</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 63</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -2671,7 +2668,6 @@ A &quot;one man project&quot; represents music created entirely or predominantly
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/K_KVqGqvl4c6oAqjJX2D5RU4Tw6POs-AsdgvBrTQV5E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjI1/MjUxLTE2MDA5NzE3/NjktMzM2Mi5qcGVn.jpeg" alt="Cover for 404 Error" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-26</td>
       <td>LeeM</td>
@@ -2705,7 +2701,7 @@ A &quot;one man project&quot; represents music created entirely or predominantly
     <tr>
       <td>17</td>
       <td>
-          <img src="https://i.discogs.com/_7bXNf_1tqt3Yv5LuZ0aw6iSW2vGKqmw4nw0vHuLzvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDc0/NTMtMTM4NDY5ODQy/Ny05NTg4LmpwZWc.jpeg" alt="Cover for The Absence of Light Contains the Shadow of Loss" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d9e997a8203c538b9de207db3b72cd0.png" alt="Cover for The Absence of Light Contains the Shadow of Loss" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-03-15</td>
       <td>Scott Lawlor</td>
@@ -2727,7 +2723,7 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 10</li>
+            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -2757,7 +2753,8 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 5</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 1</li>
+            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -2784,16 +2781,16 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 55</li>
-            <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 82</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 85</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 16</li>
+            <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 18</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/A_Fc9yLj0tODXDjV_IGKSCoP1y0ez5k-x0xOCGtYE3A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTk0/MjAwLTE1OTQyMjAx/NTAtMjc3OC5qcGVn.jpeg" alt="Cover for Snake Man vs The World" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b52f7ae8167544598a2a959728d4b616.png" alt="Cover for Snake Man vs The World" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-07-22</td>
       <td>Benjamin Briggs</td>
@@ -2817,14 +2814,14 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 30</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/WhAO2D-DbilAXMP_9muOG8IX_kZP67hYCFQta9ail8g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDA4/OS0xMTgwNjExNTg5/LmpwZWc.jpeg" alt="Cover for Tense Surfaces" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5f4ce467edc6d7a917e72a74c45b2ce.png" alt="Cover for Tense Surfaces" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-08-07</td>
       <td>Aidan Baker</td>
@@ -2846,9 +2843,9 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 39</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 42</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 75</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 26</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 59</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -2883,9 +2880,9 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 26</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 56</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 81</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 20</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 46</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -2920,13 +2917,14 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 29</li>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/900567a29fcf4cfdaf56149c46802575.png" alt="Cover for Midnight Polaroids" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Robel Synthesia</td>
@@ -2955,8 +2953,7 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 4</li>
-            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 38</li>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -2988,15 +2985,16 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 10</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 60</li>
-            <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 66</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 11</li>
+            <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 35</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b24d994b0cd545a696c4ce257143a0a4.png" alt="Cover for I&#39;m The Lion" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Moses Luster and The Hollywood Lights</td>
@@ -3020,8 +3018,8 @@ A &quot;one man project&quot; represents music created entirely or predominantly
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 27</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 64</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 37</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 73</li>
         </ul>
       </td>
     </tr>

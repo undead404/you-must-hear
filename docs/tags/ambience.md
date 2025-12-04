@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T03:54:11.769Z
+date: 2025-12-04T09:43:53.489Z
 permalink: tags/ambience
 title: ambience
 ---
 
 ## ambience
 
-Last updated: <time datetime="2025-11-11T03:54:11.769Z">Tue Nov 11 2025 05:54:11 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T09:43:53.489Z">Thu Dec 04 2025 11:43:53 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
     <tr>
       <td>3</td>
       <td>
-          <img src="https://i.discogs.com/e6Ye080L2ytYSllRu-f26Va7LdsKxxq0Yx7zmsPCQck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjc0/NzQwLTE2NTI5MzMy/NDUtMjEwMS5qcGVn.jpeg" alt="Cover for Paul Tunnell" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/264c67644a614f2a84e254c5e6ec14fa.png" alt="Cover for Paul Tunnell" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Paul Tunnell</td>
@@ -130,7 +130,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/6EHAODaotsArROuAnf-WtJRFJqSLmX70RdXY99oWAAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Mzk1/NS0xMzYzMjY0MDUx/LTMwMzYuanBlZw.jpeg" alt="Cover for Lullabies To Violaine - Volume 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/910b13aad63e4744c750effd6d4b99f3.png" alt="Cover for Lullabies To Violaine - Volume 2" style="max-width:120px; height:auto;" />
       </td>
       <td>1990-09</td>
       <td>Cocteau Twins</td>
@@ -149,7 +149,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/Eu-aGGCOW4WHR0nPHFmXnWwCum3V-civFFumWLq8vFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzcx/OS0xNjA1NDc1ODcz/LTM2NTIuanBlZw.jpeg" alt="Cover for Simphonia Sine Nomine" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f10c1b84d6064f23ac99a973e3e85dcf.png" alt="Cover for Simphonia Sine Nomine" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Ataraxia</td>
@@ -215,7 +215,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 13</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -243,7 +243,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 35</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -263,7 +263,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 8</li>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -298,10 +298,10 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 55</li>
+            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 25</li>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 46</li>
             <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 57</li>
             <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 75</li>
-            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 76</li>
             <li> <a href="{{ "/tags/italian-baroque" | relative_url }}">italian baroque</a> # 96</li>
         </ul>
       </td>
@@ -415,10 +415,10 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       <td>
         <ul>
             <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 1</li>
-            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 17</li>
-            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 26</li>
-            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 42</li>
             <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 44</li>
+            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 59</li>
+            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 76</li>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -451,11 +451,11 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 37</li>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 45</li>
+            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 10</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 56</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 64</li>
             <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 84</li>
             <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 90</li>
-            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -625,11 +625,11 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 20</li>
-            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 73</li>
+            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 15</li>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 28</li>
             <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 76</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 80</li>
             <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 85</li>
-            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -756,9 +756,9 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 44</li>
+            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 30</li>
             <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 50</li>
-            <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 71</li>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 57</li>
             <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 73</li>
         </ul>
       </td>
@@ -766,7 +766,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
     <tr>
       <td>12</td>
       <td>
-          <img src="https://i.discogs.com/Mg_ueRbJJvQO1vjisCtqaSbcRjg0ZUIPRz6lRlAzFJE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjY1/NzI1LTE1OTU1MjY2/NTEtMzU3MS5qcGVn.jpeg" alt="Cover for No Life Space" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f8cc393676455afd04de36ddb201364.png" alt="Cover for No Life Space" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10-26</td>
       <td>Phan Anh</td>
@@ -800,8 +800,8 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 19</li>
             <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 75</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -824,7 +824,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 76</li>
+            <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -884,6 +884,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
     <tr>
       <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e89d987e2aa8d3d6d80dd36ea4779c5.png" alt="Cover for kirpi ep" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-06-22</td>
       <td>dessktop</td>
@@ -924,8 +925,8 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 4</li>
-            <li> <a href="{{ "/tags/leeds" | relative_url }}">leeds</a> # 62</li>
+            <li> <a href="{{ "/tags/leeds" | relative_url }}">leeds</a> # 39</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -959,14 +960,14 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 29</li>
+            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/8EIguIQQ4Y985c51Jd6JWFKy2BzQSLQWPiJSIsvEGRA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDY5/MzQtMTIzODI1Mzc1/Mi5qcGVn.jpeg" alt="Cover for The Glittering Domain" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1eae9a6b224ed21e7683a68323228251.png" alt="Cover for The Glittering Domain" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01-01</td>
       <td>Deepspace</td>
@@ -988,14 +989,14 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       <td>
         <ul>
             <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 45</li>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 46</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/RJnIqxZUcSNxn_InN3_jlukOWI03NADlh-EEbFyiwqI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjAx/MzgtMTMyNzc1MDk4/OC5qcGVn.jpeg" alt="Cover for Mirror&#39;s Edge Catalyst" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5946e6b0dc3834fbd9f1d513b466dcc5.png" alt="Cover for Mirror&#39;s Edge Catalyst" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01-20</td>
       <td>Solar Fields</td>
@@ -1039,7 +1040,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
     <tr>
       <td>17</td>
       <td>
-          <img src="https://i.discogs.com/P0E88v0PQjjTszrkFBylGZlvRG2Z0gCPo2F87F7niFU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODQ3/MTQtMTMyODMwNzc5/OS5wbmc.jpeg" alt="Cover for Mentalism EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/33e4d4faec0a41e5a29b50bc920fea78.png" alt="Cover for Mentalism EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-08-31</td>
       <td>Solipsism</td>
@@ -1066,6 +1067,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
     <tr>
       <td>29</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/80b2b82df82daf339c05a6a3454dee42.png" alt="Cover for Andromeda" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-28</td>
       <td>Synoiz</td>
@@ -1110,14 +1112,14 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 10</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/HTRYCT3O73zafJmdkrQpaHmvG0Oa-w9OIZnYA4A_HLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODY3/NjAtMTI5NjU2Njg0/MC5qcGVn.jpeg" alt="Cover for Marzipan und Mutterfleisch" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d1331a3e17ce948502daab84b37f05b.png" alt="Cover for Marzipan und Mutterfleisch" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-12-24</td>
       <td>Herr Twiggs</td>
@@ -1136,7 +1138,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a> # 55</li>
+            <li> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1200,13 +1202,14 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       <td>
         <ul>
             <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 3</li>
-            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 47</li>
+            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b920539b3aac529d12379756b86eaebe.png" alt="Cover for Environments" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-07-11</td>
       <td>Machine Code</td>
@@ -1222,7 +1225,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 12</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1249,7 +1252,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/OGIzjLvgENv0EBySyGJ9Ly6M8JaBop6_A1TpOKmnVEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTM0/Mjg4LTE2NDM0MjAw/MDgtODAwNi5qcGVn.jpeg" alt="Cover for Red Dead Redemption: Undead Nightmare Original Soundtrack" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfff21c66e765dba939b51bb0a982f7e.png" alt="Cover for Red Dead Redemption: Undead Nightmare Original Soundtrack" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Varios Artistas</td>
@@ -1265,7 +1268,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 10</li>
+            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1326,7 +1329,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/gU-986modytMmoqS5XMk5vT1ZvGzO3at-WUS3Vc-uN4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODU4/MDEzLTE1MjM1OTQw/NzItNzQ4Mi5qcGVn.jpeg" alt="Cover for Galaxy Train" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0bf0b41ef5db4779c7d1201ff77e8efa.png" alt="Cover for Galaxy Train" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-04-13</td>
       <td>DJ Gami.k</td>
@@ -1444,7 +1447,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/Q90bTZZ59_s0EqnrQlTPj2gZoJj7J9Ghp1MPuJaRoGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0ODcx/NDEtMTQyMDM4ODY1/My0xMzE4LmpwZWc.jpeg" alt="Cover for Chillout Lounge" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/226202e3cd69a927fa1541555ff56587.png" alt="Cover for Chillout Lounge" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Thomas Lemmer</td>
@@ -1467,8 +1470,8 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 64</li>
-            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 86</li>
+            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 15</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1515,7 +1518,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/0KM2pUOWSToKouEzd330VfFvm2HUvcFHAhdoxOIJI0A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTYy/NzQyLTE1ODQ3OTg2/NTktMTk3OC5qcGVn.jpeg" alt="Cover for Enchanted Forest" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c0aed318b6a231e52f79eb34a299c1f.png" alt="Cover for Enchanted Forest" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-07-15</td>
       <td>Celestial Aeon Project</td>
@@ -1529,14 +1532,14 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 49</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/AFMCGj3x0Tx_RwZQKxDxAH-MCFh4jT8IOoAIpKiyadA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjMz/NTg2LTE1OTQ5MTc0/NTQtMzkwNy5qcGVn.jpeg" alt="Cover for 3STYLE" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/15f0266b29c938d2384ec0a6a2203ba5.png" alt="Cover for 3STYLE" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-07-16</td>
       <td>Bladee</td>
@@ -1732,7 +1735,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 15</li>
+            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1767,7 +1770,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ballet" | relative_url }}">ballet</a> # 38</li>
+            <li> <a href="{{ "/tags/ballet" | relative_url }}">ballet</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1795,9 +1798,9 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 15</li>
-            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 57</li>
+            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 44</li>
             <li> <a href="{{ "/tags/oboe" | relative_url }}">oboe</a> # 85</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1824,6 +1827,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
     <tr>
       <td>4</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3b26281e71744e5c455a3fca4e52a1f.png" alt="Cover for Crystal Water" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Jou D. Smooth</td>
@@ -1866,6 +1870,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
     <tr>
       <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/66c1a39f883a1e8a1f267222995efd07.png" alt="Cover for Memory" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Drip-Dry Eyes</td>
@@ -1906,6 +1911,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
     <tr>
       <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/75dfc8425e9cf1b8d7fe063ffbd24fd3.png" alt="Cover for Mauer" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Ekto-One</td>
@@ -2033,6 +2039,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
     <tr>
       <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ca8a454e59b4ea39b3c7e3428665b95.png" alt="Cover for Oliver" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>God&#39;s Holy Forest</td>
@@ -2103,6 +2110,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
     <tr>
       <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14b6d17f583914327dc65a34c56c8720.png" alt="Cover for Jüregım" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>apriltears</td>
@@ -2123,6 +2131,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
     <tr>
       <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1b1dd7a77134a2ecac23acd02eb1663.png" alt="Cover for Chasing Memories" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>postmoderndisco</td>
@@ -2165,6 +2174,7 @@ Ambience describes music designed to create atmospheric spaces and moods rather 
     <tr>
       <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0834dd291c24d08efc6179557078654b.png" alt="Cover for DJ BRODY-&#x60;FEAT-PIXIEGUTS&#x60;" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>DJ BRODY-FEAT-PIXIEGUTS</td>

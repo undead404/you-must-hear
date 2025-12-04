@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-07T09:29:38.976Z
+date: 2025-12-04T09:45:29.331Z
 permalink: tags/soulful-house
 title: soulful house
 ---
 
 ## soulful house
 
-Last updated: <time datetime="2025-11-07T09:29:38.976Z">Fri Nov 07 2025 11:29:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T09:45:29.331Z">Thu Dec 04 2025 11:45:29 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -74,8 +74,8 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 30</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 38</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 66</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -103,7 +103,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 38</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -187,7 +187,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/3WEoVU0fIIXhymnQYOojF6hM4FwHivFDfaoPdUmQnJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODUz/NC0xMjE5NjQyOTQy/LmpwZWc.jpeg" alt="Cover for Land Of The Living" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a3b8283361fe00095c41afa6d10193f.png" alt="Cover for Land Of The Living" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-07-23</td>
       <td>Kristine W.</td>
@@ -205,7 +205,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/GI1kawXX_WImQLdkh351zrlXYhSMY8MnnPYNkcrhhIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDIw/Ny0xMTY1MjQ0MjIy/LmpwZWc.jpeg" alt="Cover for Dance &amp; Electronic" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c10790ec80aefc9c3d14f5541457129.png" alt="Cover for Dance &amp; Electronic" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Various Artists</td>
@@ -219,7 +219,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 50</li>
+            <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -245,7 +245,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/5qopRVn2ecoL73r34-3Li-lZrsKnDGXAMRI1B9254Rk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTE4/ODMtMTYxMjIwMTU0/OS01NjkxLmpwZWc.jpeg" alt="Cover for Here Comes the Sunburst Band" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9e2ea1ff41aa5924d9e2e70d51a01b9.png" alt="Cover for Here Comes the Sunburst Band" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-11-30</td>
       <td>The Sunburst Band</td>
@@ -341,7 +341,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/oaQwVBFuDVvs7VzaYy9qLFZgbGhbUq8DryCQtb1xmCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTQ5/Ny0xMTcyODgxOTgy/LmpwZWc.jpeg" alt="Cover for Defected Presents House Masters - Frankie Knuckles" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/638ff487e64d10eb7b6f6659215ff602.png" alt="Cover for Defected Presents House Masters - Frankie Knuckles" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-12-16</td>
       <td>Frankie Knuckles</td>
@@ -361,7 +361,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/NbajOx9_uRaoLYLisxO0g9HJHfUdr8M8M4zgMF_XJrM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3Njcx/LTE1NzQ4MTgyMDMt/OTc5My5qcGVn.jpeg" alt="Cover for Sereia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/206badfea7ea43b395feaae1a68c2c36.png" alt="Cover for Sereia" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Mundo Azul</td>
@@ -399,6 +399,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f5c7098723102ec98f3e3098ba1fd2d.png" alt="Cover for Our Time Is Coming" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Masters at Work</td>
@@ -452,10 +453,10 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 5</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 21</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 34</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 42</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 33</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 60</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 84</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -479,7 +480,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/Ivcq0vZGlbuc2hwmiJdvACtwBffF0L51nCOsEGOvUr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTg3/LTE0ODcyODczODIt/MzIwNi5qcGVn.jpeg" alt="Cover for For Those Who Like to Get Down" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/08d427b846dace18113407b0f4f94a15.png" alt="Cover for For Those Who Like to Get Down" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Marques Wyatt</td>
@@ -497,6 +498,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
     <tr>
       <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/17baab2e27564aedca02c98c20f70e32.png" alt="Cover for Beautiful Tomorrow" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-01-22</td>
       <td>Blue Six</td>
@@ -510,14 +512,15 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 56</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 64</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 25</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/853a9ca94170d5040f6d088098e0e7ad.png" alt="Cover for Colorful You" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-09-30</td>
       <td>Miguel Migs</td>
@@ -531,7 +534,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 98</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -583,8 +586,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 1</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 34</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -601,14 +603,14 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 30</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/Sa32zoBTcJQk9NLcP6X-Hei5bDMlq5k3neOb6y186d4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDM0/ODA1LTE2MjU4NTQw/MjMtNjI3NS5qcGVn.jpeg" alt="Cover for Ugly Edits" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/42aa257a7fcb4b63b4ec04ac2ed00de0.png" alt="Cover for Ugly Edits" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Theo Parrish</td>
@@ -715,6 +717,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -759,10 +762,10 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 16</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 66</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 70</li>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 87</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 32</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 35</li>
+            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 85</li>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -820,7 +823,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 30</li>
+            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -837,7 +840,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 27</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -908,7 +911,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/GoHDCUqD1sinM-DxrcRm3XK8ZiK9cEjdHyqh1xGl7mQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTgz/MjktMTE5NTgwOTM0/NC5qcGVn.jpeg" alt="Cover for Freak" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/312bd3aa1b5a45a79c34713c643633ca.png" alt="Cover for Freak" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10</td>
       <td>Sandy Rivera &amp; Haze</td>
@@ -930,7 +933,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 73</li>
+            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1003,7 +1006,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/cAjcURPzMNgfBI0CMSjYQRmXh5O-jqSltTMWYA3A0KE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDI3/MzAtMTIzNzk4ODgx/OS5qcGVn.jpeg" alt="Cover for Simbad" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/49a88bd4991a983b9dfc104515c888a1.png" alt="Cover for Simbad" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-30</td>
       <td>Simbad</td>
@@ -1024,7 +1027,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/TJzLtPI1oA1eH7k6XF7CbpxmozIIZ9sdKTA7nRCtOFY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODU0/NzYtMTM0MDMwNzMy/MC04NzQ2LmpwZWc.jpeg" alt="Cover for Everybodys Darling" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f39fa75cd434782b2028aaec2fdf67c.png" alt="Cover for Everybodys Darling" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-10-11</td>
       <td>Alex Niggemann</td>
@@ -1060,14 +1063,14 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 27</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/EIT6G4j7DG2yTlqsmriZu2AfAarqjEJIhaXFppC6AJg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTMw/ODAtMTI2NzgwNTQ1/MS5qcGVn.jpeg" alt="Cover for The Active Touch EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd5ba77ee45d71bbba72dd689127d2bd.png" alt="Cover for The Active Touch EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-11-03</td>
       <td>Miguel Campbell</td>
@@ -1088,14 +1091,15 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 27</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 76</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 25</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab886cf25b7f4c239b3f8a83521bd48d.png" alt="Cover for More Tales Remixed" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-11-03</td>
       <td>Incognito</td>
@@ -1115,7 +1119,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for City Sound Berlin 2011" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9073b3b8467141a684d9733f57f27d6f.png" alt="Cover for City Sound Berlin 2011" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Various Artists</td>
@@ -1151,7 +1155,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 40</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1221,7 +1225,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/JZ9h207y55VS2dLctNqW8U5Y-3vIMuGgzCKjXeKJeFA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTg4/NTEtMTI2NTA0ODk2/Mi5qcGVn.jpeg" alt="Cover for Get Lifted" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/93dae105355e87bfcf1b61c7673ed9c2.png" alt="Cover for Get Lifted" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01-24</td>
       <td>Dj OPM</td>
@@ -1236,7 +1240,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 65</li>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1268,7 +1272,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 7</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1300,7 +1304,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 10</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1340,9 +1344,10 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 23</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 61</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 74</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 27</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 40</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 79</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1401,9 +1406,9 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 31</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 39</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 55</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 46</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 65</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1435,15 +1440,15 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 48</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 57</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 47</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/jUwZBxV-0o1rVITBvDxCe2lsM8l7LhmMElV_E1GQ_c0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzIw/MzQtMTYxOTA5NjUy/NS0xNDkyLmpwZWc.jpeg" alt="Cover for Dandelion" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cde68dcb0477496d8fb766c25a3b7fd0.png" alt="Cover for Dandelion" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-08</td>
       <td>Ayoe Angelica</td>
@@ -1490,7 +1495,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 54</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1519,7 +1524,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 55</li>
+            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1557,26 +1562,20 @@ Soulful House music is a subgenre of House music that is enriched with elements 
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3a5ab5db593474c90186f1d27675d4c.png" alt="Cover for When We On" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-09-18</td>
       <td>Crazy P</td>
       <td>When We On</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/motown" | relative_url }}">motown</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 84</li>
+            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1603,7 +1602,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/swhAKy1bNsuR1Cagyo0he2Uqo82kmrgs6hT5dyEPy2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEw/NjctMTMyNzc1NjY2/My5qcGVn.jpeg" alt="Cover for Love In Me Remixes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d78ad359a35447cf8c0802bb7f25bc73.png" alt="Cover for Love In Me Remixes" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12</td>
       <td>Laura Jones</td>
@@ -1629,9 +1628,9 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 37</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 71</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 81</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 20</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 30</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1675,7 +1674,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 40</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1707,9 +1706,9 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 75</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 88</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 93</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 8</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 12</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1730,14 +1729,14 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 42</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>10</td>
       <td>
-          <img src="https://i.discogs.com/H7HSnmsao4I8SwHFUYWHrGDyur5ADQIVBln7M5OAxiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTkw/MTMtMTQ4ODE3MTcw/OC05ODk3LmpwZWc.jpeg" alt="Cover for CHILLECTRO" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/708c8b0c391b4f048d699b6dee2a72d7.png" alt="Cover for CHILLECTRO" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-11-24</td>
       <td>DJ Brody</td>
@@ -1758,7 +1757,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/H7HSnmsao4I8SwHFUYWHrGDyur5ADQIVBln7M5OAxiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTkw/MTMtMTQ4ODE3MTcw/OC05ODk3LmpwZWc.jpeg" alt="Cover for SUNRISE" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab3c27feb9574be8ac764e2cd9a43136.png" alt="Cover for SUNRISE" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-11-24</td>
       <td>DJ Brody</td>
@@ -1781,7 +1780,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/H7HSnmsao4I8SwHFUYWHrGDyur5ADQIVBln7M5OAxiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTkw/MTMtMTQ4ODE3MTcw/OC05ODk3LmpwZWc.jpeg" alt="Cover for MN8" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/875552b861914d62af8df13867797561.png" alt="Cover for MN8" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-11-24</td>
       <td>DJ Brody</td>
@@ -1837,17 +1836,18 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 44</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 15</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 24</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 26</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 53</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 73</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 75</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 78</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ffedec608484b43cb7819906816ffaa.png" alt="Cover for Su Casa" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-08-16</td>
       <td>Mi Casa</td>
@@ -1861,7 +1861,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/south-african" | relative_url }}">south african</a> # 87</li>
+            <li> <a href="{{ "/tags/south-african" | relative_url }}">south african</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1902,15 +1902,17 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 53</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 83</li>
-            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 84</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 90</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 96</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 97</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 97</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 2</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 4</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 4</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 13</li>
+            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 17</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 38</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 79</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 87</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 96</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 98</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 99</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1970,11 +1972,11 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       <td>
         <ul>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 4</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 24</li>
-            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 27</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 33</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 47</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 50</li>
+            <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 15</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 46</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 51</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 71</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -2011,10 +2013,10 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 39</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 69</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 73</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 83</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 18</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 28</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 58</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -2106,7 +2108,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 30</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -2123,14 +2125,14 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 27</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/4GC_FiAca9gevZ9xeRAOmbjjCWv5_25GTW76L_UMuaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDMx/NTAtMTMxMTI0NjQz/MS5qcGVn.jpeg" alt="Cover for Impulsive! Revolutionary Jazz" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ea7865ffccc45d8ab53e694278a2281.png" alt="Cover for Impulsive! Revolutionary Jazz" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Various Artists</td>
@@ -2163,9 +2165,9 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 36</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 43</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 58</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 43</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 61</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -2195,15 +2197,15 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 37</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 72</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 29</li>
+            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>13</td>
       <td>
-          <img src="https://i.discogs.com/LW4-lntUBDgEmKm7hPb8zXqIBhPQJ_DFFNCX6gXwEzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzg4/NjE2LTE3MTY3NTM2/NDItNzE5My5qcGVn.jpeg" alt="Cover for Always For Love" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1a7a48d18f97cec29b42f99b74ffdff.png" alt="Cover for Always For Love" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-05-24</td>
       <td>Spiritchaser</td>
@@ -2223,30 +2225,9 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Soulful Women</td>
-      <td>Deep Vocals 2</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 7</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5c27884476f4b229d4fc1943bd68e8a.png" alt="Cover for Tunes 05-XX" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Junner</td>
@@ -2265,13 +2246,14 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 21</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>17</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9196721ae3814d44a2c906d3a76ef82d.png" alt="Cover for 2012 House Promos" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>KaneKong</td>
@@ -2286,13 +2268,14 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 28</li>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f09207bada5b4d99b8430f65f9f4cc8d.png" alt="Cover for Soulful House Sessions" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>DJ Nreal</td>
@@ -2307,7 +2290,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 10</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -2331,7 +2314,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 12</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -2355,8 +2338,8 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 13</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 65</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 36</li>
+            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -2386,8 +2369,29 @@ Soulful House music is a subgenre of House music that is enriched with elements 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 49</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 76</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 25</li>
+            <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 51</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Soulful Women</td>
+      <td>Deep Vocals 2</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soulful-house" | relative_url }}">soulful house</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -2430,6 +2434,7 @@ Soulful House music is a subgenre of House music that is enriched with elements 
     <tr>
       <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4121f1b7940ca1e7d27c0affbcf66a31.png" alt="Cover for After My Love" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Vincent Kwok Presents Morrison</td>
@@ -2519,4 +2524,4 @@ Soulful House music is a subgenre of House music that is enriched with elements 
 - [downtempo]({{ "/tags/downtempo" | relative_url }})
 - [chillout]({{ "/tags/chillout" | relative_url }})
 - [edm]({{ "/tags/edm" | relative_url }})
-- [disco]({{ "/tags/disco" | relative_url }})
+- [idm]({{ "/tags/idm" | relative_url }})

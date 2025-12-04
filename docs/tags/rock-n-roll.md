@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T23:45:12.925Z
+date: 2025-12-04T09:38:15.911Z
 permalink: tags/rock-n-roll
 title: rock n roll
 ---
 
 ## rock n roll
 
-Last updated: <time datetime="2025-11-17T23:45:12.925Z">Tue Nov 18 2025 01:45:12 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T09:38:15.911Z">Thu Dec 04 2025 11:38:15 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -49,7 +49,7 @@ Rock n roll is an energetic music genre that emerged in the 1950s, combining ele
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/0N-11DXDTszxAZI6DeIwfEyeiwrAMP5JOmS9w7rIWyw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDgz/NTgtMTQ0OTQ4NTE2/OC0yNTY2LmpwZWc.jpeg" alt="Cover for Rock Around The Clock" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/33b9bf940d7a41af9456c1c2862d4119.png" alt="Cover for Rock Around The Clock" style="max-width:120px; height:auto;" />
       </td>
       <td>1956-06-01</td>
       <td>Bill Haley &amp; His Comets</td>
@@ -99,13 +99,14 @@ Rock n roll is an energetic music genre that emerged in the 1950s, combining ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 12</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4774648157cb409bc0462c2673268d47.png" alt="Cover for Loving You" style="max-width:120px; height:auto;" />
       </td>
       <td>1957-07-01</td>
       <td>Elvis Presley</td>
@@ -158,7 +159,7 @@ Rock n roll is an energetic music genre that emerged in the 1950s, combining ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 44</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -307,7 +308,7 @@ Rock n roll is an energetic music genre that emerged in the 1950s, combining ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 91</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -431,7 +432,7 @@ Rock n roll is an energetic music genre that emerged in the 1950s, combining ele
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/ou2ZR2-Mor3T-V2FEjeAI89wnfeAlG93uDhu2N27mRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTMy/OTgzLTE1MTA0Nzkw/NzQtNDI3OC5qcGVn.jpeg" alt="Cover for Collection" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bba6a51d70b04124b7036824159fc770.png" alt="Cover for Collection" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>Fats Domino</td>
@@ -444,7 +445,7 @@ Rock n roll is an energetic music genre that emerged in the 1950s, combining ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 27</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -464,31 +465,7 @@ Rock n roll is an energetic music genre that emerged in the 1950s, combining ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 84</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>90</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/65b66ceccdf80aaa4e22ff333a751a1d.png" alt="Cover for The Rocky Horror Picture Show - Original Soundtrack" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1973</td>
-      <td>Various Artists</td>
-      <td>The Rocky Horror Picture Show - Original Soundtrack</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/musical" | relative_url }}">musical</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 23</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 44</li>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 80</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -510,9 +487,26 @@ Rock n roll is an energetic music genre that emerged in the 1950s, combining ele
       </td>
     </tr>
     <tr>
+      <td>90</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/65b66ceccdf80aaa4e22ff333a751a1d.png" alt="Cover for The Rocky Horror Picture Show - Original Soundtrack" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1973</td>
+      <td>Various Artists</td>
+      <td>The Rocky Horror Picture Show - Original Soundtrack</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/HUTq8v2bPJnHYKzlWAjctoiuqpsetmzeIsXgmYR5buI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTQy/OTgtMTY2NzM2Mjc4/OC01Mjg1LmpwZWc.jpeg" alt="Cover for Elvis" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/27ce41c5df26a6260ef8df6597a05f38.png" alt="Cover for Elvis" style="max-width:120px; height:auto;" />
       </td>
       <td>1973-07-16</td>
       <td>Elvis Presley</td>
@@ -641,8 +635,8 @@ Rock n roll is an energetic music genre that emerged in the 1950s, combining ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a> # 44</li>
-            <li> <a href="{{ "/tags/pub-rock" | relative_url }}">pub rock</a> # 98</li>
+            <li> <a href="{{ "/tags/pub-rock" | relative_url }}">pub rock</a> # 3</li>
+            <li> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -735,7 +729,7 @@ Rock n roll is an energetic music genre that emerged in the 1950s, combining ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 53</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -790,7 +784,7 @@ Rock n roll is an energetic music genre that emerged in the 1950s, combining ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 38</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -868,7 +862,7 @@ Rock n roll is an energetic music genre that emerged in the 1950s, combining ele
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/rYm-V6mAGXZHgZ7e1EsIEvPIBn_0cfk76PDMubt069Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTQ1/MjItMTM3MzE0NjE2/NS05Nzk0LmpwZWc.jpeg" alt="Cover for Good Golly, Miss Molly" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b54659f90ed4776be1ff60bdf9b6c8c.png" alt="Cover for Good Golly, Miss Molly" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Little Richard</td>
@@ -879,8 +873,8 @@ Rock n roll is an energetic music genre that emerged in the 1950s, combining ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 94</li>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 95</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 4</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -964,6 +958,7 @@ Rock n roll is an energetic music genre that emerged in the 1950s, combining ele
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3d09539affa4160a4024a6b7e9515aa.png" alt="Cover for The Best Of Chuck Berry" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Chuck Berry</td>
@@ -998,7 +993,7 @@ Rock n roll is an energetic music genre that emerged in the 1950s, combining ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 49</li>
+            <li> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1130,7 +1125,7 @@ Rock n roll is an energetic music genre that emerged in the 1950s, combining ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 83</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1150,13 +1145,14 @@ Rock n roll is an energetic music genre that emerged in the 1950s, combining ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a> # 96</li>
+            <li> <a href="{{ "/tags/turkish-rock" | relative_url }}">turkish rock</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/69d47b5a119bea55d62164313f73ce46.png" alt="Cover for The Best Of Buddy Holly" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Buddy Holly</td>
@@ -1171,7 +1167,7 @@ Rock n roll is an energetic music genre that emerged in the 1950s, combining ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 47</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1326,7 +1322,7 @@ Rock n roll is an energetic music genre that emerged in the 1950s, combining ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horror-punk" | relative_url }}">horror punk</a> # 63</li>
+            <li> <a href="{{ "/tags/horror-punk" | relative_url }}">horror punk</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1387,7 +1383,7 @@ Rock n roll is an energetic music genre that emerged in the 1950s, combining ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 38</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 39</li>
             <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 64</li>
         </ul>
       </td>
@@ -1561,7 +1557,7 @@ Rock n roll is an energetic music genre that emerged in the 1950s, combining ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 11</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1615,7 +1611,7 @@ Rock n roll is an energetic music genre that emerged in the 1950s, combining ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 42</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1635,7 +1631,7 @@ Rock n roll is an energetic music genre that emerged in the 1950s, combining ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 8</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1677,6 +1673,7 @@ Rock n roll is an energetic music genre that emerged in the 1950s, combining ele
     <tr>
       <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8ea0353b12e61bc56b76183102ef98e.png" alt="Cover for Mean Old Man" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-08-25</td>
       <td>Jerry Lee Lewis</td>
@@ -1690,7 +1687,7 @@ Rock n roll is an energetic music genre that emerged in the 1950s, combining ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 18</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1748,7 +1745,7 @@ Rock n roll is an energetic music genre that emerged in the 1950s, combining ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 77</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1861,7 +1858,7 @@ Rock n roll is an energetic music genre that emerged in the 1950s, combining ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 96</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1880,7 +1877,7 @@ Rock n roll is an energetic music genre that emerged in the 1950s, combining ele
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 7</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 9</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T06:31:41.592Z
+date: 2025-12-04T09:42:10.613Z
 permalink: tags/jazz-bass
 title: jazz bass
 ---
 
 ## jazz bass
 
-Last updated: <time datetime="2025-10-22T06:31:41.592Z">Wed Oct 22 2025 09:31:41 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T09:42:10.613Z">Thu Dec 04 2025 11:42:10 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,7 +47,7 @@ Jazz bass refers to the distinctive playing style and tonal approach of bass gui
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 50</li>
+            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -89,7 +89,7 @@ Jazz bass refers to the distinctive playing style and tonal approach of bass gui
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 39</li>
+            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -131,28 +131,6 @@ Jazz bass refers to the distinctive playing style and tonal approach of bass gui
       </td>
     </tr>
     <tr>
-      <td>22</td>
-      <td>
-          <img src="https://i.discogs.com/xys7jIf4T8lNaL3wvRuJnhwRyLId0IUcoDwcAOLOuSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDc3/Ny0xNjQzODg2Njcz/LTMyMzAuanBlZw.jpeg" alt="Cover for School Days" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1976</td>
-      <td>Stanley Clarke</td>
-      <td>School Days</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 64</li>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 89</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>83</td>
       <td>
           <img src="https://i.discogs.com/b9d7Xdteh74J3NAkTAC_eWd02JqTvABdrHXG6_kl1ak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzM3/OS0xMzk0Nzk0NDYx/LTM1NTkuanBlZw.jpeg" alt="Cover for Mountainscapes" style="max-width:120px; height:auto;" />
@@ -163,6 +141,23 @@ Jazz bass refers to the distinctive playing style and tonal approach of bass gui
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc644e4b14f14d7ab87ac4823749aa4a.png" alt="Cover for School Days" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1976</td>
+      <td>Stanley Clarke</td>
+      <td>School Days</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>
@@ -370,7 +365,7 @@ Jazz bass refers to the distinctive playing style and tonal approach of bass gui
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-double-bass" | relative_url }}">jazz double bass</a> # 22</li>
+            <li> <a href="{{ "/tags/jazz-double-bass" | relative_url }}">jazz double bass</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -554,7 +549,7 @@ Jazz bass refers to the distinctive playing style and tonal approach of bass gui
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a> # 34</li>
+            <li> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -662,7 +657,7 @@ Jazz bass refers to the distinctive playing style and tonal approach of bass gui
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fusion-jazz" | relative_url }}">fusion jazz</a> # 78</li>
+            <li> <a href="{{ "/tags/fusion-jazz" | relative_url }}">fusion jazz</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -688,7 +683,7 @@ Jazz bass refers to the distinctive playing style and tonal approach of bass gui
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/8EVePcLCZ1QRdmEPeH0M4F_BahaxnmPeth_BxT6KmtA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjAx/NTctMTMyMjc3ODU1/Mi5qcGVn.jpeg" alt="Cover for Just Before the Dawn" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/51186399fa214e84ce0cf9c1d6275586.png" alt="Cover for Just Before the Dawn" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Marty Ehrlich&#39;s Dark Woods Ensemble</td>
@@ -734,7 +729,7 @@ Jazz bass refers to the distinctive playing style and tonal approach of bass gui
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/Cy5fvXXi8isyTw8GisDKc1aE4rj-YS1jeuDplNzr67M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTA5/OC0xMjYyNDU3NTQ0/LmpwZWc.jpeg" alt="Cover for Tales" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f5a6d9d2796450e95956c5ca7859bfa.png" alt="Cover for Tales" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-03-27</td>
       <td>Marcus Miller</td>
@@ -748,7 +743,7 @@ Jazz bass refers to the distinctive playing style and tonal approach of bass gui
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 83</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -797,7 +792,7 @@ Jazz bass refers to the distinctive playing style and tonal approach of bass gui
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/B5ADW0npy8pcwoDnkj0bfxz6mxZurAQbjrXvDbhuj2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODUx/MjktMTQzNzcyMzYw/Ni02MDM1LmpwZWc.jpeg" alt="Cover for Live &amp; More" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ebb6b64b92dc64b019a926a15e15c568.png" alt="Cover for Live &amp; More" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Marcus Miller</td>
@@ -811,30 +806,25 @@ Jazz bass refers to the distinctive playing style and tonal approach of bass gui
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 74</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/xamX9jpoSg69-oO2myhJ8WoYWp-buRwN3dnza7X6hZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0ODcw/MjQtMTM5NDYzNzcz/NS0xMzAwLmpwZWc.jpeg" alt="Cover for Jaco Pastorius" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d994b0e8a2e4b53cb2ee799be70b68b.png" alt="Cover for Jaco Pastorius" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Jaco Pastorius</td>
       <td>Jaco Pastorius</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
-            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 32</li>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 94</li>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 98</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1021,7 +1011,7 @@ Jazz bass refers to the distinctive playing style and tonal approach of bass gui
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 17</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1060,7 +1050,7 @@ Jazz bass refers to the distinctive playing style and tonal approach of bass gui
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fusion-jazz" | relative_url }}">fusion jazz</a> # 92</li>
+            <li> <a href="{{ "/tags/fusion-jazz" | relative_url }}">fusion jazz</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1084,7 +1074,7 @@ Jazz bass refers to the distinctive playing style and tonal approach of bass gui
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/qQbJl3PLH56MLG0SOTKgjpZ0Gw-q8is_oRDuPKmhCoE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjQw/OTkxLTE1NTA1NTQ5/NTQtMzUwMi5qcGVn.jpeg" alt="Cover for M2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1dcb4a2af661495fb57a833b8f8859d0.png" alt="Cover for M2" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-03-23</td>
       <td>Marcus Miller</td>
@@ -1098,7 +1088,7 @@ Jazz bass refers to the distinctive playing style and tonal approach of bass gui
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 15</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1117,7 +1107,7 @@ Jazz bass refers to the distinctive playing style and tonal approach of bass gui
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 21</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1173,7 +1163,7 @@ Jazz bass refers to the distinctive playing style and tonal approach of bass gui
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-double-bass" | relative_url }}">jazz double bass</a> # 92</li>
+            <li> <a href="{{ "/tags/jazz-double-bass" | relative_url }}">jazz double bass</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1193,7 +1183,7 @@ Jazz bass refers to the distinctive playing style and tonal approach of bass gui
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 6</li>
+            <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1215,8 +1205,8 @@ Jazz bass refers to the distinctive playing style and tonal approach of bass gui
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-jazz" | relative_url }}">polish jazz</a> # 27</li>
-            <li> <a href="{{ "/tags/jazz-double-bass" | relative_url }}">jazz double bass</a> # 70</li>
+            <li> <a href="{{ "/tags/jazz-double-bass" | relative_url }}">jazz double bass</a> # 31</li>
+            <li> <a href="{{ "/tags/polish-jazz" | relative_url }}">polish jazz</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1265,6 +1255,7 @@ Jazz bass refers to the distinctive playing style and tonal approach of bass gui
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d96107afb196b49e9a8583e1e9cb88b3.png" alt="Cover for Universal Syncopations" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-09-29</td>
       <td>Miroslav Vitous</td>
@@ -1360,19 +1351,19 @@ Jazz bass refers to the distinctive playing style and tonal approach of bass gui
     <tr>
       <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/443a36fbe638a37318133b84012151ae.png" alt="Cover for At Home" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-02-22</td>
       <td>Avishai Cohen</td>
       <td>At Home</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 65</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 67</li>
+            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1398,14 +1389,14 @@ Jazz bass refers to the distinctive playing style and tonal approach of bass gui
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 63</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/-BjE5XF0GbfOBDfxOw4iv-Eke8bsZiZsnEQMR-kB1lA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDMx/Mi0xNjUxOTgxMzg4/LTE4MjYuanBlZw.jpeg" alt="Cover for Suspicious Activity?" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1992fee31c3c4cbb9cbf39092659cbc1.png" alt="Cover for Suspicious Activity?" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-09-20</td>
       <td>The Bad Plus</td>
@@ -1417,7 +1408,7 @@ Jazz bass refers to the distinctive playing style and tonal approach of bass gui
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a> # 36</li>
+            <li> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1445,7 +1436,7 @@ Jazz bass refers to the distinctive playing style and tonal approach of bass gui
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/KvZmmgIp_Tb4vutbVV1sJZM-xiKSLGpLl4kGtHv_11E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODM4/NDc0LTE1MDUxMzY3/MjMtNjgxNC5qcGVn.jpeg" alt="Cover for Downright Upright" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eca9cfecd8cb952272f1cc3090d51076.png" alt="Cover for Downright Upright" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-03-24</td>
       <td>Brian Bromberg</td>
@@ -1458,7 +1449,7 @@ Jazz bass refers to the distinctive playing style and tonal approach of bass gui
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 85</li>
+            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1485,8 +1476,8 @@ Jazz bass refers to the distinctive playing style and tonal approach of bass gui
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 53</li>
-            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 88</li>
+            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 12</li>
+            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1505,7 +1496,6 @@ Jazz bass refers to the distinctive playing style and tonal approach of bass gui
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1524,7 +1514,7 @@ Jazz bass refers to the distinctive playing style and tonal approach of bass gui
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-double-bass" | relative_url }}">jazz double bass</a> # 71</li>
+            <li> <a href="{{ "/tags/jazz-double-bass" | relative_url }}">jazz double bass</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1544,7 +1534,7 @@ Jazz bass refers to the distinctive playing style and tonal approach of bass gui
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 63</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1589,8 +1579,8 @@ Jazz bass refers to the distinctive playing style and tonal approach of bass gui
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 48</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 49</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 51</li>
+            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1611,7 +1601,7 @@ Jazz bass refers to the distinctive playing style and tonal approach of bass gui
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-double-bass" | relative_url }}">jazz double bass</a> # 63</li>
+            <li> <a href="{{ "/tags/jazz-double-bass" | relative_url }}">jazz double bass</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1707,7 +1697,7 @@ Jazz bass refers to the distinctive playing style and tonal approach of bass gui
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-double-bass" | relative_url }}">jazz double bass</a> # 78</li>
+            <li> <a href="{{ "/tags/jazz-double-bass" | relative_url }}">jazz double bass</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1735,9 +1725,9 @@ Jazz bass refers to the distinctive playing style and tonal approach of bass gui
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 39</li>
-            <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 47</li>
-            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 88</li>
+            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 35</li>
+            <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 53</li>
+            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 87</li>
             <li> <a href="{{ "/tags/european-jazz" | relative_url }}">european jazz</a> # 95</li>
         </ul>
       </td>

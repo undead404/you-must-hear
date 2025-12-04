@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T16:01:29.801Z
+date: 2025-12-04T09:40:10.684Z
 permalink: tags/nederlands
 title: nederlands
 ---
 
 ## nederlands
 
-Last updated: <time datetime="2025-10-28T16:01:29.801Z">Tue Oct 28 2025 18:01:29 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T09:40:10.684Z">Thu Dec 04 2025 11:40:10 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -45,8 +45,8 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 47</li>
-            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 74</li>
+            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 27</li>
+            <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -99,9 +99,9 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 6</li>
-            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 23</li>
-            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 71</li>
+            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 29</li>
+            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 79</li>
+            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -161,7 +161,7 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 27</li>
+            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -182,7 +182,7 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 39</li>
+            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -204,13 +204,14 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 44</li>
+            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1d461ec9951e9fefecd6a1d521246d2.png" alt="Cover for The Realm" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>C&#39;hantal</td>
@@ -231,8 +232,8 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 17</li>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 60</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 41</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -253,7 +254,7 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 40</li>
+            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -275,7 +276,7 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 26</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -302,7 +303,7 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
     <tr>
       <td>13</td>
       <td>
-          <img src="https://i.discogs.com/m_hAXlxfRwlbvkxfQTqNX2Tl9PcwOX7vXlVHVxiocm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NTE2/LTExNzM5MTM3MTcu/anBlZw.jpeg" alt="Cover for Strings of Love" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/935ab7008ccacda99648b911bd4f1c54.png" alt="Cover for Strings of Love" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Phenomania</td>
@@ -323,7 +324,7 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/ahkKcrHgm7WYQF8UB5U12qyyfrNa8zQ4zCOMlxrq2pI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzAt/MTI5MTUxMTU2Mi5q/cGVn.jpeg" alt="Cover for Intense Muzik" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/26f7814c5a3e492eb9415a3c00a599fb.png" alt="Cover for Intense Muzik" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Mike Dearborn</td>
@@ -362,7 +363,7 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
     <tr>
       <td>7</td>
       <td>
-          <img src="https://i.discogs.com/I5xa2B5JrKypPITpr0cGhhmcKZ4cfXE-d6Ua4miJ1vc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDEx/MzYtMTE5MjA4NDYy/NC5qcGVn.jpeg" alt="Cover for Psychick Warriors Ov Gaia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1dba37a8e52c436dbeb25e86a302b450.png" alt="Cover for Psychick Warriors Ov Gaia" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Psychick Warriors Ov Gaia</td>
@@ -399,15 +400,15 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 26</li>
             <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 68</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>19</td>
       <td>
-          <img src="https://i.discogs.com/54FlgfA5EBc1PkPir-rgjZhuwv1QbNnWBmaz0kf_1ik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDgt/MTE1Mjk2ODU5NC5q/cGVn.jpeg" alt="Cover for Future Shock" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbf883b1d03c87aa87e586e3207d8cef.png" alt="Cover for Future Shock" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Glenn Underground</td>
@@ -479,7 +480,7 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 38</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 62</li>
             <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 75</li>
         </ul>
       </td>
@@ -501,8 +502,8 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 29</li>
             <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 69</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -544,7 +545,7 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 1</li>
+            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -607,7 +608,7 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 19</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -628,7 +629,7 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 47</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 53</li>
             <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 78</li>
         </ul>
       </td>
@@ -636,7 +637,7 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
     <tr>
       <td>17</td>
       <td>
-          <img src="https://i.discogs.com/JtjzlVFFVHE0ROruoP7WUYMH_t_Se6gQbwopOzTVnII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDAt/MTE1NzEwNzk2MS5q/cGVn.jpeg" alt="Cover for Psycho Kong" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b75aea57c9ae91888611e310ec86923.png" alt="Cover for Psycho Kong" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Paul Johnson</td>
@@ -736,6 +737,7 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
     <tr>
       <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/962d59a441e7c2849fd1943b94ebb631.png" alt="Cover for Sunchemical" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>O Yuki Conjugate</td>
@@ -776,7 +778,7 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 51</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 49</li>
             <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 81</li>
         </ul>
       </td>
@@ -799,8 +801,8 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 27</li>
             <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 50</li>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 74</li>
             <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 80</li>
         </ul>
       </td>
@@ -864,8 +866,8 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 48</li>
             <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 52</li>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1011,6 +1013,7 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/86be794bf1706943951719ed87cf4fc7.png" alt="Cover for Storm" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-07-06</td>
       <td>Storm</td>
@@ -1067,7 +1070,7 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/yOvx9FHWQpLyEU2jsaqs43Bafpynled9a5CamicFjRU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODU4/My0xNTkyMDY1NTkw/LTkwMzYuanBlZw.jpeg" alt="Cover for Symphony #1 for Dot Matrix Printers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0cd5154cc42abdad60eca67a964f5bc.png" alt="Cover for Symphony #1 for Dot Matrix Printers" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>[The User]</td>
@@ -1136,7 +1139,7 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 67</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1156,7 +1159,7 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 38</li>
+            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1175,7 +1178,7 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 60</li>
+            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1194,7 +1197,7 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 98</li>
+            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1231,14 +1234,14 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 17</li>
+            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/YIESFOA7Z9NgQ1aQcgXhMkI7AsYHud7_nnZpxFS3MWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NTQ0/My0xNTE2MDExMzkw/LTk4NjcuanBlZw.jpeg" alt="Cover for Onderweg" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dda88a12867a8da26fe5b005346512a7.png" alt="Cover for Onderweg" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Marco Borsato</td>
@@ -1276,7 +1279,7 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/KHrfDBLTfT37QoLWNEPaZxnN6sHNz1x8gVPD2q6iIhQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjYx/MzgtMTQ1Mzc0NjQ5/OS04MDcxLmpwZWc.jpeg" alt="Cover for Armand" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a869fd5af535b7920de6d99762dfb07.png" alt="Cover for Armand" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Armand</td>
@@ -1291,14 +1294,14 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 69</li>
+            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/98MQkdja3PTq97_IZRS4hyBmvY_bcRGk67fcSDfGSL0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzgy/Mi0xMTk2MTA2ODU2/LmpwZWc.jpeg" alt="Cover for Prednison Attack VIP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/44938a1ff9f841cc915aa723e3c6bf89.png" alt="Cover for Prednison Attack VIP" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-09-03</td>
       <td>Project Omeaga</td>
@@ -1314,8 +1317,8 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 20</li>
             <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 66</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 79</li>
             <li> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a> # 98</li>
         </ul>
       </td>
@@ -1338,8 +1341,8 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 11</li>
-            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 12</li>
+            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 89</li>
+            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1380,7 +1383,7 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 62</li>
+            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1401,7 +1404,7 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 78</li>
+            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1438,7 +1441,7 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 33</li>
+            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1476,15 +1479,15 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 24</li>
-            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 85</li>
+            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 16</li>
+            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/047IE06tRrbWg5Q3Z5AIBz9biImBQRk6fg2R1cUG_e4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjcw/Njk5LTE1ODA2NTc3/NTQtMjY2Mi5qcGVn.jpeg" alt="Cover for Jab" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b10d8dd903974e349f6cd7e11e3ced9b.png" alt="Cover for Jab" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>STriCat</td>
@@ -1511,8 +1514,8 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 44</li>
             <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 49</li>
+            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 56</li>
             <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 70</li>
         </ul>
       </td>
@@ -1555,8 +1558,8 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 59</li>
-            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 68</li>
+            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 32</li>
+            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1608,18 +1611,18 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 67</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 68</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 75</li>
-            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 85</li>
-            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 85</li>
+            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 16</li>
+            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 16</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 26</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 33</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/5pCNdeQjicGb1543rciRNzp6-4OKB2_7yQFChDf9nX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDU5/MzQtMTMzNDcxMDQz/Mi5qcGVn.jpeg" alt="Cover for Military Industrial Complex" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dea540fe64904a3d80fed99aa41fe2dd.png" alt="Cover for Military Industrial Complex" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-23</td>
       <td>The Peoples Republic of Europe</td>
@@ -1643,7 +1646,7 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/9jVst5tbBIAxrUEGpKabMoJxmUOUHt8u-_i4KN8pR2A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTc3/NzAtMTM4NDQyNDAx/NC0zODgyLmpwZWc.jpeg" alt="Cover for American Psychosis" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9baefe32f334bb7cb966ff9a809278d.png" alt="Cover for American Psychosis" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-08-21</td>
       <td>Drvg Cvltvre</td>
@@ -1698,13 +1701,14 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 64</li>
+            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef246d4f515147f7c7664beae7992644.png" alt="Cover for Penny &amp; Pound EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-08-06</td>
       <td>Ansome</td>
@@ -1724,6 +1728,7 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ef5101bb5d4ddd3784a893f973b7665.png" alt="Cover for Anomalies EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-09</td>
       <td>D. Carbone</td>
@@ -1743,7 +1748,7 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/g7eko1bhxXFUhHGzb99mGT2lTQPKhAJPBuR6Q2KZLFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNjM3/ODUtMTQ2MDE1MzEy/OC03MTY2LmpwZWc.jpeg" alt="Cover for Verloren Zaad" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/187ee56fe1aa78a7eee71bfda088eb1c.png" alt="Cover for Verloren Zaad" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Spinal</td>
@@ -1780,7 +1785,7 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
     <tr>
       <td>21</td>
       <td>
-          <img src="https://i.discogs.com/UCtEQw5oA-IlG7144v8b-GYespnPSPMfSGGk3vSENts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMDQ2/NjQtMTQzMzgzMjkx/Mi03MzQyLmpwZWc.jpeg" alt="Cover for The Conversation" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04beab903bc28ffc2322e242d612b8ae.png" alt="Cover for The Conversation" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-06-08</td>
       <td>Marcos Cabral</td>
@@ -1817,14 +1822,14 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 60</li>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/zBSoi7hIO-cEm9Yxa9vguRPgIRwnqMhHpl1wPW_CnEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MTk3/NTctMTQ2MTI0ODIy/MC02NjUwLmpwZWc.jpeg" alt="Cover for Dreamers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b40bba17d2dc299ae2a7809818814e3.png" alt="Cover for Dreamers" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-04-15</td>
       <td>Bells Of Youth</td>
@@ -1865,7 +1870,7 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/Wemxhv4Vg3RtBtIoE28YcgeTdcyTK60de0QwT2q-Rpo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDQy/NDAtMTQ2MjkzODI1/OC05NTUyLmpwZWc.jpeg" alt="Cover for Black Block EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/629925dfe32fbc97d12012807977ede1.png" alt="Cover for Black Block EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-05-09</td>
       <td>D. Carbone</td>
@@ -1900,7 +1905,7 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 46</li>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1920,7 +1925,7 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 2</li>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -2003,14 +2008,14 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 45</li>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/IlBVdbL_80e2HsaNTk2WaS3FMHPtHYgu5qUjYYbNNxE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDk5/MTk1LTE2MTI1NzMw/MTgtNDcxNi5qcGVn.jpeg" alt="Cover for Strings Of Fear" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f6fe1a12727929e377f17f24d47e591.png" alt="Cover for Strings Of Fear" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-05-15</td>
       <td>Jensen Interceptor</td>
@@ -2028,14 +2033,14 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 88</li>
+            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/by_ykIrrpxzffTpqeoTSi_cYcYkMK_a0dIXdr3HTqYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTAw/NjMwLTE2NTc5NjE5/ODgtMzk5Ni5wbmc.jpeg" alt="Cover for Into The Endless Night" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc2a5da2ae3b429772e1ec6f1b5fd503.png" alt="Cover for Into The Endless Night" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-12-30</td>
       <td>Drvg Cvltvre</td>
@@ -2071,7 +2076,7 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 29</li>
+            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -2090,7 +2095,7 @@ Nederlands refers to music performed in the Dutch language, encompassing a diver
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 83</li>
+            <li> <a href="{{ "/tags/nederlandstalig" | relative_url }}">nederlandstalig</a> # 18</li>
         </ul>
       </td>
     </tr>

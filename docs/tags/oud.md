@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T06:20:28.599Z
+date: 2025-12-04T09:38:48.530Z
 permalink: tags/oud
 title: oud
 ---
 
 ## oud
 
-Last updated: <time datetime="2025-10-22T06:20:28.599Z">Wed Oct 22 2025 09:20:28 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T09:38:48.530Z">Thu Dec 04 2025 11:38:48 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -117,7 +117,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 55</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -136,7 +136,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 76</li>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -182,7 +182,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 58</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 42</li>
             <li> <a href="{{ "/tags/tunisia" | relative_url }}">tunisia</a> # 99</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 100</li>
             <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 100</li>
@@ -204,7 +204,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 15</li>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -225,8 +225,8 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 43</li>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 98</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 4</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -253,7 +253,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/VKF9HKPdX_fc4Iyv7X8dQx_mvRraMXydxFlAYlr8c0w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTcx/MTQtMTQ2OTM5MjY5/MS0yMDk4Lm1wbw.jpeg" alt="Cover for Madar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6d982cdc5c860b113dbd4dd5c58612d.png" alt="Cover for Madar" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-08</td>
       <td>Jan Garbarek, Anouar Brahem, Shaukat Hussain</td>
@@ -286,7 +286,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 53</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 48</li>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 85</li>
         </ul>
       </td>
@@ -348,7 +348,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/R9Z7bBylXgNWD0UhWv216CNFLILd7aYAZpPjEFmFT64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0OTM3/Ny0xMTQzMjQ1MjMx/LmpwZWc.jpeg" alt="Cover for Thimar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/48cb55e424cb43a5b28581724409a0fb.png" alt="Cover for Thimar" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-01</td>
       <td>Anouar Brahem</td>
@@ -361,7 +361,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 63</li>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 37</li>
             <li> <a href="{{ "/tags/tunisia" | relative_url }}">tunisia</a> # 86</li>
         </ul>
       </td>
@@ -507,7 +507,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 78</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -530,7 +530,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 57</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 43</li>
             <li> <a href="{{ "/tags/tunisia" | relative_url }}">tunisia</a> # 98</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 99</li>
             <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 99</li>
@@ -572,8 +572,8 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 46</li>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 99</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 3</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -597,7 +597,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 65</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 35</li>
             <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 91</li>
         </ul>
       </td>
@@ -624,6 +624,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ae4cd7f89a445a7bd97c3965e79feb1.png" alt="Cover for Le Pas Du Chat Noir" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-08-27</td>
       <td>Anouar Brahem</td>
@@ -636,7 +637,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 67</li>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -661,8 +662,8 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 30</li>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 65</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 36</li>
+            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -845,7 +846,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
     <tr>
       <td>5</td>
       <td>
-          <img src="https://i.discogs.com/XgRa0plSzopCVs2k38pNkrQVZncH33ynZVbDw6ZiA2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODcw/MDAtMTM3NTUyMDYz/MS01Mjg1LmpwZWc.jpeg" alt="Cover for Mizna" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/77948377820c4658b2bc38bf7f7543f7.png" alt="Cover for Mizna" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Mizna</td>
@@ -865,8 +866,8 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 12</li>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 37</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 64</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -888,7 +889,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 14</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -909,14 +910,32 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 65</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 35</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da0119474fe84ff986e972df9d05db7d.png" alt="Cover for Le Voyage De Sahar" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Anouar Brahem</td>
+      <td>Le Voyage De Sahar</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>3</td>
       <td>
-          <img src="https://i.discogs.com/7tMbZQbj-rYsmQwyzueQeaFiiq-qE51x_Zes6Sf0vs0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1OTMw/ODEtMTYyMDkxNjUw/OS0yMzg1LmpwZWc.jpeg" alt="Cover for Banjara" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Ziskakan</td>
@@ -925,23 +944,6 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oud" | relative_url }}">oud</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>81</td>
-      <td>
-      </td>
-      <td>2006</td>
-      <td>Anouar Brahem</td>
-      <td>Le Voyage De Sahar</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
         </ul>
       </td>
       <td>
@@ -1022,8 +1024,8 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 16</li>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 63</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 37</li>
+            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1041,8 +1043,8 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 14</li>
             <li> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a> # 60</li>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1101,7 +1103,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 22</li>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1145,6 +1147,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c148af9fc829493fbbafdb2883ec77ef.png" alt="Cover for The Astounding Eyes Of Rita" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09-25</td>
       <td>Anouar Brahem</td>
@@ -1211,13 +1214,14 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 52</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4008b4a78cfb4ef4ce27e4bc4e0ad951.png" alt="Cover for As Fâr" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03-11</td>
       <td>Le Trio Joubran</td>
@@ -1233,8 +1237,8 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 8</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 22</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 78</li>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1260,7 +1264,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 23</li>
+            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1283,7 +1287,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/xM3JO6nfRhffLC5rAs7nxoxOMHNbpXrvfgyUQhsH5oI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2OTk4/MzAtMTQ0Njk5NjAz/My02MjY5LmpwZWc.jpeg" alt="Cover for FARAN" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/190d460792854e6aced4fbf23c197fa9.png" alt="Cover for FARAN" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-06</td>
       <td>Faran Ensemble</td>
@@ -1300,8 +1304,8 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 32</li>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 72</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 29</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1339,7 +1343,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 93</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1358,7 +1362,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 26</li>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1397,7 +1401,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 43</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1459,7 +1463,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vancouver" | relative_url }}">vancouver</a> # 55</li>
+            <li> <a href="{{ "/tags/vancouver" | relative_url }}">vancouver</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1476,7 +1480,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 34</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1497,7 +1501,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 35</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1515,9 +1519,9 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       <td>
         <ul>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 2</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 8</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 36</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 46</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 66</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1537,7 +1541,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 14</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1561,10 +1565,10 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 3</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 10</li>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 86</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 91</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 92</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1582,7 +1586,7 @@ The oud tag features the distinctive sound of the Middle Eastern lute, a pear-sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 49</li>
+            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 51</li>
         </ul>
       </td>
     </tr>

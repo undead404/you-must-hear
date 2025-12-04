@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-16T01:23:21.138Z
+date: 2025-12-04T09:39:06.095Z
 permalink: tags/sacred
 title: sacred
 ---
 
 ## sacred
 
-Last updated: <time datetime="2025-11-16T01:23:21.138Z">Sun Nov 16 2025 03:23:21 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T09:39:06.095Z">Thu Dec 04 2025 11:39:06 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -73,7 +73,7 @@ Sacred music encompasses religious and spiritual compositions created for worshi
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/iBIVe5mH8o2YJuBMolcOM-tG4KT71CBR2_10h8jV8Sw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjkw/NTEtMTM3MzQ1OTcx/MS0yMDY1LmpwZWc.jpeg" alt="Cover for Gospel Train" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61b1c050deaf4250c2836228a11318df.png" alt="Cover for Gospel Train" style="max-width:120px; height:auto;" />
       </td>
       <td>1967</td>
       <td>Hank Snow</td>
@@ -97,7 +97,7 @@ Sacred music encompasses religious and spiritual compositions created for worshi
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/duHhYAc-tOZK5Wxa_YYFfj6iIg6fH1hCbDI6cvlZkd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTYy/MDUtMTM0MDgwOTIw/OS02OTIxLmpwZWc.jpeg" alt="Cover for This I believe" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3cdf9b54069cee9a4a083efc71442b56.png" alt="Cover for This I believe" style="max-width:120px; height:auto;" />
       </td>
       <td>1967</td>
       <td>Bobby Bare</td>
@@ -117,7 +117,7 @@ Sacred music encompasses religious and spiritual compositions created for worshi
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/lv7U9wPMOFDMxruD4pV9C9VkQIMFM3z17SGJHKFCyiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTEw/MjQtMTI3MDA1NzI1/NS5qcGVn.jpeg" alt="Cover for Sings Sacred Ballads" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca92dc2105b27c6cd1f833a3b9d4071d.png" alt="Cover for Sings Sacred Ballads" style="max-width:120px; height:auto;" />
       </td>
       <td>1967</td>
       <td>Dottie West</td>
@@ -154,14 +154,14 @@ Sacred music encompasses religious and spiritual compositions created for worshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 14</li>
+            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/XD9vk-BYOR69bQa55A4hlmU6Q8Cv84goS8Dxh9hI3e4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTk2/MjU0LTE1ODU1Mzk1/MTktOTc1OC5qcGVn.jpeg" alt="Cover for Singing On Sunday" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac16c715bdb574772e0882d610985d25.png" alt="Cover for Singing On Sunday" style="max-width:120px; height:auto;" />
       </td>
       <td>1970</td>
       <td>Kitty Wells</td>
@@ -184,7 +184,6 @@ Sacred music encompasses religious and spiritual compositions created for worshi
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/_xWc994DsB-lKg8J8SO8OOg9xKRYyckw_YTBd-s7wzI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzAy/MTktMTMwMzAxMzgw/NS5qcGVn.jpeg" alt="Cover for Just a Closer Walk with Thee" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>Loretta Lynn</td>
@@ -225,7 +224,7 @@ Sacred music encompasses religious and spiritual compositions created for worshi
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/CdPPtGT_Ak-XqSG3ImZfuaXWyXTM5jenx0g5n1A39Oo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/Njc1LTE1NzY0MDc3/NDctNTM3MC5qcGVn.jpeg" alt="Cover for Golden Hymns" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7021c9857e44777b44a2cd4176daf34a.png" alt="Cover for Golden Hymns" style="max-width:120px; height:auto;" />
       </td>
       <td>1973</td>
       <td>David Houston</td>
@@ -324,7 +323,7 @@ Sacred music encompasses religious and spiritual compositions created for worshi
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/bnp8pB-EK8cA3yHqFPG5Gb_A6IcHuvaYhTs8ORIzNmQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTY4/MDgtMTUyMDQ1MTcw/MS05OTM2LmpwZWc.jpeg" alt="Cover for Dust on Mother&#39;s Bible" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4b6c0928e604928c92d274f1ec0ea8d.png" alt="Cover for Dust on Mother&#39;s Bible" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Buck Owens</td>
@@ -382,7 +381,7 @@ Sacred music encompasses religious and spiritual compositions created for worshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 63</li>
+            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -407,7 +406,7 @@ Sacred music encompasses religious and spiritual compositions created for worshi
     <tr>
       <td>19</td>
       <td>
-          <img src="https://i.discogs.com/8ExIzVHP4Ty8MsYNasH2Elbbgk-QwvUIZ6UCnpk4R8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjgx/MjUtMTM2MjI0ODg4/OC0yODk4LmpwZWc.jpeg" alt="Cover for A Better Way Of Life" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d15e99c8f9c84de8cdf414e2430e1fe4.png" alt="Cover for A Better Way Of Life" style="max-width:120px; height:auto;" />
       </td>
       <td>1981</td>
       <td>VERNON OXFORD</td>
@@ -423,7 +422,7 @@ Sacred music encompasses religious and spiritual compositions created for worshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 15</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -486,7 +485,7 @@ Sacred music encompasses religious and spiritual compositions created for worshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 40</li>
+            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -532,7 +531,7 @@ Sacred music encompasses religious and spiritual compositions created for worshi
       <td>
         <ul>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 18</li>
-            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 75</li>
+            <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -555,8 +554,8 @@ Sacred music encompasses religious and spiritual compositions created for worshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 12</li>
-            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 72</li>
+            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 29</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -633,7 +632,7 @@ Sacred music encompasses religious and spiritual compositions created for worshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 62</li>
+            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -675,8 +674,8 @@ Sacred music encompasses religious and spiritual compositions created for worshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 45</li>
-            <li> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a> # 85</li>
+            <li> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a> # 16</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -796,7 +795,7 @@ Sacred music encompasses religious and spiritual compositions created for worshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 55</li>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 46</li>
             <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 57</li>
             <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 75</li>
             <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 77</li>
@@ -827,9 +826,9 @@ Sacred music encompasses religious and spiritual compositions created for worshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 14</li>
+            <li> <a href="{{ "/tags/lieder" | relative_url }}">lieder</a> # 37</li>
             <li> <a href="{{ "/tags/oratorio" | relative_url }}">oratorio</a> # 60</li>
-            <li> <a href="{{ "/tags/lieder" | relative_url }}">lieder</a> # 64</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -850,10 +849,10 @@ Sacred music encompasses religious and spiritual compositions created for worshi
       <td>
         <ul>
             <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 14</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 19</li>
-            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 34</li>
-            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 58</li>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 75</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 26</li>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 43</li>
+            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 68</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -908,7 +907,7 @@ Sacred music encompasses religious and spiritual compositions created for worshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 44</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1046,10 +1045,10 @@ Sacred music encompasses religious and spiritual compositions created for worshi
       <td>
         <ul>
             <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 1</li>
-            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 17</li>
-            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 26</li>
             <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 44</li>
             <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 50</li>
+            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 76</li>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1088,7 +1087,7 @@ Sacred music encompasses religious and spiritual compositions created for worshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 64</li>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 37</li>
             <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 65</li>
         </ul>
       </td>
@@ -1159,8 +1158,8 @@ Sacred music encompasses religious and spiritual compositions created for worshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 37</li>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 45</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 56</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 64</li>
             <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 84</li>
             <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 90</li>
             <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 93</li>
@@ -1383,9 +1382,9 @@ Sacred music encompasses religious and spiritual compositions created for worshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 20</li>
-            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 73</li>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 28</li>
             <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 76</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 80</li>
             <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 85</li>
             <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 88</li>
         </ul>
@@ -1488,8 +1487,8 @@ Sacred music encompasses religious and spiritual compositions created for worshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 44</li>
             <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 50</li>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 57</li>
             <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 73</li>
             <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 74</li>
         </ul>
@@ -1559,7 +1558,7 @@ Sacred music encompasses religious and spiritual compositions created for worshi
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/dnFy_YlzD1bSAOMl_9RP6c2aA-7uJylSyBdrk6RCFcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMjA3/MzctMTM1ODkxMzgz/Ni04MTI5LmpwZWc.jpeg" alt="Cover for Sings Precious Memories" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0366bd1c8fe8474dfaa6d935c3c51bc4.png" alt="Cover for Sings Precious Memories" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-26</td>
       <td>Johnny Cash</td>
@@ -1598,8 +1597,8 @@ Sacred music encompasses religious and spiritual compositions created for worshi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/natal" | relative_url }}">natal</a> # 22</li>
             <li> <a href="{{ "/tags/tenor" | relative_url }}">tenor</a> # 71</li>
-            <li> <a href="{{ "/tags/natal" | relative_url }}">natal</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1635,7 +1634,7 @@ Sacred music encompasses religious and spiritual compositions created for worshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 28</li>
+            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1659,8 +1658,8 @@ Sacred music encompasses religious and spiritual compositions created for worshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 37</li>
-            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 67</li>
+            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 31</li>
+            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1832,7 +1831,7 @@ Sacred music encompasses religious and spiritual compositions created for worshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 47</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1853,7 +1852,7 @@ Sacred music encompasses religious and spiritual compositions created for worshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 61</li>
+            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1874,8 +1873,8 @@ Sacred music encompasses religious and spiritual compositions created for worshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 22</li>
-            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 76</li>
+            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 25</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1894,7 +1893,7 @@ Sacred music encompasses religious and spiritual compositions created for worshi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 37</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 64</li>
         </ul>
       </td>
     </tr>

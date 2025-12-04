@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-22T14:30:02.508Z
+date: 2025-12-04T09:39:46.649Z
 permalink: tags/japanese
 title: japanese
 ---
 
 ## japanese
 
-Last updated: <time datetime="2025-11-22T14:30:02.508Z">Sat Nov 22 2025 16:30:02 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T09:39:46.649Z">Thu Dec 04 2025 11:39:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,7 +44,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 84</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -82,8 +82,8 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 25</li>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 35</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 26</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -104,8 +104,8 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 15</li>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 28</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 16</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -127,8 +127,8 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 14</li>
             <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 79</li>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -166,7 +166,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 79</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -187,8 +187,8 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 58</li>
-            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 100</li>
+            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 1</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -211,10 +211,10 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 68</li>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 1</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 9</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 33</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 92</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 92</li>
-            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -233,7 +233,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 62</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -255,8 +255,8 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 65</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 89</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 11</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 36</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 89</li>
         </ul>
       </td>
@@ -276,10 +276,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 78</li>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 83</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 91</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 95</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -337,8 +334,8 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 67</li>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 86</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 15</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 68</li>
             <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 98</li>
         </ul>
       </td>
@@ -359,7 +356,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 43</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -398,9 +395,9 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 16</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 64</li>
-            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 81</li>
+            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 84</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -426,6 +423,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
     <tr>
       <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a676d96f1c7d4aa7b75399fd8996cc44.png" alt="Cover for INNOCENT SORROW" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-12-06</td>
       <td>abingdon boys school</td>
@@ -443,12 +441,12 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 9</li>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 33</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 60</li>
+            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 10</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 53</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 61</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 88</li>
-            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 89</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 61</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 90</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -474,10 +472,10 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 20</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 18</li>
             <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 47</li>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 80</li>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 83</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 72</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -498,8 +496,8 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 2</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 91</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -521,13 +519,14 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 98</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b5bd499be20581718de6c6632e67ced.png" alt="Cover for ランプ幻想" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-12-03</td>
       <td>Lamp</td>
@@ -539,6 +538,8 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 4</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -579,8 +580,8 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 72</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 93</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 8</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 29</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 93</li>
         </ul>
       </td>
@@ -604,9 +605,9 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 20</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 32</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 66</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 66</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -644,7 +645,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 62</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -664,7 +665,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 95</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -687,9 +688,9 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 36</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 27</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 65</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 71</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -709,7 +710,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 20</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -738,11 +739,12 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 23</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 65</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 78</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 87</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 97</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 4</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 4</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 25</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 35</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 78</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -765,8 +767,8 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 35</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 88</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 13</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 64</li>
             <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 99</li>
         </ul>
       </td>
@@ -791,11 +793,11 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 75</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 1</li>
+            <li> <a href="{{ "/tags/j-pixie" | relative_url }}">j-pixie</a> # 1</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 26</li>
             <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 92</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 95</li>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 100</li>
-            <li> <a href="{{ "/tags/j-pixie" | relative_url }}">j-pixie</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -816,9 +818,9 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 12</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 35</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 62</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 63</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -840,11 +842,12 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 37</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 19</li>
+            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 30</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 49</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 56</li>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 61</li>
-            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 71</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 82</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 64</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -865,14 +868,15 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 40</li>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 88</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 13</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6c5210f02d146babdbde4be6999e8d0.png" alt="Cover for 自由への進撃" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-07-10</td>
       <td>Linked Horizon</td>
@@ -887,9 +891,9 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 17</li>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 43</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 46</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 65</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -909,7 +913,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 37</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 64</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 72</li>
         </ul>
       </td>
@@ -938,12 +942,12 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 25</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 49</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 63</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 79</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 80</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 93</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 21</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 22</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 27</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 38</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 52</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 94</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 98</li>
         </ul>
       </td>
@@ -983,9 +987,9 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 89</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 94</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 99</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 2</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 7</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 11</li>
             <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 100</li>
         </ul>
       </td>
@@ -1006,7 +1010,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 39</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 62</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 73</li>
         </ul>
       </td>
@@ -1035,12 +1039,12 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 12</li>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 46</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 52</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 59</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 87</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 96</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 14</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 42</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 55</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 57</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 84</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1062,9 +1066,9 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 39</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 47</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 56</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 45</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 49</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1092,10 +1096,10 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 29</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 64</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 68</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 71</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 30</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 32</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 36</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1123,12 +1127,12 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 6</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 60</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 83</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 86</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 95</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 100</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 1</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 15</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 18</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 41</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 89</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1155,9 +1159,9 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 46</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 61</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 78</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 21</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 38</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 55</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 79</li>
         </ul>
       </td>
@@ -1182,10 +1186,10 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 34</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 70</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 77</li>
-            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 98</li>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 3</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 28</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 67</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1225,10 +1229,10 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 73</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 78</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 2</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 22</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 28</li>
             <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 97</li>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1251,10 +1255,10 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 88</li>
+            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 1</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 3</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 13</li>
             <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 97</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 98</li>
-            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1278,8 +1282,9 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 97</li>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 100</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 1</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 4</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1320,10 +1325,10 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 32</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 69</li>
+            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 5</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 29</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 69</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 70</li>
-            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1344,7 +1349,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 56</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1368,12 +1373,12 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 41</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 67</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 97</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 1</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 2</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 3</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 29</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 47</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 97</li>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 99</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1393,7 +1398,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 27</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1418,8 +1423,8 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 55</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 83</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 16</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 46</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 85</li>
         </ul>
       </td>
@@ -1444,10 +1449,10 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 45</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 77</li>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 2</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 22</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 56</li>
             <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 80</li>
-            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1471,11 +1476,11 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 64</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 94</li>
+            <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 1</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 1</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 7</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 69</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 97</li>
-            <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 100</li>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1496,9 +1501,9 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 45</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 52</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 56</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 49</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 57</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1520,8 +1525,8 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 18</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 65</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 33</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1542,8 +1547,8 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 6</li>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 54</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 9</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1565,7 +1570,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 91</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1589,9 +1594,9 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 35</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 51</li>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 90</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 11</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 42</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1629,7 +1634,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 78</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1653,10 +1658,10 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 42</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 74</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 1</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 25</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 59</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 76</li>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1711,26 +1716,25 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 31</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/843be11e78f4a2bbfd82a613c1a78fef.png" alt="Cover for DRAMA" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-08-19</td>
       <td>TOMORROW X TOGETHER</td>
       <td>DRAMA</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 95</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1755,8 +1759,8 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 24</li>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 85</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 16</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1815,7 +1819,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 74</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1835,6 +1839,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1897,23 +1902,25 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 3</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 11</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 39</li>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 40</li>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 52</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 52</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 62</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 66</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 69</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 70</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 71</li>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 72</li>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 75</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 78</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 85</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 98</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 100</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 1</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 3</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 5</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 7</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 15</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 23</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 25</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 29</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 30</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 32</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 36</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 48</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 49</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 60</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 61</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 67</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 75</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 75</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1935,9 +1942,9 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 64</li>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 74</li>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 99</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 2</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 27</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1994,7 +2001,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 79</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -2016,8 +2023,8 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 77</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 90</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 11</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 20</li>
             <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 98</li>
         </ul>
       </td>
@@ -2038,7 +2045,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 61</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -2058,7 +2065,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 92</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -2095,7 +2102,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 79</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -2153,7 +2160,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 48</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -2175,9 +2182,9 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 33</li>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 82</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 100</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 1</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 19</li>
+            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -2197,7 +2204,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 66</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -2218,7 +2225,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 96</li>
+            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -2237,7 +2244,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 97</li>
+            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -2259,7 +2266,7 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 81</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -2281,9 +2288,9 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 93</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 4</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 8</li>
             <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 94</li>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 97</li>
             <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 99</li>
         </ul>
       </td>
@@ -2339,4 +2346,4 @@ Japanese music encompasses diverse styles from traditional folk to modern pop, r
 - [soundtrack]({{ "/tags/soundtrack" | relative_url }})
 - [j-rock]({{ "/tags/j-rock" | relative_url }})
 - [instrumental]({{ "/tags/instrumental" | relative_url }})
-- [male vocalists]({{ "/tags/male-vocalists" | relative_url }})
+- [pop]({{ "/tags/pop" | relative_url }})
