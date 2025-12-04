@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T05:18:38.543Z
+date: 2025-12-03T18:32:37.112Z
 permalink: tags/techno
 title: techno
 ---
 
 ## techno
 
-Last updated: <time datetime="2025-11-26T05:18:38.543Z">Wed Nov 26 2025 07:18:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T18:32:37.112Z">Wed Dec 03 2025 20:32:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -63,7 +63,7 @@ Techno is a genre of electronic dance music (EDM) that originated in Detroit, Mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 28</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 73</li>
             <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 99</li>
         </ul>
       </td>
@@ -156,8 +156,8 @@ Techno is a genre of electronic dance music (EDM) that originated in Detroit, Mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 61</li>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 66</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 40</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -196,8 +196,8 @@ Techno is a genre of electronic dance music (EDM) that originated in Detroit, Mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 22</li>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 88</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 13</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 79</li>
             <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 96</li>
         </ul>
       </td>
@@ -239,9 +239,9 @@ Techno is a genre of electronic dance music (EDM) that originated in Detroit, Mi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 13</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 17</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 55</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 84</li>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -266,10 +266,10 @@ Techno is a genre of electronic dance music (EDM) that originated in Detroit, Mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 22</li>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 92</li>
+            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 3</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 9</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 78</li>
             <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 94</li>
-            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -287,10 +287,10 @@ Techno is a genre of electronic dance music (EDM) that originated in Detroit, Mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 38</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 41</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 63</li>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 100</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 1</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 38</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 60</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -315,9 +315,9 @@ Techno is a genre of electronic dance music (EDM) that originated in Detroit, Mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 48</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 48</li>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 58</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 43</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 53</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -373,8 +373,8 @@ Techno is a genre of electronic dance music (EDM) that originated in Detroit, Mi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 1</li>
             <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 67</li>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -392,8 +392,8 @@ Techno is a genre of electronic dance music (EDM) that originated in Detroit, Mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 24</li>
             <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 52</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 76</li>
             <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 98</li>
         </ul>
       </td>
@@ -742,9 +742,9 @@ Techno is a genre of electronic dance music (EDM) that originated in Detroit, Mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 53</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 76</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 84</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 17</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 25</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 48</li>
             <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 97</li>
         </ul>
       </td>
@@ -982,7 +982,7 @@ Techno is a genre of electronic dance music (EDM) that originated in Detroit, Mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 87</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1023,7 +1023,7 @@ Techno is a genre of electronic dance music (EDM) that originated in Detroit, Mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 4</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 29</li>
             <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 99</li>
         </ul>
       </td>
@@ -1047,8 +1047,8 @@ Techno is a genre of electronic dance music (EDM) that originated in Detroit, Mi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 4</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 76</li>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1094,9 +1094,9 @@ Techno is a genre of electronic dance music (EDM) that originated in Detroit, Mi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 5</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 54</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 56</li>
-            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 96</li>
             <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 98</li>
         </ul>
       </td>
@@ -1119,9 +1119,9 @@ Techno is a genre of electronic dance music (EDM) that originated in Detroit, Mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 9</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 48</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 72</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 29</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 53</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1179,7 +1179,7 @@ Techno is a genre of electronic dance music (EDM) that originated in Detroit, Mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 86</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1243,7 +1243,7 @@ Techno is a genre of electronic dance music (EDM) that originated in Detroit, Mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 69</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 74</li>
             <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 78</li>
         </ul>
       </td>
@@ -1264,11 +1264,11 @@ Techno is a genre of electronic dance music (EDM) that originated in Detroit, Mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 62</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 74</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 82</li>
-            <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 86</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 88</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 13</li>
+            <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 15</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 19</li>
+            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 39</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1291,8 +1291,8 @@ Techno is a genre of electronic dance music (EDM) that originated in Detroit, Mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 25</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 81</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 20</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1371,7 +1371,7 @@ Techno is a genre of electronic dance music (EDM) that originated in Detroit, Mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 99</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1453,9 +1453,9 @@ Techno is a genre of electronic dance music (EDM) that originated in Detroit, Mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 26</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 76</li>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 96</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 5</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 44</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1477,7 +1477,7 @@ Techno is a genre of electronic dance music (EDM) that originated in Detroit, Mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 97</li>
+            <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1501,7 +1501,7 @@ Techno is a genre of electronic dance music (EDM) that originated in Detroit, Mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 3</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 4</li>
             <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 48</li>
         </ul>
       </td>
@@ -1522,7 +1522,7 @@ Techno is a genre of electronic dance music (EDM) that originated in Detroit, Mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 60</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1544,7 +1544,7 @@ Techno is a genre of electronic dance music (EDM) that originated in Detroit, Mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 59</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 42</li>
             <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 100</li>
             <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 100</li>
         </ul>
@@ -1630,9 +1630,9 @@ Techno is a genre of electronic dance music (EDM) that originated in Detroit, Mi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 2</li>
             <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 87</li>
             <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 98</li>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1673,7 +1673,7 @@ Techno is a genre of electronic dance music (EDM) that originated in Detroit, Mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 71</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1697,9 +1697,9 @@ Techno is a genre of electronic dance music (EDM) that originated in Detroit, Mi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 5</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 8</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 77</li>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 93</li>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1738,7 +1738,7 @@ Techno is a genre of electronic dance music (EDM) that originated in Detroit, Mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 36</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1760,9 +1760,9 @@ Techno is a genre of electronic dance music (EDM) that originated in Detroit, Mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 29</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 1</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 72</li>
             <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 92</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1783,6 +1783,7 @@ Techno is a genre of electronic dance music (EDM) that originated in Detroit, Mi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1803,7 +1804,7 @@ Techno is a genre of electronic dance music (EDM) that originated in Detroit, Mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 5</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 95</li>
             <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 99</li>
         </ul>
       </td>
@@ -1848,9 +1849,9 @@ Techno is a genre of electronic dance music (EDM) that originated in Detroit, Mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 39</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 67</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 91</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 10</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 33</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1913,25 +1914,25 @@ Techno is a genre of electronic dance music (EDM) that originated in Detroit, Mi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 1</li>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 4</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 5</li>
             <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 7</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 11</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 26</li>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 40</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 52</li>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 53</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 32</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 41</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 48</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 49</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 62</li>
             <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 67</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 69</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 71</li>
             <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 72</li>
             <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 75</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 75</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 76</li>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 78</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 85</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 86</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 98</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1975,8 +1976,8 @@ Techno is a genre of electronic dance music (EDM) that originated in Detroit, Mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 62</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 89</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 12</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -2035,7 +2036,7 @@ Techno is a genre of electronic dance music (EDM) that originated in Detroit, Mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 52</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 53</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 84</li>
         </ul>
       </td>
@@ -2059,9 +2060,9 @@ Techno is a genre of electronic dance music (EDM) that originated in Detroit, Mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 90</li>
+            <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 2</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 91</li>
             <li> <a href="{{ "/tags/melodic-techno" | relative_url }}">melodic techno</a> # 99</li>
-            <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2084,7 +2085,7 @@ Techno is a genre of electronic dance music (EDM) that originated in Detroit, Mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 90</li>
+            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 10</li>
             <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 94</li>
             <li> <a href="{{ "/tags/hard-techno" | relative_url }}">hard techno</a> # 97</li>
         </ul>
