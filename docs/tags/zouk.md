@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-29T18:59:40.204Z
+date: 2025-12-04T16:03:16.460Z
 permalink: tags/zouk
 title: zouk
 ---
 
 ## zouk
 
-Last updated: <time datetime="2025-10-29T18:59:40.204Z">Wed Oct 29 2025 20:59:40 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T16:03:16.460Z">Thu Dec 04 2025 18:03:16 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -24,6 +24,7 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
       <th>Artist</th>
       <th>Album</th>
       <th>Tags</th>
+      <th>Other places</th>
     </tr>
   </thead>
   <tbody>
@@ -35,6 +36,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
       <td>1977</td>
       <td>Various Artists</td>
       <td>Zouker, Vol. 1</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -53,6 +58,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>50</td>
@@ -64,6 +73,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -80,6 +93,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>39</td>
@@ -89,6 +106,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
       <td>1986</td>
       <td>Jocelyne Béroard, Kassav&#39;</td>
       <td>Siwo</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -107,6 +128,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>30</td>
@@ -121,6 +146,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>83</td>
@@ -132,6 +161,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -148,6 +181,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>79</td>
@@ -159,6 +196,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -175,6 +216,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>53</td>
@@ -189,6 +234,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>45</td>
@@ -200,6 +249,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -216,6 +269,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>2</td>
@@ -229,10 +286,15 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd3e05ef5fbe4692759e59bae4ab7092.png" alt="Cover for Fruit de la passion" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Francky Vincent</td>
@@ -241,6 +303,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -257,6 +323,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>46</td>
@@ -268,6 +338,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -285,6 +359,11 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/calypso" | relative_url }}">calypso</a> # 36</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>55</td>
@@ -296,6 +375,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -312,6 +395,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>62</td>
@@ -324,6 +411,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -340,6 +431,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>37</td>
@@ -351,6 +446,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -367,6 +466,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>80</td>
@@ -379,6 +482,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -395,6 +502,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>48</td>
@@ -407,6 +518,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -423,6 +538,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>10</td>
@@ -437,11 +556,16 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/calypso" | relative_url }}">calypso</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/calypso" | relative_url }}">calypso</a> # 14</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/FtbVNWJTmz9saTveIUY-RmL6c90Sw2AqD5pOc9vX878/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDE5/NjMtMTY3OTYyMzE3/OC0yMjI4LmpwZWc.jpeg" alt="Cover for C&#39; est La Vie" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3379d7f6184a6f835b2168856a45cede.png" alt="Cover for C&#39; est La Vie" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Rouge</td>
@@ -449,6 +573,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -465,6 +593,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>92</td>
@@ -479,6 +611,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>14</td>
@@ -487,6 +623,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
       <td>2003</td>
       <td>Various Artists</td>
       <td>Section Zouk: Millenium, Vol. 2</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -504,6 +644,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>70</td>
@@ -516,6 +660,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -532,32 +680,8 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>40</td>
-      <td>
-          <img src="https://i.discogs.com/hsEPjQXj6oxakc6nZ2BOwRIfna3fFChnfe34-da5ISg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzY2/MDA0LTE2MjQ2MjIz/NDMtODEyOC5qcGVn.jpeg" alt="Cover for Je Suis Prete" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Talina</td>
-      <td>Je Suis Prete</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>42</td>
-      <td>
-          <img src="https://i.discogs.com/95AxS8XHg_VjecJ4Grf2-4yFZmvHsLJ4hIiSdPEN0qE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDU5/ODUtMTI5Mjg0MTE4/NS5qcGVn.jpeg" alt="Cover for Ktoz" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2004</td>
-      <td>Kassav&#39;</td>
-      <td>Ktoz</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
     </tr>
@@ -575,6 +699,47 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 20</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/hsEPjQXj6oxakc6nZ2BOwRIfna3fFChnfe34-da5ISg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzY2/MDA0LTE2MjQ2MjIz/NDMtODEyOC5qcGVn.jpeg" alt="Cover for Je Suis Prete" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Talina</td>
+      <td>Je Suis Prete</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://i.discogs.com/95AxS8XHg_VjecJ4Grf2-4yFZmvHsLJ4hIiSdPEN0qE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDU5/ODUtMTI5Mjg0MTE4/NS5qcGVn.jpeg" alt="Cover for Ktoz" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004</td>
+      <td>Kassav&#39;</td>
+      <td>Ktoz</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>97</td>
@@ -586,6 +751,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -600,6 +769,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -620,6 +793,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>68</td>
@@ -638,6 +815,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>3</td>
@@ -650,6 +831,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -666,11 +851,15 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/94o1VSjPO_A5v6imxwRUDjER_OyDfuMh_TDqVQwWYXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDA4/NjI0LTE1MTU4OTMz/OTItNzA5OS5qcGVn.jpeg" alt="Cover for Legendary" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/33758243e5de4e9480f3d6aec71e6b0e.png" alt="Cover for Legendary" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Kaysha</td>
@@ -678,6 +867,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -693,6 +886,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -716,6 +913,11 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 63</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>85</td>
@@ -728,6 +930,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -744,6 +950,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>27</td>
@@ -756,6 +966,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -772,6 +986,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>60</td>
@@ -784,6 +1002,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -800,6 +1022,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>77</td>
@@ -812,6 +1038,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -828,6 +1058,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>34</td>
@@ -840,6 +1074,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -857,6 +1095,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>57</td>
@@ -869,6 +1111,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -885,6 +1131,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>74</td>
@@ -899,6 +1149,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>91</td>
@@ -910,6 +1164,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -926,6 +1184,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>72</td>
@@ -938,6 +1200,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -955,6 +1221,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>65</td>
@@ -967,6 +1237,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -985,6 +1259,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>26</td>
@@ -998,6 +1276,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1014,6 +1296,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>13</td>
@@ -1025,6 +1311,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1041,11 +1331,16 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 70</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/RGrXtMkr_OiYo9N3CHfNKd_Qh2BZzOZAtjnQTGDy0PM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMTE2/OTQtMTQ5NTMzNzc4/Mi03NDkyLmpwZWc.jpeg" alt="Cover for Real Fantasia (Deluxe Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4af08e60775f1cbdfe5ab5b214e09c7a.png" alt="Cover for Real Fantasia (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Ivete Sangalo</td>
@@ -1053,9 +1348,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1073,6 +1369,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>89</td>
@@ -1085,6 +1385,31 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c4e9d7331b427a8d33abf22d50118e8.png" alt="Cover for Avante - EP (Ao Vivo Em São Paulo)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017</td>
+      <td>Joelma</td>
+      <td>Avante - EP (Ao Vivo Em São Paulo)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1102,6 +1427,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>75</td>
@@ -1116,20 +1445,8 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>78</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c4e9d7331b427a8d33abf22d50118e8.png" alt="Cover for Avante - EP (Ao Vivo Em São Paulo)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2017</td>
-      <td>Joelma</td>
-      <td>Avante - EP (Ao Vivo Em São Paulo)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a></li>
         </ul>
       </td>
     </tr>
@@ -1149,6 +1466,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>7</td>
@@ -1157,6 +1478,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
       <td>2022-04-14</td>
       <td>Various Artists</td>
       <td>Section Zouk All Stars, Vol. 6</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
       <td>
         <ul>
         </ul>
@@ -1173,6 +1498,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
         <ul>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>66</td>
@@ -1185,19 +1514,8 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
         <ul>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>25</td>
-      <td>
-          <img src="https://i.discogs.com/EtPeKRsWaG-IMm7xLevCbd3ebtL-dCWQlmL900k2Sfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1OTg1/NjgtMTM2OTUzMTE3/Mi00OTE0LmpwZWc.jpeg" alt="Cover for Isso É Calypso na Amazônia - Bloco 1 (Ao Vivo) - EP" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022-09-15</td>
-      <td>Joelma</td>
-      <td>Isso É Calypso na Amazônia - Bloco 1 (Ao Vivo) - EP</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/calypso" | relative_url }}">calypso</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
     </tr>
@@ -1215,6 +1533,30 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/calypso" | relative_url }}">calypso</a> # 9</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+          <img src="https://i.discogs.com/EtPeKRsWaG-IMm7xLevCbd3ebtL-dCWQlmL900k2Sfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1OTg1/NjgtMTM2OTUzMTE3/Mi00OTE0LmpwZWc.jpeg" alt="Cover for Isso É Calypso na Amazônia - Bloco 1 (Ao Vivo) - EP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-09-15</td>
+      <td>Joelma</td>
+      <td>Isso É Calypso na Amazônia - Bloco 1 (Ao Vivo) - EP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/calypso" | relative_url }}">calypso</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>44</td>
@@ -1229,32 +1571,8 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>
-      </td>
-      <td></td>
-      <td>3FB</td>
-      <td>Crois Moi</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Tanya St Val</td>
-      <td>Les plus belles années de Tanya Saint-Val</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
     </tr>
@@ -1277,10 +1595,75 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/moombahton" | relative_url }}">moombahton</a> # 55</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Hot Caribbean Miziks</td>
+      <td>Hot Caribbean Miziks Vol.02</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 35</li>
+            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 51</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f35a33c9fe180686add5ca24994a426a.png" alt="Cover for Crois Moi" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>3FB</td>
+      <td>Crois Moi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Tanya St Val</td>
+      <td>Les plus belles années de Tanya Saint-Val</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>18</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f993ceb021e44ecda140968cb22e01d7.png" alt="Cover for €Festo DJ Remixes Vol. 1" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>€Festo DJ</td>
@@ -1293,10 +1676,15 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>22</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb9d8d652c232d4b63f1e21512426f84.png" alt="Cover for Sensations by €Festo DJ" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>€Festo DJ</td>
@@ -1311,10 +1699,15 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70e9d5d7982dbd3209a840c826e14de6.png" alt="Cover for Tatuagem" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Telma Lee</td>
@@ -1324,6 +1717,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1337,7 +1734,11 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
       <td>Na Amazônia</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1356,6 +1757,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>36</td>
@@ -1367,6 +1772,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1382,6 +1791,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>52</td>
@@ -1393,6 +1806,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1408,6 +1825,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>76</td>
@@ -1419,6 +1840,10 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1434,20 +1859,8 @@ Zouk is a musical genre originating in the French Caribbean islands of Guadeloup
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td>90</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Hot Caribbean Miziks</td>
-      <td>Hot Caribbean Miziks Vol.02</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/zouk" | relative_url }}">zouk</a></li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-13T00:24:28.971Z
+date: 2025-12-04T16:02:40.931Z
 permalink: tags/european-pop
 title: european pop
 ---
 
 ## european pop
 
-Last updated: <time datetime="2025-11-13T00:24:28.971Z">Thu Nov 13 2025 02:24:28 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T16:02:40.931Z">Thu Dec 04 2025 18:02:40 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -48,10 +48,10 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 3</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 20</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 22</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 22</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 78</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 78</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 80</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -78,12 +78,12 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 19</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 48</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 53</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 53</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 54</li>
-            <li> <a href="{{ "/tags/norge" | relative_url }}">norge</a> # 97</li>
+            <li> <a href="{{ "/tags/norge" | relative_url }}">norge</a> # 4</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 47</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 48</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 48</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 50</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -109,7 +109,7 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norge" | relative_url }}">norge</a> # 72</li>
+            <li> <a href="{{ "/tags/norge" | relative_url }}">norge</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -133,11 +133,11 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 70</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 80</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 82</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 82</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 83</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 18</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 18</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 19</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 19</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -163,13 +163,13 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 8</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 23</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 52</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 56</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 56</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 58</li>
-            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 82</li>
+            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 19</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 44</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 44</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 45</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 47</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 72</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -210,11 +210,11 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 4</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 34</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 44</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 44</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 44</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 56</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 56</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 57</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 64</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -237,9 +237,9 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 17</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 18</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 19</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 81</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 82</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -280,26 +280,26 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 9</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 43</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 51</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 55</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 70</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 72</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 73</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 74</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 83</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 85</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 85</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 85</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 86</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 1</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 1</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 3</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 13</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 15</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 15</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 15</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 16</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 16</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 24</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 24</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 28</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 29</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 42</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 43</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 46</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 82</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 87</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 88</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 89</li>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 96</li>
             <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 97</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 100</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -322,11 +322,11 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 15</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 45</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 51</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 51</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 53</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 49</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 49</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 50</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 52</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -351,10 +351,10 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 15</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 31</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 31</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 31</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 69</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 69</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 70</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -389,19 +389,19 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 5</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 49</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 53</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 68</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 70</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 71</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 72</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 81</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 83</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 83</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 83</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 84</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 17</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 17</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 17</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 18</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 18</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 26</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 26</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 30</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 31</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 44</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 45</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 85</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 85</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 87</li>
         </ul>
       </td>
@@ -437,20 +437,21 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 11</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 55</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 61</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 72</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 73</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 75</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 76</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 86</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 86</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 86</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 86</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 87</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 14</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 14</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 14</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 14</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 15</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 21</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 23</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 27</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 27</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 37</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 41</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 78</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 88</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 90</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -485,21 +486,21 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 1</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 23</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 27</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 66</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 70</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 78</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 79</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 82</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 83</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 89</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 90</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 90</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 90</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 11</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 11</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 11</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 12</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 12</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 16</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 17</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 20</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 22</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 27</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 29</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 65</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 67</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 90</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 90</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 91</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 92</li>
         </ul>
       </td>
@@ -536,44 +537,29 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       <td>Under Stars</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/europe" | relative_url }}">europe</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european" | relative_url }}">european</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/house" | relative_url }}">house</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norway" | relative_url }}">norway</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 42</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 55</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 59</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 79</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 88</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 88</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 88</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 92</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 93</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 93</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 93</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 93</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 93</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 97</li>
-            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 99</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 7</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 8</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 8</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 8</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 11</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 11</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 13</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 99</li>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -620,9 +606,9 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 15</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 17</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 18</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 82</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 83</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -646,10 +632,10 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 11</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 28</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 28</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 28</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 72</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 72</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 73</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -672,9 +658,9 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 1</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 1</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 2</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 97</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 97</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -741,9 +727,9 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 11</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 12</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 14</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 85</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 87</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -788,11 +774,11 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 35</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 61</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 63</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 63</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 64</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 37</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 38</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 38</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 38</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -817,11 +803,11 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 3</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 32</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 43</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 43</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 43</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 57</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 57</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 58</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 66</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -842,7 +828,7 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 76</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -865,10 +851,10 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 8</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 25</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 25</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 26</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 75</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 75</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 75</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -893,10 +879,10 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 14</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 30</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 30</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 30</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 70</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 70</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 71</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -943,11 +929,11 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 9</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 39</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 45</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 46</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 47</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 55</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 55</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 55</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 59</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -965,10 +951,10 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 23</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 35</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 35</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 35</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 65</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 65</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 66</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -992,10 +978,10 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 18</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 33</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 33</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 33</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 67</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 67</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 68</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1019,11 +1005,11 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 63</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 76</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 78</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 78</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 80</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 21</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 22</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 23</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 23</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1069,11 +1055,11 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 12</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 42</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 49</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 49</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 50</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 51</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 52</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 52</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 55</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1097,10 +1083,10 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 22</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 34</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 34</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 34</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 66</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 66</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 67</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1128,10 +1114,11 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 27</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 39</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 39</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 39</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 61</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 61</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 62</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 72</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1156,10 +1143,11 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 28</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 40</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 40</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 40</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 60</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 60</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 61</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 71</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1177,17 +1165,17 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 32</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 42</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 58</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 59</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 60</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 60</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 73</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 74</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 76</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 76</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 78</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 23</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 24</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 25</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 25</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 26</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 37</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 38</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 39</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 40</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 56</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 56</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 82</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 85</li>
         </ul>
@@ -1224,20 +1212,20 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 14</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 29</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 32</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 70</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 77</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 82</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 83</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 85</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 87</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 92</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 92</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 92</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 92</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 93</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 7</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 9</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 9</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 10</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 10</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 12</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 14</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 16</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 18</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 21</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 25</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 59</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 61</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 78</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 94</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 96</li>
         </ul>
@@ -1263,11 +1251,11 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 27</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 54</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 58</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 58</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 60</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 42</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 42</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 43</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 45</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1291,11 +1279,11 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 30</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 58</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 59</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 59</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 62</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 40</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 41</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 41</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 42</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1323,21 +1311,17 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 1</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 3</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 38</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 61</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 71</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 72</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 81</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 81</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 84</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 87</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 87</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 88</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 88</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 94</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 100</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 1</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 5</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 8</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 9</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 9</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 11</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 13</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 16</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 21</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 24</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1407,11 +1391,11 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 84</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 91</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 91</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 91</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 91</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 10</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 10</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 11</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 11</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1435,10 +1419,11 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 26</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 38</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 38</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 38</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 62</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 62</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 63</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 73</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1462,11 +1447,11 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 37</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 62</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 64</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 64</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 65</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 36</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 37</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 37</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 37</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1490,10 +1475,10 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 16</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 32</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 32</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 32</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 68</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 68</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 69</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1518,8 +1503,8 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 4</li>
-            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 97</li>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 4</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1543,11 +1528,11 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 49</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 69</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 70</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 70</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 73</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 28</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 30</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 30</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 31</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1571,9 +1556,9 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 13</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 16</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 17</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 83</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 84</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1597,11 +1582,11 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 56</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 72</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 74</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 74</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 76</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 25</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 26</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 27</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 27</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1625,11 +1610,11 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 67</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 78</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 81</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 81</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 82</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 19</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 19</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 20</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 21</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1653,10 +1638,10 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 5</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 22</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 23</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 23</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 77</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 77</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 78</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1680,11 +1665,11 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 61</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 75</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 77</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 77</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 79</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 22</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 23</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 24</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 24</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1708,9 +1693,9 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 5</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 5</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 5</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 93</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 93</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1733,11 +1718,11 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 29</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 31</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 31</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 32</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 48</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 68</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 69</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 69</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1761,10 +1746,9 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 1</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 18</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 19</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 20</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 80</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 81</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1811,10 +1795,10 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 25</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 37</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 37</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 37</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 63</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 63</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 64</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1849,22 +1833,22 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 45</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 58</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 60</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 80</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 89</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 89</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 89</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 93</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 94</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 94</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 94</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 94</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 94</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 98</li>
-            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 100</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 3</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 5</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 6</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 7</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 7</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 7</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 7</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 10</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 10</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 12</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 15</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 36</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 37</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 51</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 100</li>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1890,12 +1874,12 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 24</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 53</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 57</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 57</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 59</li>
-            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 96</li>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 5</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 43</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 43</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 44</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 46</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1919,11 +1903,11 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 38</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 63</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 65</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 65</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 66</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 35</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 36</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 36</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 36</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1958,18 +1942,18 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 6</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 50</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 54</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 69</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 71</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 72</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 73</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 82</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 84</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 84</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 84</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 85</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 16</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 16</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 16</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 17</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 17</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 25</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 25</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 29</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 30</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 43</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 44</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 84</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 86</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 88</li>
         </ul>
@@ -1995,11 +1979,11 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 43</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 65</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 67</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 67</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 69</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 33</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 33</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 34</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 34</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -2023,17 +2007,17 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 10</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 26</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 26</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 27</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 74</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 74</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 74</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/F2SmGqVDglxXHr-SmwoeP0vV5kuvMAjQJZ_HDNdOwRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjQ2/Mzk3LTE2MDkwNDE1/NzAtNjg3OS5wbmc.jpeg" alt="Cover for To Be Loved" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/819f2320ada234a224044b5d71f20b04.png" alt="Cover for To Be Loved" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-09-24</td>
       <td>Askjell</td>
@@ -2050,11 +2034,11 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 51</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 70</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 72</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 72</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 74</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 27</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 28</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 29</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 29</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -2080,13 +2064,13 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 61</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 71</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 71</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 3</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 6</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 29</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 30</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 35</li>
             <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 95</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 95</li>
             <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 97</li>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -2112,11 +2096,11 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 1</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 30</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 41</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 41</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 41</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 59</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 59</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 60</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 68</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -2163,10 +2147,10 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 2</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 19</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 20</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 21</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 79</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 80</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 81</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2190,9 +2174,9 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 9</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 10</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 12</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 86</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 88</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -2216,11 +2200,11 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 11</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 41</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 46</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 47</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 48</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 54</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 54</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 54</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 57</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -2246,10 +2230,10 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 33</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 60</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 62</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 62</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 38</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 39</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 39</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -2273,9 +2257,9 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 12</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 15</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 16</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 84</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 85</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -2324,12 +2308,12 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 3</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 3</li>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 19</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 31</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 19</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 23</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 68</li>
             <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 76</li>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 82</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 95</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -2353,11 +2337,11 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 54</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 71</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 73</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 73</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 75</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 26</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 27</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 28</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 28</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -2381,10 +2365,10 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 21</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 61</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 61</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 91</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 10</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 39</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 40</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 73</li>
             <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 92</li>
         </ul>
       </td>
@@ -2409,6 +2393,7 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2432,11 +2417,11 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 13</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 43</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 50</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 50</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 51</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 51</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 54</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -2483,10 +2468,10 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 7</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 23</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 24</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 24</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 76</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 76</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 77</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -2510,9 +2495,9 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 7</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 7</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 8</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 90</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 91</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -2536,11 +2521,11 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 32</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 59</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 60</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 60</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 63</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 39</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 40</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 40</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 41</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -2564,9 +2549,9 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 6</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 6</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 6</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 92</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 92</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -2590,10 +2575,10 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 24</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 36</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 36</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 36</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 64</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 64</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 65</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -2617,10 +2602,10 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 13</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 29</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 29</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 29</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 71</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 71</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 72</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -2647,13 +2632,13 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 52</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 52</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 1</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 11</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 12</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 48</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 49</li>
             <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 85</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 89</li>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 90</li>
             <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 90</li>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2694,7 +2679,9 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 1</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 99</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 100</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2718,11 +2705,11 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 2</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 31</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 42</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 42</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 42</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 58</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 58</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 59</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 67</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -2748,13 +2735,13 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 77</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 80</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 80</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 1</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 3</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 20</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 21</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 21</li>
             <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 97</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 98</li>
             <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 100</li>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2778,16 +2765,16 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 2</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 2</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 3</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 96</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 96</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/FRas78e9uNsSXXtZpVmVja7SnqjzLVxpdYIPZtp7WPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTEz/NjUwLTE3MTc5Mjc1/NjEtMTgxMi5qcGVn.jpeg" alt="Cover for What Happened To The Heart?" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da5757d555424d7e1408e4855363da04.png" alt="Cover for What Happened To The Heart?" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-06-07</td>
       <td>Aurora</td>
@@ -2806,13 +2793,13 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 29</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 58</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 73</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 75</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 75</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 77</li>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 88</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 13</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 24</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 25</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 26</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 26</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 39</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -2859,11 +2846,11 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 41</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 64</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 66</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 66</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 67</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 34</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 35</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 35</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 35</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -2886,11 +2873,11 @@ European pop blends Anglo-American pop structures with distinct regional sensibi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 46</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 67</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 68</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 68</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 70</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 32</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 32</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 32</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 33</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 50</li>
         </ul>
       </td>
     </tr>

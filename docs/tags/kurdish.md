@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T09:11:09.268Z
+date: 2025-12-04T16:03:10.130Z
 permalink: tags/kurdish
 title: kurdish
 ---
 
 ## kurdish
 
-Last updated: <time datetime="2025-10-22T09:11:09.268Z">Wed Oct 22 2025 12:11:09 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T16:03:10.130Z">Thu Dec 04 2025 18:03:10 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -70,7 +70,7 @@ Kurdish music encompasses the rich musical traditions of the Kurdish people acro
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for IN THE MIX 2008" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/74437e64ffd78d981ba91cc765c5a8f9.png" alt="Cover for IN THE MIX 2008" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Various Artists</td>
@@ -125,7 +125,7 @@ Kurdish music encompasses the rich musical traditions of the Kurdish people acro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 5</li>
+            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 3</li>
             <li> <a href="{{ "/tags/kurdistan" | relative_url }}">kurdistan</a> # 63</li>
         </ul>
       </td>
@@ -184,8 +184,8 @@ Kurdish music encompasses the rich musical traditions of the Kurdish people acro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 35</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 81</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 20</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -289,7 +289,7 @@ Kurdish music encompasses the rich musical traditions of the Kurdish people acro
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/bpwz6cEp5H4rkGJXYT58f6QaXtNvKYWb8q5UTmgpCP4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTMy/NjA1LTE1ODQ4MDY1/NjUtNzU2My5qcGVn.jpeg" alt="Cover for L&#39;art du bouzouk" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/916df0a7ee6e47258a42966182e8e992.png" alt="Cover for L&#39;art du bouzouk" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Issa Hassan</td>
@@ -367,7 +367,7 @@ Kurdish music encompasses the rich musical traditions of the Kurdish people acro
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/u4lcU-mlM7H0Sy1GhGqqj65KGcQYzj1QU1ZknQxIxmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkw/MDYyLTE2MTY1OTk2/NjQtODU3MC5qcGVn.jpeg" alt="Cover for İbrahim Yoldaş" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ae81319b14f2b3d7faf7b461d1de71a.png" alt="Cover for İbrahim Yoldaş" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-06-16</td>
       <td>GRUP VARDIYA</td>
@@ -696,7 +696,7 @@ Kurdish music encompasses the rich musical traditions of the Kurdish people acro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 61</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 40</li>
             <li> <a href="{{ "/tags/kurdistan" | relative_url }}">kurdistan</a> # 99</li>
         </ul>
       </td>
@@ -848,7 +848,7 @@ Kurdish music encompasses the rich musical traditions of the Kurdish people acro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 22</li>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -892,7 +892,7 @@ Kurdish music encompasses the rich musical traditions of the Kurdish people acro
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/Gg_hOZrsWD-gjX_cXkhfrIQLWkLbT9BmILPS3M6C7jk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTQz/MjA3LTE2MjY2NTA4/NDQtNTE1Ni5qcGVn.jpeg" alt="Cover for Keje" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/65b6347d2c9f4e60aa9c96aba6f7149f.png" alt="Cover for Keje" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Yekbun</td>
@@ -1102,7 +1102,7 @@ Kurdish music encompasses the rich musical traditions of the Kurdish people acro
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/2WVEPSgNKPLC_ff0Uo37aJv69Am2eQYo8Zmbiy023G8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NTAz/MC0xMTQ4NTczMTcw/LmpwZWc.jpeg" alt="Cover for Göğün Yarısı" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/270b66ccad074857b9f8fbd8717d02fd.png" alt="Cover for Göğün Yarısı" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-03-10</td>
       <td>Lilith</td>
@@ -1714,6 +1714,7 @@ Kurdish music encompasses the rich musical traditions of the Kurdish people acro
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a570105fb155f9c42387f9ff49da47ae.png" alt="Cover for Kani Sepi" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Kamkars</td>
@@ -1731,7 +1732,7 @@ Kurdish music encompasses the rich musical traditions of the Kurdish people acro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 39</li>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 62</li>
             <li> <a href="{{ "/tags/kurdistan" | relative_url }}">kurdistan</a> # 89</li>
         </ul>
       </td>
@@ -1739,6 +1740,7 @@ Kurdish music encompasses the rich musical traditions of the Kurdish people acro
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ce52627dff51369ad55192486a3c076.png" alt="Cover for Chant Of Drums" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Kamkars</td>
@@ -1757,11 +1759,11 @@ Kurdish music encompasses the rich musical traditions of the Kurdish people acro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 12</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 21</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 42</li>
-            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 64</li>
-            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 82</li>
+            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 19</li>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 37</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 60</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 79</li>
+            <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 89</li>
             <li> <a href="{{ "/tags/kurdistan" | relative_url }}">kurdistan</a> # 92</li>
         </ul>
       </td>
@@ -1801,7 +1803,7 @@ Kurdish music encompasses the rich musical traditions of the Kurdish people acro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 52</li>
+            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 49</li>
             <li> <a href="{{ "/tags/kurdistan" | relative_url }}">kurdistan</a> # 96</li>
         </ul>
       </td>
@@ -1822,7 +1824,7 @@ Kurdish music encompasses the rich musical traditions of the Kurdish people acro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 84</li>
+            <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 17</li>
             <li> <a href="{{ "/tags/kurdistan" | relative_url }}">kurdistan</a> # 98</li>
         </ul>
       </td>
@@ -1917,6 +1919,7 @@ Kurdish music encompasses the rich musical traditions of the Kurdish people acro
     <tr>
       <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2e70c94c8a27584d17bd800c9ef5cd6.png" alt="Cover for Koneh Hawaran" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Kayvan Mirhadi</td>

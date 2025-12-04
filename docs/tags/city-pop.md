@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T23:58:37.976Z
+date: 2025-12-04T16:02:46.435Z
 permalink: tags/city-pop
 title: city pop
 ---
 
 ## city pop
 
-Last updated: <time datetime="2025-11-26T23:58:37.976Z">Thu Nov 27 2025 01:58:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T16:02:46.435Z">Thu Dec 04 2025 18:02:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -151,7 +151,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 38</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -268,9 +268,9 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 30</li>
-            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 97</li>
-            <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 99</li>
+            <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 2</li>
+            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 4</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -630,9 +630,9 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 73</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 88</li>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 97</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 4</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 12</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 26</li>
             <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 99</li>
         </ul>
       </td>
@@ -709,7 +709,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 19</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -731,9 +731,9 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 26</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 37</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 60</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 41</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 64</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -772,7 +772,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 96</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -795,8 +795,8 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 46</li>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 76</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 25</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -817,9 +817,9 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 13</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 16</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 64</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 37</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 85</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -859,8 +859,8 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 2</li>
             <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 41</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -921,7 +921,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 62</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -939,7 +939,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 58</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -982,7 +982,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 66</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1004,7 +1004,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 19</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1025,8 +1025,8 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 14</li>
             <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 42</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1122,7 +1122,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 49</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1423,7 +1423,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 34</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1499,8 +1499,8 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 56</li>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 59</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 42</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1560,9 +1560,9 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 3</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 69</li>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 70</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 31</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 32</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1586,7 +1586,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 74</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1611,8 +1611,8 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 80</li>
-            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 98</li>
+            <li> <a href="{{ "/tags/japanese-female-vocalists" | relative_url }}">japanese female vocalists</a> # 3</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1634,8 +1634,8 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 34</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 44</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 57</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1657,7 +1657,7 @@ City pop is a Japanese music genre from the late 1970s-80s that blends funk, dis
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 7</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 94</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-22T18:14:27.077Z
+date: 2025-12-04T15:44:45.224Z
 permalink: tags/jazz-hop
 title: jazz hop
 ---
 
 ## jazz hop
 
-Last updated: <time datetime="2025-11-22T18:14:27.077Z">Sat Nov 22 2025 20:14:27 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T15:44:45.224Z">Thu Dec 04 2025 17:44:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -99,7 +99,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 42</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -118,6 +118,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -152,7 +153,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 8</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -331,7 +332,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 57</li>
+            <li> <a href="{{ "/tags/detroit" | relative_url }}">detroit</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -415,9 +416,9 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 45</li>
-            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 57</li>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 94</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 7</li>
+            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 44</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -475,9 +476,9 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 58</li>
-            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 90</li>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 94</li>
+            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 11</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 42</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -586,8 +587,8 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 4</li>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 76</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 24</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -682,8 +683,9 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 1</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 15</li>
             <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 61</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -740,7 +742,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 7</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -763,7 +765,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rap" | relative_url }}">christian rap</a> # 94</li>
+            <li> <a href="{{ "/tags/christian-rap" | relative_url }}">christian rap</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -817,12 +819,10 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 44</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 52</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 75</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 84</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 95</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 98</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 16</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 29</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 35</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -951,7 +951,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 32</li>
+            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1123,8 +1123,8 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 54</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 82</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 19</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1143,7 +1143,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 93</li>
+            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1234,7 +1234,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-jersey" | relative_url }}">new jersey</a> # 95</li>
+            <li> <a href="{{ "/tags/new-jersey" | relative_url }}">new jersey</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1293,7 +1293,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 30</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1463,11 +1463,12 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 37</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 52</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 56</li>
-            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 71</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 82</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 19</li>
+            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 30</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 45</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 49</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 49</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1510,7 +1511,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/8I3_VefZbyal-JaqrYRw6LLg4MH-2dGWtUGCNfmwp4Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODk5/MjYtMTM1NTkxMjk1/NC00NDI4LmpwZWc.jpeg" alt="Cover for The Branches (Deluxe Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e82a64b9b6daac6c2dfb7d431d1e3af9.png" alt="Cover for The Branches (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12-18</td>
       <td>Long Arm</td>
@@ -1527,7 +1528,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 67</li>
+            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1549,7 +1550,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 43</li>
+            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1607,7 +1608,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 3</li>
+            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1669,7 +1670,8 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 61</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 37</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1733,8 +1735,8 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 5</li>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 8</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 9</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1755,7 +1757,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 61</li>
+            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1777,7 +1779,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 40</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1802,7 +1804,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 22</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1851,12 +1853,12 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 32</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 34</li>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 44</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 53</li>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 60</li>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 72</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 28</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 40</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 48</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 58</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 60</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1898,7 +1900,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 87</li>
+            <li> <a href="{{ "/tags/future-funk" | relative_url }}">future funk</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1919,7 +1921,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 22</li>
+            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1960,7 +1962,7 @@ Jazz hop is a fusion genre blending hip-hop beats with live jazz instrumentation
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 9</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 72</li>
         </ul>
       </td>
     </tr>
