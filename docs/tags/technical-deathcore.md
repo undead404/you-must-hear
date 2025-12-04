@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-01-07T09:17:20.811Z
+date: 2025-12-04T04:28:23.532Z
 permalink: tags/technical-deathcore
 title: technical deathcore
 ---
 
 ## technical deathcore
 
-Last updated: <time datetime="2025-01-07T09:17:20.811Z">Tue Jan 07 2025 11:17:20 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:28:23.532Z">Thu Dec 04 2025 06:28:23 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/JjR8L4don77e6cgS3LVHzurhhw7k0OFXDPBme9nhMFI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTM2/MjItMTMwNDA1NDU1/NS5qcGVn.jpeg" alt="Cover for Consumed by Your Poison" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/25256bb9ec2d44aac487bf82ebc72446.png" alt="Cover for Consumed by Your Poison" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-10-02</td>
       <td>Despised Icon</td>
@@ -49,6 +49,7 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4459974e26b322e6609966a2e0cf6244.png" alt="Cover for The Healing Process" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-04-05</td>
       <td>Despised Icon</td>
@@ -60,7 +61,7 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 45</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -98,13 +99,14 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 15</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/01303440b3eb4cb1ad3a6a604a343c43.png" alt="Cover for Akeldama" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-11-14</td>
       <td>The Faceless</td>
@@ -117,9 +119,9 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 8</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 21</li>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 29</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 69</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 72</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -155,14 +157,14 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 37</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/xvhasNAfdAA34mDtD9Wnu1R6tVBfVbO_TwvkSJNNv7Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzE3/NjMtMTI2MjM3NDQ1/Ny5qcGVn.jpeg" alt="Cover for The Ills of Modern Man" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7e91d0f7bd043ec86800aa15b8f9ff5.png" alt="Cover for The Ills of Modern Man" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-05-22</td>
       <td>Despised Icon</td>
@@ -174,13 +176,14 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 79</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/593a3f47b1594d4ba0063e60136752af.png" alt="Cover for The New Reign" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10-02</td>
       <td>Born of Osiris</td>
@@ -192,8 +195,8 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 81</li>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 92</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 8</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -259,6 +262,7 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbc1f60f04c82c4c81afbf6d7a518bbc.png" alt="Cover for Death Is Swallowed In Victory" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-07-22</td>
       <td>A Breath Before Surfacing</td>
@@ -276,7 +280,7 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/8rJPgdqmTjgXbc6RLqDLZ7KBE53ytaYiEbOqjthEy0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDIw/NDctMTI5NzE5MTYw/Ni5qcGVn.jpeg" alt="Cover for The 8th Plague" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70b44bab4edb7da0f4cb79be185cff4f.png" alt="Cover for The 8th Plague" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-08-18</td>
       <td>Hybrid</td>
@@ -314,6 +318,7 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e9a1100662b994352d0a53f9133e133.png" alt="Cover for Mind Control" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-11-22</td>
       <td>Burning the Masses</td>
@@ -350,6 +355,7 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
     <tr>
       <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7756c7ddc8fa706275f5ce9f08c2890f.png" alt="Cover for Here Comes The Kraken" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-02-28</td>
       <td>Here Comes the Kraken</td>
@@ -361,7 +367,7 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 9</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -388,7 +394,7 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/urnjXcyapQ6DBxHPUKReTd2uZd3bSRbz_4LjnCRvDuQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTE2/NTYtMTQ1OTg5NDgy/MS01MTY4LmpwZWc.jpeg" alt="Cover for Guardians" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1e783955987c3092beecbb0bb3541f2.png" alt="Cover for Guardians" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-06-01</td>
       <td>The Crimson Armada</td>
@@ -400,13 +406,14 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 28</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>22</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/750aa2bc6e7a4f4c995dcef87b407314.png" alt="Cover for Fetish" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-06-16</td>
       <td>The Boy Will Drown</td>
@@ -414,17 +421,18 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/mathgrind" | relative_url }}">mathgrind</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e8daa81c4e74a3ba1b5751c2cef6dc5.png" alt="Cover for Day Of Mourning" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-07-13</td>
       <td>Despised Icon</td>
@@ -436,7 +444,7 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 68</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -534,13 +542,14 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 71</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>18</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6fb55b34493d131d3f38da2545267e56.png" alt="Cover for The Adversary" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-07-16</td>
       <td>Thy Art Is Murder</td>
@@ -554,6 +563,7 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -659,6 +669,7 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
     <tr>
       <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/00616fdd34994a12a6dc2a917eb4d02c.png" alt="Cover for This Is Where It Ends" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-07-26</td>
       <td>All Shall Perish</td>
@@ -670,7 +681,7 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 35</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -732,18 +743,19 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 1</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 7</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 9</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 9</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 69</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 90</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 92</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 92</li>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 93</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/165edc5bdcc24364a7faf62decbf1bb0.png" alt="Cover for Evolve" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06-19</td>
       <td>Chelsea Grin</td>
@@ -755,15 +767,15 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 32</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 65</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 35</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>46</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ab2aed8c5b20a330852debb1ce0295a.png" alt="Cover for Hate" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db0bc3cd944f0668af14044c433a715f.png" alt="Cover for Hate" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-19</td>
       <td>Thy Art Is Murder</td>
@@ -775,13 +787,14 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 75</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0ebb80b477548efc8fb759aa70ccb7e.png" alt="Cover for Symbiosis" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-23</td>
       <td>Abiotic</td>
@@ -837,6 +850,7 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
     <tr>
       <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d273d95691547798f0927fb4e8f6067d.png" alt="Cover for The Palpable Leprosy of Pollution" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12-12</td>
       <td>Infant Annihilator</td>
@@ -870,7 +884,7 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 16</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -944,7 +958,7 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 22</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -972,6 +986,7 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
     <tr>
       <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/23047151314d4137c14da14aeda69ff4.png" alt="Cover for No Hope No Morality" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-04-29</td>
       <td>Martyr Defiled</td>
@@ -1045,7 +1060,7 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 11</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1088,7 +1103,7 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
     <tr>
       <td>21</td>
       <td>
-          <img src="https://i.discogs.com/pMZUqn9FLZOk9QY03E4CBhhh7g8YiOINbuF8KXkYcQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MTcx/NDMtMTQ4NTI1NDU5/NS0zNTE0LnBuZw.jpeg" alt="Cover for The Son of Misery" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/811443d952c0db2ac80b37c625439a15.png" alt="Cover for The Son of Misery" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Thy Art Is Murder</td>
@@ -1107,16 +1122,16 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 3</li>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 82</li>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 96</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 6</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 7</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/vUKxbVRG5fLB2jXH8y5SCaN9_DVWUZgcMd9sgX4BCyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjk3/NDItMTQzNjI1ODU4/OC04MzAwLmpwZWc.jpeg" alt="Cover for Holy War" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/29c2512cb150fd19f2a9203ab88f5fc0.png" alt="Cover for Holy War" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Thy Art Is Murder</td>
@@ -1128,14 +1143,14 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 51</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/2r6FleawQFL9KsbMXzcSgZYFVJCgYIPvVWmsSOvOMfw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTk3/MTYwLTE1NzMyMTc3/NDMtMjQwNC5qcGVn.jpeg" alt="Cover for Light Bearer" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e8f2e174fd67b63513cf7bd7caa842b.png" alt="Cover for Light Bearer" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Thy Art Is Murder</td>
@@ -1155,8 +1170,8 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 33</li>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 56</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 46</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1182,7 +1197,7 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/kv9dLm4U0Mz7wAvg6t96MrVN2cBT_7cY24bgrTREV8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDAx/NTAtMTQ0NDg3ODAx/Ny05MTA2LmpwZWc.jpeg" alt="Cover for Dissentient" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4356eceed6d3ab064a96a2e0fce4804b.png" alt="Cover for Dissentient" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-02-25</td>
       <td>Angelmaker</td>
@@ -1195,8 +1210,8 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 23</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 28</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 73</li>
             <li> <a href="{{ "/tags/blackened-deathcore" | relative_url }}">blackened deathcore</a> # 80</li>
         </ul>
       </td>
@@ -1242,18 +1257,18 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 6</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 9</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 12</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 12</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 24</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 75</li>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 77</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 89</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/Xe-F-WIUkcawBuaQyLg4HzJ4-wvd7gFGIqIekgT8noU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTgy/ODkzLTE1MTg5MDM3/MTUtMzgzNy5qcGVn.jpeg" alt="Cover for Rotten" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3964b33b1f15f8b943357e20e9f0040e.png" alt="Cover for Rotten" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-03-17</td>
       <td>Aeons of Corruption</td>
@@ -1312,7 +1327,7 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/VuCo2W-VcJc6-I8s6qnholSxguz4yD-2ucd7szMB9yo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDY3/MDk0LTE1OTIwMDE0/NjctOTc3NC5qcGVn.jpeg" alt="Cover for But Does It Djent" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3f0a3510d2f00597647ecfad4148106.png" alt="Cover for But Does It Djent" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-02-21</td>
       <td>Jared Dines</td>
@@ -1347,7 +1362,7 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 96</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1391,7 +1406,7 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
     <tr>
       <td>3</td>
       <td>
-          <img src="https://i.discogs.com/pMZUqn9FLZOk9QY03E4CBhhh7g8YiOINbuF8KXkYcQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MTcx/NDMtMTQ4NTI1NDU5/NS0zNTE0LnBuZw.jpeg" alt="Cover for No Absolution" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da52f37ad41dfe6ba245e1dd3f5d932d.png" alt="Cover for No Absolution" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-08-18</td>
       <td>Thy Art Is Murder</td>
@@ -1410,10 +1425,11 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 31</li>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 63</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 88</li>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 95</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 5</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 13</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 65</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 66</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1494,8 +1510,9 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 46</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 51</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 92</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1591,7 +1608,7 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 97</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1652,7 +1669,7 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/i7q1IVXufthFjeLjLpMXtT1zM6YSNa5ViW2eSrHFK7o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjQw/MDQ5LTE1NTQ4OTcw/MzktNjM0MC5qcGVn.jpeg" alt="Cover for Doublespeak" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/716983e980d658d2126cf16b7aeb9452.png" alt="Cover for Doublespeak" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-05-04</td>
       <td>Veil of Maya</td>
@@ -1670,8 +1687,8 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 17</li>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 69</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 24</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1710,7 +1727,7 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 19</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1733,9 +1750,9 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 59</li>
+            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 21</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 43</li>
             <li> <a href="{{ "/tags/blackened-deathcore" | relative_url }}">blackened deathcore</a> # 73</li>
-            <li> <a href="{{ "/tags/symphonic-deathcore" | relative_url }}">symphonic deathcore</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1761,7 +1778,7 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/7v7dka0KPiQWykeQNd-OGJErED1UiiLZi0WXT74wvoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzg0/NzE5LTE2NTEzMTg3/MjEtMzU3Ni5qcGVn.jpeg" alt="Cover for Välde" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6294460020455d0a33030386f922f80.png" alt="Cover for Välde" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-02-12</td>
       <td>Humanity&#39;s Last Breath</td>
@@ -1791,7 +1808,7 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 27</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1945,6 +1962,7 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/extreme-progressive-metal" | relative_url }}">extreme progressive metal</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1971,7 +1989,7 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/KTpo9gu2iR18Tamx5fHdCN3Iazb3eM-EOCwcGjzlx1c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzQ5/NDctMTQzMjE3MzEx/MS0zOTQ2LmpwZWc.jpeg" alt="Cover for Overthrow" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/daaf519056d87d97fef294db3e0558a5.png" alt="Cover for Overthrow" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-05-12</td>
       <td>Veil of Maya</td>
@@ -1989,9 +2007,9 @@ Technical deathcore combines the brutal breakdowns and aggressive vocals of deat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 29</li>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 48</li>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 84</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 16</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 38</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 55</li>
         </ul>
       </td>
     </tr>

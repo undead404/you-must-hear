@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T22:49:59.922Z
+date: 2025-12-04T04:24:51.351Z
 permalink: tags/spiritual-jazz
 title: spiritual jazz
 ---
 
 ## spiritual jazz
 
-Last updated: <time datetime="2025-11-19T22:49:59.922Z">Thu Nov 20 2025 00:49:59 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:24:51.351Z">Thu Dec 04 2025 06:24:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,8 +43,9 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 45</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 27</li>
             <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 48</li>
+            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -63,7 +64,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 89</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -82,10 +83,10 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 80</li>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 83</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 94</li>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 99</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 2</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 18</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 31</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -141,7 +142,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 81</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -197,7 +198,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 29</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -216,8 +217,8 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 21</li>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 72</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 29</li>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -314,10 +315,10 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 3</li>
             <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 29</li>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 61</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 40</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 83</li>
-            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -336,7 +337,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 65</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -355,9 +356,8 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 39</li>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 61</li>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 79</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 22</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -374,7 +374,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 77</li>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -503,7 +503,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 73</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -584,10 +584,10 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 17</li>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 43</li>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 53</li>
-            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 86</li>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 15</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 48</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 57</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -627,8 +627,8 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 22</li>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 31</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 70</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -684,7 +684,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 95</li>
+            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -723,16 +723,16 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 12</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 10</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 18</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 19</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 23</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 27</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 31</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 48</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 85</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 70</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 73</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 85</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 86</li>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 90</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -769,7 +769,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 54</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -976,7 +976,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 70</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1019,8 +1019,8 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       <td>
         <ul>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 12</li>
-            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 18</li>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 35</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 66</li>
+            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1119,7 +1119,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 35</li>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1162,7 +1162,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 69</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1281,9 +1281,9 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 8</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 13</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 87</li>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 88</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1343,8 +1343,8 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       <td>
         <ul>
             <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 62</li>
-            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 79</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 90</li>
+            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 81</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1433,7 +1433,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/austria" | relative_url }}">austria</a> # 32</li>
+            <li> <a href="{{ "/tags/austria" | relative_url }}">austria</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1454,8 +1454,9 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 80</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 20</li>
             <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 92</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1554,9 +1555,9 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 37</li>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 43</li>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 58</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 41</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 43</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1578,9 +1579,9 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 10</li>
-            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 93</li>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 95</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 6</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 21</li>
+            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1599,7 +1600,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 42</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1657,7 +1658,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 72</li>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1750,7 +1751,7 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 31</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1787,9 +1788,9 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 10</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 39</li>
-            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 84</li>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 17</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 62</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1871,10 +1872,10 @@ Spiritual jazz emerged in the 1960s as a transcendent fusion of modal jazz, Afri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 63</li>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 2</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 14</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 37</li>
             <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 71</li>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 87</li>
-            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 99</li>
         </ul>
       </td>
     </tr>

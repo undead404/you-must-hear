@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-21T00:04:55.886Z
+date: 2025-12-04T04:21:55.123Z
 permalink: tags/ambient-black-metal
 title: ambient black metal
 ---
 
 ## ambient black metal
 
-Last updated: <time datetime="2025-10-21T00:04:55.886Z">Tue Oct 21 2025 03:04:55 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T04:21:55.123Z">Thu Dec 04 2025 06:21:55 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
   </thead>
   <tbody>
     <tr>
-      <td>83</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5d7b2155d424465c44ef3e0a42f1949.png" alt="Cover for Det Som Engang Var" style="max-width:120px; height:auto;" />
       </td>
@@ -43,15 +43,15 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 8</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 18</li>
             <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 27</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 75</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 80</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/57fb37f537274482c4f064fbd5d7a510.png" alt="Cover for Hvis lyset tar oss" style="max-width:120px; height:auto;" />
       </td>
@@ -66,15 +66,15 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 2</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 5</li>
             <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 64</li>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 83</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 96</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/DmulwfFWAyijuTdSMxa4koL3NIL2EAugWQgZk2DwFRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTIx/MjYtMTUyMTcxODY5/OS03OTE3LmpwZWc.jpeg" alt="Cover for Filosofem (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -92,9 +92,9 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>11</td>
       <td>
-          <img src="https://i.discogs.com/VXG-mvqzq2U9M_DZiocnlGEw1W7yzYfxRHwVdoikJnw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTQx/OS0xNDQyOTA4MDk5/LTI0MTIuanBlZw.jpeg" alt="Cover for Filosofem" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/31443e9d9fd94db7cdcd35e897954c30.png" alt="Cover for Filosofem" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-01-31</td>
       <td>Burzum</td>
@@ -106,14 +106,15 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 90</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 98</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 3</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a38da3ad1024d57a08b871faa73936d.png" alt="Cover for Kostogher" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-05-19</td>
       <td>Arckanum</td>
@@ -130,7 +131,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/VEUIGkLJa-CVy_Lhh---4VikocouL7HHUGDUyP2o4qw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTc0/OC0xMTU4MTc1MTc2/LmpwZWc.jpeg" alt="Cover for Orke" style="max-width:120px; height:auto;" />
       </td>
@@ -153,7 +154,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
       </td>
       <td>1998-05</td>
@@ -170,9 +171,9 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>15</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b4dc20ff4b328c4ce3cae597ea35787.png" alt="Cover for Paysage d&#39;Hiver" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/896c2b083a874460901490c5ca03bb67.png" alt="Cover for Paysage d&#39;Hiver" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Paysage d&#39;Hiver</td>
@@ -185,12 +186,12 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 82</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/FDEI7AmV85GH8xS5xgkgOYkUshTmWrQpNYdwoO71yww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDkw/NzQtMTMzNjg1NTQ0/Mi05MTI3LmpwZWc.jpeg" alt="Cover for Paysage D&#39;Hiver &#x2F; Lunar Aurora" style="max-width:120px; height:auto;" />
       </td>
@@ -210,9 +211,9 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>85</td>
       <td>
-          <img src="https://i.discogs.com/Z8cbxe183TXpRVyaDFiui32oqXGPbcC03_K_4siz2QA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODI5/ODAtMTYwMDg2OTEy/OC03NDA4Lm1wbw.jpeg" alt="Cover for Innocence from Hell" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/28ec5d3fa584499280846fd012ab9076.png" alt="Cover for Innocence from Hell" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-04-11</td>
       <td>Viking Crown</td>
@@ -232,7 +233,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/rgSP-Nd8mQJuGon9CfqRADTaicI5q-xE-MgFn-WpJbs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Mjc1/NjMtMTM3OTY3OTA1/Ny04MTc2LmpwZWc.jpeg" alt="Cover for Lurker of Chalice" style="max-width:120px; height:auto;" />
       </td>
@@ -246,13 +247,14 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 95</li>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1772c5ae7ff6287b2e1eb204069d5aaf.png" alt="Cover for Dark Space -I" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-05-30</td>
       <td>Darkspace</td>
@@ -264,13 +266,13 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 13</li>
-            <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 56</li>
+            <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 58</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>99</td>
       <td>
       </td>
       <td>2002-07-11</td>
@@ -289,7 +291,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>14</td>
       <td>
       </td>
       <td>2003-10-13</td>
@@ -304,13 +306,13 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 60</li>
-            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 60</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 37</li>
+            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>76</td>
       <td>
       </td>
       <td>2004-06</td>
@@ -328,7 +330,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>17</td>
       <td>
       </td>
       <td>2004-09-14</td>
@@ -346,7 +348,29 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>2</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/873b160afb6e58ac03f56a70f677230f.png" alt="Cover for Panopticon" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2004-10-19</td>
+      <td>Isis</td>
+      <td>Panopticon</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 14</li>
+            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 32</li>
+            <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 44</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
       <td>
           <img src="https://i.discogs.com/e7QFWbl-Kp0nh9j1eV_Gi0kwniIpGwbzFr6l0SQDsdI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTk1/NjAtMTM1ODMzODIw/OS0xNTA2LmpwZWc.jpeg" alt="Cover for Ataraxis" style="max-width:120px; height:auto;" />
       </td>
@@ -367,7 +391,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/xVOQSLmXnrpBsjL9DUdgq6NeiZh0qv4Wy-tdSFlTrik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDY3/MTYtMTY3ODczMzkx/My0yNDQ4LmpwZWc.jpeg" alt="Cover for Promo 2005" style="max-width:120px; height:auto;" />
       </td>
@@ -387,8 +411,9 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbf0cdebf9a7a5e5bb7f2bad9ed5dbf9.png" alt="Cover for Dark Space II" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-11-19</td>
       <td>Darkspace</td>
@@ -403,13 +428,13 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 51</li>
-            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 54</li>
+            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 46</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
       </td>
       <td>2006</td>
@@ -422,14 +447,14 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 5</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 39</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 41</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 60</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/-_3cQDjVDIx7LX9u-Yc_GVPWnlOJu2j9rpDos6N8Kao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzQ2/MjctMTM3MDYxOTg0/NS0zMDQ0LmpwZWc.jpeg" alt="Cover for Verfallen &amp; Verendet" style="max-width:120px; height:auto;" />
       </td>
@@ -447,7 +472,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/914bcd01a5191f873031011b3f779b0f.png" alt="Cover for The Stars Are Dead Now" style="max-width:120px; height:auto;" />
       </td>
@@ -467,7 +492,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/z4_ClFXuT0JlcabzY014ugfXG-4D9l0H8mTRUwpCh-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTAy/NTktMTQzNzE2MTcz/OC0zOTcyLmpwZWc.jpeg" alt="Cover for Thestarsaredeadnow" style="max-width:120px; height:auto;" />
       </td>
@@ -485,7 +510,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f71fdd193ebc41dcb23ca7a1a9987dcb.png" alt="Cover for Diadem Of 12 Stars" style="max-width:120px; height:auto;" />
       </td>
@@ -500,13 +525,13 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 51</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 92</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 8</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
       </td>
       <td>2006-10-23</td>
@@ -520,13 +545,13 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 15</li>
-            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 53</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 18</li>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
       </td>
       <td>2006-12</td>
@@ -544,7 +569,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/nh18inyl6r1BWAiOPvhBt_H9hqfDN8fZsLp_6PzwMbs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4Nzc3/MjUtMTQwNTE4NTQ2/NS02MzU2LmpwZWc.jpeg" alt="Cover for Dark Sorrows Of My Microcosm (demo)" style="max-width:120px; height:auto;" />
       </td>
@@ -563,7 +588,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>69</td>
       <td>
       </td>
       <td>2007-01-28</td>
@@ -581,9 +606,9 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>64</td>
       <td>
-          <img src="https://i.discogs.com/m8XgVoNBWnHs3fj6E_miTYnIftV1bAu5PBb0UVbQbAE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NDI1/OC0xNDQ0NTEwOTEx/LTMxOTcuanBlZw.jpeg" alt="Cover for Waters of Weeping" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dcf2bf26ad8e4020935df7a83f0d4bcf.png" alt="Cover for Waters of Weeping" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-04-16</td>
       <td>Black Funeral</td>
@@ -606,7 +631,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/483fbf7842e34ef39c20fa432f53b603.png" alt="Cover for Two Hunters" style="max-width:120px; height:auto;" />
       </td>
@@ -621,14 +646,14 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 6</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 22</li>
             <li> <a href="{{ "/tags/rabm" | relative_url }}">rabm</a> # 26</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 75</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>93</td>
       <td>
       </td>
       <td>2007-09-28</td>
@@ -646,8 +671,9 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6721eea03040afded7d6971f62d4a2a8.png" alt="Cover for Stigma Diabolicum" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10-30</td>
       <td>Thorns</td>
@@ -667,7 +693,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
       </td>
       <td>2007-12-24</td>
@@ -685,7 +711,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>57</td>
       <td>
       </td>
       <td>2008</td>
@@ -704,7 +730,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>59</td>
       <td>
       </td>
       <td>2008-01</td>
@@ -722,7 +748,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>94</td>
       <td>
       </td>
       <td>2008-02-05</td>
@@ -742,8 +768,9 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fde6c8d9661abd6cf416b989b1e8d576.png" alt="Cover for Melancholie²" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-03-24</td>
       <td>ColdWorld</td>
@@ -755,12 +782,12 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 73</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/m61I3zYj5pDUhzJXKLV6G5HoOWY-dd8KIVBWTeZmsY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzk1/MjgtMTY4MDc5MTg0/NC0xNzY3LmpwZWc.jpeg" alt="Cover for Smrad" style="max-width:120px; height:auto;" />
       </td>
@@ -782,7 +809,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>61</td>
       <td>
       </td>
       <td>2008-05-30</td>
@@ -796,21 +823,21 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 13</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 47</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 51</li>
+            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/131aef76d4854dc2874da086b69f556b.png" alt="Cover for Panopticon" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-05</td>
       <td>Panopticon</td>
       <td>Panopticon</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a></li>
         </ul>
       </td>
       <td>
@@ -819,8 +846,9 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ece2c00053b646fc80875a2a24e39b47.png" alt="Cover for Nji. Njiijn. Njiiijn." style="max-width:120px; height:auto;" />
       </td>
       <td>2008-06</td>
       <td>Njiqahdda</td>
@@ -838,7 +866,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>18</td>
       <td>
           <img src="https://i.discogs.com/RTJQi_JpJiFl7YioslyOuNYlOFO0g4gmWr9pKL5fP4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjk5/NzAtMTI2NTY1NTYz/Ny5qcGVn.jpeg" alt="Cover for Serenity" style="max-width:120px; height:auto;" />
       </td>
@@ -856,7 +884,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/hFGe12mivwRyh-OLKPNWiBhRPdu36TbeQ2TSoOBWX1U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDgz/ODgtMTMzNzA5MDY2/My0xNTMwLmpwZWc.jpeg" alt="Cover for Eerie Sceneries" style="max-width:120px; height:auto;" />
       </td>
@@ -876,7 +904,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/RTJQi_JpJiFl7YioslyOuNYlOFO0g4gmWr9pKL5fP4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjk5/NzAtMTI2NTY1NTYz/Ny5qcGVn.jpeg" alt="Cover for Serenity (EP)" style="max-width:120px; height:auto;" />
       </td>
@@ -895,9 +923,9 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>78</td>
       <td>
-          <img src="https://i.discogs.com/AOnvf2uIGt0JeQzmJcODvHmZZLpMNAdaOxbHVWHb2EE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODY5/NzctMTI4ODgwNTQz/My5qcGVn.jpeg" alt="Cover for Fran Marder (2009 Reissue)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b498405c232d425491950e4d88f8774c.png" alt="Cover for Fran Marder (2009 Reissue)" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Arckanum</td>
@@ -918,13 +946,14 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
         <ul>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 1</li>
             <li> <a href="{{ "/tags/swedish-black-metal" | relative_url }}">swedish black metal</a> # 54</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 57</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/26d81d53cce14fb7ad1b668aeb123347.png" alt="Cover for IV" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03-31</td>
       <td>Borgne</td>
@@ -943,7 +972,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
       </td>
       <td>2009-04-03</td>
@@ -960,8 +989,9 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/37a27481cc70f1b6f1fdd4f74341e682.png" alt="Cover for One Year Of Cold" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-24</td>
       <td>All The Cold</td>
@@ -978,7 +1008,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>66</td>
       <td>
       </td>
       <td>2009-05-02</td>
@@ -995,8 +1025,9 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/29d700d6fb3247db9cd5dfc7b656e089.png" alt="Cover for Night Spirit" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-24</td>
       <td>Lustre</td>
@@ -1012,8 +1043,9 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec93cab778c10d1af26113017b9e8977.png" alt="Cover for Skullreader" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-06-09</td>
       <td>Sun of the Blind</td>
@@ -1025,12 +1057,12 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 16</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>70</td>
       <td>
           <img src="https://i.discogs.com/iHKNwz-m4t_JshSUN4KOL6yFVfEI8BjKA6L7ACe6X5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzAw/MzItMTI2NTY1Njk4/MC5qcGVn.jpeg" alt="Cover for Neath the black veil (Demo)" style="max-width:120px; height:auto;" />
       </td>
@@ -1050,7 +1082,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/S7T2v2O-CqUeq8SH3GCiRKdvZ3QHNqWcsTsF1YSvGmM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTAy/NTUtMTI1ODMzMjM4/My5qcGVn.jpeg" alt="Cover for Within the Vacuum of Infinity..." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/deab6ebfc73c4b43b18e7b0d197c55b6.png" alt="Cover for Within the Vacuum of Infinity..." style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-12</td>
       <td>Arizmenda</td>
@@ -1076,7 +1108,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>53</td>
       <td>
       </td>
       <td>2010-01-05</td>
@@ -1096,7 +1128,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>55</td>
       <td>
       </td>
       <td>2010-03-08</td>
@@ -1115,8 +1147,9 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f19f3789ac6d2f5a9b0db60d74311cd.png" alt="Cover for Portal of Sorrow" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03</td>
       <td>Xasthur</td>
@@ -1132,8 +1165,9 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>12</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/06270a8b31de49bbb01b89cad9d4be08.png" alt="Cover for A Collapse of Faith" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-21</td>
       <td>October Falls</td>
@@ -1147,12 +1181,12 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 5</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>10</td>
       <td>
       </td>
       <td>2010-09-20</td>
@@ -1169,8 +1203,9 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e2e4e9975c346b7a9657200991f32c2.png" alt="Cover for Przekrólewszczenie" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-01-01</td>
       <td>Duszę Wypuścił</td>
@@ -1187,7 +1222,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>54</td>
       <td>
       </td>
       <td>2011-02-24</td>
@@ -1205,7 +1240,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>22</td>
       <td>
       </td>
       <td>2011-03-26</td>
@@ -1224,8 +1259,9 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>4</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f9a6a43584c20a9a297c7773e385659.png" alt="Cover for Ritual Music For The True Clochard" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-15</td>
       <td>Urfaust</td>
@@ -1241,13 +1277,13 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 41</li>
-            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 1</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
       </td>
       <td>2012-04-22</td>
@@ -1264,7 +1300,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>56</td>
       <td>
       </td>
       <td>2012-05-20</td>
@@ -1281,7 +1317,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>58</td>
       <td>
       </td>
       <td>2012-06-12</td>
@@ -1299,7 +1335,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>9</td>
       <td>
       </td>
       <td>2012-08-14</td>
@@ -1316,7 +1352,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
       </td>
       <td>2012-09-11</td>
@@ -1335,7 +1371,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>67</td>
       <td>
       </td>
       <td>2012-11-30</td>
@@ -1352,9 +1388,9 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>91</td>
       <td>
-          <img src="https://i.discogs.com/UAx9nmQbacl9e9I-kMuukt8ptA13lchwnIjSlkYsZvs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMDk1/NDEtMTM2MzI0OTIx/NS0zMTgyLmpwZWc.jpeg" alt="Cover for The Nine Gates" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/23d4e2b676f1253fb8b1e3a143f9a2e8.png" alt="Cover for The Nine Gates" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-02-16</td>
       <td>Moon</td>
@@ -1373,8 +1409,9 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>5</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5c6f645bee2480b971acc0c5bef30a4.png" alt="Cover for Das Tor" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-02-22</td>
       <td>Paysage d&#39;Hiver</td>
@@ -1387,13 +1424,14 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 34</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ce7b1a7eaa38679fe9a0b8eed2bf6e9.png" alt="Cover for Sky Swallower" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-03</td>
       <td>Vattnet Viskar</td>
@@ -1410,12 +1448,12 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 33</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/HdD8QfnGMLuRWZ76Q1N-ohERUy1rbFGMHRwnIpiqoOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjY1/MTgtMTM3NDg0NTM1/Ni0zOTA3LmpwZWc.jpeg" alt="Cover for Converge, Rivers Of Hell" style="max-width:120px; height:auto;" />
       </td>
@@ -1432,8 +1470,9 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/266958c5bc414711c7394ddfea9a8c21.png" alt="Cover for All Song Ceased" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-01-20</td>
       <td>Ered Wethrin</td>
@@ -1449,8 +1488,9 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/78317af4460b436193c31dbd3aa79b57.png" alt="Cover for III" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-05-02</td>
       <td>Spectral Lore</td>
@@ -1467,7 +1507,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/gD4j3cZ4NFMeAovWvOnZDOZGsLdGR3HCXuZKXIb2f7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDE2/ODUtMTQwOTE5MDk4/Mi04MDE1LmpwZWc.jpeg" alt="Cover for De Svarta Riterna" style="max-width:120px; height:auto;" />
       </td>
@@ -1486,7 +1526,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
       </td>
       <td>2014-09-06</td>
@@ -1499,12 +1539,12 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 48</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>80</td>
       <td>
       </td>
       <td>2014-09-29</td>
@@ -1521,26 +1561,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-          <img src="https://i.discogs.com/008ojtMzyvRGqLchPfWZPf2M7S1DvEkOMKLl9s2-LQo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MzI5/NjUtMTQyNzU3NTM0/MS03NjAwLmpwZWc.jpeg" alt="Cover for Winterfall" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015</td>
-      <td>Severoth</td>
-      <td>Winterfall</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>14</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/OgUmhs0NZiVluqA3m1qGz0luCCj7u62Av-q4DAKJ3S8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5Nzky/MTktMTQzMTMwMDk2/NS04NzU2LmpwZWc.jpeg" alt="Cover for The Stygian Black Beyond" style="max-width:120px; height:auto;" />
       </td>
@@ -1560,9 +1581,9 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
-          <img src="https://i.discogs.com/a8CjFnC6ffbbMVGOHGdM-6hcNmLmKffDmLgc84d8NTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5Mjg0/MTQtMTQ2Nzc2MTE1/Mi00Mzc4LmpwZWc.jpeg" alt="Cover for The Dreaming I" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cbc9d6274c9fa23b1ceba2526325d619.png" alt="Cover for The Dreaming I" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-04-20</td>
       <td>Akhlys</td>
@@ -1578,7 +1599,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/2UvhGld9xhlWNj518uWK8ZHm64r0YblLZoPO-51klPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMzI3/MTAtMTUyNDk4NTY3/OS04Njk2LmpwZWc.jpeg" alt="Cover for The Darkness of December" style="max-width:120px; height:auto;" />
       </td>
@@ -1601,7 +1622,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/5NpkSXPH8b6Ojdcp-ZUifRJy58QgTTNMDTBiMcse_rk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNDUy/ODctMTQ1Nzg2OTg0/OC0zNjIyLmpwZWc.jpeg" alt="Cover for Pillars" style="max-width:120px; height:auto;" />
       </td>
@@ -1619,7 +1640,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/HgltXTBmbH8GYOYqd6tzS-LgOsSTwo_rWp8NnKKJDQg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NDAx/MjUtMTQ4MjM1NjQ1/Ni01NDAyLmpwZWc.jpeg" alt="Cover for The Howling Mountains" style="max-width:120px; height:auto;" />
       </td>
@@ -1642,7 +1663,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://i.discogs.com/UmbMBs4Di_ANNYLoS2hl1pMy0ZXPWRid2Bcp7r2UAXs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mzk4/OTQ2LTE2MjU1Nzk2/NDQtNDk5My5qcGVn.jpeg" alt="Cover for Where Life Should Be" style="max-width:120px; height:auto;" />
       </td>
@@ -1659,12 +1680,12 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 8</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/PQLhBKIrMyNz6OzUL4jYXesV2RZgUPnLKorwaPR8X80/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDM0/OTU5LTE1MTYyNzc3/OTEtNTI2My5qcGVn.jpeg" alt="Cover for none" style="max-width:120px; height:auto;" />
       </td>
@@ -1685,9 +1706,9 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>16</td>
       <td>
-          <img src="https://i.discogs.com/DSb3xlYL7RdcE4xwWQlRhsMkzFV0VgpUizthaNjOal0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjI0/MDc0LTE1Njc2NjA0/NzUtNTkxMi5qcGVn.jpeg" alt="Cover for A Dark Forgotten Past" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9bca28f36e87aec7b27b13ba43118bd0.png" alt="Cover for A Dark Forgotten Past" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-12-01</td>
       <td>Eldamar</td>
@@ -1709,7 +1730,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/Tw6Z81asSPUejLPsYU3IOsHauHQ_Z481xiQb7GZVUcU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODQ4/NDI4LTE1MjM0MDk0/NTYtNDQ1Ni5qcGVn.jpeg" alt="Cover for Bonebranches" style="max-width:120px; height:auto;" />
       </td>
@@ -1731,9 +1752,9 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
-          <img src="https://i.discogs.com/rUXf1HzIRw25YvlCe_whvnt_Vhq6kfOxbk7BzeCAGz4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTc5/MjIxLTE1MTg4NTQ4/NDctNDE2OS5qcGVn.jpeg" alt="Cover for The First Snow" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8dcc8e61964945fceb112564ba35e452.png" alt="Cover for The First Snow" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-02-16</td>
       <td>Lustre</td>
@@ -1749,16 +1770,16 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 13</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 81</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 17</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 77</li>
             <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>68</td>
       <td>
-          <img src="https://i.discogs.com/9PUFMsQ5xss2PbrcAx2syBVOfXR8dV0kLdAqoyi2FOo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODM2/MzA5LTE2NzcxMjA0/NjUtMTAyOC5wbmc.jpeg" alt="Cover for Echoes From η Carinae" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/840009166e3fd4ede548dbf35cbc9763.png" alt="Cover for Echoes From η Carinae" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-04-08</td>
       <td>Alrakis</td>
@@ -1774,7 +1795,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>92</td>
       <td>
           <img src="https://i.discogs.com/d5qATZGFXUMy0niam1eHS-p-YPMzbcEY1RMfc-o3fcY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODQ1/MTY3LTE1MjMzNjEx/NzQtNTY0MC5naWY.jpeg" alt="Cover for Im Ra Distare Summum Soveris Seris Vas innoble" style="max-width:120px; height:auto;" />
       </td>
@@ -1794,9 +1815,9 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
-          <img src="https://i.discogs.com/Nqa7TPho9HCOLR2o_JTExyo4TLXcy8UPO5Zw4-XBsNQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODA5/MTM2LTE1MjI3NTM4/NzktMzk0OC5qcGVn.jpeg" alt="Cover for The Density Parameter" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c5f9cd04919adb28abe2b0f5a530e93.png" alt="Cover for The Density Parameter" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-06-18</td>
       <td>Mesarthim</td>
@@ -1813,13 +1834,13 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 27</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 28</li>
             <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>21</td>
       <td>
           <img src="https://i.discogs.com/uUH2TR3HOtiM2SlF6ccsURD9oOjV4fOs9_xlKKK4aQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDM0/MTA3LTE2ODM3MjI0/NzUtNzQ5My5qcGVn.jpeg" alt="Cover for They Awoke the Scent of Winter" style="max-width:120px; height:auto;" />
       </td>
@@ -1837,7 +1858,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/aQMyF4qyl1DSEl3WoNyqHDDM05afrs12zyXbTqXpE-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDE2/MjE1LTE2MDIxMDA3/MzUtMTExNy5qcGVn.jpeg" alt="Cover for Sorrowcrown" style="max-width:120px; height:auto;" />
       </td>
@@ -1854,12 +1875,12 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a> # 35</li>
+            <li> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/pZUX5f8ejhdwZ9SWDAAP796uyibUoUpXMj6vtkjHqBY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQ0/Nzc0LTE2MDU4OTUz/ODItNDkyMS5qcGVn.jpeg" alt="Cover for Im Traum" style="max-width:120px; height:auto;" />
       </td>
@@ -1877,7 +1898,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/WGOHbe2BpGjAKFoLmL8ZrOWf3SDbIwsg6BvrwoF55CQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODc0/NDEtMTMzOTIyNTUx/NS0xNzY2LmpwZWc.jpeg" alt="Cover for Memoria Vetusta II - Dialogue with the Stars" style="max-width:120px; height:auto;" />
       </td>
@@ -1898,8 +1919,9 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/466fc02fe5df0ee79afdc58c17e1798a.png" alt="Cover for Mitrealität" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-05-07</td>
       <td>Jute Gyte</td>
@@ -1920,14 +1942,14 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 5</li>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 25</li>
             <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 49</li>
-            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 76</li>
-            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/numupyWs7OU6CZfSjYrTAegwzkb5csAtnESuJQ9maEo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDk5/NDA3LTE2NTQ2NzY5/NzktMTM2NC5qcGVn.jpeg" alt="Cover for Phantom" style="max-width:120px; height:auto;" />
       </td>
@@ -1945,7 +1967,7 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/FLrtNqd0sqdJ1kVCmVjjdDKpjkHar-ixsgZ8iIQeOxY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzUw/NDY0LTE3MDgzNDAz/NjItODMwMy5qcGVn.jpeg" alt="Cover for Dark Space -II" style="max-width:120px; height:auto;" />
       </td>
@@ -1963,13 +1985,13 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>60</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8ddaaa0f41e120091bf420a1387ce2d.png" alt="Cover for Lethargy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a54f9a7647da1a46659558f9ec225ea.png" alt="Cover for Wind" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>ENTARDECER</td>
-      <td>Lethargy</td>
+      <td>Wind</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a></li>
@@ -1982,13 +2004,13 @@ Ambient black metal merges the raw aggression and tremolo-picked guitars of blac
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>100</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a54f9a7647da1a46659558f9ec225ea.png" alt="Cover for Wind" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8ddaaa0f41e120091bf420a1387ce2d.png" alt="Cover for Lethargy" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>ENTARDECER</td>
-      <td>Wind</td>
+      <td>Lethargy</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a></li>

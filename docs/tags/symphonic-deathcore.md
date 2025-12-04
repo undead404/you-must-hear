@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-21T01:10:10.741Z
+date: 2025-12-04T04:27:12.816Z
 permalink: tags/symphonic-deathcore
 title: symphonic deathcore
 ---
 
 ## symphonic deathcore
 
-Last updated: <time datetime="2025-10-21T01:10:10.741Z">Tue Oct 21 2025 04:10:10 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T04:27:12.816Z">Thu Dec 04 2025 06:27:12 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -127,7 +127,7 @@ Symphonic deathcore merges the crushing brutality of deathcore—characterized b
     <tr>
       <td>17</td>
       <td>
-          <img src="https://i.discogs.com/CRtq5_-phaHpDxvmZTAxe8Nif2ekztDXq7wM3lJdZKI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODMz/ODc3LTE1NDI4NDIw/MTgtMjUzNy5qcGVn.jpeg" alt="Cover for Dragon Slayers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cdfb436d01f5b9462c15df36ada88a33.png" alt="Cover for Dragon Slayers" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Vanguard</td>
@@ -146,7 +146,7 @@ Symphonic deathcore merges the crushing brutality of deathcore—characterized b
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/0jAms3-PeUz981uizs3DITsgDFC7MkTYnSo_6_sjSAY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzIw/NDA4LTE1NTk3MTgw/NjYtNTUyNi5qcGVn.jpeg" alt="Cover for 27" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa460b19f488d1efe1516cdf8260c6e2.png" alt="Cover for 27" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Make Them Suffer</td>
@@ -191,6 +191,7 @@ Symphonic deathcore merges the crushing brutality of deathcore—characterized b
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd4e45dd3f63424cb6d8814a76259ff5.png" alt="Cover for Decimate The Weak" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-02-05</td>
       <td>Winds of Plague</td>
@@ -202,13 +203,14 @@ Symphonic deathcore merges the crushing brutality of deathcore—characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 73</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a92ae8305caaf40bec48394e9a01f02.png" alt="Cover for The Hurt the Divine the Light" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Betraying the Martyrs</td>
@@ -221,13 +223,14 @@ Symphonic deathcore merges the crushing brutality of deathcore—characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 15</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f341f6d61cc141d0900fcdd552ca0a08.png" alt="Cover for The Great Stone War" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-08-11</td>
       <td>Winds of Plague</td>
@@ -351,14 +354,13 @@ Symphonic deathcore merges the crushing brutality of deathcore—characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a> # 58</li>
+            <li> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/Xl1k9Agj-bYafc47s87k3x_-1_Zy8TKSJ8mE62IUB-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDMx/ODMtMTMyOTA0NDAw/OC5qcGVn.jpeg" alt="Cover for Birth chamber" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>A New Heaven Arise</td>
@@ -432,6 +434,7 @@ Symphonic deathcore merges the crushing brutality of deathcore—characterized b
     <tr>
       <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5861227577c4328b6ebf94fba5d06ac.png" alt="Cover for Against the World" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-04-19</td>
       <td>Winds of Plague</td>
@@ -449,6 +452,7 @@ Symphonic deathcore merges the crushing brutality of deathcore—characterized b
     <tr>
       <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3daf34c2acd4ce68e5d1e396ddea6b7.png" alt="Cover for Breathe In Life" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-09-19</td>
       <td>Betraying the Martyrs</td>
@@ -460,13 +464,14 @@ Symphonic deathcore merges the crushing brutality of deathcore—characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 13</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a81e1ccbfdfd4a95a46079a206d5b0ef.png" alt="Cover for Neverbloom" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-25</td>
       <td>Make Them Suffer</td>
@@ -480,6 +485,7 @@ Symphonic deathcore merges the crushing brutality of deathcore—characterized b
       <td>
         <ul>
             <li> <a href="{{ "/tags/blackened-deathcore" | relative_url }}">blackened deathcore</a> # 50</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -504,7 +510,7 @@ Symphonic deathcore merges the crushing brutality of deathcore—characterized b
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/xG2ldMpBVoU1bA1D6nVbcDg87B0zoitZDInvh_kF_cw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDcw/NjctMTQyMjk3NzUw/MS03ODA4LmpwZWc.jpeg" alt="Cover for Two Symphonies (Deluxe Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d0d48f2cc2d44d4c4ca552b96716e45.png" alt="Cover for Two Symphonies (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Dead Silence Hides My Cries</td>
@@ -526,7 +532,7 @@ Symphonic deathcore merges the crushing brutality of deathcore—characterized b
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/xG2ldMpBVoU1bA1D6nVbcDg87B0zoitZDInvh_kF_cw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDcw/NjctMTQyMjk3NzUw/MS03ODA4LmpwZWc.jpeg" alt="Cover for Take My Heart" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/60b89e292574c3961f62e5e55a1735aa.png" alt="Cover for Take My Heart" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Dead Silence Hides My Cries</td>
@@ -563,6 +569,7 @@ Symphonic deathcore merges the crushing brutality of deathcore—characterized b
     <tr>
       <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e96e29bd15b57f9bfd75fc529b1c5fc8.png" alt="Cover for Lore of Lies" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-02-04</td>
       <td>Lorelei</td>
@@ -580,7 +587,7 @@ Symphonic deathcore merges the crushing brutality of deathcore—characterized b
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/w6Yt2MHNibqqq71Fhl3WsQdrLAfH-Sr38tmwWVlB3lo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NTcz/NTktMTM5NDM3MTU1/NC03MDM4LmpwZWc.jpeg" alt="Cover for Never Alone" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/655da99abc15c61b1c8c043c042b0cde.png" alt="Cover for Never Alone" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-29</td>
       <td>Winds of Plague</td>
@@ -603,6 +610,7 @@ Symphonic deathcore merges the crushing brutality of deathcore—characterized b
     <tr>
       <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b10486d48b9a4df5a72b020e57446902.png" alt="Cover for Resistance" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-11-04</td>
       <td>Winds of Plague</td>
@@ -640,7 +648,7 @@ Symphonic deathcore merges the crushing brutality of deathcore—characterized b
     <tr>
       <td>7</td>
       <td>
-          <img src="https://i.discogs.com/N9G17j7I0BsT-qhguSJc1rVvueXoIOSbazBRtIjD24g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNjU2/NjctMTQ1NDQ3NTIx/OS03NzEyLnBuZw.jpeg" alt="Cover for Let Me In [Single]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b5c6583a6069ccf2b53ebc5abfa8262.png" alt="Cover for Let Me In [Single]" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-05-11</td>
       <td>Make Them Suffer</td>
@@ -695,7 +703,7 @@ Symphonic deathcore merges the crushing brutality of deathcore—characterized b
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/KbEnSEyvRwTVoCXjIAKchvvKEm_nigj-oCw-0s1TFPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwODA4/MzItMTQzMzI1NTk0/MC0zNzAzLmpwZWc.jpeg" alt="Cover for Old Souls" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/865661d2c69068b26dffb7b130b21c8a.png" alt="Cover for Old Souls" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-05-29</td>
       <td>Make Them Suffer</td>
@@ -830,7 +838,7 @@ Symphonic deathcore merges the crushing brutality of deathcore—characterized b
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/T05CsKW-ffGziPwXOZ1WZQ-WwDfipRI4qsb7hY_ZVZw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzIw/MzkyLTE1NTk3MTgw/MzEtODIzMi5qcGVn.jpeg" alt="Cover for Ether" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e581bce8303736d76e33c7962d58dc99.png" alt="Cover for Ether" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-06-14</td>
       <td>Make Them Suffer</td>
@@ -913,7 +921,6 @@ Symphonic deathcore merges the crushing brutality of deathcore—characterized b
     <tr>
       <td>5</td>
       <td>
-          <img src="https://i.discogs.com/qYoec0j7P1_LFKrgB2jQpvx11TYdn_9ZyO1Jy98ksIQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MjIw/MzYtMTQ4ODU5NjA2/Ni02MjQ1LmpwZWc.jpeg" alt="Cover for Artery 2016" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>She Must Burn</td>
@@ -955,7 +962,7 @@ Symphonic deathcore merges the crushing brutality of deathcore—characterized b
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/amBh9krn9ZSta5hGYNgTdZmC8e8rT3F5EJcVdoO_vRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MTI5/MzgtMTY3NDE1MjUy/NS01MTYwLmpwZWc.jpeg" alt="Cover for The Resilient" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/80e2370080d91faef3746b522b53bb80.png" alt="Cover for The Resilient" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-01-27</td>
       <td>Betraying the Martyrs</td>
@@ -1230,7 +1237,6 @@ Symphonic deathcore merges the crushing brutality of deathcore—characterized b
     <tr>
       <td>3</td>
       <td>
-          <img src="https://i.discogs.com/ZVyAt0GtF9j8TjYkBPj4pUw6LOM4P3HDqC-5aJTY7a8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTMy/MjE0LTE1Njg0MzIz/OTktNzUzMS5qcGVn.jpeg" alt="Cover for Core" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-09-13</td>
       <td>Betraying the Martyrs</td>
@@ -1267,7 +1273,7 @@ Symphonic deathcore merges the crushing brutality of deathcore—characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 57</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 42</li>
             <li> <a href="{{ "/tags/blackened-deathcore" | relative_url }}">blackened deathcore</a> # 96</li>
         </ul>
       </td>
@@ -1328,8 +1334,8 @@ Symphonic deathcore merges the crushing brutality of deathcore—characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 5</li>
             <li> <a href="{{ "/tags/blackened-deathcore" | relative_url }}">blackened deathcore</a> # 47</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1352,8 +1358,8 @@ Symphonic deathcore merges the crushing brutality of deathcore—characterized b
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 43</li>
             <li> <a href="{{ "/tags/technical-deathcore" | relative_url }}">technical deathcore</a> # 49</li>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 59</li>
             <li> <a href="{{ "/tags/blackened-deathcore" | relative_url }}">blackened deathcore</a> # 73</li>
         </ul>
       </td>
@@ -1432,7 +1438,7 @@ Symphonic deathcore merges the crushing brutality of deathcore—characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 94</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1491,7 +1497,7 @@ Symphonic deathcore merges the crushing brutality of deathcore—characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 32</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 64</li>
             <li> <a href="{{ "/tags/blackened-deathcore" | relative_url }}">blackened deathcore</a> # 97</li>
         </ul>
       </td>
@@ -1764,8 +1770,8 @@ Symphonic deathcore merges the crushing brutality of deathcore—characterized b
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 2</li>
             <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 62</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1810,7 +1816,7 @@ Symphonic deathcore merges the crushing brutality of deathcore—characterized b
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/N9G17j7I0BsT-qhguSJc1rVvueXoIOSbazBRtIjD24g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNjU2/NjctMTQ1NDQ3NTIx/OS03NzEyLnBuZw.jpeg" alt="Cover for Make Them Suffer" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0398f33b5b3e9de44fc36391580d962.png" alt="Cover for Make Them Suffer" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-11-08</td>
       <td>Make Them Suffer</td>
@@ -1937,6 +1943,7 @@ Symphonic deathcore merges the crushing brutality of deathcore—characterized b
     <tr>
       <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dea5ba242d3d171153e534bf394ca94f.png" alt="Cover for Firekeeper" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Fire Keeper</td>

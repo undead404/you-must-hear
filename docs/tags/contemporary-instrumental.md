@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-20T23:28:50.408Z
+date: 2025-12-04T03:34:37.414Z
 permalink: tags/contemporary-instrumental
 title: contemporary instrumental
 ---
 
 ## contemporary instrumental
 
-Last updated: <time datetime="2025-10-20T23:28:50.408Z">Tue Oct 21 2025 02:28:50 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T03:34:37.414Z">Thu Dec 04 2025 05:34:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -45,7 +45,7 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 11</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -91,6 +91,7 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
     <tr>
       <td>29</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/13254d29d8c2965ee5017ec56181b4b0.png" alt="Cover for Mosaic" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>Richard Burmer</td>
@@ -107,7 +108,7 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 35</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -132,6 +133,7 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
     <tr>
       <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c23c86c87c4499bc91ffd6f2866abbf.png" alt="Cover for Lyle Mays" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Lyle Mays</td>
@@ -144,7 +146,7 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 15</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -162,13 +164,14 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 6</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f883a4872fd449149c1f68d8e257f3a7.png" alt="Cover for Deep Breakfast" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Ray Lynch</td>
@@ -209,7 +212,7 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/18iV-WDgSt-PCYsHCCR-WySnp2oqdSpsWaVED9YezdA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MjUy/NzItMTQyOTg2MzM5/NS01NDMwLmpwZWc.jpeg" alt="Cover for The Best Of Ray Lynch" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7478b67d2b3b4f79b8ca2f233d358912.png" alt="Cover for The Best Of Ray Lynch" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Ray Lynch</td>
@@ -247,6 +250,7 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
     <tr>
       <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/711a3dddc6f60113b5d6aefe39137c42.png" alt="Cover for The Standing Stones of Callanish" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Jon Mark</td>
@@ -418,6 +422,7 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
     <tr>
       <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c993f5e91b6247af9acccaa85a776176.png" alt="Cover for Dreamcatcher" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Secret Garden</td>
@@ -521,9 +526,9 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 32</li>
+            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 33</li>
+            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 49</li>
             <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 51</li>
-            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 53</li>
             <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 80</li>
         </ul>
       </td>
@@ -543,7 +548,7 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 41</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 58</li>
             <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 64</li>
         </ul>
       </td>
@@ -569,7 +574,7 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/FMGZuD4AR6upOrFU4YS3Af75-8EdkdGHSWU1zxr9I3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQ4/Njc0LTE1MjE3MjAx/MTUtOTc5NS5qcGVn.jpeg" alt="Cover for Animusic" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/39a03e1d6a7d44629b938b1e6cd55ab4.png" alt="Cover for Animusic" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Wayne Lytle</td>
@@ -589,7 +594,7 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/yb0aDAnY2_zlDvU5bzEvidTJ-atKEqii077dDDK0ffc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODg0/LTEzMDIzNjcyMzUu/anBlZw.jpeg" alt="Cover for Mixed Illusions" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ecee74518d1d70ee2ce55798d6b66216.png" alt="Cover for Mixed Illusions" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Soulstice</td>
@@ -682,6 +687,7 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfa9c5e691c8409ac077be47ff9e1cef.png" alt="Cover for A Few Things to Hear Before We All Blow Up" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-08-03</td>
       <td>Williamson</td>
@@ -701,8 +707,8 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 82</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 83</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 18</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -759,7 +765,7 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 85</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -832,14 +838,15 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 41</li>
-            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 77</li>
+            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 23</li>
+            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e2c4850c86e11dbe5da82ca9fcb6a80.png" alt="Cover for The Trashcan Electric e.p." style="max-width:120px; height:auto;" />
       </td>
       <td>2005-11-29</td>
       <td>Williamson</td>
@@ -895,6 +902,7 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bfaaac61d7974f9ebb846f87d5c39a72.png" alt="Cover for Epicon" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-07-24</td>
       <td>Globus</td>
@@ -936,15 +944,16 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 7</li>
-            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 59</li>
+            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 42</li>
             <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 67</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/272c3df1935a4ee681e3b5ca36a7190c.png" alt="Cover for Nuage" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-11-23</td>
       <td>Sylvain Chauveau</td>
@@ -958,14 +967,14 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 20</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 22</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 26</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 47</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 58</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 59</li>
-            <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 72</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 68</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 72</li>
+            <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 72</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 73</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 74</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -978,7 +987,6 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
       <td>A Still Motion</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beethoven" | relative_url }}">beethoven</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/composer" | relative_url }}">composer</a></li>
@@ -993,9 +1001,8 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beethoven" | relative_url }}">beethoven</a> # 25</li>
+            <li> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a> # 20</li>
             <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 32</li>
-            <li> <a href="{{ "/tags/impressionism" | relative_url }}">impressionism</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1037,6 +1044,7 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
     <tr>
       <td>12</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b5d289c16f7397e3e9935088ad4d088.png" alt="Cover for Fragment" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-06-02</td>
       <td>Library Tapes</td>
@@ -1050,21 +1058,22 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 31</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 12</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 21</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 35</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 38</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 42</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 53</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 43</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 48</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 53</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 72</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 77</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 86</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f24be45b7c2e4446abdc680d1bdb3bf7.png" alt="Cover for Ferndorf" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-08</td>
       <td>Hauschka</td>
@@ -1080,13 +1089,13 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 2</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 18</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 26</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 52</li>
-            <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 69</li>
-            <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 79</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 45</li>
+            <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 68</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 69</li>
+            <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 78</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 84</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 88</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1111,6 +1120,7 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
     <tr>
       <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f7a859a011e7287c9b7d502eb96292f.png" alt="Cover for a summer beneath the trees" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-11-24</td>
       <td>Library Tapes</td>
@@ -1124,7 +1134,7 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 78</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1153,8 +1163,8 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 18</li>
             <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 43</li>
+            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1179,7 +1189,7 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/0w2MKjCqbwDLu37NpYfltsramP86w3I-7A6t9tpfeJE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2Njg1/NjgtMTQ4NDQ4MzQ1/Ny0zOTEzLmpwZWc.jpeg" alt="Cover for hopes and past desires ep" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4d6b41f3b8943a285d91f64b46a4a98.png" alt="Cover for hopes and past desires ep" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-01-13</td>
       <td>Rafael Anton Irisarri</td>
@@ -1192,7 +1202,7 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 99</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1224,7 +1234,7 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 30</li>
+            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1255,7 +1265,7 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 37</li>
+            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1286,7 +1296,7 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 52</li>
+            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1314,8 +1324,8 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 42</li>
-            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 79</li>
+            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 22</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1408,7 +1418,7 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/sIG6oHuvaL8bhmsWeKsgNkp7EsTFVGsjaqDA1BWkPTg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTc2/OTAtMTI4ODM2MTg3/NC5qcGVn.jpeg" alt="Cover for Holly Lane" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70ac3e4e4bb946e7b818aa8eaac33180.png" alt="Cover for Holly Lane" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-09</td>
       <td>Clem Leek</td>
@@ -1426,20 +1436,21 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 13</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 15</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 17</li>
-            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 65</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 68</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 14</li>
+            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 36</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 70</li>
             <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 72</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 75</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 83</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 80</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 88</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f71b274980eb745a75e7188c7b2cce8.png" alt="Cover for Like green grass against a blue sky" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-25</td>
       <td>Library Tapes</td>
@@ -1456,7 +1467,7 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
       <td>
         <ul>
             <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 3</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 79</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1481,13 +1492,14 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 27</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0633fa5c7af3ecbdbae37f3e5e881822.png" alt="Cover for Felt" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-07</td>
       <td>Nils Frahm</td>
@@ -1501,41 +1513,34 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 34</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 17</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 24</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 46</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 47</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 50</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 61</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 73</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 72</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 74</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 77</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/16fdee509299459e93bff6896c844c0d.png" alt="Cover for Lifenotes" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10</td>
       <td>Clem Leek</td>
       <td>Lifenotes</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
-            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
-            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 11</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 24</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 26</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 29</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 32</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 47</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 52</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 71</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 78</li>
         </ul>
       </td>
@@ -1543,6 +1548,7 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff804afebfe4459a98175b00b7882e4e.png" alt="Cover for Memories" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-29</td>
       <td>Endless Melancholy</td>
@@ -1568,43 +1574,36 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 5</li>
             <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 30</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a92df515391c6865c41f46bb875c072a.png" alt="Cover for Digressions" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03-12</td>
       <td>Greg Haines</td>
       <td>Digressions</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
-            <li style="font-size: calc(1rem * 86 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 2</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 16</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 32</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 33</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 37</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 40</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 46</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/BvZioDDoNV2hcIajuD05eari44kMgUyKLyLesD-VG0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzI1/NjItMTM0MjE2OTg0/OS0yNDg5LmpwZWc.jpeg" alt="Cover for Wide As The Golden Ocean" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c17f2053ccfdf080311072cb04c2d115.png" alt="Cover for Wide As The Golden Ocean" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-17</td>
       <td>Endless Melancholy</td>
@@ -1645,6 +1644,7 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
     <tr>
       <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c2fbf65f7318430aa032b52a6d709ef2.png" alt="Cover for Paths" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05</td>
       <td>Olan Mill</td>
@@ -1660,13 +1660,14 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 86</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b5e241a2c2f040cf96226960cfc79ebb.png" alt="Cover for Before, After" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-07-03</td>
       <td>Endless Melancholy</td>
@@ -1677,47 +1678,41 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 40</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 23</li>
             <li> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a> # 46</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 56</li>
             <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 66</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/PClDlrbQA6VhUzN_2uW-I6PwpW6ll1v-knKQS1H0GyA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzY0/MjEtMTM0OTgwMjc0/Ny02NTEzLmpwZWc.jpeg" alt="Cover for Screws" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14729fe808404f8a8131e98e027db9a5.png" alt="Cover for Screws" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-09-20</td>
       <td>Nils Frahm</td>
       <td>Screws</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
-            <li style="font-size: calc(1rem * 88 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
-            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 8</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 8</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 13</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 23</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 24</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 30</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 31</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 37</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 66</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 69</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 85</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 90</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/dl6-0u1PQukKxC_pWkiVLI3TxBIUzLclVuCOAA2eGiU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NTE4/OTItMTQ0Mzg2MTI2/Ny0zOTQ5LmpwZWc.jpeg" alt="Cover for November" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e8009b7f0220d2af8e5f4c957aa1db4.png" alt="Cover for November" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12-02</td>
       <td>Endless Melancholy</td>
@@ -1743,16 +1738,17 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 35</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 11</li>
             <li> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a> # 47</li>
             <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 61</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 95</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fdeadbe8bb8491e992d594de148fb7d.png" alt="Cover for Epilogue" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-07-02</td>
       <td>Endless Melancholy</td>
@@ -1779,14 +1775,15 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
       <td>
         <ul>
             <li> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a> # 1</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 7</li>
             <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 42</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/35a062fcb55741e1c124e439d7c21d13.png" alt="Cover for Autumn Outtakes" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-11-14</td>
       <td>Endless Melancholy</td>
@@ -1818,7 +1815,7 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/FN8MztBLr1sBRwsFFXlLUCsySR9L6gvrfTHFGbrhWd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NTE4/NTgtMTQ0Mzg2MDUz/Mi02NjkwLmpwZWc.jpeg" alt="Cover for Rêverie | Broken" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4aca6c671cdb41d6c1746b3b4a003487.png" alt="Cover for Rêverie | Broken" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-04-02</td>
       <td>Endless Melancholy</td>
@@ -1852,7 +1849,7 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/dl6-0u1PQukKxC_pWkiVLI3TxBIUzLclVuCOAA2eGiU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NTE4/OTItMTQ0Mzg2MTI2/Ny0zOTQ5LmpwZWc.jpeg" alt="Cover for Wherever" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f0a50ef6db946f6c6eb580b0b683e20.png" alt="Cover for Wherever" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-06-22</td>
       <td>Endless Melancholy</td>
@@ -1910,7 +1907,7 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 39</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 61</li>
             <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 66</li>
         </ul>
       </td>
@@ -1918,7 +1915,7 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/LTENY8lWJN8Y347xqHFduRD8arI4aUNMNQtinzwh3Yc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMjA3/MDEtMTQ1Mzc1ODMz/OS0yNzUzLmpwZWc.jpeg" alt="Cover for Down to the Bone" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/47480289076b4d5bbd77586e7fa00c35.png" alt="Cover for Down to the Bone" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-08-22</td>
       <td>Sylvain Chauveau</td>
@@ -1930,14 +1927,14 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 88</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/UrEW8c65P-kCFbYhVpoTli1RG6A6RsGQdWFlgh0py28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNDY4/MDUtMTQxMjI0NzU2/NC0xMTc1LmpwZWc.jpeg" alt="Cover for Fragile" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f23a7dde8de44c4ecc748670cc0c3800.png" alt="Cover for Fragile" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-10-21</td>
       <td>Endless Melancholy</td>
@@ -1972,22 +1969,22 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 23</li>
             <li> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a> # 23</li>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 32</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 25</li>
+            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 27</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 58</li>
             <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 67</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 69</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 71</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 71</li>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 72</li>
-            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 74</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 81</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/jpYSTiClqPNnqz-En6RKnT_Rz0N2o7FcUua3mmuApIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTIw/MjYtMTQyMTgzNjUy/NC04OTYwLmpwZWc.jpeg" alt="Cover for Ambermixes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de701441d4cb493ec96b188c7aa54fe4.png" alt="Cover for Ambermixes" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-01-21</td>
       <td>Endless Melancholy</td>
@@ -2032,7 +2029,7 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
     <tr>
       <td>10</td>
       <td>
-          <img src="https://i.discogs.com/_nPZxoucrFpujgF4nw5_QEPh27Mejf6mDLw92Eqlhaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDE1/ODAzLTE1NTM3ODM4/NDYtMzA2Mi5qcGVn.jpeg" alt="Cover for Rarities and Demos" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/726052caa269297f5a8dbab16c62720a.png" alt="Cover for Rarities and Demos" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-10-17</td>
       <td>Marilyn Roxie</td>
@@ -2051,7 +2048,7 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/3zEwc83Gf8diMf5YxQCTNnIOuvZ4_SObaM2BuVYNY3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDE1/ODQyLTE1NTM3ODQ3/MzItNDYzOS5qcGVn.jpeg" alt="Cover for Ermine EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/56e3578eb2755a152a3ed7112e1501bc.png" alt="Cover for Ermine EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-10-17</td>
       <td>Marilyn Roxie</td>
@@ -2085,7 +2082,7 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 67</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 30</li>
             <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 99</li>
         </ul>
       </td>
@@ -2233,9 +2230,9 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 4</li>
-            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 46</li>
-            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 67</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 10</li>
+            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 35</li>
+            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 47</li>
             <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 84</li>
         </ul>
       </td>
@@ -2257,7 +2254,7 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 16</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -2278,13 +2275,14 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 40</li>
+            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a51b773ea9c1c46b18ddcb29da47be0a.png" alt="Cover for Utopia" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Bremer&#x2F;McCoy</td>
@@ -2302,8 +2300,8 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 63</li>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 83</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 17</li>
+            <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -2358,6 +2356,7 @@ Contemporary instrumental encompasses modern music that prioritizes melody and a
     <tr>
       <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/17ccb42ff2c9f74f865b5e7c0e68e223.png" alt="Cover for IT&#39;S OK TO TALK TO HIM" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Alexander Alvarado</td>

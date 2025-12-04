@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-21T01:06:11.231Z
+date: 2025-12-04T04:26:28.708Z
 permalink: tags/dancecore
 title: dancecore
 ---
 
 ## dancecore
 
-Last updated: <time datetime="2025-10-21T01:06:11.231Z">Tue Oct 21 2025 04:06:11 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T04:26:28.708Z">Thu Dec 04 2025 06:26:28 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -79,7 +79,7 @@ Dancecore is an energetic, high-intensity tag encompassing uptempo electronic mu
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for odaxelagnia&#x2F;Akamushi&#x2F;Reizoko Cj&#x2F;goreshit split" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6eec4b928a6f45379671bdb130582d49.png" alt="Cover for odaxelagnia&#x2F;Akamushi&#x2F;Reizoko Cj&#x2F;goreshit split" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>Various Artists</td>
@@ -227,7 +227,7 @@ Dancecore is an energetic, high-intensity tag encompassing uptempo electronic mu
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Favicon Vol. 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c1d53a3d3896200a6f9a718ba55c07b.png" alt="Cover for Favicon Vol. 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Various Artists</td>
@@ -288,7 +288,7 @@ Dancecore is an energetic, high-intensity tag encompassing uptempo electronic mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 35</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -314,7 +314,7 @@ Dancecore is an energetic, high-intensity tag encompassing uptempo electronic mu
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/kmVe5bSMx1__dY4mzRRbo9l4QsjpyTqcPHYAXz84Ybw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDk1/MjIwLTE2OTMxNjI3/MzktNzgxNi5qcGVn.jpeg" alt="Cover for Hanni Kohl" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d02391244f37560d91cda2fb981f20fe.png" alt="Cover for Hanni Kohl" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Hanni Kohl</td>
@@ -394,7 +394,6 @@ Dancecore is an energetic, high-intensity tag encompassing uptempo electronic mu
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/2JwIP3eYvELBK0FoG9Wyy4iwUbCY_ThOer_AymMOKw8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTIy/MjctMTIzNDY5NTE3/My5qcGVn.jpeg" alt="Cover for Future Trance Vol. 47" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-08-18</td>
       <td>Rocco &amp; Bass-T</td>
@@ -519,8 +518,8 @@ Dancecore is an energetic, high-intensity tag encompassing uptempo electronic mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 44</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 58</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 44</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 56</li>
             <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 89</li>
         </ul>
       </td>
@@ -528,7 +527,7 @@ Dancecore is an energetic, high-intensity tag encompassing uptempo electronic mu
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/zOG7O-TRYtx1GGHChPTu2whH2DnHlTnTKWo_w9Y45pw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDM2/MzQtMTI4MjA4MTM1/MC5qcGVn.jpeg" alt="Cover for Granite City Dancecore" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/926e8218b8c649798432064da55bbc94.png" alt="Cover for Granite City Dancecore" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01-02</td>
       <td>Annoying Ringtone</td>
@@ -542,7 +541,7 @@ Dancecore is an energetic, high-intensity tag encompassing uptempo electronic mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 52</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 50</li>
             <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 56</li>
         </ul>
       </td>
@@ -704,7 +703,7 @@ Dancecore is an energetic, high-intensity tag encompassing uptempo electronic mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 61</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -765,7 +764,7 @@ Dancecore is an energetic, high-intensity tag encompassing uptempo electronic mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 17</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -794,7 +793,7 @@ Dancecore is an energetic, high-intensity tag encompassing uptempo electronic mu
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/y3Taia2S4t_251y0h429cr7Nt159HjF0lhg2ruNA8eE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODk4/MDktMTMxNTIzNDkz/MC5wbmc.jpeg" alt="Cover for PARTYCORE" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/80f7ee62805646ceb84946f2a21ec3ae.png" alt="Cover for PARTYCORE" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-12</td>
       <td>odaxelagnia</td>
@@ -854,15 +853,15 @@ Dancecore is an energetic, high-intensity tag encompassing uptempo electronic mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 4</li>
             <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 82</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/H-5u8H1FaMhb1lwsuENAURJbFClBQ8TIC7d2KwWP7-M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDcz/MjctMTMxNTEyMjc1/Ni5qcGVn.jpeg" alt="Cover for Deadly Odd" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5cf32ef4268b413991a9a2afa0e5985a.png" alt="Cover for Deadly Odd" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-07-30</td>
       <td>2nnt</td>
@@ -960,7 +959,7 @@ Dancecore is an energetic, high-intensity tag encompassing uptempo electronic mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 81</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -982,7 +981,7 @@ Dancecore is an energetic, high-intensity tag encompassing uptempo electronic mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 31</li>
+            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 30</li>
             <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 40</li>
         </ul>
       </td>
@@ -1025,7 +1024,7 @@ Dancecore is an energetic, high-intensity tag encompassing uptempo electronic mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 28</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1052,7 +1051,7 @@ Dancecore is an energetic, high-intensity tag encompassing uptempo electronic mu
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/c-VMpvIRlnLos4Zw89Im1AZTpekmeYCaAl7Kz_24lDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTc1/ODctMTM0MTU3NDIx/Ni02OTA3LmpwZWc.jpeg" alt="Cover for Absolute Rave Vol. 2: What&#39;s Wrong With My Dancecore (Swag)?" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2fa948d610854ee5b3a98003634462bd.png" alt="Cover for Absolute Rave Vol. 2: What&#39;s Wrong With My Dancecore (Swag)?" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-07-05</td>
       <td>Negrobeat</td>
@@ -1077,7 +1076,7 @@ Dancecore is an energetic, high-intensity tag encompassing uptempo electronic mu
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/QX-MHhaHttXUZ_kyLWaN7GsMdHNc-tAHEM6fPDPxFb4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNDIy/MjYtMTM4ODUxNjU1/Ny04MTA0LmpwZWc.jpeg" alt="Cover for Copa del rave &lt;ABC001&gt;" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0dfd135dfbaa45a1c5034f1f3d6c5ffb.png" alt="Cover for Copa del rave &lt;ABC001&gt;" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-07-05</td>
       <td>USA Kings</td>
@@ -1102,7 +1101,6 @@ Dancecore is an energetic, high-intensity tag encompassing uptempo electronic mu
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/icd1cWl1Axvt4bx5RIhENR5M2kwW4cJddjNTPdzvY6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjI5/NzktMTQ3MzQ0MTI5/Ny04NjkzLmpwZWc.jpeg" alt="Cover for Beatless" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08-22</td>
       <td>Stantekk</td>
@@ -1257,7 +1255,7 @@ Dancecore is an energetic, high-intensity tag encompassing uptempo electronic mu
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/3OB7JdTiFaZrOejy3RPaKoxxFZLt4AcNa7iE1orCG98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODA1/ODUxLTE1OTgxMjg2/NDUtNzM2MS5wbmc.jpeg" alt="Cover for 2015 remasters" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1f4820e3f30fa5ad77a0408bc12872a.png" alt="Cover for 2015 remasters" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-07-23</td>
       <td>odaxelagnia</td>
@@ -1315,7 +1313,7 @@ Dancecore is an energetic, high-intensity tag encompassing uptempo electronic mu
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/0jbAavAibKt5_P0lQLQjua-rwmcMGqo5-iuNy1neoFQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDg5/MjktMTQxOTUwNzI1/Ny00ODU2LmpwZWc.jpeg" alt="Cover for LOLI NURSE EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/acc352fcda9f4633c6b69470de77e38b.png" alt="Cover for LOLI NURSE EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-04-24</td>
       <td>LOLI NURSE</td>
@@ -1387,7 +1385,7 @@ Dancecore is an energetic, high-intensity tag encompassing uptempo electronic mu
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/58q8GZYSffw4WC5DIZeVClQItHsjoFelzfI8IRDMCls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMzIw/ODQtMTQxNjY3NDY2/MS0xNzIzLmpwZWc.jpeg" alt="Cover for DIY Brain Surgery" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ed2b9c76829493ec9728ccd43e3fe14.png" alt="Cover for DIY Brain Surgery" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-09-20</td>
       <td>Annoying Ringtone</td>
@@ -1468,7 +1466,7 @@ Dancecore is an energetic, high-intensity tag encompassing uptempo electronic mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 33</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1498,7 +1496,7 @@ Dancecore is an energetic, high-intensity tag encompassing uptempo electronic mu
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/rfWMoiubZZq12jxZDGsWNqVa1VufDdYqwj8OCxYEd8M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDU0/MjgzLTE1MDkwMDA4/MTAtMjYxMS5qcGVn.jpeg" alt="Cover for goretrance x" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3a55e7006f3d81e8c2125c8f59455b8.png" alt="Cover for goretrance x" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-08-24</td>
       <td>goreshit</td>
@@ -1511,7 +1509,7 @@ Dancecore is an energetic, high-intensity tag encompassing uptempo electronic mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 89</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1574,7 +1572,7 @@ Dancecore is an energetic, high-intensity tag encompassing uptempo electronic mu
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/8ZKGUqywsDhM6V0lW1nRbXN8QMwo8NT7gQf3g-_yEPM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzY3/NTYtMTQ1Mjc4NzI5/My01ODkwLmpwZWc.jpeg" alt="Cover for dancefloor muthafucka!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1edc64b827ca225795da1d43fb9a19c.png" alt="Cover for dancefloor muthafucka!" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-12-09</td>
       <td>goreshit</td>
@@ -1635,7 +1633,7 @@ Dancecore is an energetic, high-intensity tag encompassing uptempo electronic mu
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/e3xlz2muu19beeuCl36204fqTvMnJ3LZYVSrpvMOxEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDM3/OTAtMTY4MDU2OTg1/NC0xMTU3LmpwZWc.jpeg" alt="Cover for Favicon Vol. 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f67f898515d19fc3cef1abb12768468.png" alt="Cover for Favicon Vol. 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-05-22</td>
       <td>V.A</td>
@@ -1653,7 +1651,7 @@ Dancecore is an energetic, high-intensity tag encompassing uptempo electronic mu
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/z4nJRJrBz0_X7A_jyt9ALuSYNAO6HbmSroBGvZ75-Xk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTAy/NzY0LTE2NTAxMjUw/MTctODg2OS5qcGVn.jpeg" alt="Cover for never back together" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7695d30b0bc4052fb904c4153927bbb4.png" alt="Cover for never back together" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-01-10</td>
       <td>LANIc0re</td>
@@ -1695,7 +1693,7 @@ Dancecore is an energetic, high-intensity tag encompassing uptempo electronic mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 5</li>
+            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 3</li>
             <li> <a href="{{ "/tags/terrorcore" | relative_url }}">terrorcore</a> # 49</li>
         </ul>
       </td>
@@ -1855,6 +1853,7 @@ Dancecore is an energetic, high-intensity tag encompassing uptempo electronic mu
     <tr>
       <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d241abc7f31fb7335d471bcb73a06636.png" alt="Cover for &#x2F;&#x2F;rule 46, e621" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-08-03</td>
       <td>[manglwe]</td>
@@ -1895,6 +1894,7 @@ Dancecore is an energetic, high-intensity tag encompassing uptempo electronic mu
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/024478e6104337a5c74f0f6fa2e139bd.png" alt="Cover for webcore friends" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-11-01</td>
       <td>Zhnoi</td>
@@ -1911,8 +1911,8 @@ Dancecore is an energetic, high-intensity tag encompassing uptempo electronic mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 2</li>
             <li> <a href="{{ "/tags/sextrance" | relative_url }}">sextrance</a> # 90</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1938,6 +1938,7 @@ Dancecore is an energetic, high-intensity tag encompassing uptempo electronic mu
     <tr>
       <td>5</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0dcca30a208d4bb7ac1c8932c022c292.png" alt="Cover for Faking Ages" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Sarevol</td>
@@ -2019,6 +2020,7 @@ Dancecore is an energetic, high-intensity tag encompassing uptempo electronic mu
     <tr>
       <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0baf185e878e4a50bd25aaec5a9a00fb.png" alt="Cover for POWER MIX" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>DJ DZIKI</td>
@@ -2081,6 +2083,7 @@ Dancecore is an energetic, high-intensity tag encompassing uptempo electronic mu
     <tr>
       <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/438dbeb6ffa947aea01a0895d6757fe5.png" alt="Cover for HANDZ UP SESSIONS" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>DJ DZIKI</td>

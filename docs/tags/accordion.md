@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T09:49:17.381Z
+date: 2025-12-04T03:50:48.883Z
 permalink: tags/accordion
 title: accordion
 ---
 
 ## accordion
 
-Last updated: <time datetime="2025-10-28T09:49:17.381Z">Tue Oct 28 2025 11:49:17 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T03:50:48.883Z">Thu Dec 04 2025 05:50:48 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,6 +31,7 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f1ed9c013a04c9275f8b8c3e0b1f6bf.png" alt="Cover for Louisiana Blues And Zydeco" style="max-width:120px; height:auto;" />
       </td>
       <td>1965</td>
       <td>Clifton Chenier</td>
@@ -72,7 +73,7 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/ln9DfoQNU2e8ncRSCrbBCDUYzMxuS3xgY9i5drtG78s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTcy/NTEtMTM5Mzc4MjE4/NS05MDI2LmpwZWc.jpeg" alt="Cover for Traditional Irish Accordion" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/037445632f0e0195bf9641ce6aa6380c.png" alt="Cover for Traditional Irish Accordion" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>Tony MacMahon</td>
@@ -87,7 +88,7 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 14</li>
+            <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -153,7 +154,7 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/FKxGXkT7lfK53wpHxdwfPkcYhh32-4-POaHSVxdO9Wg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDUy/NjEyLTE1OTE3Njc4/ODgtMjYzMS5qcGVn.jpeg" alt="Cover for Will The Circle Be Unbroken, Volume III" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/39082fdead99bcdfe984fb15722fee52.png" alt="Cover for Will The Circle Be Unbroken, Volume III" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>The Nitty Gritty Dirt Band</td>
@@ -249,6 +250,7 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e0795e1771ee374d09667d34807d024.png" alt="Cover for Boingo Alive" style="max-width:120px; height:auto;" />
       </td>
       <td>1988-09-26</td>
       <td>Oingo Boingo</td>
@@ -266,7 +268,7 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 20</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -310,6 +312,7 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
     <tr>
       <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c17030c1a8cc58049345e80ccc77b67.png" alt="Cover for The Collection" style="max-width:120px; height:auto;" />
       </td>
       <td>1991-07-01</td>
       <td>Paolo Conte</td>
@@ -408,8 +411,8 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 33</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 69</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 67</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 70</li>
             <li> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a> # 100</li>
         </ul>
       </td>
@@ -417,7 +420,7 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/gkGySGEdh6TLnDj0WACJXFH1RdocXRvbOYYjP59bxXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDcw/ODYtMTU2Nzk3MzEw/NS04MDA3LmpwZWc.jpeg" alt="Cover for Viaggio" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9298861338364d48ba463816d5da18a5.png" alt="Cover for Viaggio" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Richard Galliano</td>
@@ -496,16 +499,13 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50af424cdcf58557e541221d975f2af4.png" alt="Cover for Farewell: Live From The Universal Amphitheatre-Halloween 1995" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-04-16</td>
       <td>Oingo Boingo</td>
       <td>Farewell: Live From The Universal Amphitheatre-Halloween 1995</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
         </ul>
       </td>
       <td>
@@ -588,6 +588,7 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/740486d104d24be3b01686594481e2f4.png" alt="Cover for Kielo" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Kimmo Pohjonen</td>
@@ -606,6 +607,7 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
     <tr>
       <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/37b9e6010134d93274209261cab6921c.png" alt="Cover for Against the Night" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-06-01</td>
       <td>Jason Webley</td>
@@ -623,7 +625,7 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/EIm9zEFP-X4n-NjnxUNqQRDUOwhG3lP4qjzZ657e56Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjgx/NDQ2LTE1MzIwODgx/MjEtNzc5MS5qcGVn.jpeg" alt="Cover for Accordéon Diatonique" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d033019c0ad0e31c0accfcb10db32662.png" alt="Cover for Accordéon Diatonique" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Jean Blanchard</td>
@@ -706,7 +708,7 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 59</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -732,6 +734,7 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/575f0eabefdca42a015b10c006fb894c.png" alt="Cover for Soledad" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Soledad</td>
@@ -792,6 +795,7 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a5742fb8f414d689ee889c7cd271ce3.png" alt="Cover for Kluster" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-02-04</td>
       <td>Kimmo Pohjonen</td>
@@ -803,7 +807,7 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 37</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -843,7 +847,7 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ukulele" | relative_url }}">ukulele</a> # 39</li>
+            <li> <a href="{{ "/tags/ukulele" | relative_url }}">ukulele</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -873,8 +877,8 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 78</li>
-            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 78</li>
+            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 22</li>
+            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -899,7 +903,7 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
       <td>
         <ul>
             <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 28</li>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 29</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -946,6 +950,7 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c04ecd662c484d379dfaa15c116eb544.png" alt="Cover for Me V. Angry Mob" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-05-02</td>
       <td>The World&#x2F;Inferno Friendship Society</td>
@@ -963,7 +968,7 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
       <td>
         <ul>
             <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 29</li>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 30</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1046,7 +1051,7 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 53</li>
+            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 48</li>
             <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 94</li>
         </ul>
       </td>
@@ -1109,7 +1114,7 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ukulele" | relative_url }}">ukulele</a> # 80</li>
+            <li> <a href="{{ "/tags/ukulele" | relative_url }}">ukulele</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1141,10 +1146,6 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
       <td>Realmente Lo Mejor</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
         </ul>
       </td>
       <td>
@@ -1178,6 +1179,7 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
     <tr>
       <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e2e5135f9d34a639764a640706e7454.png" alt="Cover for Transylvania" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>The Tango Saloon</td>
@@ -1225,6 +1227,7 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
     <tr>
       <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a79105994458493ac9e5f2315e85dafb.png" alt="Cover for A Dreamers Guide To Hardcore Living" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09</td>
       <td>Wendy McNeill</td>
@@ -1243,7 +1246,7 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/047IE06tRrbWg5Q3Z5AIBz9biImBQRk6fg2R1cUG_e4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjcw/Njk5LTE1ODA2NTc3/NTQtMjY2Mi5qcGVn.jpeg" alt="Cover for Jab" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b10d8dd903974e349f6cd7e11e3ced9b.png" alt="Cover for Jab" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>STriCat</td>
@@ -1270,7 +1273,7 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 44</li>
+            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 45</li>
             <li> <a href="{{ "/tags/nederlands" | relative_url }}">nederlands</a> # 57</li>
             <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 70</li>
         </ul>
@@ -1298,6 +1301,7 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
     <tr>
       <td>27</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d685a0e90415090c8cb8ffebe6d5c037.png" alt="Cover for Demo" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Colour Dreams</td>
@@ -1350,13 +1354,14 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 46</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f4ed6ef2823441d86b943b90ff31e61.png" alt="Cover for D-Sensation" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>KV Express</td>
@@ -1379,7 +1384,7 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/EL0UOd4kYe07pO3SVpolIwNjvxtnC3JUspmh0R4Y8Y0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDQ4/MjEtMTQ4MDcwNzY0/NC0yNjE4LmpwZWc.jpeg" alt="Cover for Can&#39;t Sit Down" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5973b53b6481a44ff6e1821f5b85a8d8.png" alt="Cover for Can&#39;t Sit Down" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>C.J. Chenier</td>
@@ -1399,7 +1404,7 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
       <td>
         <ul>
             <li> <a href="{{ "/tags/cajun" | relative_url }}">cajun</a> # 56</li>
-            <li> <a href="{{ "/tags/louisiana" | relative_url }}">louisiana</a> # 59</li>
+            <li> <a href="{{ "/tags/louisiana" | relative_url }}">louisiana</a> # 60</li>
             <li> <a href="{{ "/tags/zydeco" | relative_url }}">zydeco</a> # 63</li>
         </ul>
       </td>
@@ -1426,6 +1431,7 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a28e405a2feb46099b6c0160c35838da.png" alt="Cover for Unavenged" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-02-27</td>
       <td>Random Encounter</td>
@@ -1439,13 +1445,14 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 44</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ed805ecb0ffe432cec60008d981958d.png" alt="Cover for Иллюзия тишины" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-31</td>
       <td>Colour Dreams</td>
@@ -1466,7 +1473,7 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/P3ktC9Vt7MgiBeAJVknmMLR6nsipxu96qia1TFu_15M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NDQz/NjEtMTQ1MDAxMjA5/MC0xNzYyLmpwZWc.jpeg" alt="Cover for Dear Utopia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d7bb0cef2634261ab5d5f7da7f49fa9.png" alt="Cover for Dear Utopia" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-09-22</td>
       <td>Oskar Schuster</td>
@@ -1504,7 +1511,7 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/02MV2lljS8CzAlqq5nA6CPTMzPmkHllSYlKlxYw9Y64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDky/MTQ1LTE2ODQyMTUy/MzgtNDQ5Ni5wbmc.jpeg" alt="Cover for yoshologie" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/221f2092b3513369b43ab878720d9b2e.png" alt="Cover for yoshologie" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06-18</td>
       <td>Louie Zong</td>
@@ -1545,7 +1552,7 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/zzJ98ZZ22IsNJzxxHlAx6vtEEgiPLkP_LuOKkfdJtM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxOTc1/NDYtMTUyNjA3Nzk5/MC02MzcyLmpwZWc.jpeg" alt="Cover for Let Me Tell You a Story" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e595d27c01044b8ecb993a00a54251b3.png" alt="Cover for Let Me Tell You a Story" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Random Encounter</td>
@@ -1560,7 +1567,7 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 43</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1604,7 +1611,7 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/DU9S8ys92OSmFr009n7_Urgp8ICdDOifKLqX7ULL_gQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzMy/NjQ5LTE1NzIzOTYx/MjQtOTg1Mi5wbmc.jpeg" alt="Cover for Project 52 Songs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/48fa90607c1f428e8a63feab504a4c5c.png" alt="Cover for Project 52 Songs" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-10-04</td>
       <td>Daniel Michael</td>
@@ -1617,7 +1624,7 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ukulele" | relative_url }}">ukulele</a> # 47</li>
+            <li> <a href="{{ "/tags/ukulele" | relative_url }}">ukulele</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1643,7 +1650,7 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/-M3S7a76uDZJ59-KJO2J0x5c1-a8AIjiNlBBwn2MatI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI0/MjUtMTY2NjgwMzk1/Ni02NjI2LmpwZWc.jpeg" alt="Cover for Super Taranta! (15 Year Anniversary Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f27c06bae3c1c975a18e2bc1b6ab0a30.png" alt="Cover for Super Taranta! (15 Year Anniversary Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-11-11</td>
       <td>Gogol Bordello</td>
@@ -1749,14 +1756,15 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 4</li>
             <li> <a href="{{ "/tags/bulgarian" | relative_url }}">bulgarian</a> # 52</li>
+            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14f3e8fb26add0830172014d7d04d759.png" alt="Cover for Venetia" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Camera Sintetica</td>
@@ -1781,10 +1789,10 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 8</li>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 18</li>
-            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 38</li>
             <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 45</li>
+            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 63</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 84</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1805,7 +1813,7 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 87</li>
+            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -2046,6 +2054,7 @@ Music featuring the accordion as a prominent or defining instrument, instantly r
     <tr>
       <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8f3950be8b4675d589a2d173c4c15c4.png" alt="Cover for Traditional Irish Music on Button Accordion" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Patty Furlong</td>

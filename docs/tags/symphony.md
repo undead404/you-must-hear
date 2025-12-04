@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-20T23:27:48.721Z
+date: 2025-12-04T02:57:33.055Z
 permalink: tags/symphony
 title: symphony
 ---
 
 ## symphony
 
-Last updated: <time datetime="2025-10-20T23:27:48.721Z">Tue Oct 21 2025 02:27:48 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T02:57:33.055Z">Thu Dec 04 2025 04:57:33 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -79,9 +79,9 @@ A symphony is a large-scale orchestral work typically composed in multiple movem
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 9</li>
             <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 64</li>
             <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 86</li>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -146,9 +146,9 @@ A symphony is a large-scale orchestral work typically composed in multiple movem
       <td>
         <ul>
             <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 14</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 19</li>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 21</li>
             <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 56</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 80</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -167,8 +167,8 @@ A symphony is a large-scale orchestral work typically composed in multiple movem
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 33</li>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 39</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 36</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -452,26 +452,6 @@ A symphony is a large-scale orchestral work typically composed in multiple movem
       </td>
     </tr>
     <tr>
-      <td>65</td>
-      <td>
-          <img src="https://i.discogs.com/gibU6JoH8qvUBpypvJhB2yg2B5kOJv63Zca5sM1AvkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NzQw/MjctMTQ3MDU2MzE4/OC03MjU0LmpwZWc.jpeg" alt="Cover for Beethoven Symphony No. 5 &amp; No. 6" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1989</td>
-      <td>Ludwig van Beethoven</td>
-      <td>Beethoven Symphony No. 5 &amp; No. 6</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beethoven" | relative_url }}">beethoven</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/beethoven" | relative_url }}">beethoven</a> # 98</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>66</td>
       <td>
           <img src="https://i.discogs.com/lJis1PulHE_1Zv1b6nxE_vsY5ZlB3xTWd0Xa1-xAa0s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NzMw/MDAtMTYzNTQwMTU3/NC03NjIyLmpwZWc.jpeg" alt="Cover for Symphony No.9 &quot;From the New World&quot; (Czech Philharmonic Orchestra, cond.Karel Ančerl)" style="max-width:120px; height:auto;" />
@@ -488,6 +468,24 @@ A symphony is a large-scale orchestral work typically composed in multiple movem
             <li> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a> # 46</li>
             <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 59</li>
             <li> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a> # 93</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+          <img src="https://i.discogs.com/gibU6JoH8qvUBpypvJhB2yg2B5kOJv63Zca5sM1AvkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NzQw/MjctMTQ3MDU2MzE4/OC03MjU0LmpwZWc.jpeg" alt="Cover for Beethoven Symphony No. 5 &amp; No. 6" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1989</td>
+      <td>Ludwig van Beethoven</td>
+      <td>Beethoven Symphony No. 5 &amp; No. 6</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -528,25 +526,6 @@ A symphony is a large-scale orchestral work typically composed in multiple movem
       </td>
     </tr>
     <tr>
-      <td>29</td>
-      <td>
-          <img src="https://i.discogs.com/a9ccFKc0yhRccBlea2qUlxEXa6jGCRCJETs9tDbrLNM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjA5/NzYtMTQxMDEyMzA1/Ny0zNzE1LmpwZWc.jpeg" alt="Cover for Beethoven: Symphony No.5 &amp; Egm" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1990</td>
-      <td>Ludwig van Beethoven</td>
-      <td>Beethoven: Symphony No.5 &amp; Egm</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/beethoven" | relative_url }}">beethoven</a> # 65</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>48</td>
       <td>
           <img src="https://i.discogs.com/gibU6JoH8qvUBpypvJhB2yg2B5kOJv63Zca5sM1AvkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NzQw/MjctMTQ3MDU2MzE4/OC03MjU0LmpwZWc.jpeg" alt="Cover for Symphony No. 9 &quot;Choral&quot;" style="max-width:120px; height:auto;" />
@@ -561,8 +540,7 @@ A symphony is a large-scale orchestral work typically composed in multiple movem
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 76</li>
-            <li> <a href="{{ "/tags/beethoven" | relative_url }}">beethoven</a> # 95</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -617,6 +595,24 @@ A symphony is a large-scale orchestral work typically composed in multiple movem
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://i.discogs.com/a9ccFKc0yhRccBlea2qUlxEXa6jGCRCJETs9tDbrLNM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjA5/NzYtMTQxMDEyMzA1/Ny0zNzE1LmpwZWc.jpeg" alt="Cover for Beethoven: Symphony No.5 &amp; Egm" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1990</td>
+      <td>Ludwig van Beethoven</td>
+      <td>Beethoven: Symphony No.5 &amp; Egm</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
         </ul>
       </td>
       <td>
@@ -959,7 +955,7 @@ A symphony is a large-scale orchestral work typically composed in multiple movem
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 86</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1114,7 +1110,7 @@ A symphony is a large-scale orchestral work typically composed in multiple movem
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/MbWVsSLnwj-G-tffY6M_XR_Lns6zQ8fsnky6iCInRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODMy/NzMtMTQzOTAzOTEz/MS04MDExLmpwZWc.jpeg" alt="Cover for The Godfather Trilogy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/177465e9248b49798f436b44d64140ba.png" alt="Cover for The Godfather Trilogy" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Various Artists</td>
@@ -1194,20 +1190,18 @@ A symphony is a large-scale orchestral work typically composed in multiple movem
       <td>Symphony No.9</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beethoven" | relative_url }}">beethoven</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beethoven" | relative_url }}">beethoven</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/5JNDQ4UOETBS7qYrwkA4miQIPxYj_4l4F91IVQ6T-iI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzkx/ODA1LTE1NzM1ODc5/OTAtOTgwMy5qcGVn.jpeg" alt="Cover for The London Symphony Orchestra: The Top 100 of Classical Music" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c7bce8fdb0fc365465f3cc619295b3a.png" alt="Cover for The London Symphony Orchestra: The Top 100 of Classical Music" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>London Symphony Orchestra</td>
@@ -1285,7 +1279,7 @@ A symphony is a large-scale orchestral work typically composed in multiple movem
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 42</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 57</li>
             <li> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a> # 89</li>
         </ul>
       </td>
@@ -1312,6 +1306,25 @@ A symphony is a large-scale orchestral work typically composed in multiple movem
       </td>
     </tr>
     <tr>
+      <td>59</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a558682459dc4fbcb64c6399a2783574.png" alt="Cover for Symphony" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Sarah Brightman</td>
+      <td>Symphony</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 2</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>11</td>
       <td>
           <img src="https://i.discogs.com/XPjzPlImjP59gFmmKw5xlATkh7DM6Q1eD_lRSrSvrXs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDE2/ODQxLTE1MTU5NTQ1/ODYtNjQyOC5qcGVn.jpeg" alt="Cover for Complete Works CD 005 - Symphonies No.9" style="max-width:120px; height:auto;" />
@@ -1321,14 +1334,12 @@ A symphony is a large-scale orchestral work typically composed in multiple movem
       <td>Complete Works CD 005 - Symphonies No.9</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beethoven" | relative_url }}">beethoven</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beethoven" | relative_url }}">beethoven</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1342,7 +1353,6 @@ A symphony is a large-scale orchestral work typically composed in multiple movem
       <td>Complete Works CD 001 - Symphonies Nos.1&amp;3</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beethoven" | relative_url }}">beethoven</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a></li>
@@ -1350,26 +1360,6 @@ A symphony is a large-scale orchestral work typically composed in multiple movem
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beethoven" | relative_url }}">beethoven</a> # 49</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>59</td>
-      <td>
-          <img src="https://i.discogs.com/_ekG3Z3pefA9hm-LJsVfrtx1b6TKKa9LACr4YX2YxIo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTc5/MDItMTMxODE4MTAw/OS5qcGVn.jpeg" alt="Cover for Symphony" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Sarah Brightman</td>
-      <td>Symphony</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/opera" | relative_url }}">opera</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1505,7 +1495,7 @@ A symphony is a large-scale orchestral work typically composed in multiple movem
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 89</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1552,7 +1542,7 @@ A symphony is a large-scale orchestral work typically composed in multiple movem
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/_9EvjnLOJD21h_8398Fa27avLsdwtFIYZAENokMBo_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODY0/NjYtMTQwMDI2NjIy/Ny00MDcwLmpwZWc.jpeg" alt="Cover for Žniajar Mrojaŭ (Dream Reaper)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe59cd8fe4bde0508fa852cf893bd23c.png" alt="Cover for Žniajar Mrojaŭ (Dream Reaper)" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-14</td>
       <td>Dzivia</td>
@@ -1572,9 +1562,9 @@ A symphony is a large-scale orchestral work typically composed in multiple movem
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 41</li>
-            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 41</li>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 53</li>
+            <li> <a href="{{ "/tags/belarus" | relative_url }}">belarus</a> # 42</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 54</li>
+            <li> <a href="{{ "/tags/belarusian" | relative_url }}">belarusian</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1801,7 +1791,7 @@ A symphony is a large-scale orchestral work typically composed in multiple movem
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 45</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 47</li>
             <li> <a href="{{ "/tags/conductor" | relative_url }}">conductor</a> # 98</li>
         </ul>
       </td>
@@ -1866,8 +1856,8 @@ A symphony is a large-scale orchestral work typically composed in multiple movem
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 21</li>
             <li> <a href="{{ "/tags/string-quartet" | relative_url }}">string quartet</a> # 46</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 82</li>
             <li> <a href="{{ "/tags/sonata" | relative_url }}">sonata</a> # 88</li>
         </ul>
       </td>
@@ -1875,6 +1865,7 @@ A symphony is a large-scale orchestral work typically composed in multiple movem
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d322ed2cc642ea4642653a2c01a6b5a.png" alt="Cover for Navidad" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Orchestra de Blonde</td>
@@ -1890,7 +1881,7 @@ A symphony is a large-scale orchestral work typically composed in multiple movem
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 60</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 41</li>
             <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 82</li>
         </ul>
       </td>
@@ -1997,6 +1988,6 @@ A symphony is a large-scale orchestral work typically composed in multiple movem
 - [instrumental]({{ "/tags/instrumental" | relative_url }})
 - [russian]({{ "/tags/russian" | relative_url }})
 - [soundtrack]({{ "/tags/soundtrack" | relative_url }})
-- [beethoven]({{ "/tags/beethoven" | relative_url }})
 - [composer]({{ "/tags/composer" | relative_url }})
 - [czech classical]({{ "/tags/czech-classical" | relative_url }})
+- [piano]({{ "/tags/piano" | relative_url }})

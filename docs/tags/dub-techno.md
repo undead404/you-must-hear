@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T08:53:31.091Z
+date: 2025-12-04T04:05:56.751Z
 permalink: tags/dub-techno
 title: dub techno
 ---
 
 ## dub techno
 
-Last updated: <time datetime="2025-11-26T08:53:31.091Z">Wed Nov 26 2025 10:53:31 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:05:56.751Z">Thu Dec 04 2025 06:05:56 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -98,7 +98,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 64</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -213,7 +213,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 82</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -326,7 +326,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 90</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 11</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 97</li>
         </ul>
       </td>
@@ -348,8 +348,8 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       <td>
         <ul>
             <li> <a href="{{ "/tags/emd" | relative_url }}">emd</a> # 12</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 49</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 67</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 34</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -390,7 +390,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 15</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -436,8 +436,8 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 23</li>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 29</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 78</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 79</li>
         </ul>
       </td>
@@ -709,9 +709,9 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 4</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 53</li>
             <li> <a href="{{ "/tags/hungary" | relative_url }}">hungary</a> # 57</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -868,11 +868,11 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 7</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 11</li>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 55</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 87</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 90</li>
             <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 92</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -968,7 +968,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 67</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -989,8 +989,8 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 32</li>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 59</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 69</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 88</li>
         </ul>
       </td>
@@ -1053,7 +1053,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 60</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 41</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 71</li>
         </ul>
       </td>
@@ -1267,7 +1267,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 46</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 55</li>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 66</li>
         </ul>
       </td>
@@ -1631,7 +1631,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 75</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1717,8 +1717,8 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 31</li>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 35</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1898,7 +1898,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 91</li>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 10</li>
             <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 95</li>
         </ul>
       </td>
@@ -1924,7 +1924,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 94</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1948,8 +1948,8 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 8</li>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 16</li>
-            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 93</li>
             <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 94</li>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 95</li>
         </ul>
@@ -1973,7 +1973,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 40</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1994,8 +1994,8 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 25</li>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 64</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -2017,7 +2017,7 @@ Dub techno fuses the spacious, echo-drenched aesthetics of dub reggae with techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 81</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 20</li>
         </ul>
       </td>
     </tr>

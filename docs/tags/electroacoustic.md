@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-21T02:19:15.518Z
+date: 2025-12-04T04:28:01.528Z
 permalink: tags/electroacoustic
 title: electroacoustic
 ---
 
 ## electroacoustic
 
-Last updated: <time datetime="2025-10-21T02:19:15.518Z">Tue Oct 21 2025 05:19:15 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T04:28:01.528Z">Thu Dec 04 2025 06:28:01 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -64,8 +64,8 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 70</li>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 87</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 32</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -93,6 +93,7 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
     <tr>
       <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1cf3b61b988f7cc99594e7322669c3ef.png" alt="Cover for The Pavilion Of Dreams" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>Harold Budd</td>
@@ -106,22 +107,23 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 15</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 10</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 18</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 19</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 22</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 23</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 24</li>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 33</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 85</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 88</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 66</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 70</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 73</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 85</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 86</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/i6Xmp5lpEWyJowDziwyId2FS0GQ-kDBq8-cUS9w0pN4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNTk0/NC0xNTA2NTg4MDE1/LTUyNjAuanBlZw.jpeg" alt="Cover for World of Echo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b36a65a78aa0d0b27cb8c83b2e5cd4e6.png" alt="Cover for World of Echo" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Arthur Russell</td>
@@ -133,8 +135,8 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 10</li>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 97</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 3</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -161,7 +163,7 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/De0pdhmgQYDd_YUxo4PAl41owgx4uzWyiW_5WJiJiaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODQx/NTItMTMyODI5MTYy/My5qcGVn.jpeg" alt="Cover for Лёгкое дело холод" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/efe6b52f7bb54ba0cb8ed12073b3425e.png" alt="Cover for Лёгкое дело холод" style="max-width:120px; height:auto;" />
       </td>
       <td>1991-11</td>
       <td>Стук бамбука в XI часов</td>
@@ -177,9 +179,9 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 64</li>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 72</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 73</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 24</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 71</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -200,18 +202,19 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 25</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 32</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 40</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 44</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 47</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 53</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 72</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 57</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/82c01c6fc0c949a18adfaf0e02d8d250.png" alt="Cover for Trilogie de la Mort" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Éliane Radigue</td>
@@ -229,6 +232,7 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
     <tr>
       <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6350c9a1c0b28ddeefe7a49078c0380d.png" alt="Cover for 1-3" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-01-12</td>
       <td>Supersilent</td>
@@ -254,6 +258,7 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e448c4443715e2d89531a7157deebe9d.png" alt="Cover for Plux Quba" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-08-24</td>
       <td>Nuno Canavarro</td>
@@ -284,14 +289,14 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 22</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>21</td>
       <td>
-          <img src="https://i.discogs.com/llhHSCxD5R--GG1N9thV7AKpBCp0LV0CxmAdpPt_-aQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODU1/LTExNTgwNzYyMjYu/anBlZw.jpeg" alt="Cover for And The Black Moths Play The Grand Cinema" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/43f9ed73cac6de87e2d79a8d93e55dd4.png" alt="Cover for And The Black Moths Play The Grand Cinema" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Dean Roberts</td>
@@ -345,9 +350,9 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 61</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 67</li>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 69</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 29</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 69</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -373,7 +378,7 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
     <tr>
       <td>5</td>
       <td>
-          <img src="https://i.discogs.com/gnEcoeZZzbauoCHu_73zIZl8a8RkR-5De0CkAbZguWk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDgz/NzEtMTE4MzQ5ODA2/My5qcGVn.jpeg" alt="Cover for Winter Couplet" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e90d9500747d44d19491a5edf40cb39b.png" alt="Cover for Winter Couplet" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Steve Roden</td>
@@ -394,7 +399,7 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/iJD8paEOte8Uh_fiWNxxnm9uY9bc4l0TM2eMtLGmSWo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQz/ODcxLTE1MTA2NjM2/MDAtMTc3NC5qcGVn.jpeg" alt="Cover for Hildegard (Hildegard Von Bingen)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5252b69c91204224a4715dc9f7d84a73.png" alt="Cover for Hildegard (Hildegard Von Bingen)" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Sinfonye</td>
@@ -413,6 +418,7 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/20fb9303fb75b4e117637ad73424c9f6.png" alt="Cover for Danse Manatee" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-10-06</td>
       <td>Animal Collective</td>
@@ -428,7 +434,8 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 82</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 17</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -448,14 +455,14 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 80</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/1iwlNJae1pNtvSk_Dl8YRPBT7Ejg3G9mKrdp-VJEmHI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mjc2/Ny0xNTYzMzU1MjQ1/LTI5NDUuanBlZw.jpeg" alt="Cover for Cendre" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c86697cdfbff471f8e9fd8d711733b98.png" alt="Cover for Cendre" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-05</td>
       <td>Fennesz</td>
@@ -471,12 +478,14 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/adb5ece774d1452294187d141b239e95.png" alt="Cover for ad Libitum" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-07-07</td>
       <td>Bruno Sanfilippo</td>
@@ -494,7 +503,7 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/FGAbTYnriPZISvaaYvT6dUFjanXzwTGizA8uOFI84g4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzUy/NS0xMTYyMTkzNTUw/LmpwZWc.jpeg" alt="Cover for SEASCAPE - polyptych" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6392a9ef303b1b529cf69e674efa3eb9.png" alt="Cover for SEASCAPE - polyptych" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-10</td>
       <td>Jan Jelinek</td>
@@ -511,14 +520,14 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 76</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/chzlWM2SLOa8MBSockulRdKYyRI1TvxXjPj4fK5pE6s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTU4/Ny0xMTcxODAzNzE0/LmpwZWc.jpeg" alt="Cover for Ark" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf04b974afd563dbf8b53f7d86e28a52.png" alt="Cover for Ark" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Animal Collective</td>
@@ -534,7 +543,7 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 37</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 53</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 97</li>
         </ul>
       </td>
@@ -542,7 +551,7 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/Vvfro1siGn7LXsPmBpufHHLIPZrFUIm46eaiG2JUMl4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTg2/Mzc1LTE2MTA5Nzc4/OTUtMzAxMS5qcGVn.jpeg" alt="Cover for clouds in our room" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c0210760ec64ced834ce04eeb99c341.png" alt="Cover for clouds in our room" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Reverie Falls On All</td>
@@ -563,6 +572,7 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ad890a9c33a417ca995d69f31ceb659.png" alt="Cover for Intro" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Bruno Sanfilippo</td>
@@ -600,16 +610,17 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       <td>
         <ul>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 34</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 35</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 40</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 43</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 49</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 61</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/52722a07d859449d8c041c87187ec35f.png" alt="Cover for IBM 1401, A User&#39;s Manual" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-10-30</td>
       <td>Jóhann Jóhannsson</td>
@@ -620,11 +631,12 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 1</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 33</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 34</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 39</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 42</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 48</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 62</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -651,6 +663,7 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
     <tr>
       <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09e2246a11b660307a5bf16d687428d9.png" alt="Cover for no man&#39;s land" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-02-06</td>
       <td>subtractiveLAD</td>
@@ -678,7 +691,7 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/USGMy_eR27St34hWJVdF8bbmxHrxJgGc9IcdeWslVBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDE0/MDctMTIwMDc1Mjgy/Ni5qcGVn.jpeg" alt="Cover for Drunken Forest" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/324d18fbec0f485a92b796c966088dfb.png" alt="Cover for Drunken Forest" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-05-22</td>
       <td>Death Ambient</td>
@@ -738,47 +751,39 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 1</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 3</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 63</li>
-            <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 68</li>
-            <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 78</li>
+            <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 69</li>
+            <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 79</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>16</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7bfc3d6d2a3b404f1709a4e4399212b8.png" alt="Cover for The Malady Of Elegance" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-07-28</td>
       <td>Goldmund</td>
       <td>The Malady Of Elegance</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
-            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
-            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 10</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 11</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 12</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 20</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 52</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 63</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 75</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 76</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 90</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/74q_RSAutdhuU7d1IYgjKHTp-WdBq-c88Yl9pvYwmOI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTAy/NTQtMTI2NDY2OTcw/NS5qcGVn.jpeg" alt="Cover for Rest At Worlds End" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/56bcec01ea0d444e9eff59757dc88372.png" alt="Cover for Rest At Worlds End" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-12-01</td>
       <td>Humcrush</td>
@@ -812,7 +817,7 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 66</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -833,7 +838,7 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 41</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -889,7 +894,7 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/i58HJ7LnAdhjo1k0p0GOfGZ4sav2Fjqj2qu-_fP3DzA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDE0/NTAtMTI2OTY1OTYx/MC5qcGVn.jpeg" alt="Cover for Singular Forms (Sometimes Repeated)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34a53e65bab742fe883f911f1e57432b.png" alt="Cover for Singular Forms (Sometimes Repeated)" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03</td>
       <td>Sylvain Chauveau</td>
@@ -915,15 +920,15 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 26</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 27</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 33</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 51</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 54</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 42</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>3</td>
       <td>
-          <img src="https://i.discogs.com/jgkJEqI4x9KAFZMcFN9MzIoWFKXtlsikjmhnpn8k6lY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mzgw/MjYtMTMzMDM3NjQw/OC5qcGVn.jpeg" alt="Cover for Songs To Forget" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/45971354388c877dcb08477f392b647d.png" alt="Cover for Songs To Forget" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-23</td>
       <td>Fourteen Twentysix</td>
@@ -942,13 +947,14 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 55</li>
+            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04724e238acf497ab5fd7b0252cfa615.png" alt="Cover for Amateur Doubles" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Graham Lambkin</td>
@@ -966,9 +972,9 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 18</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 51</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 73</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 23</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 27</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 44</li>
             <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 93</li>
         </ul>
       </td>
@@ -997,6 +1003,7 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
     <tr>
       <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c4692d3c6b2464680bd51f3352edc63.png" alt="Cover for Like Crazy" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-21</td>
       <td>Dustin O&#39;Halloran</td>
@@ -1018,11 +1025,11 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 30</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 32</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 44</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 47</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 55</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 74</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1051,6 +1058,7 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
     <tr>
       <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2962f7264e7c4984a82d7973773c330d.png" alt="Cover for Hectic Zeniths" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-01-10</td>
       <td>Hectic Zeniths</td>
@@ -1073,7 +1081,7 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/NNziXXEdm2dNwTeCmZTGfrhlftkyEkl2Lon3T4nxZtg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NTE3/ODktMTQ2MTg3NDk0/My05NTUyLmpwZWc.jpeg" alt="Cover for Anagnorisis" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/926fb4234b85c756a3458f27d5eb2e8b.png" alt="Cover for Anagnorisis" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-09-18</td>
       <td>Aaron Cherof</td>
@@ -1090,13 +1098,14 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 64</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e25cb928cbe44b5999e15629c3b165c.png" alt="Cover for Centralia" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-01-22</td>
       <td>Mountains</td>
@@ -1170,56 +1179,47 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 16</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 17</li>
             <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 18</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 26</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 35</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 76</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 21</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 41</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd857888f281d96a49efba4d1baea439.png" alt="Cover for Virgins" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-14</td>
       <td>Tim Hecker</td>
       <td>Virgins</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dfe356cf08c94219b6bdfa9167701ab4.png" alt="Cover for Spaces" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-11-18</td>
       <td>Nils Frahm</td>
       <td>Spaces</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 4</li>
             <li> <a href="{{ "/tags/experimental-ambient" | relative_url }}">experimental-ambient</a> # 4</li>
             <li> <a href="{{ "/tags/minimal-piano" | relative_url }}">minimal piano</a> # 4</li>
-            <li> <a href="{{ "/tags/minimal-ambient" | relative_url }}">minimal ambient</a> # 4</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 5</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 71</li>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 75</li>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 82</li>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 84</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 96</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 96</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 96</li>
         </ul>
       </td>
@@ -1244,7 +1244,7 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/FN8MztBLr1sBRwsFFXlLUCsySR9L6gvrfTHFGbrhWd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NTE4/NTgtMTQ0Mzg2MDUz/Mi02NjkwLmpwZWc.jpeg" alt="Cover for Rêverie | Broken" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4aca6c671cdb41d6c1746b3b4a003487.png" alt="Cover for Rêverie | Broken" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-04-02</td>
       <td>Endless Melancholy</td>
@@ -1271,7 +1271,7 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 63</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1290,9 +1290,9 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 25</li>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 82</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 96</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 16</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 62</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1313,14 +1313,14 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 64</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/UrEW8c65P-kCFbYhVpoTli1RG6A6RsGQdWFlgh0py28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNDY4/MDUtMTQxMjI0NzU2/NC0xMTc1LmpwZWc.jpeg" alt="Cover for Fragile" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f23a7dde8de44c4ecc748670cc0c3800.png" alt="Cover for Fragile" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-10-21</td>
       <td>Endless Melancholy</td>
@@ -1355,22 +1355,22 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 14</li>
             <li> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a> # 23</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 23</li>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 32</li>
+            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 25</li>
+            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 27</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 30</li>
             <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 67</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 69</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 71</li>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 72</li>
-            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 74</li>
-            <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 81</li>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 87</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/9bdvRuxd-OsRG5hgcaTp9yjGRkhRY0gOdFATIJwHr98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODgz/ODYtMTQyNjYzMzA4/Mi04MzEwLmpwZWc.jpeg" alt="Cover for Metalepsis" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/310d6e7e3f5be2943c64c7ab702afee0.png" alt="Cover for Metalepsis" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-02-24</td>
       <td>Eartheater</td>
@@ -1388,16 +1388,17 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 48</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 50</li>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 73</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 24</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 40</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 59</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/-XxnfYUgIV5XRaj9PR-XqQLFRIdZ-_uy5nHZJvSqfMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDAx/NDAtMTY1MTkyMTU1/MC03OTY0LmpwZWc.jpeg" alt="Cover for Aftertouches" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/20bbb717e822f72e09a9d9ea8a56eb4c.png" alt="Cover for Aftertouches" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-03-24</td>
       <td>Kara-Lis Coverdale</td>
@@ -1418,7 +1419,7 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/PiP7iprOdOEvxNH8hwpRpukZ6-IvHi65-gAc-B5G3SU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzcw/MjItMTQ3NjEyMjgz/MC0yNTM0LmpwZWc.jpeg" alt="Cover for The Moomins" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7152b6f174703a07a5f148ada4d8f780.png" alt="Cover for The Moomins" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-04-27</td>
       <td>Graeme Miller &amp; Steve Shill</td>
@@ -1472,7 +1473,7 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/C8G6l-KyZDHP0Q0wCsbVFCnt16Z2UcYsUD4Ts33I2mQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDc5/NjYtMTQ4MDc1OTg5/OC04MzgxLmpwZWc.jpeg" alt="Cover for Remain Calm" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79d9bb53bd6ca77ecb510fc7828bd6b5.png" alt="Cover for Remain Calm" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-11-26</td>
       <td>Mica Levi &amp; Oliver Coates</td>
@@ -1487,14 +1488,14 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 54</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/0alQhFHeEUtzVSycTUh3IyQJYBBUIUqOV7xt9TcLltE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDQ3/NDg2LTE1NjY3ODM4/NjEtODgzNi5wbmc.jpeg" alt="Cover for Girl with Basket of Fruit" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a465856d6cd41e4745023b55ead5e312.png" alt="Cover for Girl with Basket of Fruit" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-03-30</td>
       <td>Xiu Xiu</td>
@@ -1508,7 +1509,7 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 95</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 97</li>
             <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 99</li>
             <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 100</li>
         </ul>
@@ -1517,7 +1518,7 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/OYipPq0twOH9sn0YyQKXJpCZZgIwuWiGwAFLcbvPMOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjk1/MzI5LTE0OTQ4MzI3/OTktOTkzOS5qcGVn.jpeg" alt="Cover for Buy Corals Online" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6606719fd988d9837e57c6ff1a9ad377.png" alt="Cover for Buy Corals Online" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-19</td>
       <td>Loke Rahbek</td>
@@ -1532,14 +1533,14 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 1</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/OYipPq0twOH9sn0YyQKXJpCZZgIwuWiGwAFLcbvPMOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjk1/MzI5LTE0OTQ4MzI3/OTktOTkzOS5qcGVn.jpeg" alt="Cover for Together" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d37dc4055101292442b01f6e85fc6705.png" alt="Cover for Together" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-19</td>
       <td>Loke Rahbek</td>
@@ -1561,7 +1562,7 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/OYipPq0twOH9sn0YyQKXJpCZZgIwuWiGwAFLcbvPMOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjk1/MzI5LTE0OTQ4MzI3/OTktOTkzOS5qcGVn.jpeg" alt="Cover for Elephant" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a85506b4b3a58a4b05ccfc440ac1d39.png" alt="Cover for Elephant" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-19</td>
       <td>Loke Rahbek</td>
@@ -1618,7 +1619,7 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/O7cKsH4Hb2KHIxQRUpY6KNhTvnrPYJYRHZDftzqOLks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzky/MzM2LTE1MzY0MzE0/NjAtNDM5MS5qcGVn.jpeg" alt="Cover for Tangerine Reef" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d209a802fedccc5c24f2a9dded973eb.png" alt="Cover for Tangerine Reef" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-08-17</td>
       <td>Animal Collective</td>
@@ -1655,7 +1656,7 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/8fkWE9CIp6yIGeQLY6Aya07EaJrD6bh20lUpQy5FKT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY3/NTc3LTE2NTE0MjQ3/MjEtNDA5MS5qcGVn.jpeg" alt="Cover for Konoyo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/994fef673e7f67e15d58286055dc362e.png" alt="Cover for Konoyo" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-09-28</td>
       <td>Tim Hecker</td>
@@ -1669,14 +1670,14 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 62</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/8ePgbxAdzoOVgPv4TaF1dhyAWkrgcb_n70VPL3G8tP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU0/NDg3LTE1Mzk2MDcy/MTMtMTUyMS5qcGVn.jpeg" alt="Cover for Stadium" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/584703ec62147fcd1ea8ea5fba440c3a.png" alt="Cover for Stadium" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-12</td>
       <td>Eli Keszler</td>
@@ -1692,16 +1693,16 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 77</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 84</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 90</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 11</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 14</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/XW4N5SAGlMQNQMvMGUhV2cJI_M-VyFXVllsvw4fq80c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjE0/OTQ0LTE1NjUwNDgx/NDktNTI4Mi5qcGVn.jpeg" alt="Cover for Anoyo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d50437d5fa611d7e728892bef7c3d4d.png" alt="Cover for Anoyo" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-05-24</td>
       <td>Tim Hecker</td>
@@ -1720,7 +1721,7 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/FyPGDX0xyV1tkvyh1-MWQ_jwfQgxrQUv-mTwFVcOzKk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTU5/NzM3LTE1Njg5NjA2/NDctMzU5Ny5qcGVn.jpeg" alt="Cover for Top Ten most Epic fish of all time" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5335cfe4101f46302d16df701bb46df7.png" alt="Cover for Top Ten most Epic fish of all time" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-09-19</td>
       <td>Sintel</td>
@@ -1739,7 +1740,7 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/o4SONxImVysVSlGZBM9FSit3mSLRxJOvst0WPnqOzHw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzI1/NjYyLTE1NzIyNzIz/MTQtODM0MS5qcGVn.jpeg" alt="Cover for t4t" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0cd1e76f5f66727a80ef9765c21abf9b.png" alt="Cover for t4t" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-10-22</td>
       <td>Claire Rousay</td>
@@ -1756,7 +1757,7 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 63</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1780,15 +1781,16 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 49</li>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 57</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 13</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 38</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/isU-gQyRls1b3_2IJmy4CGDnSi6mijvXr6qYBvaVNTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODM1/MzYtMTM2MDYzNzQ4/NS04ODQwLmpwZWc.jpeg" alt="Cover for The Consuming Flame: Open Exercises in Group Form" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7fd19682504f8b1cde8edc5042a054d.png" alt="Cover for The Consuming Flame: Open Exercises in Group Form" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-08-21</td>
       <td>Matmos</td>
@@ -1807,18 +1809,19 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 58</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 85</li>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 87</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 91</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 95</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 5</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 8</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 32</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 88</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 88</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>12</td>
       <td>
-          <img src="https://i.discogs.com/d6bMsnc-wGhvy3-9NzjIKA6Xys6NWa9qt4FrpDtwq0o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjIz/MjE3LTE2MjcyNDM2/MzAtMzU2My5qcGVn.jpeg" alt="Cover for HEY WHAT" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b305c6f897c39de5c45fc08b5064679.png" alt="Cover for HEY WHAT" style="max-width:120px; height:auto;" />
       </td>
       <td>2021</td>
       <td>Low</td>
@@ -1832,10 +1835,10 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 12</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 33</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 71</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 92</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 28</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 52</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 84</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1860,8 +1863,9 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 51</li>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 58</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 15</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 37</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1888,7 +1892,7 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/_Ce9IG272LarBlG4RH4Jo3HXiA2fMAe13tvlH_dl5uA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjA3/ODk3LTE2NDUxOTcy/NDktNjQ1My5qcGVn.jpeg" alt="Cover for Tysha" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab98fa53c337d3ca23d50f9f78afa704.png" alt="Cover for Tysha" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-02-09</td>
       <td>Katarina Gryvul</td>
@@ -1925,15 +1929,15 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 48</li>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 56</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 39</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/VBi5Eup6Phu5ECfMmg_hm5-CPI-Z8T9efOmuVzZ0VPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDM5/ODI0LTE2NDY5MzQ5/MDEtMTcwMy5qcGVn.jpeg" alt="Cover for Recordings from the Åland Islands" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c29074e66c6331423842b37d34e32a84.png" alt="Cover for Recordings from the Åland Islands" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-03-11</td>
       <td>Jeremiah Chiu</td>
@@ -1950,15 +1954,15 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 72</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 91</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 9</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/iRMI2LmoIV5y6gKQcMfMJRpPGp8vcuil9uK5Q9ujcio/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTk4/ODAzLTE2NTU0MjM5/ODQtNzc2OC5qcGVn.jpeg" alt="Cover for Small Winters" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1941637f0d1b25fac81531fecf6b686.png" alt="Cover for Small Winters" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-06-14</td>
       <td>Taylor Deupree</td>
@@ -1975,17 +1979,17 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 45</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 56</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 72</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 94</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 6</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 34</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 38</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/FlXvwZxvkr7fGib_giVBPLGab29SY0sWH2c7yfSEliM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMjcz/ODktMTM4ODExNzU5/My02NDU4LmpwZWc.jpeg" alt="Cover for Ovidono" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa0fb6d4e6fc87c38f837106d8ae96ee.png" alt="Cover for Ovidono" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-23</td>
       <td>Oval</td>
@@ -2005,7 +2009,7 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/u6Ghgi_rPNcuXmGr_wnrxnaInN9RaG2ruwE2klzwRwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njg1/NDcyLTE2ODgyMjYx/NjctMzgyNy5qcGVn.jpeg" alt="Cover for Living Room" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2ef39c3239926b3dea508fdc07ede67.png" alt="Cover for Living Room" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-10-01</td>
       <td>Roméo Poirier</td>
@@ -2023,8 +2027,8 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 63</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 77</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 22</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -2046,7 +2050,8 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 60</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 16</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -2072,7 +2077,7 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
     <tr>
       <td>10</td>
       <td>
-          <img src="https://i.discogs.com/Bvl-ZFIXp9dlDRNRylErZe1bEXmMjQCJN4a98nNXw90/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjk5/NzcyLTE2Nzc5MzIz/NjYtODk3OS5wbmc.jpeg" alt="Cover for Shifted in Dreams" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3e96f6e6efdb81c225f96325a21be30.png" alt="Cover for Shifted in Dreams" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-02-24</td>
       <td>Kassel Jaeger</td>
@@ -2093,7 +2098,7 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/7zYNUJfFFXKwL_o7hhYEMS_iquzGRGfc6VoBDjrooGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njc3/NTI2LTE2ODA4NjMz/MjEtNTQ0NC5qcGVn.jpeg" alt="Cover for No Highs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bba19b585b0aab48f25dbf4d1bd2c4ce.png" alt="Cover for No Highs" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-04-07</td>
       <td>Tim Hecker</td>
@@ -2112,7 +2117,7 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
     <tr>
       <td>6</td>
       <td>
-          <img src="https://i.discogs.com/BgekH-rXkpIBP0DloqOj9E5Cqe1YXZtp2cOsKWIRVPY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDAz/MDcxLTE2OTU3MzEx/ODAtNzk5OS5qcGVn.jpeg" alt="Cover for Distorted Rooms" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/93d127a83c0af3683906dc4ccdbd1cd6.png" alt="Cover for Distorted Rooms" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-09-22</td>
       <td>Radian</td>
@@ -2132,7 +2137,7 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/b6nGAA8V4johVAaFqGEdOVJ3rhqHab27NAsnbToq8ts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjI4/MTQ2LTE2OTc2MjAz/NTItNzIwMC5qcGVn.jpeg" alt="Cover for Rhizomes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f0832876f24a29efe8b7d6b708d742e.png" alt="Cover for Rhizomes" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-10-06</td>
       <td>Aho Ssan</td>
@@ -2152,14 +2157,14 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 6</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/DTaqWxCJ45WYSLlJS0v9Olo3poGCkgknrl9fUHsQTjg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODI3/MTA5LTE3MDE0MDgy/MzAtOTE0MS5qcGVn.jpeg" alt="Cover for Cold Reading" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbdc3b0d28bc9eff19b7ceda5bda5d75.png" alt="Cover for Cold Reading" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-10-27</td>
       <td>Flora Yin-Wong</td>
@@ -2177,15 +2182,16 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 29</li>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 74</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 71</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 75</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/NYf0GapxkWBKfruk6H0LCiQ8fDqumBLX9hWSVYbgjMY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTk0/NTk1LTE3MTQ5Mjky/OTMtMjIzMi5qcGVn.jpeg" alt="Cover for Broadcast and the Focus Group Investigate Witch Cults of the Radio Age" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/26093ed4709a09ea3d10fdfe87f8034b.png" alt="Cover for Broadcast and the Focus Group Investigate Witch Cults of the Radio Age" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-03-21</td>
       <td>Broadcast</td>
@@ -2202,7 +2208,7 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 75</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 22</li>
             <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 97</li>
         </ul>
       </td>
@@ -2222,8 +2228,8 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 16</li>
-            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 84</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 80</li>
+            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -2247,14 +2253,15 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 12</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 65</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 16</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9bab4b3af9a846480f4a50a1465e7eb0.png" alt="Cover for The Heart Pumps Kool-Aid" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>---__--___</td>
@@ -2268,13 +2275,14 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 21</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/535a6f2019690e8e0e5269269c5a7279.png" alt="Cover for Flood Format" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Bird&#39;s Eye Batang</td>
@@ -2293,15 +2301,16 @@ Electroacoustic blends electronic processing with organic instrumentation and fi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 17</li>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 71</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 84</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 14</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 70</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/29447f08f1aa812809a44e7baea3f762.png" alt="Cover for Ley" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Approaching Mountains</td>

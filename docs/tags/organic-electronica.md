@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-21T00:58:00.957Z
+date: 2025-12-04T04:24:39.617Z
 permalink: tags/organic-electronica
 title: organic electronica
 ---
 
 ## organic electronica
 
-Last updated: <time datetime="2025-10-21T00:58:00.957Z">Tue Oct 21 2025 03:58:00 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T04:24:39.617Z">Thu Dec 04 2025 06:24:39 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,6 @@ Organic electronica blends digital synthesis and processing with acoustic instru
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/xb6PuDkyyppktKWbgvYJi2609G6Ya1d5gWHX8DvktAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTY5/NzYtMTQ0ODk2NjAx/OS02ODUwLmpwZWc.jpeg" alt="Cover for ca508 - Miche - Along Yurikamome" style="max-width:120px; height:auto;" />
       </td>
       <td>1974</td>
       <td>Miche</td>
@@ -146,6 +145,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/390520270be390e0f2a98db669ffa5ac.png" alt="Cover for model 3, step 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-09-27</td>
       <td>Microstoria</td>
@@ -207,7 +207,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/UfEowv8sLYnGWjXu477-h9U1KOH0XQUcHvcfiRdKZy0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA5/Ni0xMjMyNzQ3ODIy/LmpwZWc.jpeg" alt="Cover for Metamemoria" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1270ee51d23645e8a62bcdbb0eabad60.png" alt="Cover for Metamemoria" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-11</td>
       <td>Coti</td>
@@ -247,6 +247,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/15bb04897b47e5c556bf774e2d59c339.png" alt="Cover for The Lemon of Pink" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-10-07</td>
       <td>The Books</td>
@@ -259,14 +260,14 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 67</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/id7E9c93q15OYDNZGbl8TGoZ-_Et-FUzKNYVzhF5bAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTM0/MTk1LTE2MjIzMDMz/MTUtMTM1OC5qcGVn.jpeg" alt="Cover for Insula in Albis [pn084]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7725a10aa58994c6fcc6740d0d39736.png" alt="Cover for Insula in Albis [pn084]" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Lluvia Acida</td>
@@ -299,7 +300,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/8gDsxtelll3qO89D5XCRAdgCq8_-lg0Nkl57_xuE-No/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTk2/Mi0xMTEzNjk5MTQ5/LmpwZw.jpeg" alt="Cover for Live From Saint Johnsbury, Vermont" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de04ecd294b04c57a5a1af427b75d82f.png" alt="Cover for Live From Saint Johnsbury, Vermont" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-01-06</td>
       <td>Khonnor</td>
@@ -420,7 +421,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/lpWERUrntWaibazb_lDHoaALDapS8J8Dl-h9d24TXpY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODQx/NTUtMTU3NTExMjA4/OS0zNDE3LmpwZWc.jpeg" alt="Cover for Toothbrush fever" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/912d5d06473949b8a783d39f7be7051b.png" alt="Cover for Toothbrush fever" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-10-10</td>
       <td>Naing Naing</td>
@@ -434,14 +435,14 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 13</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/KLtGcQZiWsCi2v-8WVpMrAbjHmY5UL0m6nUWDzwyCN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODEz/MzYtMTM0NzkxNzA1/Ny05Njk0LmpwZWc.jpeg" alt="Cover for Toad Fever (Limited edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/342016942cb2dbabefee6d60b2a65562.png" alt="Cover for Toad Fever (Limited edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-10-24</td>
       <td>Naing Naing</td>
@@ -453,7 +454,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 15</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -502,7 +503,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/4Hg_uFdDiKD7Bl4n4srp8trUYApKuvDv8uy_DI_P43A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MzE4/OS0xMTYyMDQ5OTIw/LmdpZg.jpeg" alt="Cover for Herramientas Para Abrir Un Libro" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4bba2772a723a66c8070e78dfbe29a64.png" alt="Cover for Herramientas Para Abrir Un Libro" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-05-06</td>
       <td>Bacanal Intruder</td>
@@ -516,7 +517,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 13</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -607,7 +608,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/9vFVNEbbhZ0fF9jB-w1Sfn298E4hNwNckH2n1A45a4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMjUy/Ni0xMTMxODAyMTAx/LmpwZWc.jpeg" alt="Cover for valedictions ep" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/66685ed98a0b4830bd7b6e80918dda3e.png" alt="Cover for valedictions ep" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-09-01</td>
       <td>turnus</td>
@@ -660,7 +661,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 5</li>
+            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 4</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 12</li>
         </ul>
       </td>
@@ -668,7 +669,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/bYDqHFjguSvsZXfQDMFFhJYi7m07DXkRRTpwZG_5Y2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTI2/NjYtMTI4NDg1NDAz/OC5qcGVn.jpeg" alt="Cover for Columpio EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/25a141dd9991454bbda57a12102a8abd.png" alt="Cover for Columpio EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-11-27</td>
       <td>Yamamoto</td>
@@ -713,7 +714,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/LEzo4fl3p69IPztb4EY7qIZERdnFqAVQZdCzEXFkGf4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NjYw/Ny0xMTc3MjYwMTgx/LmpwZWc.jpeg" alt="Cover for Morning Sun - EKO001" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1aec43b99f4a4fc28ab2fcc7fcddcbbe.png" alt="Cover for Morning Sun - EKO001" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-02-01</td>
       <td>Letna</td>
@@ -729,15 +730,15 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 25</li>
             <li> <a href="{{ "/tags/serbian" | relative_url }}">serbian</a> # 49</li>
-            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/5wLF0lkwVt1yRxtcrg8JADVtuVNdSkx0CL8AScQrsz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNzc1/NS0xMTQxNzQ5Nzc1/LmpwZWc.jpeg" alt="Cover for Linedrop Remix EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09d37e15d205f20f028efc73d2e1c6f2.png" alt="Cover for Linedrop Remix EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-03-05</td>
       <td>Sabi</td>
@@ -783,7 +784,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/vy4YOTgBLqjqwUEs00HlizeXsOfGso1JezKrHPbaTt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjE4/MzctMTIxMjkyMzI3/Ni5qcGVn.jpeg" alt="Cover for Records for small children" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5323a8bb1a9ade2e955bb111d5169eff.png" alt="Cover for Records for small children" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-05</td>
       <td>Sean Eskimo</td>
@@ -803,15 +804,15 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 17</li>
             <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 70</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/i-I2ZiasyPtSuW-Ju_wmaEZFFmKIxe9Il5pSanOGwI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MzIw/MC0xMTgxNzcyMjY0/LmpwZWc.jpeg" alt="Cover for Lalapop ep" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5dfd68fedc235c42760f3414b19284ee.png" alt="Cover for Lalapop ep" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-21</td>
       <td>The Oslo Deadtrash Project</td>
@@ -881,7 +882,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/FM5D6W0bqeV5eXhhBvGoAoC24K8ZRXoRyz0qXuJRY2A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDgw/MTAtMTE5MjYwMTQx/MS5qcGVn.jpeg" alt="Cover for Frerk (aer009)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8553139a9ddbaa06bdbb0332a377f366.png" alt="Cover for Frerk (aer009)" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-07-24</td>
       <td>My First Trumpet</td>
@@ -901,14 +902,16 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 74</li>
-            <li> <a href="{{ "/tags/hamburg" | relative_url }}">hamburg</a> # 91</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 8</li>
+            <li> <a href="{{ "/tags/hamburg" | relative_url }}">hamburg</a> # 10</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/32a2d029c2f248ecb4b2c08f24a236fc.png" alt="Cover for Objet Abandonné en Mer" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09-04</td>
       <td>Nicolas Bernier &amp; Simon Trottier</td>
@@ -924,14 +927,14 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 28</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/sLcKNECOAQeYaHvGhGrpx-vateXrhUbxZ00YmR1zWEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI5/OTQtMTI3ODk3Njgw/Ny5wbmc.jpeg" alt="Cover for Ego-God" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b93a307a68ed424a5f6eca54494eff1.png" alt="Cover for Ego-God" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-11-01</td>
       <td>Barbagallo</td>
@@ -945,8 +948,8 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 5</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 33</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -968,7 +971,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 22</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 23</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 65</li>
         </ul>
       </td>
@@ -1017,7 +1020,6 @@ Organic electronica blends digital synthesis and processing with acoustic instru
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/n7fNwstiWe0Ce9jJFzrYQegdZVGAMdZreKo-sNbpS1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDQy/NTctMTIxMTc5MjEx/MS5qcGVn.jpeg" alt="Cover for [gruen026] Green Planet" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-05-19</td>
       <td>Gate Zero</td>
@@ -1038,7 +1040,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/0dEVfiTYCVf1gTECE1iRo1g-lJY2NmOW8ghqbN-ViDY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTQw/MTQtMTIxNzY3MjM5/Ni5qcGVn.jpeg" alt="Cover for Missing monsters" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f170a311e49828ac5a5f05d5e2d5b487.png" alt="Cover for Missing monsters" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-07-29</td>
       <td>risch</td>
@@ -1053,7 +1055,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 30</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1081,7 +1083,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/iX8lF-rpn2dcwiT_MFwhkNIKW4MztxHE7uTsJ5Eww8U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzEx/NTAtMTI3NzQzNjEy/My5wbmc.jpeg" alt="Cover for Toxic Feelings" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5101bf13bf0a40deaf514ec09994cc3d.png" alt="Cover for Toxic Feelings" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Tidy kid</td>
@@ -1102,9 +1104,9 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 5</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 45</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 67</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 65</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1130,7 +1132,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/nraP0Ew3g1EVSossRWQF-s8KqhV21nFV1-3C_dVTCT4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTcw/ODEtMTU4MDYxNjIz/OS0yNzg4LmpwZWc.jpeg" alt="Cover for beko_02" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b28e2167d67747f4a31eedf08f70df81.png" alt="Cover for beko_02" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-07</td>
       <td>Jamie Long</td>
@@ -1147,7 +1149,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 24</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1176,7 +1178,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/akFE133w10iFiOVu8dnqG8jpj0vNb0aI-dAp_mYeGW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTA2/MDgtMTI2MzQ1MjI1/NS5qcGVn.jpeg" alt="Cover for Global EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3ad03bc7913451196198fc7ebbaead9.png" alt="Cover for Global EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-13</td>
       <td>The Lights Galaxia</td>
@@ -1193,7 +1195,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 55</li>
+            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1221,15 +1223,16 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 22</li>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 28</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 54</li>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 73</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b873ce3654dd44ef96f795fe26323ce4.png" alt="Cover for Cross Mountain" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>The Smallest Bones</td>
@@ -1250,13 +1253,14 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 51</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/47b35c4749a9ed38193ee9de825ed657.png" alt="Cover for automat" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-12</td>
       <td>Elektrolandmusik</td>
@@ -1268,14 +1272,14 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 1</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/XldkdwVi2dwj41RR4DSIAgxXHJoMvRlBcH9wltFOtcE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0OTEx/MDUtMTM5NDc0NDIz/My0yODA1LmpwZWc.jpeg" alt="Cover for Short note from the time" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/64e01f67dcd54427abe56bb36df7790d.png" alt="Cover for Short note from the time" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-29</td>
       <td>Kraffa</td>
@@ -1331,8 +1335,8 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 55</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 56</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 53</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1364,7 +1368,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 14</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1449,16 +1453,17 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 14</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 15</li>
+            <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 25</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 66</li>
-            <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 75</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/9C5LUBAJT7hp_jmz2FW4WZ2CkyYdZ1xUcmRKyyJ2Q5Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTkw/OTEtMTI5OTc4NTY2/MC5qcGVn.jpeg" alt="Cover for A Crawlspace Companion" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/24d470de69738e78040099ed0d300f71.png" alt="Cover for A Crawlspace Companion" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03-06</td>
       <td>Gutta Percha</td>
@@ -1482,7 +1487,6 @@ Organic electronica blends digital synthesis and processing with acoustic instru
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/Ftf4jM_jMIReVwsbj8o0eF7awzyHA9JrRGl7Bxgn_VI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjU5/MjEtMTMwMDA0ODQ4/OS5qcGVn.jpeg" alt="Cover for The Butterfly Kiss EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03-09</td>
       <td>Taiga Blues</td>
@@ -1510,8 +1514,8 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 20</li>
             <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 29</li>
+            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1553,16 +1557,16 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 28</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 41</li>
             <li> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a> # 57</li>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 58</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/03mF8JRom7plBsXNPFtz9Z2daBK7CEbvBWhkbeXTCh0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MzA2/NzktMTQ0MTM3NTMw/MC0xMTAyLmpwZWc.jpeg" alt="Cover for Photo Album" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1046928de3b047fa98528c54181917e9.png" alt="Cover for Photo Album" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-03</td>
       <td>Henrik José</td>
@@ -1581,7 +1585,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 67</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 35</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 80</li>
         </ul>
       </td>
@@ -1612,9 +1616,9 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 35</li>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 59</li>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 78</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 41</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 60</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 79</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 90</li>
             <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 92</li>
         </ul>
@@ -1623,7 +1627,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/KzGzI4Dww5laho_jQzdNLBjnJx67uyNE_wEOXvKQiBM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDI3/NTgtMTQwMzA4OTM4/Ny05ODc1LmpwZWc.jpeg" alt="Cover for Brick City Ghosts" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/966d071fd45145b09087d8c36d6ce6a0.png" alt="Cover for Brick City Ghosts" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-20</td>
       <td>Riding Alone for Thousands of Miles</td>
@@ -1645,17 +1649,17 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-jersey" | relative_url }}">new jersey</a> # 7</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 17</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 17</li>
             <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 18</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 83</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 84</li>
-            <li> <a href="{{ "/tags/new-jersey" | relative_url }}">new jersey</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/5XuURzFtDQ7ZEp94CZHvMTcZUmcp98Olo7EiOyfWrP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njg4/MDktMTMwOTY1NzM3/OC5qcGVn.jpeg" alt="Cover for Clelia II [basic_sounds - bsc_011]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f470f01c977496d8fb81af256bd8425.png" alt="Cover for Clelia II [basic_sounds - bsc_011]" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-30</td>
       <td>Dntel</td>
@@ -1680,7 +1684,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/a_K4qbSrk8v30GjzYQH7IguYB1Kqa5PH1KEyFiv-6mI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTg3/NDItMTMwNDI5NTAy/OS5wbmc.jpeg" alt="Cover for AGORA" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3bdc073bec7646f09a6c8b4adebc11b3.png" alt="Cover for AGORA" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-07-01</td>
       <td>Derek Piotr</td>
@@ -1698,15 +1702,15 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 44</li>
-            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 58</li>
+            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 43</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/GMsMuAt0qbhE-cpSWuH4ULPB94lViN60xM2LE5gzXZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNzM1/OTYtMTQ1ODQxMTYx/NC04OTg2LmpwZWc.jpeg" alt="Cover for Try For Next Stage Free" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae567432abcf4c6c8d315c0cc304b3e4.png" alt="Cover for Try For Next Stage Free" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-09-08</td>
       <td>Amitron_7</td>
@@ -1771,8 +1775,8 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 38</li>
-            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 56</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 39</li>
+            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1822,7 +1826,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/SaGnv5B1nsRBhmd6WZ27jajRTm61NeWFSaq8cLlnrKg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzEz/MTctMTM1NjMyODA5/NC01ODg5LmpwZWc.jpeg" alt="Cover for Circadian" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/289d056063304bf8946325b7754e9b0d.png" alt="Cover for Circadian" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12-06</td>
       <td>Off Land</td>
@@ -1875,7 +1879,6 @@ Organic electronica blends digital synthesis and processing with acoustic instru
     <tr>
       <td>13</td>
       <td>
-          <img src="https://i.discogs.com/iYViCycKhv_kIQYGJt1WtZop88bcBW4NT09MhbSxCNQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzY0/OTMtMTM5MzMxNzYy/MC01NDExLmpwZWc.jpeg" alt="Cover for Storm" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-02-25</td>
       <td>Alejandro Remeseiro</td>
@@ -1906,7 +1909,6 @@ Organic electronica blends digital synthesis and processing with acoustic instru
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/i1LYMVnMc3ZuKorkV9ioHKc1si9Z8SkLSbYDgJ3Jtm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTA2/NjU4LTE1MzY2MjMy/NjMtNTA0MC5qcGVn.jpeg" alt="Cover for La Tristeza se destruye" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-11-17</td>
       <td>Trasvorder</td>
@@ -1972,17 +1974,17 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 33</li>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 38</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 62</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 62</li>
-            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 68</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/aws2HoQ3pA10LP09Ws8JXxUKbDdG9rja5gZiu_rTjTs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDI4/NzIyLTE1NTQwMzE0/NjctODEwMi5qcGVn.jpeg" alt="Cover for Elsewhere" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9bc22d1423d3431f81c9e6618e42ac07.png" alt="Cover for Elsewhere" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-02-19</td>
       <td>Derek Piotr</td>
@@ -2037,9 +2039,9 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 5</li>
             <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 75</li>
             <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 78</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -2155,6 +2157,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/900567a29fcf4cfdaf56149c46802575.png" alt="Cover for Midnight Polaroids" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Robel Synthesia</td>
@@ -2183,7 +2186,6 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 4</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 38</li>
         </ul>
       </td>
@@ -2191,6 +2193,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
     <tr>
       <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/29bde5f021ff4a1a8399ee3a1680d0cd.png" alt="Cover for librecord" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>yutaka hirasaka</td>
@@ -2214,13 +2217,14 @@ Organic electronica blends digital synthesis and processing with acoustic instru
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 31</li>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c67ba706476646fb9bce4fa3507a1a92.png" alt="Cover for Nos Casamos en África EP" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Bi-Log</td>
@@ -2305,6 +2309,7 @@ Organic electronica blends digital synthesis and processing with acoustic instru
     <tr>
       <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4fc79425fcf92b9ef543bbc738fa5fe1.png" alt="Cover for all my apartment songs" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Jason Sposa</td>

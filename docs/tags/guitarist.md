@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T11:33:59.435Z
+date: 2025-12-04T04:24:31.491Z
 permalink: tags/guitarist
 title: guitarist
 ---
 
 ## guitarist
 
-Last updated: <time datetime="2025-11-23T11:33:59.435Z">Sun Nov 23 2025 13:33:59 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:24:31.491Z">Thu Dec 04 2025 06:24:31 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -87,6 +87,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
     <tr>
       <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f4356972224a27ddccb7728926ee080.png" alt="Cover for First Winter" style="max-width:120px; height:auto;" />
       </td>
       <td>1969</td>
       <td>Johnny Winter</td>
@@ -106,7 +107,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
     <tr>
       <td>19</td>
       <td>
-          <img src="https://i.discogs.com/ArypfrfQ1a68HZFq4x436C9dRg2z3ONfK7cbWyhlUUg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTE4/MzktMTYzOTQyNTQ1/Mi04MTY3LmpwZWc.jpeg" alt="Cover for Stages (disc 4: Atlanta &#39;70)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ff9503114884b27964ea3449d9b4e6c.png" alt="Cover for Stages (disc 4: Atlanta &#39;70)" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>Jimi Hendrix</td>
@@ -225,7 +226,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/POx03PBBFRM-bDsNLsETjeSu47kyO9hi_ujvKJrwqtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTk5/ODctMTQzMzA2Njgw/Mi0xODU4LmpwZWc.jpeg" alt="Cover for Stages: Paris &#39;68" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/619ae08766544a20b81f3f6545d876cd.png" alt="Cover for Stages: Paris &#39;68" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>Jimi Hendrix</td>
@@ -258,7 +259,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 99</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -446,7 +447,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/uwCi8j_ahxm66ejA3-EjB6pPbcqzR_kCFNOyz7zqxWE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTkz/ODEtMTYwMDI3Mjcz/MC02NzE5LmpwZWc.jpeg" alt="Cover for This Is Buddy Guy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e75570400d0b567396d2f9d319bfa802.png" alt="Cover for This Is Buddy Guy" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Buddy Guy</td>
@@ -488,6 +489,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2acfaa50e2d34fcecfbc7daad6a9f077.png" alt="Cover for Number 10" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-11-10</td>
       <td>J.J. Cale</td>
@@ -523,7 +525,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 50</li>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -551,7 +553,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/TnF6trU-InQxZ0c7xlo96UpURpTfbmOXWcv15-toKFs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDk2/NDgtMTU1NzgyOTg0/Ni0xMjQ0LmpwZWc.jpeg" alt="Cover for Stages: San Diego &#39;69" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0fa5079873b4e0e8779c20294100499.png" alt="Cover for Stages: San Diego &#39;69" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Jimi Hendrix</td>
@@ -731,7 +733,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 48</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 49</li>
             <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 64</li>
         </ul>
       </td>
@@ -857,6 +859,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2104198835cd4d67cdc5fb69a8b09233.png" alt="Cover for Voodoo Child: The Jimi Hendrix Collection" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-04-11</td>
       <td>Jimi Hendrix</td>
@@ -891,8 +894,8 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 37</li>
             <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 53</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -972,8 +975,8 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 38</li>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 71</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 29</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1017,9 +1020,9 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 21</li>
-            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 43</li>
-            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 78</li>
+            <li> <a href="{{ "/tags/danish-poprock" | relative_url }}">danish poprock</a> # 23</li>
+            <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 23</li>
+            <li> <a href="{{ "/tags/dansk" | relative_url }}">dansk</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1099,7 +1102,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 92</li>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1118,7 +1121,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 13</li>
+            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1221,7 +1224,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 9</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1425,7 +1428,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mali" | relative_url }}">mali</a> # 3</li>
+            <li> <a href="{{ "/tags/mali" | relative_url }}">mali</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1484,7 +1487,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 68</li>
+            <li> <a href="{{ "/tags/south-africa" | relative_url }}">south africa</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1526,7 +1529,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 56</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1606,8 +1609,8 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 13</li>
             <li> <a href="{{ "/tags/tekno" | relative_url }}">tekno</a> # 87</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1632,7 +1635,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       <td>
         <ul>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 55</li>
-            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 65</li>
+            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1660,7 +1663,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 9</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1696,7 +1699,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 18</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1724,16 +1727,17 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 3</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 22</li>
             <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 72</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 78</li>
             <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 83</li>
+            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22026f30d4676dbf591522737e2b284f.png" alt="Cover for Pyramyd" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>ZAILM Atoyanh</td>
@@ -1996,6 +2000,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
     <tr>
       <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dadfb5a902284261baa3ceb34a5906ce.png" alt="Cover for KRONOSS" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Marshall - Zailm - Manchill</td>
@@ -2113,6 +2118,7 @@ The &quot;guitarist&quot; tag highlights music where the guitar takes center sta
     <tr>
       <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e772be128da1479299b0c0ad2b662500.png" alt="Cover for Two Blue Birds Fly" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Eric Clapton &amp; Jeff Beck</td>

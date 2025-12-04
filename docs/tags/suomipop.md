@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-21T02:20:08.865Z
+date: 2025-12-04T04:28:56.433Z
 permalink: tags/suomipop
 title: suomipop
 ---
 
 ## suomipop
 
-Last updated: <time datetime="2025-10-21T02:20:08.865Z">Tue Oct 21 2025 05:20:08 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T04:28:56.433Z">Thu Dec 04 2025 06:28:56 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -80,8 +80,8 @@ Suomipop refers to Finnish-language pop music that emerged as a distinct cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 42</li>
-            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 59</li>
+            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 41</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -138,7 +138,7 @@ Suomipop refers to Finnish-language pop music that emerged as a distinct cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/suomirock" | relative_url }}">suomirock</a> # 93</li>
+            <li> <a href="{{ "/tags/suomirock" | relative_url }}">suomirock</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -177,7 +177,7 @@ Suomipop refers to Finnish-language pop music that emerged as a distinct cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/suomirock" | relative_url }}">suomirock</a> # 71</li>
+            <li> <a href="{{ "/tags/suomirock" | relative_url }}">suomirock</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -273,6 +273,7 @@ Suomipop refers to Finnish-language pop music that emerged as a distinct cultura
     <tr>
       <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de0181c417953c89b83784c315a60c2f.png" alt="Cover for Raha ja rakkaus" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Leevi and the Leavings</td>
@@ -287,7 +288,7 @@ Suomipop refers to Finnish-language pop music that emerged as a distinct cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/suomirock" | relative_url }}">suomirock</a> # 83</li>
+            <li> <a href="{{ "/tags/suomirock" | relative_url }}">suomirock</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -454,6 +455,7 @@ Suomipop refers to Finnish-language pop music that emerged as a distinct cultura
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b60c84ec1969aff664f3fac9ceef0308.png" alt="Cover for Musiikkiluokka" style="max-width:120px; height:auto;" />
       </td>
       <td>1989-06</td>
       <td>Leevi and the Leavings</td>
@@ -469,8 +471,8 @@ Suomipop refers to Finnish-language pop music that emerged as a distinct cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 8</li>
-            <li> <a href="{{ "/tags/suomirock" | relative_url }}">suomirock</a> # 95</li>
+            <li> <a href="{{ "/tags/suomirock" | relative_url }}">suomirock</a> # 6</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -760,7 +762,7 @@ Suomipop refers to Finnish-language pop music that emerged as a distinct cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 72</li>
+            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -780,7 +782,7 @@ Suomipop refers to Finnish-language pop music that emerged as a distinct cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 65</li>
+            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -802,14 +804,15 @@ Suomipop refers to Finnish-language pop music that emerged as a distinct cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 36</li>
-            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 52</li>
+            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 48</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6df29902d011d203e26f31b28eaa789b.png" alt="Cover for Luuta ja nahkaa" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Tuomari Nurmio</td>
@@ -824,7 +827,7 @@ Suomipop refers to Finnish-language pop music that emerged as a distinct cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 58</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1108,13 +1111,14 @@ Suomipop refers to Finnish-language pop music that emerged as a distinct cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 21</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9fdcdc97ab974939a5106b5d1343bf8f.png" alt="Cover for Kaikista kasvoista" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-11-11</td>
       <td>Anna Eriksson</td>
@@ -1186,6 +1190,7 @@ Suomipop refers to Finnish-language pop music that emerged as a distinct cultura
     <tr>
       <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/000cca43785d30504967422ba4841413.png" alt="Cover for Sinusta sinuun" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-10-26</td>
       <td>Anna Eriksson</td>
@@ -1204,7 +1209,7 @@ Suomipop refers to Finnish-language pop music that emerged as a distinct cultura
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/iO01eatBRhVXzEUszE6OLSBFAnNSfu3rfhwVTTAvZBY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NDMw/My0xMjE3Nzc4Mjc1/LmpwZWc.jpeg" alt="Cover for Se jokin" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7c3e2147bf4486e630dd1b1961e9290.png" alt="Cover for Se jokin" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Maria Gasolina</td>
@@ -1220,7 +1225,7 @@ Suomipop refers to Finnish-language pop music that emerged as a distinct cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/suomirock" | relative_url }}">suomirock</a> # 82</li>
+            <li> <a href="{{ "/tags/suomirock" | relative_url }}">suomirock</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1243,9 +1248,9 @@ Suomipop refers to Finnish-language pop music that emerged as a distinct cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 61</li>
-            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 68</li>
-            <li> <a href="{{ "/tags/suomirock" | relative_url }}">suomirock</a> # 77</li>
+            <li> <a href="{{ "/tags/suomirock" | relative_url }}">suomirock</a> # 24</li>
+            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 32</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1266,8 +1271,8 @@ Suomipop refers to Finnish-language pop music that emerged as a distinct cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 23</li>
-            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 46</li>
+            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 55</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1364,6 +1369,7 @@ Suomipop refers to Finnish-language pop music that emerged as a distinct cultura
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f65743bffdb0d06a09ba7bf34805503e.png" alt="Cover for Marmoritaivas" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-19</td>
       <td>Johanna Kurkela</td>
@@ -1452,6 +1458,7 @@ Suomipop refers to Finnish-language pop music that emerged as a distinct cultura
     <tr>
       <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/47a484e579c74ff1ad6b6c2bbcdcdbfd.png" alt="Cover for Silmät sydämeeni" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-11-07</td>
       <td>Kristiina Brask</td>
@@ -1593,13 +1600,14 @@ Suomipop refers to Finnish-language pop music that emerged as a distinct cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/suomirock" | relative_url }}">suomirock</a> # 84</li>
+            <li> <a href="{{ "/tags/suomirock" | relative_url }}">suomirock</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6fd0648df686abea0e296ba75db2edc5.png" alt="Cover for Kaikki nämä sanat" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-10-06</td>
       <td>Katri Ylander</td>
@@ -1635,7 +1643,7 @@ Suomipop refers to Finnish-language pop music that emerged as a distinct cultura
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/fe_tHKUsB3Fz5qqGlU-OyMS32aD6xd_5d-7KCLLAxPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjA5/NzctMTM5MjkyMzcz/OS0zNDE5LmpwZWc.jpeg" alt="Cover for Tarinoita" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4def585aa31545c1c5709124c56e5709.png" alt="Cover for Tarinoita" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Sallan ja Miron matka maailman ympäri</td>
@@ -1650,7 +1658,7 @@ Suomipop refers to Finnish-language pop music that emerged as a distinct cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/suomirock" | relative_url }}">suomirock</a> # 60</li>
+            <li> <a href="{{ "/tags/suomirock" | relative_url }}">suomirock</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1675,7 +1683,7 @@ Suomipop refers to Finnish-language pop music that emerged as a distinct cultura
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/UYIOmPMwr-LEVVZ4VGAYJEu9I29Jo3qnZ90dVjny9o0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MDE1/MDMtMTQyODkxNDcz/Mi04ODI2LmpwZWc.jpeg" alt="Cover for Grindaa ja flowaa (feat. Tippa-T)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a27e29840cf43df3c05b8e872b68437.png" alt="Cover for Grindaa ja flowaa (feat. Tippa-T)" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-04-11</td>
       <td>Anna Abreu</td>
@@ -1691,8 +1699,8 @@ Suomipop refers to Finnish-language pop music that emerged as a distinct cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 10</li>
-            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 36</li>
+            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 65</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1712,7 +1720,7 @@ Suomipop refers to Finnish-language pop music that emerged as a distinct cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/suomirock" | relative_url }}">suomirock</a> # 30</li>
+            <li> <a href="{{ "/tags/suomirock" | relative_url }}">suomirock</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1736,7 +1744,7 @@ Suomipop refers to Finnish-language pop music that emerged as a distinct cultura
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/Um4HfM9fjCztBT5k_eFNvYUCtAzJzRvPfxps7byLL6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzUz/MzIwLTE1MjE4MDIx/OTctODgyNC5qcGVn.jpeg" alt="Cover for Lohtulauseita" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/be63d69eab7441b1ddc5791feb314ec2.png" alt="Cover for Lohtulauseita" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-03-23</td>
       <td>Vesta</td>
@@ -1751,7 +1759,7 @@ Suomipop refers to Finnish-language pop music that emerged as a distinct cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 97</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1793,8 +1801,8 @@ Suomipop refers to Finnish-language pop music that emerged as a distinct cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 53</li>
-            <li> <a href="{{ "/tags/suomirock" | relative_url }}">suomirock</a> # 62</li>
+            <li> <a href="{{ "/tags/suomirock" | relative_url }}">suomirock</a> # 38</li>
+            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1849,7 +1857,7 @@ Suomipop refers to Finnish-language pop music that emerged as a distinct cultura
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/suomirock" | relative_url }}">suomirock</a> # 26</li>
+            <li> <a href="{{ "/tags/suomirock" | relative_url }}">suomirock</a> # 74</li>
         </ul>
       </td>
     </tr>

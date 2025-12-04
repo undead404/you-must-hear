@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T17:05:22.148Z
+date: 2025-12-04T04:28:50.663Z
 permalink: tags/duet
 title: duet
 ---
 
 ## duet
 
-Last updated: <time datetime="2025-11-15T17:05:22.148Z">Sat Nov 15 2025 19:05:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:28:50.663Z">Thu Dec 04 2025 06:28:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,7 +44,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 1</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -66,7 +66,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 89</li>
+            <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -111,7 +111,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/oqoMhqvclU6Po0rLppHtU41tI2XGpDxalRSB8xMSdDM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjI2/NDI2LTE2MTQ1MjY3/ODItNTQ5Ny5qcGVn.jpeg" alt="Cover for Twin Sons Of Different Mothers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/015b337e3d5288d267b3f98eb34e55bb.png" alt="Cover for Twin Sons Of Different Mothers" style="max-width:120px; height:auto;" />
       </td>
       <td>1981</td>
       <td>Dan Fogelberg</td>
@@ -230,10 +230,10 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 14</li>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 51</li>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 63</li>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 64</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 37</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 49</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 65</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -347,12 +347,12 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 38</li>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 65</li>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 74</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 12</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 13</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 35</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 61</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 76</li>
             <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 85</li>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 88</li>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 89</li>
             <li> <a href="{{ "/tags/mariachi" | relative_url }}">mariachi</a> # 89</li>
         </ul>
       </td>
@@ -403,13 +403,14 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 4</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8aca54e47730344b72b4fbb0b436eb9f.png" alt="Cover for Blue Bayou" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Linda Ronstadt</td>
@@ -435,8 +436,8 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 25</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 72</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 29</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -555,8 +556,8 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 29</li>
             <li> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a> # 29</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -571,23 +572,6 @@ A duet features two vocalists or instrumentalists performing together, creating 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/duet" | relative_url }}">duet</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4857526e6eb6169d6ee54090399db663.png" alt="Cover for Call to Love" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002-02-21</td>
-      <td>Jimmy Eat World</td>
-      <td>Call to Love</td>
-      <td>
-        <ul>
         </ul>
       </td>
       <td>
@@ -691,7 +675,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 52</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -706,13 +690,10 @@ A duet features two vocalists or instrumentalists performing together, creating 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-            <li style="font-size: calc(1rem * 82 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
-            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -824,7 +805,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 90</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -922,7 +903,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 1</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -940,7 +921,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 84</li>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1028,12 +1009,12 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 76</li>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 89</li>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 99</li>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 100</li>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 100</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 1</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 2</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 11</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 25</li>
             <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 100</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1143,7 +1124,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
     <tr>
       <td>17</td>
       <td>
-          <img src="https://i.discogs.com/CMQqu0vfxS4bG9lpN9s-hJCt9Q8Fyp_PdQfC2WzEW1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzU2/MDYtMTMxNDU1MTIy/OC5qcGVn.jpeg" alt="Cover for Gold Fury" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/35572a1840fd443cb889ddabccbe6b81.png" alt="Cover for Gold Fury" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03-31</td>
       <td>Howlin&#39; Lord</td>
@@ -1166,8 +1147,8 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 7</li>
-            <li> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a> # 58</li>
+            <li> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a> # 43</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1196,8 +1177,9 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 55</li>
-            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 89</li>
+            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 9</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 48</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1262,7 +1244,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/--8-UZobiTy5TnAgXS8FVAG2EwRvq97gdL9X_krRSYM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxODU3/NTctMTQzNTc0NDI0/Mi01NDc0LmpwZWc.jpeg" alt="Cover for Duetterna" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3c240c7d4e64c6b56db1adba89e4083.png" alt="Cover for Duetterna" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-25</td>
       <td>Jill Johnson</td>
@@ -1362,10 +1344,10 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 15</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 39</li>
-            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 42</li>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 47</li>
+            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 59</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 61</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1594,14 +1576,31 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 27</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 74</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4857526e6eb6169d6ee54090399db663.png" alt="Cover for Call to Love" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-05-01</td>
+      <td>Jimmy Eat World</td>
+      <td>Call to Love</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/zZ5SwQfIX5qSuEhQbjH35Kmo6y4IATlF6z-bF6ts6oM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzgy/NzA5LTE2MDc0MDYz/NDgtNDk3NS5qcGVn.jpeg" alt="Cover for Ragtime &amp; Blue" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6f19674e0c68392e85e8281f7a594e4.png" alt="Cover for Ragtime &amp; Blue" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-12-04</td>
       <td>Elena Kats-Chernin</td>
@@ -1645,7 +1644,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 49</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1683,7 +1682,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 40</li>
+            <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 60</li>
             <li> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a> # 84</li>
             <li> <a href="{{ "/tags/sonata" | relative_url }}">sonata</a> # 90</li>
             <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 91</li>
@@ -1706,7 +1705,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a> # 11</li>
+            <li> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -2094,6 +2093,7 @@ A duet features two vocalists or instrumentalists performing together, creating 
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b90b5258d2a42339befc8dabae91952.png" alt="Cover for Paralisa e Treme" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Tainá Costa</td>

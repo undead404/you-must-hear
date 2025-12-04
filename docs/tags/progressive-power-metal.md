@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T11:53:41.864Z
+date: 2025-12-04T04:27:24.475Z
 permalink: tags/progressive-power-metal
 title: progressive power metal
 ---
 
 ## progressive power metal
 
-Last updated: <time datetime="2025-11-23T11:53:41.864Z">Sun Nov 23 2025 13:53:41 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:27:24.475Z">Thu Dec 04 2025 06:27:24 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -390,7 +390,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 29</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -409,7 +409,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 26</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 33</li>
             <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 85</li>
         </ul>
       </td>
@@ -541,7 +541,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 46</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -781,8 +781,8 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       <td>
         <ul>
             <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 11</li>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 55</li>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 77</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 24</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -878,7 +878,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 10</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -897,8 +897,8 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 19</li>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 78</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 81</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1302,6 +1302,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1321,7 +1322,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 31</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1379,7 +1380,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 15</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1625,7 +1626,7 @@ Progressive power metal fuses the technical complexity and ambitious song struct
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 22</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 78</li>
         </ul>
       </td>
     </tr>

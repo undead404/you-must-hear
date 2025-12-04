@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T11:33:35.977Z
+date: 2025-12-04T04:24:03.036Z
 permalink: tags/harmonica
 title: harmonica
 ---
 
 ## harmonica
 
-Last updated: <time datetime="2025-11-23T11:33:35.977Z">Sun Nov 23 2025 13:33:35 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:24:03.036Z">Thu Dec 04 2025 06:24:03 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -199,9 +199,9 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/karlsruhe" | relative_url }}">karlsruhe</a> # 18</li>
+            <li> <a href="{{ "/tags/karlsruhe" | relative_url }}">karlsruhe</a> # 77</li>
             <li> <a href="{{ "/tags/harmonica-blues" | relative_url }}">harmonica blues</a> # 85</li>
-            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 98</li>
+            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -333,7 +333,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 86</li>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 87</li>
             <li> <a href="{{ "/tags/harmonica-blues" | relative_url }}">harmonica blues</a> # 97</li>
         </ul>
       </td>
@@ -391,7 +391,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 77</li>
+            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -463,7 +463,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 84</li>
+            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 16</li>
             <li> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a> # 86</li>
         </ul>
       </td>
@@ -691,7 +691,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 67</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -712,7 +712,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 76</li>
+            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -751,7 +751,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 39</li>
+            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 43</li>
             <li> <a href="{{ "/tags/harmonica-blues" | relative_url }}">harmonica blues</a> # 71</li>
         </ul>
       </td>
@@ -774,7 +774,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 78</li>
+            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -949,7 +949,6 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/5SExRiBfhv-nc6x6Rp_VYo0vACvHJkvObGoUkIYKEDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODQ4/MTEtMTUyMjI0OTE0/Ni05MTMwLmpwZWc.jpeg" alt="Cover for Best of the Dubliners [Epic&#x2F;Legacy]" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>The Dubliners</td>
@@ -966,7 +965,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 56</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1068,7 +1067,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 19</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1241,8 +1240,8 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 17</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 80</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 21</li>
+            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1364,7 +1363,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 50</li>
+            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1414,18 +1413,18 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 5</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 9</li>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 15</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 37</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 20</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 21</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 30</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 30</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 37</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 52</li>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 55</li>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 71</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 71</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 46</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 58</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 63</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 77</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 80</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 81</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 91</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1510,7 +1509,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/karlsruhe" | relative_url }}">karlsruhe</a> # 19</li>
+            <li> <a href="{{ "/tags/karlsruhe" | relative_url }}">karlsruhe</a> # 20</li>
             <li> <a href="{{ "/tags/harmonica-blues" | relative_url }}">harmonica blues</a> # 75</li>
         </ul>
       </td>
@@ -1533,7 +1532,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 81</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1636,8 +1635,8 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 44</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 54</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 56</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1681,12 +1680,11 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 1</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 16</li>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 18</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 30</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 30</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 39</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 69</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 71</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 81</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1782,7 +1780,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 54</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1866,7 +1864,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       <td>
         <ul>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 18</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 26</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -2050,12 +2048,12 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 9</li>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 26</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 30</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 38</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 25</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 46</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 75</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 63</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 70</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 73</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -2103,7 +2101,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 28</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -2124,7 +2122,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 81</li>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 83</li>
             <li> <a href="{{ "/tags/harmonica-blues" | relative_url }}">harmonica blues</a> # 91</li>
         </ul>
       </td>
@@ -2146,7 +2144,7 @@ The harmonica tag identifies music prominently featuring the small, handheld ree
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 83</li>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 85</li>
             <li> <a href="{{ "/tags/harmonica-blues" | relative_url }}">harmonica blues</a> # 94</li>
         </ul>
       </td>

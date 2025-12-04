@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T22:32:20.314Z
+date: 2025-12-04T04:24:45.581Z
 permalink: tags/ambient-electronic
 title: ambient electronic
 ---
 
 ## ambient electronic
 
-Last updated: <time datetime="2025-11-19T22:32:20.314Z">Thu Nov 20 2025 00:32:20 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:24:45.581Z">Thu Dec 04 2025 06:24:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -66,7 +66,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 29</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -345,11 +345,11 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 5</li>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 16</li>
             <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 34</li>
             <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 52</li>
             <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 65</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 85</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -379,11 +379,11 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 12</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 21</li>
             <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 83</li>
             <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 85</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 88</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 89</li>
             <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 94</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 95</li>
             <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 95</li>
@@ -611,6 +611,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3424ac080439f1436a0280918d788b30.png" alt="Cover for Companion" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Gold Panda</td>
@@ -623,7 +624,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 80</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -641,15 +642,15 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 58</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 86</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 15</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/vTvQljH5IOJ-23CHqwbQQCOkGhNShRtCCZtb6bbFEYM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODQw/NTgtMTMxNTQxODU5/Mi5qcGVn.jpeg" alt="Cover for Mick Mangles" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3bf9611030e098a38ad56b7e870a149.png" alt="Cover for Mick Mangles" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-29</td>
       <td>McMaNGOS</td>
@@ -709,8 +710,8 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 20</li>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 77</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 24</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 77</li>
             <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 88</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 93</li>
             <li> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a> # 97</li>
@@ -959,8 +960,8 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 68</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 75</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 26</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 33</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 82</li>
             <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 86</li>
         </ul>
@@ -1235,7 +1236,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 22</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1282,12 +1283,12 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 15</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 6</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 13</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 40</li>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 46</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 61</li>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 88</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 85</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 90</li>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1686,7 +1687,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 8</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1928,7 +1929,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 39</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 60</li>
             <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 66</li>
         </ul>
       </td>
@@ -2062,7 +2063,7 @@ Ambient electronic blends synthesizers, field recordings, and digital processing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 37</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 64</li>
         </ul>
       </td>
     </tr>

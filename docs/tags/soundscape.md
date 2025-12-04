@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-20T00:56:54.525Z
+date: 2025-12-04T04:25:47.569Z
 permalink: tags/soundscape
 title: soundscape
 ---
 
 ## soundscape
 
-Last updated: <time datetime="2025-11-20T00:56:54.525Z">Thu Nov 20 2025 02:56:54 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:25:47.569Z">Thu Dec 04 2025 06:25:47 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -77,7 +77,7 @@ Soundscape is an atmospheric genre that creates immersive sonic environments thr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 31</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -112,7 +112,8 @@ Soundscape is an atmospheric genre that creates immersive sonic environments thr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 35</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 5</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -205,8 +206,8 @@ Soundscape is an atmospheric genre that creates immersive sonic environments thr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 54</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 64</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 37</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -315,7 +316,7 @@ Soundscape is an atmospheric genre that creates immersive sonic environments thr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 53</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 48</li>
             <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 80</li>
         </ul>
       </td>
@@ -338,7 +339,7 @@ Soundscape is an atmospheric genre that creates immersive sonic environments thr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 5</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -401,7 +402,7 @@ Soundscape is an atmospheric genre that creates immersive sonic environments thr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 78</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -441,7 +442,7 @@ Soundscape is an atmospheric genre that creates immersive sonic environments thr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 31</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -623,7 +624,7 @@ Soundscape is an atmospheric genre that creates immersive sonic environments thr
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/69q61z7H39FNerRZYnHm6csNHsDAXSiZ54lF43TK-uU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzI3/MC0xMzk2MzE5OTkz/LTM3NzYuanBlZw.jpeg" alt="Cover for The Darker Space" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7114d699fc4cb81b7e0d049982b36163.png" alt="Cover for The Darker Space" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-06-18</td>
       <td>Terra Ambient</td>
@@ -667,7 +668,7 @@ Soundscape is an atmospheric genre that creates immersive sonic environments thr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 37</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 64</li>
             <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 84</li>
             <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 90</li>
             <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 91</li>
@@ -720,7 +721,7 @@ Soundscape is an atmospheric genre that creates immersive sonic environments thr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 69</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -926,17 +927,17 @@ Soundscape is an atmospheric genre that creates immersive sonic environments thr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 2</li>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 6</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 12</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 24</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 35</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 38</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 39</li>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 46</li>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 47</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 63</li>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 66</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 77</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 53</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 55</li>
             <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 88</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 89</li>
             <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 95</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 95</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1002,26 +1003,7 @@ Soundscape is an atmospheric genre that creates immersive sonic environments thr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 42</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>40</td>
-      <td>
-          <img src="https://i.discogs.com/SCbdK2MqWDfgugSAsbGaEQMyaNJ9n9kc5qm6NQQ65oU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTcy/ODktMTIwOTE1MTM1/OC5qcGVn.jpeg" alt="Cover for Tonelist" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Bram Stadhouders</td>
-      <td>Tonelist</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1040,6 +1022,26 @@ Soundscape is an atmospheric genre that creates immersive sonic environments thr
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise" | relative_url }}">noise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 5</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+          <img src="https://i.discogs.com/SCbdK2MqWDfgugSAsbGaEQMyaNJ9n9kc5qm6NQQ65oU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTcy/ODktMTIwOTE1MTM1/OC5qcGVn.jpeg" alt="Cover for Tonelist" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Bram Stadhouders</td>
+      <td>Tonelist</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a></li>
         </ul>
       </td>
@@ -1235,7 +1237,7 @@ Soundscape is an atmospheric genre that creates immersive sonic environments thr
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/hzSuAU7pD3d3dDgBqNDyyLXns13VV75uC5ZfipYpzd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzgy/NjctMTM0MjQ1MTU3/Ny0zOTcyLmpwZWc.jpeg" alt="Cover for The Dark Knight - Original Motion Picture Soundtrack" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a75418200f772f340048fb8773e39d6.png" alt="Cover for The Dark Knight - Original Motion Picture Soundtrack" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Hans Zimmer &amp; James Newton Howard</td>
@@ -1328,13 +1330,14 @@ Soundscape is an atmospheric genre that creates immersive sonic environments thr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 33</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5e303ed3314f225c037eb8fe39bfdb4.png" alt="Cover for Tobruk" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-30</td>
       <td>Vladimír Hirsch</td>
@@ -1354,7 +1357,7 @@ Soundscape is an atmospheric genre that creates immersive sonic environments thr
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/dPqBYDmf74OGyYFbWJXTL_heIfBrvXt6yprgG4Kprfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzkw/NTctMTU1ODEyMDUw/OS0xNTk5LmpwZWc.jpeg" alt="Cover for Eye of the Soundscape" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c948d1fdb77519a69edf7beb9b68645.png" alt="Cover for Eye of the Soundscape" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Riverside</td>
@@ -1368,7 +1371,8 @@ Soundscape is an atmospheric genre that creates immersive sonic environments thr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 8</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 14</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1427,7 +1431,7 @@ Soundscape is an atmospheric genre that creates immersive sonic environments thr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 37</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1493,11 +1497,11 @@ Soundscape is an atmospheric genre that creates immersive sonic environments thr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 7</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 11</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 38</li>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 55</li>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 62</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 87</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 90</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1668,6 +1672,7 @@ Soundscape is an atmospheric genre that creates immersive sonic environments thr
     <tr>
       <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b920539b3aac529d12379756b86eaebe.png" alt="Cover for Environments" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-07-11</td>
       <td>Machine Code</td>
@@ -1702,8 +1707,8 @@ Soundscape is an atmospheric genre that creates immersive sonic environments thr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 23</li>
             <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 24</li>
-            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1797,7 +1802,7 @@ Soundscape is an atmospheric genre that creates immersive sonic environments thr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 23</li>
+            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 79</li>
             <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 83</li>
             <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 90</li>
         </ul>
@@ -1883,15 +1888,15 @@ Soundscape is an atmospheric genre that creates immersive sonic environments thr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 14</li>
             <li> <a href="{{ "/tags/ukrainian" | relative_url }}">ukrainian</a> # 23</li>
             <li> <a href="{{ "/tags/contemporary-piano" | relative_url }}">contemporary piano</a> # 25</li>
-            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 28</li>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 32</li>
+            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 27</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 58</li>
             <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 67</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 69</li>
             <li> <a href="{{ "/tags/postclassical" | relative_url }}">postclassical</a> # 71</li>
-            <li> <a href="{{ "/tags/solo-piano" | relative_url }}">solo piano</a> # 74</li>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 87</li>
+            <li> <a href="{{ "/tags/piano-ambient" | relative_url }}">piano ambient</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1935,7 +1940,7 @@ Soundscape is an atmospheric genre that creates immersive sonic environments thr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 68</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1972,7 +1977,7 @@ Soundscape is an atmospheric genre that creates immersive sonic environments thr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 8</li>
+            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1997,7 +2002,7 @@ Soundscape is an atmospheric genre that creates immersive sonic environments thr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 52</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 47</li>
             <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 55</li>
         </ul>
       </td>
@@ -2140,7 +2145,7 @@ Soundscape is an atmospheric genre that creates immersive sonic environments thr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 36</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 65</li>
             <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 70</li>
         </ul>
       </td>

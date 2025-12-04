@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-10T18:21:07.728Z
+date: 2025-12-04T04:28:07.717Z
 permalink: tags/romantica
 title: romantica
 ---
 
 ## romantica
 
-Last updated: <time datetime="2025-11-10T18:21:07.728Z">Mon Nov 10 2025 20:21:07 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:28:07.717Z">Thu Dec 04 2025 06:28:07 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -121,7 +121,7 @@ Romantica is a Latin ballad style that emphasizes heartfelt lyrics about love, h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 27</li>
+            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -326,7 +326,7 @@ Romantica is a Latin ballad style that emphasizes heartfelt lyrics about love, h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 60</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -352,7 +352,7 @@ Romantica is a Latin ballad style that emphasizes heartfelt lyrics about love, h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 13</li>
+            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1190,24 +1190,19 @@ Romantica is a Latin ballad style that emphasizes heartfelt lyrics about love, h
       <td>Belinda</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 27</li>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 59</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 76</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d159556637ff079bd9992e6c3ae1e907.png" alt="Cover for Aqui o sistema é bruto" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Chitãozinho &amp; Xororó</td>
@@ -1223,8 +1218,8 @@ Romantica is a Latin ballad style that emphasizes heartfelt lyrics about love, h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 67</li>
-            <li> <a href="{{ "/tags/sertanejo" | relative_url }}">sertanejo</a> # 80</li>
+            <li> <a href="{{ "/tags/sertanejo" | relative_url }}">sertanejo</a> # 21</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1270,7 +1265,7 @@ Romantica is a Latin ballad style that emphasizes heartfelt lyrics about love, h
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/9uiPguIzRSHafqEhYnltkgtAdB2dcCoybW8h8bnyfug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDA4/ODEtMTQxNDQzMTYx/OC04Mjk5LmpwZWc.jpeg" alt="Cover for Acústico" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3fd1ee5e918f57e5ca816690c3083a3.png" alt="Cover for Acústico" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-04-24</td>
       <td>Roupa Nova</td>
@@ -1452,7 +1447,7 @@ Romantica is a Latin ballad style that emphasizes heartfelt lyrics about love, h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 95</li>
+            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1580,7 +1575,7 @@ Romantica is a Latin ballad style that emphasizes heartfelt lyrics about love, h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 54</li>
+            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1660,7 +1655,7 @@ Romantica is a Latin ballad style that emphasizes heartfelt lyrics about love, h
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/eVFP1QreZ_A_JeWOaJOorN6iElttONgHJdiTqtxsujY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMDE1/ODUtMTQ1NTE2MDMy/My01NzUzLmpwZWc.jpeg" alt="Cover for Bien Acompañado" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6790f4635fb34a63b1371ce1df019a6a.png" alt="Cover for Bien Acompañado" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Reyli Barba</td>
@@ -1682,9 +1677,9 @@ Romantica is a Latin ballad style that emphasizes heartfelt lyrics about love, h
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/spanish-rock" | relative_url }}">spanish rock</a> # 24</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 39</li>
             <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 47</li>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 61</li>
-            <li> <a href="{{ "/tags/spanish-rock" | relative_url }}">spanish rock</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1779,7 +1774,7 @@ Romantica is a Latin ballad style that emphasizes heartfelt lyrics about love, h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 26</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1823,7 +1818,7 @@ Romantica is a Latin ballad style that emphasizes heartfelt lyrics about love, h
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/yJ5n-xnl3Z1deIE06VGj5YLxhIUATs3BUZUZ-Wc7PqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDI3/OTMtMTQzNDY2NTA1/OC0xMjE0LmpwZWc.jpeg" alt="Cover for Momentos" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f84dd95d2745024dcd1bdc21626a0bb9.png" alt="Cover for Momentos" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-06-12</td>
       <td>Luiza Possi</td>
@@ -1838,13 +1833,14 @@ Romantica is a Latin ballad style that emphasizes heartfelt lyrics about love, h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 25</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>5</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/64ab6c4574264f258715a8fde65097c6.png" alt="Cover for Midnight" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>A Thousand Falls</td>
@@ -1861,8 +1857,8 @@ Romantica is a Latin ballad style that emphasizes heartfelt lyrics about love, h
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 71</li>
-            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 76</li>
+            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 23</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1932,8 +1928,8 @@ Romantica is a Latin ballad style that emphasizes heartfelt lyrics about love, h
 - [mpb]({{ "/tags/mpb" | relative_url }})
 - [female vocalists]({{ "/tags/female-vocalists" | relative_url }})
 - [latin pop]({{ "/tags/latin-pop" | relative_url }})
-- [spanish]({{ "/tags/spanish" | relative_url }})
 - [brazilian]({{ "/tags/brazilian" | relative_url }})
 - [sertanejo]({{ "/tags/sertanejo" | relative_url }})
+- [spanish]({{ "/tags/spanish" | relative_url }})
 - [pop rock]({{ "/tags/pop-rock" | relative_url }})
 - [acoustic]({{ "/tags/acoustic" | relative_url }})

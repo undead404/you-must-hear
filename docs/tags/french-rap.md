@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T06:21:38.903Z
+date: 2025-12-04T03:34:31.247Z
 permalink: tags/french-rap
 title: french rap
 ---
 
 ## french rap
 
-Last updated: <time datetime="2025-11-25T06:21:38.903Z">Tue Nov 25 2025 08:21:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T03:34:31.247Z">Thu Dec 04 2025 05:34:31 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -174,8 +174,8 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 30</li>
             <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 64</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 71</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 77</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 93</li>
         </ul>
@@ -520,10 +520,10 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 38</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 60</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 14</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 41</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 63</li>
             <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 78</li>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 85</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 86</li>
         </ul>
       </td>
@@ -554,10 +554,10 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 13</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 48</li>
             <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 52</li>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 52</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 68</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -587,11 +587,11 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 65</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 78</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 7</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 23</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 36</li>
             <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 89</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 93</li>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -803,10 +803,10 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 2</li>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 31</li>
             <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 48</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 62</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 69</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1009,7 +1009,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 47</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 54</li>
             <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 90</li>
         </ul>
       </td>
@@ -1289,9 +1289,9 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 5</li>
             <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 49</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 85</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1319,8 +1319,8 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 25</li>
             <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 55</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 76</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 88</li>
         </ul>
       </td>
@@ -1349,8 +1349,8 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 26</li>
             <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 56</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 75</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 89</li>
         </ul>
       </td>
@@ -1644,9 +1644,9 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 12</li>
             <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 50</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 86</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1674,9 +1674,9 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 22</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 52</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 49</li>
             <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 71</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 79</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 96</li>
         </ul>
       </td>
@@ -1697,7 +1697,7 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 75</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1853,8 +1853,8 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 14</li>
             <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 45</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 88</li>
             <li> <a href="{{ "/tags/urbain" | relative_url }}">urbain</a> # 98</li>
         </ul>
       </td>
@@ -2222,8 +2222,8 @@ French rap emerged from the banlieues of Paris and other urban centers, blending
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 13</li>
             <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 58</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 88</li>
             <li> <a href="{{ "/tags/rappeuse" | relative_url }}">rappeuse</a> # 91</li>
         </ul>
       </td>

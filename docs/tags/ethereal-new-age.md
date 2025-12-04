@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-21T01:03:45.269Z
+date: 2025-12-04T04:25:28.566Z
 permalink: tags/ethereal-new-age
 title: ethereal new age
 ---
 
 ## ethereal new age
 
-Last updated: <time datetime="2025-10-21T01:03:45.269Z">Tue Oct 21 2025 04:03:45 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T04:25:28.566Z">Thu Dec 04 2025 06:25:28 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,6 +31,7 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/02ebb4165911331a6bad34b23e066dd8.png" alt="Cover for Dream Sequence" style="max-width:120px; height:auto;" />
       </td>
       <td>1985-11</td>
       <td>Tangerine Dream</td>
@@ -202,6 +203,7 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91fd01b3e508428a1251f4d582d46d86.png" alt="Cover for Ten Thousand Buddhas" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-11-19</td>
       <td>Music from the World of Osho</td>
@@ -292,7 +294,7 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/native-american" | relative_url }}">native american</a> # 38</li>
+            <li> <a href="{{ "/tags/native-american" | relative_url }}">native american</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -370,10 +372,10 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 15</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 23</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 52</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 51</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 85</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 86</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 93</li>
             <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 93</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 95</li>
@@ -383,6 +385,7 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f39be593670b5ae22c186163f7820848.png" alt="Cover for Beneath The Surface" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-06-11</td>
       <td>Balligomingo</td>
@@ -395,7 +398,6 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 13</li>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 41</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 46</li>
             <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 56</li>
             <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 77</li>
@@ -425,6 +427,7 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
     <tr>
       <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a580f314b8c2d18a918a46f22277c2b5.png" alt="Cover for The Best" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Dab</td>
@@ -512,6 +515,7 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
     <tr>
       <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/66a92c497f6167003a19032b6e95a0a9.png" alt="Cover for Emotional Landscapes" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-04-08</td>
       <td>Erik Wøllo</td>
@@ -558,6 +562,7 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
     <tr>
       <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3c2b077e3924075a1f39cd8ba49c044.png" alt="Cover for Aftermath 2.0 | Archives of Peace" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-11-01</td>
       <td>Aes Dana</td>
@@ -572,7 +577,7 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 50</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 48</li>
             <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 81</li>
             <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 90</li>
         </ul>
@@ -600,12 +605,12 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 16</li>
             <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 37</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 48</li>
             <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 66</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 71</li>
             <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 78</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -632,9 +637,9 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 20</li>
-            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 29</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 69</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 78</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 23</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 32</li>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 71</li>
             <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 86</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 89</li>
             <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 92</li>
@@ -822,7 +827,7 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 24</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 59</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 42</li>
             <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 79</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 84</li>
             <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 87</li>
@@ -887,6 +892,7 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6a1974032364912b86a48a985ddc218.png" alt="Cover for Meta-Message" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-10-10</td>
       <td>Kirsty Hawkshaw</td>
@@ -910,6 +916,7 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50d1fac477eb2abb039536356de27752.png" alt="Cover for Beautiful Someday" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-10-14</td>
       <td>Aural Float</td>
@@ -932,14 +939,14 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 12</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 12</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 21</li>
             <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 85</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 88</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 88</li>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 90</li>
             <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 94</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 95</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 95</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1028,7 +1035,7 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/GM6OGKvovGKqqpS9MG1dPZpA54c0maDOwY7l1Me9xng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NTQ5/MS0xMTU5ODA3MjY3/LmpwZWc.jpeg" alt="Cover for Get Back to Serenity: The Mixed Up - EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/be69f9dc06ac2ae32e67ac610e83d6e9.png" alt="Cover for Get Back to Serenity: The Mixed Up - EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-05-10</td>
       <td>Vargo</td>
@@ -1099,20 +1106,20 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 3</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 4</li>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 24</li>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 43</li>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 77</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 20</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 56</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 80</li>
             <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 97</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 98</li>
+            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/NduHMMciOEB9BDER_jkAcan6LBdF0xKC2g4awoGzWLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTMy/MjQxLTE2MTM5ODg3/MjUtMzIyNS5qcGVn.jpeg" alt="Cover for equilibrium" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e90b1b447132f049a04d86a13331786.png" alt="Cover for equilibrium" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-10-26</td>
       <td>Luminous</td>
@@ -1142,6 +1149,7 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
     <tr>
       <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/16e3c285ce32b3eb0b2d6136fe3e1b39.png" alt="Cover for Elevations" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Erik Wøllo</td>
@@ -1192,6 +1200,7 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d5ab930d1100438c0822e15bbd747c4.png" alt="Cover for Fauxliage" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-08-14</td>
       <td>Fauxliage</td>
@@ -1215,6 +1224,7 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/59c46d988e54d2cded28d017469ee1c3.png" alt="Cover for Sound Sutras" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-11-20</td>
       <td>Govinda</td>
@@ -1234,7 +1244,7 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 22</li>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 74</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 25</li>
             <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 84</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 87</li>
             <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 93</li>
@@ -1290,6 +1300,7 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
     <tr>
       <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5105fd5e09c743a79e5bef3d93d3fa8e.png" alt="Cover for Step into the sunshine" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Gary B</td>
@@ -1312,7 +1323,7 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/tWbyTOoqaWS9NpD8YqsRaezIouIad5cshVX6Abk7Hvs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDAz/OTEtMTU0OTk2MDcw/My00NjI4LmpwZWc.jpeg" alt="Cover for Out of This World" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dabe868be889bee62ca43bd05dbb9a7a.png" alt="Cover for Out of This World" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-03-04</td>
       <td>Bryan El</td>
@@ -1460,10 +1471,10 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 18</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 28</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 43</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 41</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 82</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 83</li>
             <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 89</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 93</li>
         </ul>
@@ -1472,6 +1483,7 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
     <tr>
       <td>29</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fcc17d8a68c4e5fce112cfdc78352d3.png" alt="Cover for Moon Ritual" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Ephemeral Mists</td>
@@ -1512,11 +1524,11 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 24</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 43</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 44</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 57</li>
             <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 60</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 67</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 77</li>
             <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 77</li>
             <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 89</li>
         </ul>
@@ -1525,6 +1537,7 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
     <tr>
       <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ccc6a1312a84f0eba32aee6c364f850.png" alt="Cover for Intoxicating" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Merge Of Equals</td>
@@ -1570,10 +1583,10 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 30</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 41</li>
             <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 64</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 70</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1602,6 +1615,7 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
     <tr>
       <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/72d4bbd6b39c42249e67eb077f4b2f54.png" alt="Cover for Labyrinthine Heart" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-08-31</td>
       <td>Sleepthief</td>
@@ -1649,7 +1663,7 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/PbmPmZPxrvlsvDEBfEwqCDdIhMXh_RzdTVQG_Axj-aM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDA0/NTUtMTU0OTk2MDg0/NS03NDc0LmpwZWc.jpeg" alt="Cover for Spiritual Evolution" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/106b8176614a42a58d20ec58a7fa4fdb.png" alt="Cover for Spiritual Evolution" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01-16</td>
       <td>Bryan El</td>
@@ -1674,6 +1688,7 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
     <tr>
       <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7aedf1902df34e3b9aced7ef070950b0.png" alt="Cover for Time&#39;s Wheel" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01-22</td>
       <td>Edelis</td>
@@ -1721,10 +1736,10 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 5</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 7</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 88</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 12</li>
             <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 96</li>
-            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 96</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 97</li>
             <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 100</li>
         </ul>
@@ -1755,6 +1770,7 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
     <tr>
       <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04b1fcdd40a34d7a93564eceaf892151.png" alt="Cover for Looking Through Leaves" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-11</td>
       <td>Carmen Rizzo</td>
@@ -1783,6 +1799,7 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
     <tr>
       <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9cc14c55a2e7438482b4b5c048d591db.png" alt="Cover for Gateway" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-25</td>
       <td>Erik Wøllo</td>
@@ -1864,7 +1881,7 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/btVDy8bRtjMhOdFe8Cp8wmIEy8M65pZFQZ948RVL-nU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDMx/MTAtMTMyNDgyNDcw/Ny5qcGVn.jpeg" alt="Cover for Hammock Dreams" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22a60486714dc496d1d9afedf01e764d.png" alt="Cover for Hammock Dreams" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Jasmon</td>
@@ -1884,10 +1901,10 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 24</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 53</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 62</li>
             <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 70</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 77</li>
             <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 82</li>
         </ul>
       </td>
@@ -1938,7 +1955,7 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 54</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 47</li>
             <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 65</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 68</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 98</li>
@@ -1968,11 +1985,11 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 22</li>
             <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 46</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 52</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 64</li>
             <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 68</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 79</li>
             <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 80</li>
             <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 83</li>
         </ul>
@@ -2005,13 +2022,13 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 15</li>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 18</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 32</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 56</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 57</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 43</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 44</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 69</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 71</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 80</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 80</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 91</li>
         </ul>
       </td>
@@ -2175,12 +2192,12 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 25</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 28</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 47</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 49</li>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 53</li>
             <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 56</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 63</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 73</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 74</li>
             <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 74</li>
             <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 78</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 86</li>
@@ -2219,6 +2236,7 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
     <tr>
       <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1db33b08d7bb46ad9df792120044c41e.png" alt="Cover for Music Box Opera" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-26</td>
       <td>Delerium</td>
@@ -2318,6 +2336,7 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
     <tr>
       <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f861583bd197436da403d23a7cb8ee23.png" alt="Cover for Journey" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-05-01</td>
       <td>Mythos</td>
@@ -2350,6 +2369,7 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e4b7315ee4bdf2acf22aa75bc737a87.png" alt="Cover for Opus" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-08-30</td>
       <td>Schiller</td>
@@ -2454,7 +2474,6 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 12</li>
             <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 31</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 44</li>
             <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 60</li>
@@ -2463,6 +2482,7 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 77</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 77</li>
             <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 81</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 89</li>
             <li> <a href="{{ "/tags/zen" | relative_url }}">zen</a> # 90</li>
         </ul>
       </td>
@@ -2523,7 +2543,7 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
     <tr>
       <td>3</td>
       <td>
-          <img src="https://i.discogs.com/A9KQRJ93pPDBRr3bFUWzHQMNkDdL8hQfkkACuTtEElw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjMy/MTctMTQ4NDU3MTI3/Ni0yNDcyLnBuZw.jpeg" alt="Cover for Live It Now" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad15e346fcc848b1371c2205c2e5fd2f.png" alt="Cover for Live It Now" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-11-04</td>
       <td>Gary B</td>
@@ -2567,7 +2587,7 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 39</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 48</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 52</li>
             <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 72</li>
             <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 85</li>
             <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 86</li>
@@ -2577,6 +2597,7 @@ Ethereal new age blends ambient synthesizers, gossamer vocals, and gentle rhythm
     <tr>
       <td>4</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3d72d22255342e99be5c7c0161cf7a4.png" alt="Cover for Into the Sky" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Kellplanet</td>

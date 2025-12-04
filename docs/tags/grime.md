@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-12T02:00:42.238Z
+date: 2025-12-04T03:33:51.253Z
 permalink: tags/grime
 title: grime
 ---
 
 ## grime
 
-Last updated: <time datetime="2025-11-12T02:00:42.238Z">Wed Nov 12 2025 04:00:42 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T03:33:51.253Z">Thu Dec 04 2025 05:33:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,7 @@ Grime is a genre of electronic music that originated in London in the early 2000
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 61</li>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -228,7 +228,7 @@ Grime is a genre of electronic music that originated in London in the early 2000
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 18</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -289,7 +289,7 @@ Grime is a genre of electronic music that originated in London in the early 2000
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/27OidIXH8eiZN_ygNqnhwciwQpQsx3AP6hJWJKJdKpk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDg0/OTY0LTE1MDk1NjY0/NDktMjg5NC5qcGVn.jpeg" alt="Cover for Vicious EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d11f59890ad49cebdf0c25a86702fef.png" alt="Cover for Vicious EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Skepta</td>
@@ -306,8 +306,8 @@ Grime is a genre of electronic music that originated in London in the early 2000
       <td>
         <ul>
             <li> <a href="{{ "/tags/british-hip-hop" | relative_url }}">british hip hop</a> # 91</li>
-            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 93</li>
             <li> <a href="{{ "/tags/english-hip-hop" | relative_url }}">english hip hop</a> # 93</li>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -333,7 +333,7 @@ Grime is a genre of electronic music that originated in London in the early 2000
     <tr>
       <td>19</td>
       <td>
-          <img src="https://i.discogs.com/s_HpKbtJgBR3Lp5GZt690EfsW6Ob-dAZwODROZpSXcM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTA4/OC0xMTQ4MDQ4NDE1/LmpwZWc.jpeg" alt="Cover for Haunted &#x2F; Anti War Dub" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d63b68b739b146db89688d85e59f8a82.png" alt="Cover for Haunted &#x2F; Anti War Dub" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-02-03</td>
       <td>Digital Mystikz</td>
@@ -389,7 +389,7 @@ Grime is a genre of electronic music that originated in London in the early 2000
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/1z4zUCfPtL3pWd82gkavNUoYfZBS3Zuvk7dsvCl54xU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTQ5/Ni0xNDU2NzAyMTc4/LTY2MTAuanBlZw.jpeg" alt="Cover for Ancient Memories" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34268d92af824dc584e305a90528ed48.png" alt="Cover for Ancient Memories" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-03</td>
       <td>Digital Mystikz</td>
@@ -466,6 +466,7 @@ Grime is a genre of electronic music that originated in London in the early 2000
     <tr>
       <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf77ce49e5ec40cbbd06097181f6a7d6.png" alt="Cover for Snes Dub" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-11-13</td>
       <td>Rusko</td>
@@ -498,7 +499,7 @@ Grime is a genre of electronic music that originated in London in the early 2000
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 48</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -518,7 +519,7 @@ Grime is a genre of electronic music that originated in London in the early 2000
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 69</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -612,7 +613,7 @@ Grime is a genre of electronic music that originated in London in the early 2000
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 49</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -673,8 +674,9 @@ Grime is a genre of electronic music that originated in London in the early 2000
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 33</li>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 65</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 37</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 66</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -697,27 +699,6 @@ Grime is a genre of electronic music that originated in London in the early 2000
       </td>
     </tr>
     <tr>
-      <td>51</td>
-      <td>
-          <img src="https://i.discogs.com/4bGeFa_YZe4GFgKNBUE3lUnRaMwwDcFFMAD6JMslIRA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNjY1/NzAtMTYyMjE1NTYy/Mi04NjExLmpwZWc.jpeg" alt="Cover for Two Fingers" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2009</td>
-      <td>Two Fingers</td>
-      <td>Two Fingers</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grime" | relative_url }}">grime</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 28</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>1</td>
       <td>
       </td>
@@ -728,6 +709,24 @@ Grime is a genre of electronic music that originated in London in the early 2000
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grime" | relative_url }}">grime</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8743091bb32d80836134844a3793435f.png" alt="Cover for Two Fingers" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2009</td>
+      <td>Two Fingers</td>
+      <td>Two Fingers</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/grime" | relative_url }}">grime</a></li>
         </ul>
       </td>
       <td>
@@ -791,9 +790,9 @@ Grime is a genre of electronic music that originated in London in the early 2000
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 17</li>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 43</li>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 74</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 28</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 57</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 78</li>
             <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 99</li>
         </ul>
       </td>
@@ -921,13 +920,14 @@ Grime is a genre of electronic music that originated in London in the early 2000
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 78</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea824bb78573480f9f03f54e7b05f94d.png" alt="Cover for I.R.L EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-26</td>
       <td>Girl Unit</td>
@@ -984,6 +984,7 @@ Grime is a genre of electronic music that originated in London in the early 2000
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b1455fcb2b047e4b84de6e199050a3f.png" alt="Cover for Ginger Pubes &#x2F; Blurgh!" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-07-19</td>
       <td>Cookie Monsta</td>
@@ -996,14 +997,14 @@ Grime is a genre of electronic music that originated in London in the early 2000
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 22</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/wwu0XyOrxROUcG3AuM1KzSVoqQJuGs_XSKs47KCUmL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDUw/NjItMTI4ODg3NDQw/OC5qcGVn.jpeg" alt="Cover for Borgore Ruined Dubstep EP - Part 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/51cfd08b129d45d5ad7b25b8ab2ee8c9.png" alt="Cover for Borgore Ruined Dubstep EP - Part 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-09</td>
       <td>Borgore</td>
@@ -1072,7 +1073,7 @@ Grime is a genre of electronic music that originated in London in the early 2000
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 70</li>
+            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1319,7 +1320,7 @@ Grime is a genre of electronic music that originated in London in the early 2000
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 79</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1411,8 +1412,8 @@ Grime is a genre of electronic music that originated in London in the early 2000
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 42</li>
-            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 85</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 49</li>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1472,7 +1473,7 @@ Grime is a genre of electronic music that originated in London in the early 2000
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 72</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1552,7 +1553,7 @@ Grime is a genre of electronic music that originated in London in the early 2000
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 60</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1694,7 +1695,7 @@ Grime is a genre of electronic music that originated in London in the early 2000
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 28</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1715,7 +1716,7 @@ Grime is a genre of electronic music that originated in London in the early 2000
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 85</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1773,14 +1774,14 @@ Grime is a genre of electronic music that originated in London in the early 2000
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 91</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/15Y_zrYTh7V0F-a6RBiAOBYOg-hLlxxd3OlKt0MFX1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjM3/NjE2LTE1NTgwMjcw/MzAtNTIwMi5qcGVn.jpeg" alt="Cover for Nothing Great About Britain" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2635f421c1289ad8990f8935054e1437.png" alt="Cover for Nothing Great About Britain" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-05-17</td>
       <td>slowthai</td>
@@ -1792,14 +1793,15 @@ Grime is a genre of electronic music that originated in London in the early 2000
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 86</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 53</li>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/NYZARLQsrvr1D1qV5pEjTDlEIr7u0VbVd2_7wWWAMcg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTky/NjM3LTE1Njk2MDgz/NTMtOTAwNi5qcGVn.jpeg" alt="Cover for For You and I" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb795ca34dadd4d535aa186a68167e1f.png" alt="Cover for For You and I" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-09-20</td>
       <td>Loraine James</td>
@@ -1814,7 +1816,7 @@ Grime is a genre of electronic music that originated in London in the early 2000
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 99</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1836,7 +1838,7 @@ Grime is a genre of electronic music that originated in London in the early 2000
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 94</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 97</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 99</li>
         </ul>
       </td>
@@ -1862,7 +1864,7 @@ Grime is a genre of electronic music that originated in London in the early 2000
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/B1vRn2Qr6oseVvVQNEJidG90_OmVXyesRhbSSoqyZLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Mzk2/MTUwLTE2OTQyMDEw/OTAtNTc2NC5qcGVn.jpeg" alt="Cover for Pink II" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0691eea4f592084bb73542546691ba51.png" alt="Cover for Pink II" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-10-28</td>
       <td>Lancey Foux</td>
@@ -1876,14 +1878,14 @@ Grime is a genre of electronic music that originated in London in the early 2000
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 89</li>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/Hsaa7zrbnroZGDerTZoANoYx2isyT2G3HJfURYkkf6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODk3/NjEzLTE1NDQwODk0/MzctMzAxMi5qcGVn.jpeg" alt="Cover for Real Ting Mixtape" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c19ebf6daadd7fd92a0e3851031eabba.png" alt="Cover for Real Ting Mixtape" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-01-17</td>
       <td>Stefflon Don</td>
@@ -1898,8 +1900,8 @@ Grime is a genre of electronic music that originated in London in the early 2000
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 27</li>
-            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 82</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 74</li>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1967,5 +1969,5 @@ Grime is a genre of electronic music that originated in London in the early 2000
 - [electronica]({{ "/tags/electronica" | relative_url }})
 - [jungle]({{ "/tags/jungle" | relative_url }})
 - [rave]({{ "/tags/rave" | relative_url }})
-- [idm]({{ "/tags/idm" | relative_url }})
 - [bass]({{ "/tags/bass" | relative_url }})
+- [footwork]({{ "/tags/footwork" | relative_url }})

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T13:13:31.647Z
+date: 2025-12-04T04:25:34.955Z
 permalink: tags/nu-jazz
 title: nu jazz
 ---
 
 ## nu jazz
 
-Last updated: <time datetime="2025-11-17T13:13:31.647Z">Mon Nov 17 2025 15:13:31 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:25:34.955Z">Thu Dec 04 2025 06:25:34 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -136,15 +136,15 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 4</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 8</li>
+            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 26</li>
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 27</li>
+            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 32</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 47</li>
-            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 71</li>
             <li> <a href="{{ "/tags/lounge-downtempo" | relative_url }}">lounge downtempo</a> # 75</li>
-            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 75</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 95</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 96</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -240,14 +240,14 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 7</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 12</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 18</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 38</li>
             <li> <a href="{{ "/tags/lounge-downtempo" | relative_url }}">lounge downtempo</a> # 66</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 85</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 87</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 90</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 90</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 94</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 96</li>
         </ul>
       </td>
@@ -320,14 +320,14 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 8</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 89</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac128685c520a29721e452cd190b7162.png" alt="Cover for Jet Sounds" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-10</td>
       <td>Nicola Conte</td>
@@ -363,10 +363,10 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 52</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 87</li>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 94</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 99</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 2</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 7</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 11</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -497,10 +497,11 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 43</li>
-            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 57</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 60</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 65</li>
+            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 2</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 34</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 34</li>
+            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 44</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -529,7 +530,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 87</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -548,7 +549,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 62</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -567,7 +568,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 38</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -633,18 +634,18 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 2</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 2</li>
-            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 2</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 2</li>
+            <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 2</li>
             <li> <a href="{{ "/tags/lounge-downtempo" | relative_url }}">lounge downtempo</a> # 5</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 5</li>
-            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 6</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 6</li>
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 7</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 11</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 22</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 77</li>
+            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 96</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 99</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 99</li>
+            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -671,11 +672,11 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       <td>
         <ul>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 15</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 16</li>
+            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 25</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 43</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 48</li>
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 70</li>
-            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 78</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 83</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 89</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 95</li>
         </ul>
@@ -684,6 +685,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
     <tr>
       <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af381f6813b74e4ea051ae638ce47187.png" alt="Cover for Sorry Music Polska" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Pink Freud</td>
@@ -804,6 +806,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
     <tr>
       <td>27</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c713062b4bbd4b8aa76d8f9eed37dde5.png" alt="Cover for Point Of View" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>[re:jazz]</td>
@@ -930,7 +933,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 88</li>
+            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -951,7 +954,8 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 54</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 9</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -988,7 +992,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 90</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1071,8 +1075,8 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 79</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 86</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 15</li>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 22</li>
             <li> <a href="{{ "/tags/tunisia" | relative_url }}">tunisia</a> # 100</li>
         </ul>
       </td>
@@ -1094,7 +1098,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 12</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1154,8 +1158,8 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 54</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 82</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 18</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1185,13 +1189,13 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
             <li> <a href="{{ "/tags/lounge-downtempo" | relative_url }}">lounge downtempo</a> # 11</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 13</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 16</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 17</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 19</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 24</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 27</li>
-            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 47</li>
-            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 51</li>
+            <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 50</li>
+            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 56</li>
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 83</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 85</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 88</li>
         </ul>
       </td>
@@ -1238,11 +1242,11 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 57</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 35</li>
+            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 46</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 61</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 66</li>
             <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 67</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 68</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 72</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 91</li>
         </ul>
@@ -1264,7 +1268,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 70</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1283,7 +1287,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 84</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1386,9 +1390,9 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 19</li>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 86</li>
-            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 99</li>
+            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 2</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 15</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1461,6 +1465,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1510,9 +1515,6 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       <td>One-Armed Bandit</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 93 / 100)"> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a></li>
-            <li style="font-size: calc(1rem * 52 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
         </ul>
       </td>
       <td>
@@ -1556,7 +1558,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 31</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1650,7 +1652,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 97</li>
+            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1686,7 +1688,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 17</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1726,8 +1728,8 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 65</li>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 71</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 29</li>
+            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1745,7 +1747,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 54</li>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1799,7 +1801,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 98</li>
+            <li> <a href="{{ "/tags/nu-bluz" | relative_url }}">nu-bluz</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1845,7 +1847,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 60</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1885,8 +1887,9 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 76</li>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 78</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 20</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 23</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1942,7 +1945,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 94</li>
+            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1961,7 +1964,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 87</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -2002,8 +2005,8 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 16</li>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 77</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 17</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 25</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 83</li>
         </ul>
       </td>
@@ -2029,9 +2032,9 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 23</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 53</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 61</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 30</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 58</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -2051,7 +2054,7 @@ Nu jazz, also known as jazztronica or electro-jazz, is a subgenre of jazz that i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 98</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 3</li>
         </ul>
       </td>
     </tr>

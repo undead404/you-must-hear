@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-21T01:04:25.877Z
+date: 2025-12-04T04:25:56.229Z
 permalink: tags/indonesian
 title: indonesian
 ---
 
 ## indonesian
 
-Last updated: <time datetime="2025-10-21T01:04:25.877Z">Tue Oct 21 2025 04:04:25 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T04:25:56.229Z">Thu Dec 04 2025 06:25:56 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -106,7 +106,7 @@ Indonesian music encompasses the diverse musical traditions and contemporary pop
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/2LG5xqQEavLm4Pz5BiScKuHnQaGehWCOWt1WIjGLeW8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDU3/OC0xMzM1NzY3NTA3/LmpwZWc.jpeg" alt="Cover for Snow On The Sahara" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/563db3e042a06df80c16021613dbbc7c.png" alt="Cover for Snow On The Sahara" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Anggun</td>
@@ -120,7 +120,7 @@ Indonesian music encompasses the diverse musical traditions and contemporary pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 94</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -242,7 +242,7 @@ Indonesian music encompasses the diverse musical traditions and contemporary pop
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/RfSrE_KbYeE_zMPdKHdGmmI_W_fNjVSgXHrCQwOxDeM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDI5/ODMtMTU2NjczNDI3/MS0xMzY1LmpwZWc.jpeg" alt="Cover for ...tot licht !" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac35394887cb41e284e178ee0c98217f.png" alt="Cover for ...tot licht !" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Discus</td>
@@ -263,7 +263,7 @@ Indonesian music encompasses the diverse musical traditions and contemporary pop
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/bEpzWi8-Yieohy8YtpU8-Kd0oZkzI3GQ4288IFGwEF0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjc0/OC0xMjk4NTY3Mjcw/LmpwZWc.jpeg" alt="Cover for Ratu Funky" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7800454c594f7a79f1dc8de6b234d092.png" alt="Cover for Ratu Funky" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-04</td>
       <td>Melinda</td>
@@ -378,7 +378,7 @@ Indonesian music encompasses the diverse musical traditions and contemporary pop
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/3Q5_3d4Gg4_zl76ZMZePXlj3PNRB9CxFZmvd2NbwSmI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDg4/NjgtMTI3MjI2ODc1/Mi5qcGVn.jpeg" alt="Cover for Guruh Gipsy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb1741ce265f4f11b8569ea920f55879.png" alt="Cover for Guruh Gipsy" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Guruh Gipsy</td>
@@ -413,7 +413,7 @@ Indonesian music encompasses the diverse musical traditions and contemporary pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 2</li>
+            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -439,7 +439,7 @@ Indonesian music encompasses the diverse musical traditions and contemporary pop
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/W1GrNDoLbJaLH5OfnCXxbCjt1IxpvMJEvqC2BN6FxE0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODY4/OTM3LTE1NjI5NDMz/NzQtNjI1MS5qcGVn.jpeg" alt="Cover for Between Us" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2b8e0c3b63e48f8c8bef294949bac41.png" alt="Cover for Between Us" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Lala Karmela</td>
@@ -477,6 +477,7 @@ Indonesian music encompasses the diverse musical traditions and contemporary pop
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0101e52d72a83230e5224277354ff825.png" alt="Cover for Gita Gutawa" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-02-16</td>
       <td>Gita Gutawa</td>
@@ -531,7 +532,7 @@ Indonesian music encompasses the diverse musical traditions and contemporary pop
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/YUb4CvC-eDAt2FXJ3dRO4CVpVBB1quGQN2-24KzIOv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDY1/MDItMTI4MzUzMjA4/OS5qcGVn.jpeg" alt="Cover for The Habit Of Fire" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d835e52256c79217493695fb05c459b.png" alt="Cover for The Habit Of Fire" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-05</td>
       <td>Kekal</td>
@@ -549,7 +550,7 @@ Indonesian music encompasses the diverse musical traditions and contemporary pop
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/v_Yp9aZ-W72OsX40KRoGV007290uy_DjW4GWrv98XrI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjc4/NjM0LTE1NTEyNTY0/MzAtNzc2MC5qcGVn.jpeg" alt="Cover for Orang Bilang" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a518d8064144270b87f5e21812d1a7d.png" alt="Cover for Orang Bilang" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Wali</td>
@@ -606,7 +607,7 @@ Indonesian music encompasses the diverse musical traditions and contemporary pop
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/I9A0i6D-kr68610yoa3YVPHutow2sOZOe1iebGL7lWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzI5/MzYtMTM5ODgwOTcy/OS04MTY1LmpwZWc.jpeg" alt="Cover for before circus over" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2b3c1f8224c48ee9c177b1b13e9ed27.png" alt="Cover for before circus over" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-01</td>
       <td>bottlesmoker</td>
@@ -651,7 +652,7 @@ Indonesian music encompasses the diverse musical traditions and contemporary pop
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/HNy7js8S68IK178BTLGexTjDJvbgpkbo00QiAuh76fQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTUx/NDItMTI5NzgyNjM5/MS5qcGVn.jpeg" alt="Cover for Salto" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21a5c9e4e4b742cc9f3e04a20fac8a44.png" alt="Cover for Salto" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Navicula</td>
@@ -710,7 +711,7 @@ Indonesian music encompasses the diverse musical traditions and contemporary pop
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/XX8cM8j77uDxk6A9egYZiuP3sUd6AwC51Dw2q-I5XUU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NzM5/NzItMTQwNTA4MzY1/MC04NjcwLmpwZWc.jpeg" alt="Cover for Rasuk" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/625f822ce66b41f99fee0d13d046addd.png" alt="Cover for Rasuk" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>The Trees &amp; The Wild</td>
@@ -768,7 +769,7 @@ Indonesian music encompasses the diverse musical traditions and contemporary pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 1</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 3</li>
             <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 18</li>
             <li> <a href="{{ "/tags/indonesia" | relative_url }}">indonesia</a> # 46</li>
             <li> <a href="{{ "/tags/progressive-breaks" | relative_url }}">progressive breaks</a> # 57</li>
@@ -837,14 +838,13 @@ Indonesian music encompasses the diverse musical traditions and contemporary pop
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/sDAy5iI3VPdfRSS2ANh3tLqsc3Wg0OD9mWgy8eKIYR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzc1/MTQ5LTE1MjIxNjY3/NDQtOTMxNy5qcGVn.jpeg" alt="Cover for Today I&#39;m With You EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34c7a90e2ea64ab58ed7a3ba49aa3e1c.png" alt="Cover for Today I&#39;m With You EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-02-20</td>
       <td>Flyafter</td>
       <td>Today I&#39;m With You EP</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a></li>
         </ul>
       </td>
       <td>
@@ -964,7 +964,7 @@ Indonesian music encompasses the diverse musical traditions and contemporary pop
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/dS3ZWtpYNOSsAuH41-GL1cQ4m8CCVTMRqmvv6KnTAWo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjYw/OTEtMTQ2NTQwOTc4/OS03NTI5LmpwZWc.jpeg" alt="Cover for Hymn to Your God" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f651b12c0bf43ffc3ee35e7225d5d87.png" alt="Cover for Hymn to Your God" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03-05</td>
       <td>Exhumation</td>
@@ -1004,7 +1004,6 @@ Indonesian music encompasses the diverse musical traditions and contemporary pop
     <tr>
       <td>7</td>
       <td>
-          <img src="https://i.discogs.com/FCUlIFUGMdQt0I2sJcqsEc6VkGv78RO9pQNriyD50TY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NTc5/MDItMTM3MTMxMDg1/OS0zODU1LmpwZWc.jpeg" alt="Cover for No Truth...No Justice..." style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12</td>
       <td>Oracle</td>
@@ -1042,6 +1041,7 @@ Indonesian music encompasses the diverse musical traditions and contemporary pop
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5371f500592546f8a352b89dd607370e.png" alt="Cover for RIVER" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-01-01</td>
       <td>JKT48</td>
@@ -1057,7 +1057,7 @@ Indonesian music encompasses the diverse musical traditions and contemporary pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 63</li>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 37</li>
             <li> <a href="{{ "/tags/indonesia" | relative_url }}">indonesia</a> # 94</li>
         </ul>
       </td>
@@ -1118,6 +1118,7 @@ Indonesian music encompasses the diverse musical traditions and contemporary pop
     <tr>
       <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/201f2bac60ca46b1c6c237f2c6f45d81.png" alt="Cover for Yuuhi wo Miteiruka?" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-07-03</td>
       <td>JKT48</td>
@@ -1160,6 +1161,7 @@ Indonesian music encompasses the diverse musical traditions and contemporary pop
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dfec477d824740f3c0db458d37590fe4.png" alt="Cover for Fortune Cookie in Love" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-08-21</td>
       <td>JKT48</td>
@@ -1182,7 +1184,7 @@ Indonesian music encompasses the diverse musical traditions and contemporary pop
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/Efc-j7s05P4FEh-m1dsjCIXY_Nqvp6gb3WFZAkkpO34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDI3/NzU2LTE2NDQwMTE2/MzEtMTQwNi5qcGVn.jpeg" alt="Cover for Based on True Feelings" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1063136429efaf32553e42981b7c7a52.png" alt="Cover for Based on True Feelings" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-30</td>
       <td>Alter</td>
@@ -1514,7 +1516,7 @@ Indonesian music encompasses the diverse musical traditions and contemporary pop
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/59z0nNdL2Gs37q-j-BA1Ih_wm0ZPfEYRVWQEUm1puPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTA3/MDc4LTE2MDM1NDcz/MzUtODQ3MS5qcGVn.jpeg" alt="Cover for Sports between Trenches" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8cac46dcae10598a2d88955c5352dadb.png" alt="Cover for Sports between Trenches" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Murphy Radio</td>
@@ -1576,7 +1578,7 @@ Indonesian music encompasses the diverse musical traditions and contemporary pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 39</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 44</li>
             <li> <a href="{{ "/tags/indonesia" | relative_url }}">indonesia</a> # 100</li>
         </ul>
       </td>
@@ -1797,7 +1799,7 @@ Indonesian music encompasses the diverse musical traditions and contemporary pop
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/ocJwHUWW5en5vXSe-frYm8xpdvtj2Z1KtZ-WycR5rZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjUz/NzQtMTMzNTUwNjQ3/OC5qcGVn.jpeg" alt="Cover for Indonesia: Music from West Java" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0dd42c50564de73033618ed2b3471731.png" alt="Cover for Indonesia: Music from West Java" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Various Artists</td>
@@ -1815,7 +1817,7 @@ Indonesian music encompasses the diverse musical traditions and contemporary pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 8</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 10</li>
             <li> <a href="{{ "/tags/indonesia" | relative_url }}">indonesia</a> # 23</li>
             <li> <a href="{{ "/tags/gamelan" | relative_url }}">gamelan</a> # 78</li>
         </ul>
@@ -1858,6 +1860,7 @@ Indonesian music encompasses the diverse musical traditions and contemporary pop
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/898fefdba7cc47b19c83ad8054fcbbf6.png" alt="Cover for Gadis Kecil" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Dua Ibu</td>
@@ -1871,7 +1874,7 @@ Indonesian music encompasses the diverse musical traditions and contemporary pop
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 11</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1913,6 +1916,7 @@ Indonesian music encompasses the diverse musical traditions and contemporary pop
     <tr>
       <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de6904908784dac137a9bf1b93fff903.png" alt="Cover for LUMINACE" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>crafTUNER</td>

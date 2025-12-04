@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-20T23:28:32.037Z
+date: 2025-12-04T03:34:25.794Z
 permalink: tags/cantautor
 title: cantautor
 ---
 
 ## cantautor
 
-Last updated: <time datetime="2025-10-20T23:28:32.037Z">Tue Oct 21 2025 02:28:32 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T03:34:25.794Z">Thu Dec 04 2025 05:34:25 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -144,7 +144,6 @@ Cantautor refers to Spanish and Latin American singer-songwriters who craft poet
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/bfZMNphj3fXWjrFI0JPw3Ewc3uR22gjQm3VJ1DlxnyE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTAy/NTgtMTMyNDIwNDAx/My5qcGVn.jpeg" alt="Cover for En Vivo" style="max-width:120px; height:auto;" />
       </td>
       <td>1974</td>
       <td>Facundo Cabral</td>
@@ -197,7 +196,7 @@ Cantautor refers to Spanish and Latin American singer-songwriters who craft poet
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 47</li>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 54</li>
             <li> <a href="{{ "/tags/trova" | relative_url }}">trova</a> # 78</li>
         </ul>
       </td>
@@ -373,6 +372,7 @@ Cantautor refers to Spanish and Latin American singer-songwriters who craft poet
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef48eb2c8c253b564e316b30b0d90858.png" alt="Cover for Malas Compañías" style="max-width:120px; height:auto;" />
       </td>
       <td>1980</td>
       <td>Joaquín Sabina</td>
@@ -446,9 +446,9 @@ Cantautor refers to Spanish and Latin American singer-songwriters who craft poet
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 21</li>
             <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 26</li>
             <li> <a href="{{ "/tags/trova" | relative_url }}">trova</a> # 58</li>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -468,7 +468,7 @@ Cantautor refers to Spanish and Latin American singer-songwriters who craft poet
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 54</li>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 47</li>
             <li> <a href="{{ "/tags/trova" | relative_url }}">trova</a> # 88</li>
         </ul>
       </td>
@@ -476,7 +476,7 @@ Cantautor refers to Spanish and Latin American singer-songwriters who craft poet
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/MAXslDsPW98HvH0Tdp8G86hrlB6y2DqE-Xdmyngf5FY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjc4/MjA1LTE1ODkwODAz/OTItNjc4Ny5qcGVn.jpeg" alt="Cover for Serrat En Directo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/539dc2950bce85f22b6d8ebbeb3ffb21.png" alt="Cover for Serrat En Directo" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>Joan Manuel Serrat</td>
@@ -527,7 +527,7 @@ Cantautor refers to Spanish and Latin American singer-songwriters who craft poet
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 47</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 56</li>
             <li> <a href="{{ "/tags/trova" | relative_url }}">trova</a> # 63</li>
         </ul>
       </td>
@@ -535,7 +535,7 @@ Cantautor refers to Spanish and Latin American singer-songwriters who craft poet
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/kRZs2LMf6F2emQpk86wxeoLCPYceRiQBJEU7eFknsUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjYy/ODItMTMwOTAwMzEz/MC5qcGVn.jpeg" alt="Cover for AUTOTUNE MAL" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ad3ad364bd3da463b3042b657c98c81.png" alt="Cover for AUTOTUNE MAL" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>NOTA</td>
@@ -549,7 +549,7 @@ Cantautor refers to Spanish and Latin American singer-songwriters who craft poet
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 68</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -614,7 +614,7 @@ Cantautor refers to Spanish and Latin American singer-songwriters who craft poet
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/27VT7mA3TRUpifQQe344y8CNfEtsX4OnEGEhr5X7I-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAw/MDgyLTE1NDIyMDEy/MTItMjU1OS5qcGVn.jpeg" alt="Cover for Victor Jara-Presente" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/910cd01577eb471ebba7b5b918599da6.png" alt="Cover for Victor Jara-Presente" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Victor Jara</td>
@@ -626,7 +626,7 @@ Cantautor refers to Spanish and Latin American singer-songwriters who craft poet
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 18</li>
+            <li> <a href="{{ "/tags/chile" | relative_url }}">chile</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -702,7 +702,7 @@ Cantautor refers to Spanish and Latin American singer-songwriters who craft poet
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 53</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -839,6 +839,7 @@ Cantautor refers to Spanish and Latin American singer-songwriters who craft poet
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b066c22736530ffb1e33c51a2e615de.png" alt="Cover for Yo, mi, me, contigo" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Joaquín Sabina</td>
@@ -1041,7 +1042,7 @@ Cantautor refers to Spanish and Latin American singer-songwriters who craft poet
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 21</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1061,7 +1062,7 @@ Cantautor refers to Spanish and Latin American singer-songwriters who craft poet
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 5</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1124,7 +1125,7 @@ Cantautor refers to Spanish and Latin American singer-songwriters who craft poet
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/MuDy6dRLtyMChdl5yWIsCMT-82vMRvP8G9sRrNrx8LU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzA1/NTc5LTE1MzM1OTU3/MzctNDI2Ni5qcGVn.jpeg" alt="Cover for Carta de Provincia - Homenaje a Lázaro García" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/46fed164bcf17662d19e8f784e74be79.png" alt="Cover for Carta de Provincia - Homenaje a Lázaro García" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Lázaro García</td>
@@ -1233,6 +1234,7 @@ Cantautor refers to Spanish and Latin American singer-songwriters who craft poet
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a2873affc5d4140921af58152beb41b.png" alt="Cover for Pánico" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Manuel García</td>
@@ -1272,7 +1274,7 @@ Cantautor refers to Spanish and Latin American singer-songwriters who craft poet
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/teE_M5nHv18IcPoNuzX7-Ywk03dfwhoJKLyljPdFBic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NTQ2/NDYtMTQyMTg3NDgw/MC05NzYwLmpwZWc.jpeg" alt="Cover for Los abismos cotidianos" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ab9a9442cb788bfd7eda168d57654d3.png" alt="Cover for Los abismos cotidianos" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Diego Vasallo</td>
@@ -1317,8 +1319,8 @@ Cantautor refers to Spanish and Latin American singer-songwriters who craft poet
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 20</li>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 26</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 73</li>
+            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1455,6 +1457,7 @@ Cantautor refers to Spanish and Latin American singer-songwriters who craft poet
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c10d6a885ee49aa8ceaca36554a11eb.png" alt="Cover for Verano Fatal" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10-22</td>
       <td>Nacho Vegas &amp; Christina Rosenvinge</td>
@@ -1510,6 +1513,7 @@ Cantautor refers to Spanish and Latin American singer-songwriters who craft poet
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a72deb183ab41ee33d7ba82d1c38cfd.png" alt="Cover for Tu labio superior" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Christina Rosenvinge</td>
@@ -1547,7 +1551,7 @@ Cantautor refers to Spanish and Latin American singer-songwriters who craft poet
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/qrkBYsSt6VTCPzZ0z_fPBndEdwB9QhbbRwZ29RHutZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTcw/NTg1LTE1MTExNTc5/NjItNjc4MC5qcGVn.jpeg" alt="Cover for Guerres dolcíssimes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab65584527234ae1a4de789e8609b701.png" alt="Cover for Guerres dolcíssimes" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-04</td>
       <td>Ivette Nadal</td>
@@ -1663,7 +1667,7 @@ Cantautor refers to Spanish and Latin American singer-songwriters who craft poet
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/lv0XzYGAdaoGxKPti_FfBRO0gDGW5GH-XzIszbtivQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTcw/NTEwLTE1MTExNTQ0/NjUtNzQ4OS5qcGVn.jpeg" alt="Cover for A l&#39;esquena d&#39;un elefant" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b265e93970de4601ad62c0b1765d93bb.png" alt="Cover for A l&#39;esquena d&#39;un elefant" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-12</td>
       <td>Ivette Nadal</td>
@@ -1705,7 +1709,7 @@ Cantautor refers to Spanish and Latin American singer-songwriters who craft poet
     <tr>
       <td>10</td>
       <td>
-          <img src="https://i.discogs.com/PWWMgC7ziKgwSDz9VX2YJ3VpQM2BpelBkmOIsIRA4Z8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDU0/NjAtMTMxNzg1NjY1/NC5qcGVn.jpeg" alt="Cover for Canciones en ruinas" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e27fc53a4fc449799d212d413b11c1db.png" alt="Cover for Canciones en ruinas" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-02</td>
       <td>Diego Vasallo</td>
@@ -1745,7 +1749,7 @@ Cantautor refers to Spanish and Latin American singer-songwriters who craft poet
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/U0VHOXnvNRx4GrmTqzEpRBV5rJSXCuUezx3JScEpNEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDIy/OTg0LTE1MDg3MTc5/OTUtMTEwNy5qcGVn.jpeg" alt="Cover for Serie De Oro" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dedbfc844cc91472b16ea3b801fa0bb2.png" alt="Cover for Serie De Oro" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Facundo Cabral</td>
@@ -1798,7 +1802,7 @@ Cantautor refers to Spanish and Latin American singer-songwriters who craft poet
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/yNKKP6_bj4yW-0bwrBVTrR1mJ5amPVGfHjowqUoqQp0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTg3/NTU1LTE2MzgzNTcz/ODItNzMzOS5qcGVn.jpeg" alt="Cover for Canciones Sobre una Casa, Cuatro Amigos y un Perro" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/39cfb3f56b626a26b5ec722fa41986e0.png" alt="Cover for Canciones Sobre una Casa, Cuatro Amigos y un Perro" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-10-15</td>
       <td>Santiago Motorizado</td>
@@ -1875,6 +1879,7 @@ Cantautor refers to Spanish and Latin American singer-songwriters who craft poet
     <tr>
       <td>27</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/197fa11a32594efe944b31a8eb1a0aaa.png" alt="Cover for Víctor Jara Sinfónico" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Manuel García &amp; Orquesta Sinfónica U. de Concepción</td>

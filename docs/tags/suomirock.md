@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T12:47:12.746Z
+date: 2025-12-04T04:28:12.897Z
 permalink: tags/suomirock
 title: suomirock
 ---
 
 ## suomirock
 
-Last updated: <time datetime="2025-10-28T12:47:12.746Z">Tue Oct 28 2025 14:47:12 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:28:12.897Z">Thu Dec 04 2025 06:28:12 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -46,7 +46,7 @@ Suomirock refers to Finnish-language rock music that emerged as a distinct cultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 57</li>
+            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -306,6 +306,7 @@ Suomirock refers to Finnish-language rock music that emerged as a distinct cultu
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de0181c417953c89b83784c315a60c2f.png" alt="Cover for Raha ja rakkaus" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Leevi and the Leavings</td>
@@ -387,6 +388,7 @@ Suomirock refers to Finnish-language rock music that emerged as a distinct cultu
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b60c84ec1969aff664f3fac9ceef0308.png" alt="Cover for Musiikkiluokka" style="max-width:120px; height:auto;" />
       </td>
       <td>1989-06</td>
       <td>Leevi and the Leavings</td>
@@ -402,7 +404,7 @@ Suomirock refers to Finnish-language rock music that emerged as a distinct cultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 9</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 89</li>
             <li> <a href="{{ "/tags/suomipop" | relative_url }}">suomipop</a> # 97</li>
         </ul>
       </td>
@@ -425,8 +427,8 @@ Suomirock refers to Finnish-language rock music that emerged as a distinct cultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 63</li>
-            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 69</li>
+            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 31</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -866,6 +868,7 @@ Suomirock refers to Finnish-language rock music that emerged as a distinct cultu
     <tr>
       <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d2c9e2e440cc9ac7c35e990113a03955.png" alt="Cover for Kaikki Kesäkumibiisit 20v." style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Various Artists</td>
@@ -961,7 +964,7 @@ Suomirock refers to Finnish-language rock music that emerged as a distinct cultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 23</li>
+            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1097,8 +1100,8 @@ Suomirock refers to Finnish-language rock music that emerged as a distinct cultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 16</li>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 25</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 74</li>
+            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1135,7 +1138,7 @@ Suomirock refers to Finnish-language rock music that emerged as a distinct cultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 68</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1195,7 +1198,7 @@ Suomirock refers to Finnish-language rock music that emerged as a distinct cultu
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/iO01eatBRhVXzEUszE6OLSBFAnNSfu3rfhwVTTAvZBY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NDMw/My0xMjE3Nzc4Mjc1/LmpwZWc.jpeg" alt="Cover for Se jokin" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7c3e2147bf4486e630dd1b1961e9290.png" alt="Cover for Se jokin" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Maria Gasolina</td>
@@ -1270,8 +1273,8 @@ Suomirock refers to Finnish-language rock music that emerged as a distinct cultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 61</li>
-            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 68</li>
+            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 32</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 38</li>
             <li> <a href="{{ "/tags/suomipop" | relative_url }}">suomipop</a> # 68</li>
         </ul>
       </td>
@@ -1313,7 +1316,7 @@ Suomirock refers to Finnish-language rock music that emerged as a distinct cultu
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/RS-4UwhSrOX5ueJiwTPwcoRFXqrvSSwlkbm0Y3UL2B8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMTg4/NDUtMTQ3NTA5Mzkw/My02MjY0LmpwZWc.jpeg" alt="Cover for bReedgReedbRreed" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/efa922335b4fbe34c0d76bb2bc50dc11.png" alt="Cover for bReedgReedbRreed" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Misery Inc.</td>
@@ -1332,7 +1335,7 @@ Suomirock refers to Finnish-language rock music that emerged as a distinct cultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 39</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1405,6 +1408,7 @@ Suomirock refers to Finnish-language rock music that emerged as a distinct cultu
     <tr>
       <td>18</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd7e26d59b79476a9cf2450b19e001ca.png" alt="Cover for Luottaa Huomiseen" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-02-05</td>
       <td>Anneli Mattila</td>
@@ -1420,7 +1424,7 @@ Suomirock refers to Finnish-language rock music that emerged as a distinct cultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 19</li>
+            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1551,7 +1555,7 @@ Suomirock refers to Finnish-language rock music that emerged as a distinct cultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 54</li>
+            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1588,7 +1592,7 @@ Suomirock refers to Finnish-language rock music that emerged as a distinct cultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 5</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1683,13 +1687,14 @@ Suomirock refers to Finnish-language rock music that emerged as a distinct cultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 40</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec1ed1a3800f484b9f9e1ec76d87f736.png" alt="Cover for Melrose" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Melrose</td>
@@ -1710,7 +1715,7 @@ Suomirock refers to Finnish-language rock music that emerged as a distinct cultu
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/fe_tHKUsB3Fz5qqGlU-OyMS32aD6xd_5d-7KCLLAxPE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjA5/NzctMTM5MjkyMzcz/OS0zNDE5LmpwZWc.jpeg" alt="Cover for Tarinoita" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4def585aa31545c1c5709124c56e5709.png" alt="Cover for Tarinoita" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Sallan ja Miron matka maailman ympäri</td>
@@ -1752,7 +1757,7 @@ Suomirock refers to Finnish-language rock music that emerged as a distinct cultu
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/Rd_3dD1uNIoq0yXaDdDejPZYNzY5UkcnRZ8xb_VypNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU2/ODgyLTE1Mzc1NTcw/NDItNDcyNy5qcGVn.jpeg" alt="Cover for Ääriviivoja" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f4c4e8ce9d68f5178cbd004254217b9.png" alt="Cover for Ääriviivoja" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-19</td>
       <td>Anssi Kela</td>
@@ -1810,7 +1815,7 @@ Suomirock refers to Finnish-language rock music that emerged as a distinct cultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 53</li>
+            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 47</li>
             <li> <a href="{{ "/tags/suomipop" | relative_url }}">suomipop</a> # 55</li>
         </ul>
       </td>
@@ -1917,8 +1922,8 @@ Suomirock refers to Finnish-language rock music that emerged as a distinct cultu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 4</li>
-            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 6</li>
+            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 95</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 97</li>
         </ul>
       </td>
     </tr>

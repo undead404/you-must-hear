@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-21T01:09:09.422Z
+date: 2025-12-04T04:26:45.605Z
 permalink: tags/fado
 title: fado
 ---
 
 ## fado
 
-Last updated: <time datetime="2025-10-21T01:09:09.422Z">Tue Oct 21 2025 04:09:09 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T04:26:45.605Z">Thu Dec 04 2025 06:26:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,6 +31,7 @@ Fado is a melancholic Portuguese music genre characterized by mournful vocals ac
     <tr>
       <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b365a146b014ef2dd0f3dd2be110bedb.png" alt="Cover for Baladas e Canções" style="max-width:120px; height:auto;" />
       </td>
       <td>1964</td>
       <td>José Afonso</td>
@@ -176,6 +177,7 @@ Fado is a melancholic Portuguese music genre characterized by mournful vocals ac
     <tr>
       <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e40537a6f13b183a9f45829d9504b26d.png" alt="Cover for Cesaria" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Cesária Évora</td>
@@ -244,7 +246,8 @@ Fado is a melancholic Portuguese music genre characterized by mournful vocals ac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 42</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 46</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -287,6 +290,7 @@ Fado is a melancholic Portuguese music genre characterized by mournful vocals ac
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/224cb5b8348242c8c278fef8461526a6.png" alt="Cover for Existir" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Madredeus</td>
@@ -304,6 +308,7 @@ Fado is a melancholic Portuguese music genre characterized by mournful vocals ac
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/962bff1cea3240dfc05a9c090ae6f77d.png" alt="Cover for Mar Azul" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Cesária Évora</td>
@@ -375,7 +380,7 @@ Fado is a melancholic Portuguese music genre characterized by mournful vocals ac
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/QBh3ijhVSkcPPWh1_SRruOJy0hnoVUHCj9GuAgjNkrE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDk1/OTktMTI3NjEwNjg3/NS5qcGVn.jpeg" alt="Cover for Ao Vivo No Coliseu" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/41f9175b777eaf05d611ce0e32a382bd.png" alt="Cover for Ao Vivo No Coliseu" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>José Afonso</td>
@@ -429,7 +434,7 @@ Fado is a melancholic Portuguese music genre characterized by mournful vocals ac
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/AkIdS7i-2ET46ZkUpiNN-u7Xy1QGCX6hqMmmBomlaGg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4Nzkx/Ni0xNDkxODk2NDM0/LTY5OTIuanBlZw.jpeg" alt="Cover for Cesaria Evora Best Of" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed4bff18cde249cf898b053837e67eab.png" alt="Cover for Cesaria Evora Best Of" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Cesária Évora</td>
@@ -447,7 +452,7 @@ Fado is a melancholic Portuguese music genre characterized by mournful vocals ac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 35</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -593,9 +598,9 @@ Fado is a melancholic Portuguese music genre characterized by mournful vocals ac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 26</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 14</li>
             <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 74</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 86</li>
+            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -674,6 +679,7 @@ Fado is a melancholic Portuguese music genre characterized by mournful vocals ac
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb22863041eb4ee89a6b3119d9398d0f.png" alt="Cover for Antologia" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Madredeus</td>
@@ -692,7 +698,7 @@ Fado is a melancholic Portuguese music genre characterized by mournful vocals ac
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/8Chif-_pjg2hSuH2f7Jp20hWnFWjnSbcQ-p_eFr-TU4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTUw/ODctMTM2ODAyMDky/OC0yNjcxLmpwZWc.jpeg" alt="Cover for Lina_Raül Refree" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae2d7b69a94f2d4319a33628094b24ad.png" alt="Cover for Lina_Raül Refree" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Lina</td>
@@ -711,6 +717,7 @@ Fado is a melancholic Portuguese music genre characterized by mournful vocals ac
     <tr>
       <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c3d6fdd29a67ba25430c76eac6349df.png" alt="Cover for A Dama Do Fado" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Amália Rodrigues</td>
@@ -782,7 +789,7 @@ Fado is a melancholic Portuguese music genre characterized by mournful vocals ac
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/E_vy_hg3GVMqm-Cz0LcKkJvuiONTl5s3mOi1s4v-UFw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjk4/ODgtMTE4OTgwNDEw/MS5qcGVn.jpeg" alt="Cover for Fado Em Mim" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbcd3161a8bf42c9af135a017a13e969.png" alt="Cover for Fado Em Mim" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Mariza</td>
@@ -800,7 +807,7 @@ Fado is a melancholic Portuguese music genre characterized by mournful vocals ac
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/JNX6vsuyt1ElxAmhRT14cwo00019anrE9T6lUNZT_TM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjAx/MjYtMTI3NTU3Mjg0/OC5qcGVn.jpeg" alt="Cover for Esta voz que me atravessa" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3578c1330603e26a8e670bc14dd5460d.png" alt="Cover for Esta voz que me atravessa" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-03-05</td>
       <td>Mafalda Arnauth</td>
@@ -860,7 +867,7 @@ Fado is a melancholic Portuguese music genre characterized by mournful vocals ac
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/oeZg6ptBFWXzjLC9paa06S6l8CD3_hrrHfWg5gLxHMs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDYx/NDktMTQ5MzA3NTAz/OC03MzYwLmpwZWc.jpeg" alt="Cover for Chenoa" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/308b91abe3edee58833228e45f0f6952.png" alt="Cover for Chenoa" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-04-16</td>
       <td>Chenoa</td>
@@ -934,6 +941,7 @@ Fado is a melancholic Portuguese music genre characterized by mournful vocals ac
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d54108f5fbb87eb0684b848d4bb13e9b.png" alt="Cover for Fado Curvo" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-03-28</td>
       <td>Mariza</td>
@@ -952,6 +960,7 @@ Fado is a melancholic Portuguese music genre characterized by mournful vocals ac
     <tr>
       <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14a276851ead420aa9cdef533271eb9a.png" alt="Cover for Voz d&#39;Amor" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-09-18</td>
       <td>Cesária Évora</td>
@@ -1078,6 +1087,7 @@ Fado is a melancholic Portuguese music genre characterized by mournful vocals ac
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/03442aa1ee404a24cafbbc038f860271.png" alt="Cover for Ulisses" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-01-10</td>
       <td>Cristina Branco</td>
@@ -1095,6 +1105,7 @@ Fado is a melancholic Portuguese music genre characterized by mournful vocals ac
     <tr>
       <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9530c56907a27162b2f5c2a04dd0474.png" alt="Cover for Aconteceu" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-02-28</td>
       <td>Ana Moura</td>
@@ -1112,6 +1123,7 @@ Fado is a melancholic Portuguese music genre characterized by mournful vocals ac
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce59bbbe7be44d6dcd119c62cfc11cda.png" alt="Cover for Transparente" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-04-25</td>
       <td>Mariza</td>
@@ -1326,6 +1338,7 @@ Fado is a melancholic Portuguese music genre characterized by mournful vocals ac
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70e4bbd27f6ec8713c521a9743670914.png" alt="Cover for Terra" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Mariza</td>
@@ -1343,6 +1356,7 @@ Fado is a melancholic Portuguese music genre characterized by mournful vocals ac
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/73146195ea104321c3aaf3ad7ba09a93.png" alt="Cover for Canção Ao Lado" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Deolinda</td>
@@ -1502,6 +1516,7 @@ Fado is a melancholic Portuguese music genre characterized by mournful vocals ac
     <tr>
       <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3d7e200b9764fc0909bd5cc99b99f9b.png" alt="Cover for Fado Tradicional" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-29</td>
       <td>Mariza</td>
@@ -1697,14 +1712,14 @@ Fado is a melancholic Portuguese music genre characterized by mournful vocals ac
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 25</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg" alt="Cover for Exploratory Music From Portugal 04" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d31698f1373eebdfe1cdf64a99b7727d.png" alt="Cover for Exploratory Music From Portugal 04" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Various Artists</td>
@@ -1744,7 +1759,7 @@ Fado is a melancholic Portuguese music genre characterized by mournful vocals ac
     <tr>
       <td>13</td>
       <td>
-          <img src="https://i.discogs.com/IMIfrYPZgdDmOu8d2SAiDCXrHIEUXp3TKZ6d1U6mmXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODU2/ODUwLTE1ODI5MTk1/NjEtMTQ0Ni5qcGVn.jpeg" alt="Cover for Fado" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/41fcfb06c720cff614e1b114f648beef.png" alt="Cover for Fado" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-03-03</td>
       <td>BASTARDA</td>

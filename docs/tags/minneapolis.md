@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-26T00:42:13.520Z
+date: 2025-12-04T04:26:34.174Z
 permalink: tags/minneapolis
 title: minneapolis
 ---
 
 ## minneapolis
 
-Last updated: <time datetime="2025-10-26T00:42:13.520Z">Sun Oct 26 2025 03:42:13 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T04:26:34.174Z">Thu Dec 04 2025 06:26:34 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -50,6 +50,7 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
     <tr>
       <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff90ce6179d54d27165e0047886f615e.png" alt="Cover for We Are the Sun" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Various Artists</td>
@@ -72,6 +73,7 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/be6f26f7acdd44284e80fe84a1b60702.png" alt="Cover for The Time" style="max-width:120px; height:auto;" />
       </td>
       <td>1981-07-29</td>
       <td>The Time</td>
@@ -125,6 +127,7 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
     <tr>
       <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21f8e9e0549f68f4029a4ddfe2ade5dd.png" alt="Cover for What Time Is It?" style="max-width:120px; height:auto;" />
       </td>
       <td>1982-08-25</td>
       <td>The Time</td>
@@ -154,14 +157,14 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 83</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/CBNk-1UhZPwTfLUvZEbKYwcwXJxlZbu2tAT3-tZlGTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ1/MTQtMTYwNzg2MTI0/My00MTMzLmpwZWc.jpeg" alt="Cover for Diamonds" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f0751d2c30c7fc84122761ce90f53ba.png" alt="Cover for Diamonds" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Herb Alpert</td>
@@ -181,7 +184,7 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/fp3YoRGDUQDcHqG2tPawDhFEZ8koW9BQjzO69FwKlU4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjQx/NTA4LTE2MzE3MTQw/NzUtNTYwNy5qcGVn.jpeg" alt="Cover for Purple Snow: Forecasting the Minneapolis Sound" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4b80fa6eafd10eb6dcc6381aa30558e.png" alt="Cover for Purple Snow: Forecasting the Minneapolis Sound" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Cohesion</td>
@@ -236,7 +239,7 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/OXKDJUxYH7lzNNVY_AWJbxJAwvpnSEnIz2HcfblpSVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNjMz/Ny0xMzk0MTI0MjAz/LTc4MzcuanBlZw.jpeg" alt="Cover for GoldNigga" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9265d0d5d9f34e04ad47b305d88a3f24.png" alt="Cover for GoldNigga" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>The New Power Generation</td>
@@ -255,6 +258,7 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
     <tr>
       <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf39e26ad4d8c79999ca74ac9bf6b64a.png" alt="Cover for Get Wild" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>The New Power Generation</td>
@@ -288,7 +292,7 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 29</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -310,7 +314,7 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 62</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -353,7 +357,7 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/aI-P6ZGI2HUb37I3qdJNCQhM_DbijDs669afdGItYRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDgw/OTIyLTE2NDcwODUy/OTgtOTAyMi5qcGVn.jpeg" alt="Cover for The Root City EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de5cac04badf459d8040743044aa219d.png" alt="Cover for The Root City EP" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Alex Rossi</td>
@@ -370,8 +374,8 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 29</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 48</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 49</li>
+            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -399,7 +403,7 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 32</li>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -421,7 +425,7 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 40</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -446,15 +450,15 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 18</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 65</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 13</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/voAzxDIFeFyTElv1cXgZpDYR6GdwQ87aUQDOmV7na9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDc2/NzIyLTE2NDcwNDE1/MjItODE5OS5qcGVn.jpeg" alt="Cover for Echoes from the Arches" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3661d39caaa3f190980db084da73bd29.png" alt="Cover for Echoes from the Arches" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-05-16</td>
       <td>Alex Rossi</td>
@@ -471,8 +475,8 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 12</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 37</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 60</li>
+            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -497,6 +501,7 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
     <tr>
       <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e81762ddb39b4f0384a9059675304c89.png" alt="Cover for A Cynics Nightmare" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-07-29</td>
       <td>Tora! Tora! Torrance!</td>
@@ -515,14 +520,15 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 31</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 73</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 27</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae6fc740104c4e41a773379173ea0aa7.png" alt="Cover for Seven&#39;s Travels" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-09-22</td>
       <td>Atmosphere</td>
@@ -534,8 +540,8 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 80</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 95</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 13</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -572,7 +578,7 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/iSGUfwTpdjQCUyFgQaKkBGKOiWZxNbf_5X3B3CyL9ik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjgz/NDktMTE4NTc1Mzg1/My5qcGVn.jpeg" alt="Cover for Super Structure Baby" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a703c810e69508c1f68cc110ac2d1a5d.png" alt="Cover for Super Structure Baby" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Keston and Westdal</td>
@@ -592,11 +598,11 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 38</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 49</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 55</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 27</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 46</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 50</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 62</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 69</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -628,9 +634,9 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 10</li>
             <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 30</li>
-            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 52</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 90</li>
+            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 49</li>
             <li> <a href="{{ "/tags/baritone" | relative_url }}">baritone</a> # 97</li>
         </ul>
       </td>
@@ -638,7 +644,6 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
     <tr>
       <td>3</td>
       <td>
-          <img src="https://i.discogs.com/kEmSyeksDLcZJGPLNU944ASsDi2F25EJ9DK1UXmcJ_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTEy/MDAxLTE1NjgwNjE4/NjItNjg4Mi5qcGVn.jpeg" alt="Cover for iRT unreleased" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Chris Koza</td>
@@ -686,7 +691,7 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 81</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -707,14 +712,14 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 4</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/mFtz6EWrv1Z-cw8dJu9pVDz1hamR8mbQGKpExo__wQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjgz/NTctMTE4NTc1NTUw/Ny5qcGVn.jpeg" alt="Cover for Truth is Stranger" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2223a20e60ce4697a34ffc382d214009.png" alt="Cover for Truth is Stranger" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-13</td>
       <td>Keston and Westdal</td>
@@ -739,14 +744,14 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 4</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 3</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 13</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 18</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 23</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 24</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 27</li>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 35</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 74</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 76</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 76</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 82</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 87</li>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -766,7 +771,7 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 86</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -788,7 +793,7 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 18</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -811,7 +816,7 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 13</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -840,8 +845,8 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 14</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 41</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 56</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -891,7 +896,7 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/nH5YtRTRoszhMk3w5SyGyaecT-rbM8HZj2l-qAH97mU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODIy/NDUtMTQ1Mjg4NTQw/My0zNjI1LmpwZWc.jpeg" alt="Cover for One Day to Save All Life" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/edffb20f4514352a03f6d7e6a29f5ad9.png" alt="Cover for One Day to Save All Life" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Keston and Westdal</td>
@@ -916,12 +921,12 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
       <td>
         <ul>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 7</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 20</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 23</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 40</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 41</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 50</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 60</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 60</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 74</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 76</li>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -983,14 +988,14 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 71</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/zW48SzhC6hIZPsTE7aSPQLJEiEKo9YONdnJeo30Y22o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODcy/NzEtMTIzMDQzODkx/NS5wbmc.jpeg" alt="Cover for Fall Through Sparks" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21147c8dd4a8b4d5dba65a7f5adc698c.png" alt="Cover for Fall Through Sparks" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-08-15</td>
       <td>Able Baker</td>
@@ -1029,27 +1034,24 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/Lipmisc4v7qTSFujU5LTqMwrOdsPQ_ya9oOe8uTKqsU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjU0/MTIyLTE2MzQ2NTU2/NzMtMTA3My5qcGVn.jpeg" alt="Cover for The Belfast Cowboys" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7cd89d53c36f478db6821279545d8d94.png" alt="Cover for The Belfast Cowboys" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>The Belfast Cowboys</td>
       <td>The Belfast Cowboys</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 77</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/-Vwa1oxSLx7rlC_3ulGQMVKNe6x3jpm93cf5S8G3xcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODcw/MTQtMTQwODEzOTcy/NS04NjE2LmpwZWc.jpeg" alt="Cover for live: November 18, 2006 - Minneapolis, MN @ 7th Street Entry" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Vampire Hands</td>
@@ -1086,7 +1088,7 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/kX-ILeu7aYsHnbnKN7b-_ARuPYJGjwQmB861XMrq4_Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODA3/ODEtMTI1NjQ4Mzg0/Ny5qcGVn.jpeg" alt="Cover for Lemon Drop Square Box" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76e943be65554ca4b1981b07feba1e23.png" alt="Cover for Lemon Drop Square Box" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09-30</td>
       <td>Velvet Davenport</td>
@@ -1103,15 +1105,14 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 84</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 87</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 14</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/jeX7tpDl7c9sUEG-KwoLE7vwE4Xsh-gQFuxGRQcXGR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTU2/MDYtMTI4MTYwNTYw/My5qcGVn.jpeg" alt="Cover for Happy Ending - CD [SHDWPLY]" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Velvet Davenport</td>
@@ -1133,10 +1134,10 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 11</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 11</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 20</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 53</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 13</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 49</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 80</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1160,7 +1161,7 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/JK3wqpmnCWenoykpyJelGTzj8qvgUUYPH7cMTn4F3vw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTk1/ODEtMTM1Mzg3Mzk0/Ny03MzAwLmpwZWc.jpeg" alt="Cover for OssicleDanceParty!!!!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/194246285a414ff798980134179b1f6d.png" alt="Cover for OssicleDanceParty!!!!" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-04</td>
       <td>JustLikeAmmy</td>
@@ -1182,7 +1183,7 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 45</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1208,7 +1209,7 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/uIg1rblaG5g8KEc5X4xxwAXa0s0Vif59McVAPCiwKz4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjMz/MjgzLTE1MDEzMzkx/NjItNzE2NC5qcGVn.jpeg" alt="Cover for hanlik" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6efc33ffc584b509f84384ce6a79ccb.png" alt="Cover for hanlik" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-01</td>
       <td>hanlik</td>
@@ -1253,7 +1254,7 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/s1Y2bZJnZfgEATYc-_-Gvy28Var0OFPpprZfr6v0EnQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDkw/NDktMTMxNjE5Mzc5/NC5qcGVn.jpeg" alt="Cover for Gaslight" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e968cfcceba47a6a644f7faccdb9454.png" alt="Cover for Gaslight" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>fDeluxe</td>
@@ -1272,7 +1273,7 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/_Pr-drEuZY7Ul0vxLTcss4k87GN30ki69zYuYJL4Tsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjE1/MjQ5LTE1MDA5OTA4/ODItMzYxNy5qcGVn.jpeg" alt="Cover for Big Bombs of Love" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/18a93f58bd270102ec8c32106496e20f.png" alt="Cover for Big Bombs of Love" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-01-18</td>
       <td>Tonekrusher Smith</td>
@@ -1293,6 +1294,7 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9fcda9c870ff48d787e11a679076ea09.png" alt="Cover for Love Songs for the Dead" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-11</td>
       <td>Suicide Sanctum</td>
@@ -1317,7 +1319,7 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/ZhbLNet0x_bX2EiKQC4q63aWpUpL6P_rPhPXtgmn908/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTk2/MTktMTM1Mzg3NDc2/OS02ODQwLnBuZw.jpeg" alt="Cover for Lobotomy EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ab15e80cb464568a4e2ee269cb5801c.png" alt="Cover for Lobotomy EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-14</td>
       <td>JustLikeAmmy</td>
@@ -1340,7 +1342,7 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 59</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1377,7 +1379,7 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
     <tr>
       <td>15</td>
       <td>
-          <img src="https://i.discogs.com/ZhbLNet0x_bX2EiKQC4q63aWpUpL6P_rPhPXtgmn908/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTk2/MTktMTM1Mzg3NDc2/OS02ODQwLnBuZw.jpeg" alt="Cover for Child&#39;s Play EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb54286ea0d44db3a3ec41e2ee629c41.png" alt="Cover for Child&#39;s Play EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-14</td>
       <td>JustLikeAmmy</td>
@@ -1417,14 +1419,14 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 54</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>7</td>
       <td>
-          <img src="https://i.discogs.com/U-RHBych3n7wkkgaR6OcoQE0dJxmG-WM0N8zCdTG-f8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTYw/NjItMTUwMTI3NzI2/NS00NzkwLmpwZWc.jpeg" alt="Cover for The DiMarcos 7 Inch" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e2b85fd1364495c9edd7e47fc47e7dc.png" alt="Cover for The DiMarcos 7 Inch" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03-22</td>
       <td>The DiMarcos</td>
@@ -1483,14 +1485,14 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 2</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/Yw9CZBEkCQRq0MRijp0TVUKcV0WDdmNhwfsEh0Pp78U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTk2/NDUtMTM3MDU0Njc5/MS00NDI3LmpwZWc.jpeg" alt="Cover for SWED e-Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/379f049847e5447796148bc11b7130f5.png" alt="Cover for SWED e-Single" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-08-30</td>
       <td>JustLikeAmmy</td>
@@ -1559,7 +1561,7 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/u_XE4tApi9zYOni4BkMa2IZWIUOBTjqBW4nqdbdmyU0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyODA5/NjYtMTQzNzkxODAz/My04NzcyLmpwZWc.jpeg" alt="Cover for Directions" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1bc57dca4c5292416c70df9567cf18a.png" alt="Cover for Directions" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-05-26</td>
       <td>René Najera</td>
@@ -1575,7 +1577,7 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 26</li>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1640,7 +1642,7 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 56</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1667,7 +1669,7 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 84</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1696,7 +1698,7 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/XQUHAw1Gy5LQspme3ewAHa7nsfsb1-bT3TSd8LdWPoU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDc2/NDI4LTE2NDcwMzkx/MDUtODQ3My5qcGVn.jpeg" alt="Cover for Fast Hennepin" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f97a2c889e2b1eef0dcbc0d2d87213fd.png" alt="Cover for Fast Hennepin" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-10-25</td>
       <td>Alex Rossi</td>
@@ -1713,14 +1715,14 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 26</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/ktxV_uEzjxD7R_NaYJes_I6HzSjZWg_rzLk9m7WG-RI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDg0/OTMyLTE2ODc2NTE5/NzQtOTU4OC5qcGVn.jpeg" alt="Cover for Spilling Light" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/84b9c0f0324197ea0be37524479f8c64.png" alt="Cover for Spilling Light" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-03-27</td>
       <td>Prairie Clamor</td>
@@ -1840,7 +1842,7 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/uR3hhr9QgIkyoiMbkXqIzahoH_qz9-XVez0hb1BI6Us/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzEw/OTg4LTE3MDM2MDcw/MzUtODI2OS5qcGVn.jpeg" alt="Cover for The Beastiary" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5dc55341778e62c21bf39e0480f20e7.png" alt="Cover for The Beastiary" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-06-27</td>
       <td>Lorekeeper</td>
@@ -1863,7 +1865,7 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/W3oIR3quXew9WF74PDMZzvpxrZWEjiB9e1nyd51Hc5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzA4/NDAyLTE2NjQ1NTcx/MjEtODIyMy5qcGVn.jpeg" alt="Cover for The Lewis Connection" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6bfc2f868fc4128c191ba1e0f200491.png" alt="Cover for The Lewis Connection" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-08-17</td>
       <td>The Lewis Connection</td>
@@ -1904,7 +1906,7 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/Q8gFLDgQ9LiaQB2MvIiaTuL6VQALpzkiM617W0mmheQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjM4/NjI5LTE2Nzc0NTA4/NzEtMjczMS5qcGVn.jpeg" alt="Cover for TAKE A LOOK" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/deee46e60fc10a5595f4721cc71f769d.png" alt="Cover for TAKE A LOOK" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Buio Omega</td>
@@ -1956,7 +1958,7 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nashville" | relative_url }}">nashville</a> # 19</li>
+            <li> <a href="{{ "/tags/nashville" | relative_url }}">nashville</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1975,13 +1977,14 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 1</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/13c62aacef4540b4abb8b75704c80aee.png" alt="Cover for Breakbread - The Compilation" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Breadsquad</td>
@@ -1996,13 +1999,14 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 7</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a14610fd4706493290a21ececa6b9132.png" alt="Cover for Eight Hundred Dollar Thunder" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Mighty Fearsome</td>
@@ -2020,13 +2024,14 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 9</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c833ec15fe6ad1358ca2156eed1a5b5.png" alt="Cover for z shaped worm 2008-10-31 Demo EP" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>z shaped worm</td>
@@ -2041,13 +2046,14 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 11</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22a8f1285c221e8e99dfd21cdd47a725.png" alt="Cover for Reckless Holiday" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Windy City Hangover</td>
@@ -2064,13 +2070,14 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 43</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/64ab6c4574264f258715a8fde65097c6.png" alt="Cover for Midnight" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>A Thousand Falls</td>
@@ -2087,14 +2094,15 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romantica" | relative_url }}">romantica</a> # 6</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 71</li>
+            <li> <a href="{{ "/tags/romantica" | relative_url }}">romantica</a> # 5</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c153fa07a4500003ca0dbc333b68c0d.png" alt="Cover for The Delta Rasa" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Delta Rasa</td>
@@ -2115,10 +2123,10 @@ The Minneapolis tag captures the diverse and influential music scene of Minnesot
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 3</li>
-            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 67</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 22</li>
+            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 34</li>
             <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 72</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 78</li>
+            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 98</li>
         </ul>
       </td>
     </tr>

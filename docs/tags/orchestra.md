@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T09:49:34.791Z
+date: 2025-12-04T04:06:31.790Z
 permalink: tags/orchestra
 title: orchestra
 ---
 
 ## orchestra
 
-Last updated: <time datetime="2025-10-28T09:49:34.791Z">Tue Oct 28 2025 11:49:34 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:06:31.790Z">Thu Dec 04 2025 06:06:31 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -143,7 +143,7 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ballet" | relative_url }}">ballet</a> # 93</li>
+            <li> <a href="{{ "/tags/ballet" | relative_url }}">ballet</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -166,7 +166,7 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 72</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 29</li>
             <li> <a href="{{ "/tags/conductor" | relative_url }}">conductor</a> # 96</li>
         </ul>
       </td>
@@ -204,7 +204,7 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 62</li>
+            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -225,7 +225,7 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 86</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -251,6 +251,7 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
     <tr>
       <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d183cd3b62a889be5d568a1c779d50f.png" alt="Cover for Lucky Seven" style="max-width:120px; height:auto;" />
       </td>
       <td>1979</td>
       <td>Bob James</td>
@@ -298,7 +299,7 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/gxRyVPLPQNJUqfWPd8r58VhyLBqUWM0nY-iUgfJWOys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODI0/NTgtMTI5Mzk0Mzc4/My5qcGVn.jpeg" alt="Cover for Star Wars Episode VI: Return of the Jedi" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8f246cdd18d4529be7a42c0c715e00f.png" alt="Cover for Star Wars Episode VI: Return of the Jedi" style="max-width:120px; height:auto;" />
       </td>
       <td>1981</td>
       <td>John Williams</td>
@@ -334,7 +335,7 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/0yxCHY7-J7vCThb45lrzTsKiYB9iT2z73REsPSW9fgE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3OTU3/Ny0xMzUyMjc5NDQ2/LTQ3OTAuanBlZw.jpeg" alt="Cover for Finest Hour" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cce061e5357bc930237f7c123544a300.png" alt="Cover for Finest Hour" style="max-width:120px; height:auto;" />
       </td>
       <td>1982</td>
       <td>Quincy Jones</td>
@@ -431,7 +432,7 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/6fo9aSbYhOIOjHKkdMhLCilQca_jHxbrSCv0rJk2jRY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDU0/ODgtMTI3MjYxOTk2/Ny5qcGVn.jpeg" alt="Cover for Obi-Wan Kenobi (Original Soundtrack)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/12af9d1edc823f122045aa80e23c809e.png" alt="Cover for Obi-Wan Kenobi (Original Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>John Williams</td>
@@ -447,6 +448,7 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -515,6 +517,7 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
     <tr>
       <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/265e7d14ba0357bd1cdcf73b7a5d3ba3.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Leroy Anderson</td>
@@ -589,7 +592,7 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/SlCO6RmVTxev_PMHT3r7AO3MqfEcrNhcWlfm47qJ2cU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTc0/NTU5LTE1MTEyMzA4/NzItNTkyMi5qcGVn.jpeg" alt="Cover for The Fabelmans (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb17a24ff1ed79e31bdd6cbfb8b7f067.png" alt="Cover for The Fabelmans (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>John Williams</td>
@@ -623,8 +626,8 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 1</li>
             <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 87</li>
-            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -679,7 +682,7 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 98</li>
+            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -740,7 +743,7 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/n4f5DQ0s9taWUt96kTKRoMAY4r9ypmHClOV6QTJzr20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzE4/MzMtMTM5MTQ2ODY3/MS05MDkzLmpwZWc.jpeg" alt="Cover for Meet Me In Uptown" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76d37a89c325e4a3328a550328e1b11c.png" alt="Cover for Meet Me In Uptown" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Mighty Blue Kings</td>
@@ -1001,6 +1004,7 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/84cb5a22b84e44ed95f33a82962c1604.png" alt="Cover for Hisaishi Meets Miyazaki Films" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-09-25</td>
       <td>久石譲</td>
@@ -1057,7 +1061,7 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 16</li>
+            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1083,6 +1087,7 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
     <tr>
       <td>12</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f2215b8f5da47b88388ec67d621b495.png" alt="Cover for Stadtaffe" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-26</td>
       <td>Peter Fox</td>
@@ -1095,9 +1100,9 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 25</li>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 78</li>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 96</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 4</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 21</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1125,7 +1130,7 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 49</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 51</li>
             <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 81</li>
         </ul>
       </td>
@@ -1133,6 +1138,7 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/043cdf5ab7d772b92cbcf6147c4be079.png" alt="Cover for Blue" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-26</td>
       <td>Nino Katamadze &amp; Insight</td>
@@ -1152,7 +1158,7 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/4KhwCZjrP8hst7SoqR5kASC-0jc8ezOsSF0fty6PS4s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDM5/NTEtMTI1MTM4Mjcy/My5qcGVn.jpeg" alt="Cover for The Magic Lantern" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af908c6fbf424651959f42cbd19d84f5.png" alt="Cover for The Magic Lantern" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09-09</td>
       <td>KK &amp; The Steampunk Orchestra</td>
@@ -1164,7 +1170,7 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 65</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1190,6 +1196,7 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
     <tr>
       <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fea43b39439717faecb0c22afffe0de8.png" alt="Cover for 機動戦士ガンダムUC オリジナルサウンドトラック" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-10</td>
       <td>澤野弘之</td>
@@ -1208,6 +1215,7 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
     <tr>
       <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6098dcb832c4ca28fe5073e6332927e.png" alt="Cover for Harry Potter and the Deathly Hallows, Part 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-15</td>
       <td>Alexandre Desplat</td>
@@ -1247,6 +1255,7 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
     <tr>
       <td>27</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af6cc9a601ba43909df451408ad6ae90.png" alt="Cover for Harry Potter and the Deathly Hallows, Part 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-07-11</td>
       <td>Alexandre Desplat</td>
@@ -1282,6 +1291,7 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/88d596a4d94b451da05538db19952dd8.png" alt="Cover for The Greatest Video Game Music" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-11-07</td>
       <td>London Philharmonic Orchestra</td>
@@ -1301,6 +1311,7 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ec4becdbcff46cb80956103ccae17cf.png" alt="Cover for The Elder Scrolls V: Skyrim Original Game Soundtrack" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-11-11</td>
       <td>Jeremy Soule</td>
@@ -1312,14 +1323,15 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 22</li>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 88</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 24</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b89b68b2d744050b383873449627494.png" alt="Cover for Live With The Danish National Chamber Orchestra" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-11-14</td>
       <td>Tina Dico</td>
@@ -1334,8 +1346,8 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 35</li>
-            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 87</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 68</li>
+            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1361,7 +1373,7 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/riP8wP3QJ6N0ExElHyikJfsl4UZz342m-oHAxq0oGSU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzODAz/MzYtMTM5MTk1MzE4/Ni02MjY5LmpwZWc.jpeg" alt="Cover for The Sea Will Claim Everything" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4fc52b3dd30a46c3af0191a5699a8136.png" alt="Cover for The Sea Will Claim Everything" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-23</td>
       <td>Chris Christodoulou</td>
@@ -1380,6 +1392,7 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
     <tr>
       <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/906acc622e10481887f1b6fcf9ad1195.png" alt="Cover for Orchestral" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-09-07</td>
       <td>Hybrid</td>
@@ -1416,6 +1429,7 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d12ac23024f949539eae097a13364a4c.png" alt="Cover for Fink Meets The Royal Concertgebouw Orchestra" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-14</td>
       <td>Fink</td>
@@ -1434,7 +1448,7 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/ApUebg_Pm_t5rTBYZzpWU9AzU-m_7Pk1A1XsT2LiaPY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NDgw/ODItMTQ1MDA4ODY4/OS02Njc0LmpwZWc.jpeg" alt="Cover for Requiem for a Tower | Dream" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f64125366b604ef199aff8693272efab.png" alt="Cover for Requiem for a Tower | Dream" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-02-17</td>
       <td>London Music Works</td>
@@ -1447,14 +1461,14 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 14</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/n0i_3CGvsEESqdLW7Vn9hS1L2vnuIcTSL-KL7UmvT1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTk0/MzMtMTI2OTM4NDk5/My5qcGVn.jpeg" alt="Cover for Mew with Copenhagen Philharmonic" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f2cc352082d13742517534ca6d329ed.png" alt="Cover for Mew with Copenhagen Philharmonic" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Mew</td>
@@ -1485,9 +1499,10 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 13</li>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 56</li>
-            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 84</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 15</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 16</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 59</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1507,7 +1522,7 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 5</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1527,14 +1542,14 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 49</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/RB_XReX7z4KwA0U8cSqfmZv0XPfECTHC0prkKA6ZWjA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc2/MzcyLTE1NDE3Mjgx/MTUtNjMyMC5qcGVn.jpeg" alt="Cover for Kirby 25th Anniversary Orchestra Concert" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/88408eacf8c2446ba80eaed9d9080734.png" alt="Cover for Kirby 25th Anniversary Orchestra Concert" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-12-20</td>
       <td>Tokyo Philharmonic Orchestra</td>
@@ -1571,7 +1586,7 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/OR5wUT1ANM5jAWjamBV1k6aR7Bp58jCr3Tm2v-fwU0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ0/ODUzLTE1MzMxNzQ1/MzktNDYxMC5qcGVn.jpeg" alt="Cover for Blooming Hits" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/84089b3d8919421797550b85d4938832.png" alt="Cover for Blooming Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-01-30</td>
       <td>Paul Mauriat</td>
@@ -1667,7 +1682,7 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
     <tr>
       <td>1</td>
       <td>
-          <img src="https://i.discogs.com/u1LZKvudDzbznFkSexl_pM2q0UqHLbCLhx8Wfm7j-Go/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzY5/MDc0LTE2MzI2MDg3/NDQtNzQ3NC5qcGVn.jpeg" alt="Cover for The Music of Hans Zimmer: The Definitive Collection" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ecc9b26e32b04a93ca504bfa11e0cb5d.png" alt="Cover for The Music of Hans Zimmer: The Definitive Collection" style="max-width:120px; height:auto;" />
       </td>
       <td>2021</td>
       <td>The City of Prague Philharmonic Orchestra</td>
@@ -1686,7 +1701,7 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/xNGhQN3xh5Roe7TDK0MvJ6HrEbzI9O2TqYgfOgyPeZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODg2/Mjg1LTE2NTAwMDc3/MTItMTE4My5qcGVn.jpeg" alt="Cover for AIIR" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4cdb08ee0d5b36ac341f5d59abaec6b4.png" alt="Cover for AIIR" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-11-01</td>
       <td>Sault</td>
@@ -1768,8 +1783,8 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 45</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 47</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 55</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1803,8 +1818,8 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 47</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 48</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 55</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1828,14 +1843,15 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 37</li>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 44</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 54</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ad37d2ac14d4033af567174a896db2e.png" alt="Cover for Final Fantasy XIII" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>浜渦正志</td>
@@ -1865,14 +1881,16 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 11</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 41</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 13</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 46</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d322ed2cc642ea4642653a2c01a6b5a.png" alt="Cover for Navidad" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Orchestra de Blonde</td>
@@ -1888,8 +1906,8 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 60</li>
-            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 72</li>
+            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 29</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1934,6 +1952,7 @@ Orchestra refers to music featuring large ensembles of acoustic instruments acro
     <tr>
       <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1734510d4acda464cba8c34d9076525.png" alt="Cover for Barbarella (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Bob Crewe Generation Orchestra</td>

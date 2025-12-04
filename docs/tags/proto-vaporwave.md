@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T13:12:23.937Z
+date: 2025-12-04T04:23:50.953Z
 permalink: tags/proto-vaporwave
 title: proto-vaporwave
 ---
 
 ## proto-vaporwave
 
-Last updated: <time datetime="2025-11-17T13:12:23.937Z">Mon Nov 17 2025 15:12:23 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:23:50.953Z">Thu Dec 04 2025 06:23:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -50,9 +50,9 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 40</li>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 90</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 92</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 11</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 42</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -79,9 +79,9 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 43</li>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 92</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 93</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 9</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 45</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -171,8 +171,8 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 86</li>
-            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 98</li>
+            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 3</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -306,7 +306,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/LQhKZX4hWwWXltDtCYS-QV1SYW_opEYITMEGdXL4PbU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NTgy/Mi0xMzQxNzcyOTg4/LTYzMzIuanBlZw.jpeg" alt="Cover for Adrenalin &#x2F; Distant Dreams (Part Two)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6233e8697cb14f75b7bc7cdbb5b76ee1.png" alt="Cover for Adrenalin &#x2F; Distant Dreams (Part Two)" style="max-width:120px; height:auto;" />
       </td>
       <td>1981</td>
       <td>Throbbing Gristle</td>
@@ -326,7 +326,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/4q7lDtS5CQgCIZjviY1LD_uHq9cQ4uZEDj50YEmJQp0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTE2/MTctMTY3ODA4MjQ0/MS02MDk0LmpwZWc.jpeg" alt="Cover for Pages" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/519cd8e6a26d4519b4c9f620aea53a7c.png" alt="Cover for Pages" style="max-width:120px; height:auto;" />
       </td>
       <td>1981-03-09</td>
       <td>Pages</td>
@@ -334,13 +334,12 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a></li>
+            <li style="font-size: calc(1rem * 76 / 100)"> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 86</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -365,8 +364,8 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 25</li>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 63</li>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 36</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -386,7 +385,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 12</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 15</li>
             <li> <a href="{{ "/tags/berlin-school" | relative_url }}">berlin school</a> # 92</li>
         </ul>
       </td>
@@ -412,11 +411,11 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 54</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 45</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 77</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 78</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 78</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 78</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -437,7 +436,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 96</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -494,9 +493,9 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 28</li>
-            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 78</li>
-            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 97</li>
+            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 4</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 30</li>
+            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -695,7 +694,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 96</li>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1283,7 +1282,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 50</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1507,7 +1506,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
     <tr>
       <td>6</td>
       <td>
-          <img src="https://i.discogs.com/qKDdHavrhN0FyRx2rHRCVwqMIpsUT1c5Pq2JgeFH9QE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzM4/NS0xNDU2MTQ4OTQ1/LTQwMzguanBlZw.jpeg" alt="Cover for Gentle &amp; Elegance" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1394e94f692ac11815e03ac79f1e002c.png" alt="Cover for Gentle &amp; Elegance" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-05-22</td>
       <td>Nav Katze</td>
@@ -1640,8 +1639,8 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 77</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 78</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 22</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1687,6 +1686,7 @@ Proto-vaporwave encompasses retro-futuristic electronic music from the 1970s-90s
     <tr>
       <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2caab7687c119d45ec1ed8ba8602b20.png" alt="Cover for Nah und Fern" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-06-02</td>
       <td>Gas</td>

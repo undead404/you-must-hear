@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T06:26:01.642Z
+date: 2025-12-04T04:24:57.132Z
 permalink: tags/celtic-folk
 title: celtic folk
 ---
 
 ## celtic folk
 
-Last updated: <time datetime="2025-11-25T06:26:01.642Z">Tue Nov 25 2025 08:26:01 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:24:57.132Z">Thu Dec 04 2025 06:24:57 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -46,9 +46,9 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 51</li>
+            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 5</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 49</li>
             <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 72</li>
-            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -68,7 +68,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 92</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -88,7 +88,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 69</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -169,7 +169,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 5</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -410,9 +410,9 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 29</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 32</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 50</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 69</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 72</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 81</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 90</li>
         </ul>
@@ -433,7 +433,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 67</li>
+            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -497,7 +497,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 35</li>
+            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 65</li>
             <li> <a href="{{ "/tags/breizh" | relative_url }}">breizh</a> # 81</li>
         </ul>
       </td>
@@ -520,7 +520,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 18</li>
+            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -589,7 +589,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 12</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -637,7 +637,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 4</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -679,7 +679,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       <td>
         <ul>
             <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 4</li>
-            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 87</li>
+            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -777,7 +777,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 58</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -795,7 +795,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 35</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -842,8 +842,8 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 68</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 90</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 11</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 33</li>
             <li> <a href="{{ "/tags/bagpipes" | relative_url }}">bagpipes</a> # 91</li>
             <li> <a href="{{ "/tags/latvian" | relative_url }}">latvian</a> # 93</li>
         </ul>
@@ -927,7 +927,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 66</li>
+            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -966,8 +966,8 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       <td>
         <ul>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 7</li>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 8</li>
             <li> <a href="{{ "/tags/cabaret" | relative_url }}">cabaret</a> # 82</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1047,13 +1047,13 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
         <ul>
             <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 6</li>
             <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 19</li>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 34</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 37</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 40</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 40</li>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 50</li>
             <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 53</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 61</li>
             <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 63</li>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 64</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 66</li>
             <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 76</li>
             <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 79</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 90</li>
@@ -1079,7 +1079,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 29</li>
+            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1106,10 +1106,10 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 46</li>
+            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 9</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 54</li>
             <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 71</li>
             <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 78</li>
-            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 92</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 95</li>
         </ul>
       </td>
@@ -1194,8 +1194,8 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 6</li>
-            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 73</li>
+            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 27</li>
+            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1267,8 +1267,8 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
         <ul>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 6</li>
             <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 26</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 44</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 49</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 52</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1366,7 +1366,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 25</li>
+            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1571,12 +1571,12 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       <td>
         <ul>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 1</li>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 13</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 30</li>
             <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 41</li>
             <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 50</li>
             <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 52</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 54</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 71</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1621,9 +1621,9 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 5</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 19</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 57</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 82</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1647,7 +1647,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 53</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1782,7 +1782,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/4dltzSfFrqtINqR_oyZ4UDwsY_hDL2QAzT6ZwyLObgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MjA3/NTAtMTM5NTUxMjg5/OC0xMzExLmpwZWc.jpeg" alt="Cover for Odysseus" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3641ee02a2a6423a8cb3397ac2d3f2cd.png" alt="Cover for Odysseus" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-01-01</td>
       <td>Luc Arbogast</td>
@@ -1803,13 +1803,13 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 18</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 22</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 25</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 33</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 46</li>
             <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 47</li>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 52</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 49</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 55</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 75</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1881,10 +1881,10 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       <td>
         <ul>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 10</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 18</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 37</li>
             <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 68</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 70</li>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1935,7 +1935,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 24</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1967,7 +1967,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 12</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1994,7 +1994,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 38</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -2037,7 +2037,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 22</li>
+            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -2143,7 +2143,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       <td>
         <ul>
             <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 4</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 56</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -2165,7 +2165,7 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 71</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -2251,8 +2251,8 @@ Celtic folk draws from the traditional music of Ireland, Scotland, Brittany, and
       <td>
         <ul>
             <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 20</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 40</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 41</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 60</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 60</li>
         </ul>
       </td>
     </tr>

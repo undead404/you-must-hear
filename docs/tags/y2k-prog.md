@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T20:46:39.659Z
+date: 2025-12-04T04:06:37.449Z
 permalink: tags/y2k-prog
 title: y2k prog
 ---
 
 ## y2k prog
 
-Last updated: <time datetime="2025-11-19T20:46:39.659Z">Wed Nov 19 2025 22:46:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:06:37.449Z">Thu Dec 04 2025 06:06:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -85,8 +85,8 @@ Y2K prog refers to progressive rock from the early 2000s era that blends traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 61</li>
-            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 69</li>
+            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 32</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -107,7 +107,7 @@ Y2K prog refers to progressive rock from the early 2000s era that blends traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 50</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -150,7 +150,7 @@ Y2K prog refers to progressive rock from the early 2000s era that blends traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 53</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -182,14 +182,14 @@ Y2K prog refers to progressive rock from the early 2000s era that blends traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 6</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 37</li>
-            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 71</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 7</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 8</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 11</li>
+            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 30</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 64</li>
             <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 72</li>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 83</li>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 90</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 92</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 94</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 84</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -436,7 +436,7 @@ Y2K prog refers to progressive rock from the early 2000s era that blends traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 52</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -496,7 +496,7 @@ Y2K prog refers to progressive rock from the early 2000s era that blends traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 66</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -581,7 +581,7 @@ Y2K prog refers to progressive rock from the early 2000s era that blends traditi
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/uMcxX6mJE8AT8DEO-Z5Zo8P85gkuTSJcdAWuG5bUHHQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTMz/MzEtMTUyMDYyNDc0/Ni00NjUzLmpwZWc.jpeg" alt="Cover for Calling the Earth to Witness" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f38019ec0aac26cacb3ac72c00ff856.png" alt="Cover for Calling the Earth to Witness" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-05-28</td>
       <td>Darkwater</td>
@@ -615,7 +615,7 @@ Y2K prog refers to progressive rock from the early 2000s era that blends traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 64</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -871,6 +871,7 @@ Y2K prog refers to progressive rock from the early 2000s era that blends traditi
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5986e9e2204e017f14b3972da123dd27.png" alt="Cover for Phlegethon" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-17</td>
       <td>Kingcrow</td>
@@ -1147,7 +1148,7 @@ Y2K prog refers to progressive rock from the early 2000s era that blends traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 55</li>
+            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1244,7 +1245,7 @@ Y2K prog refers to progressive rock from the early 2000s era that blends traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 11</li>
+            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1304,7 +1305,7 @@ Y2K prog refers to progressive rock from the early 2000s era that blends traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 57</li>
+            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 44</li>
             <li> <a href="{{ "/tags/crossover-prog" | relative_url }}">crossover prog</a> # 99</li>
         </ul>
       </td>
@@ -1366,7 +1367,7 @@ Y2K prog refers to progressive rock from the early 2000s era that blends traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 69</li>
+            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1463,7 +1464,7 @@ Y2K prog refers to progressive rock from the early 2000s era that blends traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 35</li>
+            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1539,7 +1540,7 @@ Y2K prog refers to progressive rock from the early 2000s era that blends traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 29</li>
+            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1598,7 +1599,7 @@ Y2K prog refers to progressive rock from the early 2000s era that blends traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 30</li>
+            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1695,7 +1696,7 @@ Y2K prog refers to progressive rock from the early 2000s era that blends traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 18</li>
+            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1716,7 +1717,7 @@ Y2K prog refers to progressive rock from the early 2000s era that blends traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 63</li>
+            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1756,7 +1757,7 @@ Y2K prog refers to progressive rock from the early 2000s era that blends traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 73</li>
+            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1814,7 +1815,7 @@ Y2K prog refers to progressive rock from the early 2000s era that blends traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 41</li>
+            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1835,7 +1836,7 @@ Y2K prog refers to progressive rock from the early 2000s era that blends traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 20</li>
+            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1875,7 +1876,7 @@ Y2K prog refers to progressive rock from the early 2000s era that blends traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 8</li>
+            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1934,7 +1935,7 @@ Y2K prog refers to progressive rock from the early 2000s era that blends traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 39</li>
+            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 62</li>
         </ul>
       </td>
     </tr>

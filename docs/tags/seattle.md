@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T06:27:11.142Z
+date: 2025-12-04T04:26:40.154Z
 permalink: tags/seattle
 title: seattle
 ---
 
 ## seattle
 
-Last updated: <time datetime="2025-11-25T06:27:11.142Z">Tue Nov 25 2025 08:27:11 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:26:40.154Z">Thu Dec 04 2025 06:26:40 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -105,7 +105,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 33</li>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -142,7 +142,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 95</li>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -402,7 +402,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 70</li>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -701,7 +701,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 95</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -985,7 +985,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 83</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1165,11 +1165,11 @@ Seattle music generally refers to the music scene and subcultures that originate
         <ul>
             <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 19</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 26</li>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 52</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 27</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 48</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 65</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 74</li>
             <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 81</li>
-            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 85</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1262,13 +1262,10 @@ Seattle music generally refers to the music scene and subcultures that originate
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-punk" | relative_url }}">folk punk</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1402,7 +1399,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 39</li>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1482,7 +1479,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 66</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 35</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 79</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 85</li>
         </ul>
@@ -1506,7 +1503,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 17</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1531,9 +1528,9 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 34</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 34</li>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 36</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 65</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1762,7 +1759,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 70</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1897,7 +1894,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 56</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1935,7 +1932,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 97</li>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1959,7 +1956,7 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 70</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -2017,8 +2014,8 @@ Seattle music generally refers to the music scene and subcultures that originate
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 25</li>
             <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 70</li>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 76</li>
         </ul>
       </td>
     </tr>

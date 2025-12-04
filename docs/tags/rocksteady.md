@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T12:47:17.760Z
+date: 2025-12-04T04:28:18.258Z
 permalink: tags/rocksteady
 title: rocksteady
 ---
 
 ## rocksteady
 
-Last updated: <time datetime="2025-10-28T12:47:17.760Z">Tue Oct 28 2025 14:47:17 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:28:18.258Z">Thu Dec 04 2025 06:28:18 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -49,6 +49,7 @@ Rocksteady is a Jamaican music genre that emerged in the mid-1960s as a slower, 
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b6d87abde5e40d74bbc8cf43bdf64ba.png" alt="Cover for 007 Shanty Town" style="max-width:120px; height:auto;" />
       </td>
       <td>1967</td>
       <td>Desmond Dekker &amp; The Aces</td>
@@ -64,13 +65,14 @@ Rocksteady is a Jamaican music genre that emerged in the mid-1960s as a slower, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 67</li>
+            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c7b9964775742d1896c47d80b06de77.png" alt="Cover for Take It Easy" style="max-width:120px; height:auto;" />
       </td>
       <td>1967</td>
       <td>Hopeton Lewis</td>
@@ -85,7 +87,7 @@ Rocksteady is a Jamaican music genre that emerged in the mid-1960s as a slower, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 73</li>
+            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -180,7 +182,7 @@ Rocksteady is a Jamaican music genre that emerged in the mid-1960s as a slower, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 83</li>
+            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -267,7 +269,7 @@ Rocksteady is a Jamaican music genre that emerged in the mid-1960s as a slower, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 79</li>
+            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -347,7 +349,7 @@ Rocksteady is a Jamaican music genre that emerged in the mid-1960s as a slower, 
     <tr>
       <td>1</td>
       <td>
-          <img src="https://i.discogs.com/q7CmIWiYRSu1praSDA4o8hIxEVnmONF2tQz4JX48BJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MzY5/NTktMTQ4NTU3NDA2/Ny03MzUzLmpwZWc.jpeg" alt="Cover for The Life Of Riley" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7fc1612dcb4540c4c0e4daf80f885044.png" alt="Cover for The Life Of Riley" style="max-width:120px; height:auto;" />
       </td>
       <td>1973</td>
       <td>B.B. King</td>
@@ -400,7 +402,7 @@ Rocksteady is a Jamaican music genre that emerged in the mid-1960s as a slower, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 16</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -636,7 +638,7 @@ Rocksteady is a Jamaican music genre that emerged in the mid-1960s as a slower, 
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/KzUF5Ef5A5DJaOhpbXYGTe31lUpkw1AYv5DA3v2pUNk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNTQ5/MjItMTQ0NDkzOTc2/My0xNjc1LmpwZWc.jpeg" alt="Cover for One Step Beyond" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/37541a8afbe9935d0e92da0147a42180.png" alt="Cover for One Step Beyond" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Madness</td>
@@ -648,8 +650,8 @@ Rocksteady is a Jamaican music genre that emerged in the mid-1960s as a slower, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 41</li>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 48</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 55</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1059,7 +1061,7 @@ Rocksteady is a Jamaican music genre that emerged in the mid-1960s as a slower, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 7</li>
+            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1114,7 +1116,7 @@ Rocksteady is a Jamaican music genre that emerged in the mid-1960s as a slower, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 15</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1134,7 +1136,7 @@ Rocksteady is a Jamaican music genre that emerged in the mid-1960s as a slower, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 5</li>
+            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1417,7 +1419,7 @@ Rocksteady is a Jamaican music genre that emerged in the mid-1960s as a slower, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 36</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1476,6 +1478,7 @@ Rocksteady is a Jamaican music genre that emerged in the mid-1960s as a slower, 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1579,24 +1582,22 @@ Rocksteady is a Jamaican music genre that emerged in the mid-1960s as a slower, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 20</li>
-            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 57</li>
-            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 65</li>
+            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 42</li>
+            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 67</li>
+            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/Tb34zB1mDkgZIbuLTN5UDX14FJoS57g14Wdt4k0Hndo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzc5/MTQtMTMyOTYxNjE1/MC5qcGVn.jpeg" alt="Cover for Strictly Rude" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a8c1ac4a1524526be1334a1601739cc.png" alt="Cover for Strictly Rude" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-20</td>
       <td>Big D And The Kids Table</td>
       <td>Strictly Rude</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rocksteady" | relative_url }}">rocksteady</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
         </ul>
       </td>
       <td>
@@ -1906,6 +1907,7 @@ Rocksteady is a Jamaican music genre that emerged in the mid-1960s as a slower, 
     <tr>
       <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c3ce891955be7ff4836e7705b36ed7c.png" alt="Cover for Feel Like Jumping: The Best of Studio One Women" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Various Artists</td>
@@ -1985,7 +1987,7 @@ Rocksteady is a Jamaican music genre that emerged in the mid-1960s as a slower, 
 - [dub]({{ "/tags/dub" | relative_url }})
 - [roots reggae]({{ "/tags/roots-reggae" | relative_url }})
 - [british]({{ "/tags/british" | relative_url }})
-- [ska punk]({{ "/tags/ska-punk" | relative_url }})
 - [roots]({{ "/tags/roots" | relative_url }})
 - [soul]({{ "/tags/soul" | relative_url }})
+- [ska punk]({{ "/tags/ska-punk" | relative_url }})
 - [pop]({{ "/tags/pop" | relative_url }})

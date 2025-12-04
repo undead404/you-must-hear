@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-20T01:43:20.134Z
+date: 2025-12-04T04:27:18.369Z
 permalink: tags/netherlands
 title: netherlands
 ---
 
 ## netherlands
 
-Last updated: <time datetime="2025-11-20T01:43:20.134Z">Thu Nov 20 2025 03:43:20 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:27:18.369Z">Thu Dec 04 2025 06:27:18 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -97,8 +97,8 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 7</li>
-            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 23</li>
+            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 6</li>
+            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 79</li>
             <li> <a href="{{ "/tags/nederlands" | relative_url }}">nederlands</a> # 80</li>
         </ul>
       </td>
@@ -162,7 +162,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 8</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -210,7 +210,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/DpxQEix2ysVTyQx_dXzOUSb3kTfy5uiVeZadiZhm_FA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzYx/ODgtMTY1MjcyNTEx/Mi03NDk0LmpwZWc.jpeg" alt="Cover for Walks" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/39b233b72f38498caaddfcc8001f988f.png" alt="Cover for Walks" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Tranquil Eyes</td>
@@ -264,8 +264,8 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 40</li>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 88</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 13</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -308,8 +308,8 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 66</li>
-            <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 92</li>
+            <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 9</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -367,7 +367,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 5</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -385,7 +385,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 22</li>
+            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -553,9 +553,9 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 53</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 58</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 79</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 47</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 65</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1220,7 +1220,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
     <tr>
       <td>7</td>
       <td>
-          <img src="https://i.discogs.com/eg2kSvDr0CDhH1c4YfPiHMFC6BP7-sXoLnx6RDMrb0U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODYy/NjUtMTQ4NDc2NjY2/Ni02MDU5LmpwZWc.jpeg" alt="Cover for Lunacy Falls" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fba6cb41a4d4db698f49c507fdf268f.png" alt="Cover for Lunacy Falls" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Ethereal</td>
@@ -1387,9 +1387,9 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 67</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 68</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 74</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 26</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 33</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 35</li>
             <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 85</li>
             <li> <a href="{{ "/tags/nederlands" | relative_url }}">nederlands</a> # 90</li>
         </ul>
@@ -1398,6 +1398,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
     <tr>
       <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d7729afa5d74cf7ccf60de746f72ae2.png" alt="Cover for In Sound Underground" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-01</td>
       <td>Hijos de Mayo</td>
@@ -1489,9 +1490,9 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 4</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 16</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 41</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 18</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 61</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1521,8 +1522,8 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 23</li>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 80</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 21</li>
+            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 79</li>
             <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 83</li>
         </ul>
       </td>
@@ -1890,7 +1891,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-doom-metal" | relative_url }}">atmospheric doom metal</a> # 34</li>
+            <li> <a href="{{ "/tags/atmospheric-doom-metal" | relative_url }}">atmospheric doom metal</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1952,7 +1953,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 37</li>
+            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1973,7 +1974,7 @@ The &quot;netherlands&quot; tag encompasses the diverse musical output from the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 95</li>
+            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 6</li>
         </ul>
       </td>
     </tr>

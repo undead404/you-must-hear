@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-29T07:48:39.520Z
+date: 2025-12-04T04:22:25.502Z
 permalink: tags/calypso
 title: calypso
 ---
 
 ## calypso
 
-Last updated: <time datetime="2025-10-29T07:48:39.520Z">Wed Oct 29 2025 09:48:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:22:25.502Z">Thu Dec 04 2025 06:22:25 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -67,6 +67,7 @@ Calypso is a rhythmic Caribbean music style originating in Trinidad and Tobago, 
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c9fc503661940d18b4de20a24519e25.png" alt="Cover for Calypso" style="max-width:120px; height:auto;" />
       </td>
       <td>1956</td>
       <td>Harry Belafonte</td>
@@ -155,6 +156,7 @@ Calypso is a rhythmic Caribbean music style originating in Trinidad and Tobago, 
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/931aef0e4c8849da83c647e3e4090c9c.png" alt="Cover for Belafonte at Carnegie Hall" style="max-width:120px; height:auto;" />
       </td>
       <td>1959-10</td>
       <td>Harry Belafonte</td>
@@ -187,7 +189,7 @@ Calypso is a rhythmic Caribbean music style originating in Trinidad and Tobago, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 2</li>
+            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -207,7 +209,7 @@ Calypso is a rhythmic Caribbean music style originating in Trinidad and Tobago, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 97</li>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 4</li>
             <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 100</li>
         </ul>
       </td>
@@ -286,6 +288,7 @@ Calypso is a rhythmic Caribbean music style originating in Trinidad and Tobago, 
     <tr>
       <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5c59c3290e14a53f32756b3f64cd371.png" alt="Cover for Jambo Caribe" style="max-width:120px; height:auto;" />
       </td>
       <td>1964</td>
       <td>Dizzy Gillespie</td>
@@ -339,6 +342,7 @@ Calypso is a rhythmic Caribbean music style originating in Trinidad and Tobago, 
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2714787339d2fceb5d58d6fc26adc66.png" alt="Cover for Exuma, The Obeah Man" style="max-width:120px; height:auto;" />
       </td>
       <td>1970-09-08</td>
       <td>Exuma</td>
@@ -349,7 +353,7 @@ Calypso is a rhythmic Caribbean music style originating in Trinidad and Tobago, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 80</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -828,6 +832,7 @@ Calypso is a rhythmic Caribbean music style originating in Trinidad and Tobago, 
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc5ccad2335bb0769cf94ed838dc4a9e.png" alt="Cover for Pure Gold" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Harry Belafonte</td>
@@ -898,7 +903,7 @@ Calypso is a rhythmic Caribbean music style originating in Trinidad and Tobago, 
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/nZ6cWeOC5jn-bnygoZN487CI1U7U1RavOi8TF7U4bxI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDYy/ODIwLTE2MjAyMzUy/NjMtNzk5My5qcGVn.jpeg" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc76508e49704e4dcee6e730efa3b50e.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Harry Belafonte</td>
@@ -1129,15 +1134,15 @@ Calypso is a rhythmic Caribbean music style originating in Trinidad and Tobago, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 66</li>
-            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 86</li>
+            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 12</li>
+            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/f9hrY4qjdeJa6gQTkPQ2f-y58i2flPAxD95YD2SRriQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDA4/MjQ2LTE2ODcwMDI1/OTEtNTg0Mi5qcGVn.jpeg" alt="Cover for Harry Belafonte" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd137909d6534606b8d8ccc8eaf2ee48.png" alt="Cover for Harry Belafonte" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Harry Belafonte</td>
@@ -1152,7 +1157,7 @@ Calypso is a rhythmic Caribbean music style originating in Trinidad and Tobago, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 2</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1240,9 +1245,9 @@ Calypso is a rhythmic Caribbean music style originating in Trinidad and Tobago, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 8</li>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 14</li>
-            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 85</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 13</li>
+            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 15</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1342,7 +1347,7 @@ Calypso is a rhythmic Caribbean music style originating in Trinidad and Tobago, 
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/ZvMWq-NKz-OTW0GxvR9gRQaSCZD6hMaLh3tqpoSxo9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTAy/NDgtMTIxNzMxOTk3/Ny5qcGVn.jpeg" alt="Cover for Sweet Sweet Dreams" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cacc57bf6556270dc356523b9745f6c6.png" alt="Cover for Sweet Sweet Dreams" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-11-19</td>
       <td>Shadow</td>
@@ -1376,7 +1381,7 @@ Calypso is a rhythmic Caribbean music style originating in Trinidad and Tobago, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 56</li>
+            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1472,7 +1477,7 @@ Calypso is a rhythmic Caribbean music style originating in Trinidad and Tobago, 
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/vSh7XLi_dlqW9nETrioZor8l9aZ9gunQmmccOaVoV-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTY2/MTk4LTE1ODc3NDQ5/NzYtMTU5OC5qcGVn.jpeg" alt="Cover for O melhor da Banda Calypso" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fd46f3a6ad1bd2a7bceab8dddf49d09.png" alt="Cover for O melhor da Banda Calypso" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Banda Calypso</td>
@@ -1579,8 +1584,8 @@ Calypso is a rhythmic Caribbean music style originating in Trinidad and Tobago, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 21</li>
-            <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 69</li>
+            <li> <a href="{{ "/tags/drag" | relative_url }}">drag</a> # 31</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 72</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T16:30:51.448Z
+date: 2025-12-04T04:29:07.100Z
 permalink: tags/brass
 title: brass
 ---
 
 ## brass
 
-Last updated: <time datetime="2025-11-17T16:30:51.448Z">Mon Nov 17 2025 18:30:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:29:07.100Z">Thu Dec 04 2025 06:29:07 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -125,14 +125,14 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 12</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/EZUdm_t7bzmYvWzVIZbP2btwYpSCwHiMFwp1csLUhkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTI1/MDg5LTE2MzM3NTk0/MTgtNjgyMS5qcGVn.jpeg" alt="Cover for Whipped Cream &amp; Other Delights" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7827e55f163be775cd1a24c45c716e80.png" alt="Cover for Whipped Cream &amp; Other Delights" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>Herb Alpert and the Tijuana Brass</td>
@@ -258,7 +258,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 1</li>
+            <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -338,25 +338,6 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
     </tr>
     <tr>
-      <td>43</td>
-      <td>
-          <img src="https://i.discogs.com/3MKFZURIFtUYrPLUCOYUeQ9LhHSdVv4LVeqdxfa4aus/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTY4/MjktMTYwMDQ2MzQz/MC03MDk3LmpwZWc.jpeg" alt="Cover for A Bach Festival" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1993</td>
-      <td>Empire Brass</td>
-      <td>A Bach Festival</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/brass" | relative_url }}">brass</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f16c09c6f7a30f28a8bd009ed0f0f1f0.png" alt="Cover for Give A Monkey A Brain And He&#39;ll Swear He&#39;s The Center Of The Universe" style="max-width:120px; height:auto;" />
@@ -369,6 +350,26 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ska" | relative_url }}">ska</a></li>
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://i.discogs.com/3MKFZURIFtUYrPLUCOYUeQ9LhHSdVv4LVeqdxfa4aus/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTY4/MjktMTYwMDQ2MzQz/MC03MDk3LmpwZWc.jpeg" alt="Cover for A Bach Festival" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Empire Brass</td>
+      <td>A Bach Festival</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/brass" | relative_url }}">brass</a></li>
         </ul>
       </td>
       <td>
@@ -540,7 +541,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 26</li>
+            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 25</li>
             <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 37</li>
             <li> <a href="{{ "/tags/serbian" | relative_url }}">serbian</a> # 64</li>
             <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 82</li>
@@ -708,7 +709,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 73</li>
+            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -730,7 +731,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 23</li>
+            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -774,7 +775,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
         <ul>
             <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 27</li>
             <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 31</li>
-            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 45</li>
+            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -927,9 +928,9 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 66</li>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 77</li>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 77</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 23</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 23</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 65</li>
             <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 92</li>
         </ul>
       </td>
@@ -949,7 +950,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 70</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1065,8 +1066,6 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/afrobeat" | relative_url }}">afrobeat</a> # 9</li>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1188,9 +1187,9 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 20</li>
-            <li> <a href="{{ "/tags/rocksteady" | relative_url }}">rocksteady</a> # 40</li>
-            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 58</li>
+            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 42</li>
+            <li> <a href="{{ "/tags/rocksteady" | relative_url }}">rocksteady</a> # 61</li>
+            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1227,7 +1226,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 76</li>
+            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1372,9 +1371,9 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 23</li>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 82</li>
-            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 90</li>
+            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 11</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 21</li>
+            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1442,30 +1441,23 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/krmgv2QztwoovAMvyJDoX7vzFK5GwP9R93WwXnJGk68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3Mzkx/NTAtMTUyMTkyNzQ2/OS0yNDk2Lm1wbw.jpeg" alt="Cover for White Water" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c30bdbe3d0903c32c8d808cefb9366f8.png" alt="Cover for White Water" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>The Slow Show</td>
       <td>White Water</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/brass" | relative_url }}">brass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/choir" | relative_url }}">choir</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/strings" | relative_url }}">strings</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 73</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 93</li>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 94</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 96</li>
-            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 99</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 6</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 31</li>
+            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 60</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1526,8 +1518,8 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 4</li>
             <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 89</li>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1674,7 +1666,7 @@ Brass refers to music prominently featuring brass instruments like trumpets, tro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 25</li>
+            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 24</li>
             <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 36</li>
             <li> <a href="{{ "/tags/serbian" | relative_url }}">serbian</a> # 65</li>
             <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 81</li>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T09:49:00.425Z
+date: 2025-12-04T03:50:37.523Z
 permalink: tags/bristol
 title: bristol
 ---
 
 ## bristol
 
-Last updated: <time datetime="2025-10-28T09:49:00.425Z">Tue Oct 28 2025 11:49:00 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T03:50:37.523Z">Thu Dec 04 2025 05:50:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -101,7 +101,6 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
     <tr>
       <td>1</td>
       <td>
-          <img src="https://i.discogs.com/knTZzU_hwsWi-ZwdMmVYMTAhhDCg5mnyzRrMqi5DZiw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjE0/OTEtMTU0NzMwMzc1/Mi04MjU1LmpwZWc.jpeg" alt="Cover for Praise Space Electric" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Praise Space Electric</td>
@@ -121,6 +120,7 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
     <tr>
       <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e700df22802470a894efa5f05558832.png" alt="Cover for Hash Smits" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Moonflowers</td>
@@ -141,7 +141,7 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/XW0P0RnHiLKeqEShQMkfQ8uClNLJzEFUSNA8EcTgCMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/LTE1NTMyMjk0MDQt/OTA0OS5qcGVn.jpeg" alt="Cover for Dummy [UK]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e8541e842124d71b2e4d7545a1b956c.png" alt="Cover for Dummy [UK]" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Portishead</td>
@@ -164,14 +164,13 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/BAfD-Qd-hG2OYHhsa3FkS5q52365Mx4nUkMjSxJ6CLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzE5/OTEtMTM1NjIwNDIw/My0xMjMxLmpwZWc.jpeg" alt="Cover for Maxinquaye (Deluxe Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e0feddc120d942eac2db6ddb5c1b1707.png" alt="Cover for Maxinquaye (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Tricky</td>
       <td>Maxinquaye (Deluxe Edition)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
         </ul>
       </td>
       <td>
@@ -182,7 +181,6 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/Qv0ESQgOfcjhjmWO2D2R0RjYyHIXd7DvR4EAK8W35Eo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Nzg3/ODYtMTI1NjQ5MDgw/MC5qcGVn.jpeg" alt="Cover for Relaxing With…" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-04</td>
       <td>The Heads</td>
@@ -218,7 +216,7 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/WNo_TiCXpCC8po6ds-Jg542yu9T7IKNPXzZyHus0kGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDc5/MjAtMTIyMDQ2MjA3/Ny5qcGVn.jpeg" alt="Cover for One Colour Just Reflects Another" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/792226ed201665031057b220a043a70b.png" alt="Cover for One Colour Just Reflects Another" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-03-26</td>
       <td>Up, Bustle &amp; Out</td>
@@ -235,6 +233,7 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
     <tr>
       <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3209f997622444b6a5784223fe6a8ffa.png" alt="Cover for Pre-Millennium Tension" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-10-28</td>
       <td>Tricky</td>
@@ -246,14 +245,13 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/MYZ7frOaPAL2020EoRAg5LOzKYdA031S81S_Kcp23Lo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MjAy/LTEyNTE4MzQwNTEu/anBlZw.jpeg" alt="Cover for Pre-Millenium Tension" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70b42dbd97ce4bddcb1cdbdb6265a465.png" alt="Cover for Pre-Millenium Tension" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-11-11</td>
       <td>Tricky</td>
@@ -265,14 +263,14 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 7</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/4LEGhcRJRJlfAwVvkuYzn78eQ-rHDggpZCBeCCuCaJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMDYx/MDMtMTQzMzg2NDMy/Ny0yMjAyLmpwZWc.jpeg" alt="Cover for Bloom" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/05a27c95b5257dc3fa272364f9814e4a.png" alt="Cover for Bloom" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Crustation</td>
@@ -324,6 +322,7 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
     <tr>
       <td>5</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c3de36aa11e48518d691c1e857a5a75.png" alt="Cover for Fragments of Freedom" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-07-10</td>
       <td>Morcheeba</td>
@@ -337,8 +336,8 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 6</li>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 43</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 49</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -359,7 +358,7 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 12</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -384,6 +383,7 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a28dbd31f5194e16816122f644654997.png" alt="Cover for Blowback" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-06-20</td>
       <td>Tricky</td>
@@ -395,7 +395,7 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 10</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -416,7 +416,7 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 51</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -438,8 +438,8 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 54</li>
-            <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 71</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 43</li>
+            <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -464,7 +464,7 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/B1Oz8sUZjRj6jD3RWo964Gldj5X_WZEtN6eETl6rPoU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDYy/MDctMTM1Mzg4MjQ0/Ni0zNTY4LmpwZWc.jpeg" alt="Cover for Attack of the Piazza Napoleone" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a36676e238d640a7a9982d482fa626fe.png" alt="Cover for Attack of the Piazza Napoleone" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Massive Attack</td>
@@ -699,7 +699,7 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 13</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -726,8 +726,8 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 55</li>
-            <li> <a href="{{ "/tags/wales" | relative_url }}">wales</a> # 84</li>
+            <li> <a href="{{ "/tags/wales" | relative_url }}">wales</a> # 17</li>
+            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -821,8 +821,8 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
       <td>
         <ul>
             <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 7</li>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 24</li>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 39</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1117,6 +1117,7 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
     <tr>
       <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c99d55b462cc065a5514e944d0e7addc.png" alt="Cover for Grounded" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10-06</td>
       <td>Botany Bay</td>
@@ -1135,7 +1136,7 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/VUBSA7DCCuILtQLDBa9tMu9fv2mpiTPPZYbmY450bRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDM5/NDctMTMyOTA2NTUx/Ni5qcGVn.jpeg" alt="Cover for We Might Disappear" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/55d7f7f1f16f4708b25f5ea85660934c.png" alt="Cover for We Might Disappear" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Jukes</td>
@@ -1155,7 +1156,6 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/0JdkAfk2MDjYgksOnuCgmmoTan5Hf11l8NtNWQaJiMY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODU0/NTYtMTIyMzIyNTUw/OS5qcGVn.jpeg" alt="Cover for Lughnassadh" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Garnett James</td>
@@ -1177,7 +1177,7 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/adFqQj6uqamS98CJ9zS0-DWGj6Vqtc9IyrUrLdf7H2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTI5/MzAtMTM1NDk5NDMw/Ny00NzE0LmpwZWc.jpeg" alt="Cover for Phantom Limb" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/49a667f7e7da41b7a9de5050fc30b2a7.png" alt="Cover for Phantom Limb" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-08-25</td>
       <td>Phantom Limb</td>
@@ -1222,7 +1222,7 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/V3ODAXFLFTPMZnhdcYHK2SnSnphSaX2NyOY3KArwwqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTYy/MjUtMTU3NTI0NDUz/OS03NzIzLmpwZWc.jpeg" alt="Cover for Puppy Toy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac28f19317374206a815fb3c5384a159.png" alt="Cover for Puppy Toy" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03-31</td>
       <td>Tricky</td>
@@ -1241,6 +1241,7 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
     <tr>
       <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b58fca6195094ed0a7030edc0b393faa.png" alt="Cover for The Show Is On The Road" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-28</td>
       <td>Paleface</td>
@@ -1256,7 +1257,7 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 43</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 57</li>
             <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 82</li>
         </ul>
       </td>
@@ -1304,7 +1305,7 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 22</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 24</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 82</li>
             <li> <a href="{{ "/tags/deep-dubstep" | relative_url }}">deep dubstep</a> # 95</li>
         </ul>
@@ -1345,14 +1346,15 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 28</li>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 53</li>
+            <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 27</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a75a4daf342b67e5894069e28d801899.png" alt="Cover for Digitally Ascended Dubstep Vol 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03-08</td>
       <td>Technical Itch</td>
@@ -1391,6 +1393,7 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
     <tr>
       <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ffb2bf193a990a02570532e535f013cf.png" alt="Cover for Scribbled Thoughts" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-03</td>
       <td>Split Prophets</td>
@@ -1404,14 +1407,14 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 36</li>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/U0gRl_BXPCMeHbcIz1tgRE69Nd6V5CbziyktVF-1RDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODc5/NDUtMTMzNjQwMTkw/NC5wbmc.jpeg" alt="Cover for The Three Stripe Collection 1985 - 1990" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c7f930711824a919aa12fc23506204f.png" alt="Cover for The Three Stripe Collection 1985 - 1990" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-14</td>
       <td>Smith &amp; Mighty</td>
@@ -1469,7 +1472,7 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
     <tr>
       <td>10</td>
       <td>
-          <img src="https://i.discogs.com/wM8GlFPRxI4F5w0Tg1e0H-Qg92XStUcZMD9TfT9AGQw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDY2/NDctMTQwMzI2MDU4/OS0xNzQ1LmpwZWc.jpeg" alt="Cover for Visions of the Underworld" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/89bb32b6e2708b8053b32c80d08a17b0.png" alt="Cover for Visions of the Underworld" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04</td>
       <td>Patrick Duff</td>
@@ -1534,7 +1537,7 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 19</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1618,7 +1621,7 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 71</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1683,7 +1686,7 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/QZikLMZUdG2m9a-nJysjQDvHP7iMDt_eX1n10R41bPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzIy/MzY4LTE1ODAzMjE1/MTQtNjM0OC5qcGVn.jpeg" alt="Cover for Tara Clerkin Trio" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/014535e3883b96491ad78a1901097656.png" alt="Cover for Tara Clerkin Trio" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>Tara Clerkin Trio</td>
@@ -1703,7 +1706,7 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/uYzJ5Iu3AdITpQOEs8FttIZfIekssGK_Iub-RFTGNFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzk1/MTY1LTE1NTMzODI5/MjUtMjY4NC5qcGVn.jpeg" alt="Cover for Zero Deaths (Original Score)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de90850a5c8e526f0f813b7993972eb9.png" alt="Cover for Zero Deaths (Original Score)" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-03-06</td>
       <td>by Forever</td>
@@ -1745,7 +1748,7 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/9ofm5-bdIAcECY7oBqJx6NPOwdTbIzvQyRAjBg-oDMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODgx/NTY1LTE1ODQ4MDky/MTEtMjkyNi5qcGVn.jpeg" alt="Cover for bloom" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/964a44dd68219d0417f60650dff835a3.png" alt="Cover for bloom" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-10-14</td>
       <td>Old Pride</td>
@@ -1762,6 +1765,7 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1870,7 +1874,7 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
     <tr>
       <td>7</td>
       <td>
-          <img src="https://i.discogs.com/0G-3VaKv3jx9dzSRYIaB4pBbVhmMMqFul4opI7lru6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTgx/MjUyLTE2MzgzMDAz/NDItMzIyMC5qcGVn.jpeg" alt="Cover for Christmas Crackers, Vol 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/73a2440ac88f4e606fa103cfa99d6b9b.png" alt="Cover for Christmas Crackers, Vol 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-11-26</td>
       <td>The Soul Santas</td>
@@ -1941,24 +1945,21 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 22</li>
-            <li> <a href="{{ "/tags/wales" | relative_url }}">wales</a> # 67</li>
+            <li> <a href="{{ "/tags/wales" | relative_url }}">wales</a> # 32</li>
+            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/Q3IhUn3qIhTMDKlwDFMERpS-ZzdZBgiEHikv8LTUABs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzQ0/ODYxLTE2NzU2MzM5/NTktODczNy5qcGVn.jpeg" alt="Cover for Prize" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/be1198b2bb067761d573e45d334bc217.png" alt="Cover for Prize" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-01-13</td>
       <td>Rozi Plain</td>
       <td>Prize</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bristol" | relative_url }}">bristol</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
         </ul>
       </td>
       <td>
@@ -1997,7 +1998,7 @@ Bristol refers to the distinctive sound emerging from the UK port city, characte
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 27</li>
+            <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 74</li>
         </ul>
       </td>
     </tr>

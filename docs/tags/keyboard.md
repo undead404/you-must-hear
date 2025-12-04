@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-21T01:04:11.309Z
+date: 2025-12-04T04:25:40.750Z
 permalink: tags/keyboard
 title: keyboard
 ---
 
 ## keyboard
 
-Last updated: <time datetime="2025-10-21T01:04:11.309Z">Tue Oct 21 2025 04:04:11 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T04:25:40.750Z">Thu Dec 04 2025 06:25:40 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -101,6 +101,7 @@ The &quot;keyboard&quot; tag encompasses music where piano, synthesizer, organ, 
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d183cd3b62a889be5d568a1c779d50f.png" alt="Cover for Lucky Seven" style="max-width:120px; height:auto;" />
       </td>
       <td>1979</td>
       <td>Bob James</td>
@@ -120,8 +121,8 @@ The &quot;keyboard&quot; tag encompasses music where piano, synthesizer, organ, 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 42</li>
             <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 55</li>
-            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -388,6 +389,7 @@ The &quot;keyboard&quot; tag encompasses music where piano, synthesizer, organ, 
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3b688344b394dccb12342ed0c1fa182.png" alt="Cover for El Lado Femenino" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Nacho Cano</td>
@@ -443,6 +445,7 @@ The &quot;keyboard&quot; tag encompasses music where piano, synthesizer, organ, 
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f771d2a4858523440e016e23bc1202d3.png" alt="Cover for Allégresse" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Maria Schneider Orchestra</td>
@@ -492,7 +495,7 @@ The &quot;keyboard&quot; tag encompasses music where piano, synthesizer, organ, 
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/Wgpy-BGiBRg7jmbTB137UqNUV8U8ac2gwrm7ZFzJTEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTM5/ODUtMTM1OTUzNDk1/OS05NDc2LmpwZWc.jpeg" alt="Cover for Feeding the Wheel" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fb2fe754c39b41d880afeb74d7036c04.png" alt="Cover for Feeding the Wheel" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-10-23</td>
       <td>Jordan Rudess</td>
@@ -511,6 +514,7 @@ The &quot;keyboard&quot; tag encompasses music where piano, synthesizer, organ, 
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dac6fd5fc97bb563b97aae5e805f353c.png" alt="Cover for Emerson Plays Emerson" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Keith Emerson</td>
@@ -739,7 +743,7 @@ The &quot;keyboard&quot; tag encompasses music where piano, synthesizer, organ, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 35</li>
+            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -779,7 +783,7 @@ The &quot;keyboard&quot; tag encompasses music where piano, synthesizer, organ, 
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/GtILZx9SxGnho2WARRIJN_S1Xd5STNq_hyuOP-kqlec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDQ0/NTYyLTE0OTA2NDM3/NTktMzQ2My5qcGVn.jpeg" alt="Cover for Royal Nights" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/90835318bfc592c160eca7a45d545f60.png" alt="Cover for Royal Nights" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Jesse J. Smith</td>
@@ -804,7 +808,7 @@ The &quot;keyboard&quot; tag encompasses music where piano, synthesizer, organ, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 38</li>
+            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -914,14 +918,14 @@ The &quot;keyboard&quot; tag encompasses music where piano, synthesizer, organ, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 5</li>
+            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/qBvvjn93DSYhZrrGrstpV_cVmPiYL_Hcbmy8A8-L3Ts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODcx/MzMtMTI2OTM4MTk3/OC5qcGVn.jpeg" alt="Cover for After Flood" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/20971e24d6be497bc9fdc0ade5d0c981.png" alt="Cover for After Flood" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Strömberg&#x2F;Granlund</td>
@@ -938,14 +942,13 @@ The &quot;keyboard&quot; tag encompasses music where piano, synthesizer, organ, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 16</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/Gm_X1Q_6KReC1F6NN11qTzmnxGfDoKS_yWPefsL4ADQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU3/NjUxLTE1Mzc1Njky/OTYtNDgzNS5qcGVn.jpeg" alt="Cover for Organic Rock" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Jesse J. Smith</td>
@@ -968,7 +971,7 @@ The &quot;keyboard&quot; tag encompasses music where piano, synthesizer, organ, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 29</li>
+            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -999,7 +1002,7 @@ The &quot;keyboard&quot; tag encompasses music where piano, synthesizer, organ, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 31</li>
+            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1087,13 +1090,13 @@ The &quot;keyboard&quot; tag encompasses music where piano, synthesizer, organ, 
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d96cd3e86e49495bbab04bdc9e2671ca.png" alt="Cover for Disorganized Fun" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-07-31</td>
       <td>Ronald Jenkees</td>
       <td>Disorganized Fun</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
         </ul>
       </td>
       <td>
@@ -1104,7 +1107,7 @@ The &quot;keyboard&quot; tag encompasses music where piano, synthesizer, organ, 
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/rAazr8sw4iRiQYhUOjsSQqD-CDN1LrjffMsnoEmqF9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDEw/MDktMTM3MDc5MDU2/OS0yODkxLmpwZWc.jpeg" alt="Cover for Battlefields" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c419adb7e43a4c42efc45d688900d54.png" alt="Cover for Battlefields" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-12-10</td>
       <td>Ellylldan</td>
@@ -1169,7 +1172,7 @@ The &quot;keyboard&quot; tag encompasses music where piano, synthesizer, organ, 
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/fFNWv0Z3HtqRX1dYaNCF1ukO46cFy8pPe501RCJXdTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzU3/NDI0LTE1MjE4NTk5/NjAtNzQzMC5qcGVn.jpeg" alt="Cover for Timelines &amp; Transitions" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6fd6b1b064544537bd8e1d449eff6288.png" alt="Cover for Timelines &amp; Transitions" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Think Harder</td>
@@ -1236,7 +1239,7 @@ The &quot;keyboard&quot; tag encompasses music where piano, synthesizer, organ, 
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/xI65GYgzXfSF4NBAEpNMgNPq1ev8dM8S-mNWwmlqEO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTY3/MTI3LTE2NDEwNjYy/ODItMjQ2Ni5qcGVn.jpeg" alt="Cover for Imbolg" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/adf60287df464c49a8d902fb6fda8d22.png" alt="Cover for Imbolg" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Imbolg</td>
@@ -1297,7 +1300,7 @@ The &quot;keyboard&quot; tag encompasses music where piano, synthesizer, organ, 
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/wetyH7W9GCjATyIboWjWCbfLhttxr68k_iQzytgIGkI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzMz/ODkyLTE1NTIyNTMz/ODAtNDQ4OC5wbmc.jpeg" alt="Cover for People of the Dawn" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b13e47d837bef59f2e92428b341becb.png" alt="Cover for People of the Dawn" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-11-14</td>
       <td>Spencer Zahn</td>
@@ -1381,25 +1384,25 @@ The &quot;keyboard&quot; tag encompasses music where piano, synthesizer, organ, 
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/9ZQ8ZYvMOwaWZl410GULuOXWHriTGVpNPgGS0HROMeA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjIy/MjY1LTE2MTMyNTg1/ODItMjYyNi5qcGVn.jpeg" alt="Cover for Live Vol. 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2befeac85cd26b21b4b6bc57fbfd2ed.png" alt="Cover for Live Vol. 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-06-19</td>
       <td>Parcels</td>
       <td>Live Vol. 1</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/keyboard" | relative_url }}">keyboard</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/PgCwBhUfvF2tKnIfLvPnAUrYs0LUtO4yA-oMaWIl2W8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDkz/NjE1LTE2ODQyMjg3/MjUtMjg1OC5qcGVn.jpeg" alt="Cover for depart, be lost, but climb" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/62be0a2cbea64a90a487318014ea45c2.png" alt="Cover for depart, be lost, but climb" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-02-24</td>
       <td>Jetlagged</td>
@@ -1410,10 +1413,10 @@ The &quot;keyboard&quot; tag encompasses music where piano, synthesizer, organ, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 22</li>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 22</li>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 26</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 25</li>
             <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 70</li>
+            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 78</li>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 78</li>
             <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 80</li>
         </ul>
       </td>
@@ -1421,6 +1424,7 @@ The &quot;keyboard&quot; tag encompasses music where piano, synthesizer, organ, 
     <tr>
       <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0059bd586f1d4e5cb4c738935e73b610.png" alt="Cover for Letters To Andrea" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Ash- Blaize</td>
@@ -1439,7 +1443,7 @@ The &quot;keyboard&quot; tag encompasses music where piano, synthesizer, organ, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/austin" | relative_url }}">austin</a> # 9</li>
+            <li> <a href="{{ "/tags/austin" | relative_url }}">austin</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1522,6 +1526,7 @@ The &quot;keyboard&quot; tag encompasses music where piano, synthesizer, organ, 
     <tr>
       <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e74fc709fb244f9e953d93b9d41a5294.png" alt="Cover for the Art of War" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Four Suns</td>
@@ -1548,7 +1553,7 @@ The &quot;keyboard&quot; tag encompasses music where piano, synthesizer, organ, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 50</li>
+            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1566,7 +1571,7 @@ The &quot;keyboard&quot; tag encompasses music where piano, synthesizer, organ, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 25</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1631,6 +1636,7 @@ The &quot;keyboard&quot; tag encompasses music where piano, synthesizer, organ, 
     <tr>
       <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61b63eaf04cd6797059ca4208a83fcd4.png" alt="Cover for Sounds Like Words" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Sounds Like Words</td>
@@ -1651,6 +1657,7 @@ The &quot;keyboard&quot; tag encompasses music where piano, synthesizer, organ, 
     <tr>
       <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eaa9d3623832486592ac67fed45e9a22.png" alt="Cover for Weed &amp; Demos" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Explorer2000</td>
@@ -1674,6 +1681,7 @@ The &quot;keyboard&quot; tag encompasses music where piano, synthesizer, organ, 
     <tr>
       <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb82e39b208c4233afc436bbef8c0365.png" alt="Cover for Starmouth" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>At Risk Reset</td>
@@ -1825,6 +1833,7 @@ The &quot;keyboard&quot; tag encompasses music where piano, synthesizer, organ, 
     <tr>
       <td>29</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8dd62f6426313672a79d9b6a9cd70e79.png" alt="Cover for Welcome To My World" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Bastard Child</td>
@@ -1872,6 +1881,7 @@ The &quot;keyboard&quot; tag encompasses music where piano, synthesizer, organ, 
     <tr>
       <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d0e0fb1a0e74ac8e767c933396fa39d.png" alt="Cover for A Jealous Butterfly" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Nadia Lucie Pacey</td>
@@ -1929,6 +1939,7 @@ The &quot;keyboard&quot; tag encompasses music where piano, synthesizer, organ, 
     <tr>
       <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/93ef1b469ca14d45a4183f6066a4cce4.png" alt="Cover for Merry Andrew" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>At Risk Reset</td>
@@ -1959,6 +1970,7 @@ The &quot;keyboard&quot; tag encompasses music where piano, synthesizer, organ, 
     <tr>
       <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/634e4cb7e7794941882a14d28af08dbf.png" alt="Cover for MONUMENTAL" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>First Monument</td>
@@ -2000,6 +2012,7 @@ The &quot;keyboard&quot; tag encompasses music where piano, synthesizer, organ, 
     <tr>
       <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1186bafe920428d9ebb832af5136c69.png" alt="Cover for Weed &amp; Rainbows" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Explorer2000</td>
@@ -2041,6 +2054,7 @@ The &quot;keyboard&quot; tag encompasses music where piano, synthesizer, organ, 
     <tr>
       <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0bba5e4ac54d4a0ab47b173f2d488259.png" alt="Cover for White &amp; Black" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Glynzilla</td>

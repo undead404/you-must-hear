@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T20:46:58.676Z
+date: 2025-12-04T04:21:49.448Z
 permalink: tags/speedcore
 title: speedcore
 ---
 
 ## speedcore
 
-Last updated: <time datetime="2025-11-19T20:46:58.676Z">Wed Nov 19 2025 22:46:58 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:21:49.448Z">Thu Dec 04 2025 06:21:49 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Homicide Vol.2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/886febf257bc14d58be2ee089580eb8d.png" alt="Cover for Homicide Vol.2" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Various Artists</td>
@@ -50,6 +50,7 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
     <tr>
       <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ac868c83af84fb6946b0f07a66eea1b.png" alt="Cover for Destruction By Speed" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>The Speed Freak</td>
@@ -84,15 +85,15 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 11</li>
             <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 61</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/qhPlM0KRa3WiLTT9qirpS2FA0tI9fLVcT8-FVRccGBA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjA3/LTEyNDY0NDc5ODQu/anBlZw.jpeg" alt="Cover for 100% No Soul Guaranteed" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c240cd56ff566c7dbecd4f517324b0c.png" alt="Cover for 100% No Soul Guaranteed" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-01-30</td>
       <td>Nasenbluten</td>
@@ -106,7 +107,7 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 82</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 19</li>
             <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 97</li>
         </ul>
       </td>
@@ -128,7 +129,7 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 63</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 37</li>
             <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 92</li>
         </ul>
       </td>
@@ -176,14 +177,14 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       <td>
         <ul>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 12</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 32</li>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 35</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 22</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 32</li>
             <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 40</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 49</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 56</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 58</li>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 69</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 66</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 68</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 76</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -201,10 +202,10 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 1</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 60</li>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 76</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 86</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 5</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 15</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 26</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -228,7 +229,7 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 48</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 52</li>
             <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 79</li>
         </ul>
       </td>
@@ -248,7 +249,7 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 61</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -292,18 +293,18 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 6</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 17</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 22</li>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 27</li>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 32</li>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 50</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 57</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 43</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 51</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 57</li>
             <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 57</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 58</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 62</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 69</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 73</li>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 79</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 82</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 84</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -442,13 +443,15 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 6</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/osVdbhYC9kWzghsjAN4yDS9Dhujcy3zXTyFjV9QOa8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjgw/Mi0xMTAwMDc2NjA1/LmpwZw.jpeg" alt="Cover for Infolepsy EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc873af77ae8b72cf29b21a729168b2e.png" alt="Cover for Infolepsy EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-11-15</td>
       <td>Venetian Snares</td>
@@ -460,7 +463,7 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 22</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -544,25 +547,25 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 5</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 9</li>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 15</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 37</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 20</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 21</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 30</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 37</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 52</li>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 55</li>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 71</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 46</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 58</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 63</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 77</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 80</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 81</li>
             <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 88</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 91</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>10</td>
       <td>
-          <img src="https://i.discogs.com/rrAaWbDG4EArnUdd3MTsxjykVta_1enWEuItzeaXGMI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MzAz/My0xMjk4NTI3NTgw/LmpwZWc.jpeg" alt="Cover for Animosity (Limited Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4f243c84c3048c581633fb5cbd91aec.png" alt="Cover for Animosity (Limited Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-02-12</td>
       <td>The Berzerker</td>
@@ -631,7 +634,6 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rac" | relative_url }}">rac</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a></li>
@@ -649,18 +651,17 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       <td>
         <ul>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 8</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 10</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 13</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 11</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 17</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 28</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 36</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 40</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 45</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 52</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 60</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 61</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 63</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 68</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 69</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -713,7 +714,6 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rac" | relative_url }}">rac</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a></li>
@@ -730,29 +730,28 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 11</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 11</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 29</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 30</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 33</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 34</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 38</li>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 39</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 41</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 51</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 53</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 48</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 50</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 53</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 59</li>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 65</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 61</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 67</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 68</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 68</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 69</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 70</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 72</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 75</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 77</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 78</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 81</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 79</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 81</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 82</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 83</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 90</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 88</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 91</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 93</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 94</li>
@@ -778,7 +777,7 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 71</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -846,13 +845,13 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
         <ul>
             <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 5</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 6</li>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 10</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 14</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 29</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 30</li>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 55</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 34</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 36</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 45</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 61</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 67</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 87</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -877,7 +876,7 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
     <tr>
       <td>6</td>
       <td>
-          <img src="https://i.discogs.com/aHqo-fw1vDwipqAIGSrv001tjSC_6W41CmDpftU047E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzU5/NjctMTIxOTU0OTUw/OS5qcGVn.jpeg" alt="Cover for DTRASH116 - Acid Enema" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2df4c2164854bc44c9b2c7b76612b6d.png" alt="Cover for DTRASH116 - Acid Enema" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-01</td>
       <td>Acid Enema</td>
@@ -996,7 +995,7 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 44</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 56</li>
             <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 89</li>
             <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 93</li>
         </ul>
@@ -1022,32 +1021,31 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 2</li>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 7</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 16</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 19</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 8</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 15</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 16</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 19</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 24</li>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 44</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 46</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 48</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 53</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 54</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 54</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 55</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 61</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 64</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 68</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 68</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 68</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 69</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 68</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 69</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 69</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 74</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 79</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 85</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 83</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 85</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 86</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 86</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 86</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 90</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 91</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 92</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1158,7 +1156,6 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
@@ -1180,38 +1177,38 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 1</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 2</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 3</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 8</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 9</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 16</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 16</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 22</li>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 29</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 30</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 30</li>
+            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 32</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 38</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 42</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 44</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 48</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 46</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 48</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 53</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 53</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 53</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 54</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 54</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 54</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 58</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 62</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 62</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 63</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 65</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 66</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 66</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 67</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 72</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 81</li>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 83</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 83</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 83</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 85</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 85</li>
-            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 87</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 86</li>
             <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 87</li>
+            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 87</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 89</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 91</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 92</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1253,24 +1250,23 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       <td>
         <ul>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 5</li>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 23</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 22</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 25</li>
             <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 29</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 37</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 37</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 38</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 39</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 42</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 46</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 49</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 50</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 51</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 52</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 54</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 56</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 57</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 62</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 66</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 73</li>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 75</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 75</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 75</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 76</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 79</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 79</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 81</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 83</li>
@@ -1281,7 +1277,7 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
     <tr>
       <td>5</td>
       <td>
-          <img src="https://i.discogs.com/ENH_jYbhH-xOeCtFUD8EQSm5_Hl8Z-msoc4DfK-4vkY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTUx/MTQtMTI3NjM0OTI5/MC5qcGVn.jpeg" alt="Cover for Lector In The Sky With Diamorphine" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a0621180c95f46e4be09fd91a7dd69f3.png" alt="Cover for Lector In The Sky With Diamorphine" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-29</td>
       <td>m1dy</td>
@@ -1355,7 +1351,7 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 74</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 75</li>
             <li> <a href="{{ "/tags/j-core" | relative_url }}">j-core</a> # 97</li>
         </ul>
       </td>
@@ -1397,7 +1393,7 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 54</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 59</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 59</li>
         </ul>
       </td>
@@ -1437,7 +1433,7 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 75</li>
+            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1532,7 +1528,6 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
@@ -1555,29 +1550,28 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       <td>
         <ul>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 9</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 10</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 13</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 24</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 26</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 28</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 30</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 26</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 31</li>
             <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 34</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 40</li>
             <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 43</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 43</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 44</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 48</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 49</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 49</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 54</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 57</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 61</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 70</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 72</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 73</li>
-            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 75</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 73</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 75</li>
+            <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 75</li>
             <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 76</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 77</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 82</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 85</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1598,7 +1592,7 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 84</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 17</li>
             <li> <a href="{{ "/tags/j-core" | relative_url }}">j-core</a> # 99</li>
         </ul>
       </td>
@@ -1674,17 +1668,16 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 1</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 5</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 6</li>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 18</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 18</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 30</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 31</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 36</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 36</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 41</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 43</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 65</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 69</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 71</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 80</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 82</li>
             <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 93</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1702,13 +1695,13 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 1</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 17</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 18</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 19</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 21</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 23</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 24</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 80</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 82</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 84</li>
             <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 88</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1768,8 +1761,8 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 86</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 87</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 13</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 88</li>
             <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 100</li>
         </ul>
       </td>
@@ -1814,7 +1807,7 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 56</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1839,7 +1832,7 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/DBBuPwVfLAJNe_FeKY2D4vQRXgmZOBJzWtsdcmhFnk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNzM5/OTYtMTQ1NDYzMDk2/NC0zMjM1LnBuZw.jpeg" alt="Cover for goreshit&#x2F;complex.0" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a81f374de80b47648dcbc69db7923793.png" alt="Cover for goreshit&#x2F;complex.0" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-08-24</td>
       <td>goreshit</td>
@@ -1858,7 +1851,7 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/Z6Vxtplw2NNvZTKVXUNmAiGecKdmQ86M-9J-0LM-ECw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Mzg1/ODQtMTQ0NTcwNzYy/NC0zODc3LnBuZw.jpeg" alt="Cover for The One Man Army" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f69587baa93478b4bc39ad075dae147a.png" alt="Cover for The One Man Army" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-11-07</td>
       <td>Radical Redemption</td>
@@ -1873,7 +1866,7 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 23</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1958,7 +1951,7 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/BNVtZv-g2otylsPxAMMN3APujKA3qcqpgsXvubJEDhA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MTQz/MjAtMTQ4MTkwNjA0/NC0zNDEzLmpwZWc.jpeg" alt="Cover for Trip Around The World" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7b8c0ab0307f025e4fceeb3b5dede37.png" alt="Cover for Trip Around The World" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-12-16</td>
       <td>Dr Peacock</td>
@@ -1974,7 +1967,7 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 82</li>
+            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -2002,7 +1995,7 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/gxichRbALFkS3UFW3tNoAgwx1v0rbjlw4TVBJ6OjilU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDY4/MTkyLTE1MDkyNjY5/MDktNjcwMC5qcGVn.jpeg" alt="Cover for The Requiem" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f0da05f1bb84c1741756f5f4b89a120e.png" alt="Cover for The Requiem" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-10-29</td>
       <td>Gram</td>
@@ -2027,7 +2020,7 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/oiiOFnEDdilfTB9CprFs6g_VWe89xXnDzspcl-BjUfk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODQ1/NDg0LTE1NDMwNzU0/ODYtNDIxMy5qcGVn.jpeg" alt="Cover for See you again, HOLLOWood" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/849418886d8aa06f4f6ef4305423afb9.png" alt="Cover for See you again, HOLLOWood" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-12-29</td>
       <td>t+pazolite</td>
@@ -2045,7 +2038,7 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/8phA8SQ6vOsvsXK7-2aqb0MT5CvXKrjrYSsuePP3c1A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTk5/LTE2NjAwNjgyNTEt/MTU0My5qcGVn.jpeg" alt="Cover for She Began To Cry Tears Of Blood Which Became Little Brick Houses When They Hit The Ground" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da82be81a364fb5221dd1c8aee255a2c.png" alt="Cover for She Began To Cry Tears Of Blood Which Became Little Brick Houses When They Hit The Ground" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-01-11</td>
       <td>Venetian Snares</td>
@@ -2146,10 +2139,10 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 36</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 43</li>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 57</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 71</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 32</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 37</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 44</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -2187,8 +2180,8 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 30</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 45</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 55</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -2286,7 +2279,7 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
     <tr>
       <td>13</td>
       <td>
-          <img src="https://i.discogs.com/MWEmLpv3XMaBSxsOeO3V9vZqQb1IG2QUASX5KQoF2Rk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTc0/OTE1LTE2MjAwNTg5/NzMtOTAwMS5wbmc.jpeg" alt="Cover for KAKATTEKOYEAH!!!!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a10ad8bcbc26fdead155a227424b20e0.png" alt="Cover for KAKATTEKOYEAH!!!!" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-08-19</td>
       <td>t+pazolite</td>
@@ -2331,8 +2324,8 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 12</li>
             <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 63</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 88</li>
             <li> <a href="{{ "/tags/terrorcore" | relative_url }}">terrorcore</a> # 98</li>
         </ul>
       </td>
@@ -2358,7 +2351,7 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 58</li>
+            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -2385,8 +2378,8 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 81</li>
-            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 90</li>
+            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 11</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 82</li>
             <li> <a href="{{ "/tags/j-core" | relative_url }}">j-core</a> # 98</li>
         </ul>
       </td>
@@ -2394,7 +2387,7 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/qChjAY0tRzC-AYm_y2A8UmKao1ABzZDDfuQTGgYLCtY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTA2/MS0xMTkxNzA5OTg2/LmpwZWc.jpeg" alt="Cover for HammerHead" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbd652a0e9bd4f06a32b9a2ec44a8a2f.png" alt="Cover for HammerHead" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-09-14</td>
       <td>The Speed Freak</td>
@@ -2409,7 +2402,7 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 78</li>
+            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -2427,13 +2420,13 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 3</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 18</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 19</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 21</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 24</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 27</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 28</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 77</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 81</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 83</li>
             <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 89</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -2513,7 +2506,7 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 63</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -2554,7 +2547,7 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       <td>
         <ul>
             <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 62</li>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 68</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 69</li>
             <li> <a href="{{ "/tags/sextrance" | relative_url }}">sextrance</a> # 91</li>
         </ul>
       </td>
@@ -2562,7 +2555,7 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/_xHDdCal4cV_CVY0aQKX7yB9dqmBmvTuy68DWXk_V9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTQ3/ODg5LTE2ODcwNjgz/OTktODYwMy5qcGVn.jpeg" alt="Cover for SUPER KEY GENERATOR" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/42618dabf10d9d081dcf7285e3d62a0c.png" alt="Cover for SUPER KEY GENERATOR" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-04-30</td>
       <td>Kobaryo</td>
@@ -2648,7 +2641,7 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 1</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 2</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 6</li>
             <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 86</li>
         </ul>
@@ -2694,7 +2687,7 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 31</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 30</li>
             <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 75</li>
             <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 81</li>
             <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 84</li>
@@ -2714,16 +2707,16 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 1</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 2</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 13</li>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 15</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 27</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 28</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 32</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 32</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 37</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 38</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 69</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 73</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 73</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 83</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 87</li>
             <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 92</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -2743,7 +2736,7 @@ Speedcore is an extreme subgenre of hardcore techno characterized by relentlessl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 58</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 42</li>
             <li> <a href="{{ "/tags/terrorcore" | relative_url }}">terrorcore</a> # 99</li>
         </ul>
       </td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-20T23:27:58.208Z
+date: 2025-12-04T03:15:09.293Z
 permalink: tags/soprano
 title: soprano
 ---
 
 ## soprano
 
-Last updated: <time datetime="2025-10-20T23:27:58.208Z">Tue Oct 21 2025 02:27:58 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T03:15:09.293Z">Thu Dec 04 2025 05:15:09 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -139,7 +139,7 @@ Soprano refers to music prominently featuring the highest female vocal register,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 29</li>
+            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -183,7 +183,7 @@ Soprano refers to music prominently featuring the highest female vocal register,
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/bvjCuH5SfjLesOjNYwijqODPU2Vjoj5t84RVrE37630/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0OTIx/Mi0xMzk4NTIzMzUy/LTQ1NDEuanBlZw.jpeg" alt="Cover for Glass: Songs From the Trilogy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f0c197f08aa4cab937802f12c12569d.png" alt="Cover for Glass: Songs From the Trilogy" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Philip Glass</td>
@@ -218,7 +218,7 @@ Soprano refers to music prominently featuring the highest female vocal register,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 60</li>
+            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -417,6 +417,7 @@ Soprano refers to music prominently featuring the highest female vocal register,
     <tr>
       <td>29</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f333e02801d3e9012524b12a7b121750.png" alt="Cover for Hantaoma" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Stille Volk</td>
@@ -431,9 +432,9 @@ Soprano refers to music prominently featuring the highest female vocal register,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 31</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 48</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 65</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 29</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 32</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 50</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 81</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 90</li>
         </ul>
@@ -498,6 +499,7 @@ Soprano refers to music prominently featuring the highest female vocal register,
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/89fdefa3cf1d475185026a875528e83b.png" alt="Cover for Worldes Blysse" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-10-19</td>
       <td>Mediæval Bæbes</td>
@@ -509,9 +511,9 @@ Soprano refers to music prominently featuring the highest female vocal register,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 7</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 10</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 56</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 9</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 18</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -600,7 +602,7 @@ Soprano refers to music prominently featuring the highest female vocal register,
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/f80riF-SVsp9PWY2ryHCLTiA3z9gqybOQJc69TCo5kg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTg1/NDQtMTU0MTQ1OTU1/OS00MzU4LmpwZWc.jpeg" alt="Cover for I Will Wait for You" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/94841554bf9c4b05a84bdf16eb8f9781.png" alt="Cover for I Will Wait for You" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-05-13</td>
       <td>Lesley Garrett</td>
@@ -635,7 +637,7 @@ Soprano refers to music prominently featuring the highest female vocal register,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 15</li>
+            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -691,7 +693,7 @@ Soprano refers to music prominently featuring the highest female vocal register,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 41</li>
+            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -733,7 +735,7 @@ Soprano refers to music prominently featuring the highest female vocal register,
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/ThyuPtpT3bhM7lGgxVfBdz7hx0wOHW5qSOdF6oKvB2A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDY4/MDAtMTM3MjY1NzI0/OC05NDY1LmpwZWc.jpeg" alt="Cover for New Dawn" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d87df58b8a44f42a107be7f2bd113d5.png" alt="Cover for New Dawn" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-07-27</td>
       <td>Izzy</td>
@@ -751,7 +753,7 @@ Soprano refers to music prominently featuring the highest female vocal register,
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/tIR5ZzO_H7vixxGuvv8fLajBxrBE2WUGiImmslrkgso/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODc5/OS0xNDQ3MDc3Mjcy/LTIyMDcuanBlZw.jpeg" alt="Cover for Maudat" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/107efb97485c1bf3e81fdf70ca68e410.png" alt="Cover for Maudat" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Stille Volk</td>
@@ -765,9 +767,9 @@ Soprano refers to music prominently featuring the highest female vocal register,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 25</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 52</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 44</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 57</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 73</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 73</li>
         </ul>
       </td>
@@ -787,7 +789,7 @@ Soprano refers to music prominently featuring the highest female vocal register,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 28</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -806,7 +808,7 @@ Soprano refers to music prominently featuring the highest female vocal register,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 16</li>
+            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -832,6 +834,7 @@ Soprano refers to music prominently featuring the highest female vocal register,
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4a2e86d709f47b980479fd0e15d961c.png" alt="Cover for Enchant" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-02-26</td>
       <td>Emilie Autumn</td>
@@ -843,23 +846,23 @@ Soprano refers to music prominently featuring the highest female vocal register,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 1</li>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 8</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 23</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 40</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 42</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 55</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 56</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 68</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 70</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 82</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 17</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 28</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 42</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 46</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 46</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 56</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 71</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 78</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 92</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/812RucrxIGK-ESbTIiE-PN8sPhkvWwVu58p48Ne8QdQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTI4/Mjc3LTE2NDQ2NzU4/MjUtOTM0MC5qcGVn.jpeg" alt="Cover for Viva La Diva" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/400c18f1904747268852ce9ea393be44.png" alt="Cover for Viva La Diva" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-04-03</td>
       <td>Montserrat Caballé</td>
@@ -877,6 +880,7 @@ Soprano refers to music prominently featuring the highest female vocal register,
     <tr>
       <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f10a5832aebcce184e89c742ff7f541.png" alt="Cover for 廃墟と楽園" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-08-24</td>
       <td>志方あきこ</td>
@@ -894,11 +898,11 @@ Soprano refers to music prominently featuring the highest female vocal register,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 6</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 18</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 20</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 5</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 29</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 60</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 69</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 79</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -918,7 +922,7 @@ Soprano refers to music prominently featuring the highest female vocal register,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 58</li>
+            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -999,11 +1003,11 @@ Soprano refers to music prominently featuring the highest female vocal register,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 10</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 38</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 41</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 65</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 33</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 57</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 58</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 83</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1031,6 +1035,7 @@ Soprano refers to music prominently featuring the highest female vocal register,
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6df0a419239ec0247be760f6d0f7e522.png" alt="Cover for Navigatoria" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-07-20</td>
       <td>志方あきこ</td>
@@ -1052,14 +1057,14 @@ Soprano refers to music prominently featuring the highest female vocal register,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 11</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 33</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 40</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 14</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 29</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 34</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 40</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 42</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 43</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 44</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 55</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 61</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 69</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 85</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1079,7 +1084,7 @@ Soprano refers to music prominently featuring the highest female vocal register,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 62</li>
+            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1174,15 +1179,15 @@ Soprano refers to music prominently featuring the highest female vocal register,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 3</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 18</li>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 34</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 6</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 19</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 40</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 40</li>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 50</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 52</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 51</li>
             <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 53</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 55</li>
             <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 63</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 66</li>
             <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 76</li>
             <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 79</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 90</li>
@@ -1192,6 +1197,7 @@ Soprano refers to music prominently featuring the highest female vocal register,
     <tr>
       <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2bb00716d9bc2115eef91efb20701f29.png" alt="Cover for Elysium For The Brave" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-07-25</td>
       <td>Azam Ali</td>
@@ -1205,11 +1211,11 @@ Soprano refers to music prominently featuring the highest female vocal register,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 1</li>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 15</li>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 24</li>
             <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 81</li>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 85</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 92</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 100</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1275,14 +1281,16 @@ Soprano refers to music prominently featuring the highest female vocal register,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 18</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 46</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 3</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 51</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/415f18b3061fc9d355684d303067a809.png" alt="Cover for Raka" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-10-25</td>
       <td>志方あきこ</td>
@@ -1299,18 +1307,19 @@ Soprano refers to music prominently featuring the highest female vocal register,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 41</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 42</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 47</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 53</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 33</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 43</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 44</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 52</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 59</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 65</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e7503516ceaed240335eae947139621.png" alt="Cover for Lost In Paradise" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-11-10</td>
       <td>X-Perience</td>
@@ -1367,8 +1376,8 @@ Soprano refers to music prominently featuring the highest female vocal register,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 14</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 44</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 53</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1395,6 +1404,7 @@ Soprano refers to music prominently featuring the highest female vocal register,
     <tr>
       <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e311b2ee4f254bb1b6b363fd86b22150.png" alt="Cover for Tempo de Festa" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Diante do Trono</td>
@@ -1436,7 +1446,7 @@ Soprano refers to music prominently featuring the highest female vocal register,
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/GvmOg-xOpD0eOLzpV7xXHfblGKMNOAHii8EC646BpIM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTM4/MjItMTQ2MDI0MTg2/OS02Nzg5LmpwZWc.jpeg" alt="Cover for My Winter Storm" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/987d6f88431d5826ffe6514da44d5b91.png" alt="Cover for My Winter Storm" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-11-14</td>
       <td>Tarja</td>
@@ -1448,8 +1458,8 @@ Soprano refers to music prominently featuring the highest female vocal register,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 68</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 70</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 31</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1493,6 +1503,7 @@ Soprano refers to music prominently featuring the highest female vocal register,
     <tr>
       <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0526db7e04564a22a05037f534f6baf0.png" alt="Cover for 悠かなる刻の詩声" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-01-23</td>
       <td>石橋優子</td>
@@ -1507,14 +1518,14 @@ Soprano refers to music prominently featuring the highest female vocal register,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 8</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/0JPsaBVybXlibkv9DIVec4M4uV9EWSrza1X6Aep1308/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDg0/MTctMTMwNjc1MzE4/OC5qcGVn.jpeg" alt="Cover for The VOICE" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e91d6e1bacb0f9f653f572074ba4d66c.png" alt="Cover for The VOICE" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-02-20</td>
       <td>KOKIA</td>
@@ -1528,8 +1539,8 @@ Soprano refers to music prominently featuring the highest female vocal register,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 12</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 59</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 60</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1669,6 +1680,7 @@ Soprano refers to music prominently featuring the highest female vocal register,
     <tr>
       <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2133a9f35405499ec92a49fdd29f1c52.png" alt="Cover for Harmonia" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03-18</td>
       <td>志方あきこ</td>
@@ -1688,10 +1700,10 @@ Soprano refers to music prominently featuring the highest female vocal register,
       <td>
         <ul>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 42</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 43</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 48</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 49</li>
             <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 49</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 50</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 50</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1732,11 +1744,11 @@ Soprano refers to music prominently featuring the highest female vocal register,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 15</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 48</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 49</li>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 54</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 77</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 78</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 78</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1815,18 +1827,19 @@ Soprano refers to music prominently featuring the highest female vocal register,
       <td>
         <ul>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 1</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 4</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 28</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 3</li>
             <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 41</li>
             <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 50</li>
             <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 52</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 56</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 54</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>16</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f8895b45eb14192a02921e3e2ac3a0a.png" alt="Cover for Istoria~Kalliope~" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-31</td>
       <td>志方あきこ</td>
@@ -1848,9 +1861,9 @@ Soprano refers to music prominently featuring the highest female vocal register,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 18</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 27</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 33</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1876,7 +1889,7 @@ Soprano refers to music prominently featuring the highest female vocal register,
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/4dltzSfFrqtINqR_oyZ4UDwsY_hDL2QAzT6ZwyLObgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MjA3/NTAtMTM5NTUxMjg5/OC0xMzExLmpwZWc.jpeg" alt="Cover for Odysseus" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3641ee02a2a6423a8cb3397ac2d3f2cd.png" alt="Cover for Odysseus" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-01-01</td>
       <td>Luc Arbogast</td>
@@ -1897,13 +1910,13 @@ Soprano refers to music prominently featuring the highest female vocal register,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 10</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 19</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 9</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 22</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 23</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 33</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 44</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 45</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 47</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 55</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 75</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1950,7 +1963,7 @@ Soprano refers to music prominently featuring the highest female vocal register,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 16</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1982,7 +1995,7 @@ Soprano refers to music prominently featuring the highest female vocal register,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 3</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -2075,10 +2088,10 @@ Soprano refers to music prominently featuring the highest female vocal register,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 6</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 28</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 29</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 65</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 13</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 29</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 33</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -2136,13 +2149,14 @@ Soprano refers to music prominently featuring the highest female vocal register,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 1</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>22</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/130ffe100c614fd9a983dc5c9293895a.png" alt="Cover for Light" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Saad Hebboul</td>
@@ -2163,8 +2177,8 @@ Soprano refers to music prominently featuring the highest female vocal register,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 3</li>
             <li> <a href="{{ "/tags/tenor" | relative_url }}">tenor</a> # 60</li>
+            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 97</li>
         </ul>
       </td>
     </tr>

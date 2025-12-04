@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T13:26:53.284Z
+date: 2025-12-04T04:26:23.137Z
 permalink: tags/bass-house
 title: bass house
 ---
 
 ## bass house
 
-Last updated: <time datetime="2025-11-17T13:26:53.284Z">Mon Nov 17 2025 15:26:53 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:26:23.137Z">Thu Dec 04 2025 06:26:23 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -45,7 +45,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 10</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -85,8 +85,8 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 8</li>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 33</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 68</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -240,9 +240,9 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 27</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 67</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 88</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 11</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 32</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 74</li>
             <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 93</li>
         </ul>
       </td>
@@ -250,7 +250,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/yKQ6h7TjaQ9W9HVbaoDOv8YypXTnTCYNeU2t5P_Rp1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDc3/MjUtMTM4NzQ4MTAy/OC02NTk1LmpwZWc.jpeg" alt="Cover for Death Asked A Question" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/41f791d26274a9ee6231b2cde7b9e71d.png" alt="Cover for Death Asked A Question" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06-01</td>
       <td>Varien</td>
@@ -464,7 +464,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 80</li>
+            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -561,7 +561,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 29</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -604,7 +604,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 88</li>
+            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -661,7 +661,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 61</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -781,9 +781,9 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 32</li>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 47</li>
-            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 77</li>
+            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 24</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 35</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 49</li>
             <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 90</li>
         </ul>
       </td>
@@ -860,7 +860,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 51</li>
+            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -995,8 +995,8 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 34</li>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 35</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 36</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1109,7 +1109,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 77</li>
+            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1129,7 +1129,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 57</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1314,7 +1314,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 82</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1425,7 +1425,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jump-up" | relative_url }}">jump up</a> # 92</li>
+            <li> <a href="{{ "/tags/jump-up" | relative_url }}">jump up</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1445,7 +1445,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 71</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1532,8 +1532,8 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 4</li>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 15</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 3</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1620,7 +1620,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 17</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1704,8 +1704,8 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 63</li>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 83</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 17</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 36</li>
             <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 89</li>
         </ul>
       </td>
@@ -1730,7 +1730,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 74</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1754,7 +1754,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 75</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1776,7 +1776,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 56</li>
+            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 43</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 63</li>
         </ul>
       </td>
@@ -1801,8 +1801,8 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 32</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 67</li>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1824,7 +1824,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 59</li>
+            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1886,7 +1886,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 37</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1910,7 +1910,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 12</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1931,7 +1931,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 60</li>
+            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1959,7 +1959,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 75</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1984,12 +1984,12 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 3</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 43</li>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 57</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 45</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 45</li>
             <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 59</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 73</li>
             <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 88</li>
+            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -2011,7 +2011,7 @@ Bass house is an electronic dance music genre that emerged in the mid-2010s, com
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 5</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 96</li>
         </ul>
       </td>
     </tr>

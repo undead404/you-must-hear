@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T08:40:51.806Z
+date: 2025-12-04T04:22:46.795Z
 permalink: tags/hammond
 title: hammond
 ---
 
 ## hammond
 
-Last updated: <time datetime="2025-11-03T08:40:51.806Z">Mon Nov 03 2025 10:40:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:22:46.795Z">Thu Dec 04 2025 06:22:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,6 +31,7 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
     <tr>
       <td>27</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad997abaa660ddba841d0f0637714e36.png" alt="Cover for Home Cookin&#39;" style="max-width:120px; height:auto;" />
       </td>
       <td>1959</td>
       <td>Jimmy Smith</td>
@@ -97,8 +98,8 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 4</li>
-            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 35</li>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 67</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -147,6 +148,7 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ef472a4367d910efe5c6d0735b3b063.png" alt="Cover for Astra" style="max-width:120px; height:auto;" />
       </td>
       <td>1970</td>
       <td>Freedom&#39;s Children</td>
@@ -168,6 +170,7 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7935fe2cf2764a03a627df8809307245.png" alt="Cover for Electric Funk" style="max-width:120px; height:auto;" />
       </td>
       <td>1970</td>
       <td>Jimmy McGriff</td>
@@ -180,7 +183,7 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 34</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -301,6 +304,7 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d43c258c71b4620051691cbef7e55edd.png" alt="Cover for Ode To John Law" style="max-width:120px; height:auto;" />
       </td>
       <td>1970-10</td>
       <td>Stone The Crows</td>
@@ -409,6 +413,7 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed032e8a8bda8a3ba081bdc671846365.png" alt="Cover for Zarathustra" style="max-width:120px; height:auto;" />
       </td>
       <td>1971</td>
       <td>Zarathustra</td>
@@ -464,7 +469,7 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/NuOpXFn0veGsrckfoBQmlLJQpj5hsWo5Ud8K97YyvnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTMw/OTktMTQ3OTc1OTU0/Ny0xNzAxLmpwZWc.jpeg" alt="Cover for Move on" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d1ccb21bb0c48f6c8c867764f79a8ae.png" alt="Cover for Move on" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>Epsilon</td>
@@ -502,7 +507,7 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/IGv8jxi9uv8HX5DvQTPRWQScwSka1eQ4stCEe_-0Mos/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMTAz/MzItMTQyMzk1NDU0/NS0xNjU4LmpwZWc.jpeg" alt="Cover for Sunday" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/376013af1a66a7f8229305000954fdb8.png" alt="Cover for Sunday" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>Sunday</td>
@@ -524,7 +529,6 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/iqcD6U7bIF4P-6f2tlAgtGFuKhcJd8siOWVQGjrZVLU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzk2/NDItMTQyMTAwNDkx/MC02MjgxLmpwZWc.jpeg" alt="Cover for Heavy Rock Spectacular" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>Bram Stoker</td>
@@ -585,7 +589,7 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/6m7bw5ww5P7voCgAuJ1a1ZoTNmxcvu-mdW9kN6jv98I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjI1/ODAtMTQ5OTE5MjQw/My00MDc0LmpwZWc.jpeg" alt="Cover for Skeleton In Armour" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1df102635cb43e39847eab80f642028.png" alt="Cover for Skeleton In Armour" style="max-width:120px; height:auto;" />
       </td>
       <td>1973</td>
       <td>Fusion Orchestra</td>
@@ -607,7 +611,7 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
         <ul>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 23</li>
             <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 49</li>
-            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 77</li>
+            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -718,7 +722,7 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 50</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -742,7 +746,7 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
     <tr>
       <td>17</td>
       <td>
-          <img src="https://i.discogs.com/SiS594J0eBscNYBkyCUCEKoHball5TpsQVAtbr4VzN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwOTA4/OS0xMjg3MzQwMzQx/LmpwZWc.jpeg" alt="Cover for The Wildest Organ in Town - Club Meeting" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/30bcb98c7aca339c1bfc884f946f636f.png" alt="Cover for The Wildest Organ in Town - Club Meeting" style="max-width:120px; height:auto;" />
       </td>
       <td>1974</td>
       <td>Billy Preston</td>
@@ -760,6 +764,7 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
     <tr>
       <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4c41a8282ee4a0694f05d094a3d02a7.png" alt="Cover for Atlantis Philharmonic" style="max-width:120px; height:auto;" />
       </td>
       <td>1974</td>
       <td>Atlantis Philharmonic</td>
@@ -796,6 +801,7 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
     <tr>
       <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5083141dadb8f1cae685017d0865359.png" alt="Cover for Fading Beauty" style="max-width:120px; height:auto;" />
       </td>
       <td>1974</td>
       <td>Faithful Breath</td>
@@ -852,7 +858,7 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/a2LnK83tOul6Ggr72GWediHtOdfHfW55d9KWyRENf8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODI3/MzAtMTM3NjI0NDgz/Ny0zMzQ5LmpwZWc.jpeg" alt="Cover for Night On Bald Mountain" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe6ac204248b8a5c726693679171f90d.png" alt="Cover for Night On Bald Mountain" style="max-width:120px; height:auto;" />
       </td>
       <td>1975</td>
       <td>Fireballet</td>
@@ -876,7 +882,7 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/3Iins0tp6FyO3dvyXdkXge4ODqmXlM71eTVsy1Tg4iU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzAz/MC0xMzUyMTM4MDU5/LTc0NzkuanBlZw.jpeg" alt="Cover for J&#39;un Oeil" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e76235889c6571e6b6380f053412c28c.png" alt="Cover for J&#39;un Oeil" style="max-width:120px; height:auto;" />
       </td>
       <td>1975-12</td>
       <td>Sloche</td>
@@ -891,7 +897,7 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 60</li>
+            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 40</li>
             <li> <a href="{{ "/tags/canterbury" | relative_url }}">canterbury</a> # 94</li>
         </ul>
       </td>
@@ -919,7 +925,7 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 12</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1008,7 +1014,7 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 30</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1088,7 +1094,7 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/FjI7TP7s4yMxE13cAevxRnkY1AQLAwWYUgQtdLrTTL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Nzcy/OC0xMzAwMDY3MDYz/LmdpZg.jpeg" alt="Cover for Natt" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f4e8200a4ac1d7f934a307e9265294f.png" alt="Cover for Natt" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Thule</td>
@@ -1127,7 +1133,7 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/_QJiszc_z7RK4y0pxwdzdDeH4EwuigTLScoViQc2JKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjc1/MjAtMTQxNDIyOTQx/OC04OTMyLmpwZWc.jpeg" alt="Cover for The Cat &amp; Other Great Themes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d24e71056ed5b36f73de3f9f84f4dedb.png" alt="Cover for The Cat &amp; Other Great Themes" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Jimmy Smith</td>
@@ -1139,7 +1145,7 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 61</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1161,14 +1167,15 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 19</li>
             <li> <a href="{{ "/tags/jazz-organ" | relative_url }}">jazz organ</a> # 32</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cbf12c5c08dc4154a57d02e3f7112e05.png" alt="Cover for Gothic Impressions" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Pär Lindh Project</td>
@@ -1205,6 +1212,7 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
     <tr>
       <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d92ab37c25548e1998b6a19adabb90d.png" alt="Cover for Damn!" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Jimmy Smith</td>
@@ -1238,7 +1246,7 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
       <td>
         <ul>
             <li> <a href="{{ "/tags/jazz-organ" | relative_url }}">jazz organ</a> # 9</li>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 63</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1298,7 +1306,7 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/rer__DzCAmmLdQue39daEdl-whpkMStqm6RhIK3C8_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjg0/NTEtMTIyNjI2MjM0/Ny5qcGVn.jpeg" alt="Cover for Tyburn Tall" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbe037a0decadd089e9e7e9240e2ed05.png" alt="Cover for Tyburn Tall" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Tyburn Tall</td>
@@ -1320,7 +1328,7 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/ikQa5YIcwRgtqtlxFTi2e-aGyLB7XXTy5oBwyHrxLgk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTc1/NTgtMTM5NzA1NTc1/Ni03MzQ1LmpwZWc.jpeg" alt="Cover for Money Machine" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f37a9a52ddd9a7f61f3b39d203151287.png" alt="Cover for Money Machine" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Bigelf</td>
@@ -1336,7 +1344,7 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 49</li>
+            <li> <a href="{{ "/tags/y2k-prog" | relative_url }}">y2k prog</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1397,14 +1405,14 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 56</li>
+            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/vlhyE9qeQAao7rL4VrNN1Pp0injxP_7-ywyQx6a1GYw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDk5/MDAtMTQ5ODY2MjA5/NC04MTk5LmpwZWc.jpeg" alt="Cover for Afrodesia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4161e9fe16d5c2dec4a278305eb7bcc.png" alt="Cover for Afrodesia" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Lonnie Smith</td>
@@ -1461,7 +1469,7 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/tL3TDkO2tAifwDMefiZwJOhX-pjZsDqaNn0l60DKJcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzcw/MDktMTI3MTUzNjU0/NS5qcGVn.jpeg" alt="Cover for McPhee" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/711595be34b24a69aa86e3735af2be78.png" alt="Cover for McPhee" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>McPhee</td>
@@ -1516,7 +1524,7 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/6ycefUARbO31RTSTt7UU9ZZCX9WQfcTZHVu1AyeciTs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTcz/NDktMTYwNDY4NzE0/My0yNjQwLmpwZWc.jpeg" alt="Cover for Tomorrow&#39;s Blues" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dba283d801ed301bb1633b986ba61ebe.png" alt="Cover for Tomorrow&#39;s Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Colosseum</td>
@@ -1572,7 +1580,7 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
     <tr>
       <td>10</td>
       <td>
-          <img src="https://i.discogs.com/qZtcJzVNrXcx_uy_YYhVzO3vIcHzJfGmpLWnTDe8le8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NTIx/NDQtMTM3MDcxODAx/Ni01MzAwLmpwZWc.jpeg" alt="Cover for Sursum Corda" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e06a5905f8440ed9d4f370f69bf08d3.png" alt="Cover for Sursum Corda" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-11-01</td>
       <td>Quill</td>
@@ -1634,7 +1642,7 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/ZE17ahmkApW5P9Va8Z_QWfrv5KKg5PzF86chx5wvk1M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNDE1/NDktMTQxNDM0MDUx/OS0yNjAwLmpwZWc.jpeg" alt="Cover for Crossroad" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8075e8ba12ed4d06a0d1fc9e6220e818.png" alt="Cover for Crossroad" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Apple Pie</td>
@@ -1650,6 +1658,7 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1671,8 +1680,8 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 52</li>
-            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 60</li>
+            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 35</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1692,7 +1701,7 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 66</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1717,7 +1726,7 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/2baY7jvptSRoOHTrmJMYyRsGGeztONR9J_r83btVoe4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzcw/NDQtMTQ3ODUyODkx/OC02ODAzLmpwZWc.jpeg" alt="Cover for Chain of Foods" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10422fcad86749b2a6f0fc7805beff49.png" alt="Cover for Chain of Foods" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Anti-Depressive Delivery</td>
@@ -1761,7 +1770,7 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/KTVT_YBceJO8GGShR_vnf7NX1eTHGmKFXKc0-yiH6qc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0OTAy/MDQtMTQxNTI3ODgw/Mi00NzEwLmpwZWc.jpeg" alt="Cover for The Marmalade Sessions" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8686af0a092f627a844bdebf6b0f256b.png" alt="Cover for The Marmalade Sessions" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Sven Hammond</td>
@@ -1781,6 +1790,7 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
     <tr>
       <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/621024f4279a445e9baa0c2ab1415142.png" alt="Cover for The Marmalade Sessions" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-02</td>
       <td>Sven Hammond Soul</td>
@@ -1893,7 +1903,7 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/cGKZ0eh0RUPjgQsKz8LLBEeygXIJwXDF4Dh1_wl4qWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDc1/MTYtMTM5Nzg5NDk3/MC0xMzEzLmpwZWc.jpeg" alt="Cover for Deadeye" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7281aa7ec8b8af33168fa835b9a7da3.png" alt="Cover for Deadeye" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-04-05</td>
       <td>Reinier Baas</td>
@@ -1912,6 +1922,47 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
       <td>
         <ul>
             <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 18</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Jecks</td>
+      <td>The Acid Side of Me</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jam" | relative_url }}">jam</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organ" | relative_url }}">organ</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1959,13 +2010,14 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 16</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14f3e8fb26add0830172014d7d04d759.png" alt="Cover for Venetia" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Camera Sintetica</td>
@@ -1990,50 +2042,10 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 8</li>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 18</li>
-            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 38</li>
-            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 53</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Jecks</td>
-      <td>The Acid Side of Me</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bass" | relative_url }}">bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jam" | relative_url }}">jam</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/organ" | relative_url }}">organ</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rave" | relative_url }}">rave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 45</li>
+            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 63</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 84</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -2079,6 +2091,7 @@ The Hammond tag refers to music prominently featuring the Hammond organ, an elec
     <tr>
       <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0db125474627f14779baf5a571011ea1.png" alt="Cover for The JiveCrank" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Jivecrank</td>
