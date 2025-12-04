@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T10:19:28.425Z
+date: 2025-12-03T20:13:35.876Z
 permalink: tags/illbient
 title: illbient
 ---
 
 ## illbient
 
-Last updated: <time datetime="2025-11-23T10:19:28.425Z">Sun Nov 23 2025 12:19:28 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T20:13:35.876Z">Wed Dec 03 2025 22:13:35 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -125,7 +125,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 36</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -190,6 +190,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
     <tr>
       <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f559b8a5c4fe4ab3ca8f1f15f80ebaa8.png" alt="Cover for Silent Weapons for Silent Wars" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-06-06</td>
       <td>Black Lung</td>
@@ -237,7 +238,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 17</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -311,9 +312,9 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 2</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 22</li>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 88</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 13</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 79</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -595,8 +596,8 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 44</li>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 54</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 46</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 49</li>
             <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 93</li>
         </ul>
       </td>
@@ -621,13 +622,14 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 39</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 74</li>
-            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 96</li>
+            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 5</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 42</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 79</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 88</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 98</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 99</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 100</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 99</li>
             <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 100</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -681,12 +683,12 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 43</li>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 77</li>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 78</li>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 81</li>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 81</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 92</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 18</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 19</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 23</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 59</li>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 78</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -709,7 +711,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 4</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -737,7 +739,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 47</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 48</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 97</li>
         </ul>
       </td>
@@ -978,6 +980,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1048,6 +1051,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
     <tr>
       <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c00b79e68b3f4d7cbbfdca7da4f65216.png" alt="Cover for Hednod Sessions" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Mick Harris</td>
@@ -1103,7 +1107,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 47</li>
+            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 54</li>
             <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 67</li>
             <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 86</li>
         </ul>
@@ -1297,7 +1301,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 91</li>
+            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1323,10 +1327,10 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 11</li>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 55</li>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 62</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 63</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 87</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 90</li>
             <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 92</li>
         </ul>
       </td>
@@ -1377,7 +1381,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 37</li>
+            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1406,9 +1410,9 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 22</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 54</li>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 55</li>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 46</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 47</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 78</li>
             <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 85</li>
         </ul>
       </td>
@@ -1416,7 +1420,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/YAW80fQ5f-AhDGg96lcZsCoI8UnyQAp9M6LDGpZB1co/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODY3/MDQtMTMwMDk5MjIz/Ny5qcGVn.jpeg" alt="Cover for Music For A Film" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ffd876c7b910e2bd083b88ff039ca9a.png" alt="Cover for Music For A Film" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-11</td>
       <td>The Silk Demise</td>
@@ -1433,7 +1437,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 12</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 14</li>
             <li> <a href="{{ "/tags/progressive-breaks" | relative_url }}">progressive breaks</a> # 82</li>
         </ul>
       </td>
@@ -1475,7 +1479,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 27</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1533,8 +1537,8 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 3</li>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 31</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 70</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1562,8 +1566,8 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 55</li>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 91</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 8</li>
+            <li> <a href="{{ "/tags/atmospheric-drum-and-bass" | relative_url }}">atmospheric drum and bass</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1644,15 +1648,15 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 1</li>
-            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 71</li>
+            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 30</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/_fRt2PJKt2fz6IL-D80kogfTFySzJKRKd_3aE-9m29s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDg5/MDctMTMzNjg0NDg5/Ny04NzA4LmpwZWc.jpeg" alt="Cover for Exit Strategy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/378347d864f74bbcbff8477d95968062.png" alt="Cover for Exit Strategy" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-12</td>
       <td>Larvae</td>
@@ -1690,6 +1694,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
     <tr>
       <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbd0c1c4ea244968c95d8476a6efd254.png" alt="Cover for Auferstehung" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Oake</td>
@@ -1714,6 +1719,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
     <tr>
       <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34fcfb1aa26746f7c69b69ff8c0c0514.png" alt="Cover for Cannula Coma Legio" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-06-21</td>
       <td>In Slaughter Natives</td>
@@ -1728,7 +1734,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 74</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 26</li>
             <li> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a> # 91</li>
         </ul>
       </td>
@@ -1768,9 +1774,9 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 5</li>
             <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 32</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 33</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 42</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1831,8 +1837,8 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 79</li>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 80</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 81</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1965,16 +1971,16 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 3</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 64</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 68</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 70</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 89</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 1</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 1</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 12</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 29</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 32</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 35</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 96</li>
             <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 97</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 99</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 100</li>
             <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 100</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 100</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 100</li>
             <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 100</li>
             <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 100</li>
         </ul>
@@ -2038,7 +2044,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 34</li>
+            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -2101,7 +2107,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 24</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -2202,7 +2208,7 @@ Illbient emerged from 1990s New York as a darker, more experimental take on ambi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 19</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 20</li>
             <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 64</li>
             <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 70</li>
             <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 81</li>

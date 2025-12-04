@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T05:29:39.407Z
+date: 2025-12-03T19:39:43.642Z
 permalink: tags/musical
 title: musical
 ---
 
 ## musical
 
-Last updated: <time datetime="2025-11-26T05:29:39.407Z">Wed Nov 26 2025 07:29:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T19:39:43.642Z">Wed Dec 03 2025 21:39:43 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -409,7 +409,7 @@ A musical is a form of theatrical performance that combines songs, spoken dialog
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 12</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 89</li>
             <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 92</li>
         </ul>
       </td>
@@ -502,7 +502,7 @@ A musical is a form of theatrical performance that combines songs, spoken dialog
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 69</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -598,7 +598,7 @@ A musical is a form of theatrical performance that combines songs, spoken dialog
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 79</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -908,8 +908,8 @@ A musical is a form of theatrical performance that combines songs, spoken dialog
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 17</li>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 70</li>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -948,7 +948,7 @@ A musical is a form of theatrical performance that combines songs, spoken dialog
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 14</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -970,7 +970,7 @@ A musical is a form of theatrical performance that combines songs, spoken dialog
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 23</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 79</li>
             <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 91</li>
             <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 100</li>
         </ul>
@@ -1172,7 +1172,7 @@ A musical is a form of theatrical performance that combines songs, spoken dialog
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 74</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1305,11 +1305,11 @@ A musical is a form of theatrical performance that combines songs, spoken dialog
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 3</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 4</li>
+            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 5</li>
             <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 95</li>
-            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 96</li>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 97</li>
             <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 98</li>
-            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1333,11 +1333,11 @@ A musical is a form of theatrical performance that combines songs, spoken dialog
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 5</li>
+            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 7</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 7</li>
             <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 92</li>
-            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 94</li>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 94</li>
             <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 95</li>
-            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1361,11 +1361,11 @@ A musical is a form of theatrical performance that combines songs, spoken dialog
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 4</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 5</li>
+            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 6</li>
             <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 94</li>
-            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 95</li>
             <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 96</li>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 96</li>
-            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1407,11 +1407,11 @@ A musical is a form of theatrical performance that combines songs, spoken dialog
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 1</li>
+            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 1</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 1</li>
             <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 99</li>
-            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 100</li>
             <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 100</li>
-            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 100</li>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1473,11 +1473,11 @@ A musical is a form of theatrical performance that combines songs, spoken dialog
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 81</li>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 86</li>
-            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 91</li>
+            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 7</li>
+            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 10</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 20</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 87</li>
             <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 93</li>
-            <li> <a href="{{ "/tags/aussie" | relative_url }}">aussie</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1516,10 +1516,10 @@ A musical is a form of theatrical performance that combines songs, spoken dialog
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 44</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 4</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 6</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 45</li>
             <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 82</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 94</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 97</li>
             <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 98</li>
         </ul>
       </td>
@@ -1650,7 +1650,7 @@ A musical is a form of theatrical performance that combines songs, spoken dialog
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 61</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1690,7 +1690,7 @@ A musical is a form of theatrical performance that combines songs, spoken dialog
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 24</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 77</li>
             <li> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a> # 98</li>
         </ul>
       </td>

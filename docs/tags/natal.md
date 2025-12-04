@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T11:07:21.970Z
+date: 2025-12-03T19:56:43.618Z
 permalink: tags/natal
 title: natal
 ---
 
 ## natal
 
-Last updated: <time datetime="2025-11-15T11:07:21.970Z">Sat Nov 15 2025 13:07:21 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T19:56:43.618Z">Wed Dec 03 2025 21:56:43 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -628,7 +628,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 91</li>
+            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1305,7 +1305,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/KuNSixkp0pHu1_r0MoCvNZW639CvBQKosMoT4Hb91so/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIw/NjU4LTE2MjMxNjg1/NTQtNTAyMi5qcGVn.jpeg" alt="Cover for Mais Um Presente no Saco" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/165614f6887b4dbcbd0a00e40c3a3ec8.png" alt="Cover for Mais Um Presente no Saco" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09</td>
       <td>Marli</td>
@@ -1392,6 +1392,7 @@ Natal refers to music associated with Christmas and the nativity season, derived
     <tr>
       <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c4b100242af775f53d7684e0021b6af.png" alt="Cover for Laborioso Vinho" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Igapó de Almas</td>

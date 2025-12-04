@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T05:33:38.087Z
+date: 2025-12-03T19:57:10.056Z
 permalink: tags/progressive-house
 title: progressive house
 ---
 
 ## progressive house
 
-Last updated: <time datetime="2025-11-26T05:33:38.087Z">Wed Nov 26 2025 07:33:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T19:57:10.056Z">Wed Dec 03 2025 21:57:10 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -141,7 +141,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 93</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 8</li>
             <li> <a href="{{ "/tags/minimal-house" | relative_url }}">minimal house</a> # 99</li>
         </ul>
       </td>
@@ -185,8 +185,8 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 32</li>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 76</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 25</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -206,7 +206,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 88</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -248,9 +248,9 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 2</li>
             <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 31</li>
             <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 56</li>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 99</li>
             <li> <a href="{{ "/tags/portugal" | relative_url }}">portugal</a> # 100</li>
         </ul>
       </td>
@@ -397,7 +397,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 50</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 51</li>
             <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 100</li>
         </ul>
       </td>
@@ -788,11 +788,11 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 62</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 82</li>
-            <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 86</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 88</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 93</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 8</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 13</li>
+            <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 15</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 19</li>
+            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -847,7 +847,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 75</li>
+            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -870,8 +870,8 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 27</li>
             <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 69</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 74</li>
             <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 93</li>
             <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 97</li>
         </ul>
@@ -1021,6 +1021,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1040,10 +1041,10 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 2</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 20</li>
             <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 23</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 81</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 98</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1101,9 +1102,9 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 13</li>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 18</li>
             <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 72</li>
+            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1122,9 +1123,9 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 68</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 69</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 78</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 22</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 32</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1187,7 +1188,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 21</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1340,10 +1341,10 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 61</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 8</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 21</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 40</li>
             <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 75</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 80</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 93</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 100</li>
         </ul>
       </td>
@@ -1443,6 +1444,7 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 1</li>
             <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 87</li>
         </ul>
       </td>
@@ -1830,9 +1832,9 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 17</li>
+            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 7</li>
             <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 35</li>
-            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 93</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1903,12 +1905,12 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 66</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 75</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 21</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 22</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 22</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 26</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 67</li>
             <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 76</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 79</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 79</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 80</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 81</li>
         </ul>
       </td>
@@ -1953,9 +1955,9 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 32</li>
+            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 4</li>
             <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 48</li>
-            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 96</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1996,9 +1998,9 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 71</li>
+            <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 2</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 30</li>
             <li> <a href="{{ "/tags/melodic-techno" | relative_url }}">melodic techno</a> # 99</li>
-            <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2022,9 +2024,9 @@ Progressive house is a subgenre of house music that emerged in the early 1990s. 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 1</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 87</li>
             <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 92</li>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 100</li>
         </ul>
       </td>
     </tr>

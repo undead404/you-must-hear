@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T20:24:29.231Z
+date: 2025-12-03T19:40:18.778Z
 permalink: tags/japan
 title: japan
 ---
 
 ## japan
 
-Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T19:40:18.778Z">Wed Dec 03 2025 21:40:18 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -68,8 +68,8 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 49</li>
-            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 83</li>
+            <li> <a href="{{ "/tags/new-romantic" | relative_url }}">new romantic</a> # 18</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -113,6 +113,7 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
     <tr>
       <td>29</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d94a11ae71e042ed8ce37f76e278828c.png" alt="Cover for silence in everywhere" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Euphoria</td>
@@ -186,7 +187,7 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 28</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 31</li>
             <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 79</li>
         </ul>
       </td>
@@ -278,8 +279,8 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 21</li>
             <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 77</li>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -298,7 +299,7 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 94</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -320,7 +321,7 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 16</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -420,7 +421,7 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-thrash-metal" | relative_url }}">blackened thrash metal</a> # 68</li>
+            <li> <a href="{{ "/tags/blackened-thrash-metal" | relative_url }}">blackened thrash metal</a> # 32</li>
             <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 70</li>
             <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 93</li>
         </ul>
@@ -487,7 +488,7 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 48</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -511,6 +512,7 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
     <tr>
       <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e09cc06a082a43b8829701fe42d4c281.png" alt="Cover for Close Calls With Brick Walls" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-07-05</td>
       <td>Andrew W.K.</td>
@@ -584,10 +586,10 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 3</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 20</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 6</li>
             <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 47</li>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 80</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 72</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -666,7 +668,7 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 82</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -708,7 +710,7 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/YXPZPlB1OgXF8PUKLj7w9sZVWil2WVQ2bzccRCnkXxE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MzY2/NTctMTQ2OTgwNjQ4/Mi0zMDA2LmpwZWc.jpeg" alt="Cover for UNDYING" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc0c94a706c9f86cd4195c22d7b0712b.png" alt="Cover for UNDYING" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-07-24</td>
       <td>the GazettE</td>
@@ -724,7 +726,7 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 69</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -838,7 +840,7 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 37</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -863,7 +865,7 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/CEofvMLTFCNXgMqfRjjwZoCIjtZbGG3QQxlmM14W3vs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODg0/NDc1LTE2MjkxNDQ1/MjAtODg5OS5qcGVn.jpeg" alt="Cover for コクリコ坂から サウンドトラック" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4e42093e5397f9d75adb2731c9760ba.png" alt="Cover for コクリコ坂から サウンドトラック" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-07-13</td>
       <td>Satoshi Takebe</td>
@@ -899,7 +901,7 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 94</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -928,7 +930,7 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/Ma1jvJayR7zKZPfuMRjORwPdk1UWCIV-9_7_plQ6arg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTQx/MzQtMTMyNDM2Njc2/MS5qcGVn.jpeg" alt="Cover for Tick Tack" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3fb003958e3491d857834acdf98bf74.png" alt="Cover for Tick Tack" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-14</td>
       <td>U-KISS</td>
@@ -963,8 +965,8 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 29</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 40</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 32</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1044,7 +1046,7 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 46</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1124,7 +1126,7 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 34</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1203,14 +1205,14 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 16</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 16</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 36</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 41</li>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 49</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 37</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 52</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 52</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 60</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 67</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 69</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1304,26 +1306,26 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 22</li>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 27</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 29</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 8</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 8</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 10</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 28</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 30</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 32</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 35</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 39</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 39</li>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 41</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 46</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 53</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 55</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 59</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 65</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 77</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 36</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 37</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 41</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 42</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 44</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 47</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 54</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 61</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 78</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 79</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 90</li>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 91</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 91</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 92</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 93</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1363,7 +1365,7 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 41</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1406,9 +1408,9 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 13</li>
+            <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 20</li>
             <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 49</li>
-            <li> <a href="{{ "/tags/neurofunk" | relative_url }}">neurofunk</a> # 81</li>
-            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1433,7 +1435,7 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 49</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1451,7 +1453,7 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 62</li>
+            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1517,7 +1519,7 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 28</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1612,7 +1614,7 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 92</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1648,7 +1650,7 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 88</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1691,8 +1693,8 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 64</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 94</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 7</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 69</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 97</li>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 100</li>
             <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 100</li>
@@ -1733,8 +1735,8 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 6</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 41</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 9</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1756,7 +1758,7 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 45</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1780,9 +1782,9 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 35</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 38</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 51</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 40</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 42</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1827,8 +1829,8 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 23</li>
-            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 80</li>
+            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 21</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1890,8 +1892,8 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 15</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 24</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 18</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1932,9 +1934,9 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 90</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 97</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 98</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 3</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 4</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1953,7 +1955,6 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japan" | relative_url }}">japan</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a></li>
@@ -1961,9 +1962,9 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 85</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 89</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 96</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 7</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 12</li>
+            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1985,9 +1986,9 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 64</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 2</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 35</li>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 69</li>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2008,7 +2009,7 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 37</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -2069,8 +2070,8 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 9</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 43</li>
+            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 10</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 57</li>
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 88</li>
         </ul>
       </td>
@@ -2147,8 +2148,8 @@ Last updated: <time datetime="2025-11-19T20:24:29.231Z">Wed Nov 19 2025 22:24:29
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 8</li>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 91</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 93</li>
             <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 94</li>
             <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 99</li>
         </ul>
