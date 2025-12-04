@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T18:03:59.751Z
+date: 2025-12-04T14:50:59.425Z
 permalink: tags/frenchcore
 title: frenchcore
 ---
 
 ## frenchcore
 
-Last updated: <time datetime="2025-11-25T18:03:59.751Z">Tue Nov 25 2025 20:03:59 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T14:50:59.425Z">Thu Dec 04 2025 16:50:59 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -64,7 +64,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 23</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -151,7 +151,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 2</li>
+            <li> <a href="{{ "/tags/skacore" | relative_url }}">skacore</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -331,7 +331,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 26</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -485,7 +485,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 7</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -563,9 +563,9 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 30</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 36</li>
-            <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 72</li>
+            <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 29</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 65</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -624,7 +624,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 79</li>
+            <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -665,7 +665,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 32</li>
+            <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -847,7 +847,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 4</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -869,8 +869,8 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 40</li>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 40</li>
+            <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 61</li>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1105,7 +1105,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 33</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 34</li>
             <li> <a href="{{ "/tags/rawstyle" | relative_url }}">rawstyle</a> # 99</li>
         </ul>
       </td>
@@ -1184,8 +1184,8 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 60</li>
-            <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 61</li>
+            <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 40</li>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1440,7 +1440,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 28</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1553,7 +1553,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 4</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1592,7 +1592,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 90</li>
+            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1651,7 +1651,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       <td>
         <ul>
             <li> <a href="{{ "/tags/rawstyle" | relative_url }}">rawstyle</a> # 15</li>
-            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 42</li>
+            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1712,7 +1712,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 50</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1778,8 +1778,8 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 26</li>
             <li> <a href="{{ "/tags/terrorcore" | relative_url }}">terrorcore</a> # 49</li>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1800,7 +1800,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 43</li>
+            <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1840,7 +1840,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 51</li>
+            <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 50</li>
             <li> <a href="{{ "/tags/rawstyle" | relative_url }}">rawstyle</a> # 100</li>
         </ul>
       </td>
@@ -1953,7 +1953,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 48</li>
+            <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1975,7 +1975,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 50</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 51</li>
             <li> <a href="{{ "/tags/sextrance" | relative_url }}">sextrance</a> # 81</li>
         </ul>
       </td>
@@ -1997,7 +1997,7 @@ Frenchcore is an aggressive subgenre of hardcore techno characterized by distort
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 12</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 89</li>
         </ul>
       </td>
     </tr>

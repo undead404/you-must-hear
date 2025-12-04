@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T09:07:20.062Z
+date: 2025-12-04T15:11:45.917Z
 permalink: tags/ostrock
 title: ostrock
 ---
 
 ## ostrock
 
-Last updated: <time datetime="2025-10-22T09:07:20.062Z">Wed Oct 22 2025 12:07:20 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T15:11:45.917Z">Thu Dec 04 2025 17:11:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -103,6 +103,7 @@ Ostrock refers to rock music produced in East Germany (GDR) during the Cold War 
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/93715cc0e4ae847551dba51e96b5e7a5.png" alt="Cover for City" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>City</td>
@@ -874,7 +875,7 @@ Ostrock refers to rock music produced in East Germany (GDR) during the Cold War 
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/8XGwEeAVVtQ0AP5XyEbdaJ0pRSq7k2tPJZ0ShAle3Os/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NjIz/MS0xNDYxOTQzMDkw/LTE2ODIuanBlZw.jpeg" alt="Cover for Folk Blues Best" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4464eac41ad3770a88b3aa6912e6c42.png" alt="Cover for Folk Blues Best" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Stefan Diestelmann</td>
@@ -1016,7 +1017,7 @@ Ostrock refers to rock music produced in East Germany (GDR) during the Cold War 
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/jIKkf5grzeFLcSemsQXopzKK40zEgKNpX8REuZNMxxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDIx/NTYtMTM0MDk1NjQ3/Mi01NzM1LmpwZWc.jpeg" alt="Cover for Best" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/987106916ebe446a8ef93b67db289f5c.png" alt="Cover for Best" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Petra Zieger</td>
@@ -1231,7 +1232,7 @@ Ostrock refers to rock music produced in East Germany (GDR) during the Cold War 
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/Bkf7b5-RctNNX2I8YvSEcbLSq3sSFEaJAIJSV_kyfMk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTA1/NDU1LTE1MjQ1ODYy/NjItMjk5MC5qcGVn.jpeg" alt="Cover for Classics &amp; Unplugged" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f76ba7e201ed460ca15acb5441506e9d.png" alt="Cover for Classics &amp; Unplugged" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Lift</td>
@@ -1633,7 +1634,7 @@ Ostrock refers to rock music produced in East Germany (GDR) during the Cold War 
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/9Y9WTitg8dHn12Su7sQLZMs0Ne9jmR_J1iym4d3Xamk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMjEx/NTAtMTQ1OTI1MTg0/MC0zNDkwLmpwZWc.jpeg" alt="Cover for Die Original Alben" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a00e5260bd53405bb0ead9561c42b2af.png" alt="Cover for Die Original Alben" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Electra</td>
@@ -1669,7 +1670,7 @@ Ostrock refers to rock music produced in East Germany (GDR) during the Cold War 
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/zaRZytYM5MI631NO3--nxtKAzuLUQWTs12AowMnedic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzIx/NDAtMTYxOTkzODA0/NC03MzY5LnBuZw.jpeg" alt="Cover for Karat - Die große Jubiläums-Edition" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40fe4355d39947af9e7664baf4bdd246.png" alt="Cover for Karat - Die große Jubiläums-Edition" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Karat</td>
@@ -1688,7 +1689,7 @@ Ostrock refers to rock music produced in East Germany (GDR) during the Cold War 
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/RegpFLGLWVXxCjcwL-q-h7dRtbQGTswEocP48buXpzY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NjU5/MjItMTQ4OTM5MDAz/OS0zNjk0LmpwZWc.jpeg" alt="Cover for Leben möcht&#39; ich" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf9a2e3228844d01cd43bf4c2937a821.png" alt="Cover for Leben möcht&#39; ich" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Stern Combo Meissen</td>
@@ -1706,7 +1707,7 @@ Ostrock refers to rock music produced in East Germany (GDR) during the Cold War 
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/ZoEToXHE-BhhuirogDDzyDru-qzP4qpIZ2-qpNWCuFQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE2/NDYyLTE1NjUxMTE4/NzQtNjYyNS5qcGVn.jpeg" alt="Cover for Original Album Classics" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d1dca180c944f4e9544cdae96fa52cc.png" alt="Cover for Original Album Classics" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-19</td>
       <td>Silly</td>
@@ -1726,7 +1727,7 @@ Ostrock refers to rock music produced in East Germany (GDR) during the Cold War 
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/Lng4M1nUZDjyWzrK9fhKNY5UTl6TNAF28OvI2MkE2cI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Mjc0/MjktMTUxNDM5OTgy/MS00NDA0LmpwZWc.jpeg" alt="Cover for Die Original Amiga Alben" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/33ee4c47439b4cc1cc426cf8cdacb34f.png" alt="Cover for Die Original Amiga Alben" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-19</td>
       <td>Silly</td>
@@ -1814,6 +1815,7 @@ Ostrock refers to rock music produced in East Germany (GDR) during the Cold War 
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f9ba80d6a61468ba4c9680f5a9e99c6.png" alt="Cover for Wenn der Abend kommt&#x2F;Circulus" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Holger Biege</td>

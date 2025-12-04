@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T09:04:20.347Z
+date: 2025-12-04T14:35:03.149Z
 permalink: tags/martial
 title: martial
 ---
 
 ## martial
 
-Last updated: <time datetime="2025-10-22T09:04:20.347Z">Wed Oct 22 2025 12:04:20 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T14:35:03.149Z">Thu Dec 04 2025 16:35:03 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -138,7 +138,7 @@ Martial music evokes militaristic themes through marching rhythms, orchestral ar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 71</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -164,7 +164,7 @@ Martial music evokes militaristic themes through marching rhythms, orchestral ar
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/bLC2SECJTBKKhid-XMCDASbAgRXyqUGsRau49UEg5lo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzc2/MC0xMTA1MTA5OTk0/LmpwZw.jpeg" alt="Cover for Lesson 1: Misanthropy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0ad9d8323534290a04a762af6af3167.png" alt="Cover for Lesson 1: Misanthropy" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Death in June</td>
@@ -277,7 +277,7 @@ Martial music evokes militaristic themes through marching rhythms, orchestral ar
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/SsDM6E6XEK8cZhSyR6O6Dz5k3oqoQJ66mrlerLnZAY4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNTU2/LTExNzIwMDYzMTEu/anBlZw.jpeg" alt="Cover for Sacrosancts Bleed" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/53a5f1d7f5ef4052bfc2b0d7344c066d.png" alt="Cover for Sacrosancts Bleed" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>In Slaughter Natives</td>
@@ -291,7 +291,7 @@ Martial music evokes militaristic themes through marching rhythms, orchestral ar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 52</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -350,7 +350,7 @@ Martial music evokes militaristic themes through marching rhythms, orchestral ar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 14</li>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -372,13 +372,14 @@ Martial music evokes militaristic themes through marching rhythms, orchestral ar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 19</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d9319a2a5e14767989322eb481dac53.png" alt="Cover for Hymn of Deceased Deities" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Consono</td>
@@ -417,7 +418,7 @@ Martial music evokes militaristic themes through marching rhythms, orchestral ar
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/7g31nkJwM3MPjLnXBUdNNIoWBqshBTAPzILwEIAzz0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTUz/Ny0xMTg3OTgzOTM4/LmpwZWc.jpeg" alt="Cover for Purgate My Stain" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/66435bd148534113920bcc4ab7d2b964.png" alt="Cover for Purgate My Stain" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>In Slaughter Natives</td>
@@ -468,13 +469,14 @@ Martial music evokes militaristic themes through marching rhythms, orchestral ar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 3</li>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd60a6dbbe4544f68883d3f848bc2e31.png" alt="Cover for God Sound" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Boogiemonsters</td>
@@ -493,7 +495,7 @@ Martial music evokes militaristic themes through marching rhythms, orchestral ar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 87</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -648,14 +650,14 @@ Martial music evokes militaristic themes through marching rhythms, orchestral ar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 77</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/Qb-Hf4P4bEzds2IA6qwXpVLJzOVQub45b1zW8uB0Mvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjUz/MC0xMzM3MTE1Mjk0/LTQ4NzUuanBlZw.jpeg" alt="Cover for Iron Avantgarde" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4cc5bd42d2cc4e3ace42c7ca965bf265.png" alt="Cover for Iron Avantgarde" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Kreuzweg Ost</td>
@@ -669,7 +671,7 @@ Martial music evokes militaristic themes through marching rhythms, orchestral ar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 58</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -730,7 +732,7 @@ Martial music evokes militaristic themes through marching rhythms, orchestral ar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 35</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -849,6 +851,7 @@ Martial music evokes militaristic themes through marching rhythms, orchestral ar
     <tr>
       <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f588fbb8594775d4b8e1d3a1a61f817b.png" alt="Cover for Marching on to Victory" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-10</td>
       <td>Arditi</td>
@@ -867,7 +870,7 @@ Martial music evokes militaristic themes through marching rhythms, orchestral ar
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/2Prp5nDBm-rO05S2CpjpuYc-2UV-zrLSI9SOM2oZtQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDg1/Ni0xNTI0NzYzNDE4/LTIyOTIuanBlZw.jpeg" alt="Cover for Deconstruction of the World" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/37bd8fd85246be30c09eb65d7f7c7152.png" alt="Cover for Deconstruction of the World" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-11</td>
       <td>Sophia</td>
@@ -885,7 +888,7 @@ Martial music evokes militaristic themes through marching rhythms, orchestral ar
     <tr>
       <td>3</td>
       <td>
-          <img src="https://i.discogs.com/qNUVD-AcMj0d_6kNlSHuFdeFd1UJAT-3z2MqBTMZE9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTcw/Mi0xNTA2NDUyMTUw/LTgwMDQuanBlZw.jpeg" alt="Cover for Monuments" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a664c9545185445ac42b89f137819311.png" alt="Cover for Monuments" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>A Challenge of Honour</td>
@@ -898,14 +901,14 @@ Martial music evokes militaristic themes through marching rhythms, orchestral ar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 31</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/QFz8KmeYVqQ7W5NTYpJ0bKnxAchuLiduAzs9867F52o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njk1/OS0xNDI4NzIxNDI1/LTMyMDYuanBlZw.jpeg" alt="Cover for Mass Murderer" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6faef9e728e24958bdf1d651266ba2ab.png" alt="Cover for Mass Murderer" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Omnicore</td>
@@ -926,6 +929,7 @@ Martial music evokes militaristic themes through marching rhythms, orchestral ar
     <tr>
       <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f16818efad68c66f3cd8b6bcca48153.png" alt="Cover for Karjalasta kajahtaa" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-05</td>
       <td>Karjalan Sissit</td>
@@ -964,7 +968,7 @@ Martial music evokes militaristic themes through marching rhythms, orchestral ar
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/h7LBbwPLndr7pxbUiiZIKc_HMBvOtL87iTw8ZruC6ec/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDUz/Ni0xNTg5NjU3OTky/LTUxNzAuanBlZw.jpeg" alt="Cover for Interim" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc59162506e64e8bceed4eceeb90d55d.png" alt="Cover for Interim" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-06-10</td>
       <td>The Protagonist</td>
@@ -1016,7 +1020,7 @@ Martial music evokes militaristic themes through marching rhythms, orchestral ar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 38</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 39</li>
             <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 50</li>
         </ul>
       </td>
@@ -1062,7 +1066,7 @@ Martial music evokes militaristic themes through marching rhythms, orchestral ar
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/k41rlcr6gh-eVTyZSuorGe0hClwgx1_2LfgLfY_zKKM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTk5/OC0xNjcxNzExMDEy/LTk5NDEuanBlZw.jpeg" alt="Cover for Vondel&#39;s Lucifer - First Movement" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee6f5b285516e9357e1f7f1c4e4370b8.png" alt="Cover for Vondel&#39;s Lucifer - First Movement" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-08</td>
       <td>H.E.R.R.</td>
@@ -1095,15 +1099,16 @@ Martial music evokes militaristic themes through marching rhythms, orchestral ar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 4</li>
             <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 15</li>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 76</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 79</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4964f5abe6046cd23ca6a1d25fb36cb.png" alt="Cover for Le Paradise Funèbre, L&#39;Envers Du Tristesse" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-11-14</td>
       <td>Der Blaue Reiter</td>
@@ -1175,7 +1180,7 @@ Martial music evokes militaristic themes through marching rhythms, orchestral ar
       <td>
         <ul>
             <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 5</li>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 64</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1201,6 +1206,7 @@ Martial music evokes militaristic themes through marching rhythms, orchestral ar
     <tr>
       <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf94b7c099a14057a4d2396c373bd29a.png" alt="Cover for Elegy" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-12</td>
       <td>Across the Rubicon</td>
@@ -1212,7 +1218,7 @@ Martial music evokes militaristic themes through marching rhythms, orchestral ar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 68</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1238,7 +1244,7 @@ Martial music evokes militaristic themes through marching rhythms, orchestral ar
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/QA9tKmKtUr2rlbbjIZx6dKfBiwFfABkKovE5B2TVSFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjQ2/MzctMTIzMjkwMjIx/NS5qcGVn.jpeg" alt="Cover for Discipline of the Shadows" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/32e6bf60112ad39b53ffdfaf53d03b48.png" alt="Cover for Discipline of the Shadows" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Kazeria</td>
@@ -1318,7 +1324,7 @@ Martial music evokes militaristic themes through marching rhythms, orchestral ar
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/7OaK-eOwVL1toG8GlGgl2b6cXz7OxGpqxJROTyPvmwo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTE5/OTEtMTIyMzkyOTgw/NS5qcGVn.jpeg" alt="Cover for Memoria" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/421e1c2218c02448b2e1a8f2b9d88398.png" alt="Cover for Memoria" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-10-10</td>
       <td>Leger Des Heils</td>
@@ -1454,7 +1460,7 @@ Martial music evokes militaristic themes through marching rhythms, orchestral ar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 7</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 11</li>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 95</li>
         </ul>
       </td>
@@ -1481,6 +1487,7 @@ Martial music evokes militaristic themes through marching rhythms, orchestral ar
     <tr>
       <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/88fcecade3dd43d1b62553104befde73.png" alt="Cover for Le Silence des Ruines" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-02-01</td>
       <td>Le Silence des Ruines</td>
@@ -1527,7 +1534,7 @@ Martial music evokes militaristic themes through marching rhythms, orchestral ar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 38</li>
+            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1613,6 +1620,7 @@ Martial music evokes militaristic themes through marching rhythms, orchestral ar
     <tr>
       <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7640939c66b54093938af1ddc47c13e2.png" alt="Cover for Gott Mit Uns" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-01-09</td>
       <td>Kreuzweg Ost</td>
@@ -1625,13 +1633,14 @@ Martial music evokes militaristic themes through marching rhythms, orchestral ar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 87</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>12</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e6b79731aa04442920716596c51bf13.png" alt="Cover for Liber Corvus" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-10</td>
       <td>Kazeria</td>
@@ -1650,7 +1659,7 @@ Martial music evokes militaristic themes through marching rhythms, orchestral ar
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/u2YymOlne4Fy5esajkXg6dtLw4e2PT1YrvH34iJUdMs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTcw/MjMtMTMzNzUzMzA2/NC02NTg4LmpwZWc.jpeg" alt="Cover for Antibiotikx Misrepresentative" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e61a04cf26349588f46fa04f1a95025.png" alt="Cover for Antibiotikx Misrepresentative" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-22</td>
       <td>Lucario</td>
@@ -1664,7 +1673,7 @@ Martial music evokes militaristic themes through marching rhythms, orchestral ar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 11</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1811,7 +1820,7 @@ Martial music evokes militaristic themes through marching rhythms, orchestral ar
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/fU5i7sHaqYfo6CIOPEmg9FBYaebLjbSAB19GuX8dNm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NTE5/NzItMTQzODc2MDA0/OS0zMjQ4LmpwZWc.jpeg" alt="Cover for Demagogie" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5f637a47c74e7c80916bcaf0eb656db.png" alt="Cover for Demagogie" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-04-01</td>
       <td>Waffenruhe</td>

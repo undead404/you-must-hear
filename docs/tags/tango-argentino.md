@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T09:06:25.394Z
+date: 2025-12-04T14:55:46.403Z
 permalink: tags/tango-argentino
 title: tango argentino
 ---
 
 ## tango argentino
 
-Last updated: <time datetime="2025-10-22T09:06:25.394Z">Wed Oct 22 2025 12:06:25 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T14:55:46.403Z">Thu Dec 04 2025 16:55:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -134,7 +134,7 @@ Tango argentino is the passionate, melancholic music born in Buenos Aires in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 72</li>
+            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -317,7 +317,7 @@ Tango argentino is the passionate, melancholic music born in Buenos Aires in the
       <td>
         <ul>
             <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 15</li>
-            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 66</li>
+            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -555,7 +555,7 @@ Tango argentino is the passionate, melancholic music born in Buenos Aires in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 5</li>
+            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -648,7 +648,7 @@ Tango argentino is the passionate, melancholic music born in Buenos Aires in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 69</li>
+            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1016,8 +1016,8 @@ Tango argentino is the passionate, melancholic music born in Buenos Aires in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 45</li>
-            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 76</li>
+            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 56</li>
+            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1109,7 +1109,7 @@ Tango argentino is the passionate, melancholic music born in Buenos Aires in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 39</li>
+            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1170,6 +1170,7 @@ Tango argentino is the passionate, melancholic music born in Buenos Aires in the
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/575f0eabefdca42a015b10c006fb894c.png" alt="Cover for Soledad" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Soledad</td>
@@ -1184,8 +1185,8 @@ Tango argentino is the passionate, melancholic music born in Buenos Aires in the
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 14</li>
             <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 51</li>
-            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1240,7 +1241,7 @@ Tango argentino is the passionate, melancholic music born in Buenos Aires in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 8</li>
+            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1330,7 +1331,7 @@ Tango argentino is the passionate, melancholic music born in Buenos Aires in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 57</li>
+            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1349,7 +1350,7 @@ Tango argentino is the passionate, melancholic music born in Buenos Aires in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 70</li>
+            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1405,7 +1406,7 @@ Tango argentino is the passionate, melancholic music born in Buenos Aires in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 11</li>
+            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1478,14 +1479,13 @@ Tango argentino is the passionate, melancholic music born in Buenos Aires in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 19</li>
+            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/RnQD9c5zh0f5KkBN16Ggj7lBML1nXItBFGL4jYhKYes/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzE1/NTQyLTE1MDI5NTk1/MjAtMzEwMS5qcGVn.jpeg" alt="Cover for Lo que vendrá" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10-26</td>
       <td>Orquesta Típica Tangarte</td>
@@ -1627,6 +1627,26 @@ Tango argentino is the passionate, melancholic music born in Buenos Aires in the
       </td>
     </tr>
     <tr>
+      <td>21</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/381a593e0e034f89b61ede69f0257d7a.png" alt="Cover for Una Flor Y Dos Corazones" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Medialuna Tango Project</td>
+      <td>Una Flor Y Dos Corazones</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tango" | relative_url }}">tango</a></li>
+            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 1</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>94</td>
       <td>
       </td>
@@ -1641,7 +1661,7 @@ Tango argentino is the passionate, melancholic music born in Buenos Aires in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 60</li>
+            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1660,7 +1680,7 @@ Tango argentino is the passionate, melancholic music born in Buenos Aires in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 40</li>
+            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1679,7 +1699,7 @@ Tango argentino is the passionate, melancholic music born in Buenos Aires in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 62</li>
+            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1711,24 +1731,6 @@ Tango argentino is the passionate, melancholic music born in Buenos Aires in the
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tango" | relative_url }}">tango</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tango-argentino" | relative_url }}">tango argentino</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>21</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Medialuna Tango Project</td>
-      <td>Una Flor Y Dos Corazones</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tango" | relative_url }}">tango</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a></li>
         </ul>
       </td>
       <td>

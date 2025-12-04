@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T09:07:11.410Z
+date: 2025-12-04T14:55:57.589Z
 permalink: tags/hebrew
 title: hebrew
 ---
 
 ## hebrew
 
-Last updated: <time datetime="2025-10-22T09:07:11.410Z">Wed Oct 22 2025 12:07:11 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T14:55:57.589Z">Thu Dec 04 2025 16:55:57 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,9 +29,9 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
   </thead>
   <tbody>
     <tr>
-      <td>8</td>
+      <td>92</td>
       <td>
-          <img src="https://i.discogs.com/5tYWyL7EW002X51TC6XDb8AQS5nRevQJGJ8W8b_hNMs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NTU2/MDMtMTQyMDk5NTk3/Ni01ODIzLmpwZWc.jpeg" alt="Cover for Jewish Folk Songs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/947a847063ae4e4dcefbf0bfd94ec4dc.png" alt="Cover for Jewish Folk Songs" style="max-width:120px; height:auto;" />
       </td>
       <td>1959</td>
       <td>Ruth Rubin</td>
@@ -53,9 +53,9 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
-          <img src="https://i.discogs.com/GGVD8C9Y2sDe-WUAET-AHxx3GqV4g36kJUuhdxMUBbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MTUx/NTgtMTQxMDQ0MjY4/OS03NDk0LmpwZWc.jpeg" alt="Cover for Rabbi Shlomo Carlebach Sings" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af631db0d9fe46438d33cde7e086a5db.png" alt="Cover for Rabbi Shlomo Carlebach Sings" style="max-width:120px; height:auto;" />
       </td>
       <td>1962</td>
       <td>Shlomo Carlebach</td>
@@ -73,7 +73,7 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/kJHF7I4rrHqkeVC4a_d8VTbg6fwGIo1KUgxUJwNzbLo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTAz/NzYtMTUxMzM2MzM5/Ny05NTg2LmpwZWc.jpeg" alt="Cover for Shalom-Kaikki rakkaimmat lauluni" style="max-width:120px; height:auto;" />
       </td>
@@ -93,7 +93,25 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>20</td>
+      <td>
+          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Hebrew Music" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1977</td>
+      <td>Various Artists</td>
+      <td>Hebrew Music</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/KwRwSKCEDJI4awpFYOMfCgVbxsi1p6jXwDqVlGRVEBY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjAz/ODkzLTE2MDUyMTY5/MzItNTk2OC5qcGVn.jpeg" alt="Cover for Day Of Judgement-Yom Kippur War Song" style="max-width:120px; height:auto;" />
       </td>
@@ -112,25 +130,7 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
     </tr>
     <tr>
-      <td>80</td>
-      <td>
-          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Hebrew Music" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1977</td>
-      <td>Various Artists</td>
-      <td>Hebrew Music</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>61</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/-1h42Hzu7RmbIbrNkCTVcCid7j6-lXMvoH1tQPizxt0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODI3/OTQ0LTE1NjIwMTc5/MTYtNDEzNy5qcGVn.jpeg" alt="Cover for (live 2003) בציר טוב" style="max-width:120px; height:auto;" />
       </td>
@@ -146,12 +146,12 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 28</li>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/-3hxLbePLqTgbLhfOBUibwqzLh98aj9QQpOsOXTr3As/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTc4/MTcyLTE2MTIyMjcy/MzYtNTI4NS5qcGVn.jpeg" alt="Cover for Chai" style="max-width:120px; height:auto;" />
       </td>
@@ -170,7 +170,7 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>15</td>
       <td>
       </td>
       <td>1983</td>
@@ -187,7 +187,7 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
       </td>
       <td>1983-06</td>
@@ -203,12 +203,12 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a> # 10</li>
+            <li> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
       </td>
       <td>1984-01-01</td>
@@ -225,17 +225,16 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>44</td>
       <td>
-          <img src="https://i.discogs.com/iA_5KeT65Eu3vQgnUH_FHZs-jJ-4BdlY16KZuZiAg3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODcz/MDQ5LTE1ODMyMjA5/NzktMTA1Mi5qcGVn.jpeg" alt="Cover for זה בא במפתיע &#x2F; 2001" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/iA_5KeT65Eu3vQgnUH_FHZs-jJ-4BdlY16KZuZiAg3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODcz/MDQ5LTE1ODMyMjA5/NzktMTA1Mi5qcGVn.jpeg" alt="Cover for מה שנשאר" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Ilan Virtzberg</td>
-      <td>זה בא במפתיע &#x2F; 2001</td>
+      <td>מה שנשאר</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
         </ul>
       </td>
       <td>
@@ -244,26 +243,7 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
     </tr>
     <tr>
-      <td>25</td>
-      <td>
-          <img src="https://i.discogs.com/_IAcKKHY_cnGlMbT5GReDBoTeI__K16txRibSSwFixE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2Nzcy/ODUtMTQ4NDYwNzk2/MC0yMTk5LmpwZWc.jpeg" alt="Cover for זמן הגיטרות &#x2F; Guitar Time (2004)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1985</td>
-      <td>Ilan Virtzberg</td>
-      <td>זמן הגיטרות &#x2F; Guitar Time (2004)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/iA_5KeT65Eu3vQgnUH_FHZs-jJ-4BdlY16KZuZiAg3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODcz/MDQ5LTE1ODMyMjA5/NzktMTA1Mi5qcGVn.jpeg" alt="Cover for משני צדי הכדור - Both Sides Of The Spere (1985)" style="max-width:120px; height:auto;" />
       </td>
@@ -282,16 +262,17 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>76</td>
       <td>
-          <img src="https://i.discogs.com/iA_5KeT65Eu3vQgnUH_FHZs-jJ-4BdlY16KZuZiAg3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODcz/MDQ5LTE1ODMyMjA5/NzktMTA1Mi5qcGVn.jpeg" alt="Cover for מה שנשאר" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/_IAcKKHY_cnGlMbT5GReDBoTeI__K16txRibSSwFixE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2Nzcy/ODUtMTQ4NDYwNzk2/MC0yMTk5LmpwZWc.jpeg" alt="Cover for זמן הגיטרות &#x2F; Guitar Time (2004)" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Ilan Virtzberg</td>
-      <td>מה שנשאר</td>
+      <td>זמן הגיטרות &#x2F; Guitar Time (2004)</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
         </ul>
       </td>
       <td>
@@ -300,28 +281,26 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>82</td>
       <td>
+          <img src="https://i.discogs.com/iA_5KeT65Eu3vQgnUH_FHZs-jJ-4BdlY16KZuZiAg3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODcz/MDQ5LTE1ODMyMjA5/NzktMTA1Mi5qcGVn.jpeg" alt="Cover for זה בא במפתיע &#x2F; 2001" style="max-width:120px; height:auto;" />
       </td>
-      <td>1986</td>
-      <td>Mylon LeFevre &amp; Broken Heart</td>
-      <td>Sheep in Wolves Clothing</td>
+      <td>1985</td>
+      <td>Ilan Virtzberg</td>
+      <td>זה בא במפתיע &#x2F; 2001</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/GXicY3E8B-oMN0Q7qdeKTcoC9jvIfZ6bv66mZv3ehys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTgx/NjQtMTI1MDk1NDIy/NC5qcGVn.jpeg" alt="Cover for Kim Boyce" style="max-width:120px; height:auto;" />
       </td>
@@ -338,30 +317,33 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a> # 42</li>
+            <li> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>49</td>
       <td>
-          <img src="https://i.discogs.com/vbXk8-nrwf4uHr1gfcdWWjJJHPMWnbg9whEoUuV8jH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDY4/MzItMTI4ODE5ODA4/Ny5qcGVn.jpeg" alt="Cover for The Ministry Years, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
-      <td>1987</td>
-      <td>Keith Green</td>
-      <td>The Ministry Years, Vol. 1</td>
+      <td>1986</td>
+      <td>Mylon LeFevre &amp; Broken Heart</td>
+      <td>Sheep in Wolves Clothing</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a> # 66</li>
+            <li> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/WxS4bpm8nsDXqTpVRc7iNuvy671B3_RuOHQRpnMKnAo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzIy/NzItMTM0MjE1NTYw/Ny02ODkyLmpwZWc.jpeg" alt="Cover for The Ministry Years, Vol. 2" style="max-width:120px; height:auto;" />
       </td>
@@ -374,13 +356,31 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 18</li>
-            <li> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a> # 78</li>
+            <li> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a> # 22</li>
+            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>27</td>
+      <td>
+          <img src="https://i.discogs.com/vbXk8-nrwf4uHr1gfcdWWjJJHPMWnbg9whEoUuV8jH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDY4/MzItMTI4ODE5ODA4/Ny5qcGVn.jpeg" alt="Cover for The Ministry Years, Vol. 1" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>Keith Green</td>
+      <td>The Ministry Years, Vol. 1</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a> # 34</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>50</td>
       <td>
           <img src="https://i.discogs.com/x40Biyq5mOTcJWBRcxor6TcFvSIn9NNT4FEruSMs1Po/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjYz/MDUtMTU5ODcxMDk3/NC05Mzg5LmpwZWc.jpeg" alt="Cover for חתוך תוכן" style="max-width:120px; height:auto;" />
       </td>
@@ -396,12 +396,12 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 9</li>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>31</td>
       <td>
       </td>
       <td>1989-01</td>
@@ -416,12 +416,12 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 42</li>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/oIi_F5H6Vn8XFiAM0kAT5NntZ98ZDq1HzzsfaoHkHjE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwODkx/OS0xNDIwMjA4MzQ5/LTUwMTYuanBlZw.jpeg" alt="Cover for As Kosher As They Wanna Be" style="max-width:120px; height:auto;" />
       </td>
@@ -440,7 +440,7 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/Ww7i_J1P-nCYcjueRsaQOZbErish2SffUPtbgXFE0Zw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODE5/ODctMTY0MTQwMDY3/OS0yNjYxLmpwZWc.jpeg" alt="Cover for Plastic Venus" style="max-width:120px; height:auto;" />
       </td>
@@ -457,12 +457,12 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 78</li>
+            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>93</td>
       <td>
       </td>
       <td>1993</td>
@@ -479,7 +479,7 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
       </td>
       <td>1993-12-28</td>
@@ -497,7 +497,7 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/N7IpVSqlz3c1Uapl7nqw6C0W2Aa__c4ZgTPEKb_R3oU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjEx/MC0xMzQzNjU5ODY2/LTU5NzUuanBlZw.jpeg" alt="Cover for Rainbirds" style="max-width:120px; height:auto;" />
       </td>
@@ -519,7 +519,7 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>24</td>
       <td>
       </td>
       <td>1996-05</td>
@@ -536,7 +536,7 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
       </td>
       <td>1997</td>
@@ -552,14 +552,14 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a> # 16</li>
+            <li> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>23</td>
       <td>
-          <img src="https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg" alt="Cover for 23 Most Famous Israeli Folk Songs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8bc6cd8577cb37c715be1debc275fbe6.png" alt="Cover for 23 Most Famous Israeli Folk Songs" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Various Artists</td>
@@ -576,7 +576,7 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/yPXI85fVUW5OZQNXLY34a11-s-ozdJn5q0yjxIRgw-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NzMy/ODMtMTQ1MjIwNjIz/Ny00MTg2LmpwZWc.jpeg" alt="Cover for Ah Mechayeh! &amp; Other Yiddish Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -598,7 +598,7 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>97</td>
       <td>
       </td>
       <td>1998</td>
@@ -617,7 +617,7 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
       </td>
       <td>1998-10-20</td>
@@ -635,13 +635,13 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 47</li>
-            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 81</li>
+            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 19</li>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>25</td>
       <td>
           <img src="https://i.discogs.com/yQUjOSD0CW8ASoyC_qbmTj92CA-A342QKqTESlZAITg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwOTAz/NTgtMTYyMzY2NTQx/NC02MTM5LmpwZWc.jpeg" alt="Cover for Sconfini" style="max-width:120px; height:auto;" />
       </td>
@@ -655,12 +655,55 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 46</li>
+            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>4</td>
+      <td>
+      </td>
+      <td>2001</td>
+      <td>Amsterdam Klezmer Band</td>
+      <td>Limonchiki</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 9</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 16</li>
+            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 37</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>
+          <img src="https://i.discogs.com/cfVO7q-yUT3lZzM9oCvLiVx-LFxWScM0-RXwAl-notg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzE5/MzMzLTE2MzkyOTMx/NzAtMzgzMy5qcGVn.jpeg" alt="Cover for Staying In Place &#x2F; Nishar Bamakom" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2001</td>
+      <td>Yuval Banai</td>
+      <td>Staying In Place &#x2F; Nishar Bamakom</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 84</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/2EkSW0inWDxETxkUXxke60TkJXdNipWrPOkUCWeEzgE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODU4/MDItMTQ2ODczNzUw/Ni0zNTk1LmpwZWc.jpeg" alt="Cover for Truly - Emet" style="max-width:120px; height:auto;" />
       </td>
@@ -687,50 +730,7 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
     </tr>
     <tr>
-      <td>58</td>
-      <td>
-          <img src="https://i.discogs.com/cfVO7q-yUT3lZzM9oCvLiVx-LFxWScM0-RXwAl-notg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzE5/MzMzLTE2MzkyOTMx/NzAtMzgzMy5qcGVn.jpeg" alt="Cover for Staying In Place &#x2F; Nishar Bamakom" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2001</td>
-      <td>Yuval Banai</td>
-      <td>Staying In Place &#x2F; Nishar Bamakom</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 16</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>97</td>
-      <td>
-      </td>
-      <td>2001</td>
-      <td>Amsterdam Klezmer Band</td>
-      <td>Limonchiki</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 64</li>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 85</li>
-            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 92</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>72</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/q4Ez9A08WkgvjGj3Ux3xcW6sepUVboDeolaT8f7Fgc0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODA2/NTQ4LTE2NzIxNzc5/NTMtMzEwNi5qcGVn.jpeg" alt="Cover for ניו יורק - רפיח" style="max-width:120px; height:auto;" />
       </td>
@@ -748,7 +748,25 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>75</td>
+      <td>
+          <img src="https://i.discogs.com/-ckBwsXSMz_9kyHBqNmUNDJpC7Vefx4zO9Z0AfpSe9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzM5/Mjg3LTE1MTQ1ODAx/MjctNDM4OC5qcGVn.jpeg" alt="Cover for Leonard Cohen Project" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Ofer Golany</td>
+      <td>Leonard Cohen Project</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>80</td>
       <td>
           <img src="https://i.discogs.com/0IjHz4whMqi09ldgNg8XGsMX9m5UBoe-tiMCk7MZWnQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mzk0/NjgwLTE2Nzg2Mjk3/NjgtNDE3Mi5wbmc.jpeg" alt="Cover for A Verdiger Yid" style="max-width:120px; height:auto;" />
       </td>
@@ -768,27 +786,9 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>3</td>
       <td>
-          <img src="https://i.discogs.com/-ckBwsXSMz_9kyHBqNmUNDJpC7Vefx4zO9Z0AfpSe9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzM5/Mjg3LTE1MTQ1ODAx/MjctNDM4OC5qcGVn.jpeg" alt="Cover for Leonard Cohen Project" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>Ofer Golany</td>
-      <td>Leonard Cohen Project</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>98</td>
-      <td>
-          <img src="https://i.discogs.com/l1htcPppS-4HTc1BaNAB63AkjeicULselt1TstbIILc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTE1/NzU4LTE1NzYxMzYz/NTQtOTA0NC5qcGVn.jpeg" alt="Cover for Birthday" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5cb64e52ce8d40728d4ff16100394ce9.png" alt="Cover for Birthday" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Infected Mushroom</td>
@@ -801,12 +801,12 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 95</li>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 6</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>16</td>
       <td>
       </td>
       <td>2004-06-25</td>
@@ -823,26 +823,7 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>
-          <img src="https://i.discogs.com/1cm_gCltDUUwsR8Ks6HMsxqK466VTVhMFnGFZM1xBUY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MTI1/MDEtMTQxMjQzMjgz/MC0yNDgyLmpwZWc.jpeg" alt="Cover for דור הוואי וואי (YY)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>Talisman</td>
-      <td>דור הוואי וואי (YY)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>11</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/qlGnqd1OzCBeNKLq-ABSmbNcfWtDD6FQvIlESyU741I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTE0/NjU4LTE2OTE1MDUz/OTYtMTg1NS5qcGVn.jpeg" alt="Cover for Runaway" style="max-width:120px; height:auto;" />
       </td>
@@ -863,7 +844,26 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>96</td>
+      <td>
+          <img src="https://i.discogs.com/1cm_gCltDUUwsR8Ks6HMsxqK466VTVhMFnGFZM1xBUY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MTI1/MDEtMTQxMjQzMjgz/MC0yNDgyLmpwZWc.jpeg" alt="Cover for דור הוואי וואי (YY)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Talisman</td>
+      <td>דור הוואי וואי (YY)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>11</td>
       <td>
       </td>
       <td>2005-03</td>
@@ -878,12 +878,12 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 77</li>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/KrxrXKNeFJ7OHNLF1uugefIHZbN2nhf8RZnAJvRKwk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODkw/MTktMTI3NDY5MzUz/MS5qcGVn.jpeg" alt="Cover for 2nd of 3" style="max-width:120px; height:auto;" />
       </td>
@@ -900,12 +900,12 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 14</li>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
       </td>
       <td>2006-03-31</td>
@@ -922,88 +922,15 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 3</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 5</li>
+            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 18</li>
             <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 51</li>
-            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 83</li>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 96</li>
-            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
-      <td>
-          <img src="https://i.discogs.com/H2797BGpkS6VXiB-W5F4sJx5rF7VaigDg30SteoDQ8I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTIx/MjM5LTE1NjQxMTM1/MzktMzg1Ni5qcGVn.jpeg" alt="Cover for Yom Acharon (Last Day)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Amir Fay Guttman</td>
-      <td>Yom Acharon (Last Day)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>40</td>
-      <td>
-          <img src="https://i.discogs.com/alHoE87nvcv0LIHQMpDbrORAix0VOWj7uHQyHPEBvTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjg4/Njk2LTE2MDY2NDI4/ODYtMjU3NS5qcGVn.jpeg" alt="Cover for Chadashot Tovot (Good News)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Miri Mesika</td>
-      <td>Chadashot Tovot (Good News)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>59</td>
-      <td>
-          <img src="https://i.discogs.com/JUGCm9O4oE4FaGicaJ0j1NiE2ZmGqkwl6tGAJkoDMRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MDgy/OTgtMTM2OTgxMDgy/OC0xMTg5LmpwZWc.jpeg" alt="Cover for Hacharon Basiron Hatachton (The Last In The Lowest Teneth)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Teapacks</td>
-      <td>Hacharon Basiron Hatachton (The Last In The Lowest Teneth)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>68</td>
-      <td>
-          <img src="https://i.discogs.com/JUGCm9O4oE4FaGicaJ0j1NiE2ZmGqkwl6tGAJkoDMRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MDgy/OTgtMTM2OTgxMDgy/OC0xMTg5LmpwZWc.jpeg" alt="Cover for Kol Halhitim (All The Hits Collection)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Teapacks</td>
-      <td>Kol Halhitim (All The Hits Collection)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/dAZt9e2xRhvoVCRPyMUZN4w6xXuLNRxjPB5COKFhNJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjkz/MzgxLTE1NzE2Njk5/OTAtMjU1My5qcGVn.jpeg" alt="Cover for Knesiyat hasechel (The Mind Church)" style="max-width:120px; height:auto;" />
       </td>
@@ -1021,9 +948,82 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>32</td>
       <td>
-          <img src="https://i.discogs.com/kuxukF_eAVSeR72odSLosHtaKzwBeo-M7t-Rpq_C1jE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTMz/NDEtMTMzNjYxNDkz/MS02NDQ4LmpwZWc.jpeg" alt="Cover for Birthday EP" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/JUGCm9O4oE4FaGicaJ0j1NiE2ZmGqkwl6tGAJkoDMRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MDgy/OTgtMTM2OTgxMDgy/OC0xMTg5LmpwZWc.jpeg" alt="Cover for Kol Halhitim (All The Hits Collection)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Teapacks</td>
+      <td>Kol Halhitim (All The Hits Collection)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>
+          <img src="https://i.discogs.com/JUGCm9O4oE4FaGicaJ0j1NiE2ZmGqkwl6tGAJkoDMRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MDgy/OTgtMTM2OTgxMDgy/OC0xMTg5LmpwZWc.jpeg" alt="Cover for Hacharon Basiron Hatachton (The Last In The Lowest Teneth)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Teapacks</td>
+      <td>Hacharon Basiron Hatachton (The Last In The Lowest Teneth)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/alHoE87nvcv0LIHQMpDbrORAix0VOWj7uHQyHPEBvTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjg4/Njk2LTE2MDY2NDI4/ODYtMjU3NS5qcGVn.jpeg" alt="Cover for Chadashot Tovot (Good News)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Miri Mesika</td>
+      <td>Chadashot Tovot (Good News)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f6b8f9bb772707140a7af53fe468618.png" alt="Cover for Yom Acharon (Last Day)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Amir Fay Guttman</td>
+      <td>Yom Acharon (Last Day)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a62616b3d138438bbb5a9a0e96b3a2cf.png" alt="Cover for Birthday EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Infected Mushroom</td>
@@ -1036,12 +1036,12 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 64</li>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/5ouPNnwVZEc3T1qbhLLnmGCmtKe2Q_3VT_rHZfM7oVE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDgw/NjMzLTE1Njc0NjU2/MTMtNTQwNS5qcGVn.jpeg" alt="Cover for EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1060,7 +1060,7 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://i.discogs.com/1ba9Klc7-v-QJAOT0O__-DPYXfD0IXd5jociBJK_KTs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjc4/MDY0LTE1NjA1Nzc2/NDgtMzY2OS5qcGVn.jpeg" alt="Cover for בועז מעודה" style="max-width:120px; height:auto;" />
       </td>
@@ -1079,7 +1079,7 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>33</td>
       <td>
       </td>
       <td>2010-09-20</td>
@@ -1093,12 +1093,12 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 39</li>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/tKPYqkyYhC95Wnj2ojkYwa23zGdn1tn2SovBUwI6-rA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTg5/MDgtMTQxMzc1NTMz/Ni0yODIxLmpwZWc.jpeg" alt="Cover for Jihad against Islam" style="max-width:120px; height:auto;" />
       </td>
@@ -1121,13 +1121,13 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 38</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 48</li>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/yb1DMhaLeJGcqh94aMxaDkMD3tZi561JvN3WjPPEFs0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Mzgz/OTctMTQyMzYwNDc2/Mi02MDg0LmpwZWc.jpeg" alt="Cover for Rak Bishvilo רק בשבילו" style="max-width:120px; height:auto;" />
       </td>
@@ -1147,7 +1147,7 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/jZwM588ocd4MFNDmSOY7XEboXPFhayNqgoK3Fb3WqP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxODAw/NjctMTQxMzA1NjA3/Ny02NzgxLmpwZWc.jpeg" alt="Cover for Quarter to Six" style="max-width:120px; height:auto;" />
       </td>
@@ -1165,9 +1165,8 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
-          <img src="https://i.discogs.com/kuxukF_eAVSeR72odSLosHtaKzwBeo-M7t-Rpq_C1jE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTMz/NDEtMTMzNjYxNDkz/MS02NDQ4LmpwZWc.jpeg" alt="Cover for Infected Rock" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-06-20</td>
       <td>Infected Mushroom</td>
@@ -1183,30 +1182,12 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 8</li>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
-      <td>
-          <img src="https://i.discogs.com/jcKncgKSeZ7BQa2Y3J9fdEtFLAvv1NmyqFjo9aa8g0s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzc4/OTQ5LTE1NzMzMjk1/MDEtNDM0My5qcGVn.jpeg" alt="Cover for חרוימל&#39;ה מכוכב משה" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-08-13</td>
-      <td>כהן@מושון</td>
-      <td>חרוימל&#39;ה מכוכב משה</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/UFnpcaX5CL-QmcclmneSr14cCJUjq_KQpuYCWx4gW_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjU0/Mjk2LTE1MjAwOTg3/NDUtNDI3MS5qcGVn.jpeg" alt="Cover for צולל" style="max-width:120px; height:auto;" />
       </td>
@@ -1225,7 +1206,7 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/lJKxTm3s48nQBeaF5P9jcbm9Hc-JLYwBbtl5U7npSsA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTcw/NTEzLTE2OTcxMTk5/NzAtMTExMS5qcGVn.jpeg" alt="Cover for Exposed" style="max-width:120px; height:auto;" />
       </td>
@@ -1244,9 +1225,9 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
-          <img src="https://i.discogs.com/8-cMRW37lrHb1v76osOlWqrhtMnftyyYd8AY3vwZX28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTIx/NDU1LTE1NDQ1NjE5/MzQtNzY4My5qcGVn.jpeg" alt="Cover for Lost In Space" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ebd018c473e83cd95e94232e25b3b2c.png" alt="Cover for Lost In Space" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-12-11</td>
       <td>Infected Mushroom</td>
@@ -1263,7 +1244,7 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/qthY6xLW7t83RsIlqikq3pty-df6fiw9WwAddVgCS3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjI4/OTYzLTE2NDgxMzk0/OTktMjAwMy5qcGVn.jpeg" alt="Cover for Impronunciable" style="max-width:120px; height:auto;" />
       </td>
@@ -1278,14 +1259,14 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/catalan" | relative_url }}">catalan</a> # 21</li>
+            <li> <a href="{{ "/tags/catalan" | relative_url }}">catalan</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>18</td>
       <td>
-          <img src="https://i.discogs.com/73npnkW_2cERijIwVh1pTOf9TwmKxbDmZv8jb3KWTMw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDE3/NTI1LTE2NzA2MjIy/MjAtODM0Ni5qcGVn.jpeg" alt="Cover for La Trib Ani Utruch (Infected Mushroom Remix)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9580865b6f729f9a85466852bf25e03.png" alt="Cover for La Trib Ani Utruch (Infected Mushroom Remix)" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-12-09</td>
       <td>Infected Mushroom</td>
@@ -1304,245 +1285,9 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>7</td>
       <td>
-      </td>
-      <td></td>
-      <td>Machari Rashed Al Afassi</td>
-      <td>Sourate Ghafer-Foussilat-Shoura</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a> # 24</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>60</td>
-      <td>
-      </td>
-      <td></td>
-      <td>טל קרסנטי</td>
-      <td>ורסטיל</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 21</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>62</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Shlomo Idov</td>
-      <td>Dream In Spanish &#x2F; Cholem Be&#39;sfaradit</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 31</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>64</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Mika Karni</td>
-      <td>From Moment To Moment &#x2F; Mi&#39;rega Le&#39;rega</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 33</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>65</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Habonim &#x2F; הבונים</td>
-      <td>5 Songs (2006)</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 35</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>70</td>
-      <td>
-      </td>
-      <td></td>
-      <td>יהודית רביץ</td>
-      <td>What Kind Of A Girl &#x2F; Aizo Min Yalda</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 45</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>74</td>
-      <td>
-      </td>
-      <td></td>
-      <td>MIQEDEM</td>
-      <td>MIQEDEM</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 52</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>78</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Mika Karni</td>
-      <td>Mika Karni</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 57</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>79</td>
-      <td>
-      </td>
-      <td></td>
-      <td>יהודית רביץ</td>
-      <td>Shem</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 59</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>83</td>
-      <td>
-      </td>
-      <td></td>
-      <td>גידי גוב</td>
-      <td>Shirim She&#39;Hitpazroo</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 61</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>88</td>
-      <td>
-      </td>
-      <td></td>
-      <td>עברי לידר</td>
-      <td>Better Nothing Than Almost &#x2F; Yoter Tov Klum Me&#39;kimat</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 69</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>93</td>
-      <td>
-      </td>
-      <td></td>
-      <td>עברי לידר</td>
-      <td>The New People &#x2F; Ha&#39;anashim Ha&#39;chadashim</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 84</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>94</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/abadb24a70980e99e613a8f434c00f7b.png" alt="Cover for It&#39;s Not the Same" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>עברי לידר</td>
@@ -1560,80 +1305,29 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 77</li>
-            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 86</li>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 15</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6d7a536aec84ef7bc3593efddb76bad.png" alt="Cover for The New People &#x2F; Ha&#39;anashim Ha&#39;chadashim" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Omek Hadavar</td>
-      <td>Mekor Chaim</td>
+      <td>עברי לידר</td>
+      <td>The New People &#x2F; Ha&#39;anashim Ha&#39;chadashim</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
         </ul>
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Carolyn Hyde</td>
-      <td>Fine Linen</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Eyal Bitton</td>
-      <td>High Holiday Memories: Timeless Moroccan &amp; Sephardi Classics</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Carolyn Hyde</td>
-      <td>The Latter Rain</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1642,70 +1336,228 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       <td>
       </td>
       <td></td>
-      <td>Steve McConnell</td>
-      <td>Hamoedim</td>
+      <td>עברי לידר</td>
+      <td>Better Nothing Than Almost &#x2F; Yoter Tov Klum Me&#39;kimat</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>
-      </td>
-      <td></td>
-      <td>חיים איפרגן</td>
-      <td>פרק אחר</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>15</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Guela Gill</td>
-      <td>Yemenite and Other Israeli Folksongs</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>
       </td>
       <td></td>
-      <td>John Barnett</td>
-      <td>Never Look Back</td>
+      <td>גידי גוב</td>
+      <td>Shirim She&#39;Hitpazroo</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 39</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+      </td>
+      <td></td>
+      <td>יהודית רביץ</td>
+      <td>Shem</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 41</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Mika Karni</td>
+      <td>Mika Karni</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 43</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>
+      </td>
+      <td></td>
+      <td>MIQEDEM</td>
+      <td>MIQEDEM</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 48</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+      </td>
+      <td></td>
+      <td>יהודית רביץ</td>
+      <td>What Kind Of A Girl &#x2F; Aizo Min Yalda</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 55</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Habonim &#x2F; הבונים</td>
+      <td>5 Songs (2006)</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 65</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Mika Karni</td>
+      <td>From Moment To Moment &#x2F; Mi&#39;rega Le&#39;rega</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 67</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Shlomo Idov</td>
+      <td>Dream In Spanish &#x2F; Cholem Be&#39;sfaradit</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 69</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>
+      </td>
+      <td></td>
+      <td>טל קרסנטי</td>
+      <td>ורסטיל</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/israel" | relative_url }}">israel</a> # 79</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Machari Rashed Al Afassi</td>
+      <td>Sourate Ghafer-Foussilat-Shoura</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+      </td>
+      <td></td>
+      <td>גידי גוב</td>
+      <td>T&#39;noo Ligdol Besheket</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
         </ul>
       </td>
       <td>
@@ -1718,15 +1570,11 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       <td>
       </td>
       <td></td>
-      <td>Sagi Braitner</td>
-      <td>נשארתי טוב</td>
+      <td>שלמה ארצי</td>
+      <td>Shfuim (Sane)</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
         </ul>
       </td>
       <td>
@@ -1735,56 +1583,16 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>29</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/12c6918ff05de52c800839250f1e2397.png" alt="Cover for אהוד בנאי והפליטים" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>אבי רוזנמן</td>
-      <td>עבר הווה עתיד</td>
+      <td>אהוד בנאי</td>
+      <td>אהוד בנאי והפליטים</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>28</td>
-      <td>
-      </td>
-      <td></td>
-      <td>אתניקס</td>
-      <td>אדם ונחש</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>30</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Margalit Ankory</td>
-      <td>Jerusalem of Gold</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
         </ul>
       </td>
       <td>
@@ -1798,14 +1606,10 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
       <td></td>
       <td>טיפקס</td>
-      <td>דיסקו מנאייק</td>
+      <td>החיים שלך בלאפה</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>
@@ -1814,17 +1618,15 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>48</td>
       <td>
       </td>
       <td></td>
-      <td>Margalit Ankory</td>
-      <td>Travel With My Dove and Listen to Me!: Songs of the Middle East</td>
+      <td>חוה אלברשטיין</td>
+      <td>Lemele</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
         </ul>
       </td>
       <td>
@@ -1833,7 +1635,60 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>55</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Shir Yaakov</td>
+      <td>Is he free? [Live at IFJRC]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>
+      </td>
+      <td></td>
+      <td>The Voice of One Calling</td>
+      <td>The Voice of One Calling</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian" | relative_url }}">christian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>
+      </td>
+      <td></td>
+      <td>נורית גלרון</td>
+      <td>בתוך הסערות</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
       <td>
       </td>
       <td></td>
@@ -1855,85 +1710,39 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
     </tr>
     <tr>
-      <td>43</td>
-      <td>
-      </td>
-      <td></td>
-      <td>נורית גלרון</td>
-      <td>בתוך הסערות</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>44</td>
-      <td>
-      </td>
-      <td></td>
-      <td>The Voice of One Calling</td>
-      <td>The Voice of One Calling</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/christian" | relative_url }}">christian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>46</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Shir Yaakov</td>
-      <td>Is he free? [Live at IFJRC]</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>53</td>
-      <td>
-      </td>
-      <td></td>
-      <td>חוה אלברשטיין</td>
-      <td>Lemele</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>63</td>
       <td>
       </td>
       <td></td>
-      <td>טיפקס</td>
-      <td>החיים שלך בלאפה</td>
+      <td>Margalit Ankory</td>
+      <td>Travel With My Dove and Listen to Me!: Songs of the Middle East</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d72c4edbc291436bc3343a49d64a1d36.png" alt="Cover for דיסקו מנאייק" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>טיפקס</td>
+      <td>דיסקו מנאייק</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>
@@ -1946,8 +1755,114 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       <td>
       </td>
       <td></td>
-      <td>אהוד בנאי</td>
-      <td>אהוד בנאי והפליטים</td>
+      <td>Margalit Ankory</td>
+      <td>Jerusalem of Gold</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/93ea1818ea0d4e76a3d6508efb4ea05b.png" alt="Cover for אדם ונחש" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>אתניקס</td>
+      <td>אדם ונחש</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61131c942ec1e419ba7ac3488827c326.png" alt="Cover for נשארתי טוב" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Sagi Braitner</td>
+      <td>נשארתי טוב</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>
+      </td>
+      <td></td>
+      <td>John Barnett</td>
+      <td>Never Look Back</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/133ea134b5e89041c5242a62cdb77d3c.png" alt="Cover for Yemenite and Other Israeli Folksongs" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Guela Gill</td>
+      <td>Yemenite and Other Israeli Folksongs</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/world" | relative_url }}">world</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>
+      </td>
+      <td></td>
+      <td>חיים איפרגן</td>
+      <td>פרק אחר</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
@@ -1959,15 +1874,87 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>87</td>
       <td>
       </td>
       <td></td>
-      <td>שלמה ארצי</td>
-      <td>Shfuim (Sane)</td>
+      <td>Steve McConnell</td>
+      <td>Hamoedim</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Carolyn Hyde</td>
+      <td>The Latter Rain</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Eyal Bitton</td>
+      <td>High Holiday Memories: Timeless Moroccan &amp; Sephardi Classics</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Carolyn Hyde</td>
+      <td>Fine Linen</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Omek Hadavar</td>
+      <td>Mekor Chaim</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a></li>
         </ul>
       </td>
       <td>
@@ -1980,11 +1967,31 @@ Hebrew music encompasses songs performed in the Hebrew language, spanning tradit
       <td>
       </td>
       <td></td>
-      <td>גידי גוב</td>
-      <td>T&#39;noo Ligdol Besheket</td>
+      <td>Sheikh Salah Bukhatir</td>
+      <td>The Complete Holy Quran</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hymns" | relative_url }}">hymns</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Danmaica</td>
+      <td>The 1st 2wo (2006)</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/israel" | relative_url }}">israel</a></li>
         </ul>
       </td>
       <td>

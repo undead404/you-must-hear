@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T09:26:57.772Z
+date: 2025-12-04T14:50:17.323Z
 permalink: tags/buenos-aires
 title: buenos aires
 ---
 
 ## buenos aires
 
-Last updated: <time datetime="2025-11-18T09:26:57.772Z">Tue Nov 18 2025 11:26:57 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T14:50:17.323Z">Thu Dec 04 2025 16:50:17 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -38,13 +38,7 @@ The &quot;buenos aires&quot; tag captures music rooted in Argentina&#39;s capita
       <td>Algo Respira Por Mi</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trio" | relative_url }}">trio</a></li>
         </ul>
@@ -75,7 +69,7 @@ The &quot;buenos aires&quot; tag captures music rooted in Argentina&#39;s capita
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/jGCXNr5b_-srciBKOBdkrD1QeUwFrhciwBCMp2h4hCM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzE2/MDItMTI0MTgwODYy/OC5qcGVn.jpeg" alt="Cover for PROGRAMA" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac254a54039e47bdc7083833b729fc57.png" alt="Cover for PROGRAMA" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Programa</td>
@@ -640,7 +634,7 @@ The &quot;buenos aires&quot; tag captures music rooted in Argentina&#39;s capita
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/cKkitQF5Ow6ipNviGQW_uU_SiyNYNjWrFJf9H-0-1YY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjQ5/MjQ4LTE2NDk0NDgy/NzEtNTI0OC5qcGVn.jpeg" alt="Cover for Simple Factor Tiempo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd92b6b8f372473398f7970d8f203220.png" alt="Cover for Simple Factor Tiempo" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-10</td>
       <td>Pino</td>
@@ -816,9 +810,9 @@ The &quot;buenos aires&quot; tag captures music rooted in Argentina&#39;s capita
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 2</li>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 5</li>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 32</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 69</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 96</li>
+            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -855,7 +849,7 @@ The &quot;buenos aires&quot; tag captures music rooted in Argentina&#39;s capita
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 33</li>
+            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -875,7 +869,7 @@ The &quot;buenos aires&quot; tag captures music rooted in Argentina&#39;s capita
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 40</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -901,7 +895,7 @@ The &quot;buenos aires&quot; tag captures music rooted in Argentina&#39;s capita
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 35</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1043,8 +1037,8 @@ The &quot;buenos aires&quot; tag captures music rooted in Argentina&#39;s capita
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 13</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 48</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 53</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1091,8 +1085,8 @@ The &quot;buenos aires&quot; tag captures music rooted in Argentina&#39;s capita
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 9</li>
             <li> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a> # 67</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1122,10 +1116,10 @@ The &quot;buenos aires&quot; tag captures music rooted in Argentina&#39;s capita
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 3</li>
-            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 47</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 52</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 87</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 14</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 49</li>
+            <li> <a href="{{ "/tags/anti-folk" | relative_url }}">anti-folk</a> # 52</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1189,7 +1183,7 @@ The &quot;buenos aires&quot; tag captures music rooted in Argentina&#39;s capita
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 46</li>
+            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1928,6 +1922,7 @@ The &quot;buenos aires&quot; tag captures music rooted in Argentina&#39;s capita
     <tr>
       <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e08ac0b55dfeabdac807ee14e3c0708d.png" alt="Cover for el ángulo de separación" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Pulsos</td>
@@ -1947,7 +1942,7 @@ The &quot;buenos aires&quot; tag captures music rooted in Argentina&#39;s capita
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 6</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1972,7 +1967,7 @@ The &quot;buenos aires&quot; tag captures music rooted in Argentina&#39;s capita
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 13</li>
+            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1998,7 +1993,7 @@ The &quot;buenos aires&quot; tag captures music rooted in Argentina&#39;s capita
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 55</li>
+            <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 46</li>
             <li> <a href="{{ "/tags/didgeridoo" | relative_url }}">didgeridoo</a> # 59</li>
         </ul>
       </td>
@@ -2020,7 +2015,7 @@ The &quot;buenos aires&quot; tag captures music rooted in Argentina&#39;s capita
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 59</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -2405,29 +2400,6 @@ The &quot;buenos aires&quot; tag captures music rooted in Argentina&#39;s capita
       </td>
     </tr>
     <tr>
-      <td>97</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c934f8c831caf4a7f74bf6b25545bb5a.png" alt="Cover for Distracciones" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>La Real Academia</td>
-      <td>Distracciones</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>99</td>
       <td>
       </td>
@@ -2437,6 +2409,23 @@ The &quot;buenos aires&quot; tag captures music rooted in Argentina&#39;s capita
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/buenos-aires" | relative_url }}">buenos aires</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c934f8c831caf4a7f74bf6b25545bb5a.png" alt="Cover for Distracciones" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>La Real Academia</td>
+      <td>Distracciones</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>

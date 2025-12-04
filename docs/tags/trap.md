@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T18:03:18.092Z
+date: 2025-12-04T14:34:53.948Z
 permalink: tags/trap
 title: trap
 ---
 
 ## trap
 
-Last updated: <time datetime="2025-11-25T18:03:18.092Z">Tue Nov 25 2025 20:03:18 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T14:34:53.948Z">Thu Dec 04 2025 16:34:53 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,10 +47,10 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 96</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 100</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 100</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 100</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 1</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 1</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 1</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -71,8 +71,8 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 64</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 74</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 27</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -96,11 +96,11 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 73</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 98</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 99</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 100</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 100</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 1</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 1</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 2</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 2</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -118,10 +118,10 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 99</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 1</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 1</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 2</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 100</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 100</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -141,7 +141,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 48</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -159,9 +159,9 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 9</li>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 51</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 96</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 5</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 10</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -182,8 +182,8 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 83</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 84</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 16</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -222,8 +222,8 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 46</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 86</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 14</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -244,7 +244,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 34</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -263,7 +263,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 68</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -300,7 +300,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 99</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -322,8 +322,8 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 93</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 95</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 6</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 8</li>
             <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 98</li>
         </ul>
       </td>
@@ -362,9 +362,9 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 41</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 51</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 94</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 7</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 52</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -387,10 +387,10 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 84</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 85</li>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 100</li>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 100</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 1</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 1</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 15</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -409,10 +409,10 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 43</li>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 50</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 63</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 68</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 29</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 49</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 56</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -434,31 +434,9 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 55</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 88</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 94</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>68</td>
-      <td>
-          <img src="https://i.discogs.com/_urKx19jGE6rQAoUoLwYNhknh5lzSrEcDEteCKF6dTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTkx/Nzg2LTE2MjcwMTY2/OTctNzMxOS5wbmc.jpeg" alt="Cover for Roadtrip" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-08-01</td>
-      <td>Dream</td>
-      <td>Roadtrip</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 60</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 89</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 7</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 13</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -479,8 +457,8 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 69</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 96</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 5</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -499,9 +477,9 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 59</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 75</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 92</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 9</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 24</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -539,7 +517,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 72</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -557,9 +535,9 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 22</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 29</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 45</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 56</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 71</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -595,9 +573,9 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 90</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 2</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 11</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 91</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -620,10 +598,10 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 21</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 33</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 39</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 88</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 13</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 57</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 67</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -663,9 +641,9 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 55</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 86</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 98</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 3</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 15</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -721,7 +699,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 68</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -742,8 +720,8 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 60</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 100</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 1</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -799,7 +777,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 14</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -837,8 +815,8 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 10</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 62</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 37</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -857,8 +835,8 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 82</li>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 92</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 8</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -880,11 +858,11 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 35</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 69</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 74</li>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 88</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 89</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 12</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 13</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 27</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 30</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -903,9 +881,9 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 29</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 47</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 62</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 36</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 48</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -944,8 +922,8 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 91</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 91</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 10</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -966,8 +944,8 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 6</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 80</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -990,8 +968,8 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 52</li>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 96</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 5</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1014,10 +992,10 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 30</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 37</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 80</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 94</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 7</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 21</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 58</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1055,7 +1033,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 78</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1074,9 +1052,9 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 10</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 58</li>
             <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 82</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1094,8 +1072,8 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 51</li>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 71</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 30</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1117,9 +1095,9 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 67</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 74</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 90</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 11</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 34</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1141,9 +1119,9 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 93</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 98</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 99</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 2</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 3</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1201,7 +1179,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 89</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1221,7 +1199,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 53</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1242,8 +1220,8 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 92</li>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 99</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 2</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1266,10 +1244,10 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 81</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 81</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 6</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 20</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 82</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 85</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1293,11 +1271,11 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 61</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 63</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 65</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 79</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 94</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 7</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 22</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 40</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 64</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1316,7 +1294,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 68</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1358,7 +1336,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 30</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1380,9 +1358,9 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 75</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 91</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 99</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 2</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 10</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1402,9 +1380,9 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 46</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 69</li>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 100</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 1</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 32</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1426,9 +1404,9 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 82</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 3</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 19</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 87</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1451,10 +1429,10 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 49</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 85</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 87</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 93</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 7</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 14</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 16</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1474,7 +1452,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 19</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1494,7 +1472,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 92</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1514,14 +1492,36 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 24</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 76</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://i.discogs.com/_urKx19jGE6rQAoUoLwYNhknh5lzSrEcDEteCKF6dTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTkx/Nzg2LTE2MjcwMTY2/OTctNzMxOS5wbmc.jpeg" alt="Cover for Roadtrip" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-02-04</td>
+      <td>Dream</td>
+      <td>Roadtrip</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 41</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/aytCqDFYRggzEDdCAlZUYK2MsbB-P4mg2e_Emt_x7Zg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzc5/Mjg2LTE2MTMxNDE1/MDEtNjAyMS5qcGVn.jpeg" alt="Cover for TYRON" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7690aad2072f8a11b5ab9607e894a7e0.png" alt="Cover for TYRON" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-02-12</td>
       <td>slowthai</td>
@@ -1535,7 +1535,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 96</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 5</li>
             <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 99</li>
         </ul>
       </td>
@@ -1559,10 +1559,10 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 73</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 88</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 94</li>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 98</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 3</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 5</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 13</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1584,8 +1584,8 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 75</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 90</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 11</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1605,8 +1605,8 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 38</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 79</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 22</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1628,9 +1628,9 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 62</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 92</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 99</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 2</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 8</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 39</li>
             <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 100</li>
         </ul>
       </td>
@@ -1670,7 +1670,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 20</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1689,7 +1689,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 23</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1727,7 +1727,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 48</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1750,8 +1750,8 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 58</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 73</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 28</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 42</li>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 90</li>
         </ul>
       </td>
@@ -1777,12 +1777,12 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 71</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 73</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 76</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 90</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 92</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 94</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 6</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 9</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 11</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 30</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 74</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1802,7 +1802,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 71</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1822,7 +1822,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 85</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1842,7 +1842,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 35</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1920,9 +1920,9 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 47</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 59</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 86</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 15</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 54</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1941,7 +1941,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 59</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1961,7 +1961,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 100</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1980,8 +1980,8 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 86</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 98</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 3</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -2005,13 +2005,13 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 57</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 2</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 4</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 5</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 14</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 58</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 73</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 87</li>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 90</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 95</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 97</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2033,9 +2033,9 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 1</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 7</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 93</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 94</li>
-            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2049,15 +2049,13 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       <td>A Great Chaos</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 26</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 91</li>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 97</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 41</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -2078,9 +2076,9 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 4</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 21</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 94</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 7</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 23</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -2117,7 +2115,7 @@ Trap is a hip-hop subgenre that emerged from Southern rap, characterized by heav
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 58</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 59</li>
             <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 98</li>
         </ul>
       </td>

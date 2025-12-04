@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T23:42:38.000Z
+date: 2025-12-04T14:50:42.703Z
 permalink: tags/dark-metal
 title: dark metal
 ---
 
 ## dark metal
 
-Last updated: <time datetime="2025-11-26T23:42:38.000Z">Thu Nov 27 2025 01:42:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T14:50:42.703Z">Thu Dec 04 2025 16:50:42 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -83,7 +83,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 7</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 93</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 93</li>
         </ul>
       </td>
@@ -123,7 +123,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       <td>
         <ul>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 30</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 58</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 43</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 64</li>
         </ul>
       </td>
@@ -202,8 +202,8 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 67</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 73</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 27</li>
+            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -240,9 +240,9 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 13</li>
-            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 41</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 50</li>
+            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 59</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -263,9 +263,9 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 11</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 68</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 90</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 98</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -303,9 +303,9 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 3</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 39</li>
             <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 95</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -343,7 +343,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-black-metal" | relative_url }}">german black metal</a> # 4</li>
+            <li> <a href="{{ "/tags/german-black-metal" | relative_url }}">german black metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -424,14 +424,15 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 65</li>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 86</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 15</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>4</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a628634fd05bacc04d572698535e41f0.png" alt="Cover for Black Seal" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Root</td>
@@ -730,7 +731,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 37</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -826,7 +827,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 44</li>
+            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -867,8 +868,8 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 10</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 14</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 86</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1018,8 +1019,8 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 5</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 95</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 5</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1059,8 +1060,8 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 37</li>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 76</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 25</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1161,8 +1162,8 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 16</li>
             <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 80</li>
-            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1202,7 +1203,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 28</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1259,7 +1260,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 42</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 57</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 87</li>
         </ul>
       </td>
@@ -1315,7 +1316,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 95</li>
+            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1360,8 +1361,8 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 89</li>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 100</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 1</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1596,18 +1597,18 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 38</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 47</li>
+            <li> <a href="{{ "/tags/neo-prog" | relative_url }}">neo-prog</a> # 4</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 9</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 11</li>
+            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 14</li>
+            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 43</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 50</li>
-            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 58</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 50</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 62</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 63</li>
             <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 75</li>
             <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 84</li>
-            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 85</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 87</li>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 90</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 92</li>
-            <li> <a href="{{ "/tags/neo-prog" | relative_url }}">neo-prog</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1725,7 +1726,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 87</li>
+            <li> <a href="{{ "/tags/portuguese" | relative_url }}">portuguese</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1746,7 +1747,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 35</li>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1792,8 +1793,8 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 78</li>
-            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 91</li>
+            <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 10</li>
+            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1831,8 +1832,8 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 69</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 84</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 16</li>
+            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1990,7 +1991,7 @@ Dark metal blends extreme metal&#39;s aggressive intensity with gothic and atmos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 76</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 25</li>
         </ul>
       </td>
     </tr>

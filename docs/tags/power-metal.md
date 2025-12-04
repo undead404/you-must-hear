@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T23:50:38.064Z
+date: 2025-12-04T15:12:13.962Z
 permalink: tags/power-metal
 title: power metal
 ---
 
 ## power metal
 
-Last updated: <time datetime="2025-11-26T23:50:38.064Z">Thu Nov 27 2025 01:50:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T15:12:13.962Z">Thu Dec 04 2025 17:12:13 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,7 +44,7 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 99</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -63,8 +63,8 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 7</li>
             <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 81</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -82,7 +82,7 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 64</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -121,7 +121,7 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 89</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -140,8 +140,8 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 21</li>
             <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 73</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -270,8 +270,8 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 5</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 31</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 70</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -291,7 +291,7 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       <td>
         <ul>
             <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 26</li>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 29</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 71</li>
             <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 86</li>
         </ul>
       </td>
@@ -329,7 +329,7 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 99</li>
+            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -384,8 +384,8 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 56</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 58</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 41</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 45</li>
             <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 94</li>
         </ul>
       </td>
@@ -405,7 +405,7 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 23</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -424,8 +424,8 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 38</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 96</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 5</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -444,8 +444,8 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 16</li>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 91</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 10</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -464,7 +464,7 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 48</li>
+            <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 53</li>
             <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 85</li>
         </ul>
       </td>
@@ -520,7 +520,7 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 95</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -539,8 +539,8 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 1</li>
             <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 74</li>
+            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -561,8 +561,8 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       <td>
         <ul>
             <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 28</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 28</li>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 53</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 47</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -581,8 +581,8 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 16</li>
             <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 16</li>
+            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -601,7 +601,7 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 22</li>
+            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -621,7 +621,7 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 1</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -640,9 +640,9 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 10</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 16</li>
             <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 56</li>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 85</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -678,7 +678,7 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 35</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -715,7 +715,7 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 83</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -753,9 +753,9 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 43</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 4</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 56</li>
             <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 79</li>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -794,9 +794,9 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 32</li>
-            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 56</li>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 72</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 29</li>
+            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 45</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 69</li>
             <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 81</li>
         </ul>
       </td>
@@ -835,8 +835,8 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 33</li>
             <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 66</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 67</li>
             <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 84</li>
         </ul>
       </td>
@@ -855,8 +855,8 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 44</li>
-            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 45</li>
+            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 56</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -894,7 +894,7 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 58</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -950,7 +950,7 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 41</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1004,9 +1004,9 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 53</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 23</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 48</li>
             <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 77</li>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1025,7 +1025,7 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 62</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1063,7 +1063,7 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 97</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1082,7 +1082,7 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 14</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1137,8 +1137,8 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 15</li>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 32</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 69</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1174,7 +1174,7 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 100</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1229,7 +1229,7 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 45</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1304,9 +1304,9 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 10</li>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 38</li>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 55</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 46</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 63</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1362,7 +1362,7 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 94</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1381,7 +1381,7 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 65</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1400,7 +1400,7 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 69</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1455,7 +1455,7 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 92</li>
+            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1474,7 +1474,7 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 67</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1493,8 +1493,8 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 64</li>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 73</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 28</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1513,7 +1513,7 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 67</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1568,7 +1568,7 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 13</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1603,7 +1603,7 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 36</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 64</li>
             <li> <a href="{{ "/tags/epic-metal" | relative_url }}">epic metal</a> # 65</li>
         </ul>
       </td>
@@ -1641,7 +1641,7 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 41</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1669,11 +1669,11 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 13</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 53</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 55</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 59</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 87</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 14</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 42</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 44</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 48</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 84</li>
             <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 97</li>
         </ul>
       </td>
@@ -1714,9 +1714,9 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 49</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 51</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 56</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 45</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 50</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1753,7 +1753,7 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 36</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1855,10 +1855,10 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 18</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 25</li>
-            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 95</li>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 96</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 5</li>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 6</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 76</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 84</li>
             <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 98</li>
         </ul>
       </td>
@@ -1916,7 +1916,7 @@ Power metal is a subgenre of heavy metal music that originated in the mid-1980s,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 96</li>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 5</li>
         </ul>
       </td>
     </tr>

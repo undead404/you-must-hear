@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T09:05:26.065Z
+date: 2025-12-04T14:50:48.852Z
 permalink: tags/indian-classical
 title: indian classical
 ---
 
 ## indian classical
 
-Last updated: <time datetime="2025-10-22T09:05:26.065Z">Wed Oct 22 2025 12:05:26 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T14:50:48.852Z">Thu Dec 04 2025 16:50:48 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -42,9 +42,9 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 53</li>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 94</li>
-            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 99</li>
+            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 2</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 6</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -65,8 +65,8 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 37</li>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 87</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 13</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -85,7 +85,7 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 15</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -106,7 +106,7 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 65</li>
+            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -125,7 +125,7 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 90</li>
+            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -145,7 +145,7 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 60</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -189,10 +189,10 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 19</li>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 21</li>
-            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 39</li>
-            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 56</li>
+            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 45</li>
+            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 62</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 80</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -214,8 +214,8 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 61</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 62</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 38</li>
+            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -240,7 +240,7 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/zTMg5U26woWwFnHHwuKQqsTGYReO7FVXe1fue9Gc0dY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTA3/NC0xMjYyMTEwMTMw/LmpwZWc.jpeg" alt="Cover for Radha-Krsna Nama Sankirtana" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f84dc6f99efcf4bd738eb70f2dcccaa.png" alt="Cover for Radha-Krsna Nama Sankirtana" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Alice Coltrane</td>
@@ -252,7 +252,7 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 52</li>
+            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -310,7 +310,7 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 21</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -349,7 +349,7 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 72</li>
+            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -368,7 +368,7 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 21</li>
+            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -407,7 +407,7 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 30</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -425,7 +425,7 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 5</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -482,7 +482,7 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 51</li>
+            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -503,7 +503,7 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 16</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -523,7 +523,7 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 8</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -543,7 +543,7 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 76</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -635,8 +635,8 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 61</li>
-            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 81</li>
+            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 20</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -656,7 +656,7 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 33</li>
+            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -765,7 +765,7 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 49</li>
+            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -805,7 +805,7 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 77</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -880,7 +880,7 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 38</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -902,8 +902,8 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 13</li>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 39</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 62</li>
+            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -924,7 +924,7 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 17</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 82</li>
             <li> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a> # 95</li>
         </ul>
       </td>
@@ -945,7 +945,7 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 67</li>
+            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 34</li>
             <li> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a> # 78</li>
         </ul>
       </td>
@@ -1021,7 +1021,7 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 58</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 41</li>
             <li> <a href="{{ "/tags/ghazal" | relative_url }}">ghazal</a> # 98</li>
         </ul>
       </td>
@@ -1077,7 +1077,7 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 83</li>
+            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1096,7 +1096,7 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 73</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1153,10 +1153,10 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 84</li>
-            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 94</li>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 97</li>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 99</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 2</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 4</li>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 6</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1193,7 +1193,7 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 87</li>
+            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1214,7 +1214,7 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 38</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 61</li>
             <li> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a> # 98</li>
         </ul>
       </td>
@@ -1254,7 +1254,7 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 49</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1365,7 +1365,7 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 28</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1384,7 +1384,27 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 24</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 75</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>
+          <img src="https://i.discogs.com/Xjc_XjJ5lgDlwK-Ifzj7jI6SOug3tJdMaJC7NV_G67E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjc0/NTk0LTE1Mzk4MDg1/MDctNTYxOS5qcGVn.jpeg" alt="Cover for New Horizons" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Purbayan Chatterjee</td>
+      <td>New Horizons</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian" | relative_url }}">indian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1404,7 +1424,7 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 25</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1434,25 +1454,6 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       <td>2005</td>
       <td>Amjad Ali Khan</td>
       <td>Moksha</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian" | relative_url }}">indian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>54</td>
-      <td>
-          <img src="https://i.discogs.com/Xjc_XjJ5lgDlwK-Ifzj7jI6SOug3tJdMaJC7NV_G67E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjc0/NTk0LTE1Mzk4MDg1/MDctNTYxOS5qcGVn.jpeg" alt="Cover for New Horizons" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>Purbayan Chatterjee</td>
-      <td>New Horizons</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian" | relative_url }}">indian</a></li>
@@ -1501,8 +1502,8 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 21</li>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 51</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 50</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 78</li>
             <li> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a> # 96</li>
         </ul>
       </td>
@@ -1567,10 +1568,10 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/indian-fusion" | relative_url }}">indian fusion</a> # 16</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 23</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 39</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 42</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 62</li>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 78</li>
-            <li> <a href="{{ "/tags/indian-fusion" | relative_url }}">indian fusion</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1589,7 +1590,7 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 75</li>
+            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1672,6 +1673,7 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
     <tr>
       <td>4</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/729c0b6a2bb876a1e3aa852076a25332.png" alt="Cover for Together" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-04-18</td>
       <td>Talvin Singh &amp; Niladri Kumar</td>
@@ -1686,7 +1688,7 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian-fusion" | relative_url }}">indian fusion</a> # 56</li>
+            <li> <a href="{{ "/tags/indian-fusion" | relative_url }}">indian fusion</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1766,8 +1768,8 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 53</li>
-            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 85</li>
+            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 16</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 46</li>
             <li> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a> # 99</li>
         </ul>
       </td>
@@ -1789,7 +1791,7 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 68</li>
+            <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1828,7 +1830,7 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 1</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1847,7 +1849,7 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 64</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1866,7 +1868,7 @@ Indian classical music is an ancient artistic tradition from the Indian subconti
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 69</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 30</li>
         </ul>
       </td>
     </tr>

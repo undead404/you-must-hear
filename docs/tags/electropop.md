@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T21:37:25.263Z
+date: 2025-12-04T14:19:12.660Z
 permalink: tags/electropop
 title: electropop
 ---
 
 ## electropop
 
-Last updated: <time datetime="2025-11-23T21:37:25.263Z">Sun Nov 23 2025 23:37:25 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T14:19:12.660Z">Thu Dec 04 2025 16:19:12 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -49,10 +49,10 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 21</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 89</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 96</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 97</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 4</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 5</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 11</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -74,8 +74,8 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 19</li>
             <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 59</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -122,13 +122,13 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 26</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 60</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 64</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 75</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 75</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 79</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 88</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 13</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 21</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 25</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 26</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 36</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 40</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 75</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 89</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 91</li>
         </ul>
@@ -159,14 +159,14 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 40</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 52</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 83</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 86</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 88</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 89</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 93</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 97</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 4</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 7</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 12</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 12</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 15</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 17</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 49</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 61</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 97</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 98</li>
         </ul>
@@ -197,14 +197,14 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 21</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 41</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 74</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 78</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 81</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 84</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 87</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 93</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 8</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 13</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 17</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 19</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 22</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 26</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 60</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 80</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 93</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 95</li>
         </ul>
@@ -226,9 +226,9 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 31</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 70</li>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 75</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 26</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 29</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -249,7 +249,7 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       <td>
         <ul>
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 6</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 57</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -284,18 +284,18 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 23</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 59</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 63</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 73</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 74</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 77</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 78</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 86</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 87</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 87</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 87</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 87</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 14</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 14</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 14</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 14</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 15</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 21</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 23</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 27</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 27</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 37</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 41</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 78</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 88</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 90</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 94</li>
@@ -333,20 +333,20 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 10</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 36</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 71</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 72</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 78</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 81</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 83</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 84</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 89</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 90</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 90</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 90</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 11</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 11</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 11</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 12</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 12</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 16</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 17</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 20</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 22</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 27</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 29</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 65</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 90</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 90</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 91</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 92</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 96</li>
         </ul>
@@ -377,14 +377,14 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 16</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 38</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 73</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 75</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 80</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 83</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 85</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 92</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 9</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 15</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 18</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 20</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 24</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 27</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 63</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 85</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 92</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 94</li>
         </ul>
@@ -415,14 +415,14 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 37</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 49</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 79</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 85</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 86</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 87</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 91</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 96</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 5</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 9</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 14</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 14</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 16</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 21</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 52</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 64</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 96</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 97</li>
         </ul>
@@ -445,7 +445,7 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 84</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -466,7 +466,7 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 89</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -485,7 +485,7 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 40</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -505,8 +505,8 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 58</li>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 68</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 33</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -542,7 +542,7 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 48</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -581,8 +581,8 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 94</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 99</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 2</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -601,8 +601,8 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 71</li>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 83</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 18</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -657,7 +657,7 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 36</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -696,8 +696,8 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 18</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 41</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 57</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -719,12 +719,13 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 32</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 45</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 72</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 90</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 93</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 8</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 11</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 29</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 56</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 67</li>
             <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 99</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -782,7 +783,7 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 7</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 90</li>
             <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 100</li>
         </ul>
       </td>
@@ -802,8 +803,8 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 72</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 77</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 20</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -876,7 +877,7 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 36</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 64</li>
             <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 88</li>
         </ul>
       </td>
@@ -919,10 +920,10 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 86</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 86</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 91</li>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 97</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 4</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 10</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 14</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -944,11 +945,11 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 18</li>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 92</li>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 96</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 5</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 5</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 9</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 82</li>
             <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 96</li>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -968,10 +969,10 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 16</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 51</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 3</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 50</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 75</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 97</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1011,9 +1012,9 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 12</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 87</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 95</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 6</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 14</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1032,8 +1033,8 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 29</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 49</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 51</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1054,8 +1055,8 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 91</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 96</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 5</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1073,7 +1074,7 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 36</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1094,10 +1095,10 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 19</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 33</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 33</li>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 95</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 6</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 34</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 62</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1116,9 +1117,9 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 14</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 92</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 96</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 4</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 8</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1142,8 +1143,8 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 86</li>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 95</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 3</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1164,7 +1165,7 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 26</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1186,11 +1187,11 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 8</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 16</li>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 22</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 57</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 91</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 9</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 58</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 79</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 84</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1225,19 +1226,19 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 23</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 42</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 75</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 79</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 82</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 85</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 86</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 88</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 91</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 92</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 92</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 92</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 94</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 7</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 9</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 9</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 10</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 10</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 12</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 14</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 16</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 18</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 21</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 25</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 59</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 78</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 94</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 96</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 98</li>
@@ -1284,9 +1285,9 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 89</li>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 98</li>
-            <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 99</li>
+            <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 2</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 3</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1308,7 +1309,7 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 63</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1349,7 +1350,7 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 10</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1368,9 +1369,9 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 2</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 83</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 94</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 4</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 7</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1395,11 +1396,11 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 15</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 24</li>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 89</li>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 95</li>
-            <li> <a href="{{ "/tags/doomergaze" | relative_url }}">doomergaze</a> # 95</li>
+            <li> <a href="{{ "/tags/doomergaze" | relative_url }}">doomergaze</a> # 6</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 6</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 8</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 78</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1418,9 +1419,9 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 59</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 93</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 96</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 5</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 8</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1441,7 +1442,7 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 84</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1460,7 +1461,7 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 92</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1499,9 +1500,9 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 57</li>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 67</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 78</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 22</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 33</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 41</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 91</li>
         </ul>
       </td>
@@ -1522,7 +1523,7 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 80</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1543,12 +1544,12 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 6</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 24</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 25</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 29</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 30</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 50</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 70</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 72</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 75</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 77</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1585,9 +1586,9 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 21</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 24</li>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 85</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 16</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 76</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1614,12 +1615,12 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 11</li>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 80</li>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 83</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 88</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 89</li>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 95</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 6</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 12</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 13</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 18</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 21</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1645,10 +1646,10 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 92</li>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 92</li>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 93</li>
-            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 99</li>
+            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 2</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 5</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 9</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1666,12 +1667,12 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 4</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 84</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 92</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 93</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 2</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 6</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 9</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 17</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 96</li>
             <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 97</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 99</li>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 99</li>
         </ul>
       </td>
@@ -1712,7 +1713,7 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 39</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 58</li>
             <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 68</li>
         </ul>
       </td>
@@ -1748,22 +1749,22 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 50</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 64</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 85</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 89</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 90</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 90</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 94</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 94</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 94</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 94</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 94</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 96</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 98</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 3</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 5</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 6</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 7</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 7</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 7</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 7</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 10</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 10</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 12</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 15</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 37</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 51</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 100</li>
-            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 100</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 100</li>
+            <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1787,11 +1788,11 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 94</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 97</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 100</li>
-            <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 100</li>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 100</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 1</li>
+            <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 1</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 1</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 4</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1814,9 +1815,9 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 47</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 61</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 79</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 20</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 39</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1834,12 +1835,12 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 8</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 50</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 61</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 76</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 77</li>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 78</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 22</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 23</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 24</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 49</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 62</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1879,12 +1880,12 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 5</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 23</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 33</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 44</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 68</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 81</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 19</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 32</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 46</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 67</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 77</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1921,8 +1922,8 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 69</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 88</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 11</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1951,14 +1952,14 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 12</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 37</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 72</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 73</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 79</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 82</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 84</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 91</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 10</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 16</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 19</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 21</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 26</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 28</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 64</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 89</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 91</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 93</li>
         </ul>
@@ -2000,7 +2001,7 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 93</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -2022,12 +2023,12 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 18</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 64</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 71</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 77</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 96</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 99</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 2</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 3</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 30</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 36</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 79</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -2047,9 +2048,8 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 99</li>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 99</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 100</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 2</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -2071,8 +2071,8 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 55</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 70</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 30</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -2091,9 +2091,9 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 36</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 9</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 65</li>
             <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 83</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -2116,7 +2116,7 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 90</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 11</li>
             <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 98</li>
         </ul>
       </td>
@@ -2144,13 +2144,13 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 4</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 5</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 13</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 19</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 26</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 38</li>
             <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 46</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 63</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 75</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 82</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 87</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 96</li>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -2170,9 +2170,9 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 10</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 84</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 90</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 10</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 15</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -2211,7 +2211,7 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 30</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -2232,11 +2232,11 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 35</li>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 37</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 64</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 74</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 100</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 1</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 27</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 36</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 37</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -2274,9 +2274,9 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 11</li>
-            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 60</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 72</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 28</li>
+            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 41</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -2296,7 +2296,7 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 24</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -2317,7 +2317,7 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 31</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -2338,8 +2338,8 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 98</li>
-            <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 99</li>
+            <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 2</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -2362,9 +2362,9 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 73</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 76</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 98</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 3</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 24</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -2402,8 +2402,8 @@ Electropop blends electronic music&#39;s synthetic textures with pop&#39;s catch
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 26</li>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 42</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 58</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 71</li>
         </ul>
       </td>
     </tr>

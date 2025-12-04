@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T09:27:33.045Z
+date: 2025-12-04T14:55:17.232Z
 permalink: tags/spiritual
 title: spiritual
 ---
 
 ## spiritual
 
-Last updated: <time datetime="2025-11-18T09:27:33.045Z">Tue Nov 18 2025 11:27:33 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T14:55:17.232Z">Thu Dec 04 2025 16:55:17 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -45,8 +45,8 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 83</li>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 87</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 13</li>
+            <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -71,10 +71,10 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 29</li>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 60</li>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 90</li>
-            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 98</li>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 3</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 9</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 40</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -118,7 +118,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/Gl-AbJdQI1QHkne_h3DioPlja1aI1FNi24DJTkspg9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxOTkw/Ni0xMTI2OTExMjYw/LmpwZWc.jpeg" alt="Cover for World Galaxy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d479b6ce77e6aba93fa407346d65e844.png" alt="Cover for World Galaxy" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>Alice Coltrane</td>
@@ -155,6 +155,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
     <tr>
       <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb94ea6cc2304db0cd45326c1c9f43e2.png" alt="Cover for Paradise and Lunch" style="max-width:120px; height:auto;" />
       </td>
       <td>1974</td>
       <td>Ry Cooder</td>
@@ -166,7 +167,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 33</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -191,7 +192,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/IHvMpMhWQugl60SaxYcszY9wD49j0YvTBmcGzzmbP7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDAt/MTU5MTUyMjUwMS01/NTA2LmpwZWc.jpeg" alt="Cover for The Craft" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/daceba6e6a677877eec0bc07c2bf7142.png" alt="Cover for The Craft" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Various Artists</td>
@@ -250,7 +251,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
     <tr>
       <td>15</td>
       <td>
-          <img src="https://i.discogs.com/tUt-faLzQVL9zcvBKr2HXEII0FsdEqsT_R86DB2fPUE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjU0/MC0xNTcyOTA3OTE5/LTk2ODUuanBlZw.jpeg" alt="Cover for Camouflage Heart" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1636000c0fd3f8b76bd2f6ab068363aa.png" alt="Cover for Camouflage Heart" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>Cindytalk</td>
@@ -265,7 +266,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 74</li>
+            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -304,7 +305,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-gospel" | relative_url }}">contemporary gospel</a> # 99</li>
+            <li> <a href="{{ "/tags/contemporary-gospel" | relative_url }}">contemporary gospel</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -363,7 +364,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 34</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -386,7 +387,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 61</li>
+            <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -405,7 +406,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 62</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -425,7 +426,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 25</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -448,7 +449,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 59</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -462,19 +463,13 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       <td>Taking Drugs To Make Music To Take Drugs To (Remastered)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone" | relative_url }}">drone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/garage-rock" | relative_url }}">garage rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 94</li>
+            <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -512,7 +507,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 29</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -549,7 +544,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 100</li>
+            <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -605,7 +600,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 86</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -646,7 +641,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 73</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -664,7 +659,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 35</li>
+            <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -684,8 +679,8 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 69</li>
-            <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 74</li>
+            <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 27</li>
+            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -721,8 +716,8 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 44</li>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 58</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 43</li>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -745,7 +740,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 70</li>
+            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -768,7 +763,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a> # 80</li>
+            <li> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -828,7 +823,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 74</li>
+            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -850,9 +845,9 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 72</li>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 93</li>
-            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 95</li>
+            <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 6</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 8</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -869,7 +864,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a> # 79</li>
+            <li> <a href="{{ "/tags/yoga" | relative_url }}">yoga</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -926,8 +921,8 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 77</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 98</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 3</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -947,7 +942,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 23</li>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1005,17 +1000,17 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 2</li>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 6</li>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 46</li>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 47</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 63</li>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 66</li>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 73</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 77</li>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 88</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 89</li>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 95</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 6</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 12</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 13</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 24</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 29</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 35</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 38</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 53</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 55</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 95</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1040,9 +1035,9 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 72</li>
-            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 79</li>
-            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 86</li>
+            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 15</li>
+            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 22</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1067,6 +1062,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/36771343dd7d4f58b79781cafca50e3a.png" alt="Cover for 28 After" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-10-30</td>
       <td>Black Devil Disco Club</td>
@@ -1103,7 +1099,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 58</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1143,8 +1139,8 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 17</li>
-            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 76</li>
+            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 25</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1212,9 +1208,9 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 18</li>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 39</li>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 71</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 29</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 66</li>
+            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1290,8 +1286,8 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 71</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 77</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 23</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1331,15 +1327,15 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 12</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 29</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 10</li>
+            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 11</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 12</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 37</li>
             <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 39</li>
-            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 44</li>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 80</li>
-            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 88</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 89</li>
+            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 56</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 81</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 87</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 90</li>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1378,7 +1374,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 56</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1396,7 +1392,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 10</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1421,11 +1417,11 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 29</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 31</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 35</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 41</li>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 75</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 25</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 51</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 60</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 65</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1488,18 +1484,18 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 36</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 43</li>
-            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 58</li>
-            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 60</li>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 63</li>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 74</li>
+            <li> <a href="{{ "/tags/neo-prog" | relative_url }}">neo-prog</a> # 4</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 9</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 11</li>
+            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 14</li>
+            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 41</li>
+            <li> <a href="{{ "/tags/new-prog" | relative_url }}">new prog</a> # 43</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 50</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 62</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 63</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 75</li>
             <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 84</li>
-            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 85</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 87</li>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 90</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 92</li>
-            <li> <a href="{{ "/tags/neo-prog" | relative_url }}">neo-prog</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1517,7 +1513,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 58</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1543,16 +1539,16 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 33</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 43</li>
-            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 87</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 45</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 60</li>
+            <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/s75_RvQrcGXUdjXNTKDJ-sU9Xt6XoUkvfVqRshbyrKU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzI0/NzMtMTI1NTk1NTMw/MC5qcGVn.jpeg" alt="Cover for With His Hot and Blue Guitar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a4cb556922c2600c0978f75a4b35ce1.png" alt="Cover for With His Hot and Blue Guitar" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Johnny Cash</td>
@@ -1564,7 +1560,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 92</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1591,11 +1587,11 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 18</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 22</li>
+            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 33</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 37</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 68</li>
-            <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 68</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 79</li>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 82</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1618,9 +1614,9 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 87</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 93</li>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 94</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 6</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 8</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1661,10 +1657,10 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 37</li>
-            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 47</li>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 81</li>
-            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 92</li>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 9</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 26</li>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 53</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1733,8 +1729,8 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 63</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 82</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 14</li>
+            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 36</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 92</li>
         </ul>
       </td>
@@ -1760,7 +1756,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 91</li>
+            <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1780,7 +1776,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 60</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1848,7 +1844,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 72</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1891,7 +1887,8 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 77</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 28</li>
+            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1935,12 +1932,12 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 83</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 84</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 85</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 92</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 96</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 100</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 1</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 4</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 9</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 17</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 18</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -2005,7 +2002,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 25</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -2031,9 +2028,10 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 3</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 12</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 38</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 64</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 78</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 79</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 94</li>
             <li> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a> # 99</li>
         </ul>
       </td>
@@ -2074,7 +2072,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 45</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -2094,7 +2092,7 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rap" | relative_url }}">christian rap</a> # 86</li>
+            <li> <a href="{{ "/tags/christian-rap" | relative_url }}">christian rap</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -2115,11 +2113,11 @@ Spiritual music blends sacred themes with diverse sounds from gospel, soul, regg
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 74</li>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 92</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 95</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 99</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 100</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 1</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 2</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 6</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 22</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 94</li>
         </ul>
       </td>
     </tr>
