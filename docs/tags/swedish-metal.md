@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T20:49:38.303Z
+date: 2025-12-04T13:54:16.190Z
 permalink: tags/swedish-metal
 title: swedish metal
 ---
 
 ## swedish metal
 
-Last updated: <time datetime="2025-11-26T20:49:38.303Z">Wed Nov 26 2025 22:49:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T13:54:16.190Z">Thu Dec 04 2025 15:54:16 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -70,7 +70,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 74</li>
+            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -118,9 +118,9 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 32</li>
-            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 44</li>
-            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 81</li>
+            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 20</li>
+            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 57</li>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -139,9 +139,9 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 79</li>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 85</li>
-            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 91</li>
+            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 10</li>
+            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 16</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -184,7 +184,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 63</li>
+            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -263,7 +263,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 74</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 25</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 89</li>
         </ul>
       </td>
@@ -283,7 +283,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 65</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -302,7 +302,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 42</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -339,7 +339,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 23</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -358,7 +358,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 86</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -395,9 +395,9 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 30</li>
             <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 50</li>
             <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 71</li>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -435,7 +435,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 93</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -454,7 +454,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 98</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -491,7 +491,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 35</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -545,7 +545,6 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -637,7 +636,8 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 74</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 28</li>
+            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -696,7 +696,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 99</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -733,8 +733,8 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 16</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 85</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 17</li>
+            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -808,8 +808,8 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 22</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 69</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 33</li>
+            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -828,9 +828,9 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 32</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 15</li>
             <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 61</li>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 86</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -941,7 +941,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 58</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -960,7 +960,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 88</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -979,7 +979,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 8</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -999,7 +999,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       <td>
         <ul>
             <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 32</li>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 76</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1108,7 +1108,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 44</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1188,7 +1188,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 100</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1225,8 +1225,8 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 8</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 43</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 59</li>
+            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1244,7 +1244,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 93</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 87</li>
             <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 96</li>
         </ul>
       </td>
@@ -1268,7 +1268,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 71</li>
+            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1290,7 +1290,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-black-metal" | relative_url }}">swedish black metal</a> # 61</li>
+            <li> <a href="{{ "/tags/swedish-black-metal" | relative_url }}">swedish black metal</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1309,8 +1309,8 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 18</li>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 19</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 81</li>
+            <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1329,8 +1329,8 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 4</li>
-            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 17</li>
+            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 85</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1355,7 +1355,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       <td>
         <ul>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 15</li>
-            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 56</li>
+            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1392,7 +1392,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 24</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1567,7 +1567,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 11</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1603,8 +1603,8 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 24</li>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 89</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 28</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1623,7 +1623,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 21</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1646,7 +1646,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 21</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1689,7 +1689,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 79</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1708,7 +1708,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 5</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1731,7 +1731,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 38</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1806,7 +1806,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 12</li>
-            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 81</li>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1872,8 +1872,8 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 5</li>
             <li> <a href="{{ "/tags/nwothm" | relative_url }}">nwothm</a> # 91</li>
-            <li> <a href="{{ "/tags/traditional-heavy-metal" | relative_url }}">traditional heavy metal</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1913,7 +1913,6 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1932,7 +1931,7 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 70</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -2011,11 +2010,13 @@ Swedish metal represents a distinct Nordic approach to heavy music that emerged 
       <td>And Love Said No</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/love-metal" | relative_url }}">love metal</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/love-metal" | relative_url }}">love metal</a> # 15</li>
         </ul>
       </td>
     </tr>

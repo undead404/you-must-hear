@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T18:00:48.599Z
+date: 2025-12-04T13:43:22.132Z
 permalink: tags/glitch-pop
 title: glitch pop
 ---
 
 ## glitch pop
 
-Last updated: <time datetime="2025-11-25T18:00:48.599Z">Tue Nov 25 2025 20:00:48 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T13:43:22.132Z">Thu Dec 04 2025 15:43:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
   </thead>
   <tbody>
     <tr>
-      <td>9</td>
+      <td>92</td>
       <td>
       </td>
       <td>1996</td>
@@ -51,7 +51,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/de053da6a6ab19306388322c591beb9e.png" alt="Cover for Hey Panda" style="max-width:120px; height:auto;" />
       </td>
@@ -70,7 +70,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6544038391a14955af0519e4abf354a4.png" alt="Cover for Jóga" style="max-width:120px; height:auto;" />
       </td>
@@ -84,18 +84,18 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 2</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 3</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 6</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 8</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 84</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 85</li>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 93</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 94</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 97</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 86</li>
             <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 99</li>
-            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ca740fb5f83ed4878db1fac38f58db9.png" alt="Cover for Utopia" style="max-width:120px; height:auto;" />
       </td>
@@ -111,12 +111,12 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       <td>
         <ul>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 40</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 70</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4af23019206447dc8fc2be846e65b9b6.png" alt="Cover for Bachelorette" style="max-width:120px; height:auto;" />
       </td>
@@ -135,18 +135,19 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 39</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 43</li>
-            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 96</li>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 98</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 99</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 100</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 1</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 3</li>
+            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 5</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 13</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 42</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 58</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 99</li>
             <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f34b5410e89218b0837730afa5b542f.png" alt="Cover for Ohayo! Hoahio!" style="max-width:120px; height:auto;" />
       </td>
@@ -167,7 +168,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/86bd65c0d5c871a628f79171cba57816.png" alt="Cover for Myloveilove" style="max-width:120px; height:auto;" />
       </td>
@@ -184,14 +185,14 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 58</li>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 76</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 25</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 43</li>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://i.discogs.com/nwq-I87RyK4BN9b-rOVB_ExtpVSd_wJrY9x6XuL3c-A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTY2/Ny0xMTc4NDE3NDA2/LmpwZWc.jpeg" alt="Cover for Velocity: design: comfort." style="max-width:120px; height:auto;" />
       </td>
@@ -208,18 +209,18 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 9</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 23</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 15</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 19</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 25</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 34</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 55</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 67</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 74</li>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 81</li>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 83</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 76</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/718b055f9ef5187f5a972dd541381230.png" alt="Cover for Velocity : Design : Comfort." style="max-width:120px; height:auto;" />
       </td>
@@ -236,27 +237,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>80</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f427010a793f4dccd4f8214b8c6021a2.png" alt="Cover for KiCk i" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003-05</td>
-      <td>Arca</td>
-      <td>KiCk i</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 5</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 30</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 83</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad1db1d1a6a56f372ddd52b199c9afd0.png" alt="Cover for KICK ii" style="max-width:120px; height:auto;" />
       </td>
@@ -270,13 +251,33 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 83</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 17</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>21</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f427010a793f4dccd4f8214b8c6021a2.png" alt="Cover for KiCk i" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003-05</td>
+      <td>Arca</td>
+      <td>KiCk i</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 7</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 30</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 83</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/749b83b213914384a4e5f7a9c6bd131c.png" alt="Cover for From Tokyo To Naiagara" style="max-width:120px; height:auto;" />
       </td>
@@ -290,12 +291,12 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avantgarde-pop" | relative_url }}">avantgarde pop</a> # 11</li>
+            <li> <a href="{{ "/tags/avantgarde-pop" | relative_url }}">avantgarde pop</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/Xnjmxubbj0mCYzJwXt2z0KnpPrXZrI2h6Bn1XgP7cBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2Njk5/MDYtMTM3OTcyNjU5/MC03MDA3LmpwZWc.jpeg" alt="Cover for irony" style="max-width:120px; height:auto;" />
       </td>
@@ -316,7 +317,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
       </td>
       <td>2003-07-15</td>
@@ -339,7 +340,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
       </td>
       <td>2004-12-20</td>
@@ -354,13 +355,13 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 11</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 36</li>
+            <li> <a href="{{ "/tags/shibuya-kei" | relative_url }}">shibuya-kei</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/026c519393a74810c814c2686daea8a4.png" alt="Cover for 28" style="max-width:120px; height:auto;" />
       </td>
@@ -381,7 +382,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e590e8f326426606396f68f2d31eaf02.png" alt="Cover for Tender Buttons" style="max-width:120px; height:auto;" />
       </td>
@@ -398,19 +399,19 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 47</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 58</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 61</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 64</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 10</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 33</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 38</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 38</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 43</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 54</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 65</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 68</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 91</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
       </td>
       <td>2006-02-22</td>
@@ -430,7 +431,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ca90af3b429a8874b9b0a6762a4aeca.png" alt="Cover for Cerulean" style="max-width:120px; height:auto;" />
       </td>
@@ -444,12 +445,12 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 62</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4dfd7aae7ca0419edcade2414ecfafc.png" alt="Cover for The Age of Adz" style="max-width:120px; height:auto;" />
       </td>
@@ -462,14 +463,14 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 17</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 21</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 38</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 80</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8afead02d53d427f854d0adf30fcd9ef.png" alt="Cover for Daphny" style="max-width:120px; height:auto;" />
       </td>
@@ -488,12 +489,12 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 3</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
       </td>
       <td>2011-01-16</td>
@@ -511,7 +512,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5796808e74451406ad478d011c74c395.png" alt="Cover for Bodysongs" style="max-width:120px; height:auto;" />
       </td>
@@ -529,13 +530,13 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 8</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 11</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 88</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/abedf83ff4ec4921840e9bb852c8f9f8.png" alt="Cover for Life Is Full of Possibilities (deluxe edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -558,7 +559,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6f25eed696e04e4d978684dfe9fcf713.png" alt="Cover for Victory" style="max-width:120px; height:auto;" />
       </td>
@@ -579,7 +580,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/aaa1ae5aa2334bd3948d3f2419f63bd8.png" alt="Cover for Flume" style="max-width:120px; height:auto;" />
       </td>
@@ -593,12 +594,12 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 58</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/9NQqahQD3bm5C0rZuSQBe9vWpC8tCc5En3IYm-JNtM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMDIw/NTgtMTQzMzc3NzUx/My00NDIyLmpwZWc.jpeg" alt="Cover for An Obsession With Kit - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -624,7 +625,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>56</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6729b8c67bc440a1aeaf7bb81daa151d.png" alt="Cover for AMOK" style="max-width:120px; height:auto;" />
       </td>
@@ -642,7 +643,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/7pq3KTG2C0XFb7ZrU-C3i_Y6ytqAHjr8U3KxeyF7M4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjk5/NTUxLTE2MTg0Mzg0/MDAtNzY0NC5qcGVn.jpeg" alt="Cover for Pxe - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -661,12 +662,12 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 73</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/13efb7c7e5c445e5c505fc3b2b4a8139.png" alt="Cover for Fall in Love" style="max-width:120px; height:auto;" />
       </td>
@@ -681,12 +682,12 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 85</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/65a3ec5a93624444c46131fbc25ae866.png" alt="Cover for Say You&#39;ll Be There" style="max-width:120px; height:auto;" />
       </td>
@@ -707,7 +708,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5e1bcb544170ba75688facea5530edc.png" alt="Cover for Because I&#39;m Worth It" style="max-width:120px; height:auto;" />
       </td>
@@ -729,7 +730,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>90</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f7c5f945953e4723c7e022765d1f7a02.png" alt="Cover for LP1" style="max-width:120px; height:auto;" />
       </td>
@@ -746,14 +747,14 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       <td>
         <ul>
             <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 7</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 17</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 61</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 80</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 81</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3334f01531970ce1cc60de7c139b70d.png" alt="Cover for No Now" style="max-width:120px; height:auto;" />
       </td>
@@ -768,14 +769,14 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 16</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 18</li>
             <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 56</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 82</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac7b06adc02b85be3ec780e18689abc3.png" alt="Cover for Vulnicura" style="max-width:120px; height:auto;" />
       </td>
@@ -794,7 +795,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>96</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bca1d06a718f6646680a40beb3ae2f80.png" alt="Cover for M3LL155X - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -812,7 +813,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/30131105d2ccaa9d50eb83ff05d1bd91.png" alt="Cover for Reddishness" style="max-width:120px; height:auto;" />
       </td>
@@ -830,7 +831,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8ea85a96f0d208750c58f4d4dcdbab0.png" alt="Cover for Good to Love" style="max-width:120px; height:auto;" />
       </td>
@@ -853,20 +854,20 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 7</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 7</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 68</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 69</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 3</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 31</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 70</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 93</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 93</li>
             <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 95</li>
             <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 97</li>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 98</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 100</li>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/814124126add3fc7a702ce55f616d5fe.png" alt="Cover for Skin" style="max-width:120px; height:auto;" />
       </td>
@@ -881,13 +882,13 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 18</li>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 98</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 3</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 21</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/08b32e83f7fa33cf17e316342af5881c.png" alt="Cover for Tempo" style="max-width:120px; height:auto;" />
       </td>
@@ -906,7 +907,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d1963e09e5eff8feda5de07231c230e.png" alt="Cover for Popp" style="max-width:120px; height:auto;" />
       </td>
@@ -928,7 +929,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e79ac0ae18a403a418da4ef666f9fdc.png" alt="Cover for PC Music, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
@@ -945,7 +946,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e533ceb55324ab0a73001471421a5932.png" alt="Cover for Dirty Projectors" style="max-width:120px; height:auto;" />
       </td>
@@ -962,7 +963,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/389090574ed1f4abc7c844c236b120fb.png" alt="Cover for EMERGENCY!" style="max-width:120px; height:auto;" />
       </td>
@@ -979,7 +980,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/y2U6AFf0-wqCF_t3XZ-oQHVA-eVjvCIWNE6x47tNp-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDI2/Mzc3LTE1NTM5ODE1/MjMtNzQ3MS5qcGVn.jpeg" alt="Cover for Moroka" style="max-width:120px; height:auto;" />
       </td>
@@ -1002,7 +1003,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/077ce1bf41e242a839ba059858b1c41e.png" alt="Cover for Without Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1022,14 +1023,14 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 67</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 72</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 84</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 14</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 29</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb77e3b22f24aac7ea7369de32cd216c.png" alt="Cover for RINA" style="max-width:120px; height:auto;" />
       </td>
@@ -1046,7 +1047,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>95</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/628e626af44d5bdcb4841b7be6a08243.png" alt="Cover for The Standard Model" style="max-width:120px; height:auto;" />
       </td>
@@ -1064,7 +1065,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/879a4513ba84fdb19f5e19affa55c5ca.png" alt="Cover for WASTEISOLATION" style="max-width:120px; height:auto;" />
       </td>
@@ -1080,13 +1081,13 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 80</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 20</li>
             <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/mIyZ2rPgkDbNQY2qlYvPrQFusSL1yip3kiy91sFG_sg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjI2/NTkyLTE2OTIyNzYy/OTgtMjg1MS5qcGVn.jpeg" alt="Cover for hypnagogia" style="max-width:120px; height:auto;" />
       </td>
@@ -1101,12 +1102,12 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 80</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b482e95ee228abbaaccd0d5a31b81ad2.png" alt="Cover for Oil of Every Pearl&#39;s Un-Insides" style="max-width:120px; height:auto;" />
       </td>
@@ -1120,15 +1121,15 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 7</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 7</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 56</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 94</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 58</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7671934366a1b22799ec9d3d6f2cd6c6.png" alt="Cover for Mine" style="max-width:120px; height:auto;" />
       </td>
@@ -1147,13 +1148,13 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 25</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 69</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 29</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b4d504c19202fe437d085ddaf6708d3.png" alt="Cover for Double Negative" style="max-width:120px; height:auto;" />
       </td>
@@ -1169,8 +1170,8 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 56</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 67</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 33</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 44</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 69</li>
             <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 90</li>
             <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 96</li>
@@ -1178,7 +1179,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3887f43eb91fdacc600d5fe4e9de833.png" alt="Cover for THINK: PEACE" style="max-width:120px; height:auto;" />
       </td>
@@ -1196,7 +1197,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f92eb51022f6302b4e9f9dde8ba77268.png" alt="Cover for Naysayer Godslayer" style="max-width:120px; height:auto;" />
       </td>
@@ -1217,7 +1218,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2bac59e7383f8297d05f8bbd2ae1dc06.png" alt="Cover for Aerial &#x2F; Paperbags" style="max-width:120px; height:auto;" />
       </td>
@@ -1238,7 +1239,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/Ji0WxGFDaigTh9w41aB9Cy4jmWsWgCx3m-8DELBN2UU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzE1/MTI1LTE1NzIwNjYx/MjktMjgxOC5qcGVn.jpeg" alt="Cover for Serotonin II" style="max-width:120px; height:auto;" />
       </td>
@@ -1256,36 +1257,16 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 13</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 36</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 86</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 4</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 15</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 64</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 84</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 87</li>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/82db4eef5097d7af75a77e48bf4de1e7.png" alt="Cover for THANK YOU" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2019-02-05</td>
-      <td>Black Dresses</td>
-      <td>THANK YOU</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 66</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 83</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bafaaf427a4d0dd71c6ac0a347ef1b56.png" alt="Cover for L’industria, il pop, la camera, il sesso" style="max-width:120px; height:auto;" />
       </td>
@@ -1303,7 +1284,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d4944792e9c586ab515f2298d2b3e1c.png" alt="Cover for 歳時記" style="max-width:120px; height:auto;" />
       </td>
@@ -1318,12 +1299,12 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 14</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/177jVsTVsq7DhKCwHR8uzZ4nfzbZ0h5dbmcL0ISmfdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTIz/NTYwLTE1NjgyODQ4/MTgtOTEwMS5qcGVn.jpeg" alt="Cover for Charli" style="max-width:120px; height:auto;" />
       </td>
@@ -1339,17 +1320,17 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 23</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 34</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 19</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 24</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 32</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 46</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 68</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 81</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 67</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2da4833340c7563d1f06ed19c0661748.png" alt="Cover for Pang" style="max-width:120px; height:auto;" />
       </td>
@@ -1368,7 +1349,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/93ighOqO3wZsyeH8bx8-XvNxXeH0NNH_oLRV3cpt9Ak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzUz/NjQxLTE1NzI4MDkz/NTktOTI3Ny5qcGVn.jpeg" alt="Cover for magdalene" style="max-width:120px; height:auto;" />
       </td>
@@ -1382,15 +1363,15 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 25</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 58</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 76</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 82</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e227e7bcaa08e8cef1f5267a58d6302.png" alt="Cover for Oat" style="max-width:120px; height:auto;" />
       </td>
@@ -1413,7 +1394,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/PCppIRdNjrxCiTnQe4sPeWqChBFO0kdpCHWYnW2yyZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODg3/MzQ1LTE2OTE3NzE4/OTAtMjA2Ny5qcGVn.jpeg" alt="Cover for I Am Gambling With My Life" style="max-width:120px; height:auto;" />
       </td>
@@ -1436,17 +1417,17 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 5</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 25</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 28</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 28</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 29</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 51</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 71</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 72</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 73</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 76</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/VWgcQU6ZvbJhJBCZn7OyysG7Po9WZg50c5RDrJgp2Ps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzA3/NjgyLTE1ODk1MDM3/NTEtMTI5Ni5qcGVn.jpeg" alt="Cover for How I&#39;m Feeling Now" style="max-width:120px; height:auto;" />
       </td>
@@ -1463,17 +1444,17 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 18</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 71</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 2</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 3</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 30</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 73</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 79</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 96</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 99</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbef47aabf271fded375a2bb1b2c3186.png" alt="Cover for Air Ni Ni" style="max-width:120px; height:auto;" />
       </td>
@@ -1491,7 +1472,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/be3a3e51cc166887453e848a422df259.png" alt="Cover for Palimpsest" style="max-width:120px; height:auto;" />
       </td>
@@ -1509,7 +1490,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/92a5920b70cdb202a78236f158fc11d0.png" alt="Cover for 7G" style="max-width:120px; height:auto;" />
       </td>
@@ -1524,13 +1505,13 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 43</li>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 89</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 10</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b305c6f897c39de5c45fc08b5064679.png" alt="Cover for HEY WHAT" style="max-width:120px; height:auto;" />
       </td>
@@ -1546,15 +1527,15 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 12</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 51</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 84</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 17</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 52</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 89</li>
             <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/PN1W81GqEhAJgouBgzcuL_bc0Xl3z1TKCFximzNZ3dM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzcz/NDU5LTE2MzU1MTg2/NTgtOTc5NC5qcGVn.jpeg" alt="Cover for Rockstar Super Heat" style="max-width:120px; height:auto;" />
       </td>
@@ -1575,7 +1556,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/57d867a5e2756a13daf6fdc8492a9fff.png" alt="Cover for Clamor" style="max-width:120px; height:auto;" />
       </td>
@@ -1595,7 +1576,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/7pq3KTG2C0XFb7ZrU-C3i_Y6ytqAHjr8U3KxeyF7M4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjk5/NTUxLTE2MTg0Mzg0/MDAtNzY0NC5qcGVn.jpeg" alt="Cover for PXE" style="max-width:120px; height:auto;" />
       </td>
@@ -1610,13 +1591,13 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 62</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 37</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/WQk5xJe9qmHe9u2tlf0h5D95CjP9t7kv_ynvlWyigEw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDE0/NzYzLTE2MTkxMjQz/ODAtODYxOC5qcGVn.jpeg" alt="Cover for nurture" style="max-width:120px; height:auto;" />
       </td>
@@ -1631,14 +1612,14 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 12</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 10</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 53</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 91</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a53fd956aef94ba67fadb2d2086be9ca.png" alt="Cover for Enemy" style="max-width:120px; height:auto;" />
       </td>
@@ -1654,12 +1635,12 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       <td>
         <ul>
             <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 8</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 70</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://i.discogs.com/ncsDvOuP0CJufwYOJAnmh-eNGDG707I2XiQcYqgwr0w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDAx/OTExLTE2NTczNjYz/NjEtNDk1My5qcGVn.jpeg" alt="Cover for GLITCH PRINCESS" style="max-width:120px; height:auto;" />
       </td>
@@ -1676,17 +1657,17 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 13</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 15</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 22</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 32</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 47</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 48</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 66</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 82</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 86</li>
             <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6be42e09f635dbd71c0a35d67e0bd552.png" alt="Cover for I&#39;ve Seen Better Days" style="max-width:120px; height:auto;" />
       </td>
@@ -1703,12 +1684,12 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 35</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/15ab649c1e7651adc33849b667d3d8ec.png" alt="Cover for Scattersun" style="max-width:120px; height:auto;" />
       </td>
@@ -1736,7 +1717,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/R4vn5vCRim1RL0Djp2N_sbkLgfRJdEYn6XkqHm91IcE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDE1/MzQ0LTE2NTg5MzY3/MTYtNjI2OS5qcGVn.jpeg" alt="Cover for SCREAMER" style="max-width:120px; height:auto;" />
       </td>
@@ -1756,16 +1737,16 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 2</li>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 49</li>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 58</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 11</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 43</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 52</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 80</li>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 90</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e3123c042fb257fe1851e25400203af.png" alt="Cover for I Love You Jennifer B" style="max-width:120px; height:auto;" />
       </td>
@@ -1778,13 +1759,13 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 31</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 31</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 70</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ae2fa587d4a28d392cfe9243963a03c.png" alt="Cover for arbol." style="max-width:120px; height:auto;" />
       </td>
@@ -1804,65 +1785,12 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 84</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b3ce6f8465526c5b563e1bb7b787967.png" alt="Cover for Heavy Black Heart" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022-09-23</td>
-      <td>death&#39;s dynamic shroud</td>
-      <td>Heavy Black Heart</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 38</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 57</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>78</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/42080c2f251c98ed9360acaa41766a0e.png" alt="Cover for Darklife" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022-09-23</td>
-      <td>death&#39;s dynamic shroud</td>
-      <td>Darklife</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 49</li>
-            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 61</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 83</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 84</li>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 88</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9dcb58c8616a4f2ea87e3d67061babc.png" alt="Cover for Messe de E-102" style="max-width:120px; height:auto;" />
       </td>
@@ -1884,16 +1812,70 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 31</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 43</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 45</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 70</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 56</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 76</li>
             <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 85</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 88</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>23</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/42080c2f251c98ed9360acaa41766a0e.png" alt="Cover for Darklife" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-09-23</td>
+      <td>death&#39;s dynamic shroud</td>
+      <td>Darklife</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 17</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 51</li>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 61</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 85</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b3ce6f8465526c5b563e1bb7b787967.png" alt="Cover for Heavy Black Heart" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-09-23</td>
+      <td>death&#39;s dynamic shroud</td>
+      <td>Heavy Black Heart</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 38</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 59</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/2cBg1oo2oazjcHD6qdYCdgvD1sBnMfkhXerN4Pc0ULg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTI4/NDA5LTE2NjgxNzIy/MzQtOTQxMy5qcGVn.jpeg" alt="Cover for Clearing" style="max-width:120px; height:auto;" />
       </td>
@@ -1917,16 +1899,16 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 11</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 27</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 51</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 92</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 9</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 50</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 74</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 88</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
       </td>
       <td>2022-11-16</td>
@@ -1942,15 +1924,15 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 40</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 24</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 25</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 54</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 75</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 77</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9403fd8b44380184e0a88c66e3aab82e.png" alt="Cover for Jueves" style="max-width:120px; height:auto;" />
       </td>
@@ -1969,7 +1951,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1df9c4d71653f3bb17d6f3a13913de52.png" alt="Cover for With a Hammer" style="max-width:120px; height:auto;" />
       </td>
@@ -1988,7 +1970,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/012a0918a94b26317848c5a2eb598540.png" alt="Cover for 24" style="max-width:120px; height:auto;" />
       </td>
@@ -2007,7 +1989,7 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8816509c916eb65cda3ac7a3b3f1c192.png" alt="Cover for 7 estrelas | Quem arrancou o Céu?" style="max-width:120px; height:auto;" />
       </td>
@@ -2024,13 +2006,13 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 1</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 43</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 57</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/q2lgRMJRjwZbnfChDZxvdJXpSyhUYnuSX6EW61XAXa0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzU3/MDc1LTE2OTUzNTM2/OTktNjk2MC5qcGVn.jpeg" alt="Cover for softscars" style="max-width:120px; height:auto;" />
       </td>
@@ -2045,13 +2027,13 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 8</li>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 19</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 78</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1569198c4cf0a3b2ff8728975e8359fa.png" alt="Cover for i didn&#39;t mean to haunt you" style="max-width:120px; height:auto;" />
       </td>
@@ -2064,12 +2046,12 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 74</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ddee3b871289a6cda0e3c7d4b4580d62.png" alt="Cover for hypochondriac" style="max-width:120px; height:auto;" />
       </td>
@@ -2082,13 +2064,13 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 43</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 76</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 58</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f8168e0e522ac481a2421373ddc28a02.png" alt="Cover for Scrapyard" style="max-width:120px; height:auto;" />
       </td>
@@ -2101,13 +2083,13 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 38</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 81</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 16</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/9NQqahQD3bm5C0rZuSQBe9vWpC8tCc5En3IYm-JNtM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMDIw/NTgtMTQzMzc3NzUx/My00NDIyLmpwZWc.jpeg" alt="Cover for An Obsession With Kit" style="max-width:120px; height:auto;" />
       </td>
@@ -2126,16 +2108,16 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 88</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 89</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 96</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 2</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 5</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 11</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 13</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 98</li>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/8dF9QJ3NihCPe4WVXuBisGORAytzio8EeyXRyzizYzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzA2/Njg2LTE3MjE4MzA2/MzctNDI1My5qcGVn.jpeg" alt="Cover for Mahōgakkō" style="max-width:120px; height:auto;" />
       </td>
@@ -2155,35 +2137,14 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 19</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 30</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 62</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 71</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98ead6854fa76e10430f97af603ff5e5.png" alt="Cover for ねむるピンクノイズ" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>いよわ</td>
-      <td>ねむるピンクノイズ</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 13</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
       </td>
       <td></td>
@@ -2200,15 +2161,53 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 12</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 19</li>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 73</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 94</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 7</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 28</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 80</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>97</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98ead6854fa76e10430f97af603ff5e5.png" alt="Cover for ねむるピンクノイズ" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>いよわ</td>
+      <td>ねむるピンクノイズ</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Iyowa</td>
+      <td>Watashi No Heritage</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
       <td>
       </td>
       <td></td>
@@ -2225,14 +2224,16 @@ Glitch pop merges catchy pop melodies with digital errors, glitches, and experim
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c08dec264b5d130a57c12c886a8235c2.png" alt="Cover for in the eleventh hour" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
-      <td>Iyowa</td>
-      <td>Watashi No Heritage</td>
+      <td>amaii</td>
+      <td>in the eleventh hour</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a></li>
         </ul>
       </td>

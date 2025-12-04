@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T08:57:50.045Z
+date: 2025-12-04T13:55:13.097Z
 permalink: tags/piano-sonata
 title: piano sonata
 ---
 
 ## piano sonata
 
-Last updated: <time datetime="2025-10-22T08:57:50.045Z">Wed Oct 22 2025 11:57:50 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T13:55:13.097Z">Thu Dec 04 2025 15:55:13 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -84,7 +84,7 @@ A piano sonata is a multi-movement classical composition written for solo piano,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 14</li>
+            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -123,7 +123,7 @@ A piano sonata is a multi-movement classical composition written for solo piano,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 75</li>
+            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -165,7 +165,7 @@ A piano sonata is a multi-movement classical composition written for solo piano,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 37</li>
+            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -344,10 +344,10 @@ A piano sonata is a multi-movement classical composition written for solo piano,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 16</li>
             <li> <a href="{{ "/tags/sonata" | relative_url }}">sonata</a> # 57</li>
             <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 64</li>
             <li> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a> # 73</li>
+            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -365,7 +365,7 @@ A piano sonata is a multi-movement classical composition written for solo piano,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 34</li>
+            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1813,7 +1813,7 @@ A piano sonata is a multi-movement classical composition written for solo piano,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 41</li>
+            <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1835,8 +1835,8 @@ A piano sonata is a multi-movement classical composition written for solo piano,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 22</li>
-            <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 44</li>
+            <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 57</li>
+            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 79</li>
         </ul>
       </td>
     </tr>

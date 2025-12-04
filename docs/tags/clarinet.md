@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T17:44:50.664Z
+date: 2025-12-04T13:42:39.913Z
 permalink: tags/clarinet
 title: clarinet
 ---
 
 ## clarinet
 
-Last updated: <time datetime="2025-11-25T17:44:50.664Z">Tue Nov 25 2025 19:44:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T13:42:39.913Z">Thu Dec 04 2025 15:42:39 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -201,7 +201,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 29</li>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -259,8 +259,8 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 55</li>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 87</li>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 14</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -285,7 +285,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dixieland" | relative_url }}">dixieland</a> # 49</li>
+            <li> <a href="{{ "/tags/dixieland" | relative_url }}">dixieland</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -543,8 +543,8 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 31</li>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 96</li>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 5</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -588,7 +588,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dixieland" | relative_url }}">dixieland</a> # 63</li>
+            <li> <a href="{{ "/tags/dixieland" | relative_url }}">dixieland</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -641,7 +641,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 61</li>
+            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -686,8 +686,8 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 14</li>
-            <li> <a href="{{ "/tags/dixieland" | relative_url }}">dixieland</a> # 80</li>
+            <li> <a href="{{ "/tags/dixieland" | relative_url }}">dixieland</a> # 21</li>
+            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -799,7 +799,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 72</li>
+            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -912,7 +912,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 11</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1010,7 +1010,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a> # 84</li>
+            <li> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1051,7 +1051,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 48</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1136,7 +1136,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 63</li>
+            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1156,7 +1156,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 70</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1257,7 +1257,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       <td>
         <ul>
             <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 13</li>
-            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 77</li>
+            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1279,7 +1279,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 16</li>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 85</li>
             <li> <a href="{{ "/tags/wood-and-string" | relative_url }}">wood and string</a> # 95</li>
         </ul>
       </td>
@@ -1326,7 +1326,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a> # 32</li>
+            <li> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1411,13 +1411,13 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 19</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 17</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 26</li>
-            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 36</li>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 52</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 65</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 74</li>
-            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 84</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 27</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 36</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 48</li>
+            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 65</li>
+            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1491,8 +1491,8 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 77</li>
-            <li> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a> # 87</li>
+            <li> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a> # 14</li>
+            <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1539,8 +1539,8 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 39</li>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 51</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 50</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1659,7 +1659,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 56</li>
+            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1775,7 +1775,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 88</li>
+            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1821,16 +1821,16 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/horn" | relative_url }}">horn</a> # 1</li>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 4</li>
             <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 71</li>
-            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 96</li>
-            <li> <a href="{{ "/tags/horn" | relative_url }}">horn</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/0BJC0Q6DlN2ZioPwOx9O98kbz50EMHRoVXlFVqX1Gvc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTE0/MjcxLTE2MTczNDc0/MzktNjYyNy5qcGVn.jpeg" alt="Cover for The Machine is burning and now everyone knows it could happen again" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/504d92028d48aaa0647919daab33851e.png" alt="Cover for The Machine is burning and now everyone knows it could happen again" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-04-02</td>
       <td>BRUIT ≤</td>
@@ -1845,7 +1845,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vibraphone" | relative_url }}">vibraphone</a> # 91</li>
+            <li> <a href="{{ "/tags/vibraphone" | relative_url }}">vibraphone</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1883,7 +1883,7 @@ The clarinet tag encompasses music prominently featuring this versatile woodwind
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a> # 60</li>
+            <li> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a> # 41</li>
         </ul>
       </td>
     </tr>

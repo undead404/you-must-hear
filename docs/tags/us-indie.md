@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T08:58:09.127Z
+date: 2025-12-04T13:55:18.626Z
 permalink: tags/us-indie
 title: us indie
 ---
 
 ## us indie
 
-Last updated: <time datetime="2025-10-22T08:58:09.127Z">Wed Oct 22 2025 11:58:09 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T13:55:18.626Z">Thu Dec 04 2025 15:55:18 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -93,8 +93,8 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 1</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 36</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -119,8 +119,8 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 8</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 44</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -149,10 +149,10 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 28</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 31</li>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 32</li>
             <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 50</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 70</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -178,10 +178,10 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 13</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 50</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 56</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 45</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 49</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 79</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -205,8 +205,8 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 85</li>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 86</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 16</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -231,15 +231,16 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 20</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 33</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 62</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 68</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8bd565bded4c42a9addd849b087c0feb.png" alt="Cover for Undone" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-02-14</td>
       <td>Artemis</td>
@@ -257,8 +258,8 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 66</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 79</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 22</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 34</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 94</li>
         </ul>
       </td>
@@ -280,7 +281,7 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 62</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -305,15 +306,15 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 14</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 47</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/_CjaaNtI_kYoYpJtdjKjgF6JpAfUezk1CMxMeBu6b9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MzY1/NzItMTM3Mzg3ODcy/Mi04NzYzLmpwZWc.jpeg" alt="Cover for Blue Tofu" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/993bf58b2ebc398a28cbf0bbae24a357.png" alt="Cover for Blue Tofu" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-07-31</td>
       <td>Blue Tofu</td>
@@ -329,7 +330,7 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 87</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 14</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 95</li>
         </ul>
       </td>
@@ -376,7 +377,7 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 41</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -402,13 +403,13 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 8</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 15</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 16</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 22</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 23</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 52</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 79</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 85</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 86</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 50</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 93</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -474,8 +475,8 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 15</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 49</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -526,15 +527,15 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 22</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 54</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/PTCZc5n5nnZb71vnz9vuSeW081QPjHuClSGt9dahXlM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MjQ2/Ni0xMTU3MjExNTg3/LmpwZWc.jpeg" alt="Cover for Evidence" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfcc8e950ef479bbc52f3a0a7be655e7.png" alt="Cover for Evidence" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-08</td>
       <td>Karmacoda</td>
@@ -546,8 +547,8 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 79</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 92</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 9</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 21</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 99</li>
         </ul>
       </td>
@@ -578,14 +579,14 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 50</li>
+            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/iSGUfwTpdjQCUyFgQaKkBGKOiWZxNbf_5X3B3CyL9ik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjgz/NDktMTE4NTc1Mzg1/My5qcGVn.jpeg" alt="Cover for Super Structure Baby" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a703c810e69508c1f68cc110ac2d1a5d.png" alt="Cover for Super Structure Baby" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Keston and Westdal</td>
@@ -605,11 +606,11 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 38</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 49</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 55</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 72</li>
-            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 89</li>
+            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 11</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 27</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 46</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 50</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -636,10 +637,11 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 54</li>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 69</li>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 97</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 98</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 3</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 4</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 30</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 38</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 83</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 100</li>
         </ul>
       </td>
@@ -684,8 +686,8 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 39</li>
-            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 69</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 33</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -736,7 +738,7 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 47</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 54</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 73</li>
         </ul>
       </td>
@@ -768,7 +770,7 @@ US indie encompasses American independent music that exists outside mainstream c
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/HrEdCI-WDfAbYH64uwaNP6oa6c5NZQ_Z9L1BkUh8hvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNTUz/OS0xMjIzMjI0NTAw/LmpwZWc.jpeg" alt="Cover for Free &amp; Easy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3655175f977efcc8138a84ee5e38b0ff.png" alt="Cover for Free &amp; Easy" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-11-01</td>
       <td>Lovespirals</td>
@@ -780,7 +782,7 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 71</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 30</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 88</li>
         </ul>
       </td>
@@ -808,8 +810,8 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 11</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 45</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -834,7 +836,7 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 53</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 48</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 76</li>
         </ul>
       </td>
@@ -856,7 +858,7 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 64</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -877,13 +879,14 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 75</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c010f8009380a1c8f4e19b8658d9c491.png" alt="Cover for In the Deep" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-07-01</td>
       <td>Jette-Ives</td>
@@ -908,15 +911,16 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 13</li>
-            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 48</li>
-            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 57</li>
+            <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 44</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 54</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b755400de3974963d97a788e8a39afd0.png" alt="Cover for How Things Transpire" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-07-25</td>
       <td>Sutro</td>
@@ -936,9 +940,9 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 52</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 72</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 72</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 27</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 29</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 48</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 89</li>
         </ul>
       </td>
@@ -985,7 +989,7 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 12</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1012,8 +1016,8 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 24</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 56</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 77</li>
             <li> <a href="{{ "/tags/demoscene" | relative_url }}">demoscene</a> # 81</li>
         </ul>
       </td>
@@ -1050,7 +1054,7 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 25</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1075,8 +1079,8 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 26</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 61</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 40</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 72</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 83</li>
         </ul>
       </td>
@@ -1099,7 +1103,7 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 78</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 23</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 93</li>
         </ul>
       </td>
@@ -1107,7 +1111,7 @@ US indie encompasses American independent music that exists outside mainstream c
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/mFtz6EWrv1Z-cw8dJu9pVDz1hamR8mbQGKpExo__wQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjgz/NTctMTE4NTc1NTUw/Ny5qcGVn.jpeg" alt="Cover for Truth is Stranger" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2223a20e60ce4697a34ffc382d214009.png" alt="Cover for Truth is Stranger" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-13</td>
       <td>Keston and Westdal</td>
@@ -1132,21 +1136,21 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 4</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 3</li>
+            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 4</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 13</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 18</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 23</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 24</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 27</li>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 35</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 74</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 76</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 76</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 82</li>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 88</li>
-            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/wA5gnLMCyc45e35ViqsWnTxfdisK5ak6fab55jiLD8M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQz/MzMzLTE1MDg3ODg1/MjQtOTIzOS5qcGVn.jpeg" alt="Cover for Illuminate" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/19aeb6f2d8e84501b249b70b09a5c6e8.png" alt="Cover for Illuminate" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03</td>
       <td>Karmacoda</td>
@@ -1164,8 +1168,8 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 75</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 88</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 13</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 25</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 96</li>
         </ul>
       </td>
@@ -1173,7 +1177,7 @@ US indie encompasses American independent music that exists outside mainstream c
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/_IBHz_3BC0IdN69jRgmxoK9CX0yQi8nkfKHleDEjy80/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzg3/OTctMTIyMjcyMzI4/My5qcGVn.jpeg" alt="Cover for Chillodesiac Lounge vol. 1: FEVER" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e7af4f0e37f4e0da3246a29e95cab48.png" alt="Cover for Chillodesiac Lounge vol. 1: FEVER" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-06-19</td>
       <td>Worldwide Groove Corporation</td>
@@ -1190,8 +1194,8 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 58</li>
-            <li> <a href="{{ "/tags/nashville" | relative_url }}">nashville</a> # 86</li>
+            <li> <a href="{{ "/tags/nashville" | relative_url }}">nashville</a> # 15</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1238,8 +1242,8 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 34</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 63</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1262,9 +1266,9 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 61</li>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 73</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 91</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 10</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 39</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1288,17 +1292,17 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 13</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 15</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 19</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 69</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 82</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 85</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/Ga7u6wByPgF1e3ibhj0mloTAblFePxPWNlEMWfTphdk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTg0/NDEtMTIwNDM1Mzg2/My5qcGVn.jpeg" alt="Cover for Long Way From Home" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/954be8724c104ad7a2f87a61f169b79f.png" alt="Cover for Long Way From Home" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10-23</td>
       <td>Lovespirals</td>
@@ -1315,7 +1319,7 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 68</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 33</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 87</li>
         </ul>
       </td>
@@ -1363,14 +1367,14 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 6</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/nH5YtRTRoszhMk3w5SyGyaecT-rbM8HZj2l-qAH97mU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODIy/NDUtMTQ1Mjg4NTQw/My0zNjI1LmpwZWc.jpeg" alt="Cover for One Day to Save All Life" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/edffb20f4514352a03f6d7e6a29f5ad9.png" alt="Cover for One Day to Save All Life" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Keston and Westdal</td>
@@ -1395,12 +1399,12 @@ US indie encompasses American independent music that exists outside mainstream c
       <td>
         <ul>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 7</li>
+            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 8</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 20</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 23</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 40</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 41</li>
             <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 50</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 60</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 60</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 76</li>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 81</li>
-            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1449,8 +1453,8 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 17</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 67</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 34</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 80</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 86</li>
         </ul>
       </td>
@@ -1474,7 +1478,7 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 43</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 58</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 68</li>
         </ul>
       </td>
@@ -1498,7 +1502,7 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 27</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1525,12 +1529,12 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 12</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 18</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 19</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 25</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 28</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 43</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 76</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 82</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 83</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 89</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1574,7 +1578,7 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 59</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 42</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 81</li>
         </ul>
       </td>
@@ -1582,6 +1586,7 @@ US indie encompasses American independent music that exists outside mainstream c
     <tr>
       <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/08ddc2d5ab604c459ca5cc4e611bf948.png" alt="Cover for More Pleasant Grey" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03-07</td>
       <td>Under</td>
@@ -1593,9 +1598,9 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 8</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 41</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 49</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 52</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 58</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1618,8 +1623,8 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 7</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 69</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 32</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1644,10 +1649,10 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 28</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 30</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 51</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 69</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 31</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 31</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 50</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1675,10 +1680,10 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 25</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 36</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 44</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 52</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 49</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 65</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1701,7 +1706,7 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 9</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1767,8 +1772,8 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 12</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 66</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 35</li>
+            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 82</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 85</li>
         </ul>
       </td>
@@ -1792,7 +1797,7 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 65</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 36</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 84</li>
         </ul>
       </td>
@@ -1818,9 +1823,9 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 29</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 38</li>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 42</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 34</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 44</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1841,7 +1846,7 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 3</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1866,8 +1871,8 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 4</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 38</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1892,8 +1897,8 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 5</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 40</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1916,7 +1921,7 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 52</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1941,8 +1946,8 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 23</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 55</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1966,8 +1971,8 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 2</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 37</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1992,9 +1997,9 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 20</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 54</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 65</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 36</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 47</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 81</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 98</li>
         </ul>
       </td>
@@ -2021,9 +2026,9 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 28</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 37</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 64</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 65</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -2053,14 +2058,14 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 15</li>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 18</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 27</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 32</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 56</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 57</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 43</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 44</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 69</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 69</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 74</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 80</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 80</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 86</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 91</li>
         </ul>
       </td>
@@ -2085,7 +2090,7 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 46</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 55</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 72</li>
         </ul>
       </td>
@@ -2111,9 +2116,9 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 6</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 45</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 56</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 71</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -2138,7 +2143,7 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 44</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 57</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 69</li>
         </ul>
       </td>
@@ -2164,8 +2169,8 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 35</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 64</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -2188,8 +2193,8 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 19</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 52</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -2222,16 +2227,16 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 14</li>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 23</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 25</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 27</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 28</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 38</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 41</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 45</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 47</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 49</li>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 53</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 56</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 60</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 63</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 73</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 74</li>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 74</li>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 78</li>
-            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 87</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 90</li>
         </ul>
       </td>
@@ -2256,9 +2261,9 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 12</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 28</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 60</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 73</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -2284,7 +2289,7 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 40</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 61</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 67</li>
         </ul>
       </td>
@@ -2317,7 +2322,7 @@ US indie encompasses American independent music that exists outside mainstream c
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/hUOD7eVT-v0lAWeyTJf711LcCi2WrK2KolvSF5Ee4d4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTE4/ODItMTQ4NzM3NTAz/Ni0zOTM1LmpwZWc.jpeg" alt="Cover for Luminous" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/75a0063c4f944377aaad17ecfba8b432.png" alt="Cover for Luminous" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-07-14</td>
       <td>Brother Sun Sister Moon</td>
@@ -2338,7 +2343,7 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 50</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 51</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 75</li>
             <li> <a href="{{ "/tags/demoscene" | relative_url }}">demoscene</a> # 89</li>
         </ul>
@@ -2390,8 +2395,8 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 17</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 50</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -2464,7 +2469,7 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 16</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -2484,8 +2489,8 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 18</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 51</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -2513,7 +2518,7 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 29</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -2537,7 +2542,7 @@ US indie encompasses American independent music that exists outside mainstream c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 42</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 59</li>
         </ul>
       </td>
     </tr>
