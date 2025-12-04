@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T11:18:07.888Z
+date: 2025-12-03T22:14:24.349Z
 permalink: tags/dance-pop
 title: dance-pop
 ---
 
 ## dance-pop
 
-Last updated: <time datetime="2025-11-23T11:18:07.888Z">Sun Nov 23 2025 13:18:07 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T22:14:24.349Z">Thu Dec 04 2025 00:14:24 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 54</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -166,9 +166,9 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 4</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 5</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 7</li>
             <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 67</li>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -192,7 +192,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 62</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -211,7 +211,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 85</li>
+            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -245,12 +245,12 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 1</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 10</li>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 43</li>
+            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 10</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 11</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 19</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 45</li>
             <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 70</li>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 70</li>
-            <li> <a href="{{ "/tags/woman" | relative_url }}">woman</a> # 91</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -273,7 +273,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 93</li>
+            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -421,8 +421,8 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 2</li>
             <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 75</li>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -444,12 +444,13 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 30</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 45</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 72</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 8</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 29</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 33</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 56</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 87</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 93</li>
             <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 99</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -491,7 +492,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 91</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -590,6 +591,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 4</li>
             <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 93</li>
         </ul>
       </td>
@@ -616,10 +618,28 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       <td>
         <ul>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 29</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 35</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 36</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 41</li>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 75</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 76</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 95</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/055cc5aa4d1fda578e2cecd211f7235f.png" alt="Cover for Rare (Deluxe)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013-07-23</td>
+      <td>Selena Gomez</td>
+      <td>Rare (Deluxe)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -642,27 +662,10 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 48</li>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 86</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 14</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 51</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 86</li>
             <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 97</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>56</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/055cc5aa4d1fda578e2cecd211f7235f.png" alt="Cover for Rare (Deluxe)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2013-07-23</td>
-      <td>Selena Gomez</td>
-      <td>Rare (Deluxe)</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
         </ul>
       </td>
     </tr>
@@ -702,8 +705,9 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 12</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 87</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 14</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 74</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -724,7 +728,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 74</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 75</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 91</li>
         </ul>
       </td>
@@ -748,10 +752,10 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 61</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 80</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 93</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 98</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 2</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 8</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 21</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 40</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 100</li>
         </ul>
       </td>
@@ -776,8 +780,8 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 13</li>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 95</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 18</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -818,8 +822,8 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 44</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 54</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -867,10 +871,10 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 1</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 2</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 16</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 73</li>
-            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 88</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 76</li>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -912,8 +916,8 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 37</li>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 98</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 3</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 41</li>
             <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 99</li>
         </ul>
       </td>
@@ -932,7 +936,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 100</li>
+            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -954,8 +958,8 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 62</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 90</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 76</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -981,7 +985,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 92</li>
+            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 9</li>
             <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 97</li>
         </ul>
       </td>
@@ -1042,9 +1046,9 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 50</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 25</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 51</li>
             <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 70</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 75</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 77</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 95</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 98</li>
@@ -1083,9 +1087,8 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 21</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 35</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 54</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 37</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1127,7 +1130,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 47</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1149,7 +1152,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 79</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1193,7 +1196,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 56</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 58</li>
             <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 97</li>
             <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 99</li>
         </ul>
@@ -1213,7 +1216,6 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1254,7 +1256,8 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 88</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 20</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1273,8 +1276,8 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 54</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 88</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 11</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1292,7 +1295,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 81</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1327,10 +1330,8 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 25</li>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 75</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 97</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 99</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 12</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1349,9 +1350,9 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 26</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 77</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 87</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 14</li>
+            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 74</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1405,8 +1406,8 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 36</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 53</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 56</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 65</li>
             <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 83</li>
         </ul>
       </td>
@@ -1443,8 +1444,8 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 75</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 84</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 26</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1466,8 +1467,8 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 21</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 81</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 20</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 78</li>
             <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 98</li>
         </ul>
       </td>
@@ -1488,7 +1489,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 95</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1507,6 +1508,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sverige" | relative_url }}">sverige</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1532,9 +1534,9 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 16</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 46</li>
-            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 93</li>
+            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 7</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 52</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1558,8 +1560,8 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 44</li>
-            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 98</li>
+            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 3</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1577,9 +1579,9 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 5</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 53</li>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 64</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 6</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 37</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1599,9 +1601,8 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 42</li>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 45</li>
-            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 97</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 59</li>
+            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1625,8 +1626,8 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 30</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 62</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 63</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1676,13 +1677,13 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 66</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 74</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 79</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 79</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 80</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 8</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 21</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 22</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 22</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 26</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 67</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 81</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1701,10 +1702,10 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 5</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 92</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 5</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 93</li>
             <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 95</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 96</li>
+            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1724,9 +1725,9 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 12</li>
-            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 60</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 72</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 17</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 28</li>
+            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1744,9 +1745,9 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 3</li>
+            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 9</li>
             <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 39</li>
-            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 91</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1772,9 +1773,9 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 31</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 67</li>
-            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 96</li>
+            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 4</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 31</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1794,10 +1795,10 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 60</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 66</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 95</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 97</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 4</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 5</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 64</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1819,7 +1820,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 18</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 19</li>
             <li> <a href="{{ "/tags/bubblegum-pop" | relative_url }}">bubblegum pop</a> # 90</li>
         </ul>
       </td>
@@ -1842,9 +1843,9 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 5</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 15</li>
-            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 100</li>
+            <li> <a href="{{ "/tags/freestyle" | relative_url }}">freestyle</a> # 1</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 21</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1866,7 +1867,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 83</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1884,7 +1885,6 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 83</li>
             <li> <a href="{{ "/tags/euro-house" | relative_url }}">euro house</a> # 97</li>
         </ul>
       </td>
@@ -1922,8 +1922,8 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 23</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 25</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 30</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 44</li>
             <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 54</li>
             <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 87</li>
         </ul>
@@ -1965,8 +1965,8 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 73</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 76</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 24</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 28</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 77</li>
         </ul>
       </td>
@@ -2009,8 +2009,8 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 3</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 80</li>
-            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -2032,11 +2032,11 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 22</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 48</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 75</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 26</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 66</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 78</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 82</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 95</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -2055,7 +2055,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 52</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 49</li>
             <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 69</li>
             <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 73</li>
         </ul>
@@ -2077,11 +2077,11 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 6</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 30</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 9</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 32</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 65</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 90</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 91</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -2102,7 +2102,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 33</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -2142,7 +2142,7 @@ Dance-pop is a subgenre of pop music that emerged in the early 1980s and became 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 70</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 31</li>
         </ul>
       </td>
     </tr>

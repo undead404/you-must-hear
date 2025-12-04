@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-10T06:04:07.157Z
+date: 2025-12-03T22:12:48.496Z
 permalink: tags/gospel
 title: gospel
 ---
 
 ## gospel
 
-Last updated: <time datetime="2025-11-10T06:04:07.157Z">Mon Nov 10 2025 08:04:07 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T22:12:48.496Z">Thu Dec 04 2025 00:12:48 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,6 +31,7 @@ Gospel music is a genre of Christian music that originated in African American c
     <tr>
       <td>64</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f646f300bd7941cfc1f6b08b13049214.png" alt="Cover for Satan Is Real" style="max-width:120px; height:auto;" />
       </td>
       <td>1959-11-16</td>
       <td>The Louvin Brothers</td>
@@ -153,6 +154,7 @@ Gospel music is a genre of Christian music that originated in African American c
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -180,6 +182,7 @@ Gospel music is a genre of Christian music that originated in African American c
     <tr>
       <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbaa946d2d8a8d8c420f1b220c4ea686.png" alt="Cover for Saved" style="max-width:120px; height:auto;" />
       </td>
       <td>1980-06-19</td>
       <td>Bob Dylan</td>
@@ -214,6 +217,7 @@ Gospel music is a genre of Christian music that originated in African American c
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -288,14 +292,14 @@ Gospel music is a genre of Christian music that originated in African American c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 76</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>5</td>
       <td>
-          <img src="https://i.discogs.com/j505_bvmECZD3U0h7gUDCooSN5Yx-E8MiMFWuw63yOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDM3/MTMtMTQ4NzI0Mjc2/NC0zNjgyLmpwZWc.jpeg" alt="Cover for James Morrison: Gospel Collection Volume One" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c754b082620a4260bb1b7c363d5ea51c.png" alt="Cover for James Morrison: Gospel Collection Volume One" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>James Morrison</td>
@@ -363,7 +367,7 @@ Gospel music is a genre of Christian music that originated in African American c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 10</li>
+            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -443,6 +447,7 @@ Gospel music is a genre of Christian music that originated in African American c
     <tr>
       <td>70</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e38832532c8b0166f3656208937a0895.png" alt="Cover for Spirit of the Century" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-04-02</td>
       <td>The Blind Boys Of Alabama</td>
@@ -556,9 +561,9 @@ Gospel music is a genre of Christian music that originated in African American c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 43</li>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 68</li>
-            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 79</li>
+            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 22</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 33</li>
+            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -595,9 +600,9 @@ Gospel music is a genre of Christian music that originated in African American c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 45</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 63</li>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 92</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 9</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 47</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -854,7 +859,7 @@ Gospel music is a genre of Christian music that originated in African American c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 67</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1002,6 +1007,7 @@ Gospel music is a genre of Christian music that originated in African American c
     <tr>
       <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c8142d49e764baeb46a83f17d2185ce.png" alt="Cover for What the Crow Brings" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09-21</td>
       <td>The Low Anthem</td>
@@ -1015,7 +1021,7 @@ Gospel music is a genre of Christian music that originated in African American c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 97</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1036,8 +1042,9 @@ Gospel music is a genre of Christian music that originated in African American c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 6</li>
-            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 83</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 2</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 9</li>
+            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1059,9 +1066,9 @@ Gospel music is a genre of Christian music that originated in African American c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 17</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 30</li>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 87</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 14</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 19</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1137,7 +1144,7 @@ Gospel music is a genre of Christian music that originated in African American c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 36</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1174,7 +1181,7 @@ Gospel music is a genre of Christian music that originated in African American c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 27</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1251,7 +1258,7 @@ Gospel music is a genre of Christian music that originated in African American c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 85</li>
+            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1422,7 +1429,7 @@ Gospel music is a genre of Christian music that originated in African American c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 13</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1440,7 +1447,7 @@ Gospel music is a genre of Christian music that originated in African American c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 9</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1458,7 +1465,9 @@ Gospel music is a genre of Christian music that originated in African American c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 57</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 29</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 40</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1494,7 +1503,7 @@ Gospel music is a genre of Christian music that originated in African American c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 34</li>
+            <li> <a href="{{ "/tags/worship" | relative_url }}">worship</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1550,6 +1559,7 @@ Gospel music is a genre of Christian music that originated in African American c
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1585,14 +1595,14 @@ Gospel music is a genre of Christian music that originated in African American c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 10</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/V1abIXjkVIXPUtAK6KRNfcDDwl6MCXWeB8_B9Ta2APs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjcx/ODItMTQzMjkzNTY3/MC0yNjA1LmpwZWc.jpeg" alt="Cover for Algiers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/55e7362ee0ae544739b0263df2f9d2eb.png" alt="Cover for Algiers" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-06-02</td>
       <td>Algiers</td>
@@ -1624,7 +1634,7 @@ Gospel music is a genre of Christian music that originated in African American c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 58</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1644,10 +1654,11 @@ Gospel music is a genre of Christian music that originated in African American c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 40</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 55</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 71</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 85</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 5</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 14</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 25</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 34</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1761,7 +1772,7 @@ Gospel music is a genre of Christian music that originated in African American c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 63</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 33</li>
             <li> <a href="{{ "/tags/christian-rap" | relative_url }}">christian rap</a> # 99</li>
             <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 100</li>
         </ul>
@@ -1808,7 +1819,7 @@ Gospel music is a genre of Christian music that originated in African American c
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/D3TWoHIJJOwRL6OCYxw_tIGi5wgMjcHNZ4fZVThrWok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDI4/NDgtMTQ3NzU2NDQx/OC03ODM2LmpwZWc.jpeg" alt="Cover for Broadway-Blues-Ballads" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/830749d8d79bf137f9c64960e102e690.png" alt="Cover for Broadway-Blues-Ballads" style="max-width:120px; height:auto;" />
       </td>
       <td>2021</td>
       <td>Nina Simone</td>
@@ -1828,9 +1839,9 @@ Gospel music is a genre of Christian music that originated in African American c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 17</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 27</li>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 45</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 48</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 49</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1849,8 +1860,9 @@ Gospel music is a genre of Christian music that originated in African American c
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 50</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 72</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 46</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 73</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 83</li>
             <li> <a href="{{ "/tags/christian-rap" | relative_url }}">christian rap</a> # 98</li>
         </ul>
       </td>
@@ -1886,8 +1898,6 @@ Gospel music is a genre of Christian music that originated in African American c
       <td>Donda (Deluxe)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
         </ul>
       </td>
       <td>
@@ -1909,6 +1919,7 @@ Gospel music is a genre of Christian music that originated in African American c
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 96</li>
         </ul>
       </td>
     </tr>

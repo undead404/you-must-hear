@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T11:00:00.782Z
+date: 2025-12-03T22:13:57.505Z
 permalink: tags/avant-rock
 title: avant-rock
 ---
 
 ## avant-rock
 
-Last updated: <time datetime="2025-11-23T11:00:00.782Z">Sun Nov 23 2025 13:00:00 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T22:13:57.505Z">Thu Dec 04 2025 00:13:57 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -63,7 +63,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 38</li>
+            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -122,9 +122,9 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 9</li>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 68</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 80</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 13</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 33</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -163,7 +163,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 27</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -261,8 +261,8 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 69</li>
-            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 79</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 32</li>
+            <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -281,7 +281,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 4</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -524,7 +524,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 44</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -545,7 +545,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 25</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -582,12 +582,12 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 23</li>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 48</li>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 47</li>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 63</li>
             <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 71</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 71</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 75</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -639,8 +639,8 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 17</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 51</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 50</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -814,6 +814,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/519212cc62e149ea16d5fd5c579e5c27.png" alt="Cover for Sédatifs en Fréquences et Sillons" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-10-23</td>
       <td>Fly Pan Am</td>
@@ -871,7 +872,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 5</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -910,7 +911,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 69</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -956,7 +957,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 15</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 13</li>
             <li> <a href="{{ "/tags/melbourne" | relative_url }}">melbourne</a> # 94</li>
         </ul>
       </td>
@@ -1019,6 +1020,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
     <tr>
       <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eaa625c1d90b4418804cde4d42a4648c.png" alt="Cover for Dog Fox Gone to Ground" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-04</td>
       <td>Aidan Baker</td>
@@ -1180,7 +1182,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
     <tr>
       <td>7</td>
       <td>
-          <img src="https://i.discogs.com/sLcKNECOAQeYaHvGhGrpx-vateXrhUbxZ00YmR1zWEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI5/OTQtMTI3ODk3Njgw/Ny5wbmc.jpeg" alt="Cover for Ego-God" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7b93a307a68ed424a5f6eca54494eff1.png" alt="Cover for Ego-God" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-11-01</td>
       <td>Barbagallo</td>
@@ -1296,6 +1298,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
     <tr>
       <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/39bdce25b05b841fdcf55d6a80aaafae.png" alt="Cover for Children of the Shortwave" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-05-24</td>
       <td>The Owl Archimedes</td>
@@ -1314,7 +1317,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 14</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1340,7 +1343,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/13hO-hWogkvtkel9-vsTO7Ds_gXNe0PoVEoH5lBgjcg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDgx/NTItMTI1NDM2MTMx/MC5qcGVn.jpeg" alt="Cover for 104.6 WTEL" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/03393178d25b09ebde3e029a4660da95.png" alt="Cover for 104.6 WTEL" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-25</td>
       <td>Telemetrics</td>
@@ -1436,14 +1439,14 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 3</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/ZBab7JClFdEFmwAe5P0ZJX7RemAig4tMQMlcwfvVVvw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDgx/NTktMTI1NDM2MjQz/NS5naWY.jpeg" alt="Cover for Infinite" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0711f6ac593b4a0486ce842369508cc0.png" alt="Cover for Infinite" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-06-17</td>
       <td>Our Subatomic Earth</td>
@@ -1464,7 +1467,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 16</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1495,7 +1498,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/xs6RfgGusi_N2hdRPtJXOuCUOMSs_dYlSdS3fTqa7nQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/NjQtMTI1MzQ1MDEz/Mi5qcGVn.jpeg" alt="Cover for Slow Country for Old Men" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1f6a6c76feb759868f1c508a8efc5d1.png" alt="Cover for Slow Country for Old Men" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09-16</td>
       <td>Psychon</td>
@@ -1542,7 +1545,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
     <tr>
       <td>1</td>
       <td>
-          <img src="https://i.discogs.com/PlpGx2QVBYUPBejIz6NpijYN_CLq_P7ROdmD1MNvsps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTUw/MTYtMTMyOTUxNTQ3/Ny5qcGVn.jpeg" alt="Cover for Origin" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d956817027f5e60821f55b3265527ac.png" alt="Cover for Origin" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-14</td>
       <td>Our Subatomic Earth</td>
@@ -1569,7 +1572,6 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/BDwC61xiK_dsxq6FB7n7NHsqPtV0O5mUlKyv_3-CCn4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjMx/ODAtMTMwNzQ3NjYy/MC5qcGVn.jpeg" alt="Cover for &amp; New Past Tense" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-27</td>
       <td>M. Pyres</td>
@@ -1590,8 +1592,8 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 8</li>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 54</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1712,8 +1714,8 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 30</li>
             <li> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a> # 57</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 71</li>
             <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 80</li>
         </ul>
       </td>
@@ -1721,7 +1723,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/Osv0XvfQ_q8NwvGJPzeTILpcJ-V-ABr1AFBpVl-sxLs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTI3/NzItMTMwNzkzMjI5/MC5qcGVn.jpeg" alt="Cover for split face EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/64b458f5d356dd6f8f04c941bdc65ea1.png" alt="Cover for split face EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-30</td>
       <td>Cults</td>
@@ -1740,8 +1742,8 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 63</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 70</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 31</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 37</li>
             <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 75</li>
         </ul>
       </td>
@@ -1789,7 +1791,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 32</li>
+            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1859,6 +1861,7 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
     <tr>
       <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e840a2eb7d40495d87034d828728626b.png" alt="Cover for Amur" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-07-04</td>
       <td>taras bul&#39;ba</td>
@@ -1934,17 +1937,17 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 1</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 39</li>
             <li> <a href="{{ "/tags/drone-rock" | relative_url }}">drone rock</a> # 41</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 62</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 86</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/7cvHpGOQS9fYbOw9fMfsGsKi6YxOGxeFryfCQeysznI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzY2/NDctMTM3MTkxODc4/NC05ODIxLmpwZWc.jpeg" alt="Cover for beko_21" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/36e7d54c0af96c66fa56b70f83c52298.png" alt="Cover for beko_21" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-11</td>
       <td>Cough Cool</td>
@@ -1964,8 +1967,8 @@ Avant-rock pushes rock music beyond conventional boundaries through experimental
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 6</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 7</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 48</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 52</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 93</li>
         </ul>
       </td>
     </tr>

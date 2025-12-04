@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T11:18:21.126Z
+date: 2025-12-03T22:14:56.521Z
 permalink: tags/jangle-pop
 title: jangle pop
 ---
 
 ## jangle pop
 
-Last updated: <time datetime="2025-11-23T11:18:21.126Z">Sun Nov 23 2025 13:18:21 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T22:14:56.521Z">Thu Dec 04 2025 00:14:56 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,6 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -81,7 +80,7 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 38</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -170,11 +169,9 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 46</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 50</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 49</li>
             <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 81</li>
             <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 92</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -193,8 +190,8 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 18</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 86</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 15</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -230,11 +227,9 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 25</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 34</li>
             <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 51</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 52</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 85</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 66</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 75</li>
             <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 99</li>
         </ul>
       </td>
@@ -253,10 +248,8 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 4</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 88</li>
             <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 89</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 99</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -291,7 +284,7 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 78</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -309,14 +302,12 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 9</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 29</li>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 68</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 81</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 97</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 4</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 67</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 70</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 87</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 88</li>
             <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 98</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 100</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -370,7 +361,7 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 93</li>
+            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -460,7 +451,7 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 67</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 66</li>
             <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 82</li>
         </ul>
       </td>
@@ -607,7 +598,7 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 63</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -649,8 +640,8 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 5</li>
             <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 68</li>
-            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -669,7 +660,7 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 74</li>
+            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -686,7 +677,7 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 18</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -705,11 +696,11 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 22</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 43</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 66</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 83</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 87</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 14</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 58</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 68</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 77</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 86</li>
             <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 100</li>
         </ul>
       </td>
@@ -730,7 +721,7 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 47</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -843,26 +834,7 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 32</li>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 56</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>64</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ed610d3ea4e0544aca02309d858fde1.png" alt="Cover for #1 Record (Remastered)" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1992</td>
-      <td>Big Star</td>
-      <td>#1 Record (Remastered)</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 24</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -887,6 +859,23 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
     </tr>
     <tr>
+      <td>64</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ed610d3ea4e0544aca02309d858fde1.png" alt="Cover for #1 Record (Remastered)" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>Big Star</td>
+      <td>#1 Record (Remastered)</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>54</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8808cce994244a6e968c157b894ef136.png" alt="Cover for It&#39;s a Shame About Ray" style="max-width:120px; height:auto;" />
@@ -902,7 +891,7 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 45</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -920,7 +909,7 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 91</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -939,7 +928,7 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 47</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -975,7 +964,6 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1057,7 +1045,7 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 18</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1169,8 +1157,8 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 10</li>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 89</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 12</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1298,7 +1286,7 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 31</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1318,8 +1306,8 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 79</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 98</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 3</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1339,7 +1327,7 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 40</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1393,7 +1381,7 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 56</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1432,7 +1420,7 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 1</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1451,7 +1439,7 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 54</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1493,9 +1481,7 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 35</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 66</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 74</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1514,9 +1500,9 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 12</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 28</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 76</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 24</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 25</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1538,7 +1524,7 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 90</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 10</li>
             <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 92</li>
         </ul>
       </td>
@@ -1558,7 +1544,8 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 27</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 72</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1580,7 +1567,7 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 88</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1633,7 +1620,7 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 97</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1651,6 +1638,8 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 84</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1669,9 +1658,9 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 5</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 24</li>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 37</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 28</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 40</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1690,6 +1679,7 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1730,10 +1720,10 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 96</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 99</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 99</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 2</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 5</li>
             <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 100</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1771,10 +1761,10 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 90</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 5</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 7</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 11</li>
             <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 92</li>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 94</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1797,10 +1787,10 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 95</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 98</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 100</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 100</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 1</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 1</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 5</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1888,11 +1878,6 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 4</li>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 9</li>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 21</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 66</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1939,8 +1924,8 @@ Jangle pop is a subgenre of alternative rock that originated in the mid-1980s in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 47</li>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 89</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 11</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 57</li>
             <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 98</li>
         </ul>
       </td>
