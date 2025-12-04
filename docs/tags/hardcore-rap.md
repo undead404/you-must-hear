@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T06:43:38.738Z
+date: 2025-12-04T00:54:22.454Z
 permalink: tags/hardcore-rap
 title: hardcore rap
 ---
 
 ## hardcore rap
 
-Last updated: <time datetime="2025-11-26T06:43:38.738Z">Wed Nov 26 2025 08:43:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T00:54:22.454Z">Thu Dec 04 2025 02:54:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -45,7 +45,7 @@ Hardcore rap, also known as hardcore hip-hop, is a subgenre of hip-hop music tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 98</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -68,8 +68,8 @@ Hardcore rap, also known as hardcore hip-hop, is a subgenre of hip-hop music tha
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 17</li>
             <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 32</li>
-            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -89,8 +89,8 @@ Hardcore rap, also known as hardcore hip-hop, is a subgenre of hip-hop music tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 37</li>
             <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 48</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -216,7 +216,7 @@ Hardcore rap, also known as hardcore hip-hop, is a subgenre of hip-hop music tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 44</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -236,7 +236,7 @@ Hardcore rap, also known as hardcore hip-hop, is a subgenre of hip-hop music tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 8</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -257,7 +257,7 @@ Hardcore rap, also known as hardcore hip-hop, is a subgenre of hip-hop music tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 35</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -279,7 +279,7 @@ Hardcore rap, also known as hardcore hip-hop, is a subgenre of hip-hop music tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 38</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -318,11 +318,11 @@ Hardcore rap, also known as hardcore hip-hop, is a subgenre of hip-hop music tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 3</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 4</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 14</li>
             <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 37</li>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 46</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 87</li>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 88</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 55</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 89</li>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 96</li>
         </ul>
       </td>
@@ -341,11 +341,11 @@ Hardcore rap, also known as hardcore hip-hop, is a subgenre of hip-hop music tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 27</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 35</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 28</li>
             <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 39</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 55</li>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 56</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 43</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 45</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -368,9 +368,9 @@ Hardcore rap, also known as hardcore hip-hop, is a subgenre of hip-hop music tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 9</li>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 60</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 78</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 22</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 41</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -393,8 +393,8 @@ Hardcore rap, also known as hardcore hip-hop, is a subgenre of hip-hop music tha
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 17</li>
             <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 49</li>
-            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -468,7 +468,7 @@ Hardcore rap, also known as hardcore hip-hop, is a subgenre of hip-hop music tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 42</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -489,7 +489,7 @@ Hardcore rap, also known as hardcore hip-hop, is a subgenre of hip-hop music tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 92</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -541,7 +541,7 @@ Hardcore rap, also known as hardcore hip-hop, is a subgenre of hip-hop music tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 20</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -563,7 +563,7 @@ Hardcore rap, also known as hardcore hip-hop, is a subgenre of hip-hop music tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 81</li>
+            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -601,7 +601,7 @@ Hardcore rap, also known as hardcore hip-hop, is a subgenre of hip-hop music tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 67</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -692,7 +692,7 @@ Hardcore rap, also known as hardcore hip-hop, is a subgenre of hip-hop music tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 56</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 57</li>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 60</li>
             <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 65</li>
         </ul>
@@ -850,7 +850,7 @@ Hardcore rap, also known as hardcore hip-hop, is a subgenre of hip-hop music tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 50</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -869,8 +869,8 @@ Hardcore rap, also known as hardcore hip-hop, is a subgenre of hip-hop music tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 1</li>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 16</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -909,8 +909,8 @@ Hardcore rap, also known as hardcore hip-hop, is a subgenre of hip-hop music tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 2</li>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 17</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -929,7 +929,7 @@ Hardcore rap, also known as hardcore hip-hop, is a subgenre of hip-hop music tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 97</li>
+            <li> <a href="{{ "/tags/detroit-rap" | relative_url }}">detroit rap</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -948,8 +948,8 @@ Hardcore rap, also known as hardcore hip-hop, is a subgenre of hip-hop music tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 2</li>
             <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 38</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -971,7 +971,7 @@ Hardcore rap, also known as hardcore hip-hop, is a subgenre of hip-hop music tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 14</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1012,7 +1012,7 @@ Hardcore rap, also known as hardcore hip-hop, is a subgenre of hip-hop music tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 88</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1071,7 +1071,7 @@ Hardcore rap, also known as hardcore hip-hop, is a subgenre of hip-hop music tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 77</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1202,7 +1202,7 @@ Hardcore rap, also known as hardcore hip-hop, is a subgenre of hip-hop music tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 50</li>
+            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1261,7 +1261,7 @@ Hardcore rap, also known as hardcore hip-hop, is a subgenre of hip-hop music tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 99</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1281,7 +1281,7 @@ Hardcore rap, also known as hardcore hip-hop, is a subgenre of hip-hop music tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 54</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1406,7 +1406,7 @@ Hardcore rap, also known as hardcore hip-hop, is a subgenre of hip-hop music tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 66</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1553,7 +1553,7 @@ Hardcore rap, also known as hardcore hip-hop, is a subgenre of hip-hop music tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 25</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1593,10 +1593,10 @@ Hardcore rap, also known as hardcore hip-hop, is a subgenre of hip-hop music tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 2</li>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 45</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 76</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 89</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 6</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 12</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 25</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1812,7 +1812,7 @@ Hardcore rap, also known as hardcore hip-hop, is a subgenre of hip-hop music tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 3</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 5</li>
             <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 95</li>
         </ul>
       </td>
@@ -1836,8 +1836,8 @@ Hardcore rap, also known as hardcore hip-hop, is a subgenre of hip-hop music tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 84</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 86</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 15</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 17</li>
             <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 88</li>
             <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 100</li>
         </ul>
@@ -1857,7 +1857,7 @@ Hardcore rap, also known as hardcore hip-hop, is a subgenre of hip-hop music tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 55</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1980,7 +1980,7 @@ Hardcore rap, also known as hardcore hip-hop, is a subgenre of hip-hop music tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 26</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 75</li>
         </ul>
       </td>
     </tr>

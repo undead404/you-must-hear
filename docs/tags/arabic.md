@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T12:28:21.952Z
+date: 2025-12-04T00:38:06.929Z
 permalink: tags/arabic
 title: arabic
 ---
 
 ## arabic
 
-Last updated: <time datetime="2025-11-15T12:28:21.952Z">Sat Nov 15 2025 14:28:21 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T00:38:06.929Z">Thu Dec 04 2025 02:38:06 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ Arabic music encompasses the diverse musical traditions of the Arab world, chara
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/BwiscRJMHWL0Q2rGqrcIgOy69S0AnncwLjGA85PVhkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjA4/NjgtMTI5NTQ0NTU2/OC5qcGVn.jpeg" alt="Cover for Music Of Nubia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/745219aaf56f4766a044c6fa09543f2d.png" alt="Cover for Music Of Nubia" style="max-width:120px; height:auto;" />
       </td>
       <td>1964</td>
       <td>Hamza El Din</td>
@@ -78,7 +78,7 @@ Arabic music encompasses the diverse musical traditions of the Arab world, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 30</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -96,7 +96,7 @@ Arabic music encompasses the diverse musical traditions of the Arab world, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 80</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -289,7 +289,7 @@ Arabic music encompasses the diverse musical traditions of the Arab world, chara
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/R9Z7bBylXgNWD0UhWv216CNFLILd7aYAZpPjEFmFT64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0OTM3/Ny0xMTQzMjQ1MjMx/LmpwZWc.jpeg" alt="Cover for Thimar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/48cb55e424cb43a5b28581724409a0fb.png" alt="Cover for Thimar" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-01</td>
       <td>Anouar Brahem</td>
@@ -322,7 +322,7 @@ Arabic music encompasses the diverse musical traditions of the Arab world, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 3</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -362,7 +362,7 @@ Arabic music encompasses the diverse musical traditions of the Arab world, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 13</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 87</li>
             <li> <a href="{{ "/tags/mediterranean" | relative_url }}">mediterranean</a> # 98</li>
         </ul>
       </td>
@@ -370,7 +370,7 @@ Arabic music encompasses the diverse musical traditions of the Arab world, chara
     <tr>
       <td>13</td>
       <td>
-          <img src="https://i.discogs.com/MbWVsSLnwj-G-tffY6M_XR_Lns6zQ8fsnky6iCInRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODMy/NzMtMTQzOTAzOTEz/MS04MDExLmpwZWc.jpeg" alt="Cover for Buddha Sounds, Volume 2: The Arabic Dream" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7a98e61aca74d5dbd3efa33d242485b.png" alt="Cover for Buddha Sounds, Volume 2: The Arabic Dream" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Various Artists</td>
@@ -434,7 +434,7 @@ Arabic music encompasses the diverse musical traditions of the Arab world, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 56</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -454,8 +454,8 @@ Arabic music encompasses the diverse musical traditions of the Arab world, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 18</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 36</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 65</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -533,7 +533,7 @@ Arabic music encompasses the diverse musical traditions of the Arab world, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 34</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -576,6 +576,7 @@ Arabic music encompasses the diverse musical traditions of the Arab world, chara
     <tr>
       <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ae4cd7f89a445a7bd97c3965e79feb1.png" alt="Cover for Le Pas Du Chat Noir" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-08-27</td>
       <td>Anouar Brahem</td>
@@ -595,7 +596,7 @@ Arabic music encompasses the diverse musical traditions of the Arab world, chara
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/uXasJSjuAnLFzg9ia-Cluz_l-mVlh9X8AKXj4GKIKSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjIw/NDAtMTU1NDY1Mjk0/MC05NTgxLmpwZWc.jpeg" alt="Cover for Du Sud Au Nord" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4735f139b118835962b22e5b4ccd9b4f.png" alt="Cover for Du Sud Au Nord" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Cheb Mami</td>
@@ -634,7 +635,7 @@ Arabic music encompasses the diverse musical traditions of the Arab world, chara
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/8YoKICifUCtkLV3gtvZovo_NoUO1YLNjU2eGozLAV1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Mzk0/MjEtMTMzMDcwOTAx/Ny5qcGVn.jpeg" alt="Cover for Deb (Heart Broken)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fce383583a4e31c0e26116a4be6996d.png" alt="Cover for Deb (Heart Broken)" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Souad Massi</td>
@@ -647,7 +648,7 @@ Arabic music encompasses the diverse musical traditions of the Arab world, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 5</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -852,8 +853,8 @@ Arabic music encompasses the diverse musical traditions of the Arab world, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 22</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 86</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 15</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 25</li>
             <li> <a href="{{ "/tags/tunisia" | relative_url }}">tunisia</a> # 100</li>
         </ul>
       </td>
@@ -892,11 +893,11 @@ Arabic music encompasses the diverse musical traditions of the Arab world, chara
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 1</li>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 24</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 32</li>
             <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 81</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 92</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 100</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1059,7 +1060,7 @@ Arabic music encompasses the diverse musical traditions of the Arab world, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 13</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 12</li>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 64</li>
         </ul>
       </td>
@@ -1159,7 +1160,7 @@ Arabic music encompasses the diverse musical traditions of the Arab world, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 66</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1182,7 +1183,7 @@ Arabic music encompasses the diverse musical traditions of the Arab world, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 23</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 78</li>
             <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 95</li>
         </ul>
       </td>
@@ -1208,6 +1209,7 @@ Arabic music encompasses the diverse musical traditions of the Arab world, chara
     <tr>
       <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/52bc2b2841969bdb70160aedd584eb9c.png" alt="Cover for Elektrafone" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-04</td>
       <td>Beats Antique</td>
@@ -1219,7 +1221,7 @@ Arabic music encompasses the diverse musical traditions of the Arab world, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 96</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1346,8 +1348,8 @@ Arabic music encompasses the diverse musical traditions of the Arab world, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 3</li>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 56</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 58</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 71</li>
             <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 97</li>
         </ul>
       </td>
@@ -1462,7 +1464,7 @@ Arabic music encompasses the diverse musical traditions of the Arab world, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 56</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 44</li>
             <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 61</li>
         </ul>
       </td>
@@ -1501,7 +1503,7 @@ Arabic music encompasses the diverse musical traditions of the Arab world, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall-reggae" | relative_url }}">dancehall reggae</a> # 50</li>
+            <li> <a href="{{ "/tags/dancehall-reggae" | relative_url }}">dancehall reggae</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1806,6 +1808,7 @@ Arabic music encompasses the diverse musical traditions of the Arab world, chara
     <tr>
       <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c6dbdb6c3e3f81708dff7422fc29c4c.png" alt="Cover for Bihinn" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Wael Kfoury</td>
@@ -1936,7 +1939,7 @@ Arabic music encompasses the diverse musical traditions of the Arab world, chara
 - [instrumental]({{ "/tags/instrumental" | relative_url }})
 - [folk]({{ "/tags/folk" | relative_url }})
 - [ethnic]({{ "/tags/ethnic" | relative_url }})
-- [oud]({{ "/tags/oud" | relative_url }})
 - [africa]({{ "/tags/africa" | relative_url }})
+- [oud]({{ "/tags/oud" | relative_url }})
 - [morocco]({{ "/tags/morocco" | relative_url }})
 - [north africa]({{ "/tags/north-africa" | relative_url }})

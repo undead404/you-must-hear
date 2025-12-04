@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T07:12:52.405Z
+date: 2025-12-04T00:55:43.648Z
 permalink: tags/desert-rock
 title: desert rock
 ---
 
 ## desert rock
 
-Last updated: <time datetime="2025-11-03T07:12:52.405Z">Mon Nov 03 2025 09:12:52 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T00:55:43.648Z">Thu Dec 04 2025 02:55:43 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -65,7 +65,7 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 80</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -83,8 +83,8 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 3</li>
-            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 31</li>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 33</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -103,15 +103,14 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 29</li>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 86</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 14</li>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>89</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/49663522cd3652371e0186545e87e6d4.png" alt="Cover for Welcome to Sky Valley" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-06-27</td>
       <td>Kyuss</td>
@@ -123,8 +122,8 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 30</li>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 91</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 8</li>
+            <li> <a href="{{ "/tags/stoner-metal" | relative_url }}">stoner metal</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -181,7 +180,7 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 93</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -217,14 +216,13 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 85</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>4</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1df7b36f57056c7c227d70977d8cc585.png" alt="Cover for Let It Burn" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Nebula</td>
@@ -300,6 +298,7 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
     <tr>
       <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/43e2ce2aa5524ba9cb963e31a2f372c0.png" alt="Cover for Power of Three" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-04-28</td>
       <td>Fatso Jetson</td>
@@ -328,7 +327,7 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 90</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -383,7 +382,7 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 52</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -402,7 +401,7 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 82</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -421,7 +420,7 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 94</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -496,7 +495,7 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 8</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -536,7 +535,7 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 63</li>
+            <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -560,7 +559,6 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/XU0PtXLFbhgCxH-mbAjEefEb-VMUrS7_eJRYWsGefHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTQy/NTUtMTQ3MDg0OTU3/OS0zMDI2LmpwZWc.jpeg" alt="Cover for Disco Marching Kraft" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-07-23</td>
       <td>Earthlings?</td>
@@ -593,7 +591,7 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 100</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -631,7 +629,7 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 73</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -673,7 +671,6 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/l3lT30cMDT3zPBZgHMI-853eF9ksaq905Hku3bD7cmI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTcy/MDYtMTY1NzI2Nzgy/MC03MDYwLmpwZWc.jpeg" alt="Cover for Dos" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-10-27</td>
       <td>Orquesta del Desierto</td>
@@ -772,14 +769,13 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 95</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/ycN0Tg8cjarKqBadwEK5dbkPo7etEEvjbceJjfWyYE0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MTc4/MS0xNDU2OTUzMzM4/LTkxNDYuanBlZw.jpeg" alt="Cover for I Got a Brand New Egg Layin&#39; Machine" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-06-06</td>
       <td>Goon Moon</td>
@@ -916,7 +912,6 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/jAaXZmK4r5qIEM19S5_Z8PiZtrTPXQgjpd7cKn2ipN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDE5/MzctMTQxMjcxMzg4/Ni00NzQzLmpwZWc.jpeg" alt="Cover for El Universo Perdido De Los Natas" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Los Natas</td>
@@ -1000,14 +995,14 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 92</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/OvLP7-Yaf1HQ27WowcEbJs8QZB-ow0R80eL71RWs_yw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQz/NDgtMTMwNzQ0OTQ2/Ny5qcGVn.jpeg" alt="Cover for R [Japan Bonus Track]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/08f295c20b824a2b8aa1e138d64cfee1.png" alt="Cover for R [Japan Bonus Track]" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-06-08</td>
       <td>Queens of the Stone Age</td>
@@ -1103,11 +1098,12 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 58</li>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 59</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 62</li>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 98</li>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 98</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 2</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 3</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 26</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 30</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 57</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1181,7 +1177,7 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 33</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 65</li>
             <li> <a href="{{ "/tags/greekpunk" | relative_url }}">greekpunk</a> # 98</li>
         </ul>
       </td>
@@ -1230,7 +1226,7 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
       <td>
         <ul>
             <li> <a href="{{ "/tags/stoner-doom" | relative_url }}">stoner doom</a> # 5</li>
-            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 73</li>
+            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1272,7 +1268,7 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/_KhkzL6VtYpwRZrDgiZdnsuoKA-N0p3uaI87wrenJko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MjE2/MjAtMTQwMzYyOTcz/MC03NzU4LmpwZWc.jpeg" alt="Cover for Blood from a Stone" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/43e9b321614e4e41ced08e8624390fbd.png" alt="Cover for Blood from a Stone" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Daddy Long Legs</td>
@@ -1290,7 +1286,7 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 2</li>
+            <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 3</li>
             <li> <a href="{{ "/tags/harmonica-blues" | relative_url }}">harmonica blues</a> # 82</li>
         </ul>
       </td>
@@ -1298,6 +1294,7 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
     <tr>
       <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6cb4ec6d53914eb2ce02b4ddf4d3a1de.png" alt="Cover for The Worrying Kind" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-04-11</td>
       <td>Get Your Gun</td>
@@ -1331,10 +1328,11 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 14</li>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 29</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 95</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 98</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 3</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 7</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 10</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 48</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1364,7 +1362,7 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/qfTtok5od4F2Uj2yR6Ui1YvpstPGfEoBZvMjI5RhrkI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODA1/MTEtMTQ0NjU4NzY2/OS0yNTQxLmpwZWc.jpeg" alt="Cover for Dying Surfer Meets His Maker" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e0bda37be4089d5833f678733c6c5e6.png" alt="Cover for Dying Surfer Meets His Maker" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-10-30</td>
       <td>All Them Witches</td>
@@ -1378,6 +1376,7 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1424,7 +1423,7 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/mJVYIRqDh9ssD0gJxWgtvtMV841zr_vBnQzehMDU8ng/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NDA1/MzktMTQ3MTg4NzUx/NC05ODQzLmpwZWc.jpeg" alt="Cover for Historical Graffiti" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0279654b289fb185a0d747003f163268.png" alt="Cover for Historical Graffiti" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Yawning Man</td>
@@ -1539,7 +1538,7 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/Y8c1AKtLWA0AD8cR1Xn3wlhpkCI8LAyo-ky-mDZcF9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzI2/MTAwLTE1MzI5ODUz/MjktOTI3NS5qcGVn.jpeg" alt="Cover for The Revolt Against Tired Noises" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9d97e7a70f0ecb4975a32ae8bccd611.png" alt="Cover for The Revolt Against Tired Noises" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-06-18</td>
       <td>Yawning Man</td>
@@ -1579,7 +1578,6 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/3JLt7_RIPkXEzKcah5dwdLj7K5GaBS0A_kQG9t1CnyA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjk4/MjIxLTE2MTM4MTU0/MjgtODU0NC5qcGVn.jpeg" alt="Cover for Vale" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>Khan</td>
@@ -1636,7 +1634,7 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/L5L1GBpX3EE-za6uUBz5VhVPLIqVonyA_853pH5BW_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzE2/OTg5LTE1NTk2NDg0/NDMtMzcxOC5qcGVn.jpeg" alt="Cover for För Meditation" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/88b5bd3512d51a46146d9a37b44a3c9a.png" alt="Cover for För Meditation" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-04</td>
       <td>Centrum</td>
@@ -1658,7 +1656,7 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/0V4m4FpylqKDbFCB9_yFrBABLOexYYxJgoimBqHI5ZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTkw/MzAxLTE1Njk1NjAx/NjctNDMxMy5qcGVn.jpeg" alt="Cover for Badakhshan" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9cd9fe76ae3185c2d09f77f0cd342cb1.png" alt="Cover for Badakhshan" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-09-27</td>
       <td>Hashshashin</td>
@@ -1697,8 +1695,8 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 79</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 87</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 22</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1796,7 +1794,7 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/VpAsMzKVLpnoyZ0UatKSaKfXJKlSrhAv5eTkiAkisHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDA3/MDA4LTE3MjI4NTgy/MDMtMTIzNC5qcGVn.jpeg" alt="Cover for The World&#39;s Gone Crazy and So Have I" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/78ebbd7f8f34c5ff21533aad5a80b28c.png" alt="Cover for The World&#39;s Gone Crazy and So Have I" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-03-19</td>
       <td>Nuns of the Tundra</td>
@@ -1816,7 +1814,6 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/uww_1e1luJ8F7csyLfHovGjodv3SzHRXVNMTF75o_rQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODky/MjIxLTE2MjkyMDg3/MDctMTM3Ny5qcGVn.jpeg" alt="Cover for Earthbound" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-11-12</td>
       <td>Kanaan</td>
@@ -1838,7 +1835,6 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/4k3qIX2dUrQNqVWBhiVfG52ItdWONFtvEVqlmRlpGw4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDcw/MTg1LTE2NTQwMjIw/MjEtNDgzMS5qcGVn.jpeg" alt="Cover for The Singularity" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-05-06</td>
       <td>Wo Fat</td>
@@ -1857,7 +1853,6 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/Gg0Tjd8uF9UZot5G-33yTyDea-KgZf48-3KSWy3g598/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MjUx/MC0xNDQ2NDUzOTA5/LTg5MDQuanBlZw.jpeg" alt="Cover for Saved By Magic" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Brant Bjork</td>
@@ -1877,7 +1872,6 @@ Desert rock is a subgenre of rock music that originated in the desert regions of
     <tr>
       <td>63</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/828ded1bc3fea65a97ddc39c13e19c07.png" alt="Cover for Downpour" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-05-05</td>
       <td>Kanaan</td>

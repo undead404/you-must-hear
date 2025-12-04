@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T06:56:38.511Z
+date: 2025-12-04T00:57:33.789Z
 permalink: tags/glam-rock
 title: glam rock
 ---
 
 ## glam rock
 
-Last updated: <time datetime="2025-11-26T06:56:38.511Z">Wed Nov 26 2025 08:56:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T00:57:33.789Z">Thu Dec 04 2025 02:57:33 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -69,7 +69,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 14</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -285,7 +285,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 31</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -321,8 +321,8 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 66</li>
-            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 90</li>
+            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 11</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -359,7 +359,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 63</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -524,7 +524,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 60</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -546,8 +546,8 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 77</li>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 93</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 8</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -617,7 +617,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 73</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -638,9 +638,9 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 69</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 10</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 32</li>
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 89</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 91</li>
             <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 91</li>
         </ul>
       </td>
@@ -680,7 +680,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 80</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 21</li>
             <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 93</li>
         </ul>
       </td>
@@ -735,7 +735,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 60</li>
+            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -753,8 +753,8 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 23</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 77</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 24</li>
+            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 78</li>
             <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 95</li>
         </ul>
       </td>
@@ -854,7 +854,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 17</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1062,7 +1062,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 37</li>
+            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1098,7 +1098,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 76</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1154,7 +1154,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 96</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1176,7 +1176,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 98</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1213,8 +1213,8 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 48</li>
             <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 50</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1288,7 +1288,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 41</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 60</li>
             <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 79</li>
         </ul>
       </td>
@@ -1309,7 +1309,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 80</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1389,7 +1389,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 61</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1408,7 +1408,6 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1464,7 +1463,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 43</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1537,7 +1536,7 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 45</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1708,8 +1707,8 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a> # 5</li>
             <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 94</li>
-            <li> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1728,8 +1727,8 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 35</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 93</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 8</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1748,8 +1747,8 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 61</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 74</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 26</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1788,8 +1787,8 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 41</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 67</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 34</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1825,12 +1824,12 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 51</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 65</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 80</li>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 83</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 88</li>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 96</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 5</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 13</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 18</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 21</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 36</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1850,9 +1849,9 @@ Glam rock is a genre of rock music that originated in the United Kingdom in the 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 68</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 68</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 89</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 12</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 33</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 34</li>
         </ul>
       </td>
     </tr>

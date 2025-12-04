@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-20T07:53:00.141Z
+date: 2025-12-04T00:55:49.836Z
 permalink: tags/ndw
 title: ndw
 ---
 
 ## ndw
 
-Last updated: <time datetime="2025-10-20T07:53:00.141Z">Mon Oct 20 2025 10:53:00 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T00:55:49.836Z">Thu Dec 04 2025 02:55:49 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
   </thead>
   <tbody>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://i.discogs.com/xCXWBfLTpWh2Y8jJMcu9h5h3o22lyejBL2cz2Dt1kIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODAz/NjE5LTE3MTY5MTA1/NTktNTQxNC5qcGVn.jpeg" alt="Cover for Classic Electro" style="max-width:120px; height:auto;" />
       </td>
@@ -45,15 +45,15 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 28</li>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 35</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 63</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>91</td>
       <td>
-          <img src="https://i.discogs.com/rnu36nJbqRP6RrBv-n0YNzPq3JeXU_Cig7gj2UfdFj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Nzgz/My0xNDAwMDE4Njg2/LTQ5MDQuanBlZw.jpeg" alt="Cover for Puppe Aus Glas" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa03fa48a98549a1b55c49337c58b1ae.png" alt="Cover for Puppe Aus Glas" style="max-width:120px; height:auto;" />
       </td>
       <td>1975</td>
       <td>Carmen</td>
@@ -71,45 +71,9 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>36</td>
       <td>
-          <img src="https://i.discogs.com/fxN6vcgA_kPJU5VaJMuewuq5ssNsYSaPq_NBNqYZDSI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MzUz/NjQtMTM5NTg3NTc0/NC0xMTc2LmpwZWc.jpeg" alt="Cover for BAMS 80er - NDW" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1977</td>
-      <td>Various</td>
-      <td>BAMS 80er - NDW</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>39</td>
-      <td>
-          <img src="https://i.discogs.com/Yty9oYq1VYzrjLVZA9lYOkyhdAsTbRNSCsRGZxSggfM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTc3/NzgtMTYxMzI0MjIw/Mi04ODQ5LmpwZWc.jpeg" alt="Cover for Dat Matscht So Schön" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1977</td>
-      <td>Torfrock</td>
-      <td>Dat Matscht So Schön</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>65</td>
-      <td>
-          <img src="https://i.discogs.com/pVjf6F2mELuLRJpR1g3AK3mcjvziMUJ3gHhzoDEFKe8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/LTE2NDc5NjEwMDgt/NjcwMS5qcGVn.jpeg" alt="Cover for New Deutsch" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a34dc70d1ff98b1455c7d79375ffb37c.png" alt="Cover for New Deutsch" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Various Artists</td>
@@ -127,31 +91,13 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>60</td>
       <td>
-          <img src="https://i.discogs.com/GXKWWF58YNxZjQK9GmWHjUCOl0PZJuoL_3juZeD7jaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjAy/Ny0xNDg5NjA0MTcy/LTk4NTcuanBlZw.jpeg" alt="Cover for Extrabreit - Ihre Allergrößten Erfolge" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/Yty9oYq1VYzrjLVZA9lYOkyhdAsTbRNSCsRGZxSggfM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTc3/NzgtMTYxMzI0MjIw/Mi04ODQ5LmpwZWc.jpeg" alt="Cover for Dat Matscht So Schön" style="max-width:120px; height:auto;" />
       </td>
-      <td>1980</td>
-      <td>Extrabreit</td>
-      <td>Extrabreit - Ihre Allergrößten Erfolge</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>43</td>
-      <td>
-          <img src="https://i.discogs.com/CMwgetcGvQLc6a3h-AHRkWHMiOL_SNb91lrPf8b7D4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5Mzky/OTAtMTUwNzU3NjQ0/NC04MjkyLnBuZw.jpeg" alt="Cover for Eisbären Und Zitronen" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1980</td>
-      <td>Die Radierer</td>
-      <td>Eisbären Und Zitronen</td>
+      <td>1977</td>
+      <td>Torfrock</td>
+      <td>Dat Matscht So Schön</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
@@ -163,17 +109,16 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>96</td>
       <td>
+          <img src="https://i.discogs.com/fxN6vcgA_kPJU5VaJMuewuq5ssNsYSaPq_NBNqYZDSI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MzUz/NjQtMTM5NTg3NTc0/NC0xMTc2LmpwZWc.jpeg" alt="Cover for BAMS 80er - NDW" style="max-width:120px; height:auto;" />
       </td>
-      <td>1980</td>
-      <td>Abwärts</td>
-      <td>Amok Koma</td>
+      <td>1977</td>
+      <td>Various</td>
+      <td>BAMS 80er - NDW</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
         </ul>
       </td>
       <td>
@@ -182,7 +127,42 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>3</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cae8c7095e8c49ad947c9d788eac16a5.png" alt="Cover for Ideal" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1980</td>
+      <td>Ideal</td>
+      <td>Ideal</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>
+      </td>
+      <td>1980</td>
+      <td>Rheingold</td>
+      <td>Rheingold</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/GXKWWF58YNxZjQK9GmWHjUCOl0PZJuoL_3juZeD7jaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjAy/Ny0xNDg5NjA0MTcy/LTk4NTcuanBlZw.jpeg" alt="Cover for Extrabreit. Ihre größten Erfolge" style="max-width:120px; height:auto;" />
       </td>
@@ -200,12 +180,13 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>56</td>
       <td>
+          <img src="https://i.discogs.com/CMwgetcGvQLc6a3h-AHRkWHMiOL_SNb91lrPf8b7D4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5Mzky/OTAtMTUwNzU3NjQ0/NC04MjkyLnBuZw.jpeg" alt="Cover for Eisbären Und Zitronen" style="max-width:120px; height:auto;" />
       </td>
       <td>1980</td>
-      <td>Rheingold</td>
-      <td>Rheingold</td>
+      <td>Die Radierer</td>
+      <td>Eisbären Und Zitronen</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
@@ -217,12 +198,13 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>95</td>
       <td>
+          <img src="https://i.discogs.com/GXKWWF58YNxZjQK9GmWHjUCOl0PZJuoL_3juZeD7jaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjAy/Ny0xNDg5NjA0MTcy/LTk4NTcuanBlZw.jpeg" alt="Cover for Extrabreit - Ihre Allergrößten Erfolge" style="max-width:120px; height:auto;" />
       </td>
       <td>1980</td>
-      <td>Ideal</td>
-      <td>Ideal</td>
+      <td>Extrabreit</td>
+      <td>Extrabreit - Ihre Allergrößten Erfolge</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
@@ -234,8 +216,26 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/01f8eb1c4f834063c090cea09ee71829.png" alt="Cover for Amok Koma" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1980</td>
+      <td>Abwärts</td>
+      <td>Amok Koma</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e88969ecb1344d0db2ee857f619a6a02.png" alt="Cover for Computerstaat" style="max-width:120px; height:auto;" />
       </td>
       <td>1980-04</td>
       <td>Abwärts</td>
@@ -251,13 +251,14 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 62</li>
+            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>18</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b67d90aaf79b44caf708f543ca86f040.png" alt="Cover for Monarchie und Alltag" style="max-width:120px; height:auto;" />
       </td>
       <td>1980-10-01</td>
       <td>Fehlfarben</td>
@@ -273,9 +274,9 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>13</td>
       <td>
-          <img src="https://i.discogs.com/TyB_JJy4ac6MBpeG63TU1VubiyG7Mw8AYfNK1cC9Oyc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MDI1/NS0xMzg4NTgwMDk3/LTc1MTUuanBlZw.jpeg" alt="Cover for Dolce Vita" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22375527c43544f28ef5b1fb9d42fb14.png" alt="Cover for Dolce Vita" style="max-width:120px; height:auto;" />
       </td>
       <td>1981</td>
       <td>Spider Murphy Gang</td>
@@ -287,12 +288,66 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 91</li>
+            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>26</td>
+      <td>
+      </td>
+      <td>1981</td>
+      <td>Fehlfarben</td>
+      <td>33 Tage in Ketten</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+      </td>
+      <td>1981</td>
+      <td>Trio</td>
+      <td>Trio</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a9b9baa56d5748e6a5763766b604a13a.png" alt="Cover for Der Ernst des Lebens" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1981</td>
+      <td>Ideal</td>
+      <td>Der Ernst des Lebens</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
       <td>
       </td>
       <td>1981</td>
@@ -309,59 +364,7 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>75</td>
-      <td>
-      </td>
-      <td>1981</td>
-      <td>Fehlfarben</td>
-      <td>33 Tage in Ketten</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>94</td>
-      <td>
-      </td>
-      <td>1981</td>
-      <td>Ideal</td>
-      <td>Der Ernst des Lebens</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>96</td>
-      <td>
-      </td>
-      <td>1981</td>
-      <td>Trio</td>
-      <td>Trio</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>54</td>
+      <td>46</td>
       <td>
       </td>
       <td>1981-04</td>
@@ -379,9 +382,9 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>90</td>
       <td>
-          <img src="https://i.discogs.com/yNHSFjJELzyWtCebXT3AMCN6zRentgKwFrvJN255ga0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzM3/NDEtMTMzOTgzODc5/Ny0zNTUyLmpwZWc.jpeg" alt="Cover for Georg" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/82ff055be0ce43dab264f02044ffb7f7.png" alt="Cover for Georg" style="max-width:120px; height:auto;" />
       </td>
       <td>1981-06</td>
       <td>Front</td>
@@ -401,10 +404,11 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
     <tr>
       <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f0efe8d530352a09253c35163ba7176.png" alt="Cover for Fehler im System" style="max-width:120px; height:auto;" />
       </td>
       <td>1982</td>
-      <td>Markus</td>
-      <td>Kugelblitze und Raketen</td>
+      <td>Peter Schilling</td>
+      <td>Fehler im System</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
@@ -416,13 +420,13 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>24</td>
       <td>
-          <img src="https://i.discogs.com/G7O6hc9Xr-BqyghmhH9iFIBR5PhhugbnWyIhN26IXW8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjEw/Ni0xMjc0OTYzMTI1/LmpwZWc.jpeg" alt="Cover for Ich Bereue Nichts - The Best Of Ina Deter" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a31b6e7ea3477152a33388a672f63e5.png" alt="Cover for Neue Männer braucht das Land" style="max-width:120px; height:auto;" />
       </td>
       <td>1982</td>
       <td>Ina Deter Band</td>
-      <td>Ich Bereue Nichts - The Best Of Ina Deter</td>
+      <td>Neue Männer braucht das Land</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
@@ -434,7 +438,7 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>53</td>
       <td>
           <img src="https://i.discogs.com/DNwDn0TevncRkbQ7mh4rGkFODD1EE2faLamieoB1OjQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0ODIx/NS0xMTg3ODIwMDkw/LmpwZWc.jpeg" alt="Cover for UltraKurzWelle" style="max-width:120px; height:auto;" />
       </td>
@@ -454,13 +458,13 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>71</td>
       <td>
-          <img src="https://i.discogs.com/G7O6hc9Xr-BqyghmhH9iFIBR5PhhugbnWyIhN26IXW8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjEw/Ni0xMjc0OTYzMTI1/LmpwZWc.jpeg" alt="Cover for Neue Männer braucht das Land" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/G7O6hc9Xr-BqyghmhH9iFIBR5PhhugbnWyIhN26IXW8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjEw/Ni0xMjc0OTYzMTI1/LmpwZWc.jpeg" alt="Cover for Ich Bereue Nichts - The Best Of Ina Deter" style="max-width:120px; height:auto;" />
       </td>
       <td>1982</td>
       <td>Ina Deter Band</td>
-      <td>Neue Männer braucht das Land</td>
+      <td>Ich Bereue Nichts - The Best Of Ina Deter</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
@@ -474,11 +478,10 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/vhjzzBQcMAg64pcRd54h9OojaLwP65z9WXGZ6iqN4k0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzI2/MC0xNjI3NjY1MDYy/LTE4MTIuanBlZw.jpeg" alt="Cover for Fehler im System" style="max-width:120px; height:auto;" />
       </td>
       <td>1982</td>
-      <td>Peter Schilling</td>
-      <td>Fehler im System</td>
+      <td>Markus</td>
+      <td>Kugelblitze und Raketen</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
@@ -490,8 +493,9 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>5</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bee3a26cda7a274e53a272f6eb9e68fd.png" alt="Cover for 85555" style="max-width:120px; height:auto;" />
       </td>
       <td>1982-01</td>
       <td>Spliff</td>
@@ -508,9 +512,9 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>64</td>
       <td>
-          <img src="https://i.discogs.com/Hp2saalaO7sYAHjDVBRPKZ3JrdpaqC9WNDWhg4FWKAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjEw/MC0xNDU2MDExNjc1/LTI1NDAuanBlZw.jpeg" alt="Cover for R." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f80247980bfb376683a00174500e15d.png" alt="Cover for R." style="max-width:120px; height:auto;" />
       </td>
       <td>1982-03</td>
       <td>Rheingold</td>
@@ -532,7 +536,7 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/c55dtfsb7SUOqFDhN5qdO3a9btoFlnislyj3iHJh_iQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODg5/MS0xNTcwMDIyMDYx/LTY3MDIuanBlZw.jpeg" alt="Cover for NDW - Sommersprossen" style="max-width:120px; height:auto;" />
       </td>
@@ -552,8 +556,9 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/562fd522bdba4fc38704a16a032b6b3f.png" alt="Cover for Live im Frühjahr 82" style="max-width:120px; height:auto;" />
       </td>
       <td>1982-10</td>
       <td>Trio</td>
@@ -569,7 +574,7 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
       </td>
       <td>1982-11</td>
@@ -586,17 +591,18 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>16</td>
       <td>
-          <img src="https://i.discogs.com/W75_XiyXbIaulbtfZQs-05fWk9Ar31HJ8jQDQjQ2NZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTQ5/MzQtMTQ1MTU2NzIy/My0yMTE0LmdpZg.jpeg" alt="Cover for &quot;...keine Ahnung&quot;" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec7fc11fe5ae39876ae866edbe65ea65.png" alt="Cover for Heiße Zeiten" style="max-width:120px; height:auto;" />
       </td>
       <td>1983</td>
-      <td>heute</td>
-      <td>&quot;...keine Ahnung&quot;</td>
+      <td>Geier Sturzflug</td>
+      <td>Heiße Zeiten</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>
@@ -605,24 +611,7 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>57</td>
-      <td>
-      </td>
-      <td>1983</td>
-      <td>Trio</td>
-      <td>Bye Bye</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
       </td>
       <td>1983</td>
@@ -641,17 +630,15 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>43</td>
       <td>
       </td>
       <td>1983</td>
-      <td>Geier Sturzflug</td>
-      <td>Heiße Zeiten</td>
+      <td>Trio</td>
+      <td>Bye Bye</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>
@@ -660,9 +647,28 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>88</td>
       <td>
-          <img src="https://i.discogs.com/as9oypsBRwRfZkT7chK_-UUoFstXzVnEfv2lZ_4jqfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTI3/Mi0xMzM4NDA3OTYz/LTMwNDUuanBlZw.jpeg" alt="Cover for Nena" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/W75_XiyXbIaulbtfZQs-05fWk9Ar31HJ8jQDQjQ2NZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTQ5/MzQtMTQ1MTU2NzIy/My0yMTE0LmdpZg.jpeg" alt="Cover for &quot;...keine Ahnung&quot;" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1983</td>
+      <td>heute</td>
+      <td>&quot;...keine Ahnung&quot;</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b722159fd2a452f1eb8fc1a9d1a01736.png" alt="Cover for Nena" style="max-width:120px; height:auto;" />
       </td>
       <td>1983-01-14</td>
       <td>Nena</td>
@@ -670,19 +676,18 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
-            <li style="font-size: calc(1rem * 53 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 97</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 13</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>77</td>
       <td>
-          <img src="https://i.discogs.com/r_JQpdL4ECfbRWDz03-7M6a39gcsAUorJwV2Wizdb-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjUw/MjYtMTI5MTY0NDIx/NC5qcGVn.jpeg" alt="Cover for Seltsame Zustände" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d19fb5b76a432cd9cacc9d27bf0ee46d.png" alt="Cover for Seltsame Zustände" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>Seltsame Zustände</td>
@@ -700,7 +705,7 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>85</td>
       <td>
       </td>
       <td>1984-05-16</td>
@@ -717,25 +722,7 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>64</td>
-      <td>
-          <img src="https://i.discogs.com/o8OK6GPUBUAyxR9f_oVYfN1I0LcUv398LHkEd05g-Cg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NDMy/OTMtMTQ0MTYxMjI1/MC05ODUxLmpwZWc.jpeg" alt="Cover for Alles Prima!" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1985</td>
-      <td>Steinwolke</td>
-      <td>Alles Prima!</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/bmHOCe44owHf7MmNukwEXc6xig1RSlBXnHMuRY__i9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMDk3/Ny0xNTI1NDU0MzU0/LTg1MDQuanBlZw.jpeg" alt="Cover for Fantasie [Deluxe Edition]" style="max-width:120px; height:auto;" />
       </td>
@@ -754,9 +741,27 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>37</td>
       <td>
-          <img src="https://i.discogs.com/LjWXTsfCC6_g16h6oRt3HmjdAxsNEdWUbUwozYsYndc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDU3/MjktMTQwODY5MDk1/NS0xOTY4LmpwZWc.jpeg" alt="Cover for Das Beste Von Peter Schilling" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/o8OK6GPUBUAyxR9f_oVYfN1I0LcUv398LHkEd05g-Cg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NDMy/OTMtMTQ0MTYxMjI1/MC05ODUxLmpwZWc.jpeg" alt="Cover for Alles Prima!" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1985</td>
+      <td>Steinwolke</td>
+      <td>Alles Prima!</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee111ac9666e48c1926eabbea4f4afd0.png" alt="Cover for Das Beste Von Peter Schilling" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Peter Schilling</td>
@@ -776,7 +781,7 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b16fa901329d4adca161938e445e616a.png" alt="Cover for Essential" style="max-width:120px; height:auto;" />
       </td>
@@ -797,8 +802,9 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec5ca7abc7d9747e79b75d3dd3a41e50.png" alt="Cover for D.A.F." style="max-width:120px; height:auto;" />
       </td>
       <td>1988-06</td>
       <td>Deutsch Amerikanische Freundschaft</td>
@@ -814,27 +820,9 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>41</td>
       <td>
-          <img src="https://i.discogs.com/IujSfQMUjQevS-6yurhKRY1929ZJpb0nCx4gBvhcvZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDQ2/ODc5LTE1NDcwOTU3/NDktMjc3My5qcGVn.jpeg" alt="Cover for Alles Prima!" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1989</td>
-      <td>Grauzone</td>
-      <td>Alles Prima!</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>59</td>
-      <td>
-          <img src="https://i.discogs.com/IujSfQMUjQevS-6yurhKRY1929ZJpb0nCx4gBvhcvZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDQ2/ODc5LTE1NDcwOTU3/NDktMjc3My5qcGVn.jpeg" alt="Cover for Eisbaer" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d154478b0cbf2357f33744db7724e4a.png" alt="Cover for Eisbaer" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Grauzone</td>
@@ -852,12 +840,13 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>86</td>
       <td>
+          <img src="https://i.discogs.com/IujSfQMUjQevS-6yurhKRY1929ZJpb0nCx4gBvhcvZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDQ2/ODc5LTE1NDcwOTU3/NDktMjc3My5qcGVn.jpeg" alt="Cover for Alles Prima!" style="max-width:120px; height:auto;" />
       </td>
-      <td>1990</td>
-      <td>Extrabreit</td>
-      <td>Das grenzt schon an Musik</td>
+      <td>1989</td>
+      <td>Grauzone</td>
+      <td>Alles Prima!</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
@@ -869,7 +858,7 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>12</td>
       <td>
       </td>
       <td>1990</td>
@@ -886,7 +875,24 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>99</td>
+      <td>
+      </td>
+      <td>1990</td>
+      <td>Extrabreit</td>
+      <td>Das grenzt schon an Musik</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/MfddRDhTBLwnxu-QcO-w6SLj1kiXtfNGCiQ9kQiv1Hs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTcx/NzQtMTYxMjA4MTM5/MS00MjU2LmpwZWc.jpeg" alt="Cover for Hurra, Hurra die Schule brennt" style="max-width:120px; height:auto;" />
       </td>
@@ -903,12 +909,13 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>29</td>
       <td>
+          <img src="https://i.discogs.com/pGLzGW2rW5-ED_mrP70FFIXWV6paHdYN9t5TQVweewE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTc5/MTEtMTMyMjY4MzE1/My5qcGVn.jpeg" alt="Cover for Stephan Remmler - Keine Sterne in Athen" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
-      <td>Der Plan</td>
-      <td>Die Peitsche des Lebens</td>
+      <td>Stephan Remmler</td>
+      <td>Stephan Remmler - Keine Sterne in Athen</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
@@ -920,7 +927,7 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/0gMqq3nOdtZ5n_vdHYvZqlVyrHxERyT5130inkq4g44/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTY5/MzAtMTIwOTEyODA4/Ny5qcGVn.jpeg" alt="Cover for 60 Hits - 60 Jahre Deutschland" style="max-width:120px; height:auto;" />
       </td>
@@ -941,13 +948,12 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>76</td>
       <td>
-          <img src="https://i.discogs.com/pGLzGW2rW5-ED_mrP70FFIXWV6paHdYN9t5TQVweewE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTc5/MTEtMTMyMjY4MzE1/My5qcGVn.jpeg" alt="Cover for Stephan Remmler - Keine Sterne in Athen" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
-      <td>Stephan Remmler</td>
-      <td>Stephan Remmler - Keine Sterne in Athen</td>
+      <td>Der Plan</td>
+      <td>Die Peitsche des Lebens</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
@@ -959,7 +965,7 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>52</td>
       <td>
           <img src="https://i.discogs.com/J5rgP2GMv8NWsaDNoh-NykXR-jXtAa62s6xJNjwp2i4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTAw/NTQtMTMwNjgyODI0/OS5qcGVn.jpeg" alt="Cover for Eitel Optimal - Das Beste" style="max-width:120px; height:auto;" />
       </td>
@@ -977,27 +983,7 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>63</td>
-      <td>
-          <img src="https://i.discogs.com/3cngFdXNeO7x6ltHZTlCZfdQh5Jzu29R43aXrpgmWa0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDY4/ODctMTM4MzA1NjM2/My0zODA4LmpwZWc.jpeg" alt="Cover for Münchener Freiheit - Die grössten Hits" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1992</td>
-      <td>Münchener Freiheit</td>
-      <td>Münchener Freiheit - Die grössten Hits</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>86</td>
+      <td>14</td>
       <td>
       </td>
       <td>1992-12-10</td>
@@ -1015,8 +1001,9 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d30bca78ffe688aea0193fb07c81ab9.png" alt="Cover for Das Beste von Geier Sturzflug" style="max-width:120px; height:auto;" />
       </td>
       <td>1993-09-06</td>
       <td>Geier Sturzflug</td>
@@ -1033,7 +1020,7 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>48</td>
       <td>
       </td>
       <td>1993-10-27</td>
@@ -1051,7 +1038,7 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/lnLiEw_9JNxyLjyH0VNgZS1TYETiRgHsDYUm1cPULQc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NDkw/NC0xMjg0NjU5Njg1/LmpwZWc.jpeg" alt="Cover for Hüttenzauber 2008" style="max-width:120px; height:auto;" />
       </td>
@@ -1065,12 +1052,12 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 72</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>68</td>
       <td>
           <img src="https://i.discogs.com/6OWawxa6rf2YRO4eXwVq9LeiC69AvY8apUzm-W5MC_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzg0/MzEtMTQzMTQ0NTUz/OC0xMTMyLmpwZWc.jpeg" alt="Cover for Jeden Tag - Jede Nacht" style="max-width:120px; height:auto;" />
       </td>
@@ -1088,7 +1075,7 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>69</td>
       <td>
       </td>
       <td>1996-09-02</td>
@@ -1105,8 +1092,9 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6cd954c627d6485d9c226dfd39f87d17.png" alt="Cover for Monotonie" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Ideal</td>
@@ -1120,13 +1108,14 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 71</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/418a99fb31ad45ba8615d94ae2cb6bc7.png" alt="Cover for そらの庭" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-10-22</td>
       <td>新居昭乃</td>
@@ -1165,26 +1154,25 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 13</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 32</li>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 35</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 12</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 22</li>
             <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 40</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 49</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 57</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 70</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 56</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 58</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 66</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 68</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 69</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 76</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>17</td>
       <td>
-          <img src="https://i.discogs.com/-DM8u4ZgktagfB-f4gsxrL7kBdMJC6olzC14nHn8OBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODcx/NjM5LTE2MjE5MTA5/MzctMzQ3Mi5qcGVn.jpeg" alt="Cover for Die Hit Giganten - Neue Deutsche Welle" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
-      <td>Various Artists</td>
-      <td>Die Hit Giganten - Neue Deutsche Welle</td>
+      <td>Hubert Kah</td>
+      <td>Best Of</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
@@ -1196,7 +1184,7 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>50</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/28d279f9dbac496cacbc78457151b5f8.png" alt="Cover for Bayreuth 1 (Special Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1221,12 +1209,13 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>51</td>
       <td>
+          <img src="https://i.discogs.com/-DM8u4ZgktagfB-f4gsxrL7kBdMJC6olzC14nHn8OBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODcx/NjM5LTE2MjE5MTA5/MzctMzQ3Mi5qcGVn.jpeg" alt="Cover for Die Hit Giganten - Neue Deutsche Welle" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
-      <td>Hubert Kah</td>
-      <td>Best Of</td>
+      <td>Various Artists</td>
+      <td>Die Hit Giganten - Neue Deutsche Welle</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
@@ -1238,7 +1227,7 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>39</td>
       <td>
       </td>
       <td>1998-02-27</td>
@@ -1252,12 +1241,12 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       <td>
         <ul>
             <li> <a href="{{ "/tags/austropop" | relative_url }}">austropop</a> # 3</li>
-            <li> <a href="{{ "/tags/austrian" | relative_url }}">austrian</a> # 91</li>
+            <li> <a href="{{ "/tags/austrian" | relative_url }}">austrian</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>80</td>
       <td>
       </td>
       <td>1998-09-15</td>
@@ -1274,7 +1263,7 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>49</td>
       <td>
           <img src="https://i.discogs.com/21gOeGv-jamnKsOtzAkooevpdjdTH9jw8mWEPQMTeys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjAx/MTAtMTIzMDIzMzYy/OC5qcGVn.jpeg" alt="Cover for Das Beste Von DAF (20 Lieder der Deutsch Amerikanischen Freundschaft)" style="max-width:120px; height:auto;" />
       </td>
@@ -1293,13 +1282,13 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 23</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 76</li>
             <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
       </td>
       <td>2000-05-24</td>
@@ -1338,23 +1327,23 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 26</li>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 31</li>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 50</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 56</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 57</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 6</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 17</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 27</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 43</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 51</li>
             <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 57</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 58</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 57</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 62</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 69</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 73</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 78</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 77</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 82</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 83</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/-4QtJ8CYuqQ2qzYlMd2E8A0yEkACL86_Ad0xfZfDmsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTU5/NTgtMTQ1NzI5NjYw/NC05MzQxLmpwZWc.jpeg" alt="Cover for Ray Man D´s Lalabox" style="max-width:120px; height:auto;" />
       </td>
@@ -1379,8 +1368,9 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1571614b0d44535994bef624094d358.png" alt="Cover for Verschwende Deine Jugend" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-04-22</td>
       <td>Various Artists</td>
@@ -1397,7 +1387,7 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/Fu8Jpcwir-uKfx5T345qtFg7GsTAk2AGEBZsOuXEKu0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzM0/MDAtMTIyOTQzMTY5/MC5qcGVn.jpeg" alt="Cover for Codo...Düse im Sauseschritt" style="max-width:120px; height:auto;" />
       </td>
@@ -1415,7 +1405,7 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>94</td>
       <td>
       </td>
       <td>2005</td>
@@ -1435,9 +1425,9 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>78</td>
       <td>
-          <img src="https://i.discogs.com/CuiYQRiES_jHrfS_J5OLJk0YpmbPAupa5dpQsDdKTWo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjA0/Mzk4LTE1NTczNDc0/MTYtMzA2My5qcGVn.jpeg" alt="Cover for Electrobeat Vol. I" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bfbc2d23761f0ae5d1437de26cf9d49e.png" alt="Cover for Electrobeat Vol. I" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-05-10</td>
       <td>Das Schwarze System</td>
@@ -1460,8 +1450,9 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b63c88b86320d98b2692b8a5d8f46514.png" alt="Cover for Sora No Uta" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-11-23</td>
       <td>新居昭乃</td>
@@ -1504,23 +1495,23 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 4</li>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 16</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 37</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 9</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 15</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 20</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 21</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 37</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 52</li>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 55</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 72</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 46</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 58</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 63</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 71</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 77</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 79</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 81</li>
             <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 88</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 91</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>59</td>
       <td>
           <img src="https://i.discogs.com/WkFH5dS4P1D5T5kiC3KlahZaAYACh5mBl6IBpQm4JYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODMw/NTYtMTIzMDEyMDc3/My5qcGVn.jpeg" alt="Cover for Volle Kraft Voraus!" style="max-width:120px; height:auto;" />
       </td>
@@ -1538,7 +1529,7 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/uo94vWxFEus6354Yn5zrRIWzJvrXt_d7eeCyw_giaqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTcx/ODAtMTI2ODc3NDc1/NS5qcGVn.jpeg" alt="Cover for Tutti Frutti - Digital Remaster" style="max-width:120px; height:auto;" />
       </td>
@@ -1556,7 +1547,7 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/aSsMO_3O5AiL7dBOPc4bBl-wowacfa_tXmMxvkwKI8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDU2/MzMtMTUxNTE4Njgy/Mi0yMjEyLmpwZWc.jpeg" alt="Cover for Auf Ewig - Meisterwerke" style="max-width:120px; height:auto;" />
       </td>
@@ -1575,7 +1566,7 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>45</td>
       <td>
       </td>
       <td>2008-01-23</td>
@@ -1616,20 +1607,20 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 4</li>
             <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 5</li>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 10</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 26</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 30</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 53</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 6</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 14</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 29</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 34</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 36</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 52</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 61</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 66</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 87</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>81</td>
       <td>
       </td>
       <td>2008-08-29</td>
@@ -1668,16 +1659,16 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 11</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 15</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 30</li>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 13</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 30</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 39</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 69</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 71</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>92</td>
       <td>
       </td>
       <td>2009</td>
@@ -1694,7 +1685,32 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>100</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/991fbb6deef79819e216fd9665ea1c59.png" alt="Cover for Electrobeat Vol. II" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2010-04-22</td>
+      <td>Das Schwarze System</td>
+      <td>Electrobeat Vol. II</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro" | relative_url }}">electro</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/techno" | relative_url }}">techno</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>55</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/14fe727cfbc4473a868532572bd571fa.png" alt="Cover for Glanzlichter" style="max-width:120px; height:auto;" />
       </td>
@@ -1715,7 +1731,7 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/kro7kU0IiuyWCiUthuuWmtD8Haq3s56CK5IMHf6J0N4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NDgx/NzktMTM4MDI5MzY3/Ny0yNTQxLmpwZWc.jpeg" alt="Cover for Dead School Hamburg" style="max-width:120px; height:auto;" />
       </td>
@@ -1735,7 +1751,7 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
       </td>
       <td>2014-04-25</td>
@@ -1756,7 +1772,7 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/ouxqeKWVRGXw9E-s_ubYkfFD2ay7tGBrj3eS2Nfkjjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDk2/Ny0xNjU4NDc3ODA2/LTk1NTMuanBlZw.jpeg" alt="Cover for D.A.F" style="max-width:120px; height:auto;" />
       </td>
@@ -1776,30 +1792,7 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/ld8DR8fvdkgeFBO_dwizF03UujBHV3e2nPlqGK3MBzM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTky/MDUxLTE1NTYwMjUw/ODEtMTQ2Ni5qcGVn.jpeg" alt="Cover for Im Himmel ist die Hölle los" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018-09-28</td>
-      <td>EAV</td>
-      <td>Im Himmel ist die Hölle los</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/austrian" | relative_url }}">austrian</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/austropop" | relative_url }}">austropop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/austrian" | relative_url }}">austrian</a> # 15</li>
-            <li> <a href="{{ "/tags/austropop" | relative_url }}">austropop</a> # 48</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>58</td>
-      <td>
-          <img src="https://i.discogs.com/O1RGprzfJa-PyXM01hH9YNcabu30VjXY0ILw2muxiAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTky/MjEyLTE1MzgyMjI2/NjMtNzY1OS5qcGVn.jpeg" alt="Cover for Smart Bomb" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ee33878017df30d113f4876aa52f422.png" alt="Cover for Smart Bomb" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-09-28</td>
       <td>Abwärts</td>
@@ -1816,12 +1809,35 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 39</li>
+            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>57</td>
+      <td>
+          <img src="https://i.discogs.com/ld8DR8fvdkgeFBO_dwizF03UujBHV3e2nPlqGK3MBzM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTky/MDUxLTE1NTYwMjUw/ODEtMTQ2Ni5qcGVn.jpeg" alt="Cover for Im Himmel ist die Hölle los" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-09-28</td>
+      <td>EAV</td>
+      <td>Im Himmel ist die Hölle los</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/austrian" | relative_url }}">austrian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/austropop" | relative_url }}">austropop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/austropop" | relative_url }}">austropop</a> # 48</li>
+            <li> <a href="{{ "/tags/austrian" | relative_url }}">austrian</a> # 85</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/IujSfQMUjQevS-6yurhKRY1929ZJpb0nCx4gBvhcvZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDQ2/ODc5LTE1NDcwOTU3/NDktMjc3My5qcGVn.jpeg" alt="Cover for Eisbär" style="max-width:120px; height:auto;" />
       </td>
@@ -1839,7 +1855,7 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/aGujqHGujvYx9wLCkaCx7iWQ8ceSy84nGcPHeT0bljI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODQx/ODg2LTE2MTAxNTE3/NDAtMzYzOS5qcGVn.jpeg" alt="Cover for Im Institut Für Strömungstechnik" style="max-width:120px; height:auto;" />
       </td>
@@ -1859,13 +1875,13 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 5</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 25</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 74</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/aGujqHGujvYx9wLCkaCx7iWQ8ceSy84nGcPHeT0bljI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODQx/ODg2LTE2MTAxNTE3/NDAtMzYzOS5qcGVn.jpeg" alt="Cover for Im Institut für Strömungstechnik" style="max-width:120px; height:auto;" />
       </td>
@@ -1889,7 +1905,7 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/GLmagkBEfRB5hQIyZgqg45p4h19kaqxM-6xfqWE51UI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODIy/NjYxLTE2MjE2MTUz/MDQtNzIyMS5qcGVn.jpeg" alt="Cover for Best of" style="max-width:120px; height:auto;" />
       </td>
@@ -1908,7 +1924,7 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/M6Cdc0Us0dIMQIpbNCFb7-lyxg_nymXytnwLpc44zgs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTU0/NDEzLTE2MzY3NDc2/OTctNzExNy5qcGVn.jpeg" alt="Cover for Popfolk Compilation Vol. I" style="max-width:120px; height:auto;" />
       </td>
@@ -1928,9 +1944,9 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>65</td>
       <td>
-          <img src="https://i.discogs.com/seIdmpubMIeBThn4RDerk8g8X29BY2ek-ekB76QCgS8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjE0/MTA3LTE2MjY3OTM4/NDAtNDg5My5qcGVn.jpeg" alt="Cover for Brennen" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a86cf42efe70868d277d7d3ea4dc47fd.png" alt="Cover for Brennen" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-10-28</td>
       <td>Lyschko</td>
@@ -1950,14 +1966,14 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 37</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>8</td>
       <td>
-          <img src="https://i.discogs.com/HcMkUNQ5oZUL9PPd1SV_cHnWiuCoFwp5flLsIxWKz-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTE4/NzI0LTE2NzE1NDQ1/ODktMzEwMS5qcGVn.jpeg" alt="Cover for Rabatt" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/638d966c11feb9b38ac5b8e4d418bc80.png" alt="Cover for Rabatt" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-12</td>
       <td>Salò</td>
@@ -1977,17 +1993,17 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 54</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 59</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 72</li>
-            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 88</li>
+            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 13</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 29</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 37</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 45</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>67</td>
       <td>
-          <img src="https://i.discogs.com/F7Hy8ehgh7LceUOBmzvrvr944LYAZvU5Kz6XdqfMLcw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzU0/NzYyLTE2NzgzNDk5/MzQtMzgzNC5qcGVn.jpeg" alt="Cover for Tagträume an der Schaummaschine" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/89eb18807731106cbfdcae3c2fdc80bd.png" alt="Cover for Tagträume an der Schaummaschine" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-03</td>
       <td>Karies</td>
@@ -2009,9 +2025,9 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
-          <img src="https://i.discogs.com/1o-993RDCOD8_NhwKmtEGZHQ-xsu4n6mnPcP0rziGNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzc2/NjkxLTE2OTg5MzY3/NTgtNDc2NC5qcGVn.jpeg" alt="Cover for Haare eines Hundes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0bf9a01a76ffcb7b27aae7efcd5f639f.png" alt="Cover for Haare eines Hundes" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-11-03</td>
       <td>Tränen</td>
@@ -2032,16 +2048,16 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 56</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 43</li>
             <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 86</li>
             <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>75</td>
       <td>
-          <img src="https://i.discogs.com/cWnf6YfxhTchErzB5uPLBgTEVyyc5eS7LHm2I0HXYWc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTA0/MTQ1LTE3MDg3Njk4/MzMtOTYzOC5qcGVn.jpeg" alt="Cover for iedereen" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b392f513893949446bc1da0126c2d263.png" alt="Cover for iedereen" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-02-23</td>
       <td>Iedereen</td>
@@ -2061,15 +2077,15 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 32</li>
-            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 53</li>
+            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 54</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>79</td>
       <td>
-          <img src="https://i.discogs.com/FvmDOwOOrBIQHCyhHfTNvQQ358J7OYYaBGZvkn2eElU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTkw/MzQ3LTE3MDk0ODY2/MTQtOTE2MC5qcGVn.jpeg" alt="Cover for Kratermusik" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d632a9eabd6fcd92f886e4094aacc68c.png" alt="Cover for Kratermusik" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-03-01</td>
       <td>Messer</td>
@@ -2093,7 +2109,38 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>7</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/37c725721f608946b748d20745b6ad57.png" alt="Cover for Klinge" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>TEMMIS</td>
+      <td>Klinge</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 10</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 31</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>73</td>
       <td>
       </td>
       <td></td>
@@ -2133,65 +2180,19 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 9</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 25</li>
             <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 27</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 29</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 38</li>
             <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 46</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 75</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 63</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 70</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>66</td>
       <td>
-      </td>
-      <td></td>
-      <td>TEMMIS</td>
-      <td>Klinge</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 64</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 88</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Captain Traumschiff</td>
-      <td>NDW Die Neue Deutsche Welle Best Of: Volume 1</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>33</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8460c451bb364f69c84612d4f00a6524.png" alt="Cover for Deutsche Kulthits der 80er Jahre - 3" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Verschiedene Interpreten</td>
@@ -2210,6 +2211,24 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>97</td>
+      <td>
+      </td>
+      <td></td>
+      <td>Captain Traumschiff</td>
+      <td>NDW Die Neue Deutsche Welle Best Of: Volume 1</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/german" | relative_url }}">german</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -2221,7 +2240,7 @@ NDW (Neue Deutsche Welle) was a German new wave movement of the late 1970s and e
 - [synthpop]({{ "/tags/synthpop" | relative_url }})
 - [gothic rock]({{ "/tags/gothic-rock" | relative_url }})
 - [schlager]({{ "/tags/schlager" | relative_url }})
-- [pop]({{ "/tags/pop" | relative_url }})
+- [male vocalists]({{ "/tags/male-vocalists" | relative_url }})
+- [oldies]({{ "/tags/oldies" | relative_url }})
 - [contemporary folk]({{ "/tags/contemporary-folk" | relative_url }})
 - [breakbeat]({{ "/tags/breakbeat" | relative_url }})
-- [improvisation]({{ "/tags/improvisation" | relative_url }})

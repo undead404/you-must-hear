@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T06:41:38.315Z
+date: 2025-12-04T00:54:03.074Z
 permalink: tags/classical
 title: classical
 ---
 
 ## classical
 
-Last updated: <time datetime="2025-11-26T06:41:38.315Z">Wed Nov 26 2025 08:41:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T00:54:03.074Z">Thu Dec 04 2025 02:54:03 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -78,7 +78,7 @@ Classical music is a Western art tradition spanning roughly 1650-1900, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ballet" | relative_url }}">ballet</a> # 95</li>
+            <li> <a href="{{ "/tags/ballet" | relative_url }}">ballet</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -395,7 +395,7 @@ Classical music is a Western art tradition spanning roughly 1650-1900, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a> # 84</li>
+            <li> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -529,8 +529,8 @@ Classical music is a Western art tradition spanning roughly 1650-1900, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 91</li>
-            <li> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a> # 100</li>
+            <li> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a> # 1</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -584,8 +584,8 @@ Classical music is a Western art tradition spanning roughly 1650-1900, character
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a> # 11</li>
             <li> <a href="{{ "/tags/austria" | relative_url }}">austria</a> # 74</li>
-            <li> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -696,7 +696,7 @@ Classical music is a Western art tradition spanning roughly 1650-1900, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a> # 79</li>
+            <li> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -737,7 +737,7 @@ Classical music is a Western art tradition spanning roughly 1650-1900, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 46</li>
+            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -881,7 +881,7 @@ Classical music is a Western art tradition spanning roughly 1650-1900, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a> # 98</li>
+            <li> <a href="{{ "/tags/requiem" | relative_url }}">requiem</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -921,7 +921,7 @@ Classical music is a Western art tradition spanning roughly 1650-1900, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 75</li>
+            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 26</li>
             <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 97</li>
         </ul>
       </td>
@@ -981,8 +981,8 @@ Classical music is a Western art tradition spanning roughly 1650-1900, character
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 5</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 48</li>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1093,7 +1093,7 @@ Classical music is a Western art tradition spanning roughly 1650-1900, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 4</li>
+            <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1114,7 +1114,7 @@ Classical music is a Western art tradition spanning roughly 1650-1900, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 66</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 35</li>
             <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 100</li>
         </ul>
       </td>
@@ -1301,7 +1301,7 @@ Classical music is a Western art tradition spanning roughly 1650-1900, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 6</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1504,9 +1504,9 @@ Classical music is a Western art tradition spanning roughly 1650-1900, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 21</li>
             <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 26</li>
             <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 56</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1547,8 +1547,8 @@ Classical music is a Western art tradition spanning roughly 1650-1900, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 61</li>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 73</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 28</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 40</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 74</li>
         </ul>
       </td>
@@ -1568,6 +1568,7 @@ Classical music is a Western art tradition spanning roughly 1650-1900, character
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/lullabies" | relative_url }}">lullabies</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1587,8 +1588,8 @@ Classical music is a Western art tradition spanning roughly 1650-1900, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 49</li>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 67</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 34</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 48</li>
             <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 77</li>
         </ul>
       </td>
@@ -1609,7 +1610,7 @@ Classical music is a Western art tradition spanning roughly 1650-1900, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 96</li>
+            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1840,25 +1841,25 @@ Classical music is a Western art tradition spanning roughly 1650-1900, character
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 1</li>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 4</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 5</li>
             <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 7</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 11</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 26</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 40</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 52</li>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 53</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 15</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 25</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 32</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 48</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 49</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 61</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 62</li>
             <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 67</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 69</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 71</li>
             <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 72</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 75</li>
             <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 75</li>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 76</li>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 78</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 86</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 90</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 98</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1883,11 +1884,11 @@ Classical music is a Western art tradition spanning roughly 1650-1900, character
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 57</li>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 80</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 84</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 3</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 14</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 21</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 32</li>
             <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 97</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 98</li>
         </ul>
       </td>
     </tr>

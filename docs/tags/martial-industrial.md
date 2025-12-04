@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T06:51:38.030Z
+date: 2025-12-04T00:56:38.421Z
 permalink: tags/martial-industrial
 title: martial industrial
 ---
 
 ## martial industrial
 
-Last updated: <time datetime="2025-11-26T06:51:38.030Z">Wed Nov 26 2025 08:51:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T00:56:38.421Z">Thu Dec 04 2025 02:56:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -233,8 +233,8 @@ Martial industrial combines militaristic percussion, neoclassical orchestration,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 35</li>
             <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 45</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -354,9 +354,9 @@ Martial industrial combines militaristic percussion, neoclassical orchestration,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 12</li>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 21</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 59</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -628,7 +628,7 @@ Martial industrial combines militaristic percussion, neoclassical orchestration,
       <td>
         <ul>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 12</li>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 44</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 56</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 73</li>
         </ul>
       </td>
@@ -691,9 +691,9 @@ Martial industrial combines militaristic percussion, neoclassical orchestration,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 13</li>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 20</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 60</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -717,7 +717,7 @@ Martial industrial combines militaristic percussion, neoclassical orchestration,
       <td>
         <ul>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 10</li>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 49</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -741,7 +741,7 @@ Martial industrial combines militaristic percussion, neoclassical orchestration,
       <td>
         <ul>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 13</li>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 34</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -812,7 +812,7 @@ Martial industrial combines militaristic percussion, neoclassical orchestration,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 20</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 81</li>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 84</li>
         </ul>
       </td>
@@ -916,7 +916,7 @@ Martial industrial combines militaristic percussion, neoclassical orchestration,
       <td>
         <ul>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 14</li>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 31</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1090,7 +1090,7 @@ Martial industrial combines militaristic percussion, neoclassical orchestration,
       <td>
         <ul>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 11</li>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 48</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1109,7 +1109,7 @@ Martial industrial combines militaristic percussion, neoclassical orchestration,
       <td>
         <ul>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 9</li>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 52</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1229,8 +1229,8 @@ Martial industrial combines militaristic percussion, neoclassical orchestration,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 14</li>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 19</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1287,8 +1287,8 @@ Martial industrial combines militaristic percussion, neoclassical orchestration,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 31</li>
             <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 36</li>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1307,8 +1307,8 @@ Martial industrial combines militaristic percussion, neoclassical orchestration,
       <td>
         <ul>
             <li> <a href="{{ "/tags/martial" | relative_url }}">martial</a> # 5</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 11</li>
             <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 79</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1345,8 +1345,8 @@ Martial industrial combines militaristic percussion, neoclassical orchestration,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 10</li>
             <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 49</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1389,7 +1389,7 @@ Martial industrial combines militaristic percussion, neoclassical orchestration,
       <td>
         <ul>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 2</li>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 73</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1501,7 +1501,7 @@ Martial industrial combines militaristic percussion, neoclassical orchestration,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 55</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 45</li>
             <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 83</li>
         </ul>
       </td>
@@ -1599,7 +1599,7 @@ Martial industrial combines militaristic percussion, neoclassical orchestration,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 15</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1699,8 +1699,8 @@ Martial industrial combines militaristic percussion, neoclassical orchestration,
       <td>
         <ul>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 5</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 47</li>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 70</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 30</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 54</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 82</li>
         </ul>
       </td>
@@ -1821,8 +1821,8 @@ Martial industrial combines militaristic percussion, neoclassical orchestration,
       <td>
         <ul>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 7</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 32</li>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 63</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 37</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 69</li>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 78</li>
         </ul>
       </td>
@@ -1883,8 +1883,8 @@ Martial industrial combines militaristic percussion, neoclassical orchestration,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 21</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 32</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 25</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1906,7 +1906,7 @@ Martial industrial combines militaristic percussion, neoclassical orchestration,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 85</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 16</li>
             <li> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a> # 91</li>
         </ul>
       </td>
@@ -1933,7 +1933,7 @@ Martial industrial combines militaristic percussion, neoclassical orchestration,
         <ul>
             <li> <a href="{{ "/tags/martial-neofolk" | relative_url }}">martial neofolk</a> # 1</li>
             <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 3</li>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 87</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1961,10 +1961,10 @@ Martial industrial combines militaristic percussion, neoclassical orchestration,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 47</li>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 78</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 54</li>
             <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 78</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 84</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 78</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 85</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 86</li>
             <li> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a> # 95</li>
         </ul>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-10T13:04:56.934Z
+date: 2025-12-04T00:58:38.400Z
 permalink: tags/prog-rock
 title: prog-rock
 ---
 
 ## prog-rock
 
-Last updated: <time datetime="2025-11-10T13:04:56.934Z">Mon Nov 10 2025 15:04:56 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T00:58:38.400Z">Thu Dec 04 2025 02:58:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -50,7 +50,7 @@ Progressive rock emerged in the late 1960s as an ambitious reimagining of rock m
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/mGK-l663bpGKZ4XxUNn3t5_4CFAxfqrh9q1zcgy1LJE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjgz/NDktMTMwMzEzNzQw/Ni5qcGVn.jpeg" alt="Cover for Music To Eat" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f207ff8d0e1534910f1b701cd26a136.png" alt="Cover for Music To Eat" style="max-width:120px; height:auto;" />
       </td>
       <td>1971</td>
       <td>Hampton Grease Band</td>
@@ -91,6 +91,7 @@ Progressive rock emerged in the late 1960s as an ambitious reimagining of rock m
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d9b655b4fdcfff66a0fc23e4a9e39d4.png" alt="Cover for Earth" style="max-width:120px; height:auto;" />
       </td>
       <td>1973</td>
       <td>Vangelis</td>
@@ -144,6 +145,7 @@ Progressive rock emerged in the late 1960s as an ambitious reimagining of rock m
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa125655733f4d34a40d758ffc4d2e04.png" alt="Cover for Dave Mason" style="max-width:120px; height:auto;" />
       </td>
       <td>1974</td>
       <td>Dave Mason</td>
@@ -213,7 +215,7 @@ Progressive rock emerged in the late 1960s as an ambitious reimagining of rock m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 30</li>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -291,8 +293,8 @@ Progressive rock emerged in the late 1960s as an ambitious reimagining of rock m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 21</li>
-            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 70</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 36</li>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -420,7 +422,7 @@ Progressive rock emerged in the late 1960s as an ambitious reimagining of rock m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 66</li>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -443,7 +445,7 @@ Progressive rock emerged in the late 1960s as an ambitious reimagining of rock m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 9</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -518,7 +520,7 @@ Progressive rock emerged in the late 1960s as an ambitious reimagining of rock m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 63</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -649,7 +651,7 @@ Progressive rock emerged in the late 1960s as an ambitious reimagining of rock m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 56</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -723,7 +725,7 @@ Progressive rock emerged in the late 1960s as an ambitious reimagining of rock m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 46</li>
+            <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 56</li>
             <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 89</li>
         </ul>
       </td>
@@ -746,8 +748,8 @@ Progressive rock emerged in the late 1960s as an ambitious reimagining of rock m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 26</li>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 60</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 39</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -771,8 +773,8 @@ Progressive rock emerged in the late 1960s as an ambitious reimagining of rock m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 8</li>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 34</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 65</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -853,14 +855,14 @@ Progressive rock emerged in the late 1960s as an ambitious reimagining of rock m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 6</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/xq_idMwJpFbbdVps3sCRaBUlY-7UuyZ6Paz1l_qSaro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTY4/NS0xNTIxODMyODEy/LTU1NDMuanBlZw.jpeg" alt="Cover for Goblin: The Best Soundtrack Collection, Vol. 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50f35a8884234403ad2a557b017bb65c.png" alt="Cover for Goblin: The Best Soundtrack Collection, Vol. 1" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Goblin</td>
@@ -943,7 +945,7 @@ Progressive rock emerged in the late 1960s as an ambitious reimagining of rock m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 37</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -962,7 +964,7 @@ Progressive rock emerged in the late 1960s as an ambitious reimagining of rock m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 24</li>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -984,7 +986,7 @@ Progressive rock emerged in the late 1960s as an ambitious reimagining of rock m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 86</li>
+            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1102,9 +1104,9 @@ Progressive rock emerged in the late 1960s as an ambitious reimagining of rock m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 45</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 29</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 54</li>
             <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 54</li>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1208,7 +1210,7 @@ Progressive rock emerged in the late 1960s as an ambitious reimagining of rock m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 33</li>
+            <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1238,6 +1240,7 @@ Progressive rock emerged in the late 1960s as an ambitious reimagining of rock m
     <tr>
       <td>12</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3bd5ab3c123883e0ae28f247555ad5f.png" alt="Cover for Oblivion Works Inside Us" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Pi Xprnc</td>
@@ -1257,7 +1260,7 @@ Progressive rock emerged in the late 1960s as an ambitious reimagining of rock m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 20</li>
+            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1319,6 +1322,7 @@ Progressive rock emerged in the late 1960s as an ambitious reimagining of rock m
     <tr>
       <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14ec89910b814ad79aaf37adebfbe03d.png" alt="Cover for 2012" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-01-01</td>
       <td>gotikplage</td>
@@ -1417,8 +1421,8 @@ Progressive rock emerged in the late 1960s as an ambitious reimagining of rock m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 41</li>
-            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 44</li>
+            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 41</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1532,6 +1536,7 @@ Progressive rock emerged in the late 1960s as an ambitious reimagining of rock m
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e53eeed46b7c9bd097d8b044ea854817.png" alt="Cover for Surgeon EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-01-01</td>
       <td>Surgeon</td>
@@ -1592,6 +1597,7 @@ Progressive rock emerged in the late 1960s as an ambitious reimagining of rock m
     <tr>
       <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c291180b3f4547a09287c731fc3ab041.png" alt="Cover for Passing Through the Wall" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Zevious</td>
@@ -1607,7 +1613,7 @@ Progressive rock emerged in the late 1960s as an ambitious reimagining of rock m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 57</li>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1708,7 +1714,7 @@ Progressive rock emerged in the late 1960s as an ambitious reimagining of rock m
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/Gh3z20A0dXFGaoEjyALOWIuHmIXx9zcVouLrqVHTVq8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDQz/NjAtMTQxOTM2Njkz/Ni0yMjYwLmpwZWc.jpeg" alt="Cover for Tangerine Chicken Won&#39;t Fool Nobody" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c4c2833b3f0f7eb9fc640671e31237e.png" alt="Cover for Tangerine Chicken Won&#39;t Fool Nobody" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-09-15</td>
       <td>Fat Old Donald</td>
@@ -1747,7 +1753,7 @@ Progressive rock emerged in the late 1960s as an ambitious reimagining of rock m
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/Jdc4lqTawNSUEM2KSTXNIw6J5e5Pj74KKSjVaoRL_98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDg4/NjQtMTQ2OTIxMzk3/NC0zNjYxLmpwZWc.jpeg" alt="Cover for Buried In Rain" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/553ea7db8bfd33640ee9939dd9b55acb.png" alt="Cover for Buried In Rain" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Opened Paradise</td>
@@ -1904,7 +1910,7 @@ Progressive rock emerged in the late 1960s as an ambitious reimagining of rock m
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 10</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 87</li>
         </ul>
       </td>
     </tr>

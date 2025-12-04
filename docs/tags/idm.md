@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T06:55:39.343Z
+date: 2025-12-04T00:57:22.689Z
 permalink: tags/idm
 title: idm
 ---
 
 ## idm
 
-Last updated: <time datetime="2025-11-26T06:55:39.343Z">Wed Nov 26 2025 08:55:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T00:57:22.689Z">Thu Dec 04 2025 02:57:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -61,7 +61,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 83</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 15</li>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 98</li>
         </ul>
       </td>
@@ -135,8 +135,8 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 7</li>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 61</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 40</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -156,7 +156,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 19</li>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 67</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -214,7 +214,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 24</li>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 71</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -251,8 +251,8 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 38</li>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 45</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -272,7 +272,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 24</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -309,7 +309,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 22</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -327,7 +327,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 97</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -364,7 +364,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 58</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -384,8 +384,8 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 27</li>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 83</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 18</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -442,8 +442,8 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 67</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 99</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 2</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -558,7 +558,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 34</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -596,8 +596,8 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 71</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 89</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 30</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -617,7 +617,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 94</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -672,6 +672,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 18</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -692,7 +693,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 31</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -750,12 +751,12 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 11</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 23</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 19</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 34</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 55</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 67</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 74</li>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 81</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 76</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 76</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 90</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 98</li>
         </ul>
       </td>
@@ -774,7 +775,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 59</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 42</li>
             <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 76</li>
         </ul>
       </td>
@@ -850,7 +851,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 9</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -870,7 +871,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 64</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -909,9 +910,9 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 32</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 66</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 98</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 3</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 34</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -931,7 +932,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 99</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -969,7 +970,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 19</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1024,7 +1025,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 33</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1063,7 +1064,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 42</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1137,7 +1138,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 91</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1155,7 +1156,6 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1213,7 +1213,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 84</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 17</li>
             <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 99</li>
         </ul>
       </td>
@@ -1292,8 +1292,8 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 20</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 54</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 47</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1333,7 +1333,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 89</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1375,7 +1375,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 3</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 98</li>
             <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 100</li>
         </ul>
       </td>
@@ -1396,7 +1396,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 58</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1416,7 +1416,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 48</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 53</li>
             <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 78</li>
         </ul>
       </td>
@@ -1475,7 +1475,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 75</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1521,9 +1521,9 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 13</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 2</li>
             <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 59</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 99</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1544,7 +1544,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 68</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1619,8 +1619,8 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 57</li>
-            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 99</li>
+            <li> <a href="{{ "/tags/book" | relative_url }}">book</a> # 2</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1639,8 +1639,8 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 88</li>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 93</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 8</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1659,7 +1659,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 96</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1681,9 +1681,9 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 50</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 76</li>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 96</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 5</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 51</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1726,8 +1726,8 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 91</li>
-            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 97</li>
+            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 4</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 10</li>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 99</li>
         </ul>
       </td>
@@ -1749,7 +1749,7 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 35</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1791,8 +1791,8 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 35</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 55</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 46</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 66</li>
             <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 84</li>
         </ul>
       </td>
@@ -1812,9 +1812,9 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 5</li>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 53</li>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 89</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 12</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 90</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1880,11 +1880,11 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 40</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 45</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 77</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 62</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 79</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 89</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 89</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1910,11 +1910,11 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 67</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 5</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 8</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 69</li>
             <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 88</li>
             <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 92</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 93</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 96</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 99</li>
         </ul>
       </td>
@@ -1957,8 +1957,8 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 3</li>
             <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 80</li>
-            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1985,12 +1985,12 @@ IDM stands for Intelligent Dance Music, and it is a subgenre of electronic music
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 31</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 43</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 45</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 70</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 82</li>
             <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 85</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 88</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 90</li>
         </ul>
       </td>
     </tr>
