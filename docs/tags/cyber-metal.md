@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T09:50:38.128Z
+date: 2025-12-04T04:38:22.081Z
 permalink: tags/cyber-metal
 title: cyber metal
 ---
 
 ## cyber metal
 
-Last updated: <time datetime="2025-11-26T09:50:38.128Z">Wed Nov 26 2025 11:50:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:38:22.081Z">Thu Dec 04 2025 06:38:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -64,7 +64,7 @@ Cyber metal fuses aggressive metal instrumentation with electronic, industrial, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 53</li>
+            <li> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -121,7 +121,7 @@ Cyber metal fuses aggressive metal instrumentation with electronic, industrial, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 38</li>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -160,7 +160,7 @@ Cyber metal fuses aggressive metal instrumentation with electronic, industrial, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 29</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -200,7 +200,7 @@ Cyber metal fuses aggressive metal instrumentation with electronic, industrial, 
       <td>
         <ul>
             <li> <a href="{{ "/tags/italian-black-metal" | relative_url }}">italian black metal</a> # 53</li>
-            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 76</li>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -237,7 +237,7 @@ Cyber metal fuses aggressive metal instrumentation with electronic, industrial, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 56</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -273,7 +273,7 @@ Cyber metal fuses aggressive metal instrumentation with electronic, industrial, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 91</li>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -487,7 +487,7 @@ Cyber metal fuses aggressive metal instrumentation with electronic, industrial, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 63</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -738,7 +738,7 @@ Cyber metal fuses aggressive metal instrumentation with electronic, industrial, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 92</li>
+            <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -759,8 +759,8 @@ Cyber metal fuses aggressive metal instrumentation with electronic, industrial, 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 7</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 85</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -796,7 +796,7 @@ Cyber metal fuses aggressive metal instrumentation with electronic, industrial, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 61</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -846,14 +846,11 @@ Cyber metal fuses aggressive metal instrumentation with electronic, industrial, 
       <td>21st Century Slave</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 30</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 73</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -874,7 +871,7 @@ Cyber metal fuses aggressive metal instrumentation with electronic, industrial, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 37</li>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -989,7 +986,7 @@ Cyber metal fuses aggressive metal instrumentation with electronic, industrial, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 49</li>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1210,7 +1207,7 @@ Cyber metal fuses aggressive metal instrumentation with electronic, industrial, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 32</li>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1323,8 +1320,8 @@ Cyber metal fuses aggressive metal instrumentation with electronic, industrial, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 4</li>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 54</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 3</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1589,7 +1586,7 @@ Cyber metal fuses aggressive metal instrumentation with electronic, industrial, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 77</li>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1732,7 +1729,7 @@ Cyber metal fuses aggressive metal instrumentation with electronic, industrial, 
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/XPKrv-dw6FrRRTufG-qon-iF6JoJebNDTeWy7CPDc9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTY0/ODcwLTE3MTg0MTUz/MjEtNDg5Mi5qcGVn.jpeg" alt="Cover for The Void" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/32bbf73c2e07a36b30d0c7aa32cd89ba.png" alt="Cover for The Void" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-07-12</td>
       <td>Project Silence</td>
@@ -2036,7 +2033,7 @@ Cyber metal fuses aggressive metal instrumentation with electronic, industrial, 
 - [modern metal]({{ "/tags/modern-metal" | relative_url }})
 - [melodic death metal]({{ "/tags/melodic-death-metal" | relative_url }})
 - [electronic]({{ "/tags/electronic" | relative_url }})
-- [industrial rock]({{ "/tags/industrial-rock" | relative_url }})
 - [djent]({{ "/tags/djent" | relative_url }})
 - [death metal]({{ "/tags/death-metal" | relative_url }})
+- [industrial rock]({{ "/tags/industrial-rock" | relative_url }})
 - [nu metal]({{ "/tags/nu-metal" | relative_url }})

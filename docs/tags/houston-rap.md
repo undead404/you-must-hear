@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T12:01:23.364Z
+date: 2025-12-04T04:37:55.528Z
 permalink: tags/houston-rap
 title: houston rap
 ---
 
 ## houston rap
 
-Last updated: <time datetime="2025-11-23T12:01:23.364Z">Sun Nov 23 2025 14:01:23 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:37:55.528Z">Thu Dec 04 2025 06:37:55 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -85,14 +85,13 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 9</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>5</td>
       <td>
-          <img src="https://i.discogs.com/4hkxHmg4FJgReXLC0waRbbd5TnhlO8Lj_aWpzeXNzIY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDAx/MS0xMzY2NDE2Mjk4/LTM0MzAuanBlZw.jpeg" alt="Cover for Commin&#39; Out Doggin" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>C.O.D.</td>
@@ -147,7 +146,7 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 7</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -174,6 +173,7 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
     <tr>
       <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bfe3dba18ac9d67f68f79f866f194d71.png" alt="Cover for Funky Lil Brotha" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>2 Low</td>
@@ -253,6 +253,7 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8b96f818c6642b1c2ae75d3e3f3d42f.png" alt="Cover for Don&#39;t Give a Damn" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Street Military</td>
@@ -271,7 +272,7 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/_8EFRf2JA-mHzL5JsPIFL2aO9rGQ26Zk4rcjIQDlQsg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMTcw/Ny0xNjg5Njg3Mzg1/LTQ5MzkuanBlZw.jpeg" alt="Cover for Psychic Thoughts" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/455bcd416f27e0cee43b4e5d05caa9d6.png" alt="Cover for Psychic Thoughts" style="max-width:120px; height:auto;" />
       </td>
       <td>1993-06-24</td>
       <td>Ganksta Nip</td>
@@ -332,7 +333,7 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/YhnzLRWWhRilhPabrl1aJAuF2njlhePSiGJ4vf0efIE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTUw/Ny0xNDUwMTQ1NDQ5/LTgxMjguanBlZw.jpeg" alt="Cover for Wegonefunkwichamind Chopped &amp; Screwed" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/59844e067ec70a19ca222c0f4411448d.png" alt="Cover for Wegonefunkwichamind Chopped &amp; Screwed" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-06-21</td>
       <td>Big Mello</td>
@@ -372,7 +373,7 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/NT8iCxzwdC4sj2HL3Cn0ODOwANM4iCWndToeSZg5fi4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTU0/MDgtMTYyMTI1NTQz/My0zNDAwLmpwZWc.jpeg" alt="Cover for Deadly Groundz" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/41150c4ccbc941b88930e004e83b2c24.png" alt="Cover for Deadly Groundz" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>5th Ward Juvenilez</td>
@@ -386,7 +387,7 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 2</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -491,7 +492,6 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
     <tr>
       <td>2</td>
       <td>
-          <img src="https://i.discogs.com/NhOBFrImRDSTguCfHGqlZTOt7GuCy5LcAGBJay_qoM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODEz/MDItMTYwNjUwMDc0/NC03MDY1LmpwZWc.jpeg" alt="Cover for G´s Till We Die" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-03-21</td>
       <td>Gang Society</td>
@@ -563,14 +563,14 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 18</li>
+            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>19</td>
       <td>
-          <img src="https://i.discogs.com/3MfkphOXGgVMJGwri54MURWLFvlECyBk-OSLhB_bvJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NDQ1/My0xNjY5OTkxMDU4/LTk2MzIuanBlZw.jpeg" alt="Cover for Portrait of a $erial Player" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5d35d2ac9be4803a827c474982d3ac9.png" alt="Cover for Portrait of a $erial Player" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Born 2wice</td>
@@ -591,6 +591,7 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
     <tr>
       <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb10798b9f74490b91a6b16b4300f5d7.png" alt="Cover for Undaground Railroad" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Criminal Elament</td>
@@ -630,7 +631,7 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/ZsCeVS01fl_p-ZEpfBV-QNlKbOUGe3pGE2YdboTeAio/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMDAz/NC0xMTI0NzE2Mzk5/LmpwZw.jpeg" alt="Cover for Psychotic Genius" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0d78ddec9b54ee4a3244ef9620f154f.png" alt="Cover for Psychotic Genius" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Ganksta Nip</td>
@@ -650,6 +651,7 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
     <tr>
       <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a54d5834e554f0aaf36f65c41e66c4e.png" alt="Cover for Comin&#39; Up N&#39; Da Ghetto" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Ace Deuce</td>
@@ -690,7 +692,7 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/8Fn0T_Q9G21eb_994wOMxlVkSxLfwRqxNfhGgz37zz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODMx/MC0xNDgxNTkwNjcy/LTkxMzEuanBlZw.jpeg" alt="Cover for Southern Hostility" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/39fb874ea2eb47d89f9075fb02abf461.png" alt="Cover for Southern Hostility" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-04-30</td>
       <td>Fakkulty</td>
@@ -723,7 +725,6 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -806,6 +807,7 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
     <tr>
       <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b33a2a65760248cfc83d19c67829b727.png" alt="Cover for Born Bad?" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-10-21</td>
       <td>PSK-13</td>
@@ -819,7 +821,7 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 13</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -849,7 +851,7 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/JWQR6CtQQeGeWYLa5OXSft11ZbFOukFqfr9X2yiXWes/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMTg1/NTAtMTY3NDA1OTYz/OC05ODY2LmpwZWc.jpeg" alt="Cover for No Rest For The Real" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af2b7774be92469b9e81458d2c9f9bb1.png" alt="Cover for No Rest For The Real" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>The Most Hated</td>
@@ -869,7 +871,7 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/vhTxtXzbXk4DBJ9xvWkMbzRkhXt4yBv4C0B6NMCsJiw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMDAy/NS0xNjAzODAxMjcz/LTU4MTUuanBlZw.jpeg" alt="Cover for Interview with a Killa" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/536efd847c2a45cf895bc6d7ed41e8ff.png" alt="Cover for Interview with a Killa" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Ganksta Nip</td>
@@ -941,8 +943,8 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 2</li>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 6</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 3</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1023,15 +1025,16 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 19</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 18</li>
+            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 24</li>
             <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 49</li>
-            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e23062b937eaf08fdb75fd9be36341b6.png" alt="Cover for All N&#39; Yo Face" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-07-13</td>
       <td>Pymp Tyte</td>
@@ -1111,7 +1114,7 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/-Fn_OZvGXuaLm38Eu2GGYjxgWlF63qIHx_oXSAb6tXA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDQ0/MTMtMTM3MjM0OTA0/MS0zMTkzLmpwZWc.jpeg" alt="Cover for Street Fame" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/983e570434d1d8b296ef12f0f9f8ef68.png" alt="Cover for Street Fame" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>C-Note</td>
@@ -1131,7 +1134,7 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/vzrUHZ2SHE4aHAnCe_7Md0oOh0BqfOAoFfeUTQ8SZcc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODk0/MzctMTM0NDQ4ODkx/NC05NjQyLmpwZWc.jpeg" alt="Cover for Let The Games Begin" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ba32caf59b74e0f8db4fb4c0b5cbb02.png" alt="Cover for Let The Games Begin" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-03-28</td>
       <td>Rasheed</td>
@@ -1247,14 +1250,13 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 23</li>
+            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/Z8aqxifLrT1a4Ga_s2K-aZx_i4UNof09I6mYSnwyy4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNjc5/ODQtMTQ1NDUyMDUx/NS0zODg1LmpwZWc.jpeg" alt="Cover for Bone Hard Zaggin Chopped &amp; Screwed" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Big Mello</td>
@@ -1268,7 +1270,7 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 15</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1295,7 +1297,7 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/0oxj9s-_34Tl6huGoIpSp528dNsEyPFrN4BSG6ADy7U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDQ2/Ni0xMzY1OTI2OTI1/LTI2NjkuanBlZw.jpeg" alt="Cover for Da Warrior" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8b6a946e8597425c92685cedf2571edf.png" alt="Cover for Da Warrior" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-06-25</td>
       <td>Murdoq</td>
@@ -1405,7 +1407,7 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 7</li>
+            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1427,7 +1429,7 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 15</li>
+            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1449,7 +1451,7 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 26</li>
+            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1521,7 +1523,7 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/oKo2rHuiK6_BTGLkFA1yyTCBBf0Z292uDPcUkbmWKCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMDQw/NDAwLTE2MzAyNTMz/MjktMjM4My5qcGVn.jpeg" alt="Cover for G.M.S." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e142de2729f04fe8b828086658f82d45.png" alt="Cover for G.M.S." style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Dougie D</td>
@@ -1561,7 +1563,7 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/Szf3HdEknVlj8wPDLzOL8p1sqEUvtmhu9OsSzFAcQSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjAz/MzE4LTE1MTE3OTMx/NTgtNzcyMi5qcGVn.jpeg" alt="Cover for 4&#x2F;20 the Smokers Anthem" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f1f249ff3e944b7595493cf6914fd8c.png" alt="Cover for 4&#x2F;20 the Smokers Anthem" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Z-Ro</td>
@@ -1621,7 +1623,7 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/G-DzbGqhCcvweJRkgiUe6y2fPqMj1sTeeVVb26YDjwE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3ODQz/Mi0xNjc0NDkxNjU5/LTQxNTcuanBlZw.jpeg" alt="Cover for The Underground" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e65a6d750817455586dc1172cea8c3b9.png" alt="Cover for The Underground" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-07</td>
       <td>K.B. Da Kidnappa</td>
@@ -1641,7 +1643,7 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/sq5uDdGIzcP05giZ4EnwTrZfHcSY0WznaPj59SIwv6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNDQ2/ODgtMTM1Njc5Mzkz/NS00ODA5LmpwZWc.jpeg" alt="Cover for Gangstafied" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7fd1130bfcce48abb2afe9286c0ca426.png" alt="Cover for Gangstafied" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-02-28</td>
       <td>Z-Ro</td>
@@ -1655,7 +1657,7 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 4</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1704,7 +1706,7 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/q9UKn4p6VuhFbiHuPP42TChb7JtBD3rf1xtfjsAwomg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjA2/MTUtMTU5MjM2NDQ2/NS0xMTEzLmpwZWc.jpeg" alt="Cover for The Face Of God" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1cabbf6905ee26f48a56b6a58d7d50f.png" alt="Cover for The Face Of God" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Kuwait</td>
@@ -1724,7 +1726,6 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/GfX4qseyyq-loAPFiuHH0kOn5sfx9_BiyCAoSwXjrbo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDc5/MDEtMTIzMTg0NTAw/NC5qcGVn.jpeg" alt="Cover for Long Time Coming" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Rapper K</td>
@@ -1764,6 +1765,7 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3777ab1581ea4ab3bf0710c55fe0f199.png" alt="Cover for Emeritus" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-12-02</td>
       <td>Scarface</td>
@@ -1779,8 +1781,8 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 43</li>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 54</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 51</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 53</li>
             <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 77</li>
         </ul>
       </td>
@@ -1820,7 +1822,7 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 12</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1939,7 +1941,7 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 32</li>
+            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1966,6 +1968,7 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
     <tr>
       <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/160b7a1ffa15540666f377a7e163b7bc.png" alt="Cover for Honor Among Thieves" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The South Acres Crime Family Organization</td>
@@ -1985,6 +1988,7 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
     <tr>
       <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f5c7a9d38b3c7ca84d02076708159ec0.png" alt="Cover for In It to Win It" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Big D &amp; Icey Hott</td>
@@ -2023,6 +2027,7 @@ Houston rap emerged from Texas&#39;s largest city in the 1990s, pioneered by DJ 
     <tr>
       <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a554255571b454f9b168487e851f9e1.png" alt="Cover for Mind Over Matter" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Icey Hott</td>

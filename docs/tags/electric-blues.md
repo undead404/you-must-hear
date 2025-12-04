@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T06:34:03.806Z
+date: 2025-12-04T04:36:47.756Z
 permalink: tags/electric-blues
 title: electric blues
 ---
 
 ## electric blues
 
-Last updated: <time datetime="2025-11-25T06:34:03.806Z">Tue Nov 25 2025 08:34:03 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:36:47.756Z">Thu Dec 04 2025 06:36:47 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -85,8 +85,8 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 18</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 32</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 69</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -146,7 +146,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       <td>
         <ul>
             <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 38</li>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 53</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -220,7 +220,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 15</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -278,7 +278,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 90</li>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 11</li>
             <li> <a href="{{ "/tags/harmonica-blues" | relative_url }}">harmonica blues</a> # 97</li>
         </ul>
       </td>
@@ -546,7 +546,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 44</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -619,8 +619,8 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 14</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 40</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 62</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -639,7 +639,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       <td>
         <ul>
             <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 27</li>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 28</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -723,11 +723,11 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 9</li>
-            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 20</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 23</li>
             <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 29</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 47</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 55</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 78</li>
+            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 80</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -746,7 +746,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 28</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -901,8 +901,8 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 34</li>
             <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 48</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -958,8 +958,8 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 6</li>
             <li> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a> # 62</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1115,7 +1115,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 21</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1450,7 +1450,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 90</li>
+            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1574,7 +1574,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/austin" | relative_url }}">austin</a> # 65</li>
+            <li> <a href="{{ "/tags/austin" | relative_url }}">austin</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1669,7 +1669,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 20</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1922,7 +1922,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 21</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1965,7 +1965,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 73</li>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 28</li>
             <li> <a href="{{ "/tags/harmonica-blues" | relative_url }}">harmonica blues</a> # 91</li>
         </ul>
       </td>
@@ -1987,7 +1987,7 @@ Electric blues emerged when traditional Delta blues migrated north to Chicago in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 79</li>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 22</li>
             <li> <a href="{{ "/tags/harmonica-blues" | relative_url }}">harmonica blues</a> # 94</li>
         </ul>
       </td>

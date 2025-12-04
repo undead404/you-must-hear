@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T16:52:57.225Z
+date: 2025-12-04T04:36:53.323Z
 permalink: tags/manchester
 title: manchester
 ---
 
 ## manchester
 
-Last updated: <time datetime="2025-11-17T16:52:57.225Z">Mon Nov 17 2025 18:52:57 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:36:53.323Z">Thu Dec 04 2025 06:36:53 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 74</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -79,8 +79,8 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 76</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 76</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 79</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -94,18 +94,13 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       <td>The Smiths</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 56.99999999999999 / 100)"> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 20</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 45</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 9</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 49</li>
             <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 81</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 93</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 94</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -119,18 +114,14 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       <td>Hatful of Hollow</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 25</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 48</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 16</li>
             <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 51</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 52</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 76</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 85</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 87</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 66</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -144,15 +135,12 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       <td>Meat Is Murder</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 8</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 88</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 90</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 99</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 13</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -186,25 +174,16 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       <td>The Queen Is Dead</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a></li>
-            <li style="font-size: calc(1rem * 92 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a></li>
-            <li style="font-size: calc(1rem * 72 / 100)"> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 4</li>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 68</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 77</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 84</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 89</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 97</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 97</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 100</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 100</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 4</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 7</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 67</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 70</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 87</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -276,7 +255,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 91</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -294,9 +273,8 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 50</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 52</li>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 67</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 18</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -333,7 +311,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 97</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -389,8 +367,8 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 42</li>
-            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 96</li>
+            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 5</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -429,12 +407,12 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 21</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 43</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 66</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 83</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 85</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 86</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 14</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 14</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 58</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 68</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 77</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -523,7 +501,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 18</li>
+            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -542,7 +520,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 4</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -782,7 +760,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 38</li>
+            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -828,8 +806,8 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 11</li>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 33</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -853,6 +831,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e101c5f268e945898bca5743cbf292b2.png" alt="Cover for Us and Us Only" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-09-29</td>
       <td>The Charlatans</td>
@@ -882,7 +861,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 29</li>
+            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -936,7 +915,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 58</li>
+            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1110,7 +1089,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 18</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1283,7 +1262,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       <td>
         <ul>
             <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 16</li>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 53</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1361,7 +1340,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 12</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -2014,8 +1993,8 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 18</li>
-            <li> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a> # 75</li>
+            <li> <a href="{{ "/tags/liverpool" | relative_url }}">liverpool</a> # 25</li>
+            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -2038,7 +2017,7 @@ Manchester is a British indie rock sound that emerged from the city&#39;s post-p
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 31</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 70</li>
         </ul>
       </td>
     </tr>

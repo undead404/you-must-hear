@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-10T23:07:46.839Z
+date: 2025-12-04T04:52:16.803Z
 permalink: tags/german-rap
 title: german rap
 ---
 
 ## german rap
 
-Last updated: <time datetime="2025-11-10T23:07:46.839Z">Tue Nov 11 2025 01:07:46 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:52:16.803Z">Thu Dec 04 2025 06:52:16 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -82,9 +82,9 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 16</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 17</li>
             <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 46</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -147,6 +147,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -170,8 +171,8 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-hip-hop" | relative_url }}">german hip hop</a> # 10</li>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 13</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 86</li>
+            <li> <a href="{{ "/tags/german-hip-hop" | relative_url }}">german hip hop</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -191,7 +192,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-hip-hop" | relative_url }}">german hip hop</a> # 73</li>
+            <li> <a href="{{ "/tags/german-hip-hop" | relative_url }}">german hip hop</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -236,7 +237,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 89</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -338,7 +339,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 35</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -383,11 +384,11 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 4</li>
-            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 32</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 19</li>
+            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 68</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 75</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 82</li>
             <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 83</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -431,11 +432,11 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 5</li>
-            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 35</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 18</li>
+            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 65</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 77</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 83</li>
             <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 84</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -607,7 +608,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 42</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -627,7 +628,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 15</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -646,7 +647,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-hip-hop" | relative_url }}">german hip hop</a> # 76</li>
+            <li> <a href="{{ "/tags/german-hip-hop" | relative_url }}">german hip hop</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -707,7 +708,6 @@ German rap encompasses hip-hop music performed in the German language, blending 
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/dHRA_QUD_nBvfp0ZWMjHB27RrW1EaTrf1iapsvZ9jtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Mzk3/MjktMTQwNjg2NDYy/MC0zOTg4LmpwZWc.jpeg" alt="Cover for G8-Sampler" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>JetPilot</td>
@@ -766,7 +766,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 9</li>
+            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 8</li>
             <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 38</li>
         </ul>
       </td>
@@ -826,7 +826,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 68</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -881,7 +881,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-hip-hop" | relative_url }}">german hip hop</a> # 79</li>
+            <li> <a href="{{ "/tags/german-hip-hop" | relative_url }}">german hip hop</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1024,8 +1024,8 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 43</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 53</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 58</li>
             <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 63</li>
         </ul>
       </td>
@@ -1178,7 +1178,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 38</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1223,7 +1223,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/op4N67_c1LFPd6BqQpsE35MqGzwgRAOiIjO2XJo_dmk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzk1/Mzc4LTE1MDQ1MDcz/MTEtMTcwMy5qcGVn.jpeg" alt="Cover for Zeitmaschine" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ea0f60b54d64fc4ae9f251fdc03da7a.png" alt="Cover for Zeitmaschine" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Les Bummms Boys</td>
@@ -1279,9 +1279,9 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 10</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 16</li>
             <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 43</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1303,7 +1303,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 37</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1359,22 +1359,23 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 10</li>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 36</li>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 71</li>
-            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 75</li>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 76</li>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 88</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 90</li>
-            <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 96</li>
-            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 97</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 100</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 1</li>
+            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 4</li>
+            <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 5</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 10</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 13</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 23</li>
+            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 25</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 65</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 74</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f004505a26042099d483ecb3f529af4.png" alt="Cover for Saftladen" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-22</td>
       <td>Les Bummms Boys</td>
@@ -1422,7 +1423,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 52</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 49</li>
             <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 59</li>
         </ul>
       </td>
@@ -1489,7 +1490,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 22</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1509,7 +1510,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-hip-hop" | relative_url }}">german hip hop</a> # 52</li>
+            <li> <a href="{{ "/tags/german-hip-hop" | relative_url }}">german hip hop</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1552,7 +1553,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 40</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1635,7 +1636,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 86</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1658,8 +1659,8 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 30</li>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 96</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 4</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1760,7 +1761,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 31</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1783,7 +1784,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 71</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1897,7 +1898,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 4</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1919,7 +1920,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 7</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1942,7 +1943,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 32</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1965,8 +1966,8 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 23</li>
-            <li> <a href="{{ "/tags/austrian" | relative_url }}">austrian</a> # 76</li>
+            <li> <a href="{{ "/tags/austrian" | relative_url }}">austrian</a> # 25</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1996,7 +1997,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/YGhtNl-02ZXQ85o1CN4oIfY-FkJfx5DxTce8qr_DYgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzA5/NDA1LTE2OTQ5NzA0/ODktODI5MS5qcGVn.jpeg" alt="Cover for Head Out" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4e8fce36c7745ed8a58d56b6fe510a8.png" alt="Cover for Head Out" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>NORA&amp;LEO</td>
@@ -2052,8 +2053,8 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 35</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 63</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 66</li>
             <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 68</li>
         </ul>
       </td>
@@ -2213,9 +2214,9 @@ German rap encompasses hip-hop music performed in the German language, blending 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 26</li>
             <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 66</li>
             <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 73</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -2478,6 +2479,7 @@ German rap encompasses hip-hop music performed in the German language, blending 
     <tr>
       <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0327a250e8a3a6f3a7cb528d57df55a1.png" alt="Cover for CASH" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>revision</td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-05T01:36:10.569Z
+date: 2025-12-04T04:47:11.285Z
 permalink: tags/flute
 title: flute
 ---
 
 ## flute
 
-Last updated: <time datetime="2025-11-05T01:36:10.569Z">Wed Nov 05 2025 03:36:10 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:47:11.285Z">Thu Dec 04 2025 06:47:11 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,6 +31,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
     <tr>
       <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c199f459fac3c46430cb96d79cd7d668.png" alt="Cover for Eastern Sounds" style="max-width:120px; height:auto;" />
       </td>
       <td>1961</td>
       <td>Yusef Lateef</td>
@@ -42,15 +43,16 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 15</li>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 45</li>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 46</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 27</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 83</li>
+            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3478797ca726d2f921d37049dbd32a54.png" alt="Cover for Herbie Mann at the Village Gate" style="max-width:120px; height:auto;" />
       </td>
       <td>1962</td>
       <td>Herbie Mann</td>
@@ -99,7 +101,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 58</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -124,7 +126,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/KBtzqeKe3BBQzPbHMogXTLftUa5kLDjouh-TAv-FTmw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTIw/NzItMTQ5NTY3OTQ3/NS04MTAwLnBuZw.jpeg" alt="Cover for The Golden Flute" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f18748bf06b9bfd97922adf758aeccc.png" alt="Cover for The Golden Flute" style="max-width:120px; height:auto;" />
       </td>
       <td>1966</td>
       <td>Yusef Lateef</td>
@@ -143,6 +145,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
     <tr>
       <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d051269716a3f1c038b084be3ff1cca.png" alt="Cover for Memphis Underground" style="max-width:120px; height:auto;" />
       </td>
       <td>1969</td>
       <td>Herbie Mann</td>
@@ -269,7 +272,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/6m7bw5ww5P7voCgAuJ1a1ZoTNmxcvu-mdW9kN6jv98I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjI1/ODAtMTQ5OTE5MjQw/My00MDc0LmpwZWc.jpeg" alt="Cover for Skeleton In Armour" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1df102635cb43e39847eab80f642028.png" alt="Cover for Skeleton In Armour" style="max-width:120px; height:auto;" />
       </td>
       <td>1973</td>
       <td>Fusion Orchestra</td>
@@ -289,25 +292,22 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 14</li>
             <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 23</li>
-            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 77</li>
-            <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 87</li>
+            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/3NAe5cFZdT9OWtT4qLZaZmC9qgHlmo-s85x0eXAigDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTY2/NTctMTM2MTk4MjU5/NC01MjEyLmpwZWc.jpeg" alt="Cover for Blacks And Blues" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/58c8fc82fc844453e4becec53fabec6a.png" alt="Cover for Blacks And Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>1973</td>
       <td>Bobbi Humphrey</td>
       <td>Blacks And Blues</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/flute" | relative_url }}">flute</a></li>
         </ul>
       </td>
       <td>
@@ -340,6 +340,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
     <tr>
       <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d183cd3b62a889be5d568a1c779d50f.png" alt="Cover for Lucky Seven" style="max-width:120px; height:auto;" />
       </td>
       <td>1979</td>
       <td>Bob James</td>
@@ -359,8 +360,8 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 59</li>
-            <li> <a href="{{ "/tags/keyboard" | relative_url }}">keyboard</a> # 94</li>
+            <li> <a href="{{ "/tags/keyboard" | relative_url }}">keyboard</a> # 7</li>
+            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -396,7 +397,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 34</li>
+            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -438,6 +439,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
     <tr>
       <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4dca9c71a24063906316737f5a94a28.png" alt="Cover for Nirvana Road" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>Deuter</td>
@@ -491,7 +493,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 32</li>
+            <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -529,7 +531,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/native-american" | relative_url }}">native american</a> # 79</li>
+            <li> <a href="{{ "/tags/native-american" | relative_url }}">native american</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -571,7 +573,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 77</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -590,7 +592,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/native-american" | relative_url }}">native american</a> # 81</li>
+            <li> <a href="{{ "/tags/native-american" | relative_url }}">native american</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -674,6 +676,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
     <tr>
       <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3a3a45a81fc64fa4cf3ca833dd3a406f.png" alt="Cover for Moon Shines at Night" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Djivan Gasparyan</td>
@@ -705,7 +708,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 56</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 41</li>
             <li> <a href="{{ "/tags/italian-baroque" | relative_url }}">italian baroque</a> # 88</li>
             <li> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a> # 99</li>
         </ul>
@@ -825,7 +828,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/z2UkZLSWd0cbk7W7wF7h5XRvDpQXwTCPP431x6-n64I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NzE1/ODktMTU4MDMzNDkw/NS05MjE5LmpwZWc.jpeg" alt="Cover for Divinities (Twelve Dances With God)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/62efb17b175d4f488f48bd96843d22d9.png" alt="Cover for Divinities (Twelve Dances With God)" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Ian Anderson</td>
@@ -880,7 +883,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/cKx8iOxfhdyiKFOP_vX8788VnaLR0Ik88bWijGviIu4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzYw/MTQtMTI1MDExNTYx/Ny5qcGVn.jpeg" alt="Cover for Divinities: Twelve Dances With God" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a073f65a23944d8b460fbbd247da46f.png" alt="Cover for Divinities: Twelve Dances With God" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-04-24</td>
       <td>Ian Anderson</td>
@@ -960,6 +963,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
     <tr>
       <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ca7ebfa02b3270e4521aca3f205ae1b1.png" alt="Cover for Jungle of Joy" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-02-15</td>
       <td>Anugama</td>
@@ -978,6 +982,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
     <tr>
       <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fee1de72c64a25844f8001ab99e91bca.png" alt="Cover for Ancient Nazca - Inca Mysteries" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Medwyn Goodall</td>
@@ -989,8 +994,8 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 10</li>
-            <li> <a href="{{ "/tags/native-american" | relative_url }}">native american</a> # 86</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 76</li>
+            <li> <a href="{{ "/tags/native-american" | relative_url }}">native american</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1014,9 +1019,9 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 26</li>
-            <li> <a href="{{ "/tags/fado" | relative_url }}">fado</a> # 62</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 86</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 14</li>
+            <li> <a href="{{ "/tags/fado" | relative_url }}">fado</a> # 39</li>
+            <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1071,7 +1076,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 22</li>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1110,7 +1115,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/native-american" | relative_url }}">native american</a> # 46</li>
+            <li> <a href="{{ "/tags/native-american" | relative_url }}">native american</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1215,6 +1220,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
     <tr>
       <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1930b1c82d104f2b8495b7ffca6da534.png" alt="Cover for Rupi&#39;s Dance" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-08-19</td>
       <td>Ian Anderson</td>
@@ -1247,10 +1253,10 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 81</li>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 88</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 10</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 12</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 20</li>
             <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 90</li>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1310,7 +1316,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/native-american" | relative_url }}">native american</a> # 51</li>
+            <li> <a href="{{ "/tags/native-american" | relative_url }}">native american</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1374,6 +1380,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
     <tr>
       <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e4487c409b44d82b553f803ebe1547a.png" alt="Cover for The New Law" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-09-07</td>
       <td>The New Law</td>
@@ -1426,14 +1433,14 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/native-american" | relative_url }}">native american</a> # 17</li>
+            <li> <a href="{{ "/tags/native-american" | relative_url }}">native american</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/akSlhWm4tkuw-tu6PGcDSuRe2fR0SDptb09eYSC6vJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDQ1/MTM3LTE2NDY4MzM1/MzctNzQ0Ny5qcGVn.jpeg" alt="Cover for Sage" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/264b58e88ae890126474053e8dfcbaba.png" alt="Cover for Sage" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-02-01</td>
       <td>PC Davidoff</td>
@@ -1456,7 +1463,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/akSlhWm4tkuw-tu6PGcDSuRe2fR0SDptb09eYSC6vJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDQ1/MTM3LTE2NDY4MzM1/MzctNzQ0Ny5qcGVn.jpeg" alt="Cover for Raku" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4884ebc59a9399a8d6aab4f109ab10e3.png" alt="Cover for Raku" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-02-01</td>
       <td>PC Davidoff</td>
@@ -1479,7 +1486,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
     <tr>
       <td>21</td>
       <td>
-          <img src="https://i.discogs.com/akSlhWm4tkuw-tu6PGcDSuRe2fR0SDptb09eYSC6vJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDQ1/MTM3LTE2NDY4MzM1/MzctNzQ0Ny5qcGVn.jpeg" alt="Cover for Santosh" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5124d9f1fdd54b32bf560916d6ce76f6.png" alt="Cover for Santosh" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-02-01</td>
       <td>PC Davidoff</td>
@@ -1500,7 +1507,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/PWOKKcPWvLkXfpZtsh61zs2E9yayA1NPkmbTR896a94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU3/MjQzLTE1OTE4Mzgw/NDYtODAzMS5qcGVn.jpeg" alt="Cover for Moonviewing" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5522471f22652b09a94c865c44103db3.png" alt="Cover for Moonviewing" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-06-16</td>
       <td>Duo En</td>
@@ -1541,20 +1548,20 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 2</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 17</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 26</li>
-            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 30</li>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 51</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 64</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 74</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 27</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 48</li>
+            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 65</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 65</li>
             <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 81</li>
-            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/065022797ec743edc31cc4bea0a16181.png" alt="Cover for The Horseshoe Curve" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-07-24</td>
       <td>Trey Anastasio</td>
@@ -1571,8 +1578,8 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 37</li>
-            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 96</li>
+            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 5</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 54</li>
             <li> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a> # 100</li>
         </ul>
       </td>
@@ -1580,7 +1587,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
     <tr>
       <td>7</td>
       <td>
-          <img src="https://i.discogs.com/-AuBSxoFgbpGQbD2Xp_zb250CBntyS0YTu0nxTAQ5Sw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTc2/NzExLTE1MDAyMjU1/ODgtNTE2NS5qcGVn.jpeg" alt="Cover for Moving Day" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/30218d701aeae7297c3b89b21abc47bc.png" alt="Cover for Moving Day" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>André 3000</td>
@@ -1753,7 +1760,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/85SL6zVuF1uTirkb-4LiWhIXFrpVvTZ4wpJXPnRfmmg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTg1/ODM1LTE1NjM4Mjc4/NzgtMjQ5MC5qcGVn.jpeg" alt="Cover for A Wake In Sacred Waves" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9f39fce5f9088210a945c54bb4d269b.png" alt="Cover for A Wake In Sacred Waves" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-10-06</td>
       <td>Dreadnought</td>
@@ -1839,7 +1846,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/native-american" | relative_url }}">native american</a> # 85</li>
+            <li> <a href="{{ "/tags/native-american" | relative_url }}">native american</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1858,7 +1865,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 78</li>
+            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1954,6 +1961,7 @@ The flute tag encompasses music prominently featuring the flute&#39;s airy, melo
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87b6279f2382a69ce1a534e574bc398d.png" alt="Cover for Ping! 2" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Exyl</td>
