@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T08:50:38.625Z
+date: 2025-12-04T01:26:18.150Z
 permalink: tags/indian
 title: indian
 ---
 
 ## indian
 
-Last updated: <time datetime="2025-11-26T08:50:38.625Z">Wed Nov 26 2025 10:50:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T01:26:18.150Z">Thu Dec 04 2025 03:26:18 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,7 @@ Indian music encompasses diverse classical traditions like Hindustani and Carnat
       <td>
         <ul>
             <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 18</li>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 53</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 48</li>
             <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 99</li>
         </ul>
       </td>
@@ -63,7 +63,7 @@ Indian music encompasses diverse classical traditions like Hindustani and Carnat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 26</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -157,9 +157,9 @@ Indian music encompasses diverse classical traditions like Hindustani and Carnat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 30</li>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 50</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 51</li>
             <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 60</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 71</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 85</li>
         </ul>
       </td>
@@ -252,7 +252,7 @@ Indian music encompasses diverse classical traditions like Hindustani and Carnat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 79</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -293,9 +293,9 @@ Indian music encompasses diverse classical traditions like Hindustani and Carnat
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 13</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 22</li>
             <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 60</li>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 79</li>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -434,8 +434,8 @@ Indian music encompasses diverse classical traditions like Hindustani and Carnat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 25</li>
             <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 75</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 76</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 81</li>
             <li> <a href="{{ "/tags/punjabi" | relative_url }}">punjabi</a> # 83</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 90</li>
@@ -513,8 +513,8 @@ Indian music encompasses diverse classical traditions like Hindustani and Carnat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 33</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 57</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -612,9 +612,9 @@ Indian music encompasses diverse classical traditions like Hindustani and Carnat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 15</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 63</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 38</li>
             <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 69</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 86</li>
             <li> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a> # 94</li>
         </ul>
       </td>
@@ -658,7 +658,7 @@ Indian music encompasses diverse classical traditions like Hindustani and Carnat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 86</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -699,8 +699,8 @@ Indian music encompasses diverse classical traditions like Hindustani and Carnat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 69</li>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 76</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 25</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 32</li>
             <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 94</li>
         </ul>
       </td>
@@ -757,8 +757,8 @@ Indian music encompasses diverse classical traditions like Hindustani and Carnat
       <td>
         <ul>
             <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 5</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 16</li>
             <li> <a href="{{ "/tags/indian-fusion" | relative_url }}">indian fusion</a> # 55</li>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 96</li>
             <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 98</li>
         </ul>
       </td>
@@ -802,9 +802,9 @@ Indian music encompasses diverse classical traditions like Hindustani and Carnat
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 10</li>
             <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 68</li>
             <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 74</li>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -880,8 +880,8 @@ Indian music encompasses diverse classical traditions like Hindustani and Carnat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 32</li>
             <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 62</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 69</li>
             <li> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a> # 97</li>
         </ul>
       </td>
@@ -921,7 +921,7 @@ Indian music encompasses diverse classical traditions like Hindustani and Carnat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 90</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 10</li>
             <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 94</li>
         </ul>
       </td>
@@ -961,9 +961,9 @@ Indian music encompasses diverse classical traditions like Hindustani and Carnat
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 2</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 4</li>
             <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 94</li>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 97</li>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 99</li>
             <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 100</li>
         </ul>
       </td>
@@ -1002,9 +1002,9 @@ Indian music encompasses diverse classical traditions like Hindustani and Carnat
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 1</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 14</li>
             <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 60</li>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 86</li>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1195,7 +1195,7 @@ Indian music encompasses diverse classical traditions like Hindustani and Carnat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 73</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 28</li>
             <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 90</li>
             <li> <a href="{{ "/tags/punjabi" | relative_url }}">punjabi</a> # 94</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 97</li>
@@ -1242,8 +1242,8 @@ Indian music encompasses diverse classical traditions like Hindustani and Carnat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 81</li>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 88</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 12</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 20</li>
             <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 90</li>
             <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 95</li>
         </ul>
@@ -1486,7 +1486,7 @@ Indian music encompasses diverse classical traditions like Hindustani and Carnat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 2</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1508,7 +1508,7 @@ Indian music encompasses diverse classical traditions like Hindustani and Carnat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 51</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 50</li>
             <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 64</li>
             <li> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a> # 96</li>
         </ul>
@@ -1554,17 +1554,17 @@ Indian music encompasses diverse classical traditions like Hindustani and Carnat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 3</li>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 6</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 12</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 24</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 35</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 38</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 39</li>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 46</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 63</li>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 66</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 55</li>
             <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 72</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 77</li>
             <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 88</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 89</li>
             <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 95</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 95</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1712,7 +1712,7 @@ Indian music encompasses diverse classical traditions like Hindustani and Carnat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 65</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1757,7 +1757,7 @@ Indian music encompasses diverse classical traditions like Hindustani and Carnat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 85</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 16</li>
             <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 94</li>
         </ul>
       </td>
@@ -1926,7 +1926,7 @@ Indian music encompasses diverse classical traditions like Hindustani and Carnat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 55</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1986,7 +1986,7 @@ Indian music encompasses diverse classical traditions like Hindustani and Carnat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 82</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 19</li>
             <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 93</li>
         </ul>
       </td>
@@ -2046,7 +2046,7 @@ Indian music encompasses diverse classical traditions like Hindustani and Carnat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 56</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -2089,7 +2089,7 @@ Indian music encompasses diverse classical traditions like Hindustani and Carnat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 68</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 33</li>
         </ul>
       </td>
     </tr>

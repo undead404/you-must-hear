@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T03:02:00.334Z
+date: 2025-12-04T01:04:42.939Z
 permalink: tags/witch-house
 title: witch house
 ---
 
 ## witch house
 
-Last updated: <time datetime="2025-11-25T03:02:00.334Z">Tue Nov 25 2025 05:02:00 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T01:04:42.939Z">Thu Dec 04 2025 03:04:42 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -45,7 +45,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 49</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -177,7 +177,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 47</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -272,7 +272,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       <td>
         <ul>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 35</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 63</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -328,7 +328,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 88</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -438,8 +438,8 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 4</li>
             <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 90</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -556,8 +556,8 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 79</li>
-            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 95</li>
+            <li> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a> # 5</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -593,8 +593,8 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 17</li>
             <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 74</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -689,7 +689,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 22</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 79</li>
             <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 84</li>
         </ul>
       </td>
@@ -746,7 +746,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 27</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -769,8 +769,8 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 19</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 76</li>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -810,7 +810,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 71</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -853,9 +853,9 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 74</li>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 95</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 24</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 96</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 96</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 100</li>
         </ul>
       </td>
@@ -898,9 +898,9 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 7</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 83</li>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 91</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 91</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 92</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 98</li>
         </ul>
       </td>
@@ -923,7 +923,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 20</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -983,9 +983,9 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 34</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 63</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 87</li>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 92</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 93</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 99</li>
         </ul>
       </td>
@@ -1029,7 +1029,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 45</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1067,9 +1067,9 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 12</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 81</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 90</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 11</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 19</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1111,9 +1111,9 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 88</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 88</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 92</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 10</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 89</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 92</li>
             <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 98</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 99</li>
         </ul>
@@ -1140,9 +1140,9 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 37</li>
-            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 88</li>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 95</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 5</li>
+            <li> <a href="{{ "/tags/dreamwave" | relative_url }}">dreamwave</a> # 12</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1261,10 +1261,10 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 15</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 27</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 54</li>
             <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 72</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 74</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1307,9 +1307,9 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 67</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 81</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 84</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 14</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 32</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1328,7 +1328,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 81</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1347,7 +1347,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 20</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1384,25 +1384,13 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       <td>Chapter I</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 5</li>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 50</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 72</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 85</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 92</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 98</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 77</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1443,7 +1431,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 71</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 26</li>
             <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 99</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 100</li>
         </ul>
@@ -1487,8 +1475,8 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 29</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 57</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1525,7 +1513,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 78</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1539,26 +1527,14 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       <td>Chapter II</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 16</li>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 41</li>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 73</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 80</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 89</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 96</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 99</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 19</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 68</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1583,9 +1559,9 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 28</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 56</li>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 60</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 29</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 39</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 44</li>
             <li> <a href="{{ "/tags/futurepop" | relative_url }}">futurepop</a> # 95</li>
         </ul>
       </td>
@@ -1607,7 +1583,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 79</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1651,7 +1627,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 24</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1673,9 +1649,9 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 42</li>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 75</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 94</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 26</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 46</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1729,9 +1705,9 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 23</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 98</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 100</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 1</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 32</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1754,9 +1730,9 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 7</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 7</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 46</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 87</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1774,7 +1750,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 11</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1811,7 +1787,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 15</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1853,9 +1829,9 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 6</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 20</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 67</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 15</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 30</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1878,7 +1854,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 49</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 50</li>
             <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 88</li>
         </ul>
       </td>
@@ -1897,7 +1873,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 4</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1948,9 +1924,9 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 11</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 12</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 27</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 72</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 74</li>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 92</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 95</li>
         </ul>
@@ -1972,8 +1948,8 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 75</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 86</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 13</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1994,8 +1970,8 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 37</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 79</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 19</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -2014,8 +1990,8 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 28</li>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 71</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 30</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 73</li>
             <li> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a> # 100</li>
         </ul>
       </td>
@@ -2040,7 +2016,7 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       <td>
         <ul>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 36</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 61</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -2067,11 +2043,11 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 3</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 3</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 17</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 57</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 69</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 18</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 44</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 71</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 98</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -2089,8 +2065,8 @@ Witch house is a genre of electronic music that emerged in the late 2000s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 85</li>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 88</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 13</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 87</li>
         </ul>
       </td>
     </tr>

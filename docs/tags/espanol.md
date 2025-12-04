@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T09:47:03.904Z
+date: 2025-12-04T01:56:44.794Z
 permalink: tags/espanol
 title: espanol
 ---
 
 ## espanol
 
-Last updated: <time datetime="2025-10-28T09:47:03.904Z">Tue Oct 28 2025 11:47:03 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T01:56:44.794Z">Thu Dec 04 2025 03:56:44 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -94,7 +94,7 @@ Español represents music sung primarily in the Spanish language, encompassing d
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/iE6RDJ03NWNvf0XofYHnnGiqq6fcSPfGgEtiMV4ibuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NDMy/Ny0xMjg3Mjk4MzIx/LmpwZWc.jpeg" alt="Cover for No Me Dejes Ir - Single" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d108d0445494b169a5c6ab0d2cf3ef0.png" alt="Cover for No Me Dejes Ir - Single" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Lucero</td>
@@ -118,7 +118,7 @@ Español represents music sung primarily in the Spanish language, encompassing d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 7</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -141,7 +141,7 @@ Español represents music sung primarily in the Spanish language, encompassing d
       <td>
         <ul>
             <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 4</li>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 48</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -162,7 +162,7 @@ Español represents music sung primarily in the Spanish language, encompassing d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 78</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -194,15 +194,15 @@ Español represents music sung primarily in the Spanish language, encompassing d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 19</li>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 26</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 76</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/vObspu6jS6HgdTo8cn9pe69VvpBOJjsKmmZXwJC_kMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODIx/MzUtMTQ2NDQ5NTU2/Ni0zMjMxLmpwZWc.jpeg" alt="Cover for Lucerito" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5aea0cd8bba82c072fe1256e4f8f0435.png" alt="Cover for Lucerito" style="max-width:120px; height:auto;" />
       </td>
       <td>1991-07-01</td>
       <td>Lucero</td>
@@ -228,16 +228,16 @@ Español represents music sung primarily in the Spanish language, encompassing d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 6</li>
             <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 16</li>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 42</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 58</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/5JeFy2UY8DmEXBUQcnCuXrnrp9NabKHDxMWgwJR_n_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTUw/OTQ3LTE1MDcwNjU0/MTgtNjYwOC5qcGVn.jpeg" alt="Cover for Frágil" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/056ff4b2276cda47e598d98edd97cbc6.png" alt="Cover for Frágil" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Frágil</td>
@@ -257,9 +257,9 @@ Español represents music sung primarily in the Spanish language, encompassing d
       <td>
         <ul>
             <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 2</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 34</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 32</li>
             <li> <a href="{{ "/tags/peru" | relative_url }}">peru</a> # 65</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 69</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 66</li>
             <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 80</li>
         </ul>
       </td>
@@ -267,7 +267,7 @@ Español represents music sung primarily in the Spanish language, encompassing d
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/MabNPUCAEOKEoUv2iyi9tsi9VIYecw1m1DsFvmbMwJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNDY1/NzEtMTU4MTAzMTk0/MS04NDEwLmpwZWc.jpeg" alt="Cover for Un Lu*Jo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/562f220090ac47acb1b15662ef25a777.png" alt="Cover for Un Lu*Jo" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Lucero</td>
@@ -294,11 +294,11 @@ Español represents music sung primarily in the Spanish language, encompassing d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 38</li>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 65</li>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 74</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 12</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 35</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 61</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 76</li>
             <li> <a href="{{ "/tags/ranchera" | relative_url }}">ranchera</a> # 85</li>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 88</li>
             <li> <a href="{{ "/tags/mariachi" | relative_url }}">mariachi</a> # 89</li>
             <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 92</li>
         </ul>
@@ -321,7 +321,7 @@ Español represents music sung primarily in the Spanish language, encompassing d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 94</li>
+            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -368,7 +368,7 @@ Español represents music sung primarily in the Spanish language, encompassing d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 15</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 16</li>
             <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 36</li>
             <li> <a href="{{ "/tags/peru" | relative_url }}">peru</a> # 89</li>
         </ul>
@@ -391,14 +391,15 @@ Español represents music sung primarily in the Spanish language, encompassing d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 38</li>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 88</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 13</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c9a5ae195ff289ec387b0ea0c9c60ca.png" alt="Cover for Sodade" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Cesária Évora</td>
@@ -431,7 +432,7 @@ Español represents music sung primarily in the Spanish language, encompassing d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 26</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 25</li>
             <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 49</li>
         </ul>
       </td>
@@ -454,7 +455,7 @@ Español represents music sung primarily in the Spanish language, encompassing d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 66</li>
+            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -481,7 +482,7 @@ Español represents music sung primarily in the Spanish language, encompassing d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 27</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -503,7 +504,7 @@ Español represents music sung primarily in the Spanish language, encompassing d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 56</li>
+            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -525,7 +526,7 @@ Español represents music sung primarily in the Spanish language, encompassing d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 23</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -566,9 +567,9 @@ Español represents music sung primarily in the Spanish language, encompassing d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 12</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 56</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 45</li>
             <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 73</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -590,7 +591,7 @@ Español represents music sung primarily in the Spanish language, encompassing d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 58</li>
+            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -671,13 +672,14 @@ Español represents music sung primarily in the Spanish language, encompassing d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 13</li>
+            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 88</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>45</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab83f164a82e0f150b03345089805259.png" alt="Cover for Dile al sol" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-05-18</td>
       <td>La Oreja de Van Gogh</td>
@@ -689,7 +691,7 @@ Español represents music sung primarily in the Spanish language, encompassing d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 70</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -730,9 +732,9 @@ Español represents music sung primarily in the Spanish language, encompassing d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 10</li>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 25</li>
-            <li> <a href="{{ "/tags/spanish-rock" | relative_url }}">spanish rock</a> # 72</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 26</li>
+            <li> <a href="{{ "/tags/spanish-rock" | relative_url }}">spanish rock</a> # 28</li>
+            <li> <a href="{{ "/tags/rock-argentino" | relative_url }}">rock argentino</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -780,7 +782,7 @@ Español represents music sung primarily in the Spanish language, encompassing d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 20</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -806,6 +808,7 @@ Español represents music sung primarily in the Spanish language, encompassing d
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/39fc518a05c7bf9845a25412f4d1a071.png" alt="Cover for Una pequeña parte del mundo" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-03-17</td>
       <td>Amaral</td>
@@ -817,13 +820,14 @@ Español represents music sung primarily in the Spanish language, encompassing d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 18</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>4</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba6a0123a8ac736e63837b4c270b30de.png" alt="Cover for Mi Reflejo" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-09-12</td>
       <td>Christina Aguilera</td>
@@ -835,15 +839,16 @@ Español represents music sung primarily in the Spanish language, encompassing d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 9</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 18</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 71</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 15</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 21</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d814952f1021cb07ff053d7fe8b15957.png" alt="Cover for Siempre" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Tamara</td>
@@ -858,7 +863,7 @@ Español represents music sung primarily in the Spanish language, encompassing d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 51</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -889,11 +894,11 @@ Español represents music sung primarily in the Spanish language, encompassing d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 15</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 29</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 35</li>
             <li> <a href="{{ "/tags/trova" | relative_url }}">trova</a> # 55</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 66</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 71</li>
             <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 78</li>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -973,7 +978,7 @@ Español represents music sung primarily in the Spanish language, encompassing d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 24</li>
+            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1013,14 +1018,14 @@ Español represents music sung primarily in the Spanish language, encompassing d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 51</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/pTCNKuDUqMWvsacBq8vSOj5IMRYh-7cgeJUvQslUTrc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDEx/Ny0xNjM1MDkzMjQ3/LTI5MzQuanBlZw.jpeg" alt="Cover for Almas Del Silencio" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/88dbcd3d1a55ac49a6b98d8c583fb4cf.png" alt="Cover for Almas Del Silencio" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-05-20</td>
       <td>Ricky Martin</td>
@@ -1039,21 +1044,20 @@ Español represents music sung primarily in the Spanish language, encompassing d
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/9agRXUWU48-KJpPGtxTyqlKUEkorh4F3pFUqbjhaUZQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjcx/NzktMTI5NTQ5MTM0/MC5qcGVn.jpeg" alt="Cover for Escucha" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/25d00a84d40242a7aa8848c97e034dcf.png" alt="Cover for Escucha" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Laura Pausini</td>
       <td>Escucha</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/italian" | relative_url }}">italian</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 14</li>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 81</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 48</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1079,7 +1083,7 @@ Español represents music sung primarily in the Spanish language, encompassing d
     <tr>
       <td>21</td>
       <td>
-          <img src="https://i.discogs.com/OIrsxI9_CWqlFiWUi5P9rFQTohb-_7gW3ZSmeF7kscA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NTIy/MjItMTQyMzkzNTAy/MC03NDA3LmpwZWc.jpeg" alt="Cover for Mi Estrella" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/093401a955a1fea3ba16ff31d4c664e3.png" alt="Cover for Mi Estrella" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-04</td>
       <td>Abigail</td>
@@ -1116,6 +1120,7 @@ Español represents music sung primarily in the Spanish language, encompassing d
     <tr>
       <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3b283d1aefc82f1ef3b75902cb90d48.png" alt="Cover for Mi Sangre" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-09-28</td>
       <td>Juanes</td>
@@ -1127,10 +1132,10 @@ Español represents music sung primarily in the Spanish language, encompassing d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 59</li>
-            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 76</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 87</li>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 90</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 14</li>
+            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 25</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 62</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1162,10 +1167,10 @@ Español represents music sung primarily in the Spanish language, encompassing d
       <td>
         <ul>
             <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 9</li>
-            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 33</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 51</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 23</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 49</li>
             <li> <a href="{{ "/tags/trova" | relative_url }}">trova</a> # 66</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 77</li>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 68</li>
             <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 89</li>
         </ul>
       </td>
@@ -1194,10 +1199,10 @@ Español represents music sung primarily in the Spanish language, encompassing d
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 25</li>
             <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 28</li>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 42</li>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 66</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 75</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 35</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 43</li>
             <li> <a href="{{ "/tags/peru" | relative_url }}">peru</a> # 87</li>
         </ul>
       </td>
@@ -1220,14 +1225,14 @@ Español represents music sung primarily in the Spanish language, encompassing d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 17</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/vDSK_tzf3bzpuj6XaLYe5Stb8oiuBvzwzug86NmYwJc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjM5/NTEtMTM0MzQ1NzM4/Ny03OTY2LmpwZWc.jpeg" alt="Cover for God&#39;s Project" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/78388f395c78e5b6c5db6be5ac1d0a18.png" alt="Cover for God&#39;s Project" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-04-12</td>
       <td>Aventura</td>
@@ -1239,7 +1244,7 @@ Español represents music sung primarily in the Spanish language, encompassing d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 97</li>
+            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1257,7 +1262,7 @@ Español represents music sung primarily in the Spanish language, encompassing d
       <td>
         <ul>
             <li> <a href="{{ "/tags/cantautor" | relative_url }}">cantautor</a> # 5</li>
-            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 20</li>
+            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1325,8 +1330,8 @@ Español represents music sung primarily in the Spanish language, encompassing d
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 42</li>
             <li> <a href="{{ "/tags/peru" | relative_url }}">peru</a> # 55</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 59</li>
             <li> <a href="{{ "/tags/peruvian" | relative_url }}">peruvian</a> # 75</li>
         </ul>
       </td>
@@ -1334,6 +1339,7 @@ Español represents music sung primarily in the Spanish language, encompassing d
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5e84b3a2c1048ea9511c3b3b2af3312.png" alt="Cover for La Gallina" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>El Columpio Asesino</td>
@@ -1355,6 +1361,7 @@ Español represents music sung primarily in the Spanish language, encompassing d
     <tr>
       <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/74bb6b6d437047f7aee4b07b65e56dd1.png" alt="Cover for Beijing 2008" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-08-04</td>
       <td>NEIZAN</td>
@@ -1408,19 +1415,20 @@ Español represents music sung primarily in the Spanish language, encompassing d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 2</li>
             <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 23</li>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 25</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 27</li>
             <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 34</li>
             <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 43</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 45</li>
-            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 82</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 56</li>
+            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 84</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/25957a1b26a24d0692b89cc1dcf21a5f.png" alt="Cover for Broken Toys" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-11-10</td>
       <td>NEIZAN</td>
@@ -1475,8 +1483,8 @@ Español represents music sung primarily in the Spanish language, encompassing d
       <td>
         <ul>
             <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 21</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 23</li>
-            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 74</li>
+            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 75</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1519,8 +1527,8 @@ Español represents music sung primarily in the Spanish language, encompassing d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 61</li>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 63</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 38</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 40</li>
             <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 70</li>
             <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 86</li>
             <li> <a href="{{ "/tags/mediterranean" | relative_url }}">mediterranean</a> # 88</li>
@@ -1530,6 +1538,7 @@ Español represents music sung primarily in the Spanish language, encompassing d
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/897e455ff6c84b349b5ba020cd818f45.png" alt="Cover for Manos Al Aire" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-06-30</td>
       <td>Nelly Furtado</td>
@@ -1547,7 +1556,6 @@ Español represents music sung primarily in the Spanish language, encompassing d
     <tr>
       <td>15</td>
       <td>
-          <img src="https://i.discogs.com/1uLkY1zwNiwO6-n_eL2CL_LcRWMPWp787yEUyGJ3IFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTA1/OTItMTQwNDQyNzU0/OC0yOTY5LmpwZWc.jpeg" alt="Cover for Traición - Canción de la Semana" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Makano</td>
@@ -1618,10 +1626,7 @@ Español represents music sung primarily in the Spanish language, encompassing d
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
         </ul>
       </td>
       <td>
@@ -1690,7 +1695,7 @@ Español represents music sung primarily in the Spanish language, encompassing d
     <tr>
       <td>17</td>
       <td>
-          <img src="https://i.discogs.com/Ab2RBRJIl3pZd5QuUH-ANtP1VYifG1btucvKliZSfeY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjUz/NzMtMTM3NDgwMTAx/My00MTY5LmpwZWc.jpeg" alt="Cover for Near - Heart Object" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/073f47718f18e8872eb04e5812f6ec1e.png" alt="Cover for Near - Heart Object" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-07-22</td>
       <td>Astronomical Telegram</td>
@@ -1710,7 +1715,7 @@ Español represents music sung primarily in the Spanish language, encompassing d
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/yi0bMZKeRK7eSKNB4zwf5GHa8wZRozwOcwYpef8Wh38/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTQy/NzQtMTM1MTcwNTY0/NS03NTE4LmpwZWc.jpeg" alt="Cover for Sólo pienso en ti" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1b9a87d1e3649e1c96081939a3073b8.png" alt="Cover for Sólo pienso en ti" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-08-12</td>
       <td>Lucero</td>
@@ -1730,7 +1735,7 @@ Español represents music sung primarily in the Spanish language, encompassing d
       <td>
         <ul>
             <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 18</li>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 43</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1766,10 +1771,7 @@ Español represents music sung primarily in the Spanish language, encompassing d
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
         </ul>
       </td>
       <td>
@@ -1780,7 +1782,7 @@ Español represents music sung primarily in the Spanish language, encompassing d
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/2lzFkmb81VMYMTeU9xa49OsSP3FZPq1_VvhXAMUziQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDA4/OTEtMTM5MDkxMzI1/Ny04NTcyLmpwZWc.jpeg" alt="Cover for Pablo Alboran (Deluxe)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/df233b5d3e9e76450539d33e26d0f3cc.png" alt="Cover for Pablo Alboran (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Pablo Alborán</td>
@@ -1797,14 +1799,14 @@ Español represents music sung primarily in the Spanish language, encompassing d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 6</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/Gd-cbKtZAEOWsi-eoga_iyj7dWFWNhwoRYkxTN-eQK0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MTQ5/NDktMTQ0MjM5Mjc1/NC02ODk4LmpwZWc.jpeg" alt="Cover for yocta to yotta" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e19e28774e65ab6c60b1b1643536c5ce.png" alt="Cover for yocta to yotta" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-08-31</td>
       <td>Cio D&#39;or</td>
@@ -1826,18 +1828,13 @@ Español represents music sung primarily in the Spanish language, encompassing d
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/l1wl85zyGUcy7OCkEoVNEioHA4tLPcJdgVp0H1rH0Fw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MDg5/NzctMTQ0NzIzNzg2/My00MTc5LmpwZWc.jpeg" alt="Cover for Tour Terral (Tres noches en Las Ventas)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/103ab7dc3bbd3e54e4a179a0a58f9b75.png" alt="Cover for Tour Terral (Tres noches en Las Ventas)" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-11-06</td>
       <td>Pablo Alborán</td>
       <td>Tour Terral (Tres noches en Las Ventas)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a></li>
         </ul>
       </td>
       <td>
@@ -1902,14 +1899,14 @@ Español represents music sung primarily in the Spanish language, encompassing d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 7</li>
+            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/9jAOSln7CijXeTgn-Nn-QnPROqXW1VwBKVjfLuZqp3M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDM5/NTEwLTE1MDAwNDUx/MzctNTQwMS5qcGVn.jpeg" alt="Cover for Seven Sisters EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d9c21492d4e102906e773a007fdda0e.png" alt="Cover for Seven Sisters EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-03-17</td>
       <td>Daniel Araya</td>
@@ -1974,7 +1971,7 @@ Español represents music sung primarily in the Spanish language, encompassing d
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/-NwdTwy5mrwPPTd0kQRPJjF7gYiG1O8TIlqIcjbaJkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDg4/MzM0LTE2MzA1MDU4/MDgtNjAxNi5qcGVn.jpeg" alt="Cover for A Un Milímetro De Ti" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c561c8b7fe773d89863b320a5824a7b4.png" alt="Cover for A Un Milímetro De Ti" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-11-03</td>
       <td>Antonio José</td>
@@ -1988,7 +1985,7 @@ Español represents music sung primarily in the Spanish language, encompassing d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 2</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -2037,7 +2034,7 @@ Español represents music sung primarily in the Spanish language, encompassing d
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/fqn8mq33SChakEaYMB6SHVUsvmDvvQFBbOLyXlCU1sU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzk0/NzA5LTE1MTU1Mzkz/NDctNDc3Mi5qcGVn.jpeg" alt="Cover for Pareidolia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79d031bc70a14ec499b5403ff6ec8225.png" alt="Cover for Pareidolia" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-01-09</td>
       <td>Powlos</td>
@@ -2104,7 +2101,7 @@ Español represents music sung primarily in the Spanish language, encompassing d
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/zQ_dj0pGSqMcNyXU9qv9EoNZcApq1XlkK8HNN6VM-es/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDc5/OTkyLTE1ODY0MzM2/MjktMjAzOS5qcGVn.jpeg" alt="Cover for Cierre" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/84681e52305ce8d11ea5f2d9e34563b2.png" alt="Cover for Cierre" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-08-22</td>
       <td>Juancho Marqués</td>
@@ -2143,7 +2140,7 @@ Español represents music sung primarily in the Spanish language, encompassing d
     <tr>
       <td>3</td>
       <td>
-          <img src="https://i.discogs.com/C5nrm70-nUIJWFx12Lb0A2qz0qE_JU-c4WuJVHeouvk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjM2/MDU3LTE1NTgwMDEz/NjQtMjYyMS5qcGVn.jpeg" alt="Cover for Gravitational Waves" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fed39c96db35adca7a70e5ed7952eee.png" alt="Cover for Gravitational Waves" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-04-04</td>
       <td>akob</td>
@@ -2189,7 +2186,7 @@ Español represents music sung primarily in the Spanish language, encompassing d
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/Bdj9Ub9aQLLrncatg9U9w4xs2IbEgsgSn_7Cnp6nFXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODY0/Njg1LTE1OTkyMTQ4/NzktNjE2Mi5qcGVn.jpeg" alt="Cover for სამასსამი (303)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3853bfd9e52e4c59d45d17cbc48d01b.png" alt="Cover for სამასსამი (303)" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-09-16</td>
       <td>Benvol</td>
@@ -2244,14 +2241,14 @@ Español represents music sung primarily in the Spanish language, encompassing d
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 77</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>10</td>
       <td>
-          <img src="https://i.discogs.com/b9ojKlNS3fLdTZpFfDQmXcmu8zWkj5V9juRjVoIAn5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTUx/Mzc4LTE2MzgyMTI5/NDUtODk5OS5qcGVn.jpeg" alt="Cover for Eg1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/17dfae5772ffd5491dffb7744f789b94.png" alt="Cover for Eg1" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-12-03</td>
       <td>Esplendor Geométrico</td>

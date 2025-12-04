@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T11:29:15.846Z
+date: 2025-12-04T02:32:12.233Z
 permalink: tags/pub-rock
 title: pub rock
 ---
 
 ## pub rock
 
-Last updated: <time datetime="2025-11-23T11:29:15.846Z">Sun Nov 23 2025 13:29:15 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T02:32:12.233Z">Thu Dec 04 2025 04:32:12 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -50,7 +50,7 @@ Pub rock emerged in early 1970s Britain as a back-to-basics reaction against pro
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/x8VWIhlDcVa2g445MxuYqNPr9XWZW3Q5flAEa6sjFBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNDk4/MTItMTUwNzQ4ODQ2/NC04ODkwLmpwZWc.jpeg" alt="Cover for Despite It All" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22ee6a3fcd5c47d5b49bc4b7ea34a5a4.png" alt="Cover for Despite It All" style="max-width:120px; height:auto;" />
       </td>
       <td>1970</td>
       <td>Brinsley Schwarz</td>
@@ -156,7 +156,7 @@ Pub rock emerged in early 1970s Britain as a back-to-basics reaction against pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 60</li>
+            <li> <a href="{{ "/tags/proto-punk" | relative_url }}">proto-punk</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -258,7 +258,7 @@ Pub rock emerged in early 1970s Britain as a back-to-basics reaction against pro
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/ATjYzzO0s-MFcuvrb7-_VY4Wz3Kf0bxpT5gneAhI8KA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTYy/NjgtMTI4MDg2NzU3/My5qcGVn.jpeg" alt="Cover for 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9466596dcedb023852c31c9e4518332.png" alt="Cover for 1" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>The Motors</td>
@@ -375,6 +375,26 @@ Pub rock emerged in early 1970s Britain as a back-to-basics reaction against pro
       </td>
     </tr>
     <tr>
+      <td>82</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e27b1b1f31d6471bc7d28334bb503349.png" alt="Cover for Wreckless Eric" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1978</td>
+      <td>Wreckless Eric</td>
+      <td>Wreckless Eric</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>93</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/79c76169f38306a56502024b724cf6e6.png" alt="Cover for Approved By The Motors" style="max-width:120px; height:auto;" />
@@ -406,25 +426,6 @@ Pub rock emerged in early 1970s Britain as a back-to-basics reaction against pro
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pub-rock" | relative_url }}">pub rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>82</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e27b1b1f31d6471bc7d28334bb503349.png" alt="Cover for Wreckless Eric" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1978</td>
-      <td>Wreckless Eric</td>
-      <td>Wreckless Eric</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
         </ul>
       </td>
       <td>
@@ -470,7 +471,7 @@ Pub rock emerged in early 1970s Britain as a back-to-basics reaction against pro
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/tQf8hVmeTCyHBqU0xXQ9neDup1VXuokny9W6KY0amzU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDgy/MzAtMTQ1MzM4ODUz/NC01NTQwLmpwZWc.jpeg" alt="Cover for Dire Straits ((Remastered))" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/30884e5d47038be12e31ddbb31dbf55b.png" alt="Cover for Dire Straits ((Remastered))" style="max-width:120px; height:auto;" />
       </td>
       <td>1978-06-02</td>
       <td>Dire Straits</td>
@@ -1214,7 +1215,7 @@ Pub rock emerged in early 1970s Britain as a back-to-basics reaction against pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 38</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1507,7 +1508,7 @@ Pub rock emerged in early 1970s Britain as a back-to-basics reaction against pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 5</li>
+            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1526,8 +1527,8 @@ Pub rock emerged in early 1970s Britain as a back-to-basics reaction against pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 47</li>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 70</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 31</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1571,6 +1572,7 @@ Pub rock emerged in early 1970s Britain as a back-to-basics reaction against pro
     <tr>
       <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/874b77e4ec52703a1d2c58728e39280b.png" alt="Cover for Greasy Truckers Party" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-04-08</td>
       <td>Man</td>
@@ -1901,7 +1903,7 @@ Pub rock emerged in early 1970s Britain as a back-to-basics reaction against pro
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 71</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 75</li>
         </ul>
       </td>
     </tr>

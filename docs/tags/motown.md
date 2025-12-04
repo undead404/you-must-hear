@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T03:27:21.678Z
+date: 2025-12-04T01:05:45.914Z
 permalink: tags/motown
 title: motown
 ---
 
 ## motown
 
-Last updated: <time datetime="2025-11-25T03:27:21.678Z">Tue Nov 25 2025 05:27:21 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T01:05:45.914Z">Thu Dec 04 2025 03:05:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -88,7 +88,7 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 75</li>
+            <li> <a href="{{ "/tags/girl-band" | relative_url }}">girl band</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -346,7 +346,7 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 26</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -384,7 +384,7 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 45</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -441,8 +441,8 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 81</li>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 96</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 5</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -516,7 +516,7 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 83</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -538,7 +538,7 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 51</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 49</li>
             <li> <a href="{{ "/tags/male-singer-songwriter" | relative_url }}">male singer songwriter</a> # 96</li>
         </ul>
       </td>
@@ -594,8 +594,8 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 26</li>
-            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 95</li>
+            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 6</li>
+            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -690,7 +690,7 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 70</li>
+            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -899,7 +899,7 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 62</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -955,7 +955,8 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 13</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 88</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1030,7 +1031,7 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 47</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1519,9 +1520,9 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 53</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 72</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 47</li>
             <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 73</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1744,7 +1745,7 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 52</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1884,7 +1885,7 @@ Motown music, also known as &quot;The Motown Sound,&quot; is a style of soul mus
       <td>
         <ul>
             <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 10</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 74</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 27</li>
         </ul>
       </td>
     </tr>

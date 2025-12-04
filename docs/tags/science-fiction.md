@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T08:50:30.601Z
+date: 2025-12-04T01:12:45.874Z
 permalink: tags/science-fiction
 title: science fiction
 ---
 
 ## science fiction
 
-Last updated: <time datetime="2025-11-26T08:50:30.601Z">Wed Nov 26 2025 10:50:30 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T01:12:45.874Z">Thu Dec 04 2025 03:12:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,7 +43,7 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 91</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -428,8 +428,8 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 31</li>
-            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 97</li>
+            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 4</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1001,7 +1001,7 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-jersey" | relative_url }}">new jersey</a> # 59</li>
+            <li> <a href="{{ "/tags/new-jersey" | relative_url }}">new jersey</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1097,7 +1097,7 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 26</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1358,8 +1358,8 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 4</li>
-            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 19</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 3</li>
+            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1453,8 +1453,8 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 26</li>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 38</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 63</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1476,7 +1476,7 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 27</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1975,10 +1975,10 @@ Science fiction music evokes futuristic landscapes, space exploration, and techn
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 2</li>
             <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 30</li>
             <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 32</li>
-            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 38</li>
+            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 62</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 99</li>
         </ul>
       </td>
     </tr>

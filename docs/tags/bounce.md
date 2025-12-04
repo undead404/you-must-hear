@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T11:28:27.854Z
+date: 2025-12-04T01:51:39.286Z
 permalink: tags/bounce
 title: bounce
 ---
 
 ## bounce
 
-Last updated: <time datetime="2025-11-23T11:28:27.854Z">Sun Nov 23 2025 13:28:27 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T01:51:39.286Z">Thu Dec 04 2025 03:51:39 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -145,7 +145,7 @@ Last updated: <time datetime="2025-11-23T11:28:27.854Z">Sun Nov 23 2025 13:28:27
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 47</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -251,7 +251,7 @@ Last updated: <time datetime="2025-11-23T11:28:27.854Z">Sun Nov 23 2025 13:28:27
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 30</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -318,7 +318,7 @@ Last updated: <time datetime="2025-11-23T11:28:27.854Z">Sun Nov 23 2025 13:28:27
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 41</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 59</li>
             <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 80</li>
         </ul>
       </td>
@@ -339,7 +339,7 @@ Last updated: <time datetime="2025-11-23T11:28:27.854Z">Sun Nov 23 2025 13:28:27
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 75</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -422,8 +422,8 @@ Last updated: <time datetime="2025-11-23T11:28:27.854Z">Sun Nov 23 2025 13:28:27
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 24</li>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 85</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 10</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1018,8 +1018,8 @@ Last updated: <time datetime="2025-11-23T11:28:27.854Z">Sun Nov 23 2025 13:28:27
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 15</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 57</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 56</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1294,7 +1294,7 @@ Last updated: <time datetime="2025-11-23T11:28:27.854Z">Sun Nov 23 2025 13:28:27
       <td>
         <ul>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 10</li>
-            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 14</li>
+            <li> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1391,7 +1391,7 @@ Last updated: <time datetime="2025-11-23T11:28:27.854Z">Sun Nov 23 2025 13:28:27
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 60</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1444,8 +1444,8 @@ Last updated: <time datetime="2025-11-23T11:28:27.854Z">Sun Nov 23 2025 13:28:27
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 40</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 63</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 31</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1755,7 +1755,7 @@ Last updated: <time datetime="2025-11-23T11:28:27.854Z">Sun Nov 23 2025 13:28:27
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/RrhhTnzkWUyWu6prPmtrh877MQerSVqoKhDm4rACxes/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDYy/MjA1LTE2Njc2NTgw/NzEtNjQ1Mi5wbmc.jpeg" alt="Cover for The Takeover" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba8a1df8aff09a95c8494e87a9a2107e.png" alt="Cover for The Takeover" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-22</td>
       <td>Enmity</td>

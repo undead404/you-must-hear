@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T20:41:43.933Z
+date: 2025-12-04T01:08:45.885Z
 permalink: tags/international
 title: international
 ---
 
 ## international
 
-Last updated: <time datetime="2025-11-19T20:41:43.933Z">Wed Nov 19 2025 22:41:43 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T01:08:45.885Z">Thu Dec 04 2025 03:08:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -66,7 +66,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 52</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 49</li>
             <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 72</li>
         </ul>
       </td>
@@ -112,8 +112,8 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 6</li>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 12</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 89</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -247,7 +247,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 30</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -266,7 +266,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mambo" | relative_url }}">mambo</a> # 40</li>
+            <li> <a href="{{ "/tags/mambo" | relative_url }}">mambo</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -361,7 +361,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 10</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -445,8 +445,8 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 11</li>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 82</li>
+            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 12</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -564,7 +564,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       <td>
         <ul>
             <li> <a href="{{ "/tags/harpsichord" | relative_url }}">harpsichord</a> # 22</li>
-            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 44</li>
+            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -639,7 +639,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 1</li>
+            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -901,7 +901,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 64</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -987,10 +987,10 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 4</li>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 38</li>
-            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 57</li>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 83</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 5</li>
+            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 58</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 62</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1018,7 +1018,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       <td>
         <ul>
             <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 5</li>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 37</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1081,7 +1081,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 54</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1124,8 +1124,8 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 40</li>
             <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 50</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 61</li>
             <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 70</li>
             <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 86</li>
             <li> <a href="{{ "/tags/mediterranean" | relative_url }}">mediterranean</a> # 88</li>
@@ -1172,7 +1172,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 49</li>
+            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 52</li>
             <li> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a> # 64</li>
         </ul>
       </td>
@@ -1291,14 +1291,14 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 78</li>
+            <li> <a href="{{ "/tags/dutch" | relative_url }}">dutch</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>1</td>
       <td>
-          <img src="https://i.discogs.com/C9O9SMjTnkQXT07NYNevIPD_m8Ov7GR0yA64NBMJR4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzcx/MDUwLTE1NDE2MTg5/NDQtNzgxMi5qcGVn.jpeg" alt="Cover for Necropotence" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/95357d3eebc8ae5186cdda13df24a2b5.png" alt="Cover for Necropotence" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12-12</td>
       <td>Necropotence</td>
@@ -1365,8 +1365,8 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 33</li>
             <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 68</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1417,8 +1417,8 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
         <ul>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 10</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 37</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 68</li>
             <li> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a> # 68</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 70</li>
             <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 79</li>
         </ul>
       </td>
@@ -1504,7 +1504,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 70</li>
+            <li> <a href="{{ "/tags/brasileira" | relative_url }}">brasileira</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1526,7 +1526,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 43</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 44</li>
             <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 88</li>
             <li> <a href="{{ "/tags/takamba" | relative_url }}">takamba</a> # 96</li>
         </ul>
@@ -1569,7 +1569,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 69</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1609,7 +1609,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 83</li>
+            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1758,7 +1758,7 @@ The &quot;international&quot; tag encompasses music rooted in specific cultural 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 30</li>
+            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 69</li>
         </ul>
       </td>
     </tr>

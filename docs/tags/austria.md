@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T09:46:39.966Z
+date: 2025-12-04T01:31:23.328Z
 permalink: tags/austria
 title: austria
 ---
 
 ## austria
 
-Last updated: <time datetime="2025-10-28T09:46:39.966Z">Tue Oct 28 2025 11:46:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T01:31:23.328Z">Thu Dec 04 2025 03:31:23 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -93,6 +93,7 @@ The &quot;austria&quot; tag encompasses music created by Austrian artists or ref
     <tr>
       <td>18</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f47fb86c020897a6e6df7c3698c4e4b9.png" alt="Cover for Austrian Hip-Hop Sampler 2008" style="max-width:120px; height:auto;" />
       </td>
       <td>1974</td>
       <td>Various Artists</td>
@@ -146,8 +147,8 @@ The &quot;austria&quot; tag encompasses music created by Austrian artists or ref
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 98</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 100</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 1</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -174,7 +175,7 @@ The &quot;austria&quot; tag encompasses music created by Austrian artists or ref
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Grand Slam" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6400d093e5ac4fbfa4af9ffef00899b5.png" alt="Cover for Grand Slam" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Various Artists</td>
@@ -263,8 +264,8 @@ The &quot;austria&quot; tag encompasses music created by Austrian artists or ref
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 38</li>
-            <li> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a> # 90</li>
+            <li> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a> # 11</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -411,7 +412,7 @@ The &quot;austria&quot; tag encompasses music created by Austrian artists or ref
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 27</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -496,6 +497,7 @@ The &quot;austria&quot; tag encompasses music created by Austrian artists or ref
     <tr>
       <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/043e55aa4b0044adb6642d44d8a2bdc8.png" alt="Cover for Mum" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Mum</td>
@@ -640,6 +642,28 @@ The &quot;austria&quot; tag encompasses music created by Austrian artists or ref
       </td>
     </tr>
     <tr>
+      <td>82</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/60259130382a4f46ebdc486b0722d0cd.png" alt="Cover for Para" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2003</td>
+      <td>Akuma</td>
+      <td>Para</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/austria" | relative_url }}">austria</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 97</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>25</td>
       <td>
           <img src="https://i.discogs.com/4FW24RhEywN4dYHweqgCqJMAWNuFZa4IXASJjRDxuCA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTY4/ODUtMTI0MzE4MzMw/OC5qcGVn.jpeg" alt="Cover for Menace to Society" style="max-width:120px; height:auto;" />
@@ -651,27 +675,6 @@ The &quot;austria&quot; tag encompasses music created by Austrian artists or ref
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/austria" | relative_url }}">austria</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>82</td>
-      <td>
-          <img src="https://i.discogs.com/_7Atr5Z7R8mpZAO6d7MtOkXDjCGIa3n_fxmE-jkEV5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTc1/MTA2LTE1NTY4MDE0/NzQtNjE4MC5wbmc.jpeg" alt="Cover for Para" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2003</td>
-      <td>Akuma</td>
-      <td>Para</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/austria" | relative_url }}">austria</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
         </ul>
       </td>
       <td>
@@ -702,6 +705,25 @@ The &quot;austria&quot; tag encompasses music created by Austrian artists or ref
       </td>
     </tr>
     <tr>
+      <td>96</td>
+      <td>
+      </td>
+      <td>2004</td>
+      <td>Rodney Hunter</td>
+      <td>Hunter Files</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/austria" | relative_url }}">austria</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 5</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>43</td>
       <td>
           <img src="https://i.discogs.com/dcz29uHM7KiUrhlE1wVS_GNhgbvrUWOLpYb6S1ZWjDY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDYw/NS0xMTA3MzQ0MzU5/LmpwZw.jpeg" alt="Cover for Sentimental Cooking" style="max-width:120px; height:auto;" />
@@ -714,24 +736,6 @@ The &quot;austria&quot; tag encompasses music created by Austrian artists or ref
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/austria" | relative_url }}">austria</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>96</td>
-      <td>
-      </td>
-      <td>2004</td>
-      <td>Rodney Hunter</td>
-      <td>Hunter Files</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/austria" | relative_url }}">austria</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
         </ul>
       </td>
       <td>
@@ -775,13 +779,14 @@ The &quot;austria&quot; tag encompasses music created by Austrian artists or ref
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 67</li>
+            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbcb0bff0ad34e41aec28f3c53547bad.png" alt="Cover for Más Amor" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Madrid De Los Austrias</td>
@@ -802,6 +807,7 @@ The &quot;austria&quot; tag encompasses music created by Austrian artists or ref
     <tr>
       <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfac6f2687843461c7bf299e3ad0d0fe.png" alt="Cover for Schwarz Weiß" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-05-27</td>
       <td>Christina Stürmer</td>
@@ -820,7 +826,7 @@ The &quot;austria&quot; tag encompasses music created by Austrian artists or ref
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/ZNC9iFmKwvj75dcVioCQ63udmcWu_TEHoVYCbOZiA5s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTAw/Mi0xMTc4MzA4MDYx/LmpwZWc.jpeg" alt="Cover for Network" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/905755d5d5e84fe8cffce196c26bdf5a.png" alt="Cover for Network" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-06-27</td>
       <td>Global Deejays</td>
@@ -876,7 +882,7 @@ The &quot;austria&quot; tag encompasses music created by Austrian artists or ref
       <td>
         <ul>
             <li> <a href="{{ "/tags/austropop" | relative_url }}">austropop</a> # 21</li>
-            <li> <a href="{{ "/tags/austrian" | relative_url }}">austrian</a> # 59</li>
+            <li> <a href="{{ "/tags/austrian" | relative_url }}">austrian</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -920,7 +926,7 @@ The &quot;austria&quot; tag encompasses music created by Austrian artists or ref
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/yXH5UHuHNN9VngQ2IKY6wFBYKnc12lDAJ5m57HXjPnk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDc2/MjgtMTQzMjg1MDQz/My0xODY2LmpwZWc.jpeg" alt="Cover for Lebe Lauter" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f768004d48520a40b541e9d9c209bf6.png" alt="Cover for Lebe Lauter" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-09-15</td>
       <td>Christina Stürmer</td>
@@ -1104,14 +1110,13 @@ The &quot;austria&quot; tag encompasses music created by Austrian artists or ref
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 47</li>
+            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/Tr-29HjcPQsd7LEJhRRZHrgOZmKvJ52wXUrH_w-y_xc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTQ1/OTMtMTQwOTg5OTU2/MS01MDEzLmpwZWc.jpeg" alt="Cover for isaiah" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Isaiah</td>
@@ -1163,7 +1168,7 @@ The &quot;austria&quot; tag encompasses music created by Austrian artists or ref
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 46</li>
+            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1229,14 +1234,14 @@ The &quot;austria&quot; tag encompasses music created by Austrian artists or ref
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 15</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/qKGuk32l0MPsQsT0BFcCtxTpIg3ZDsuvXPbfAGNaE1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzIz/NTItMTU5NjYzNTM0/Ni02MDY3LmpwZWc.jpeg" alt="Cover for Carbon Black" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8312add937c945cc8f9c4c6bd110c062.png" alt="Cover for Carbon Black" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Mandatory</td>
@@ -1311,7 +1316,7 @@ The &quot;austria&quot; tag encompasses music created by Austrian artists or ref
     <tr>
       <td>5</td>
       <td>
-          <img src="https://i.discogs.com/Sclh__hzNbm2xE5B3wXBTzMLFXCTgsBXeZU0wupoTx0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ3/NjE4LTE2NDg0MDc1/NDAtODc5Mi5qcGVn.jpeg" alt="Cover for Somewhere in America" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a97088c9086c44989b052d2264d1bf32.png" alt="Cover for Somewhere in America" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Cornerstone ®</td>
@@ -1334,7 +1339,7 @@ The &quot;austria&quot; tag encompasses music created by Austrian artists or ref
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/npUsMAiuQnT2w6HMrglWjHY6vYfnf4x5MAuz8pH_SB0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NTg3/ODItMTY0NzQyMTMy/Ni0xNjYzLmpwZWc.jpeg" alt="Cover for Abiona" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4f6ebfb4197c12cb162aa0efba5892b.png" alt="Cover for Abiona" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Second Relation</td>
@@ -1375,6 +1380,7 @@ The &quot;austria&quot; tag encompasses music created by Austrian artists or ref
     <tr>
       <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/420fd82bb9aa4336c36c6fee6015b35c.png" alt="Cover for When the Headline Hit Home" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-02-19</td>
       <td>Our Ceasing Voice</td>
@@ -1392,6 +1398,7 @@ The &quot;austria&quot; tag encompasses music created by Austrian artists or ref
     <tr>
       <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a95c45f2d4ba5b84b81025f0cc60d96.png" alt="Cover for Can You Feel the Beat?" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-10-21</td>
       <td>Nachtmahr</td>
@@ -1411,7 +1418,7 @@ The &quot;austria&quot; tag encompasses music created by Austrian artists or ref
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/hqAWBdiNViOuikKcbGNH8g0MvN-f1NXvvG15qmONme8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTcw/NzYtMTMzNjc2ODcx/NS0xNTkxLmpwZWc.jpeg" alt="Cover for Weltenwanderung" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79dea48afefc4fdea1c2f44f01da04ae.png" alt="Cover for Weltenwanderung" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-21</td>
       <td>Locus Neminis</td>
@@ -1533,7 +1540,6 @@ The &quot;austria&quot; tag encompasses music created by Austrian artists or ref
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/i2DOsGSvA1_cbXKEhQBC7utzYMRljGzO2OgtOvwjTwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NzM3/OTEtMTQ0MjE5MTcx/MS03OTQ1LmpwZWc.jpeg" alt="Cover for All Black Rainbow Moon" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Les Lekin</td>
@@ -1552,14 +1558,14 @@ The &quot;austria&quot; tag encompasses music created by Austrian artists or ref
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 70</li>
+            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/lXCsBp-L34eio3CO-k_lt_xqbvICVMsy4rh3IdSDuTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODQ1/OTIyLTE2ODIxODA0/NjYtMzI4Mi5qcGVn.jpeg" alt="Cover for The Ancient" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/29171f29b410467bc4d4985b515e8fc4.png" alt="Cover for The Ancient" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>i watch mountains grow</td>
@@ -1630,14 +1636,14 @@ The &quot;austria&quot; tag encompasses music created by Austrian artists or ref
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 36</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/SLF3W3XhblG_y5jVoejAoPf54KdCQ-a7bWEwz90jl0w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDE5/NzItMTQ2MTY4NDg2/My03MTA5LmpwZWc.jpeg" alt="Cover for Nichts dagegen, aber" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c89a3108fe831e34d5f31c8a3227043.png" alt="Cover for Nichts dagegen, aber" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Texta</td>
@@ -1654,7 +1660,7 @@ The &quot;austria&quot; tag encompasses music created by Austrian artists or ref
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/8bzCICPOaRiCZNt9-opHRrF3ZO-6vgBJIh_qEhQFtic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzIy/NTgwLTE1MDMwODgx/MzgtODMzOC5qcGVn.jpeg" alt="Cover for Flush" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/37110b6526134db5f0e5ef94314e39f4.png" alt="Cover for Flush" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Attic Giant</td>
@@ -1730,7 +1736,7 @@ The &quot;austria&quot; tag encompasses music created by Austrian artists or ref
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/Z2ZMJuQ21qzaxbErMcYpRWNDNB7LpEBljzWeSx5pXCQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTE4/NzY5LTE1OTUxMDg5/MjItNTQxNC5qcGVn.jpeg" alt="Cover for Arson" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/95a59b1ebfef26fcc334103df02ff707.png" alt="Cover for Arson" style="max-width:120px; height:auto;" />
       </td>
       <td>2018</td>
       <td>Harakiri for the Sky</td>
@@ -1742,8 +1748,8 @@ The &quot;austria&quot; tag encompasses music created by Austrian artists or ref
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 25</li>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 97</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 31</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1768,7 +1774,7 @@ The &quot;austria&quot; tag encompasses music created by Austrian artists or ref
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 39</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1794,7 +1800,7 @@ The &quot;austria&quot; tag encompasses music created by Austrian artists or ref
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/4kwKldVl3_RDUk_loJdZjgSUd3cV77mNrF-7gGcMCDg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDg2/MTgzLTE1NTYxMzc0/NTctNTc5OS5qcGVn.jpeg" alt="Cover for BOB - Greatest Hits Vol. 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc733ccdf0464bbc5d8b904ac89346c0.png" alt="Cover for BOB - Greatest Hits Vol. 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>Bob</td>
@@ -1831,7 +1837,7 @@ The &quot;austria&quot; tag encompasses music created by Austrian artists or ref
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/IjElwy0zWAgt9WgXy6gGV82bd-5akkw5C59SF_zQn68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTAw/NDI5LTE2NTc5NjE1/MTktNzI2Ny5qcGVn.jpeg" alt="Cover for My world, My love, Paris" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1851491ad313f132e7969e91701c8159.png" alt="Cover for My world, My love, Paris" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-07-15</td>
       <td>Oska</td>
@@ -1842,13 +1848,14 @@ The &quot;austria&quot; tag encompasses music created by Austrian artists or ref
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/austrian" | relative_url }}">austrian</a> # 79</li>
+            <li> <a href="{{ "/tags/austrian" | relative_url }}">austrian</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/813fc7cf84e05a073bb8a665fe93c736.png" alt="Cover for LZ Battlerap Sampler Vol. 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Various Artists</td>
@@ -1882,13 +1889,14 @@ The &quot;austria&quot; tag encompasses music created by Austrian artists or ref
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/austrian" | relative_url }}">austrian</a> # 19</li>
+            <li> <a href="{{ "/tags/austrian" | relative_url }}">austrian</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>4</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a34b78169929a60c5d2b9ab62c83763a.png" alt="Cover for prog" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>qwertzuiopue</td>

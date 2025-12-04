@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T08:25:58.131Z
+date: 2025-12-04T01:06:45.930Z
 permalink: tags/celtic
 title: celtic
 ---
 
 ## celtic
 
-Last updated: <time datetime="2025-11-26T08:25:58.131Z">Wed Nov 26 2025 10:25:58 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T01:06:45.930Z">Thu Dec 04 2025 03:06:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -46,9 +46,9 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 5</li>
             <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 68</li>
             <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 72</li>
-            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -88,7 +88,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 63</li>
+            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -195,7 +195,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 79</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -447,8 +447,8 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 77</li>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 90</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 10</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -468,7 +468,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 89</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -581,8 +581,8 @@ Celtic music refers to a style of music originating from the traditional music o
       <td>
         <ul>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 20</li>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 22</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 64</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -619,7 +619,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 81</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -766,7 +766,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 84</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -787,7 +787,7 @@ Celtic music refers to a style of music originating from the traditional music o
       <td>
         <ul>
             <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 3</li>
-            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 20</li>
+            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -824,7 +824,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 97</li>
+            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -843,7 +843,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 88</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -937,7 +937,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 82</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -976,7 +976,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 80</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1017,25 +1017,25 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 19</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 55</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 57</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 59</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 1</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 13</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 15</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 15</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 16</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 16</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 24</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 42</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 46</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 58</li>
             <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 72</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 72</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 75</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 77</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 85</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 85</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 86</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 86</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 77</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 82</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 86</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 87</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 88</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 89</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 93</li>
             <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 97</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 100</li>
             <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 100</li>
         </ul>
       </td>
@@ -1092,7 +1092,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 34</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1114,8 +1114,8 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 8</li>
             <li> <a href="{{ "/tags/scottish" | relative_url }}">scottish</a> # 78</li>
-            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1265,7 +1265,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 91</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1378,7 +1378,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 71</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1473,8 +1473,8 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 1</li>
             <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 68</li>
-            <li> <a href="{{ "/tags/celtic-rock" | relative_url }}">celtic rock</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1547,7 +1547,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 91</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1710,7 +1710,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 58</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1815,8 +1815,8 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 2</li>
             <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 70</li>
-            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1836,7 +1836,7 @@ Celtic music refers to a style of music originating from the traditional music o
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 43</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 58</li>
         </ul>
       </td>
     </tr>

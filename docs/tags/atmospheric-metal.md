@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-29T07:00:39.005Z
+date: 2025-12-04T01:04:22.986Z
 permalink: tags/atmospheric-metal
 title: atmospheric metal
 ---
 
 ## atmospheric metal
 
-Last updated: <time datetime="2025-10-29T07:00:39.005Z">Wed Oct 29 2025 09:00:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T01:04:22.986Z">Thu Dec 04 2025 03:04:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,6 +31,7 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
     <tr>
       <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc1dbe01113f41f3bd30dac57fe22126.png" alt="Cover for Tears Laid in Earth" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-10-21</td>
       <td>The 3rd and the Mortal</td>
@@ -43,7 +44,7 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-doom-metal" | relative_url }}">atmospheric doom metal</a> # 93</li>
+            <li> <a href="{{ "/tags/atmospheric-doom-metal" | relative_url }}">atmospheric doom metal</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -70,24 +71,19 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/itVwHAo55wEc1X1rWs5qQ9Ar07rJ8v2QDgqU_4PvKUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTMy/Ny0xMzk4NjExMDkx/LTYyMjQuanBlZw.jpeg" alt="Cover for Mandylion" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6a1ab9a0dbe43ecbf768d8ce8ce5122.png" alt="Cover for Mandylion" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-08-28</td>
       <td>The Gathering</td>
       <td>Mandylion</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
-            <li style="font-size: calc(1rem * 94 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
-            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/atmospheric-metal" | relative_url }}">atmospheric metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 21</li>
-            <li> <a href="{{ "/tags/atmospheric-doom-metal" | relative_url }}">atmospheric doom metal</a> # 21</li>
-            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 46</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 73</li>
+            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 45</li>
+            <li> <a href="{{ "/tags/atmospheric-doom-metal" | relative_url }}">atmospheric doom metal</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -107,8 +103,8 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-black-metal" | relative_url }}">epic black metal</a> # 3</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 85</li>
+            <li> <a href="{{ "/tags/epic-black-metal" | relative_url }}">epic black metal</a> # 2</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -129,13 +125,14 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 39</li>
+            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>39</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/991bdf86f36081b8f8ee3f5e2f5d1dca.png" alt="Cover for From Which of This Oak" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-03</td>
       <td>Agalloch</td>
@@ -153,7 +150,7 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/-aPlNnQOl97mvDSdAQbgGEKzw5T-x3rwHFqY8ZF7_UA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTY0/Ni0xNDQ3ODg3NjEx/LTI2OTguanBlZw.jpeg" alt="Cover for Nighttime Birds" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4da3dd721a64ac295847f6e8936f2be.png" alt="Cover for Nighttime Birds" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-05-15</td>
       <td>The Gathering</td>
@@ -167,12 +164,14 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
       <td>
         <ul>
             <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 78</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/471f0badab13477cc7226408b336718a.png" alt="Cover for Here Lies One whose Name was Written in Water" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Aesma Daeva</td>
@@ -186,12 +185,14 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2dfcd92526c64a0083d90fda9b684b7c.png" alt="Cover for Physicist" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-10-25</td>
       <td>Devin Townsend</td>
@@ -279,9 +280,9 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 48</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 84</li>
-            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 99</li>
+            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 2</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 15</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -341,6 +342,7 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
     <tr>
       <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/64283fcdb3c3aa56ac522e2e8bb8db86.png" alt="Cover for Coma Waering" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-05-15</td>
       <td>The Angelic Process</td>
@@ -352,8 +354,8 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 10</li>
             <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 44</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -377,6 +379,7 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
     <tr>
       <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61211912a7d5fc3f6f7f69f6322c282b.png" alt="Cover for A Blessing in Disguise" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-06-17</td>
       <td>Green Carnation</td>
@@ -407,7 +410,7 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 60</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 37</li>
             <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 88</li>
         </ul>
       </td>
@@ -415,7 +418,7 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/gJbPNL0ZEaurYRoawFgTJ9-AFSNN0xf-nPMPMvI0fVY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODcz/Mi0xNDI4MDY1ODU1/LTQzNTUuanBlZw.jpeg" alt="Cover for Salvation" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee634f3a2b7a4653aea09688ba2757e1.png" alt="Cover for Salvation" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-10-04</td>
       <td>Cult of Luna</td>
@@ -428,8 +431,8 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 26</li>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 86</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 10</li>
+            <li> <a href="{{ "/tags/atmospheric-sludge-metal" | relative_url }}">atmospheric sludge metal</a> # 27</li>
             <li> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a> # 94</li>
         </ul>
       </td>
@@ -455,26 +458,25 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b84458995b04b1881f88c66e8e9abe1.png" alt="Cover for Sideshow Symphonies" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-09-19</td>
       <td>Arcturus</td>
       <td>Sideshow Symphonies</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 33</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 93</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fbf0cdebf9a7a5e5bb7f2bad9ed5dbf9.png" alt="Cover for Dark Space II" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-11-19</td>
       <td>Darkspace</td>
@@ -489,7 +491,7 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 51</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 47</li>
             <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 96</li>
         </ul>
       </td>
@@ -497,6 +499,7 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
     <tr>
       <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1e7c2b5a77afb328ba43710f9a9e2184.png" alt="Cover for Synchestra" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-01-23</td>
       <td>The Devin Townsend Band</td>
@@ -514,7 +517,7 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/wbHtlFhxRbEd-3z8Exq7g68WYgUBWFRs30FTBNWbZqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTMy/NzEtMTIwNzA4MzQ5/MC5qcGVn.jpeg" alt="Cover for soБЫТИЕ (evENT)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fd57fbc2055e162361f6ac7d34a27300.png" alt="Cover for soБЫТИЕ (evENT)" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-02-16</td>
       <td>Muhmood</td>
@@ -530,13 +533,14 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 41</li>
+            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/797ab98de61f4d18914778f819900bb1.png" alt="Cover for Sigh" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-04-10</td>
       <td>The Angelic Process</td>
@@ -550,7 +554,7 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 29</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -569,13 +573,14 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-doom-metal" | relative_url }}">atmospheric doom metal</a> # 96</li>
+            <li> <a href="{{ "/tags/atmospheric-doom-metal" | relative_url }}">atmospheric doom metal</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec600d74bd75d0b42f5782b58df37f99.png" alt="Cover for Ashes Against the Grain" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-08-08</td>
       <td>Agalloch</td>
@@ -589,29 +594,28 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 37</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 60</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 97</li>
-            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 98</li>
+            <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 3</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 25</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 56</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/851ce75996e34a0d8c62df0a374cae4a.png" alt="Cover for Weighing Souls With Sand" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-05-15</td>
       <td>The Angelic Process</td>
       <td>Weighing Souls With Sand</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a></li>
-            <li style="font-size: calc(1rem * 67 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 5</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 80</li>
             <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 87</li>
         </ul>
       </td>
@@ -619,7 +623,7 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/lv-g3UaHVfmgsrhTZ_za6IkGSmcgN202-WLz_8NA79I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njg3/NTItMTIyOTA5Mjk0/MC5qcGVn.jpeg" alt="Cover for Naked Loneliness" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0cbd701d864047c1b57c83f843be98b4.png" alt="Cover for Naked Loneliness" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Muhmood</td>
@@ -632,14 +636,14 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 51</li>
+            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>17</td>
       <td>
-          <img src="https://i.discogs.com/yBjSxpo71XNFQY3zSGqWlZUbrnYGH9alo7AZ9tJ35xY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg1/OTEtMTIxMDA0NDIx/Mi5qcGVn.jpeg" alt="Cover for Presence.[exe]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1138f93b628045c69f12e7bb067a7b55.png" alt="Cover for Presence.[exe]" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Muhmood</td>
@@ -654,14 +658,14 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 57</li>
+            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/Lejt98OsnfG_1rcUYcJRo3vDfvKpLyIdLeQMtM1iu_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzQz/NjgtMTI0NjU4NTg3/NC5qcGVn.jpeg" alt="Cover for Temples Forlorn" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b9081073602709fd07920dcf6dc7d68.png" alt="Cover for Temples Forlorn" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Temple Of Abraxas</td>
@@ -684,7 +688,7 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/0WlhttjC68StN4pCGGRM0FAG2YumqlEbXXVa-7-TGCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTEz/MDUtMTMzNDk0ODYz/OC5qcGVn.jpeg" alt="Cover for Ascent vol. 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/89d3c6487c40df8a0c4055d8768fa98b.png" alt="Cover for Ascent vol. 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Black Bile</td>
@@ -716,14 +720,14 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 41</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 47</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/UHmpxCPd63GPC4tTfZofCTg5e9T95FKLBPdiVwDnbR4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzc2/MzUtMTI5NjQzNDAw/NS5qcGVn.jpeg" alt="Cover for Plague of Butterflies" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a47b094bd554093bf62076277fd9c7d.png" alt="Cover for Plague of Butterflies" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-09-23</td>
       <td>Swallow the Sun</td>
@@ -741,6 +745,7 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
     <tr>
       <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f7b7fb073514bd497c2d7b4b1cde03a.png" alt="Cover for Vuoto Spazio Trionfo" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-10-20</td>
       <td>Tronus Abyss</td>
@@ -800,7 +805,7 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/5FnYiIJMcGHUkZaynP4RF8yrVSqArRzAmLs4Yhqn2sc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTM0/ODAtMTI1ODU1MjI0/Mi5qcGVn.jpeg" alt="Cover for An Everlasting Drift" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b99387c5cbc8abb93702340eb6f91d55.png" alt="Cover for An Everlasting Drift" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Betray-Ed</td>
@@ -819,6 +824,7 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
     <tr>
       <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22921fa8cdaafaa897f920cb8a04aff4.png" alt="Cover for For Lies I Sire" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03-23</td>
       <td>My Dying Bride</td>
@@ -848,13 +854,14 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-doom-metal" | relative_url }}">atmospheric doom metal</a> # 18</li>
+            <li> <a href="{{ "/tags/atmospheric-doom-metal" | relative_url }}">atmospheric doom metal</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5172b6d3c71145a6a301003a7ed1db7b.png" alt="Cover for Ki" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-22</td>
       <td>Devin Townsend Project</td>
@@ -895,19 +902,18 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
     <tr>
       <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6cadd1a846f0bb7b76589580ec99a65.png" alt="Cover for New Moon" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-11-04</td>
       <td>Swallow the Sun</td>
       <td>New Moon</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 82</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 85</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 93</li>
         </ul>
       </td>
@@ -934,7 +940,7 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/Nv4BOIzBYrBnoT_cqD5iIPd_FsV5FNkLEei-em1Fjx8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTA0/MjAtMTI5MjQzMjc4/NS5qcGVn.jpeg" alt="Cover for The Great Fleet of Echoes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9753427ccfc4072c0d678a6c108742e.png" alt="Cover for The Great Fleet of Echoes" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01-01</td>
       <td>Throes of Dawn</td>
@@ -946,7 +952,7 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 28</li>
+            <li> <a href="{{ "/tags/dark-metal" | relative_url }}">dark metal</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -975,6 +981,7 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8cd69d5648a44cf38b148e8474efb314.png" alt="Cover for No More Freedom" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-01</td>
       <td>Exilym</td>
@@ -997,22 +1004,19 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
     <tr>
       <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/62d242cdc0ed478ccd86237fb9cc2782.png" alt="Cover for Écailles de lune" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-26</td>
       <td>Alcest</td>
       <td>Écailles de lune</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a></li>
-            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a></li>
-            <li style="font-size: calc(1rem * 68 / 100)"> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 54</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 98</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 38</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1038,7 +1042,7 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
     <tr>
       <td>7</td>
       <td>
-          <img src="https://i.discogs.com/38GO2mjrJS0tTZqj-HPc1UrEdUwC9YYqRw6F1NgmVYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzUz/OTAtMTI3Mzg1NDIx/Ny5wbmc.jpeg" alt="Cover for Forsaken Fairytales" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/050acd05ad1f4b64cbd6b5ba9923c64e.png" alt="Cover for Forsaken Fairytales" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-17</td>
       <td>Betray-Ed</td>
@@ -1131,7 +1135,7 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/7ErMd5TO2-zayKPECXzG9QoU2NkGw79FUwKn_v6lkAc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDM4/NzQyLTE1OTE1Mzcz/MzUtOTUwNi5qcGVn.jpeg" alt="Cover for I die, therefore I am." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7990a0f843c14779876cfb2124db14d8.png" alt="Cover for I die, therefore I am." style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-12</td>
       <td>Morito Ergo Sum</td>
@@ -1188,6 +1192,7 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/351d162419ec4787a80c7c4f8a8e5896.png" alt="Cover for II" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-02-01</td>
       <td>Windmills by the Ocean</td>
@@ -1208,6 +1213,7 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a92a1986b51446083745e9a7643caea.png" alt="Cover for Onyx" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-02-14</td>
       <td>Ava Inferi</td>
@@ -1280,6 +1286,7 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/646d2b1eb9a04274af884d257921f261.png" alt="Cover for Illwill" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-04-29</td>
       <td>Lake of Tears</td>
@@ -1298,7 +1305,7 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/Hyw6nJ-1VlNmTM-V54_9yEslxMaaRL11wydX3zRm7VM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mzg4/NzEtMTMzODQwMDky/Ny03OTYwLmpwZWc.jpeg" alt="Cover for scarcity" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ad190a9237b4552904b0312a0ef52ce.png" alt="Cover for scarcity" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-03</td>
       <td>Miasme</td>
@@ -1317,7 +1324,7 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 39</li>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1362,7 +1369,7 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/F7vz4IBu5H-4YQbRL9T-AURLvRuo_uv_FmuF1jkY-Mk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mzg4/NTYtMTMzODQwMDUx/My03NzU2LmpwZWc.jpeg" alt="Cover for 5773" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/90596a4500814c34b47b123bf5e10e6e.png" alt="Cover for 5773" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02-01</td>
       <td>Miasme</td>
@@ -1382,14 +1389,14 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
       <td>
         <ul>
             <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 32</li>
-            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 65</li>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/6qwrQ33MLSRgB8JMoqMFReOB5kJAmQMz9ou9uZdz3DY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mzk3/NzQwLTE2OTU3MTMw/OTUtOTAzMC5qcGVn.jpeg" alt="Cover for Refract The Fears" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70cffb1af2674d05b9142ab8cd65c042.png" alt="Cover for Refract The Fears" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-04-13</td>
       <td>Jointstereo</td>
@@ -1405,7 +1412,7 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 34</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 35</li>
             <li> <a href="{{ "/tags/atmospheric-rock" | relative_url }}">atmospheric rock</a> # 49</li>
         </ul>
       </td>
@@ -1432,7 +1439,7 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/TiKAFfeChmyq7pXhSzZKC_qXKRFC_e06plvcuJTlhG8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NjAx/ODctMTY0NDUyMzYy/MS00NTE1LmpwZWc.jpeg" alt="Cover for I Ejaculate Fire" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d67e2fc8bd20e142353d89e9766efa1b.png" alt="Cover for I Ejaculate Fire" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-09-04</td>
       <td>Dethklok</td>
@@ -1454,7 +1461,7 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
       <td>
         <ul>
             <li> <a href="{{ "/tags/technical-brutal-death-metal" | relative_url }}">technical brutal death metal</a> # 4</li>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 67</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1539,7 +1546,7 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/1M0AiZNKIadQhKPd79-KxOs9P6kbbAAna0JUQnuwKsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTk4/MDAtMTM4NjE3NTg0/MC04Mzg5LmpwZWc.jpeg" alt="Cover for Like we&#39;re all equal again" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e8adf893c1624ddfcd5ddf60397e305d.png" alt="Cover for Like we&#39;re all equal again" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-12-06</td>
       <td>Fleshworld</td>
@@ -1565,7 +1572,7 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 15</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1631,7 +1638,7 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/6S4kWqEawPJNl_eQRaFijtyG_Fqb-OXp88n--88tjZ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTU0/MTAtMTQxODE2ODc2/Ni0zNTMzLmpwZWc.jpeg" alt="Cover for Music into the Void" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/64dfa9a413c142cbc2c6e96a1b568621.png" alt="Cover for Music into the Void" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-09-11</td>
       <td>Karma Rassa</td>
@@ -1684,14 +1691,14 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 12</li>
+            <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/19MXHS3LROhs4-1D6iZvNdj8lXZ70uMkLAWgkwv_-WE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTE4/MzgxLTE2MjkzODU3/NDgtNDMxMS5qcGVn.jpeg" alt="Cover for Grim&#39;s Forgotten Ghost Ridden Transmissions of Past Indecisions &amp; Post Apparitions" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4bf5116dafb302504487ec8604156975.png" alt="Cover for Grim&#39;s Forgotten Ghost Ridden Transmissions of Past Indecisions &amp; Post Apparitions" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-05-05</td>
       <td>A Bleeding Star</td>
@@ -1728,14 +1735,14 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-doom-metal" | relative_url }}">atmospheric doom metal</a> # 86</li>
+            <li> <a href="{{ "/tags/atmospheric-doom-metal" | relative_url }}">atmospheric doom metal</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/4Wen_tv6KYz4uxw58jgx8gJb3XDleKYlIc89kWetcMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTc5/NDE5LTE1MTEzMzU0/NzQtNTYyMS5qcGVn.jpeg" alt="Cover for If it is True What the Prophets write" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ef01a304d32f6adb5d7b7c78a20df0c.png" alt="Cover for If it is True What the Prophets write" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-11-13</td>
       <td>Cisza</td>
@@ -1756,7 +1763,7 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
       <td>
         <ul>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 37</li>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 47</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 46</li>
             <li> <a href="{{ "/tags/polish-metal" | relative_url }}">polish metal</a> # 79</li>
         </ul>
       </td>
@@ -1764,7 +1771,7 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/6ecsRNY-6eIfgogOJTtOgf5bV1k4-tu3IPWuSO7D-qE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzIw/ODg2LTE1MjEyNDE3/MzUtOTExNy5qcGVn.jpeg" alt="Cover for Helion" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aade29c458dad1a88e056c27ddcdca6c.png" alt="Cover for Helion" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-01-10</td>
       <td>Vexes</td>
@@ -1785,7 +1792,7 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/6ecsRNY-6eIfgogOJTtOgf5bV1k4-tu3IPWuSO7D-qE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzIw/ODg2LTE1MjEyNDE3/MzUtOTExNy5qcGVn.jpeg" alt="Cover for Lift" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e643fc8d748bd82aad9f36a1001a633.png" alt="Cover for Lift" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-02-23</td>
       <td>Vexes</td>
@@ -1806,7 +1813,7 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/6ecsRNY-6eIfgogOJTtOgf5bV1k4-tu3IPWuSO7D-qE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzIw/ODg2LTE1MjEyNDE3/MzUtOTExNy5qcGVn.jpeg" alt="Cover for Versions" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/24a2f79ef1043eb5891b81c8bec7ae0b.png" alt="Cover for Versions" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-02-23</td>
       <td>Vexes</td>
@@ -1827,7 +1834,7 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/6ecsRNY-6eIfgogOJTtOgf5bV1k4-tu3IPWuSO7D-qE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzIw/ODg2LTE1MjEyNDE3/MzUtOTExNy5qcGVn.jpeg" alt="Cover for ancient geometry" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9d3e9b8443946bf08233804d9818b9c.png" alt="Cover for ancient geometry" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-02-23</td>
       <td>Vexes</td>
@@ -2009,14 +2016,15 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a> # 23</li>
             <li> <a href="{{ "/tags/ukraine" | relative_url }}">ukraine</a> # 29</li>
-            <li> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c06ef1d2d344cd7cca2478e8181686f.png" alt="Cover for Entering The Flames Of The Ancient Gods" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Derisum</td>
@@ -2088,8 +2096,8 @@ Atmospheric metal emphasizes mood and texture over aggression, layering ethereal
 - [post-metal]({{ "/tags/post-metal" | relative_url }})
 - [doom metal]({{ "/tags/doom-metal" | relative_url }})
 - [black metal]({{ "/tags/black-metal" | relative_url }})
-- [progressive metal]({{ "/tags/progressive-metal" | relative_url }})
 - [post-rock]({{ "/tags/post-rock" | relative_url }})
+- [progressive metal]({{ "/tags/progressive-metal" | relative_url }})
 - [atmospheric black metal]({{ "/tags/atmospheric-black-metal" | relative_url }})
 - [gothic metal]({{ "/tags/gothic-metal" | relative_url }})
 - [ambient]({{ "/tags/ambient" | relative_url }})

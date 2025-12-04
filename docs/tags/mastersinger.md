@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-31T02:45:30.082Z
+date: 2025-12-04T02:22:02.931Z
 permalink: tags/mastersinger
 title: mastersinger
 ---
 
 ## mastersinger
 
-Last updated: <time datetime="2025-10-31T02:45:30.082Z">Fri Oct 31 2025 04:45:30 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T02:22:02.931Z">Thu Dec 04 2025 04:22:02 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -68,7 +68,7 @@ Mastersinger represents the pinnacle of vocal artistry in popular and jazz music
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/TuQ3xoQv_TLh1h6a6t8EkrKorM0BILjx1gcGlynN-8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjcw/NDU2LTE2NDE0MzA1/NTItNDk4Ni5qcGVn.jpeg" alt="Cover for Kiss Of Fire" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba3620874e374eb8bfa10e64d8b5c90c.png" alt="Cover for Kiss Of Fire" style="max-width:120px; height:auto;" />
       </td>
       <td>1958</td>
       <td>Billy Eckstine</td>
@@ -262,6 +262,7 @@ Mastersinger represents the pinnacle of vocal artistry in popular and jazz music
     <tr>
       <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f14ba10a612d4d4fcd28dd782904a3f5.png" alt="Cover for I Just Dropped By To Say Hello" style="max-width:120px; height:auto;" />
       </td>
       <td>1964</td>
       <td>Johnny Hartman</td>
@@ -317,16 +318,14 @@ Mastersinger represents the pinnacle of vocal artistry in popular and jazz music
     <tr>
       <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34860a646fe6d09111b933cd59940830.png" alt="Cover for Je m&#39;appelle Barbra" style="max-width:120px; height:auto;" />
       </td>
       <td>1966-10</td>
       <td>Barbra Streisand</td>
       <td>Je m&#39;appelle Barbra</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/mastersinger" | relative_url }}">mastersinger</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>
@@ -337,7 +336,7 @@ Mastersinger represents the pinnacle of vocal artistry in popular and jazz music
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/4wRpagX8paSYsLT7u2nvjCBnQdZPujjY70JpqnhDXMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njg5/MTQtMTQ1NDYyOTk3/Ni02OTkyLmpwZWc.jpeg" alt="Cover for Snowfall - The Tony Bennett Christmas Album" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3c25b25c24e4a30b5f5a6d050e151e8.png" alt="Cover for Snowfall - The Tony Bennett Christmas Album" style="max-width:120px; height:auto;" />
       </td>
       <td>1968</td>
       <td>Tony Bennett</td>
@@ -351,7 +350,7 @@ Mastersinger represents the pinnacle of vocal artistry in popular and jazz music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 32</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -474,7 +473,7 @@ Mastersinger represents the pinnacle of vocal artistry in popular and jazz music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 26</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -494,7 +493,7 @@ Mastersinger represents the pinnacle of vocal artistry in popular and jazz music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 54</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -603,7 +602,7 @@ Mastersinger represents the pinnacle of vocal artistry in popular and jazz music
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/duhmAVUWmVsoXFHo_dqDwQbm-1nAxLbq0_qCDUpV160/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODU2/NzYtMTQ0MjA0MzYy/NS03MDI0LmpwZWc.jpeg" alt="Cover for Songs In A Mellow Mood" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2a030297ff2c2cfc3acc01dcb90de5da.png" alt="Cover for Songs In A Mellow Mood" style="max-width:120px; height:auto;" />
       </td>
       <td>1974</td>
       <td>Ella Fitzgerald</td>
@@ -642,7 +641,7 @@ Mastersinger represents the pinnacle of vocal artistry in popular and jazz music
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/7gZqbRJlLHpkqbXfksP_d6KfhsxiEkoyKPjODJNglWU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTI4/NzgtMTM3MjQyOTcw/Ni0yNzk4LmpwZWc.jpeg" alt="Cover for The Two Of Us" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9768867c8180a22aba80687962021c08.png" alt="Cover for The Two Of Us" style="max-width:120px; height:auto;" />
       </td>
       <td>1976</td>
       <td>Dinah Washington</td>
@@ -778,9 +777,9 @@ Mastersinger represents the pinnacle of vocal artistry in popular and jazz music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 57</li>
-            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 64</li>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 73</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 27</li>
+            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 37</li>
+            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -806,6 +805,7 @@ Mastersinger represents the pinnacle of vocal artistry in popular and jazz music
     <tr>
       <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1b94b33e51916c5e653e168b708c70d.png" alt="Cover for Yentl" style="max-width:120px; height:auto;" />
       </td>
       <td>1983-11-08</td>
       <td>Barbra Streisand</td>
@@ -959,7 +959,7 @@ Mastersinger represents the pinnacle of vocal artistry in popular and jazz music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 14</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -986,7 +986,7 @@ Mastersinger represents the pinnacle of vocal artistry in popular and jazz music
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/Zxdze9smaYH8KGFnNS7ArMvOWt8zpoWVhA4VF0l8VOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzgw/MzctMTUwNDcwMTY4/My0yMDE4LmpwZWc.jpeg" alt="Cover for A Collection: Greatest Hits...and More" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8f78601d7213be4592ad8778ea057369.png" alt="Cover for A Collection: Greatest Hits...and More" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Barbra Streisand</td>
@@ -1037,7 +1037,7 @@ Mastersinger represents the pinnacle of vocal artistry in popular and jazz music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 75</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1200,6 +1200,7 @@ Mastersinger represents the pinnacle of vocal artistry in popular and jazz music
     <tr>
       <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e42435f983cbeec6499c1870e1c6caf5.png" alt="Cover for For Trane" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Johnny Hartman</td>
@@ -1330,7 +1331,7 @@ Mastersinger represents the pinnacle of vocal artistry in popular and jazz music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crooners" | relative_url }}">crooners</a> # 45</li>
+            <li> <a href="{{ "/tags/crooners" | relative_url }}">crooners</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1669,7 +1670,7 @@ Mastersinger represents the pinnacle of vocal artistry in popular and jazz music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 11</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1713,6 +1714,7 @@ Mastersinger represents the pinnacle of vocal artistry in popular and jazz music
     <tr>
       <td>50</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce8958742c5545d08762fc3a260342ac.png" alt="Cover for Ella For Lovers" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-01-28</td>
       <td>Ella Fitzgerald</td>
@@ -1730,7 +1732,7 @@ Mastersinger represents the pinnacle of vocal artistry in popular and jazz music
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/7oH1wDIrCqKntm7L1wHDv2DQHdMyraE5JWHF4eUh1Dw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjM0/MjQtMTI5NTcyODEy/NC5qcGVn.jpeg" alt="Cover for Gold" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7f0499713fc4ff0ad215d9b9cd084fe.png" alt="Cover for Gold" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-08-05</td>
       <td>Ella Fitzgerald</td>
@@ -1846,6 +1848,7 @@ Mastersinger represents the pinnacle of vocal artistry in popular and jazz music
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a614b12436a147d699a7c42f6792d3bc.png" alt="Cover for Romance: Songs From The Heart" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-01-16</td>
       <td>Frank Sinatra</td>
@@ -1859,7 +1862,7 @@ Mastersinger represents the pinnacle of vocal artistry in popular and jazz music
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 5</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1986,8 +1989,8 @@ Mastersinger represents the pinnacle of vocal artistry in popular and jazz music
 - [swing]({{ "/tags/swing" | relative_url }})
 - [crooners]({{ "/tags/crooners" | relative_url }})
 - [blues]({{ "/tags/blues" | relative_url }})
-- [american]({{ "/tags/american" | relative_url }})
 - [vocal jazz]({{ "/tags/vocal-jazz" | relative_url }})
+- [american]({{ "/tags/american" | relative_url }})
 - [female vocalists]({{ "/tags/female-vocalists" | relative_url }})
 - [washington]({{ "/tags/washington" | relative_url }})
-- [adult contemporary]({{ "/tags/adult-contemporary" | relative_url }})
+- [musical]({{ "/tags/musical" | relative_url }})

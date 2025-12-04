@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-03T07:58:17.188Z
+date: 2025-12-04T01:03:32.231Z
 permalink: tags/swing
 title: swing
 ---
 
 ## swing
 
-Last updated: <time datetime="2025-11-03T07:58:17.188Z">Mon Nov 03 2025 09:58:17 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T01:03:32.231Z">Thu Dec 04 2025 03:03:32 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
   </thead>
   <tbody>
     <tr>
-      <td>95</td>
+      <td>5</td>
       <td>
       </td>
       <td>1948</td>
@@ -42,14 +42,14 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 68</li>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 76</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 80</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 15</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 22</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>12</td>
       <td>
       </td>
       <td>1954</td>
@@ -62,15 +62,14 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 61</li>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 67</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 38</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>40</td>
       <td>
-          <img src="https://i.discogs.com/mObdYWgNI9jgbp_WPhOMMLrD4igThbHcmoSX5f8rLxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTk4/NTMtMTQ2NTc0NzA5/MS03NDMyLmpwZWc.jpeg" alt="Cover for Yes I Can: Sammy Davis Jr. . ." style="max-width:120px; height:auto;" />
       </td>
       <td>1954</td>
       <td>Sammy Davis, Jr.</td>
@@ -85,8 +84,9 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/92e4281585cb3aebfb2e469584cf24a2.png" alt="Cover for Songs for Swingin&#39; Lovers" style="max-width:120px; height:auto;" />
       </td>
       <td>1956-03</td>
       <td>Frank Sinatra</td>
@@ -102,9 +102,9 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>34</td>
       <td>
-          <img src="https://i.discogs.com/CjWGPyT0oFhiX4HOpNeTV0gfa9JnaprnQzvtmaFYnB0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzI1/ODQtMTQzMTY3ODgy/NC04NjM1LmpwZWc.jpeg" alt="Cover for Things Are Swingin&#39;" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50880564f5c4fc60825414e128f18619.png" alt="Cover for Things Are Swingin&#39;" style="max-width:120px; height:auto;" />
       </td>
       <td>1958</td>
       <td>Peggy Lee</td>
@@ -121,7 +121,7 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
       </td>
       <td>1959-11-16</td>
@@ -138,7 +138,7 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>24</td>
       <td>
       </td>
       <td>1960</td>
@@ -150,12 +150,12 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 99</li>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/cjlgZQYEz3XhB3oWcrI01E5du8fqRxyN3VZQXCIdXI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTQ0/MjEtMTQxMjUwMDQ3/OS03MDEwLmpwZWc.jpeg" alt="Cover for My Way the Best of Frank Sinatra" style="max-width:120px; height:auto;" />
       </td>
@@ -173,26 +173,9 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>86</td>
       <td>
-          <img src="https://i.discogs.com/4DlYxIlklWXtGaAsTC5LCJcD5uj9rHCMLVaIDZ7dL_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMzY5/MjktMTQ1NTgzMjYx/MC01MTg3LmpwZWc.jpeg" alt="Cover for Folk Songs for the 21st Century" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1960</td>
-      <td>Sheldon Allman</td>
-      <td>Folk Songs for the 21st Century</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swing" | relative_url }}">swing</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e10e5d7d2383423eb14395b89e5ea6d1.png" alt="Cover for Sinatra&#39;s Swingin&#39; Session!!! and More" style="max-width:120px; height:auto;" />
       </td>
       <td>1961-01-03</td>
       <td>Frank Sinatra</td>
@@ -209,26 +192,9 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>74</td>
       <td>
-      </td>
-      <td>1962</td>
-      <td>Bing Crosby</td>
-      <td>Swinging On A Star</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swing" | relative_url }}">swing</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>26</td>
-      <td>
-          <img src="https://i.discogs.com/hD9ar-A1rL7z6rQSv4xDK5CYJTdBZaalLf1jVOxoCrM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNDc5/MzYtMTM2MjQzMDgw/OS05NTM2LmpwZWc.jpeg" alt="Cover for Sinatra Sings Great Songs From Great Britain" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/42e275484be74d8ca55a9320c5b21081.png" alt="Cover for Sinatra Sings Great Songs From Great Britain" style="max-width:120px; height:auto;" />
       </td>
       <td>1962</td>
       <td>Frank Sinatra</td>
@@ -247,7 +213,47 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>92</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb2b9b005d5b46e4b6840d4b22592620.png" alt="Cover for Swinging On A Star" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1962</td>
+      <td>Bing Crosby</td>
+      <td>Swinging On A Star</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swing" | relative_url }}">swing</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5721edcbed072637ee12f25a94a9c09e.png" alt="Cover for Sinatra&#39;s Sinatra" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1963</td>
+      <td>Frank Sinatra</td>
+      <td>Sinatra&#39;s Sinatra</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swing" | relative_url }}">swing</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 27</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/t6UcQqX4Hd83s9DloFLYRKhRtHCDF0wsN65PxP_2pz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDM3/NzMtMTM5MDE5Mzkx/NC03Mzg1LmpwZWc.jpeg" alt="Cover for The Essential Dean Martin" style="max-width:120px; height:auto;" />
       </td>
@@ -264,36 +270,14 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crooners" | relative_url }}">crooners</a> # 77</li>
+            <li> <a href="{{ "/tags/crooners" | relative_url }}">crooners</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>22</td>
       <td>
-          <img src="https://i.discogs.com/OcshpSBLCu0czxYTwCWE2vF7a8IbYHisuBQhFlCFoCI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTAz/NjMtMTQ4OTI1MjI5/MC01ODM3LnBuZw.jpeg" alt="Cover for Sinatra&#39;s Sinatra" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1963</td>
-      <td>Frank Sinatra</td>
-      <td>Sinatra&#39;s Sinatra</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blues" | relative_url }}">blues</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swing" | relative_url }}">swing</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 12</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>76</td>
-      <td>
-          <img src="https://i.discogs.com/Zjp2ijAt3Vu0pEUXDNUYsM4Oew_zvestZcJ9_pIX5dg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDMw/NDEtMTMxMTUwMDgz/Mi5qcGVn.jpeg" alt="Cover for Love for Sale (Deluxe)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/07292e241b41ef4f1037a54a3b4e4db9.png" alt="Cover for Love for Sale (Deluxe)" style="max-width:120px; height:auto;" />
       </td>
       <td>1963</td>
       <td>Tony Bennett</td>
@@ -310,7 +294,7 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>98</td>
       <td>
           <img src="https://i.discogs.com/S5s3aORKBj5xnqadZCCYhUjZ_pe4XzFkhkfOv2ViHw4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODM4/OTgtMTY1MTExMjc0/MS05NTg2LmpwZWc.jpeg" alt="Cover for Wild, Cool &amp; Swingin&#39;" style="max-width:120px; height:auto;" />
       </td>
@@ -327,7 +311,7 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>95</td>
       <td>
       </td>
       <td>1964-06-09</td>
@@ -341,13 +325,14 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 39</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d722c2511d6aee22bee0bd6144f1519d.png" alt="Cover for The World We Knew" style="max-width:120px; height:auto;" />
       </td>
       <td>1967</td>
       <td>Frank Sinatra</td>
@@ -363,17 +348,17 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 88</li>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 94</li>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 98</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 3</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 8</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 9</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>30</td>
       <td>
-          <img src="https://i.discogs.com/KkqZuHQibTJ9BQ9fA2gEzIYF3pUOwk0_mdw5aofD3rk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTky/NDQtMTMyODE4NDQ4/Mi5qcGVn.jpeg" alt="Cover for My Way" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/31fcbf7d239bcd82f9a621b3ae8aeb62.png" alt="Cover for My Way" style="max-width:120px; height:auto;" />
       </td>
       <td>1969-02</td>
       <td>Frank Sinatra</td>
@@ -390,8 +375,9 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4dc700ccd2be491b9f59424e30d3f444.png" alt="Cover for Frank Sinatra" style="max-width:120px; height:auto;" />
       </td>
       <td>1970</td>
       <td>Frank Sinatra</td>
@@ -407,9 +393,9 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>45</td>
       <td>
-          <img src="https://i.discogs.com/nyQ8i-YFrGPliENI4NsxZL15uHjvWTnk6xKaghTY4Fk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Nzcw/NzUtMTQxODY4MDYy/My01NTU4LmpwZWc.jpeg" alt="Cover for The Best Of Benny Goodman" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0f8fa09deef42f3a64307ec4f9728fe.png" alt="Cover for The Best Of Benny Goodman" style="max-width:120px; height:auto;" />
       </td>
       <td>1971</td>
       <td>Benny Goodman</td>
@@ -423,14 +409,15 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 14</li>
             <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 84</li>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9dd0e8ee5972b517061df728de5bde2d.png" alt="Cover for Sinatra &amp; Company" style="max-width:120px; height:auto;" />
       </td>
       <td>1971</td>
       <td>Frank Sinatra</td>
@@ -449,7 +436,7 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/b6urFsdJZdQd51XsMEI66iELzFAgIilkp9LyGc3L4TI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTI1/NTE3LTE2NDMzNDk3/MzgtMTU4OC5qcGVn.jpeg" alt="Cover for Straight Ahead" style="max-width:120px; height:auto;" />
       </td>
@@ -467,7 +454,7 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>11</td>
       <td>
           <img src="https://i.discogs.com/DFBImPsbAF0YnHhlp_Q4lfungLYNaXj_VV3MSDjUbh8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTk1/NzItMTMzMzExNzky/MC5qcGVn.jpeg" alt="Cover for Ultimate Sinatra" style="max-width:120px; height:auto;" />
       </td>
@@ -486,9 +473,8 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>51</td>
       <td>
-          <img src="https://i.discogs.com/kNBDGkv8sc7fjjQCtylNxhRgLDskcSkXY8IA4yX7z48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzYz/NTItMTQxNzU0Nzk2/OS0xNjI1LmpwZWc.jpeg" alt="Cover for Story" style="max-width:120px; height:auto;" />
       </td>
       <td>1975</td>
       <td>Count Basie</td>
@@ -505,7 +491,7 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/IHvMpMhWQugl60SaxYcszY9wD49j0YvTBmcGzzmbP7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MDAt/MTU5MTUyMjUwMS01/NTA2LmpwZWc.jpeg" alt="Cover for It&#39;s Time" style="max-width:120px; height:auto;" />
       </td>
@@ -524,7 +510,7 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/GfG-mzeg-yDwMwi7nVhYF4WQewcd9m1lTsQIH2XJUjA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTkx/NzgzLTE1MjIwOTQw/NjUtNTYwOS5qcGVn.jpeg" alt="Cover for At The Movies" style="max-width:120px; height:auto;" />
       </td>
@@ -539,29 +525,12 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 96</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
-      <td>
-          <img src="https://i.discogs.com/hcQRrYzyQDBYLQD3gQOTOf4fEvOTRJqV8R6WW6F_3Y0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDgw/Mjg5LTE2NDQzNDg4/NzgtNDc1NC5qcGVn.jpeg" alt="Cover for The Original Benny Goodman Trio and Quartet Sessions, Vol. 1: After You&#39;ve Gone" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1981</td>
-      <td>Benny Goodman</td>
-      <td>The Original Benny Goodman Trio and Quartet Sessions, Vol. 1: After You&#39;ve Gone</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 67</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>62</td>
+      <td>38</td>
       <td>
           <img src="https://i.discogs.com/5jffwyJnOaV8zbdfLNJWI1-VR9IGE2VmbpA5fAmVpCc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NzEz/NjctMTQ4Mjk0OTYw/MC01ODQwLmpwZWc.jpeg" alt="Cover for Dino The Essential Dean Martin" style="max-width:120px; height:auto;" />
       </td>
@@ -578,15 +547,33 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 8</li>
-            <li> <a href="{{ "/tags/crooners" | relative_url }}">crooners</a> # 84</li>
+            <li> <a href="{{ "/tags/crooners" | relative_url }}">crooners</a> # 16</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>82</td>
       <td>
-          <img src="https://i.discogs.com/nKwVkhshz-1YbVjMa4vXBTBTKvuN8v9ng26EAQqFRSU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTE0/MjkwLTE1MzY3Njkx/ODgtMzM5NC5qcGVn.jpeg" alt="Cover for An Historic Musical First" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/hcQRrYzyQDBYLQD3gQOTOf4fEvOTRJqV8R6WW6F_3Y0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDgw/Mjg5LTE2NDQzNDg4/NzgtNDc1NC5qcGVn.jpeg" alt="Cover for The Original Benny Goodman Trio and Quartet Sessions, Vol. 1: After You&#39;ve Gone" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1981</td>
+      <td>Benny Goodman</td>
+      <td>The Original Benny Goodman Trio and Quartet Sessions, Vol. 1: After You&#39;ve Gone</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 33</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ca6c83e88ea1269a2fe39afafb96fa4.png" alt="Cover for An Historic Musical First" style="max-width:120px; height:auto;" />
       </td>
       <td>1981</td>
       <td>Frank Sinatra &amp; Count Basie</td>
@@ -602,8 +589,9 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91dba2062f9d8a3edbd54ad7203dc0bf.png" alt="Cover for She Shot Me Down" style="max-width:120px; height:auto;" />
       </td>
       <td>1981-11</td>
       <td>Frank Sinatra</td>
@@ -622,9 +610,9 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>42</td>
       <td>
-          <img src="https://i.discogs.com/-vbwoNntxJC_MtTHfW2gneuQEdGKunQL_mEBLNvjywo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjAy/MjQ5LTE0OTMzMTg1/NTItMTAwMC5qcGVn.jpeg" alt="Cover for Boogie Woogie Bugle Boy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8817240c9ac94f41be023ff3e67eadb5.png" alt="Cover for Boogie Woogie Bugle Boy" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>The Andrews Sisters</td>
@@ -640,9 +628,9 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
-          <img src="https://i.discogs.com/4v6Aj0PVqksOn3VOVefJmSvudjkcZv0hl9UnkEbybrs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjQ1/NjgtMTYzMjc2NzEz/MC04NTMzLmpwZWc.jpeg" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7cafbaa1f96ef0288eeae9c52510fd0c.png" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Glenn Miller</td>
@@ -656,15 +644,15 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 23</li>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 96</li>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 5</li>
+            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>20</td>
       <td>
-          <img src="https://i.discogs.com/5WfrS0A22xdHJNejAYZZSJk2-ztTtkwOlrnMzlDwspA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDM3/Ny0xMTQxMzQ3Njkx/LmpwZWc.jpeg" alt="Cover for The Ultimate Bobby Darin" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a6c8fa8e71c454ab64edf32cba473e8.png" alt="Cover for The Ultimate Bobby Darin" style="max-width:120px; height:auto;" />
       </td>
       <td>1986-10-09</td>
       <td>Bobby Darin</td>
@@ -681,7 +669,7 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/NuMboJ2LylX24BnnpGqMItAzzjkmBLHLAJtZmJxYsPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDQw/NDAtMTMzNTAyNDk5/NS5qcGVn.jpeg" alt="Cover for I Wanna Be Loved by You" style="max-width:120px; height:auto;" />
       </td>
@@ -700,9 +688,9 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>49</td>
       <td>
-          <img src="https://i.discogs.com/MIjMLVPiBJckbs7zyEr04blDPYEdq4QyrD7K9a9vMNQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE1/NzQtMTQyNjA1NzA5/NS0yNTQ2LmpwZWc.jpeg" alt="Cover for When Harry Met Sally... Music From The Motion Picture" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a67d7d8c8ac8464e8d43d341588c63e8.png" alt="Cover for When Harry Met Sally... Music From The Motion Picture" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Harry Connick, Jr.</td>
@@ -713,13 +701,14 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 92</li>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2d43a4128fb55201bfeed466bb86c572.png" alt="Cover for Kings of Gangster Bop" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Royal Crown Revue</td>
@@ -732,12 +721,12 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 43</li>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>7</td>
       <td>
       </td>
       <td>1991-03-26</td>
@@ -751,15 +740,36 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 7</li>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 53</li>
+            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 11</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>100</td>
       <td>
-          <img src="https://i.discogs.com/71-79dlgqUz_LsLJdMIxi3Z_8jJhKiwBLkaRlyfH8bg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyOTI4/NDQtMTY0ODI5MDAw/NC02MjU2LmpwZWc.jpeg" alt="Cover for Begin The Beguine" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/a1qmEXKwzRDEpEIGE10GVxMCEH0FxdGUzYflaWsKrSU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNTEx/MDEtMTM3NzMzNzQ1/Ni00NTk5LmpwZWc.jpeg" alt="Cover for Spanish Eyes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1992</td>
+      <td>Al Martino</td>
+      <td>Spanish Eyes</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swing" | relative_url }}">swing</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/43833cff6ac34670c6cfe45f7459715d.png" alt="Cover for Begin The Beguine" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Artie Shaw</td>
@@ -773,14 +783,14 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 93</li>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>96</td>
       <td>
-          <img src="https://i.discogs.com/gb2JJec_FyC65wq_45r0NoEnWo-V8iThHaen30BAuh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTYz/MjEtMTMzMTA2NzU1/Mi5qcGVn.jpeg" alt="Cover for Rum And Coca-Cola" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2f7128dd8b86d3a8ff402517d8148384.png" alt="Cover for Rum And Coca-Cola" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>The Andrews Sisters</td>
@@ -797,7 +807,7 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>27</td>
       <td>
       </td>
       <td>1994</td>
@@ -810,12 +820,12 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 66</li>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>44</td>
       <td>
       </td>
       <td>1994-06-21</td>
@@ -833,9 +843,9 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>79</td>
       <td>
-          <img src="https://i.discogs.com/5zbyKouYK1HN2he0Fl3qWr-O3cl0gQCkqkrWDaNdBHo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDUx/NTctMTM0NjY2MDEy/OS05MDI2LmpwZWc.jpeg" alt="Cover for My Greatest Songs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9c32cfcff5513f814c0e6822fe5b308.png" alt="Cover for My Greatest Songs" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Sammy Davis, Jr.</td>
@@ -846,12 +856,12 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 36</li>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/Q5MtW6DdtYcW1fKOXxAy7VPmh2BeWa75q07L4ND_EJg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzgx/ODktMTI3MDU5Mjkx/Mi5qcGVn.jpeg" alt="Cover for The Decca Years" style="max-width:120px; height:auto;" />
       </td>
@@ -870,7 +880,7 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>53</td>
       <td>
       </td>
       <td>1995-06-02</td>
@@ -887,7 +897,7 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
       </td>
       <td>1996</td>
@@ -904,7 +914,7 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>19</td>
       <td>
       </td>
       <td>1996-05-30</td>
@@ -921,8 +931,9 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/697e1ada12e9e3ba0a0297f547e50b58.png" alt="Cover for Hot" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-06-04</td>
       <td>Squirrel Nut Zippers</td>
@@ -939,7 +950,7 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/PiX4zlTenJw6HizmWrBbt_jF55xtJnZ-GKyl3xdDm_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTg5/NTk1LTE1NTcwNjY2/ODItNjM0OC5qcGVn.jpeg" alt="Cover for New York, New York" style="max-width:120px; height:auto;" />
       </td>
@@ -952,13 +963,14 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 86</li>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>26</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc94461f5f18f1084aa21c6c87a1fb37.png" alt="Cover for Zoot Suit Riot" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Cherry Poppin&#39; Daddies</td>
@@ -974,7 +986,7 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>21</td>
       <td>
       </td>
       <td>1998-06-23</td>
@@ -989,14 +1001,15 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 54</li>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 95</li>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 6</li>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d24201c2c1ad481f237f51a2fa34d6d.png" alt="Cover for Perennial Favorites" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-08-04</td>
       <td>Squirrel Nut Zippers</td>
@@ -1012,7 +1025,7 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/tLGgU3d-6qDVT2Vgfz0l7Y3DdSaVOLajSFFkbCV1V9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODgx/NzQtMTQ2ODc3OTA3/NS04MjI5LmpwZWc.jpeg" alt="Cover for That&#39;s Amore" style="max-width:120px; height:auto;" />
       </td>
@@ -1030,7 +1043,7 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>80</td>
       <td>
       </td>
       <td>1998-10-06</td>
@@ -1048,8 +1061,9 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf08889ec3b3adf6ef23c8a91a348fd4.png" alt="Cover for This Beautiful Life" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-10-19</td>
       <td>Big Bad Voodoo Daddy</td>
@@ -1061,32 +1075,12 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 58</li>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
-      <td>
-          <img src="https://i.discogs.com/JBLhQeVpigVlwH5VV--K7Suj-_6AfaXGlitkY2l-mqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzMx/NjItMTIzOTk0NTgz/Ny5qcGVn.jpeg" alt="Cover for The Magic Of The Andrew Sisters" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000</td>
-      <td>The Andrews Sisters</td>
-      <td>The Magic Of The Andrew Sisters</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-band" | relative_url }}">big band</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swing" | relative_url }}">swing</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 83</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/geRx_2cs6BTlB1xOnEdu5dqNP_ZW0Ux3fRnHTWkbKkc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTY5/NjU5LTE1MDAwNzg1/NDEtMjM2MC5qcGVn.jpeg" alt="Cover for Drum Boogie" style="max-width:120px; height:auto;" />
       </td>
@@ -1102,14 +1096,34 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 60</li>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>87</td>
       <td>
-          <img src="https://i.discogs.com/VeYInELrB0cLkWiBYlwsj1ZT6JbwYOmTyyzGZgWR0vY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTAx/MDAxLTE1OTI1ODIx/MzQtNTE4Ni5qcGVn.jpeg" alt="Cover for The Andrews Sisters Greatest Hits" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa53c7d2be1242bfb686639b28393980.png" alt="Cover for The Magic Of The Andrew Sisters" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>The Andrews Sisters</td>
+      <td>The Magic Of The Andrew Sisters</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/big-band" | relative_url }}">big band</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swing" | relative_url }}">swing</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 18</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9ba8bf3f3b7c12d885b5d21fd5c3f2f3.png" alt="Cover for The Andrews Sisters Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>The Andrews Sisters</td>
@@ -1125,7 +1139,7 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>78</td>
       <td>
       </td>
       <td>2000-07-26</td>
@@ -1139,13 +1153,14 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>16</td>
       <td>
-          <img src="https://i.discogs.com/RQNsr5RASTOWEA9Ei-FGu8StedtwoPvrWFwkrI_vLtk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTk0/NTMwLTE1MjYzMTU2/MzgtMjI4Ni5qcGVn.jpeg" alt="Cover for Sometimes I&#39;m Happy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3498f2af91454eb5a220481d339b0f62.png" alt="Cover for Sometimes I&#39;m Happy" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Benny Goodman</td>
@@ -1158,14 +1173,14 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 79</li>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 22</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>56</td>
       <td>
-          <img src="https://i.discogs.com/tUqdrP_-kZfmAOfhWT3-jChmLUra5nr31Q6QdsqrPtg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjY0/MTYtMTIzOTUyODcw/Ny5qcGVn.jpeg" alt="Cover for Live at the Albert" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/924dda7ecb5a4ff3ae767744e7b8d8ac.png" alt="Cover for Live at the Albert" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Robbie Williams</td>
@@ -1181,8 +1196,9 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b75ccc2922b4a1ab7f97fb2e45e2329.png" alt="Cover for Swing When You&#39;re Winning" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-11-19</td>
       <td>Robbie Williams</td>
@@ -1198,7 +1214,7 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/EfF7a2aSQu1wzgX_x7xAPvSDTBST3lgYntiHmBw7zhQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzMz/OTg3LTE1NjAwMDI0/NDQtMjQ1Ni5qcGVn.jpeg" alt="Cover for Benny Goodman" style="max-width:120px; height:auto;" />
       </td>
@@ -1218,8 +1234,9 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a4f7c12d84453720c2489fc24f55704.png" alt="Cover for Michael Bublé" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-02-11</td>
       <td>Michael Bublé</td>
@@ -1231,12 +1248,12 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 61</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/ccjXzE-v5wq_ruC_KSojulApvt9_05B83sex5ZqcRUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMTE1/ODUtMTM4NDgwMTcy/Mi0xMDM2LmpwZWc.jpeg" alt="Cover for The Early Years 1930-1934" style="max-width:120px; height:auto;" />
       </td>
@@ -1250,12 +1267,12 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 13</li>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/0rMK5lFPW-PNME9tdaPn7IvsjW61BreHF2Bpd7sVAtE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDUz/NTQtMTU1OTQyMDA0/MS02MjQ0LmpwZWc.jpeg" alt="Cover for Save My Soul" style="max-width:120px; height:auto;" />
       </td>
@@ -1273,8 +1290,9 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3fec21b5a4bb4b37a4fc6267e95445d3.png" alt="Cover for Dino: The Essential Dean Martin" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-01-06</td>
       <td>Dean Martin</td>
@@ -1289,13 +1307,13 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 14</li>
-            <li> <a href="{{ "/tags/crooners" | relative_url }}">crooners</a> # 86</li>
+            <li> <a href="{{ "/tags/crooners" | relative_url }}">crooners</a> # 15</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/gyR9o5v1vax0pC3rkjLIdOkUC8WmSVXtX7N2u9f6TV4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjc0/Ni0xMzU3MTU5MjUz/LTU4OTAuanBlZw.jpeg" alt="Cover for Michael Buble" style="max-width:120px; height:auto;" />
       </td>
@@ -1309,12 +1327,12 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 73</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/wIkPWqyZioeXv8TBd0W_ckoxFVChbo4yN8vUOCmlR1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDg5/OTgtMTMyNDYyMTIy/Ny5qcGVn.jpeg" alt="Cover for Only You" style="max-width:120px; height:auto;" />
       </td>
@@ -1331,7 +1349,7 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e739fcbe9f942daab195c850d332926.png" alt="Cover for Two Shots" style="max-width:120px; height:auto;" />
       </td>
@@ -1350,7 +1368,7 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
           <img src="https://i.discogs.com/JnKN4YXPtIUdtCmWO_fHhqtHIOVGxcayBZ0ejd4Yjns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNzEx/MjYtMTQ3NDMxOTI0/My03MjU2LmpwZWc.jpeg" alt="Cover for Crazy Love (Special Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1368,8 +1386,9 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e41dd73771b940ae80d62fc29452a44b.png" alt="Cover for It&#39;s Time" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-02-08</td>
       <td>Michael Bublé</td>
@@ -1381,14 +1400,14 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 82</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>18</td>
       <td>
-          <img src="https://i.discogs.com/cFnOymOvyUeZikw4mMwCD-fyuSd5aNwD5cv2fRlSmZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTE1/NC0xNDE2NjkzNTI3/LTY0MzQuanBlZw.jpeg" alt="Cover for Rock Swings" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab4b3bf2d61243c5c3d4f41bfe3fbd68.png" alt="Cover for Rock Swings" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-06-07</td>
       <td>Paul Anka</td>
@@ -1404,9 +1423,9 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>33</td>
       <td>
-          <img src="https://i.discogs.com/9g3F73OyOFHBOjGzbPeVm33X4CaXFAkjhnlqsU6RT4s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyODQ2/Ni0xNDUyMTIzMjk5/LTI2MTEuanBlZw.jpeg" alt="Cover for Betcha Bottom Dollar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad6ba3bc8cbe452ea054e202052d8d07.png" alt="Cover for Betcha Bottom Dollar" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>The Puppini Sisters</td>
@@ -1423,7 +1442,7 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
       </td>
       <td>2006-05-26</td>
@@ -1441,8 +1460,9 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a614b12436a147d699a7c42f6792d3bc.png" alt="Cover for Romance: Songs From The Heart" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-01-16</td>
       <td>Frank Sinatra</td>
@@ -1461,7 +1481,7 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
       </td>
       <td>2007-04-06</td>
@@ -1479,8 +1499,9 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e3918e2eb2043b09baec9e82b85bf83.png" alt="Cover for Call Me Irresponsible" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-04-27</td>
       <td>Michael Bublé</td>
@@ -1488,19 +1509,19 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/swing" | relative_url }}">swing</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 64</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 67</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 46</li>
+            <li> <a href="{{ "/tags/crooners" | relative_url }}">crooners</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa8fc2fe87d7e1928323fa4b7815625a.png" alt="Cover for Äppelknyckarjazz" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-11-26</td>
       <td>Movits!</td>
@@ -1518,9 +1539,9 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>47</td>
       <td>
-          <img src="https://i.discogs.com/IVVmTdQ7pbabBwF3gGdWgPThNEX0wMn4IRtXa2ozxpw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQy/NTctMTI1MzQ1NDUy/My5qcGVn.jpeg" alt="Cover for Coco Part 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9ae7eac699c4b0d9e294a6c41d4006d.png" alt="Cover for Coco Part 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-08-28</td>
       <td>Parov Stelar</td>
@@ -1549,24 +1570,24 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
         <ul>
             <li> <a href="{{ "/tags/downtempo-lounge" | relative_url }}">downtempo lounge</a> # 5</li>
             <li> <a href="{{ "/tags/downtempo-groove" | relative_url }}">downtempo groove</a> # 6</li>
+            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 7</li>
             <li> <a href="{{ "/tags/lounge-groove" | relative_url }}">lounge groove</a> # 8</li>
             <li> <a href="{{ "/tags/lounge-downtempo" | relative_url }}">lounge downtempo</a> # 17</li>
-            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 21</li>
             <li> <a href="{{ "/tags/acid-lounge" | relative_url }}">acid lounge</a> # 28</li>
-            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 28</li>
+            <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 29</li>
             <li> <a href="{{ "/tags/uutta-jazzia" | relative_url }}">uutta jazzia</a> # 29</li>
             <li> <a href="{{ "/tags/electronic-lounge-jazz" | relative_url }}">electronic lounge jazz</a> # 29</li>
-            <li> <a href="{{ "/tags/groove-lounge" | relative_url }}">groove lounge</a> # 29</li>
-            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 31</li>
+            <li> <a href="{{ "/tags/alternative-lounge" | relative_url }}">alternative lounge</a> # 72</li>
+            <li> <a href="{{ "/tags/smooth-lounge" | relative_url }}">smooth lounge</a> # 75</li>
             <li> <a href="{{ "/tags/lounge-uptempo" | relative_url }}">lounge uptempo</a> # 76</li>
-            <li> <a href="{{ "/tags/broken-beat" | relative_url }}">broken beat</a> # 94</li>
+            <li> <a href="{{ "/tags/chillout-downtempo" | relative_url }}">chillout downtempo</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>75</td>
       <td>
-          <img src="https://i.discogs.com/_QD9wpexBwnjiSldUwpTzQkqfDh6J-OstLbwkwO6A1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTcx/NzQtMTM4NDM5MzYz/OC03MjU1LmpwZWc.jpeg" alt="Cover for Lake Street Dive" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6fdf6196003f0b8a19e1998519eefa9d.png" alt="Cover for Lake Street Dive" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-09-10</td>
       <td>Lake Street Dive</td>
@@ -1584,7 +1605,7 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/h9Z6YdXY7RTSuN7jdEA13WLFjNenx7NNGWeBekRRr8M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTky/NjctMTQwNjMyMzMz/Ny04OTY2LmpwZWc.jpeg" alt="Cover for Hello Dolly To Goodbye Charlie" style="max-width:120px; height:auto;" />
       </td>
@@ -1600,14 +1621,14 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 89</li>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>89</td>
       <td>
-          <img src="https://i.discogs.com/RvVS20Q6Dn5qWhw2ZrNU_rxi_kclmx_FWPBF_MNLwOs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MTIy/OTUtMTQ5NzEyMTcz/MC02MDg3LmpwZWc.jpeg" alt="Cover for Honey Pig" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6756583cd2994c2682545f1be13df052.png" alt="Cover for Honey Pig" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Bosley</td>
@@ -1625,7 +1646,7 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>25</td>
       <td>
       </td>
       <td>2011-11-15</td>
@@ -1643,9 +1664,9 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
-          <img src="https://i.discogs.com/vyUCUvW877zi7zdk0cSTrkwdJQ8gdJqcjploO6rqWdM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MzIz/NDYtMTQ1NjA4OTE5/OS0xNTI5LmpwZWc.jpeg" alt="Cover for Fun Machine" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc60b2511d8e4b9493bc7e9beda09045.png" alt="Cover for Fun Machine" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-22</td>
       <td>Lake Street Dive</td>
@@ -1662,8 +1683,9 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>57</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/58d665f4f56c4deb90e28d5644b1decd.png" alt="Cover for Hecho a mano" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06-20</td>
       <td>Monsieur Periné</td>
@@ -1677,13 +1699,14 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 89</li>
+            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a5fe66406b24b0db64a991ccbf29daf.png" alt="Cover for The Jazz Age" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-11-26</td>
       <td>The Bryan Ferry Orchestra</td>
@@ -1700,8 +1723,9 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>29</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b8eee7fdd3444b30b561466f84019401.png" alt="Cover for To Be Loved" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-15</td>
       <td>Michael Bublé</td>
@@ -1714,13 +1738,14 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>41</td>
       <td>
-          <img src="https://i.discogs.com/oyKk66IVlZ-logVhRfNmuMPduG8DuTfFyEP0ALs4eTo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NjQz/MTQtMTQ3ODE4NTYx/OS00NDMzLmpwZWc.jpeg" alt="Cover for The Shocking Miss Emerald" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b726fa98f31b4e988830bb4f46618d00.png" alt="Cover for The Shocking Miss Emerald" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-05-03</td>
       <td>Caro Emerald</td>
@@ -1733,14 +1758,14 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 78</li>
+            <li> <a href="{{ "/tags/tango" | relative_url }}">tango</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/bq3xbKjI3CRvovbq_GICSD0f3HvGLoNw4mKQ5N8QEfw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTIw/NTctMTQ0NTEyODg5/OC0yNDA1LmpwZWc.jpeg" alt="Cover for Modern Times – Epilogue" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/84c3ae40df4aa55d2815edbe22db5e70.png" alt="Cover for Modern Times – Epilogue" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-24</td>
       <td>IU</td>
@@ -1754,13 +1779,14 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 21</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>39</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d27e1513187542fb918a3ddcfa18d915.png" alt="Cover for Swings Both Ways" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-11-15</td>
       <td>Robbie Williams</td>
@@ -1776,7 +1802,7 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>85</td>
       <td>
           <img src="https://i.discogs.com/h5rNdLbLbcbz1BlqOifnA5LtH6cHKQNG-7pt9iLiVgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzk0/NDYwLTE2NjIxNTYy/OTMtNzAzNi5qcGVn.jpeg" alt="Cover for Twist is the New Twerk" style="max-width:120px; height:auto;" />
       </td>
@@ -1793,14 +1819,14 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a> # 97</li>
+            <li> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>17</td>
       <td>
-          <img src="https://i.discogs.com/hIaRiIPk0ggtD8DCsjk3_j96SjN6Aizz5_lsbwPG8zQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTIw/MDQtMTQ1NTg0MTUw/Mi0zOTQ1LmpwZWc.jpeg" alt="Cover for What I&#39;m Doing Here&#x2F;Wedding Band" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c9e8d644b924892c872dd6c460f3d5f.png" alt="Cover for What I&#39;m Doing Here&#x2F;Wedding Band" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-04-19</td>
       <td>Lake Street Dive</td>
@@ -1820,9 +1846,9 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>15</td>
       <td>
-          <img src="https://i.discogs.com/XcUy0sHmbvn_-CVT6kc2G1WdoVe5_wDFVQzemrvxkGo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTM4/NDctMTQzNTg0NTQ5/Ny01MTU2LmpwZWc.jpeg" alt="Cover for Caja de Música" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9fc938ae629737ad9f143fdf761e541c.png" alt="Cover for Caja de Música" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-07-03</td>
       <td>Monsieur Periné</td>
@@ -1838,16 +1864,16 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 17</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 72</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 55</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 75</li>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>52</td>
       <td>
-          <img src="https://i.discogs.com/8MipZZr-1fgWNEULWRkF9RvAnkKurXwYGNELaqQlItc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMzMx/NzgtMTQ1NTc2MDEw/OS02Mjc3LmpwZWc.jpeg" alt="Cover for Side Pony" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4ca742e130fa6ee02f2e01565f4ba4d.png" alt="Cover for Side Pony" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-02-19</td>
       <td>Lake Street Dive</td>
@@ -1867,9 +1893,9 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>99</td>
       <td>
-          <img src="https://i.discogs.com/7xcn5wnXsaj_FMnrfBAKKDR2YtNn7NGrCuPaLYy4t-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDIy/NDQ0LTE2MTExNzU3/MzktMzYzMS5qcGVn.jpeg" alt="Cover for Choose Your Character!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b59a0e10359ce174c4c0124f77615a30.png" alt="Cover for Choose Your Character!" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-06-17</td>
       <td>The 8-Bit Big Band</td>
@@ -1886,13 +1912,13 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 81</li>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 85</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 14</li>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>10</td>
       <td>
           <img src="https://i.discogs.com/GXX7utP5EY6_mVlgR667B3DtedaUIhynPgd4x-M142w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDYw/OTY1LTE1NjcwODMy/NjQtMjI1MS5qcGVn.jpeg" alt="Cover for Chronologic" style="max-width:120px; height:auto;" />
       </td>
@@ -1910,9 +1936,9 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>4</td>
       <td>
-          <img src="https://i.discogs.com/JLBQo77WOK7B-j_gGqHjq4C-UXOGsFKVjpaxtfif7PY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzYw/MjAxLTE2NzgzODE3/MDctMjQzMC5qcGVn.jpeg" alt="Cover for Cadê o After? Pt. 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae932ad2a94887a2d50235845f19d9bd.png" alt="Cover for Cadê o After? Pt. 1" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-06-18</td>
       <td>Felipe Amorim</td>
@@ -1927,13 +1953,13 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 33</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 74</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 21</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/UwSYO_qHH8aGJVB6KjLqdrCN6zsll34nJhKIHn6XVXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzcx/NzQ5LTE2NjUzNDUz/NjQtMjI3Ny5qcGVn.jpeg" alt="Cover for Christmas With Frank Sinatra" style="max-width:120px; height:auto;" />
       </td>
@@ -1947,14 +1973,14 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 52</li>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 72</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 74</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 19</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 28</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6ec51ae814148acc8b6949121482f83.png" alt="Cover for Christmas Songs by Sinatra" style="max-width:120px; height:auto;" />
       </td>
@@ -1968,9 +1994,9 @@ Swing music is a style of jazz that became popular in the 1930s and 1940s. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 23</li>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 80</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 83</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 13</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 20</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 46</li>
         </ul>
       </td>
     </tr>

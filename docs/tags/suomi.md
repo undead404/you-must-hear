@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T09:38:27.125Z
+date: 2025-12-04T01:03:53.596Z
 permalink: tags/suomi
 title: suomi
 ---
 
 ## suomi
 
-Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T01:03:53.596Z">Thu Dec 04 2025 03:03:53 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -67,8 +67,8 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 41</li>
             <li> <a href="{{ "/tags/suomipop" | relative_url }}">suomipop</a> # 56</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -89,7 +89,7 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 11</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -116,7 +116,7 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/WcDlMdrFyVIZgp2mat_0Tu5XLsbD65WsaU9BJTX3ouI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDUy/MDItMTQ0MDk3MTI3/MC05NjExLmpwZWc.jpeg" alt="Cover for Kuka Teki Huorin" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a8e175b2b3de467191682779230b9ec5.png" alt="Cover for Kuka Teki Huorin" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Sielun Veljet</td>
@@ -130,7 +130,7 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 73</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -152,8 +152,8 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 27</li>
-            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 48</li>
+            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 52</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -216,14 +216,15 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 36</li>
             <li> <a href="{{ "/tags/suomirock" | relative_url }}">suomirock</a> # 49</li>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/30d899fd755c43808b4985324b02ff3d.png" alt="Cover for Seleniko" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Värttinä</td>
@@ -275,8 +276,8 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 35</li>
             <li> <a href="{{ "/tags/suomipop" | relative_url }}">suomipop</a> # 54</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -339,6 +340,7 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0fc36773dcf743c084c0bf7abe9d570c.png" alt="Cover for Vihma" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-07-23</td>
       <td>Värttinä</td>
@@ -350,6 +352,7 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -387,7 +390,7 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 14</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 31</li>
             <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 74</li>
         </ul>
       </td>
@@ -409,7 +412,7 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 66</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -450,7 +453,7 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 26</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -471,14 +474,14 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 70</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>17</td>
       <td>
-          <img src="https://i.discogs.com/mO7Ifd5sANOn4lDUGbRA5P481svf4ffiCeIP_Rj-Jr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTI1/NjAtMTU0MDEwNTU1/NS0yMTU2LmpwZWc.jpeg" alt="Cover for Menneisyyden vangit" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/18514400c56242f6b99d1e7d236b6e7a.png" alt="Cover for Menneisyyden vangit" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Itse Valtiaat</td>
@@ -515,7 +518,7 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 13</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -537,7 +540,7 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 40</li>
+            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -613,15 +616,12 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 51</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 54</li>
+            <li> <a href="{{ "/tags/love-metal" | relative_url }}">love metal</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -661,8 +661,8 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 22</li>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 95</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 6</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -682,7 +682,7 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 24</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 74</li>
             <li> <a href="{{ "/tags/suomirock" | relative_url }}">suomirock</a> # 99</li>
         </ul>
       </td>
@@ -744,7 +744,7 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/MtIFPA4t4uor2HV2iXpihImeLYmZ_u746LKofqdZ5y4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzA5/NC0xNTkxMzk3Mzcw/LTYxNjEuanBlZw.jpeg" alt="Cover for Miero" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1f18b072589424eb15f1a88272fed48.png" alt="Cover for Miero" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-01-30</td>
       <td>Värttinä</td>
@@ -779,7 +779,7 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 61</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 38</li>
             <li> <a href="{{ "/tags/suomipop" | relative_url }}">suomipop</a> # 68</li>
             <li> <a href="{{ "/tags/suomirock" | relative_url }}">suomirock</a> # 77</li>
         </ul>
@@ -802,8 +802,8 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 22</li>
             <li> <a href="{{ "/tags/suomipop" | relative_url }}">suomipop</a> # 39</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -865,6 +865,7 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
     <tr>
       <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cd7e26d59b79476a9cf2450b19e001ca.png" alt="Cover for Luottaa Huomiseen" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-02-05</td>
       <td>Anneli Mattila</td>
@@ -950,6 +951,7 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
     <tr>
       <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dcf4e4af6abd494c951de25d33913ef6.png" alt="Cover for Ei kenenkään maa" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-11-28</td>
       <td>Movetron</td>
@@ -1055,7 +1057,7 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 17</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 82</li>
             <li> <a href="{{ "/tags/suomisaundi" | relative_url }}">suomisaundi</a> # 90</li>
         </ul>
       </td>
@@ -1098,7 +1100,7 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 81</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1141,6 +1143,7 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
     <tr>
       <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/28a008588a734f02afa287812a25b826.png" alt="Cover for Palatkaa Pariisiin!" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03-26</td>
       <td>Scandinavian Music Group</td>
@@ -1152,13 +1155,14 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 47</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d9fbb9ed1726ab933f3ae658479969b5.png" alt="Cover for Anna Puu" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-16</td>
       <td>Anna Puu</td>
@@ -1197,6 +1201,7 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2af4b13d87c843f28820d490ac373406.png" alt="Cover for Dustland" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-06-20</td>
       <td>The Gentleman Losers</td>
@@ -1212,8 +1217,8 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 46</li>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 47</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 43</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1258,6 +1263,7 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eb34acd93130bfd93063255883730ca5.png" alt="Cover for Vapaa ja yksin" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09-21</td>
       <td>Chisu</td>
@@ -1292,7 +1298,7 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 53</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1426,7 +1432,7 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 85</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1469,7 +1475,7 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/wVhmC2O4dmU8MY-j6pEmmbsSXPW4M3T5reINaqu4R70/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDc2/NDQtMTMyMDUxODM3/OC5qcGVn.jpeg" alt="Cover for Isä" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b125951aca614aad9407c859a84fc60c.png" alt="Cover for Isä" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-12</td>
       <td>Vesterinen yhtyeineen</td>
@@ -1543,14 +1549,15 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 79</li>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 92</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 9</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61b48c646bce479dbafcb5ddcb5165c9.png" alt="Cover for Mustaa kultaa" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-04-27</td>
       <td>Jare &amp; VilleGalle</td>
@@ -1673,14 +1680,14 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 50</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/UYIOmPMwr-LEVVZ4VGAYJEu9I29Jo3qnZ90dVjny9o0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MDE1/MDMtMTQyODkxNDcz/Mi04ODI2LmpwZWc.jpeg" alt="Cover for Grindaa ja flowaa (feat. Tippa-T)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5a27e29840cf43df3c05b8e872b68437.png" alt="Cover for Grindaa ja flowaa (feat. Tippa-T)" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-04-11</td>
       <td>Anna Abreu</td>
@@ -1696,8 +1703,8 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 9</li>
             <li> <a href="{{ "/tags/suomipop" | relative_url }}">suomipop</a> # 29</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1722,7 +1729,7 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
     <tr>
       <td>13</td>
       <td>
-          <img src="https://i.discogs.com/KtxH7DT0Wgerf40l8wq3UQxFMsnkNYb78M5VfRMl4JY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDY5/NDYtMTQ5MjQyMDk5/MS04MzMzLmpwZWc.jpeg" alt="Cover for Galileo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf8192bda12cfd7c7bc85029228b4f70.png" alt="Cover for Galileo" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Jupi7er</td>
@@ -1741,14 +1748,14 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 17</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/NTJg1Oy4_Zq4i7RnFHxHRawChyvFg48_KQjoK_AwSM8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTI0/OTAtMTUxMjUwNDky/Ny04NjM5LmpwZWc.jpeg" alt="Cover for Faraway Vol.2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6682a446b2145ad8fbdd44deccbcf2a.png" alt="Cover for Faraway Vol.2" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Apocalyptica</td>
@@ -1768,7 +1775,7 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/64ZQ4_ujdAKj2SoJVCQRxI2T2MpgAADhZ5LjZqJCXNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDU5/NTItMTQyNTAxMTQz/Ny00ODExLmpwZWc.jpeg" alt="Cover for Infektiko" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/90c2c2160a6e4854c83d04ab471fbd85.png" alt="Cover for Infektiko" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-03-20</td>
       <td>apina</td>
@@ -1788,15 +1795,15 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 3</li>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 57</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 12</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/ELZD_IxPBZYRJW4E-ZeybgakHWaH9iucOF4-Og6Lezc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDg0/NzktMTQyOTI4NjM5/Mi04NDE4LmpwZWc.jpeg" alt="Cover for ...Want You Dead" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1ea49a0886f0f1278e179fb721bf792.png" alt="Cover for ...Want You Dead" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-03-28</td>
       <td>Karjalan Sissit</td>
@@ -1813,8 +1820,8 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 51</li>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 65</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 52</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1880,7 +1887,7 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/jKUvCJEX6CWnkGe4WWt3lPDCgnfq7w5tw3JRyAKTuG0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjU3/Nzg1LTE1MTI4NzMz/NTQtNzE2NS5qcGVn.jpeg" alt="Cover for Permanently Midnight" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b980e719e429273b4cc1d887ddb97a6.png" alt="Cover for Permanently Midnight" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-12-08</td>
       <td>The Gentleman Losers</td>
@@ -1899,8 +1906,8 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 25</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 29</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 28</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1969,7 +1976,7 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 8</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -2036,8 +2043,8 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 4</li>
             <li> <a href="{{ "/tags/suomirock" | relative_url }}">suomirock</a> # 10</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -2052,11 +2059,9 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/finland" | relative_url }}">finland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tango" | relative_url }}">tango</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a></li>
         </ul>
       </td>
       <td>
@@ -2067,6 +2072,7 @@ Last updated: <time datetime="2025-10-28T09:38:27.125Z">Tue Oct 28 2025 11:38:27
     <tr>
       <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d104333845af4d008911a8a59a2f13e0.png" alt="Cover for 9 Digits (One in a Billion)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Martina Aitolehti</td>
