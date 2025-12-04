@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-21T02:22:40.582Z
+date: 2025-12-04T04:32:32.341Z
 permalink: tags/rabm
 title: rabm
 ---
 
 ## rabm
 
-Last updated: <time datetime="2025-10-21T02:22:40.582Z">Tue Oct 21 2025 05:22:40 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T04:32:32.341Z">Thu Dec 04 2025 06:32:32 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -67,7 +67,7 @@ RABM (Red and Anarchist Black Metal) fuses the raw intensity and atmospheric dar
     <tr>
       <td>2</td>
       <td>
-          <img src="https://i.discogs.com/NDOVvfAPxkphKrEg85guW7M4ayBDNXRxculVR5kf_ro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQw/OTAwLTE2NjA5ODIx/NTQtNTc0NC5qcGVn.jpeg" alt="Cover for Vergeltungswaffe" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/534d3092974201eb31a0687238b91d4c.png" alt="Cover for Vergeltungswaffe" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Escola Alemã</td>
@@ -162,7 +162,7 @@ RABM (Red and Anarchist Black Metal) fuses the raw intensity and atmospheric dar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 24</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -276,9 +276,9 @@ RABM (Red and Anarchist Black Metal) fuses the raw intensity and atmospheric dar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 21</li>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 46</li>
-            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 64</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 22</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 50</li>
+            <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 65</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 77</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 82</li>
         </ul>
@@ -456,7 +456,7 @@ RABM (Red and Anarchist Black Metal) fuses the raw intensity and atmospheric dar
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/Pa3S96NxxA4MVMPBiyZApF8X_fid7GgGD-P2IOAG0rE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mzgw/ODQ0LTE2Nzg1MzYz/NDQtMzM0My5qcGVn.jpeg" alt="Cover for Pokemon X - Ten Years of Pokemon" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fec8808d876e4aa1d3f85738b618d548.png" alt="Cover for Pokemon X - Ten Years of Pokemon" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Pokémon</td>
@@ -586,7 +586,7 @@ RABM (Red and Anarchist Black Metal) fuses the raw intensity and atmospheric dar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 32</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -703,9 +703,9 @@ RABM (Red and Anarchist Black Metal) fuses the raw intensity and atmospheric dar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 72</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 75</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 94</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 6</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 22</li>
+            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -730,10 +730,10 @@ RABM (Red and Anarchist Black Metal) fuses the raw intensity and atmospheric dar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 39</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 53</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 26</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 48</li>
+            <li> <a href="{{ "/tags/ccm" | relative_url }}">ccm</a> # 60</li>
             <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 71</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -753,7 +753,7 @@ RABM (Red and Anarchist Black Metal) fuses the raw intensity and atmospheric dar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 11</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -873,7 +873,7 @@ RABM (Red and Anarchist Black Metal) fuses the raw intensity and atmospheric dar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 30</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1126,7 +1126,7 @@ RABM (Red and Anarchist Black Metal) fuses the raw intensity and atmospheric dar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 29</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1231,7 +1231,7 @@ RABM (Red and Anarchist Black Metal) fuses the raw intensity and atmospheric dar
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/ckHGSgWgsmlR9UKuU9A3gmkn0AZX9uJ5ZPRleytc8kE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjA4/NTM3LTE1NzgwOTM2/MzctMzg0Ny5wbmc.jpeg" alt="Cover for Old Fashioned" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1f37eab2de9a446eb8e8b1210ed84d3a.png" alt="Cover for Old Fashioned" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Billy the Fridge</td>
@@ -1265,8 +1265,8 @@ RABM (Red and Anarchist Black Metal) fuses the raw intensity and atmospheric dar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 13</li>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 39</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 14</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1335,9 +1335,9 @@ RABM (Red and Anarchist Black Metal) fuses the raw intensity and atmospheric dar
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 30</li>
             <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 58</li>
             <li> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a> # 60</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1366,7 +1366,7 @@ RABM (Red and Anarchist Black Metal) fuses the raw intensity and atmospheric dar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 5</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1466,16 +1466,13 @@ RABM (Red and Anarchist Black Metal) fuses the raw intensity and atmospheric dar
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/dq9BSJRTYTs5vx5X5aqi_nIS9uZd6SWIeyEFV6W9KBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDc3/MjUwLTE0OTgyNDU4/MDEtNDM1OC5qcGVn.jpeg" alt="Cover for Spreading Adder" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f696122040f8c97c5c58ccea5b2fcc8b.png" alt="Cover for Spreading Adder" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-06-23</td>
       <td>Wildspeaker</td>
       <td>Spreading Adder</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rabm" | relative_url }}">rabm</a></li>
         </ul>
       </td>
       <td>
@@ -1725,9 +1722,9 @@ RABM (Red and Anarchist Black Metal) fuses the raw intensity and atmospheric dar
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/doomergaze" | relative_url }}">doomergaze</a> # 36</li>
+            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 45</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 45</li>
-            <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 55</li>
-            <li> <a href="{{ "/tags/doomergaze" | relative_url }}">doomergaze</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1838,7 +1835,7 @@ RABM (Red and Anarchist Black Metal) fuses the raw intensity and atmospheric dar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 8</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 9</li>
         </ul>
       </td>
     </tr>

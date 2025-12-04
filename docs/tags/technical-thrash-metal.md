@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T11:57:23.710Z
+date: 2025-12-04T04:31:40.576Z
 permalink: tags/technical-thrash-metal
 title: technical thrash metal
 ---
 
 ## technical thrash metal
 
-Last updated: <time datetime="2025-11-23T11:57:23.710Z">Sun Nov 23 2025 13:57:23 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:31:40.576Z">Thu Dec 04 2025 06:31:40 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -65,26 +65,8 @@ Technical thrash metal pushes the genre&#39;s aggression to new heights through 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 33</li>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 47</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7eb0b1016d02a3d0936987278392104e.png" alt="Cover for Terror Squad" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1987</td>
-      <td>Artillery</td>
-      <td>Terror Squad</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 48</li>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -96,6 +78,25 @@ Technical thrash metal pushes the genre&#39;s aggression to new heights through 
       <td>1987</td>
       <td>Toxik</td>
       <td>World Circus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 100</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7eb0b1016d02a3d0936987278392104e.png" alt="Cover for Terror Squad" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1987</td>
+      <td>Artillery</td>
+      <td>Terror Squad</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a></li>
@@ -138,8 +139,8 @@ Technical thrash metal pushes the genre&#39;s aggression to new heights through 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 23</li>
             <li> <a href="{{ "/tags/neo-prog" | relative_url }}">neo-prog</a> # 26</li>
-            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -177,7 +178,7 @@ Technical thrash metal pushes the genre&#39;s aggression to new heights through 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 40</li>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -345,8 +346,8 @@ Technical thrash metal pushes the genre&#39;s aggression to new heights through 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 52</li>
-            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 59</li>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 42</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -476,8 +477,8 @@ Technical thrash metal pushes the genre&#39;s aggression to new heights through 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 14</li>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 16</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 84</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -496,7 +497,7 @@ Technical thrash metal pushes the genre&#39;s aggression to new heights through 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 37</li>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -645,8 +646,8 @@ Technical thrash metal pushes the genre&#39;s aggression to new heights through 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 86</li>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 93</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 8</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -667,7 +668,7 @@ Technical thrash metal pushes the genre&#39;s aggression to new heights through 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 42</li>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -743,7 +744,7 @@ Technical thrash metal pushes the genre&#39;s aggression to new heights through 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 96</li>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -763,7 +764,7 @@ Technical thrash metal pushes the genre&#39;s aggression to new heights through 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 87</li>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -857,7 +858,7 @@ Technical thrash metal pushes the genre&#39;s aggression to new heights through 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 69</li>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -877,7 +878,7 @@ Technical thrash metal pushes the genre&#39;s aggression to new heights through 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 48</li>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -916,7 +917,7 @@ Technical thrash metal pushes the genre&#39;s aggression to new heights through 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 61</li>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -956,7 +957,7 @@ Technical thrash metal pushes the genre&#39;s aggression to new heights through 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 15</li>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1092,6 +1093,7 @@ Technical thrash metal pushes the genre&#39;s aggression to new heights through 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/innovative" | relative_url }}">innovative</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
@@ -1105,10 +1107,11 @@ Technical thrash metal pushes the genre&#39;s aggression to new heights through 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/innovative" | relative_url }}">innovative</a> # 8</li>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 29</li>
             <li> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a> # 69</li>
-            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 71</li>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 72</li>
             <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 76</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 76</li>
             <li> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a> # 97</li>
         </ul>
       </td>
@@ -1147,7 +1150,7 @@ Technical thrash metal pushes the genre&#39;s aggression to new heights through 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 91</li>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1170,7 +1173,7 @@ Technical thrash metal pushes the genre&#39;s aggression to new heights through 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 86</li>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1210,7 +1213,7 @@ Technical thrash metal pushes the genre&#39;s aggression to new heights through 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 99</li>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1350,7 +1353,7 @@ Technical thrash metal pushes the genre&#39;s aggression to new heights through 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 22</li>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1375,7 +1378,7 @@ Technical thrash metal pushes the genre&#39;s aggression to new heights through 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 14</li>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1396,7 +1399,7 @@ Technical thrash metal pushes the genre&#39;s aggression to new heights through 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 26</li>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1457,7 +1460,7 @@ Technical thrash metal pushes the genre&#39;s aggression to new heights through 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 75</li>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1495,7 +1498,7 @@ Technical thrash metal pushes the genre&#39;s aggression to new heights through 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 100</li>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1517,7 +1520,7 @@ Technical thrash metal pushes the genre&#39;s aggression to new heights through 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 98</li>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1557,7 +1560,7 @@ Technical thrash metal pushes the genre&#39;s aggression to new heights through 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 84</li>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1596,7 +1599,7 @@ Technical thrash metal pushes the genre&#39;s aggression to new heights through 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 67</li>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1655,7 +1658,7 @@ Technical thrash metal pushes the genre&#39;s aggression to new heights through 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 23</li>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1695,7 +1698,7 @@ Technical thrash metal pushes the genre&#39;s aggression to new heights through 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 60</li>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1738,7 +1741,7 @@ Technical thrash metal pushes the genre&#39;s aggression to new heights through 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 8</li>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1760,7 +1763,7 @@ Technical thrash metal pushes the genre&#39;s aggression to new heights through 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 16</li>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1855,7 +1858,7 @@ Technical thrash metal pushes the genre&#39;s aggression to new heights through 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 74</li>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1913,11 +1916,13 @@ Technical thrash metal pushes the genre&#39;s aggression to new heights through 
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/extreme-progressive-metal" | relative_url }}">extreme progressive metal</a></li>
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/extreme-progressive-metal" | relative_url }}">extreme progressive metal</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1937,7 +1942,7 @@ Technical thrash metal pushes the genre&#39;s aggression to new heights through 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 30</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 32</li>
         </ul>
       </td>
     </tr>

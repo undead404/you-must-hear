@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-21T02:21:31.255Z
+date: 2025-12-04T04:30:45.505Z
 permalink: tags/ibiza
 title: ibiza
 ---
 
 ## ibiza
 
-Last updated: <time datetime="2025-10-21T02:21:31.255Z">Tue Oct 21 2025 05:21:31 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T04:30:45.505Z">Thu Dec 04 2025 06:30:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -121,7 +121,7 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/YPLMXsQirDCIFuGwIpWnwt3s6DceEso3_c4OIio8y-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzU1/NS0xMzg5NjM5MTIx/LTk1MzcuanBlZw.jpeg" alt="Cover for One Love" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0874746c03150601ebf456d4adace043.png" alt="Cover for One Love" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-11-30</td>
       <td>Dr. Alban</td>
@@ -133,7 +133,7 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 72</li>
+            <li> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -155,7 +155,7 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/balearic" | relative_url }}">balearic</a> # 19</li>
+            <li> <a href="{{ "/tags/balearic" | relative_url }}">balearic</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -221,7 +221,7 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/-1HIMgzp9TCVmbGv7ol6cSSRs6LTB_ubWT43AcQKycA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDM5/Ny0xMTcwMzExMTQ2/LmpwZWc.jpeg" alt="Cover for Cobalt" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7639c0042910ea4166d4459cb1c57d8a.png" alt="Cover for Cobalt" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-05</td>
       <td>Les Jumeaux</td>
@@ -259,7 +259,7 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/-DM8u4ZgktagfB-f4gsxrL7kBdMJC6olzC14nHn8OBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODcx/NjM5LTE2MjE5MTA5/MzctMzQ3Mi5qcGVn.jpeg" alt="Cover for Chill Out Ibiza Vol.3 (Balearic Lounge)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f95a5d219f64d6d9b158afb09da4f53.png" alt="Cover for Chill Out Ibiza Vol.3 (Balearic Lounge)" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Various Artists</td>
@@ -277,7 +277,7 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/ZEq6RL1Zl6wNPEzzWjz59rPxrDgk8nTOAzDTlkQEnyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQx/MzU1LTE2MjUxNDkz/MjUtMzExNS5qcGVn.jpeg" alt="Cover for Ibiza Refreshing House For Reality" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c35b3599512a8e6e850c4b644cf910f.png" alt="Cover for Ibiza Refreshing House For Reality" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Various Artists</td>
@@ -333,7 +333,7 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/BQqHk0ev1PZXuzfNYK41qDYhN2WVGrLxEAsutqlVc2s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODkt/MTE1MTAxNzMwMS5q/cGVn.jpeg" alt="Cover for Cafe del Mar, Vol. 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/603fb7b63732d1caf183edf7bf4c0ee1.png" alt="Cover for Cafe del Mar, Vol. 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Silent Poets</td>
@@ -451,6 +451,7 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f47256e528744aafca6fc173847fdb1a.png" alt="Cover for Easy to Assemble" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Chicane</td>
@@ -583,7 +584,7 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 9</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -614,8 +615,8 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 59</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 63</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 36</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 42</li>
             <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 90</li>
         </ul>
       </td>
@@ -623,7 +624,7 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/0IavjVIcIMvvEw6hQvMNpXCed2hhmyL6uK6pwq2bcj4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjMy/MDgtMTE5Mzg3NDYw/NC5qcGVn.jpeg" alt="Cover for Relax (Edition 2)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3752885d1f3f4fa78ca3b12d5016dd1e.png" alt="Cover for Relax (Edition 2)" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Blank &amp; Jones</td>
@@ -714,7 +715,7 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/LKjV-J_q9pZRyHF7wq5zscgRVFuk52kVzeXOsOouEjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjE5/MTExLTE2OTQzMTUz/MzktNjU1OC5wbmc.jpeg" alt="Cover for Kumharas Lounge Ibiza - Volume 4" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fccf5313008945399517866b5194175f.png" alt="Cover for Kumharas Lounge Ibiza - Volume 4" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-06-07</td>
       <td>Various Artists</td>
@@ -766,9 +767,9 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 51</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 18</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 50</li>
             <li> <a href="{{ "/tags/vocal-house" | relative_url }}">vocal house</a> # 79</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -827,8 +828,8 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 31</li>
             <li> <a href="{{ "/tags/melodic-trance" | relative_url }}">melodic trance</a> # 65</li>
+            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -858,6 +859,7 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
     <tr>
       <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/839f4e88ffcf90a259752a106a731559.png" alt="Cover for Lovely World Dies" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Sax &amp; Moryson</td>
@@ -946,7 +948,7 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/NX-x5-WOHE1lQDxJAREUTm-y2_51IwDJlbKnBic9trc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjU5/NjItMTMwNzYyNjAy/OC5qcGVn.jpeg" alt="Cover for All The Freaks" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bfb4d18d79a2a2f370cf083a363dfb7f.png" alt="Cover for All The Freaks" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-03</td>
       <td>The Thought Criminals</td>
@@ -973,9 +975,9 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 15</li>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 68</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 71</li>
             <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 82</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1030,7 +1032,7 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
     <tr>
       <td>3</td>
       <td>
-          <img src="https://i.discogs.com/IZEadZTnyStaj92CYsXZrHpHpgrbZPQYtbBogpB08Gw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MjY2/NjYtMTQyNTQwODI3/Ni0yNzM5LmpwZWc.jpeg" alt="Cover for The Entranced Remixed - Ambient &amp; Chillout" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/53a4f7965947469d9fe4be604b50d9e8.png" alt="Cover for The Entranced Remixed - Ambient &amp; Chillout" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-10-18</td>
       <td>The Entranced</td>
@@ -1192,14 +1194,14 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 5</li>
+            <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/4GgiIGqAn_vT2jaAxiVIcIilFQDhPL4YgbeHYzHeO1Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDE3/MDExLTE2MDc2MTc4/ODItNTMyOS5qcGVn.jpeg" alt="Cover for Café del Mar: Dab&#39; the Best" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a5a0411fd6d4992b7ae475f32b01faa.png" alt="Cover for Café del Mar: Dab&#39; the Best" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-07-27</td>
       <td>Dab</td>
@@ -1217,7 +1219,7 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/Q90bTZZ59_s0EqnrQlTPj2gZoJj7J9Ghp1MPuJaRoGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0ODcx/NDEtMTQyMDM4ODY1/My0xMzE4LmpwZWc.jpeg" alt="Cover for Chillout Lounge" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/226202e3cd69a927fa1541555ff56587.png" alt="Cover for Chillout Lounge" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Thomas Lemmer</td>
@@ -1240,7 +1242,7 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 64</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 37</li>
             <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 96</li>
         </ul>
       </td>
@@ -1269,7 +1271,7 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/w-N23yN3IJ07M2SQ9XQyJY9HMS83E-JJdOmC7wnscYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjM4/MjA4LTE1ODg1MjIz/MjEtMTYzNi5qcGVn.jpeg" alt="Cover for Tommy Vee presents Gorgeous Ibiza" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9b33996fcb18485f4016f266fd745672.png" alt="Cover for Tommy Vee presents Gorgeous Ibiza" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-01-23</td>
       <td>Artisti Vari</td>
@@ -1288,7 +1290,6 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/yg4EvQb2CANcjcwYVRwGxGNZPc5Dj4sPC123HtE7CMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzgy/MzQ5LTE1MjIyODU1/NzYtODgxMC5qcGVn.jpeg" alt="Cover for La Roca V.4" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-03-24</td>
       <td>Nacho Sotomayor</td>
@@ -1370,7 +1371,7 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/AnOup8Oki37UdAgfBoL8WbkCi_GODLabUcBzZJuBTjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDcy/ODczLTE2MjMyMjQz/MTItNjE0Mi5qcGVn.jpeg" alt="Cover for Cafe Del Mar Volume 5" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/23fcc24e9da129c08541e71766c7b6df.png" alt="Cover for Cafe Del Mar Volume 5" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-11-25</td>
       <td>4 Wings</td>
@@ -1407,6 +1408,7 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b27bf1548b34a049fcae05cde08c6b1.png" alt="Cover for Ibiza Trance Club Vol.9" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-04-14</td>
       <td>Various Artists</td>
@@ -1551,13 +1553,14 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 17</li>
+            <li> <a href="{{ "/tags/chicago-house" | relative_url }}">chicago house</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f3ef260f09ac4517727d3dc704db48d.png" alt="Cover for The Wonderful Sax Is You" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Sax &amp; Moryson</td>
@@ -1572,7 +1575,7 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 52</li>
+            <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1600,9 +1603,9 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 15</li>
             <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 62</li>
             <li> <a href="{{ "/tags/oboe" | relative_url }}">oboe</a> # 85</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1631,7 +1634,7 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 41</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1659,7 +1662,7 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 44</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1687,7 +1690,7 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 45</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1729,12 +1732,12 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 20</li>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 28</li>
             <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 36</li>
-            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 40</li>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 48</li>
+            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 61</li>
             <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 69</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 75</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1759,13 +1762,14 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 55</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 48</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6f8d38b8cdc9b89b4016bfdaa11de4b.png" alt="Cover for Star" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Shelley Preston</td>
@@ -1785,6 +1789,7 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
     <tr>
       <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e1d6134f02cff3cb898fbd4bd9f5f7e.png" alt="Cover for Everything" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Shelley Preston</td>
@@ -1880,6 +1885,7 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
     <tr>
       <td>18</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff35e87c525ae79fbbe4d41323da669a.png" alt="Cover for Unhealthy Dreams Of Balearic I" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Vlad Pronin</td>
@@ -1918,6 +1924,7 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
     <tr>
       <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b4d34fc28862793cb5410c3250dda42.png" alt="Cover for Love" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Gina Moryson</td>
@@ -1956,6 +1963,7 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9108813af59e86dc47b45f8da479e3b6.png" alt="Cover for One Year" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Sax &amp; Moryson</td>
@@ -1964,25 +1972,6 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
             <li style="font-size: calc(1rem * 82.95454545454545 / 100)"> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>35</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Sax &amp; Moryson</td>
-      <td>Love Trance</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 88 / 100)"> <a href="{{ "/tags/disco" | relative_url }}">disco</a></li>
-            <li style="font-size: calc(1rem * 65 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
         </ul>
       </td>
       <td>
@@ -2013,6 +2002,7 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
     <tr>
       <td>46</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91103d5697c07a5d2c26a150fb4eb26f.png" alt="Cover for Phoenix For Damwalker Dale" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Sax &amp; Moryson</td>
@@ -2127,6 +2117,23 @@ Ibiza represents the sun-drenched, euphoric sound of the Mediterranean party isl
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9635cfeb60e3ace724a89dcb6a130c8.png" alt="Cover for Love Trance" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Sax &amp; Moryson</td>
+      <td>Love Trance</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>

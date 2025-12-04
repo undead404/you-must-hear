@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-10T22:44:49.236Z
+date: 2025-12-04T04:31:51.852Z
 permalink: tags/gypsy-jazz
 title: gypsy jazz
 ---
 
 ## gypsy jazz
 
-Last updated: <time datetime="2025-11-10T22:44:49.236Z">Tue Nov 11 2025 00:44:49 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:31:51.852Z">Thu Dec 04 2025 06:31:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,7 +44,7 @@ Gypsy jazz is a vibrant acoustic style born in 1930s Paris, blending Romani musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-guitar" | relative_url }}">jazz guitar</a> # 98</li>
+            <li> <a href="{{ "/tags/jazz-guitar" | relative_url }}">jazz guitar</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -476,6 +476,7 @@ Gypsy jazz is a vibrant acoustic style born in 1930s Paris, blending Romani musi
     <tr>
       <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8414c7caf0f19cd78f02144caccd66b4.png" alt="Cover for Nuages" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Django Reinhardt</td>
@@ -623,7 +624,7 @@ Gypsy jazz is a vibrant acoustic style born in 1930s Paris, blending Romani musi
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/G7aiyhmSX4zFwcBEAf39UwPikYQwCieFy0rVqjE8PAc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjI5/MjQ5LTE2MDU2MzYw/MTUtNTExMS5qcGVn.jpeg" alt="Cover for Djangologie Vol6 &#x2F; 1937" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/66844ac39f7406a67552f8413cd2b38b.png" alt="Cover for Djangologie Vol6 &#x2F; 1937" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Django Reinhardt</td>
@@ -639,7 +640,7 @@ Gypsy jazz is a vibrant acoustic style born in 1930s Paris, blending Romani musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 87</li>
+            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 13</li>
             <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 92</li>
         </ul>
       </td>
@@ -977,8 +978,8 @@ Gypsy jazz is a vibrant acoustic style born in 1930s Paris, blending Romani musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-guitar" | relative_url }}">jazz guitar</a> # 22</li>
             <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 53</li>
+            <li> <a href="{{ "/tags/jazz-guitar" | relative_url }}">jazz guitar</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1077,7 +1078,7 @@ Gypsy jazz is a vibrant acoustic style born in 1930s Paris, blending Romani musi
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/F2lG4Ocxg7aqkjgsh6QuSg9Hz32iuUcTYziFuEwdfq4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc1/ODctMTM5MjI5Nzkw/NS0zMjA2LmpwZWc.jpeg" alt="Cover for Ruke" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0abb87d29f14e8faf0137feba277bdc.png" alt="Cover for Ruke" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Darko Rundek</td>
@@ -1304,13 +1305,14 @@ Gypsy jazz is a vibrant acoustic style born in 1930s Paris, blending Romani musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-guitar" | relative_url }}">jazz guitar</a> # 93</li>
+            <li> <a href="{{ "/tags/jazz-guitar" | relative_url }}">jazz guitar</a> # 8</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>29</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/947c76ea436440bac0942524d05d9429.png" alt="Cover for Bubbemeises: Lies My Gramma Told Me" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>David Krakauer</td>
@@ -1612,7 +1614,7 @@ Gypsy jazz is a vibrant acoustic style born in 1930s Paris, blending Romani musi
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/g1gBmNnMGX4ukXnhsrj6_gzAcoyPQIbdL7SfG_841us/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjYx/OTItMTYxNTY1ODIy/MC05OTg2LmpwZWc.jpeg" alt="Cover for Raindrops and Elephants-Piranha Re:interpretations" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db591c54343b4c11a8d893652c778048.png" alt="Cover for Raindrops and Elephants-Piranha Re:interpretations" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>[dunkelbunt]</td>
@@ -1636,7 +1638,7 @@ Gypsy jazz is a vibrant acoustic style born in 1930s Paris, blending Romani musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bounce" | relative_url }}">bounce</a> # 54</li>
+            <li> <a href="{{ "/tags/bounce" | relative_url }}">bounce</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1734,8 +1736,7 @@ Gypsy jazz is a vibrant acoustic style born in 1930s Paris, blending Romani musi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 64</li>
-            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 100</li>
+            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 98</li>
         </ul>
       </td>
     </tr>

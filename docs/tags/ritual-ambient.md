@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T09:28:38.033Z
+date: 2025-12-04T04:36:15.825Z
 permalink: tags/ritual-ambient
 title: ritual ambient
 ---
 
 ## ritual ambient
 
-Last updated: <time datetime="2025-11-26T09:28:38.033Z">Wed Nov 26 2025 11:28:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:36:15.825Z">Thu Dec 04 2025 06:36:15 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -251,7 +251,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 45</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -639,7 +639,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 73</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -677,8 +677,8 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 1</li>
             <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 68</li>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -784,7 +784,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 71</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -983,7 +983,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 58</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1088,7 +1088,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 34</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 67</li>
             <li> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a> # 93</li>
         </ul>
       </td>
@@ -1127,8 +1127,8 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 16</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 47</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1154,8 +1154,8 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 7</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 57</li>
+            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1193,7 +1193,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 76</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1217,6 +1217,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/27eb998684884d56cdfa1f98605f7ce1.png" alt="Cover for Sorieh" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09</td>
       <td>Treha Sektori</td>
@@ -1456,7 +1457,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 76</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1476,13 +1477,14 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 41</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/24e11b65df544e14ce10807e4553cbca.png" alt="Cover for Endessiah" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-31</td>
       <td>Treha Sektori</td>
@@ -1496,7 +1498,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 99</li>
+            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1535,7 +1537,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 75</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 77</li>
             <li> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a> # 99</li>
         </ul>
       </td>
@@ -1556,7 +1558,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-doom-metal" | relative_url }}">atmospheric doom metal</a> # 56</li>
+            <li> <a href="{{ "/tags/atmospheric-doom-metal" | relative_url }}">atmospheric doom metal</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1659,9 +1661,9 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 54</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 47</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 84</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 87</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 88</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 89</li>
             <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 93</li>
             <li> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a> # 98</li>
@@ -1701,7 +1703,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       <td>
         <ul>
             <li> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a> # 14</li>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 48</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1741,8 +1743,8 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 4</li>
             <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 97</li>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 97</li>
             <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 99</li>
         </ul>
       </td>
@@ -1770,10 +1772,10 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       <td>
         <ul>
             <li> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a> # 3</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 33</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 70</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 77</li>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 82</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 83</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 83</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 84</li>
             <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 92</li>
             <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 95</li>
         </ul>
@@ -1816,8 +1818,8 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 30</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 40</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 34</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1840,7 +1842,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 30</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1868,10 +1870,10 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 47</li>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 53</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 48</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 54</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 78</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 84</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 85</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 86</li>
             <li> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a> # 95</li>
         </ul>
@@ -1906,10 +1908,10 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 20</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 22</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 31</li>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 44</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 23</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 57</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 70</li>
+            <li> <a href="{{ "/tags/minimal-synth" | relative_url }}">minimal synth</a> # 81</li>
             <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 82</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 84</li>
         </ul>
@@ -1994,7 +1996,7 @@ Ritual ambient blends ceremonial atmospheres with dark, meditative soundscapes, 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 17</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 84</li>
         </ul>
       </td>
     </tr>

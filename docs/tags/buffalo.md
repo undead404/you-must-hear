@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-26T02:59:55.677Z
+date: 2025-12-04T04:30:39.514Z
 permalink: tags/buffalo
 title: buffalo
 ---
 
 ## buffalo
 
-Last updated: <time datetime="2025-10-26T02:59:55.677Z">Sun Oct 26 2025 04:59:55 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:30:39.514Z">Thu Dec 04 2025 06:30:39 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -332,7 +332,7 @@ Buffalo represents the eclectic musical output from Buffalo, New York, spanning 
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/38spNuprF7TeCjvTpLJcAb7-3aGcR4GoTkHxIQkJgPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTg2/MjUtMTQxNDMwMjYy/My02NzExLmpwZWc.jpeg" alt="Cover for Six-Pack Of Love" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1968d1563bc947619ba8c42f4b004500.png" alt="Cover for Six-Pack Of Love" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Peter Case</td>
@@ -376,6 +376,7 @@ Buffalo represents the eclectic musical output from Buffalo, New York, spanning 
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc8e33ccd9882922a67a91450d03b59b.png" alt="Cover for Lego My Ego" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Mercury Rev</td>
@@ -757,7 +758,7 @@ Buffalo represents the eclectic musical output from Buffalo, New York, spanning 
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/7Tgm3tNPRdekh3D9E2k1P6b5wTcKXTSlJqXLpiq9iMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTQ1/OTAtMTQxNDMwMTIw/Ni0xNDE2LmpwZWc.jpeg" alt="Cover for Full Service, No Waiting" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ef0e67eeeba45129a90c7f1c22570eb.png" alt="Cover for Full Service, No Waiting" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Peter Case</td>
@@ -815,7 +816,7 @@ Buffalo represents the eclectic musical output from Buffalo, New York, spanning 
       <td>
         <ul>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 42</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 59</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 42</li>
             <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 67</li>
             <li> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a> # 86</li>
         </ul>
@@ -904,7 +905,7 @@ Buffalo represents the eclectic musical output from Buffalo, New York, spanning 
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/Hu_0dvGVeOfex4abUvWhwk8bIslZSXOnMCYRVcUkj1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NjUx/My0xNDM3OTIzMjY5/LTE4MTIuanBlZw.jpeg" alt="Cover for Black Session" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/869ec12c26868fa663a0f5d4888f46ce.png" alt="Cover for Black Session" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Mercury Rev</td>
@@ -1006,7 +1007,7 @@ Buffalo represents the eclectic musical output from Buffalo, New York, spanning 
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/jjrmc2tXwXEjKxj5In1_a2ShwXGv13tAj7GG6IwLaI4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTY1/MjMtMTMyNDQ4MDkz/OC5qcGVn.jpeg" alt="Cover for Flying Saucer Blues" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/577ca1fa8e7849da90b54a249f6c9aad.png" alt="Cover for Flying Saucer Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-04-18</td>
       <td>Peter Case</td>
@@ -1130,7 +1131,7 @@ Buffalo represents the eclectic musical output from Buffalo, New York, spanning 
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/32bDX_3puGj8fNuFdbAWQGPKZMtTaGOfb7kYJpG8qkU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjI2/My0xNDc0OTQ4MzEy/LTgzMTgucG5n.jpeg" alt="Cover for So Much Shouting, So Much Laughter (disc 2: Girls Singing Night)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79e4ee58eaca417eb9271e521485ec12.png" alt="Cover for So Much Shouting, So Much Laughter (disc 2: Girls Singing Night)" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Ani DiFranco</td>
@@ -1462,7 +1463,6 @@ Buffalo represents the eclectic musical output from Buffalo, New York, spanning 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 1</li>
             <li> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a> # 48</li>
         </ul>
       </td>
@@ -1563,7 +1563,7 @@ Buffalo represents the eclectic musical output from Buffalo, New York, spanning 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 79</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 80</li>
             <li> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a> # 99</li>
         </ul>
       </td>
@@ -1832,7 +1832,7 @@ Buffalo represents the eclectic musical output from Buffalo, New York, spanning 
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/e_FGKeVbRUGB53qA4FojXP-iEOHsu_Hprr68a4F9f-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDgz/NTc2LTE2ODc2Mzg5/MDMtMzIyMi5wbmc.jpeg" alt="Cover for CLOCKWORK" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/899a167441153ccebe37f71b9b470523.png" alt="Cover for CLOCKWORK" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-05-30</td>
       <td>Tranquility Room</td>
@@ -2016,6 +2016,7 @@ Buffalo represents the eclectic musical output from Buffalo, New York, spanning 
     <tr>
       <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db3a4bf730f07a7929e0225aca6ea837.png" alt="Cover for For Those Who Cared" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Quit Yourself</td>
@@ -2053,6 +2054,7 @@ Buffalo represents the eclectic musical output from Buffalo, New York, spanning 
     <tr>
       <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6725f08e5bcd694fb681a7c0090fa48d.png" alt="Cover for Get Better" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Quit Yourself</td>
@@ -2078,8 +2080,8 @@ Buffalo represents the eclectic musical output from Buffalo, New York, spanning 
 - [western new york]({{ "/tags/western-new-york" | relative_url }})
 - [new york]({{ "/tags/new-york" | relative_url }})
 - [rock]({{ "/tags/rock" | relative_url }})
-- [smooth jazz]({{ "/tags/smooth-jazz" | relative_url }})
 - [rap]({{ "/tags/rap" | relative_url }})
+- [smooth jazz]({{ "/tags/smooth-jazz" | relative_url }})
 - [lgbt]({{ "/tags/lgbt" | relative_url }})
 - [hip-hop]({{ "/tags/hip-hop" | relative_url }})
 - [hardcore]({{ "/tags/hardcore" | relative_url }})

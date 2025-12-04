@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T13:36:38.176Z
+date: 2025-12-04T04:35:11.498Z
 permalink: tags/czech
 title: czech
 ---
 
 ## czech
 
-Last updated: <time datetime="2025-10-28T13:36:38.176Z">Tue Oct 28 2025 15:36:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:35:11.498Z">Thu Dec 04 2025 06:35:11 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,15 +43,16 @@ Czech music encompasses the rich classical tradition of Bohemia and Moravia, cha
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 4</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 9</li>
             <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 86</li>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 92</li>
-            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/302b31702529fa17ec79ab1cd29fe11d.png" alt="Cover for Bratříčku, zavírej vrátka" style="max-width:120px; height:auto;" />
       </td>
       <td>1969-03-23</td>
       <td>Karel Kryl</td>
@@ -119,7 +120,7 @@ Czech music encompasses the rich classical tradition of Bohemia and Moravia, cha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 52</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -240,7 +241,7 @@ Czech music encompasses the rich classical tradition of Bohemia and Moravia, cha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pub-rock" | relative_url }}">pub rock</a> # 78</li>
+            <li> <a href="{{ "/tags/pub-rock" | relative_url }}">pub rock</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -445,6 +446,7 @@ Czech music encompasses the rich classical tradition of Bohemia and Moravia, cha
     <tr>
       <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f20f2e1a52944163b30040f0ef420f6d.png" alt="Cover for Divné století" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Jaromír Nohavica</td>
@@ -480,6 +482,7 @@ Czech music encompasses the rich classical tradition of Bohemia and Moravia, cha
     <tr>
       <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/418a99fb31ad45ba8615d94ae2cb6bc7.png" alt="Cover for そらの庭" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-10-22</td>
       <td>新居昭乃</td>
@@ -518,15 +521,15 @@ Czech music encompasses the rich classical tradition of Bohemia and Moravia, cha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 13</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 30</li>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 35</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 49</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 57</li>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 69</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 70</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 76</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 78</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 12</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 22</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 25</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 32</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 32</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 56</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 58</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 66</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -552,7 +555,7 @@ Czech music encompasses the rich classical tradition of Bohemia and Moravia, cha
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/ikxn4ijltjuOx-oOXubTZkgLrJ6TpjCZfSu2zxZ3aEw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODMz/OTItMTE5NjQxMzI3/MC5qcGVn.jpeg" alt="Cover for Kapradi" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d87d3853d4c6fd5ff55bf7cd7ed7bdb1.png" alt="Cover for Kapradi" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-11-22</td>
       <td>Buty</td>
@@ -560,6 +563,7 @@ Czech music encompasses the rich classical tradition of Bohemia and Moravia, cha
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/czech" | relative_url }}">czech</a></li>
+            <li style="font-size: calc(1rem * 91 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
         </ul>
       </td>
       <td>
@@ -583,14 +587,14 @@ Czech music encompasses the rich classical tradition of Bohemia and Moravia, cha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 48</li>
+            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/vUcmrn1j7kFqPOfoIpW-bevOkx1rVZfUoVovW1zzZRY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODg3/NjIyLTE1NjMzNTY1/MTctNTAyMi5wbmc.jpeg" alt="Cover for Space" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bb21b6480d1b2ffbbf8dce54592e69e8.png" alt="Cover for Space" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Earth</td>
@@ -700,18 +704,18 @@ Czech music encompasses the rich classical tradition of Bohemia and Moravia, cha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 26</li>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 31</li>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 50</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 54</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 6</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 17</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 19</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 22</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 24</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 27</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 43</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 51</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 57</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 58</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 62</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 69</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 73</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 78</li>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 79</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 82</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 83</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -738,6 +742,7 @@ Czech music encompasses the rich classical tradition of Bohemia and Moravia, cha
     <tr>
       <td>20</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5aa50c964214b7da070a78f4459ffdf.png" alt="Cover for Normale" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Buty</td>
@@ -760,7 +765,7 @@ Czech music encompasses the rich classical tradition of Bohemia and Moravia, cha
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/v6_Ffwr3Cnal1EFAKbWlaV-k5JEMP0Nj4cO4_vg8wbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTQ1/MC0xMjMxMzM4MzQx/LmpwZWc.jpeg" alt="Cover for Vlny" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c0116388b064e39944422e9cd01fa9b.png" alt="Cover for Vlny" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Ready Kirken</td>
@@ -813,7 +818,7 @@ Czech music encompasses the rich classical tradition of Bohemia and Moravia, cha
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/3X-kihyT2ASltiB5Swou5i4KcUyBIgUV7-DDDhUgYEQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDg5/NzYtMTI1NjU2NzA5/OS5qcGVn.jpeg" alt="Cover for Brutalni Vsechno" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc9a6d8d6eba51609276d00b348b051b.png" alt="Cover for Brutalni Vsechno" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Vypsaná Fixa</td>
@@ -833,6 +838,7 @@ Czech music encompasses the rich classical tradition of Bohemia and Moravia, cha
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/796b72a1fd1e2391e4d67da833a831c6.png" alt="Cover for Brutální všechno" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Vypsaná Fixa</td>
@@ -852,6 +858,7 @@ Czech music encompasses the rich classical tradition of Bohemia and Moravia, cha
     <tr>
       <td>27</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7d284aa3af09b798297ed4b34f34a344.png" alt="Cover for Piosenki Do Snu" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-10-05</td>
       <td>Tara Fuki</td>
@@ -943,6 +950,7 @@ Czech music encompasses the rich classical tradition of Bohemia and Moravia, cha
     <tr>
       <td>12</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d988c9edb59481d975babce1c3eeea0.png" alt="Cover for Trnkostroj" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Fleret</td>
@@ -1048,6 +1056,7 @@ Czech music encompasses the rich classical tradition of Bohemia and Moravia, cha
     <tr>
       <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/57a7ad19a29f9248a3ea7411b193a5cc.png" alt="Cover for Bohemian Winter" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-05-10</td>
       <td>Beltaine</td>
@@ -1060,7 +1069,7 @@ Czech music encompasses the rich classical tradition of Bohemia and Moravia, cha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 92</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1163,6 +1172,7 @@ Czech music encompasses the rich classical tradition of Bohemia and Moravia, cha
     <tr>
       <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cdda5a38158447e3b7e9fc509131ff33.png" alt="Cover for Urbanica" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-03</td>
       <td>Skyline</td>
@@ -1184,7 +1194,7 @@ Czech music encompasses the rich classical tradition of Bohemia and Moravia, cha
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/T74U2Y-Hriv89WIwQfHV7dOqOxTrtKBgA1aEve912HI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNDM5/MC0xMTUxNzM3ODgy/LmpwZWc.jpeg" alt="Cover for Nice Traps" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/77dc7ab816714677a5c29485f9c31951.png" alt="Cover for Nice Traps" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-04-23</td>
       <td>Khoiba</td>
@@ -1260,6 +1270,7 @@ Czech music encompasses the rich classical tradition of Bohemia and Moravia, cha
     <tr>
       <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f82888a6d92d457997d90e1a39b11e7f.png" alt="Cover for V hoře" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-04-10</td>
       <td>Radůza</td>
@@ -1408,7 +1419,7 @@ Czech music encompasses the rich classical tradition of Bohemia and Moravia, cha
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/DqDoThnKORq4vckqNFswXO93zVueCXCagHLdKhxy68I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2Mzgx/MTAtMTY3NjkxMDE0/NS01NjM3LmpwZWc.jpeg" alt="Cover for Arms Down" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/528866a4c3b640068c858d2fbd5f5bcc.png" alt="Cover for Arms Down" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-06-05</td>
       <td>Get Him Eat Him</td>
@@ -1487,15 +1498,15 @@ Czech music encompasses the rich classical tradition of Bohemia and Moravia, cha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 4</li>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 10</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 26</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 30</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 53</li>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 55</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 61</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 66</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 87</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 6</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 14</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 29</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 34</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 36</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 40</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 45</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 49</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1515,7 +1526,7 @@ Czech music encompasses the rich classical tradition of Bohemia and Moravia, cha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 75</li>
+            <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1582,6 +1593,7 @@ Czech music encompasses the rich classical tradition of Bohemia and Moravia, cha
     <tr>
       <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91f401d74e7d4527b0c0218de87204dd.png" alt="Cover for Karmageddon" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Sunshine</td>
@@ -1619,6 +1631,7 @@ Czech music encompasses the rich classical tradition of Bohemia and Moravia, cha
     <tr>
       <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c451437443f41d2949884fa2780a8b6.png" alt="Cover for Racek" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-09-23</td>
       <td>Tomáš Klus</td>
@@ -1638,6 +1651,7 @@ Czech music encompasses the rich classical tradition of Bohemia and Moravia, cha
     <tr>
       <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c8bdeaf35094e228b546df4fc5acc30.png" alt="Cover for Baromantika" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-12</td>
       <td>Lenka Dusilová</td>
@@ -1675,6 +1689,7 @@ Czech music encompasses the rich classical tradition of Bohemia and Moravia, cha
     <tr>
       <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6e0462ea3bd34057ad010471bcfa1c8d.png" alt="Cover for Čtyři slunce" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03-08</td>
       <td>Vypsaná Fixa</td>
@@ -1694,6 +1709,7 @@ Czech music encompasses the rich classical tradition of Bohemia and Moravia, cha
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7e9aa098af6216d67597ff2d9a5e192.png" alt="Cover for Soundtrack ke konci světa" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-22</td>
       <td>Zrní</td>
@@ -1745,6 +1761,7 @@ Czech music encompasses the rich classical tradition of Bohemia and Moravia, cha
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1765,14 +1782,14 @@ Czech music encompasses the rich classical tradition of Bohemia and Moravia, cha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 18</li>
+            <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/dLJUX9v7ZI4Fm-VbDjioikc-a_z7iKF0cVhLxfLrdsM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMDM2/OTQtMTQ1ODk4OTMx/NS02MTkwLmpwZWc.jpeg" alt="Cover for Samorost 3 Soundtrack" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2257982829a7503befbaf28d90b8a235.png" alt="Cover for Samorost 3 Soundtrack" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-03-24</td>
       <td>Floex</td>
@@ -1790,14 +1807,14 @@ Czech music encompasses the rich classical tradition of Bohemia and Moravia, cha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 73</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/BNKcXkcBOSmSqKkbWw5KrHAJvRXBCVVpCZn6yr8Rjrc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjAz/MDMzLTE1MTE3ODc5/NjYtNTM0MC5qcGVn.jpeg" alt="Cover for Vlasy (Prodlouzene)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/611077675cf6d3794ba65b6d7adfd03c.png" alt="Cover for Vlasy (Prodlouzene)" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Pokáč</td>
@@ -1818,7 +1835,7 @@ Czech music encompasses the rich classical tradition of Bohemia and Moravia, cha
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/TpnQvrcUoVJNgYDcsYXdK9-6EWSrY42anhWqHAnjMBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NzQ0/NTQtMTUzMDgxOTc0/Ni0yMDE4LmpwZWc.jpeg" alt="Cover for Eskalace Dobra" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc25e384de6cbb2427ad725cb9b69329.png" alt="Cover for Eskalace Dobra" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-03-10</td>
       <td>J.A.R.</td>
@@ -1837,7 +1854,7 @@ Czech music encompasses the rich classical tradition of Bohemia and Moravia, cha
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/pmTymsERdBOE9H5V8bGZkIsli7mQ0p7i-uOAAx--l5E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDU4/NjI0LTE1NjcwMjEy/MjUtOTAxNC5qcGVn.jpeg" alt="Cover for Sugar House" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8a9cb34fc1415be5f32ec786becafa0e.png" alt="Cover for Sugar House" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-09-01</td>
       <td>Skywalker</td>
@@ -1859,7 +1876,7 @@ Czech music encompasses the rich classical tradition of Bohemia and Moravia, cha
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/e7YECuZg80-GvKyLXZ5oERsC-T97zdI-Sz7cajmmMtg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODkw/MTk2LTE1MjQyMDg4/MDMtMTQ2Mi5qcGVn.jpeg" alt="Cover for Restart" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4863169d6baa9290880f40bf28480eec.png" alt="Cover for Restart" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-04-20</td>
       <td>Rest</td>
@@ -1970,7 +1987,7 @@ Czech music encompasses the rich classical tradition of Bohemia and Moravia, cha
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/DzekvBH-haXXaAdLbPdqBJMFdUQiWgy1YxOCYtO-6IA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDk4/MTM2LTE2MTk2MjE3/NzQtMzkyMS5qcGVn.jpeg" alt="Cover for Make Arcade Great Again" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9a68540b9769ab0440df5f580ca02e5.png" alt="Cover for Make Arcade Great Again" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-04-16</td>
       <td>Krang</td>
@@ -1990,7 +2007,7 @@ Czech music encompasses the rich classical tradition of Bohemia and Moravia, cha
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/OIsJiL8KhdwpeTon9-gie_DDhGs_19EvLdQPU2-tnkk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mzc2/OTE2LTE2MDc5NjAy/ODUtNDA1Ny5qcGVn.jpeg" alt="Cover for Chimera Pt. 3: Snake" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/892d0d87c23006938bd6ca4af46e8278.png" alt="Cover for Chimera Pt. 3: Snake" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-12-15</td>
       <td>Smack</td>
@@ -2010,7 +2027,7 @@ Czech music encompasses the rich classical tradition of Bohemia and Moravia, cha
     <tr>
       <td>10</td>
       <td>
-          <img src="https://i.discogs.com/Os8UPnglpPTzWubR9LMTrViNfj3wzZALO81ugvCvOHI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTg4/MjAzLTE3MDUxNDY3/NjYtNTUzOS5qcGVn.jpeg" alt="Cover for O tatínkovi, který usnul" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f435f311a57424dd2afaeb9447a26387.png" alt="Cover for O tatínkovi, který usnul" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>MC Gey</td>

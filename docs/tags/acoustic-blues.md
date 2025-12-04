@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T11:59:42.208Z
+date: 2025-12-04T04:34:20.806Z
 permalink: tags/acoustic-blues
 title: acoustic blues
 ---
 
 ## acoustic blues
 
-Last updated: <time datetime="2025-11-23T11:59:42.208Z">Sun Nov 23 2025 13:59:42 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:34:20.806Z">Thu Dec 04 2025 06:34:20 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -118,7 +118,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 56</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -230,8 +230,8 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 18</li>
-            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 38</li>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 39</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -267,7 +267,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 87</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -322,8 +322,8 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 48</li>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 78</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 23</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -344,7 +344,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 34</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -366,7 +366,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 84</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -384,8 +384,8 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 5</li>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 80</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -501,8 +501,8 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 18</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 40</li>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 20</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -522,7 +522,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 58</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -726,7 +726,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 74</li>
+            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -789,11 +789,11 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 9</li>
-            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 20</li>
-            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 25</li>
-            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 26</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 47</li>
+            <li> <a href="{{ "/tags/electric-blues" | relative_url }}">electric blues</a> # 28</li>
+            <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 29</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 55</li>
+            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 80</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -854,7 +854,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 78</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -931,8 +931,8 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 37</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 66</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 35</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -984,7 +984,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 6</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1009,6 +1009,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f401b0d676b333f01ba7352ae364e777.png" alt="Cover for Prodigal Son: The Collection" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Sonny Landreth</td>
@@ -1041,7 +1042,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 23</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1067,9 +1068,9 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 27</li>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 27</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 59</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 42</li>
+            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 72</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1147,8 +1148,8 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 94</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 96</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 5</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1212,7 +1213,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 22</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 79</li>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 91</li>
         </ul>
       </td>
@@ -1274,7 +1275,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 65</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1295,7 +1296,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 38</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1349,9 +1350,9 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 38</li>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 41</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 68</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 33</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 59</li>
+            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1377,9 +1378,9 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 40</li>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 42</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 73</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 28</li>
+            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 58</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1425,8 +1426,8 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 3</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 32</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 69</li>
+            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1447,7 +1448,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 30</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1490,8 +1491,8 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 44</li>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 50</li>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 51</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1511,7 +1512,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 3</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 96</li>
             <li> <a href="{{ "/tags/traditional-jazz" | relative_url }}">traditional jazz</a> # 100</li>
         </ul>
       </td>
@@ -1542,12 +1543,12 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 31</li>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 33</li>
-            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 50</li>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 63</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 78</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 82</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 19</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 23</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 38</li>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 49</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 68</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1595,9 +1596,9 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 24</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 4</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 72</li>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 92</li>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1623,7 +1624,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 89</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1649,9 +1650,9 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 36</li>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 40</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 67</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 34</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 60</li>
+            <li> <a href="{{ "/tags/memphis" | relative_url }}">memphis</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1671,7 +1672,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 85</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1696,7 +1697,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 43</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1720,8 +1721,8 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 40</li>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 75</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 26</li>
+            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1745,9 +1746,9 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 1</li>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 4</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 41</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 61</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 97</li>
+            <li> <a href="{{ "/tags/netherlands" | relative_url }}">netherlands</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1829,13 +1830,13 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 11</li>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 24</li>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 44</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 52</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 57</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 44</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 45</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 49</li>
             <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 64</li>
             <li> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a> # 65</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 76</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1886,12 +1887,12 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 27</li>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 28</li>
-            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 48</li>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 60</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 75</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 81</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 20</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 26</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 41</li>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 51</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 73</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1999,7 +2000,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 17</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -2019,7 +2020,7 @@ Acoustic blues strips the genre down to its raw essence, featuring solo performe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 56</li>
+            <li> <a href="{{ "/tags/delta-blues" | relative_url }}">delta blues</a> # 45</li>
         </ul>
       </td>
     </tr>

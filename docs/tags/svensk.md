@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-21T03:18:19.502Z
+date: 2025-12-04T04:33:35.090Z
 permalink: tags/svensk
 title: svensk
 ---
 
 ## svensk
 
-Last updated: <time datetime="2025-10-21T03:18:19.502Z">Tue Oct 21 2025 06:18:19 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T04:33:35.090Z">Thu Dec 04 2025 06:33:35 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -180,7 +180,7 @@ Svensk refers to music sung in Swedish or created by Swedish artists, encompassi
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/5E0U2G7lZzgUzY8Nsfj4mOdaLcIjJjzd-x9yo--0VCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzk0/MTEtMTI3NDA4OTMz/MS5qcGVn.jpeg" alt="Cover for Johansen" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4340afb2b93bdfa9e8649b0101336bf5.png" alt="Cover for Johansen" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-09-30</td>
       <td>Jan Johansen</td>
@@ -194,14 +194,14 @@ Svensk refers to music sung in Swedish or created by Swedish artists, encompassi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 17</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>19</td>
       <td>
-          <img src="https://i.discogs.com/q5Zt3bK1GgaR0mWOBx7FUMR2blqgiiDywbEkwSFJg_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjc0/NS0xNTIzMTY3MjI1/LTMyMjAuanBlZw.jpeg" alt="Cover for A Motorised Mind" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c4aa1dd388e41d08a092d2fa6cfe29e.png" alt="Cover for A Motorised Mind" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>The November Commandment</td>
@@ -217,14 +217,14 @@ Svensk refers to music sung in Swedish or created by Swedish artists, encompassi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 3</li>
+            <li> <a href="{{ "/tags/old-school-ebm" | relative_url }}">old school ebm</a> # 5</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>4</td>
       <td>
-          <img src="https://i.discogs.com/KWtgwJMxabofhHSXzoSmk9l77aVFjnFHhnhbe5sBHek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTIz/Ny0xNjQyNTQ0NDc5/LTQ2MjcuanBlZw.jpeg" alt="Cover for This Shit Sounds Like A Stonecrusher E.P." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b9001f91f63f70b4234f188b5bc1e29.png" alt="Cover for This Shit Sounds Like A Stonecrusher E.P." style="max-width:120px; height:auto;" />
       </td>
       <td>1999-09-28</td>
       <td>X-Core</td>
@@ -264,7 +264,7 @@ Svensk refers to music sung in Swedish or created by Swedish artists, encompassi
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/hYEeQtVrZjo75ITsGME-MIqaAM4LdylNmABr4ae6y7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTk0/My0xMTA1ODY3Njc0/LmpwZw.jpeg" alt="Cover for Depth Charge" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/879b977b0b3046b839b91b340a38ae34.png" alt="Cover for Depth Charge" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Smersh</td>
@@ -285,7 +285,7 @@ Svensk refers to music sung in Swedish or created by Swedish artists, encompassi
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/HmQ7eJEPoPLaAPNNF2jXzwUswM-tRQba4StQtPwKF0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODU2/LTEzOTg5NjA4ODYt/Njg4Ny5qcGVn.jpeg" alt="Cover for Brap (Back &amp; Forth Vol. 3 &amp; 4)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/368eec55d949a1a3e101443794f8d19c.png" alt="Cover for Brap (Back &amp; Forth Vol. 3 &amp; 4)" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Skinny Puppy</td>
@@ -306,7 +306,7 @@ Svensk refers to music sung in Swedish or created by Swedish artists, encompassi
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/AYzBI0mUmhnWNaEZ22RkSnz4JFGG21ph9CtKfjt4Mfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjM0/MzEtMTQxNjQ2NTg5/NS0xMzYyLmpwZWc.jpeg" alt="Cover for Efterlyst" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e2ed0fe827843bf940593c4970e832b.png" alt="Cover for Efterlyst" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Barbados</td>
@@ -362,7 +362,7 @@ Svensk refers to music sung in Swedish or created by Swedish artists, encompassi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 69</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -406,6 +406,7 @@ Svensk refers to music sung in Swedish or created by Swedish artists, encompassi
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bffa2a88a33e65c7f91101a39f981b32.png" alt="Cover for Det Gör Ont En Stund På Natten Men Inget På Dan" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-08-04</td>
       <td>Lena Philipsson</td>
@@ -419,14 +420,14 @@ Svensk refers to music sung in Swedish or created by Swedish artists, encompassi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 35</li>
+            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/3IDhU5-hjBa1Sw0ourDtSSgrqFc81EDtIxX4zZ9-_rY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MzA5/MS0xMjY1MDI1NTg2/LmpwZWc.jpeg" alt="Cover for Pure Open Source Code" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4681a4c29154464c4c0057fc7e7985c.png" alt="Cover for Pure Open Source Code" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Klorex55</td>
@@ -447,7 +448,7 @@ Svensk refers to music sung in Swedish or created by Swedish artists, encompassi
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/__hMXs25dHyDKlUjF9r5yt1CXXXS35Uvz38pdZ5MaQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzAx/My0xMzAyMjEzMzQ1/LmpwZWc.jpeg" alt="Cover for Ease" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbbab889bb1d6652dc669d4fbdfc9071.png" alt="Cover for Ease" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Mokira</td>
@@ -531,7 +532,7 @@ Svensk refers to music sung in Swedish or created by Swedish artists, encompassi
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/tYzDRad1fUIu1K6HVhfBm14r5Mt394nZYbQ0Ip6R0HI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDky/MDYtMTQ5NzUzMTMw/MS0xNzEwLmpwZWc.jpeg" alt="Cover for Stjärnorna Finns Här" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/438e8a7d982e4e40b61cb047b11785dd.png" alt="Cover for Stjärnorna Finns Här" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-06-15</td>
       <td>Kapten Röd</td>
@@ -609,7 +610,7 @@ Svensk refers to music sung in Swedish or created by Swedish artists, encompassi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 28</li>
+            <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 74</li>
             <li> <a href="{{ "/tags/sverige" | relative_url }}">sverige</a> # 81</li>
         </ul>
       </td>
@@ -617,7 +618,7 @@ Svensk refers to music sung in Swedish or created by Swedish artists, encompassi
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/TptTN2WOgPsjqHxJLNl631tAULzrVvxD0PLmKKTrC9g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzU0/NTItMTMwOTk3ODA5/NS5qcGVn.jpeg" alt="Cover for Tallriksmodellen" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2cfd324d8f5375dc4947d21dbca9a657.png" alt="Cover for Tallriksmodellen" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Tungviktarna</td>
@@ -676,7 +677,7 @@ Svensk refers to music sung in Swedish or created by Swedish artists, encompassi
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/mPfGR7rz1-lLeWaTvk09xr-_HG3YCBRHTykeOx83U2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDcy/NzUtMTM4MzQ0MjQ2/MC04MjIwLmpwZWc.jpeg" alt="Cover for I´m in love" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/97d683180a6c4e0090a481bab1611fe2.png" alt="Cover for I´m in love" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-02-26</td>
       <td>Sanna Nielsen</td>
@@ -697,6 +698,7 @@ Svensk refers to music sung in Swedish or created by Swedish artists, encompassi
     <tr>
       <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f230362309e4591b93eb5b475757d90.png" alt="Cover for Cuba Libre" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-08</td>
       <td>Lasse Stefanz</td>
@@ -718,7 +720,7 @@ Svensk refers to music sung in Swedish or created by Swedish artists, encompassi
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/lGPREXFFzjRZkdNoyWBPXPA9Parxn8v4p0VJXhqpa9E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDQ5/NTItMTU4MDU2OTQw/NS00MjAxLmpwZWc.jpeg" alt="Cover for TxN" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b34285b2ae44137bba31f39282ff1ad.png" alt="Cover for TxN" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-07</td>
       <td>Ectoplasm Girls</td>
@@ -779,7 +781,6 @@ Svensk refers to music sung in Swedish or created by Swedish artists, encompassi
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/X5ZeWrjlyn1rewJgaphPb6n9A--_JAZlL7H-cMDX2no/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDUx/MTctMTQyMjkyOTMx/Ni02MjQ5LmpwZWc.jpeg" alt="Cover for Utan dina andetag" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Canyons</td>
@@ -795,7 +796,7 @@ Svensk refers to music sung in Swedish or created by Swedish artists, encompassi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sverige" | relative_url }}">sverige</a> # 10</li>
+            <li> <a href="{{ "/tags/sverige" | relative_url }}">sverige</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -821,7 +822,7 @@ Svensk refers to music sung in Swedish or created by Swedish artists, encompassi
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/anuJFwIxPtHi9CBmKEdrooyH_dLkjvZQmFAXjvWX_QI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMDcy/NjQtMTM2MTMwMzIy/Mi05OTM3LmpwZWc.jpeg" alt="Cover for Semien Terara" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/545cc84e7f1f484bc99187a2ac7853c9.png" alt="Cover for Semien Terara" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-02-25</td>
       <td>Abdulla Rashim</td>
@@ -1017,7 +1018,7 @@ Svensk refers to music sung in Swedish or created by Swedish artists, encompassi
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/ASbrZ4779EYSeNFeMo16-fP_l2qFV-TFO2u6C1XxQZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzA3/NjItMTQzNjcwMzcw/MS0xNDg3LmpwZWc.jpeg" alt="Cover for Hymenoptera" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b2127d5c0a0a4f98bfd26c8372c1ad50.png" alt="Cover for Hymenoptera" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-06-15</td>
       <td>Embrionyc</td>
@@ -1062,7 +1063,7 @@ Svensk refers to music sung in Swedish or created by Swedish artists, encompassi
     <tr>
       <td>7</td>
       <td>
-          <img src="https://i.discogs.com/zjAASNrmJ1y6HJ-V6U2nUk1mMVA6Ivf8QoCIckaVI1A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Nzc2/MDEtMTQ0NjUyNjY5/OC01ODM2LmpwZWc.jpeg" alt="Cover for Right After Midnight" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/95727374bcf8a962922a5ca6914c29c4.png" alt="Cover for Right After Midnight" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-10-30</td>
       <td>14Anger</td>
@@ -1123,7 +1124,7 @@ Svensk refers to music sung in Swedish or created by Swedish artists, encompassi
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/eWQVwMZXqnHgliQ9PpVJfvixvFcALEffOnijVabgphw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MjY5/MzktMTQ2NTkxOTE5/OS00NjQzLmpwZWc.jpeg" alt="Cover for Acidub" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/05a207ffe3ff887310b1be9c1d77aafd.png" alt="Cover for Acidub" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-05-02</td>
       <td>TM404</td>
@@ -1145,7 +1146,7 @@ Svensk refers to music sung in Swedish or created by Swedish artists, encompassi
     <tr>
       <td>12</td>
       <td>
-          <img src="https://i.discogs.com/jQPMjgQiydwBNUoZ0Mo4FOh-IDRZFMN-zC0H9MMVy0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTk3/NzMtMTQ2NDg1ODk5/MC0yMzEzLmpwZWc.jpeg" alt="Cover for Historical Obsession" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5713b7980bc660886cf41b37e4d067fe.png" alt="Cover for Historical Obsession" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-06-03</td>
       <td>Arrhythmia</td>
@@ -1446,7 +1447,7 @@ Svensk refers to music sung in Swedish or created by Swedish artists, encompassi
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/kbRjG4o4Fuyr4hT0wQHFVxVyF6cf8hNL9FmZSxKoqZw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDQ5/NDY4LTE1NTUwMDE1/NjUtMjI3NS5qcGVn.jpeg" alt="Cover for Septic Shock" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/607f6c7a26d2320f98392de0fef7c775.png" alt="Cover for Septic Shock" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-04-08</td>
       <td>Majestoluxe</td>
@@ -1486,7 +1487,7 @@ Svensk refers to music sung in Swedish or created by Swedish artists, encompassi
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/i5IoouBWIAhRXLZf2xInEOjPgnOcSmAA8nMfN22qv1Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTY5/ODkwLTE1NTY3MDY4/NzMtODIyMS5qcGVn.jpeg" alt="Cover for Irma Infekt" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/93f14b070f90ffbabddf8eecfd7b7de2.png" alt="Cover for Irma Infekt" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-05-13</td>
       <td>piska power</td>
@@ -1583,7 +1584,7 @@ Svensk refers to music sung in Swedish or created by Swedish artists, encompassi
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/uFqdcy7ZxKhIovZS7j7CqKzgOLiNo22v0iMG3Jo9Vh8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjIw/NjAzLTE1ODgyODUz/NzAtODI2NS5qcGVn.jpeg" alt="Cover for Third Party Damages" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ab71ea0c6cfe77ad41081b1cef9b4cd.png" alt="Cover for Third Party Damages" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-05-01</td>
       <td>Majestoluxe</td>
@@ -1605,7 +1606,7 @@ Svensk refers to music sung in Swedish or created by Swedish artists, encompassi
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/bZ9arz6l611oC0qckdPFHYeDWCxBcR4WRw-F8qvOAfc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzA5/NTg1LTE1ODk1NDE3/OTgtMjU3MS5qcGVn.jpeg" alt="Cover for Secondary Sanctions" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8904779ce781b23107eedafb7c141818.png" alt="Cover for Secondary Sanctions" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-05-15</td>
       <td>Majestoluxe</td>
@@ -1628,7 +1629,7 @@ Svensk refers to music sung in Swedish or created by Swedish artists, encompassi
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/4oWC7F-x3lyCi-xzB8VKCtfyimJAZflEaX4XuDJS6BA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTIw/NzkyLTE2MDAyMTcz/NDUtNjI5OS5qcGVn.jpeg" alt="Cover for Skaeliptom" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0834fca62a9942d788ed532adae4fc9a.png" alt="Cover for Skaeliptom" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-09-18</td>
       <td>Varg</td>
@@ -1708,7 +1709,7 @@ Svensk refers to music sung in Swedish or created by Swedish artists, encompassi
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/MYX_-hWaKgPcH3S75XKSAU3KRdsNiTqDidrLz-sfyA8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTQ2/OTA3LTE2MTYzNDM0/NDgtNTg0OC5qcGVn.jpeg" alt="Cover for Skräddaren EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/80110556f09ab2336cf6c0383f97fa6b.png" alt="Cover for Skräddaren EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-02-06</td>
       <td>Ragnar Atari</td>
@@ -1968,6 +1969,7 @@ Svensk refers to music sung in Swedish or created by Swedish artists, encompassi
     <tr>
       <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/43bfbf2340ea1c901d02e56fc24b7fb5.png" alt="Cover for Mjöldryga" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>D.Å.R.F.D.H.S.</td>
@@ -2029,6 +2031,7 @@ Svensk refers to music sung in Swedish or created by Swedish artists, encompassi
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b89237cbe3f2a90a560c6a9c4751501.png" alt="Cover for Mörkret, Kylan, Tystnaden &amp; Ensamheten" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>D.Å.R.F.D.H.S.</td>

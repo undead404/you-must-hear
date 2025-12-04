@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T13:37:05.597Z
+date: 2025-12-04T04:35:49.036Z
 permalink: tags/percussion
 title: percussion
 ---
 
 ## percussion
 
-Last updated: <time datetime="2025-10-28T13:37:05.597Z">Tue Oct 28 2025 15:37:05 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:35:49.036Z">Thu Dec 04 2025 06:35:49 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -81,7 +81,7 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 60</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -158,14 +158,14 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 16</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/tqKvQbT7cKttdbhBPT45dBQQ3FeEoHDAz0omKDqNkmw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDE4/MS0xMzIwNzYzNTAw/LmpwZWc.jpeg" alt="Cover for Beating The Retreat" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1fa17e85db33d7ca1a24e387475a38f1.png" alt="Cover for Beating The Retreat" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>Test Dept.</td>
@@ -183,6 +183,7 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
     <tr>
       <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4848f87f9e0f7f8475ec9d8fde5faf74.png" alt="Cover for You Might Be Surprised" style="max-width:120px; height:auto;" />
       </td>
       <td>1985-10-11</td>
       <td>Roy Ayers</td>
@@ -202,6 +203,7 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
     <tr>
       <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b17dd09646cd49ed88d521469ac27f1c.png" alt="Cover for The Unacceptable Face Of Freedom" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Test Dept.</td>
@@ -230,14 +232,14 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 51</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 55</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>21</td>
       <td>
-          <img src="https://i.discogs.com/pM9zs2Hoko9xuvK7PrhUauZRYuE0Vg7RKESmYbIc5AM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDE4/Mi0xNDAwNTExNzY0/LTE2MzMuanBlZw.jpeg" alt="Cover for Terra Firma" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa468087f38fca34340648c8ab00f5d3.png" alt="Cover for Terra Firma" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Test Dept.</td>
@@ -278,7 +280,7 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/jjJ9tgarOHud2_94DjzeCBq9RiBMD5g-Nkp9fmyyI4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTUy/NS0xNDkyMjI4ODA0/LTUyMjYuanBlZw.jpeg" alt="Cover for What So Ever Thy Hand Findeth - Do It With All Thine Might" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2b6ad280a955cb7d04bca81a610baa02.png" alt="Cover for What So Ever Thy Hand Findeth - Do It With All Thine Might" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Crash Worship</td>
@@ -324,7 +326,7 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/PFByN_Bsxin7cjv19OnlijSzpklD9heVAvOjofyAGDU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTE5/ODAtMTM5OTk1ODQ5/OS0yNjQ0LmpwZWc.jpeg" alt="Cover for Afro Roots" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/09107a52194f83cb00b742a15d5597ec.png" alt="Cover for Afro Roots" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Mongo Santamaria</td>
@@ -338,7 +340,7 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 70</li>
+            <li> <a href="{{ "/tags/afro-cuban" | relative_url }}">afro-cuban</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -387,6 +389,7 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
     <tr>
       <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8810b0f19f505bff02b06822353e2d81.png" alt="Cover for Ramana" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Glen Velez</td>
@@ -405,7 +408,7 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
     <tr>
       <td>17</td>
       <td>
-          <img src="https://i.discogs.com/nTHuftI0vN5u8sKTuy_PFA8BxHo8tss3Ly1npQ9Gu-o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDEz/Mi0xNjQ3Nzg0ODUw/LTUyODMucG5n.jpeg" alt="Cover for Atonal &amp; Hamburg &quot;Live&quot;" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ce8c9b4938fe1523f8c2f0dca7b2bf5.png" alt="Cover for Atonal &amp; Hamburg &quot;Live&quot;" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Test Dept.</td>
@@ -431,8 +434,6 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
       <td>When I Woke</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
         </ul>
       </td>
       <td>
@@ -483,7 +484,7 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 3</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 2</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 15</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 29</li>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 32</li>
@@ -601,7 +602,7 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 53</li>
+            <li> <a href="{{ "/tags/turkish" | relative_url }}">turkish</a> # 48</li>
             <li> <a href="{{ "/tags/turkey" | relative_url }}">turkey</a> # 92</li>
         </ul>
       </td>
@@ -657,12 +658,14 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f771d2a4858523440e016e23bc1202d3.png" alt="Cover for Allégresse" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Maria Schneider Orchestra</td>
@@ -682,8 +685,8 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/keyboard" | relative_url }}">keyboard</a> # 18</li>
             <li> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a> # 62</li>
-            <li> <a href="{{ "/tags/keyboard" | relative_url }}">keyboard</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -704,9 +707,9 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 84</li>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 97</li>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 99</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 2</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 4</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 16</li>
             <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 100</li>
         </ul>
       </td>
@@ -748,13 +751,14 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 59</li>
+            <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>60</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/579fe7574ad3cf3ed4b17e84c0153659.png" alt="Cover for Tala Matrix" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-09-12</td>
       <td>Tabla Beat Science</td>
@@ -766,16 +770,16 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 4</li>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 86</li>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 100</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 1</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 14</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/vA_DN5i8CsM8xKiR-x4CKMNjYg3cIiLapJGTMFIcdYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODI3/NzYtMTMyNDEzNzQ3/OS5qcGVn.jpeg" alt="Cover for A Drum Is a Woman" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/136b35820dd77cadaa643df7818c67f9.png" alt="Cover for A Drum Is a Woman" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Duke Ellington</td>
@@ -796,7 +800,7 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/7Df5JJ5pCTvqrvplc5E9lKmoTiEfZc1ylbOL9b3Zljw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDk0/NjQtMTYwMjkzMzE3/OS0zMjQ2LmpwZWc.jpeg" alt="Cover for Episode 2" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d847de0295484ae3abd667b6aa4cc778.png" alt="Cover for Episode 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-06-26</td>
       <td>Safri Duo</td>
@@ -845,7 +849,7 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 5</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -884,7 +888,7 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 34</li>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -909,6 +913,7 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
     <tr>
       <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/efe098e6869e43319d9d453d44a947ee.png" alt="Cover for 3.0" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-09-29</td>
       <td>Safri Duo</td>
@@ -974,10 +979,10 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 66</li>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 77</li>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 77</li>
-            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 87</li>
+            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 13</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 23</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 23</li>
+            <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1004,7 +1009,7 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/EQqJUjWO1LTQN2Ah_gMjs4EotoYOlQeLmQt4yaGBA24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDA0/MzItMTMxNzY0MjU2/Mi5qcGVn.jpeg" alt="Cover for Chegada" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1cb9fd24392946c9a3fa24781f2f9fce.png" alt="Cover for Chegada" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Naná Vasconcelos</td>
@@ -1022,6 +1027,7 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
     <tr>
       <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/54b06380792482c8dce1a006e6f5cb05.png" alt="Cover for Rise" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-09-25</td>
       <td>Anoushka Shankar</td>
@@ -1060,9 +1066,9 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 15</li>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 28</li>
             <li> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a> # 62</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 73</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1088,6 +1094,7 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
     <tr>
       <td>63</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/83fd124ca79984d8da1b90d3a31497b1.png" alt="Cover for Re:sonate" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-01-23</td>
       <td>Pete Namlook &amp; Gaudi</td>
@@ -1105,9 +1112,9 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 42</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 17</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 58</li>
             <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 61</li>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1152,6 +1159,7 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
     <tr>
       <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b591572b96cbe95060e8403412fc0da.png" alt="Cover for Cheval Oblique" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Thomas Belhom</td>
@@ -1173,7 +1181,7 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/WaKDu2bNh8_9h3MaU-mSRfQLFhAgZU7wm9Ga9Y-paAg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzg5/ODUtMTM0ODUzNTYy/Ny04OTM5LmpwZWc.jpeg" alt="Cover for Vapor Trails: The Echoes Living Room Concerts, Vol. 14" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/16873058307f88362cf8bb0ec4aa94e7.png" alt="Cover for Vapor Trails: The Echoes Living Room Concerts, Vol. 14" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Jami Sieber</td>
@@ -1184,8 +1192,8 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 40</li>
             <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 46</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1231,6 +1239,7 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
     <tr>
       <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/74bb6b6d437047f7aee4b07b65e56dd1.png" alt="Cover for Beijing 2008" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-08-04</td>
       <td>NEIZAN</td>
@@ -1284,13 +1293,13 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 2</li>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 25</li>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 33</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 27</li>
             <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 34</li>
             <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 43</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 45</li>
-            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 82</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 56</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 66</li>
+            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 84</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1331,7 +1340,7 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 80</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1354,7 +1363,7 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 45</li>
+            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 56</li>
             <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 62</li>
         </ul>
       </td>
@@ -1362,7 +1371,7 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
     <tr>
       <td>31</td>
       <td>
-          <img src="https://i.discogs.com/6TVsXfYxNEQ4nqPBt_Z0bpNiHCZpWEw1GUK7Vd_4MTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTA5/MjctMTI5NjEyOTkw/NS5qcGVn.jpeg" alt="Cover for Go" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/43268be3b3ca1ac982b523d114089ff8.png" alt="Cover for Go" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-02</td>
       <td>Jónsi</td>
@@ -1374,8 +1383,8 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 40</li>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 81</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 13</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1389,7 +1398,6 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
       <td>IN THE SHADOW OF THE MASTERS</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beethoven" | relative_url }}">beethoven</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a></li>
@@ -1397,7 +1405,6 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beethoven" | relative_url }}">beethoven</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1490,7 +1497,7 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 21</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1541,7 +1548,7 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/Tr159eHqVLahyjK16iQDS20nxmfZqNGHJXJXFMubpx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTMz/MTY4LTE1OTMxNTQ4/NjYtODI3MS5qcGVn.jpeg" alt="Cover for К истокам" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98d7c0be1bdf42d2acb9ba3803f2fbd0.png" alt="Cover for К истокам" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Марлины</td>
@@ -1560,8 +1567,8 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 33</li>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 48</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 50</li>
+            <li> <a href="{{ "/tags/ragga" | relative_url }}">ragga</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1629,7 +1636,7 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/MORCBlTAroQLO-4W72Wteaq4NYa0bpifabwaD1DTBtY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NzEz/NzMtMTQ4NjA5ODMy/Ni00MTg2LmpwZWc.jpeg" alt="Cover for Bazaar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/48ead7000da7d09ad89ff92002ade2b0.png" alt="Cover for Bazaar" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Baast</td>
@@ -1674,7 +1681,7 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/ihWOgtj3BFvQEDxwxgT6ZBseSFFD2z-SjYoQvQak6nM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzQ0/NzYzLTE1OTAwNjMy/NzctODY0My5qcGVn.jpeg" alt="Cover for Vapor Trails: The Echoes Living Room Concerts, Vol. 14" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87c931a8d787b070cc64dff0ceb2a897.png" alt="Cover for Vapor Trails: The Echoes Living Room Concerts, Vol. 14" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-12-26</td>
       <td>Ulrich Schnauss</td>
@@ -1685,8 +1692,8 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 29</li>
             <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 58</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1711,7 +1718,7 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
     <tr>
       <td>2</td>
       <td>
-          <img src="https://i.discogs.com/Clki8eVxfYmoTXbHd6QhsQUtN1mHArMwZATZm9mI61I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY3/ODU5LTE1OTM3NzAz/NzUtNDQwMi5qcGVn.jpeg" alt="Cover for Balafon Sketches" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5caad0b9a02576f9e1d36cd9000fd4a7.png" alt="Cover for Balafon Sketches" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-07-03</td>
       <td>Contours</td>
@@ -1753,7 +1760,7 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 68</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 71</li>
             <li> <a href="{{ "/tags/horn" | relative_url }}">horn</a> # 100</li>
             <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 100</li>
         </ul>
@@ -1762,7 +1769,7 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/cqwjoxZsRWgIfAp53vBuBY_B1RuBDEcu-Kds1EtJJI4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjcw/NjM2LTE2MjQ2MzM5/ODAtNzcwNS5qcGVn.jpeg" alt="Cover for Manbarani" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af9a8d683bbf6ffc8ba606d88f00e591.png" alt="Cover for Manbarani" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-06-10</td>
       <td>Natik Awayez</td>
@@ -1796,7 +1803,7 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 95</li>
+            <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1821,7 +1828,7 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/I46viTjYEL_x19bCrwdGdgtxHSXL-G9biihCdWDrGvA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDkw/MTgzLTE1NzU2ODUy/NTctNTEwNi5qcGVn.jpeg" alt="Cover for MIC ON" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/29df10d0af30db25aae0b2253eda7d18.png" alt="Cover for MIC ON" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-10-11</td>
       <td>MAMAMOO</td>
@@ -1837,9 +1844,9 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 66</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 26</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 90</li>
-            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 98</li>
+            <li> <a href="{{ "/tags/nu-disco" | relative_url }}">nu-disco</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1899,7 +1906,7 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 70</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1919,13 +1926,14 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 49</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 52</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>39</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a570105fb155f9c42387f9ff49da47ae.png" alt="Cover for Kani Sepi" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Kamkars</td>
@@ -1951,6 +1959,7 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
     <tr>
       <td>64</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ce52627dff51369ad55192486a3c076.png" alt="Cover for Chant Of Drums" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>The Kamkars</td>
@@ -1970,8 +1979,8 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
       <td>
         <ul>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 12</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 21</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 42</li>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 41</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 79</li>
             <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 82</li>
             <li> <a href="{{ "/tags/kurdish" | relative_url }}">kurdish</a> # 86</li>
             <li> <a href="{{ "/tags/kurdistan" | relative_url }}">kurdistan</a> # 92</li>
@@ -2017,6 +2026,7 @@ Percussion encompasses music where drums, shakers, bells, and other struck or sh
     <tr>
       <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/718a85a05d9ef03c9233ec20913b7e64.png" alt="Cover for Afro Percussion" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Jonatan Szer</td>

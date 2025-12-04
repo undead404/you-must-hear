@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-21T03:18:32.327Z
+date: 2025-12-04T04:33:40.347Z
 permalink: tags/emd
 title: emd
 ---
 
 ## emd
 
-Last updated: <time datetime="2025-10-21T03:18:32.327Z">Tue Oct 21 2025 06:18:32 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T04:33:40.347Z">Thu Dec 04 2025 06:33:40 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -120,6 +120,7 @@ EMD encompasses experimental and avant-garde music that pushes beyond convention
     <tr>
       <td>81</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b091603790b42ecb0fbfc84128b2d4b.png" alt="Cover for Step Across The Border" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Fred Frith</td>
@@ -138,6 +139,7 @@ EMD encompasses experimental and avant-garde music that pushes beyond convention
     <tr>
       <td>74</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/36684760825707742a7c6b2bc5470b8e.png" alt="Cover for Wohnton" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Oval</td>
@@ -174,6 +176,7 @@ EMD encompasses experimental and avant-garde music that pushes beyond convention
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e88a4fa210cd9822807bebfeb89f651.png" alt="Cover for Systemisch" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Oval</td>
@@ -193,6 +196,7 @@ EMD encompasses experimental and avant-garde music that pushes beyond convention
     <tr>
       <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7bfafbc78dbd365a660c15b11f24c1d.png" alt="Cover for 94 Diskont" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Oval</td>
@@ -205,7 +209,7 @@ EMD encompasses experimental and avant-garde music that pushes beyond convention
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 9</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -252,6 +256,7 @@ EMD encompasses experimental and avant-garde music that pushes beyond convention
     <tr>
       <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/731a1c8beb4d47d3a4a14cf3aad929e3.png" alt="Cover for Init Ding" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-10-06</td>
       <td>Microstoria</td>
@@ -269,6 +274,7 @@ EMD encompasses experimental and avant-garde music that pushes beyond convention
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/665cdd877aed40b08926b351c68a13ac.png" alt="Cover for Serenade in red" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Oxbow</td>
@@ -289,6 +295,7 @@ EMD encompasses experimental and avant-garde music that pushes beyond convention
     <tr>
       <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f27fb501c554f4bbc33da12aac90049.png" alt="Cover for _Snd" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-06</td>
       <td>Microstoria</td>
@@ -340,14 +347,14 @@ EMD encompasses experimental and avant-garde music that pushes beyond convention
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 47</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/acFrwFR15lAQHpNJKOwemDpAUhsM2BeTcFJYQhTUUdU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMTQz/LTE2MTk4OTc3NzIt/OTAzNS5qcGVn.jpeg" alt="Cover for Reprovisers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f06b59c299075b6bdf46904466678150.png" alt="Cover for Reprovisers" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-04</td>
       <td>Microstoria</td>
@@ -368,6 +375,7 @@ EMD encompasses experimental and avant-garde music that pushes beyond convention
     <tr>
       <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/02570f93fb644ad3b096247fcc371b69.png" alt="Cover for Hotel Paral.lel" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-09</td>
       <td>Fennesz</td>
@@ -425,6 +433,7 @@ EMD encompasses experimental and avant-garde music that pushes beyond convention
     <tr>
       <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/46c86daeffed63cc7d95e0ac3f0f94d2.png" alt="Cover for Dok" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-01-20</td>
       <td>Oval</td>
@@ -479,6 +488,7 @@ EMD encompasses experimental and avant-garde music that pushes beyond convention
     <tr>
       <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/480354a55eb84ea4cee5008401af3835.png" alt="Cover for The Mirror Man Sessions" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Captain Beefheart &amp; His Magic Band</td>
@@ -532,7 +542,7 @@ EMD encompasses experimental and avant-garde music that pushes beyond convention
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/bN-IAAKYmOfnFUCgBNdVJiD4A8LjIr9XBwRgRtbLczk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mjk4/LTEyMzEyODg0NDMu/anBlZw.jpeg" alt="Cover for A" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/16f6c4f8c835ef7254ae74b8dd6a6e16.png" alt="Cover for A" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-02-22</td>
       <td>Pan Sonic</td>
@@ -550,6 +560,7 @@ EMD encompasses experimental and avant-garde music that pushes beyond convention
     <tr>
       <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/214dc636b268495bc91e835d4936ce45.png" alt="Cover for Formed Verse" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-09</td>
       <td>Neina</td>
@@ -609,6 +620,7 @@ EMD encompasses experimental and avant-garde music that pushes beyond convention
     <tr>
       <td>12</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/084795e979df45b3b11021edec4ac297.png" alt="Cover for Multila" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-02-18</td>
       <td>Vladislav Delay</td>
@@ -621,15 +633,16 @@ EMD encompasses experimental and avant-garde music that pushes beyond convention
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 10</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 39</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 65</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 34</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 52</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/34f2b571c896482d8c63dd51c8ecbc87.png" alt="Cover for Prototypes" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-03</td>
       <td>Alva Noto</td>
@@ -701,6 +714,7 @@ EMD encompasses experimental and avant-garde music that pushes beyond convention
     <tr>
       <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c47b4c3de937641cdd1ffca6675265d3.png" alt="Cover for Subconsciousness" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-05</td>
       <td>Neina</td>
@@ -721,6 +735,7 @@ EMD encompasses experimental and avant-garde music that pushes beyond convention
     <tr>
       <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/390520270be390e0f2a98db669ffa5ac.png" alt="Cover for model 3, step 2" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-09-27</td>
       <td>Microstoria</td>
@@ -731,7 +746,7 @@ EMD encompasses experimental and avant-garde music that pushes beyond convention
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 91</li>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -827,7 +842,7 @@ EMD encompasses experimental and avant-garde music that pushes beyond convention
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/LyG8NLeoKLZ70GhuTItXuiMM8IruGrTMNlQ03BGKcnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjAz/LTExNjE1OTIxMzMu/anBlZw.jpeg" alt="Cover for Aaltopiiri" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfa2b6bce329c62994a24bde6825de70.png" alt="Cover for Aaltopiiri" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-01-19</td>
       <td>Pan Sonic</td>
@@ -1170,6 +1185,7 @@ EMD encompasses experimental and avant-garde music that pushes beyond convention
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/62f98c2b93918b785534b4038a3e0c01.png" alt="Cover for Death Of The Sun" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Cul de Sac</td>
@@ -1189,6 +1205,7 @@ EMD encompasses experimental and avant-garde music that pushes beyond convention
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ed8af5972d74c046623807fd7c79cfc.png" alt="Cover for 6" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-01-20</td>
       <td>Supersilent</td>
@@ -1206,7 +1223,7 @@ EMD encompasses experimental and avant-garde music that pushes beyond convention
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/NrT5Ek14OblAW__GmwVGaFygBo_pAXBEML3GeiG7x2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODQ0/My0xNjM5MjA2NjUw/LTQwOTMuanBlZw.jpeg" alt="Cover for blue" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4661a9b5dd99468e808c6f5692aac7eb.png" alt="Cover for blue" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-03-01</td>
       <td>Otomo Yoshihide</td>
@@ -1400,14 +1417,15 @@ EMD encompasses experimental and avant-garde music that pushes beyond convention
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 17</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 67</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 21</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/60b34800ffaa320a8d0eebe15ec1dc56.png" alt="Cover for The Taste of TG" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-05-04</td>
       <td>Throbbing Gristle</td>
@@ -1443,7 +1461,7 @@ EMD encompasses experimental and avant-garde music that pushes beyond convention
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/GbdDJ95eAin_lpgMiBiCWcr3DP_ZtPS2e-oC8a_G4Is/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTA5/MS0xMTcxNzU4MjEy/LmpwZWc.jpeg" alt="Cover for Creature Comforts" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/56ba99d349784763b5260611eb5d130c.png" alt="Cover for Creature Comforts" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-06-22</td>
       <td>Black Dice</td>
@@ -1455,7 +1473,7 @@ EMD encompasses experimental and avant-garde music that pushes beyond convention
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 58</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1473,7 +1491,7 @@ EMD encompasses experimental and avant-garde music that pushes beyond convention
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 36</li>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1553,7 +1571,7 @@ EMD encompasses experimental and avant-garde music that pushes beyond convention
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/an_vLRMdUSvVI5FiACxfiJIQiCUfRtx7j1NW5ffrFiY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzQx/MC0xMTkyODkxNjY2/LmpwZWc.jpeg" alt="Cover for Plavyna" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ccdbed2711cd77ceba38f06598faacb9.png" alt="Cover for Plavyna" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-02-16</td>
       <td>Zavoloka</td>
@@ -1588,6 +1606,7 @@ EMD encompasses experimental and avant-garde music that pushes beyond convention
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef532f9efdfbacadc69a2340eb299af4.png" alt="Cover for Broken Ear Record" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-09-06</td>
       <td>Black Dice</td>
@@ -1599,7 +1618,7 @@ EMD encompasses experimental and avant-garde music that pushes beyond convention
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 56</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1642,7 +1661,7 @@ EMD encompasses experimental and avant-garde music that pushes beyond convention
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/NDpUUtpJ8NxSv-Z_9R2646_ondGytPdteqnu3PMnTow/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTIw/MDktMTQ3NjczOTQ4/My04NjgwLmpwZWc.jpeg" alt="Cover for Scala Cinema, London (Decenber 20 1979)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/863b6d394f874998a3305f4514bb4ef9.png" alt="Cover for Scala Cinema, London (Decenber 20 1979)" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-05</td>
       <td>This Heat</td>
@@ -1659,6 +1678,7 @@ EMD encompasses experimental and avant-garde music that pushes beyond convention
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/80907df007094d098937cfb6d70772d3.png" alt="Cover for For" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-06</td>
       <td>Alva Noto</td>
@@ -1677,6 +1697,7 @@ EMD encompasses experimental and avant-garde music that pushes beyond convention
     <tr>
       <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7aec3163802e43098636e8e6881a82df.png" alt="Cover for Maxipad Detention" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-07-25</td>
       <td>Otto von Schirach</td>
@@ -1762,7 +1783,7 @@ EMD encompasses experimental and avant-garde music that pushes beyond convention
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 84</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 15</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T09:17:38.399Z
+date: 2025-12-04T04:34:09.081Z
 permalink: tags/guitar-rock
 title: guitar rock
 ---
 
 ## guitar rock
 
-Last updated: <time datetime="2025-11-26T09:17:38.399Z">Wed Nov 26 2025 11:17:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:34:09.081Z">Thu Dec 04 2025 06:34:09 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -174,7 +174,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/karlsruhe" | relative_url }}">karlsruhe</a> # 96</li>
+            <li> <a href="{{ "/tags/karlsruhe" | relative_url }}">karlsruhe</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -527,7 +527,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 64</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 37</li>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 80</li>
         </ul>
       </td>
@@ -722,10 +722,10 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 32</li>
             <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 33</li>
+            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 49</li>
             <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 51</li>
-            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 52</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -909,7 +909,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/karlsruhe" | relative_url }}">karlsruhe</a> # 99</li>
+            <li> <a href="{{ "/tags/karlsruhe" | relative_url }}">karlsruhe</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -963,7 +963,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/keyboard" | relative_url }}">keyboard</a> # 55</li>
+            <li> <a href="{{ "/tags/keyboard" | relative_url }}">keyboard</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1047,7 +1047,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 35</li>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1071,7 +1071,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 43</li>
+            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1178,7 +1178,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 54</li>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1292,7 +1292,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 42</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1379,7 +1379,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nashville" | relative_url }}">nashville</a> # 70</li>
+            <li> <a href="{{ "/tags/nashville" | relative_url }}">nashville</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1547,8 +1547,8 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 30</li>
             <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 49</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1693,9 +1693,9 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       <td>
         <ul>
             <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 10</li>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 43</li>
+            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 35</li>
             <li> <a href="{{ "/tags/zeuhl" | relative_url }}">zeuhl</a> # 47</li>
-            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 66</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1820,7 +1820,7 @@ Guitar rock emphasizes the electric or acoustic guitar as the primary melodic an
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 50</li>
+            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 51</li>
             <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 55</li>
         </ul>
       </td>

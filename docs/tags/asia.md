@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T13:37:00.490Z
+date: 2025-12-04T04:35:22.219Z
 permalink: tags/asia
 title: asia
 ---
 
 ## asia
 
-Last updated: <time datetime="2025-10-28T13:37:00.490Z">Tue Oct 28 2025 15:37:00 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:35:22.219Z">Thu Dec 04 2025 06:35:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -66,7 +66,7 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 42</li>
+            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -92,12 +92,12 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 7</li>
             <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 71</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 79</li>
             <li> <a href="{{ "/tags/punjabi" | relative_url }}">punjabi</a> # 80</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 88</li>
             <li> <a href="{{ "/tags/uk-bhangra" | relative_url }}">uk bhangra</a> # 92</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -122,7 +122,7 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/S3qkL6tcIsdExYJvtEl0JMVQNB7rJlWX4fCpnomX2t4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3ODQ3/Ni0xNTU4NzUyNDYx/LTE1OTkuanBlZw.jpeg" alt="Cover for Asia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/547a81d3bf55072b5fffa2e5976bb28e.png" alt="Cover for Asia" style="max-width:120px; height:auto;" />
       </td>
       <td>1982</td>
       <td>Kitaro</td>
@@ -134,6 +134,7 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -178,7 +179,7 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/scMn6LVaouaqxMVhKzGCjA_H4-aWaeW81pWJOZDD8nI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMzE2/MTUtMTQzOTA5MDc3/NC0zNzc0LmpwZWc.jpeg" alt="Cover for NUMBER BOY" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a757edb65c53ca332f17e5060ec24a34.png" alt="Cover for NUMBER BOY" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Holland</td>
@@ -197,15 +198,15 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 72</li>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 73</li>
+            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 26</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/b07rAe5zVQpjVkvirQIDKOQdOQSMK8uTevlkZQD7xCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTQ3/MjM0LTE1ODQ1NTM3/NTMtNDk1MC5qcGVn.jpeg" alt="Cover for Ocean like me (Original Web Drama Soundtrack, Pt. 1)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fcee05ac80243882ecb6adeae810c174.png" alt="Cover for Ocean like me (Original Web Drama Soundtrack, Pt. 1)" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Holland</td>
@@ -216,7 +217,7 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 79</li>
+            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -261,8 +262,8 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 46</li>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 48</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 48</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -376,7 +377,7 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
       <td>
         <ul>
             <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 30</li>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 39</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -421,6 +422,7 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dba2a2910bcba29e47478d0aafbd86f9.png" alt="Cover for Tibet, Tibet" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-08-12</td>
       <td>Yungchen Lhamo</td>
@@ -507,8 +509,8 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 60</li>
-            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 88</li>
+            <li> <a href="{{ "/tags/asian-rock" | relative_url }}">asian rock</a> # 12</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -531,7 +533,7 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
       <td>
         <ul>
             <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 26</li>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 49</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -551,7 +553,7 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 35</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 36</li>
             <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 74</li>
         </ul>
       </td>
@@ -733,7 +735,7 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/F-hpLZR6gVVyis9ymvbd8bWiWqdaDz07ebvKWIEoeao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mzk4/NjYxLTE1NzM3MzI0/MjItMjk3Ni5qcGVn.jpeg" alt="Cover for T.O.P - The 2nd Album" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2c7d98c83f4686b59dc403f0bec3d36.png" alt="Cover for T.O.P - The 2nd Album" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-08-27</td>
       <td>Shinhwa</td>
@@ -808,16 +810,16 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 2</li>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 80</li>
             <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 81</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 81</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/y81mrChhx0frUQzJ8ded5Bnjp3sHxx9AdLVj5RRU2A0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NTU4/NjEtMTM5MzgwMTIw/OC04Nzc5LmpwZWc.jpeg" alt="Cover for Oh! My assistant (Original Television Soundtrack) Pt. 5" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/06dd040abf622cda301bd58bb559b572.png" alt="Cover for Oh! My assistant (Original Television Soundtrack) Pt. 5" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Holland</td>
@@ -833,7 +835,7 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 46</li>
+            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -875,15 +877,15 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 76</li>
-            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 77</li>
+            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 21</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/tzjQr_K1Ik5zFuj8q-b7I4C2Xw3V00GSpGE0co095uE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDEw/NTU3LTE2ODM1MzAw/OTAtOTMyMC5wbmc.jpeg" alt="Cover for Holland" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87a3d0020945290501910e3a7cd40855.png" alt="Cover for Holland" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-08-28</td>
       <td>Holland</td>
@@ -903,8 +905,8 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 83</li>
-            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 90</li>
+            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 9</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -935,7 +937,7 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/S6GzSdiGygpdlb-S0zjWfYNECLMEvS_OoWEW5ZN65Qg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDE1/NDEwLTE2Nzg3ODI5/NzQtNTc1NS5qcGVn.jpeg" alt="Cover for My Way" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7379ff3916359fd96bd914d3232d665.png" alt="Cover for My Way" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Hins Cheung</td>
@@ -975,7 +977,7 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/kszUEboczPMiPesaD9ODZUYg0CyzKpQ-jQHQINeo5-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzM4/MzItMTIzNjE2MTIx/OS5qcGVn.jpeg" alt="Cover for L&#39;Autre Cap" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3d8220508c564d04cd719982aa4257af.png" alt="Cover for L&#39;Autre Cap" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-01-23</td>
       <td>Maher Shalal Hash Baz</td>
@@ -995,7 +997,7 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/1nwBI_dGWuf4D8IqbqAkcv-sqHTi0t4cIJPMECAXv4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTk2/MzU3LTE2Mzg1NTQ2/NDgtNDg1Ny5qcGVn.jpeg" alt="Cover for Dangal (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/53423e6197f1d5ff521ea612c78179c3.png" alt="Cover for Dangal (Original Motion Picture Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-04-09</td>
       <td>Pritam</td>
@@ -1049,6 +1051,7 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b15d0d723d52d5e2226bd04ef35ed1f.png" alt="Cover for Introducing Hanggai" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-07-28</td>
       <td>Hanggai</td>
@@ -1063,8 +1066,8 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 67</li>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 87</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 14</li>
+            <li> <a href="{{ "/tags/chinese" | relative_url }}">chinese</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1123,6 +1126,25 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
       </td>
     </tr>
     <tr>
+      <td>64</td>
+      <td>
+      </td>
+      <td>2010-03-14</td>
+      <td>Googoosh</td>
+      <td>Nimeh Gomshodeh Man</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asia" | relative_url }}">asia</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 90</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>4</td>
       <td>
           <img src="https://i.discogs.com/pSMPCeB-UZOgThVdPx9uAKuvMvTMQ9WwMwXHqWRz-sQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzE2/MTMyLTE2MzkyNjA1/NjAtNzY0Ny5qcGVn.jpeg" alt="Cover for Fasle Tazeh" style="max-width:120px; height:auto;" />
@@ -1177,27 +1199,9 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
       </td>
     </tr>
     <tr>
-      <td>64</td>
-      <td>
-      </td>
-      <td>2010-03-14</td>
-      <td>Googoosh</td>
-      <td>Nimeh Gomshodeh Man</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asia" | relative_url }}">asia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/hCrWacjlwjuMQr7I4HzAu3I0ili6uAgAoW3V8buUQy4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODYw/ODgtMTQzNTI2MTM0/Ny0xMzExLmpwZWc.jpeg" alt="Cover for Loved you better" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc2fe47bcdb4f61aab023f3644237da9.png" alt="Cover for Loved you better" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02-27</td>
       <td>Holland</td>
@@ -1213,7 +1217,7 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 71</li>
+            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1232,13 +1236,14 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 38</li>
+            <li> <a href="{{ "/tags/prog-rock" | relative_url }}">prog-rock</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b804db44159f465bbf9a14ec3ea4b7e4.png" alt="Cover for POISON" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-09-13</td>
       <td>시크릿</td>
@@ -1260,13 +1265,14 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 74</li>
+            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e96ac6b76f8409086d9f7595f90d2d5.png" alt="Cover for Talk That" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12-04</td>
       <td>시크릿</td>
@@ -1285,14 +1291,14 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 75</li>
+            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 23</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/pPYD7ug9xKdS-q7oN7NxRTy-gPjhEghVHLyyVHnX9WU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTYx/MTMzLTE1Mjk1MjQ0/NDMtOTAzOC5qcGVn.jpeg" alt="Cover for Sexy Beat" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04df55e3c3ce4976a02abefb42ea7697.png" alt="Cover for Sexy Beat" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-11</td>
       <td>MBLAQ</td>
@@ -1304,13 +1310,14 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 48</li>
+            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 50</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3702fa7469ee497794430df466d5af0f.png" alt="Cover for FEEL" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-07-10</td>
       <td>安室奈美恵</td>
@@ -1325,13 +1332,14 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 31</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6920e8a2e15787e0f18fbf91487ae015.png" alt="Cover for A&#39;s Doll House" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-07-12</td>
       <td>에일리</td>
@@ -1352,14 +1360,14 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 85</li>
+            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 14</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/_kOyKETbN22R6QBKNN2JeBcYuLSFe18rWIknhPIivzM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDUz/OTAxLTE2MTYzNDA1/MTktNTMxOC5qcGVn.jpeg" alt="Cover for Hard to love, How to love" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9fe6606768a143ab81d381d81abaa2e5.png" alt="Cover for Hard to love, How to love" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-07-23</td>
       <td>B2ST</td>
@@ -1370,35 +1378,33 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 60</li>
+            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3eb958ee929a479a9857bf113d9581e6.png" alt="Cover for Black Box" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-07-29</td>
       <td>Brown Eyed Girls</td>
       <td>Black Box</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 78</li>
+            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ab6c34d2cbd4ab5888776168f7c8cf1.png" alt="Cover for 희망고문" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-09-30</td>
       <td>송지은</td>
@@ -1420,13 +1426,14 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 81</li>
+            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 18</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>73</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b489de1319824fb6cf093df1768aecb9.png" alt="Cover for Who Are You?" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-10</td>
       <td>가희</td>
@@ -1448,14 +1455,14 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 70</li>
+            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/bq3xbKjI3CRvovbq_GICSD0f3HvGLoNw4mKQ5N8QEfw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTIw/NTctMTQ0NTEyODg5/OC0yNDA1LmpwZWc.jpeg" alt="Cover for Modern Times - Epilogue" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0c6c0663a0829a1d2279c60264fd7f3.png" alt="Cover for Modern Times - Epilogue" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-10-24</td>
       <td>IU</td>
@@ -1482,8 +1489,9 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 58</li>
-            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 61</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 3</li>
+            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 38</li>
+            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1508,7 +1516,7 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/T64HxHOmYbH2zzaxHzqpB8J51XzR05fQHpq14mxzKTs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODYx/MjY0LTE1ODMwMDM2/MTAtOTUzMi5qcGVn.jpeg" alt="Cover for Ying Yang" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1ef0fdea06faa20214fab2d577690b43.png" alt="Cover for Ying Yang" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-06-29</td>
       <td>CROSS GENE</td>
@@ -1530,7 +1538,7 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/Hl1MmomANVuCn-SMqaLTs8iHWtecP7JI5ebCA3baABU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzky/MzYxLTE1MDQzOTY3/MDMtNjkyMS5qcGVn.jpeg" alt="Cover for Girl&#39;s Day Everyday #4" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3b9835be1d94301c38361b73883b556.png" alt="Cover for Girl&#39;s Day Everyday #4" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Girl&#39;s Day</td>
@@ -1551,7 +1559,7 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 66</li>
+            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1610,14 +1618,14 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 65</li>
+            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/UkmnWpsQpVU1YK1-U5yxS03rBdkZf7pEjbWVsq42rZg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODc5/NTkzLTE1NjMxNzc2/NjItNjgxOS5qcGVn.jpeg" alt="Cover for I&#39;m Not Afraid" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/702a39668d1967cf6e7f11d10503d088.png" alt="Cover for I&#39;m Not Afraid" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-07-15</td>
       <td>Holland</td>
@@ -1636,8 +1644,8 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 82</li>
-            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 88</li>
+            <li> <a href="{{ "/tags/korea" | relative_url }}">korea</a> # 11</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1723,15 +1731,13 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/DAeNqwpQEXrRRNf8nw_hMBCdcUU5sQ-iaP6cjuTa6R0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjc1/MTU0LTE3MjE1OTA3/MDYtNzgwNS5qcGVn.jpeg" alt="Cover for play with earth! 0.03" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5446f70a2fa85cb4439414755966471b.png" alt="Cover for play with earth! 0.03" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-05-14</td>
       <td>wave to earth</td>
       <td>play with earth! 0.03</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/asia" | relative_url }}">asia</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
         </ul>
       </td>
       <td>
@@ -1913,6 +1919,7 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
     <tr>
       <td>30</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/02914655c5c440d49a792f13a83b2e2c.png" alt="Cover for 你等着我回来" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>张玮玮</td>
@@ -1982,6 +1989,7 @@ The &quot;asia&quot; tag encompasses the vast musical diversity of the Asian con
     <tr>
       <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c8ac001259ee02eb5a94eff6c551743.png" alt="Cover for Again" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>티아라</td>

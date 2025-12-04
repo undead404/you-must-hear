@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T13:20:24.961Z
+date: 2025-12-04T04:31:57.072Z
 permalink: tags/nouvelle-scene-francaise
 title: nouvelle scene francaise
 ---
 
 ## nouvelle scene francaise
 
-Last updated: <time datetime="2025-10-28T13:20:24.961Z">Tue Oct 28 2025 15:20:24 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:31:57.072Z">Thu Dec 04 2025 06:31:57 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -88,9 +88,9 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 31</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 53</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 57</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 44</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 48</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -115,7 +115,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/IZYLTNEa00KgGotUJf5PTjRv6oeVppG0jzmK0K12oVU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIy/Mzg5LTE2NzM4MTk2/NjgtMzQ2Ny5qcGVn.jpeg" alt="Cover for 999 - EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d03f824bac6585006c140fe4ec976c19.png" alt="Cover for 999 - EP" style="max-width:120px; height:auto;" />
       </td>
       <td>1990-06-01</td>
       <td>Santa</td>
@@ -143,7 +143,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/K-TnXyIlz5BoLvEhAKdXOCVdy9kyrqvd2WDl90FCI9M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjMy/NDkzLTE2NTU2OTAz/NzgtMzg1My5qcGVn.jpeg" alt="Cover for Paris en Août" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/20ec363e6ab661035d4d019c29ba245b.png" alt="Cover for Paris en Août" style="max-width:120px; height:auto;" />
       </td>
       <td>1990-06-01</td>
       <td>Santa</td>
@@ -164,9 +164,9 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 12</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 46</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 55</li>
             <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 71</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -187,13 +187,14 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 69</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee62c678339643da7d0d50353fed68a6.png" alt="Cover for Made in Normandie" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Les Elles</td>
@@ -231,6 +232,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/418a99fb31ad45ba8615d94ae2cb6bc7.png" alt="Cover for そらの庭" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-10-22</td>
       <td>新居昭乃</td>
@@ -269,15 +271,15 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 13</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 32</li>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 35</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 12</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 22</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 32</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 32</li>
             <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 40</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 49</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 57</li>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 69</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 70</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 78</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 56</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 58</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 66</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -298,7 +300,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 73</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -342,18 +344,18 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 26</li>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 31</li>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 50</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 57</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 6</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 17</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 22</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 24</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 27</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 43</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 51</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 57</li>
             <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 57</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 58</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 62</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 69</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 73</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 78</li>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 79</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 83</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -376,6 +378,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
     <tr>
       <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7061c915529c4d2396b1d85791328de3.png" alt="Cover for Utopie D&#39;Occase" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-08-26</td>
       <td>Zebda</td>
@@ -387,14 +390,14 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 84</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/S77tuhBWuldWJ5gS89d_3_0aDP74x36dm4SRZbuX9zQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMjM2/MC0xNDI3MDU2NTc0/LTI2OTguanBlZw.jpeg" alt="Cover for Le Sac Des Filles" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/29127c5693c33ff5376055164ec958a7.png" alt="Cover for Le Sac Des Filles" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-09-23</td>
       <td>Camille</td>
@@ -406,14 +409,14 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 89</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/3eAQNVJrqo9LiINCnCisI0cOlaRSbccVUcAkEltK3i8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDk1/Ni0xNDUxNDgzNTM2/LTE4MjEuanBlZw.jpeg" alt="Cover for Sabotage" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5fc72087a23da3dc48682968c9b30348.png" alt="Cover for Sabotage" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-02</td>
       <td>Gamine</td>
@@ -431,6 +434,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/59e1af22a1c5f4572a29a508e7b29dc0.png" alt="Cover for Grain De Sable" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-06-02</td>
       <td>Tryo</td>
@@ -443,8 +447,8 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 11</li>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 57</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 24</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -568,15 +572,16 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 20</li>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 35</li>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 47</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 53</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 66</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3fe5d371920b64b2fee14e75d49a49af.png" alt="Cover for Pauline Croze" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-02-14</td>
       <td>Pauline Croze</td>
@@ -588,15 +593,15 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 81</li>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 96</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 5</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/zaP4lQPmOgqb9Q-tp7c1rgMLdGVKrorTjXhT3wZAvuQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDQz/MTItMTIwMDUzNDYy/Mi5qcGVn.jpeg" alt="Cover for Bye Bye Beauté" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e6850f7ee4204e89930656b7cfa4c95d.png" alt="Cover for Bye Bye Beauté" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-02-15</td>
       <td>Coralie Clément</td>
@@ -608,6 +613,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -628,7 +634,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 29</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -646,7 +652,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 69</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -672,6 +678,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
     <tr>
       <td>77</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b63c88b86320d98b2692b8a5d8f46514.png" alt="Cover for Sora No Uta" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-11-23</td>
       <td>新居昭乃</td>
@@ -714,18 +721,18 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 4</li>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 16</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 9</li>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 13</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 15</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 20</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 21</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 30</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 30</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 37</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 37</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 52</li>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 55</li>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 71</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 72</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 79</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 81</li>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 88</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 91</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 46</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 58</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 63</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -748,8 +755,8 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 1</li>
             <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 33</li>
+            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -826,8 +833,8 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 35</li>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 90</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 11</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -847,7 +854,6 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gypsy-jazz" | relative_url }}">gypsy jazz</a> # 2</li>
             <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 42</li>
         </ul>
       </td>
@@ -879,12 +885,11 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 1</li>
             <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 42</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 42</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 42</li>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 45</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 65</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 43</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 49</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 59</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 62</li>
             <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 68</li>
         </ul>
       </td>
@@ -911,6 +916,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
     <tr>
       <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e4ca07e3351e883215a32deb325607d.png" alt="Cover for Orgamilk" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-07-05</td>
       <td>Fresh Body Shop</td>
@@ -936,11 +942,11 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       <td>
         <ul>
             <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 35</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 39</li>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 41</li>
-            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 59</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 64</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 68</li>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 40</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 40</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 60</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 64</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -972,13 +978,13 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 5</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 39</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 45</li>
+            <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 8</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 38</li>
             <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 45</li>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 48</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 51</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 66</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 46</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 56</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 61</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 63</li>
             <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 74</li>
         </ul>
       </td>
@@ -1043,15 +1049,15 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 4</li>
             <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 5</li>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 10</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 26</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 30</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 53</li>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 55</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 66</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 87</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 6</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 14</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 29</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 34</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 36</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 45</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 49</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1114,11 +1120,11 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 11</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 15</li>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 18</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 30</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 69</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 30</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 71</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 81</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 84</li>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1167,13 +1173,13 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 35</li>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 36</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 60</li>
-            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 66</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 66</li>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 33</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 62</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 65</li>
+            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 67</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 72</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 75</li>
             <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 75</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1195,7 +1201,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gypsy-jazz" | relative_url }}">gypsy jazz</a> # 70</li>
+            <li> <a href="{{ "/tags/gypsy-jazz" | relative_url }}">gypsy jazz</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1234,7 +1240,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 46</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 55</li>
             <li> <a href="{{ "/tags/mass" | relative_url }}">mass</a> # 83</li>
         </ul>
       </td>
@@ -1269,10 +1275,10 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 3</li>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 5</li>
-            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 34</li>
+            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 67</li>
             <li> <a href="{{ "/tags/mass" | relative_url }}">mass</a> # 94</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 96</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1474,16 +1480,16 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 6</li>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 66</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 35</li>
             <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 91</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/7InXV2TD-N-7CqLbhKUh7Bg81bc6FR2K5_oe0dD3vtU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzkw/MDgyLTE1OTA3NTg0/NTYtMjU4OS5qcGVn.jpeg" alt="Cover for Amazone" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed7af5661f28d3b7f3768ecaac12de3d.png" alt="Cover for Amazone" style="max-width:120px; height:auto;" />
       </td>
       <td>2020</td>
       <td>morgane imbeaud</td>
@@ -1549,7 +1555,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 54</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 47</li>
             <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 87</li>
         </ul>
       </td>
@@ -1576,8 +1582,8 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 13</li>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 71</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 30</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 86</li>
             <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 92</li>
         </ul>
       </td>
@@ -1585,7 +1591,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/bjw_uzD6x5rCCuX7-x9ehw-TYLcGW-YEok3Vo7Agn3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzAx/MTA5LTE2MTI3MDAy/OTItNjI2Ny5qcGVn.jpeg" alt="Cover for Moins Joli" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/545548f86a57ba5009ef7f97c983ebbd.png" alt="Cover for Moins Joli" style="max-width:120px; height:auto;" />
       </td>
       <td>2021</td>
       <td>Iliona</td>
@@ -1604,8 +1610,8 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 61</li>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 87</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 14</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 37</li>
             <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 96</li>
         </ul>
       </td>
@@ -1613,7 +1619,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/GtID7Zb4TCvsGH3IqVpYOtoKc6nn4i0GYZO-fuiJEEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODYx/ODU0LTE2NjYyMTA5/NjQtNDkwOC5qcGVn.jpeg" alt="Cover for Belle" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40644a66ac8efc86a556d25b93463cc9.png" alt="Cover for Belle" style="max-width:120px; height:auto;" />
       </td>
       <td>2021</td>
       <td>Felixita</td>
@@ -1638,7 +1644,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/GtID7Zb4TCvsGH3IqVpYOtoKc6nn4i0GYZO-fuiJEEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODYx/ODU0LTE2NjYyMTA5/NjQtNDkwOC5qcGVn.jpeg" alt="Cover for J&#39;aime les gars" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/48f7b59ea4d47120cb0482e8a46c90b8.png" alt="Cover for J&#39;aime les gars" style="max-width:120px; height:auto;" />
       </td>
       <td>2021</td>
       <td>Felixita</td>
@@ -1705,7 +1711,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/lXuaOjM4nYPsInClW7ypDb8v1_QYiJCqYQHlZ1to9B8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzU0/MDQyLTE2NDk1Nzg3/NDQtMTUwMS5qcGVn.jpeg" alt="Cover for Sorøre" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9488e5128a9928a25af29a68921088da.png" alt="Cover for Sorøre" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-06-04</td>
       <td>Amel Bent, Camélia Jordana &amp; Vitaa</td>
@@ -1835,7 +1841,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/bJolmu1HHHSh46xixu5fjlgTNtb7Mib3W7KtKxy1mj8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc5/NDk4LTE2NDM3MjA2/MTAtNTIxMS5qcGVn.jpeg" alt="Cover for Tête brûlée" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af8f35be1a4fd0ec15d29c96b9e6f5b8.png" alt="Cover for Tête brûlée" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-01-28</td>
       <td>Iliona</td>
@@ -1854,8 +1860,9 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 89</li>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 93</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 8</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 11</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 13</li>
             <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 98</li>
         </ul>
       </td>
@@ -1884,10 +1891,10 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 44</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 56</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 89</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 92</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 9</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 13</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 43</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 47</li>
             <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 95</li>
         </ul>
       </td>
@@ -1941,7 +1948,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/9FcO1OUJHpjUlqyElCTaTmXBZ9v_RVkkPMRIs6mhmUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTIy/Mzg5LTE2NjMyNTM3/MTgtNzAyNy5qcGVn.jpeg" alt="Cover for 999" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/030f45dea7cb2f61148188f6547ad255.png" alt="Cover for 999" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-09</td>
       <td>Santa</td>
@@ -1962,8 +1969,8 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 50</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 68</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 33</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 51</li>
             <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 88</li>
         </ul>
       </td>
@@ -1971,7 +1978,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/M33CNCopidBaXfdt8chqQw0_VK0C9fZss5fBq5qI2fs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDQ3/MTc3LTE2NzkwMzg0/NTMtOTI2My5qcGVn.jpeg" alt="Cover for Rose (La bande originale du film)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/11413f4f6370f2f79415e393838ad852.png" alt="Cover for Rose (La bande originale du film)" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-10-28</td>
       <td>Aurélie Saada</td>
@@ -1991,9 +1998,9 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 3</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 61</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 76</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 25</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 40</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -2065,7 +2072,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
     <tr>
       <td>51</td>
       <td>
-          <img src="https://i.discogs.com/tI8D7nguLp-uuCtbGKCVYNU_Ii6UJopqrYpelJ4xzEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzEx/MTAwLTE2ODYxMjMz/MzgtODU3My5qcGVn.jpeg" alt="Cover for Horizon" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/df86e7e27358b5ba11c9b81b81a36045.png" alt="Cover for Horizon" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Coline Rio</td>
@@ -2085,15 +2092,15 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 10</li>
             <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 62</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/tI8D7nguLp-uuCtbGKCVYNU_Ii6UJopqrYpelJ4xzEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzEx/MTAwLTE2ODYxMjMz/MzgtODU3My5qcGVn.jpeg" alt="Cover for On m&#39;a dit" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f88ebdbaedb6f4f1c41d13e40decc08b.png" alt="Cover for On m&#39;a dit" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Coline Rio</td>
@@ -2113,7 +2120,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 43</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 58</li>
             <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 73</li>
         </ul>
       </td>
@@ -2121,7 +2128,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/tI8D7nguLp-uuCtbGKCVYNU_Ii6UJopqrYpelJ4xzEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzEx/MTAwLTE2ODYxMjMz/MzgtODU3My5qcGVn.jpeg" alt="Cover for Lourd et délicat" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8022ce9c849c32f10fc23494f2a418e4.png" alt="Cover for Lourd et délicat" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Coline Rio</td>
@@ -2141,7 +2148,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 55</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 46</li>
             <li> <a href="{{ "/tags/pop-francaise" | relative_url }}">pop francaise</a> # 81</li>
         </ul>
       </td>
@@ -2168,7 +2175,7 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/qQOKpLSKIYAaIzjq1mYxr8fThiggmunHwVwktrdclsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjIw/MDItMTM1MjY0NTE1/MC01NjExLmpwZWc.jpeg" alt="Cover for 13 juin 2021" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad7b8e93ece0f9d749a86417af88e054.png" alt="Cover for 13 juin 2021" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-11-10</td>
       <td>Zélie</td>
@@ -2189,16 +2196,17 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 59</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 73</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 74</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 27</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 28</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 42</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/qQOKpLSKIYAaIzjq1mYxr8fThiggmunHwVwktrdclsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjIw/MDItMTM1MjY0NTE1/MC01NjExLmpwZWc.jpeg" alt="Cover for 11 mai 2020" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a3d75d44c5464b7e61370137d647941.png" alt="Cover for 11 mai 2020" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-11-10</td>
       <td>Zélie</td>
@@ -2219,11 +2227,11 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 25</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 35</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 77</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 86</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 89</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 12</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 15</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 24</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 29</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -2251,11 +2259,11 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 74</li>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 81</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 95</li>
-            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 95</li>
-            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 97</li>
+            <li> <a href="{{ "/tags/parisienne" | relative_url }}">parisienne</a> # 4</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 6</li>
+            <li> <a href="{{ "/tags/french-indie" | relative_url }}">french indie</a> # 6</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 18</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -2300,12 +2308,12 @@ Nouvelle scène française represents a wave of French songwriting that emerged 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 9</li>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 26</li>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 27</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 29</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 38</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 75</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 25</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 63</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 70</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 73</li>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 74</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 93</li>
         </ul>
       </td>
     </tr>

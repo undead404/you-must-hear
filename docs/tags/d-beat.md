@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T09:22:38.159Z
+date: 2025-12-04T04:34:59.329Z
 permalink: tags/d-beat
 title: d-beat
 ---
 
 ## d-beat
 
-Last updated: <time datetime="2025-11-26T09:22:38.159Z">Wed Nov 26 2025 11:22:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:34:59.329Z">Thu Dec 04 2025 06:34:59 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,25 +29,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
   </thead>
   <tbody>
     <tr>
-      <td>71</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/810c2464afed0f95626a2073f73ab157.png" alt="Cover for Fight Back" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1980</td>
-      <td>Discharge</td>
-      <td>Fight Back</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>92</td>
+      <td>9</td>
       <td>
           <img src="https://i.discogs.com/z6tu8HfrXVRMaUgcfrOW8rDFOeN6CC-5Z9C1sewpHQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDg1/OS0xNDQzMzkxODg0/LTk1NjIuanBlZw.jpeg" alt="Cover for Realities of War" style="max-width:120px; height:auto;" />
       </td>
@@ -66,7 +48,25 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>30</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/810c2464afed0f95626a2073f73ab157.png" alt="Cover for Fight Back" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1980</td>
+      <td>Discharge</td>
+      <td>Fight Back</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/81b91d1f22254f9d8f475b2f618358a8.png" alt="Cover for Why" style="max-width:120px; height:auto;" />
       </td>
@@ -81,12 +81,12 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 3</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>77</td>
       <td>
           <img src="https://i.discogs.com/0pfM6o5CpRjDNqRMouaZbjbRC0r0mE4IBsBr4TU0lBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjU3/MDAtMTUzMjk3ODQ0/MS0zODU2LmpwZWc.jpeg" alt="Cover for GBG 1982" style="max-width:120px; height:auto;" />
       </td>
@@ -104,7 +104,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6bb18087b1e344c0b8c4457336c7b0e9.png" alt="Cover for Hear Nothing See Nothing Say Nothing" style="max-width:120px; height:auto;" />
       </td>
@@ -121,7 +121,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1cb1c6c23bf4fa98748cf1b40d37db4.png" alt="Cover for Dehumanization" style="max-width:120px; height:auto;" />
       </td>
@@ -136,29 +136,12 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 90</li>
+            <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
-      <td>
-      </td>
-      <td>1983</td>
-      <td>The Varukers</td>
-      <td>Bloodsuckers</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://i.discogs.com/qsW1u8__LMww3F2GjdpZyypoBJrDI7K7-xe4317KiZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDQ2/NjItMTM1ODQ0MDY1/NS05MzMzLmpwZWc.jpeg" alt="Cover for Raped Ass" style="max-width:120px; height:auto;" />
       </td>
@@ -176,7 +159,42 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>31</td>
+      <td>
+      </td>
+      <td>1983</td>
+      <td>The Varukers</td>
+      <td>Bloodsuckers</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/138ce832637b849b7a02895f4e1387da.png" alt="Cover for Crucificados pelo Sistema" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1984</td>
+      <td>Ratos De Porão</td>
+      <td>Crucificados pelo Sistema</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/11b8d757d6c111ebe5a94a94ad5f9d5b.png" alt="Cover for Punk and Destroy" style="max-width:120px; height:auto;" />
       </td>
@@ -196,42 +214,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>84</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/138ce832637b849b7a02895f4e1387da.png" alt="Cover for Crucificados pelo Sistema" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1984</td>
-      <td>Ratos De Porão</td>
-      <td>Crucificados pelo Sistema</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>38</td>
-      <td>
-      </td>
-      <td>1987</td>
-      <td>Confuse</td>
-      <td>Spending Loud Night</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>45</td>
+      <td>55</td>
       <td>
       </td>
       <td>1987</td>
@@ -250,7 +233,24 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>62</td>
+      <td>
+      </td>
+      <td>1987</td>
+      <td>Confuse</td>
+      <td>Spending Loud Night</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>87</td>
       <td>
       </td>
       <td>1988</td>
@@ -268,7 +268,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>98</td>
       <td>
       </td>
       <td>1989</td>
@@ -286,7 +286,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>57</td>
       <td>
           <img src="https://i.discogs.com/TiWIl1RCRepgMkor6v39DhYNcrJaIqG-HNM086H2gew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NDkz/NjgtMTM3NDI5NTQw/OC00NDE2LmpwZWc.jpeg" alt="Cover for The Peel Sessions" style="max-width:120px; height:auto;" />
       </td>
@@ -305,7 +305,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7e15b066597660f38e236007273ab73.png" alt="Cover for Absolut Country of Sweden" style="max-width:120px; height:auto;" />
       </td>
@@ -320,12 +320,30 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 17</li>
+            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 16</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>3</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/15a3776903143bb40e05d1bfc2ca3334.png" alt="Cover for Scandinavian Jawbreaker" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Anti Cimex</td>
+      <td>Scandinavian Jawbreaker</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f572f64fc9d46118b4449fa7c061f91.png" alt="Cover for Kuknacke" style="max-width:120px; height:auto;" />
       </td>
@@ -346,25 +364,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>98</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/15a3776903143bb40e05d1bfc2ca3334.png" alt="Cover for Scandinavian Jawbreaker" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1993</td>
-      <td>Anti Cimex</td>
-      <td>Scandinavian Jawbreaker</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/7bd1tCoDQOuMqKte93b0PiW_fYIxKNfeXP70hwp5nyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTE3/NC0xMzMzOTIxMTMz/LmpwZWc.jpeg" alt="Cover for Brutality Of War" style="max-width:120px; height:auto;" />
       </td>
@@ -383,7 +383,43 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>29</td>
+      <td>
+      </td>
+      <td>1994</td>
+      <td>Totalitär</td>
+      <td>Sin Egen Motståndare</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>
+          <img src="https://i.discogs.com/rj7-wqGoNTBnsi5snQheoeXcrWenRhAnkm3ls8_nFvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDg0/MTAtMTYzODg4NzE0/OS04MTM0LmpwZWc.jpeg" alt="Cover for Tragedy LP" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Disclose</td>
+      <td>Tragedy LP</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/cP5DcAA77RHj-1iWYJG2E5cm32AQ8IKOdOaBvod3V28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzY4/MTktMTMxMjQwMDYz/Ni5qcGVn.jpeg" alt="Cover for Silent Screams" style="max-width:120px; height:auto;" />
       </td>
@@ -403,43 +439,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>41</td>
-      <td>
-          <img src="https://i.discogs.com/rj7-wqGoNTBnsi5snQheoeXcrWenRhAnkm3ls8_nFvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDg0/MTAtMTYzODg4NzE0/OS04MTM0LmpwZWc.jpeg" alt="Cover for Tragedy LP" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1994</td>
-      <td>Disclose</td>
-      <td>Tragedy LP</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>72</td>
-      <td>
-      </td>
-      <td>1994</td>
-      <td>Totalitär</td>
-      <td>Sin Egen Motståndare</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>11</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/4PE2yVknlDA-hcrhIFUJSYDOioj500So_uwmiZamjOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDQ3/NzktMTQ1MDcwMjE2/OS0yNTE1LmpwZWc.jpeg" alt="Cover for Cathode Ray Coma" style="max-width:120px; height:auto;" />
       </td>
@@ -457,7 +457,25 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>79</td>
+      <td>
+      </td>
+      <td>1995</td>
+      <td>Confuse</td>
+      <td>Confuse</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/MS_ntibmvGD9LPwHzdvfnfE0iQJPpkwAEP6sb9lpS4o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTE3/NS0xMjk2Njg5OTgy/LmpwZWc.jpeg" alt="Cover for Thrown Into Oblivion" style="max-width:120px; height:auto;" />
       </td>
@@ -468,24 +486,6 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crust" | relative_url }}">crust</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>21</td>
-      <td>
-      </td>
-      <td>1995</td>
-      <td>Confuse</td>
-      <td>Confuse</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a></li>
         </ul>
       </td>
       <td>
@@ -512,7 +512,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/da0e99977fae4db2a890a8a4d7d754c4.png" alt="Cover for Ondskans ansikte" style="max-width:120px; height:auto;" />
       </td>
@@ -532,7 +532,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
       </td>
       <td>1997</td>
@@ -550,7 +550,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>52</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d3376ab84cb2e4687edafe91246621cc.png" alt="Cover for Peel Sessions" style="max-width:120px; height:auto;" />
       </td>
@@ -569,7 +569,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/14859a840c544b9c9c8f86a5b1e5637b.png" alt="Cover for Allday Hell" style="max-width:120px; height:auto;" />
       </td>
@@ -583,32 +583,11 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>69</td>
-      <td>
-          <img src="https://i.discogs.com/pcK3p-dz-BrlsKaWVUleKslbkhyJeEoy1PgojThFtG0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDg5/NS0xMzIzNTY5NjYx/LmpwZWc.jpeg" alt="Cover for And The Winner Is..." style="max-width:120px; height:auto;" />
-      </td>
-      <td>2000</td>
-      <td>Driller Killer</td>
-      <td>And The Winner Is...</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crust" | relative_url }}">crust</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 29</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
       </td>
       <td>2000</td>
@@ -628,7 +607,27 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>32</td>
+      <td>
+          <img src="https://i.discogs.com/pcK3p-dz-BrlsKaWVUleKslbkhyJeEoy1PgojThFtG0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDg5/NS0xMzIzNTY5NjYx/LmpwZWc.jpeg" alt="Cover for And The Winner Is..." style="max-width:120px; height:auto;" />
+      </td>
+      <td>2000</td>
+      <td>Driller Killer</td>
+      <td>And The Winner Is...</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crust" | relative_url }}">crust</a></li>
+            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 30</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/BTXwdrPsL_Uxk8QSDsr3ilzogCBx_sBUBUjdN_uMdLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODQ4/MS0xMzc3OTg1MzMw/LTYzMDIuanBlZw.jpeg" alt="Cover for Country of Sweden" style="max-width:120px; height:auto;" />
       </td>
@@ -646,7 +645,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
       </td>
       <td>2001</td>
@@ -666,7 +665,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
       </td>
       <td>2002</td>
@@ -685,43 +684,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>22</td>
-      <td>
-          <img src="https://i.discogs.com/0LyRDDBoj3MucFnkmO0hyAcYIztqF8K6xLmdupmSLvE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MTY4/My0xNDc3OTk2NTgy/LTY0NDYuanBlZw.jpeg" alt="Cover for the horror of it all..." style="max-width:120px; height:auto;" />
-      </td>
-      <td>2002</td>
-      <td>Disgust</td>
-      <td>the horror of it all...</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crust" | relative_url }}">crust</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>52</td>
-      <td>
-      </td>
-      <td>2002</td>
-      <td>Bastard</td>
-      <td>No Hope in Here</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/gcT1apP3n-x5UD4z1B16OGkIwtE06xE3M_j-NCotn98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njky/NjMtMTIyOTExODY4/Ni5qcGVn.jpeg" alt="Cover for The Sucking of the Missile Cock" style="max-width:120px; height:auto;" />
       </td>
@@ -740,7 +703,26 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>78</td>
+      <td>
+          <img src="https://i.discogs.com/0LyRDDBoj3MucFnkmO0hyAcYIztqF8K6xLmdupmSLvE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MTY4/My0xNDc3OTk2NTgy/LTY0NDYuanBlZw.jpeg" alt="Cover for the horror of it all..." style="max-width:120px; height:auto;" />
+      </td>
+      <td>2002</td>
+      <td>Disgust</td>
+      <td>the horror of it all...</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crust" | relative_url }}">crust</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/ohHrTkFAO4j0FUDlZoW4sYG0Rspx3JSso2jOG5G_4X4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzI4/MzI1LTE1NTk4Nzk5/NzQtNzUxMy5qcGVn.jpeg" alt="Cover for Vemod" style="max-width:120px; height:auto;" />
       </td>
@@ -762,7 +744,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>56</td>
       <td>
           <img src="https://i.discogs.com/kUjvjmGQTjYLZirLdAYEO4ESJt4hZeRBYKeDPMdQijA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjcy/ODktMTIxODgyMTIw/OC5qcGVn.jpeg" alt="Cover for Consider It War" style="max-width:120px; height:auto;" />
       </td>
@@ -781,7 +763,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d503516ab122ca91f79b40746d856579.png" alt="Cover for Misanthropic Generation" style="max-width:120px; height:auto;" />
       </td>
@@ -801,7 +783,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
       </td>
       <td>2003-10</td>
@@ -818,7 +800,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/diIQXZRK9U_TLmHOQo1_Xx0TfM_JOBTkjFc_JDZLuZw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MjM5/NTMtMTQ4NDAxNzI5/Ni03NzU5LmpwZWc.jpeg" alt="Cover for Discografia" style="max-width:120px; height:auto;" />
       </td>
@@ -842,15 +824,15 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>38</td>
       <td>
+          <img src="https://i.discogs.com/wPPIx3jKsHl6-KVu9HUvvUPfySndIU-cFOORpocvAv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDcy/Ni0xMTY2Mzc3NDAw/LmpwZWc.jpeg" alt="Cover for Warning Her Majesty&#39;s Governement..." style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
-      <td>Consume</td>
-      <td>Consume</td>
+      <td>Discharge</td>
+      <td>Warning Her Majesty&#39;s Governement...</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crust" | relative_url }}">crust</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a></li>
         </ul>
       </td>
@@ -860,7 +842,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>53</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/83eaf46507f94f07a82c2e874ea07021.png" alt="Cover for Criminal Trap" style="max-width:120px; height:auto;" />
       </td>
@@ -882,15 +864,15 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>76</td>
       <td>
-          <img src="https://i.discogs.com/wPPIx3jKsHl6-KVu9HUvvUPfySndIU-cFOORpocvAv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDcy/Ni0xMTY2Mzc3NDAw/LmpwZWc.jpeg" alt="Cover for Warning Her Majesty&#39;s Governement..." style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
-      <td>Discharge</td>
-      <td>Warning Her Majesty&#39;s Governement...</td>
+      <td>Consume</td>
+      <td>Consume</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crust" | relative_url }}">crust</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a></li>
         </ul>
       </td>
@@ -900,7 +882,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/y0-eGqq0s6-VJLfe0QrOpzkry9YdzGdGG0FsHaXqOl4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MzE4/NjItMTI4MzcxMzM1/NC5qcGVn.jpeg" alt="Cover for Guided Cradle" style="max-width:120px; height:auto;" />
       </td>
@@ -919,7 +901,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/5VT8WXOZ7BOCbaq04bF7dvDhifK6X_2DThjXqlJisSU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTk3/NjItMTIyODQwMTAw/OC5qcGVn.jpeg" alt="Cover for Order of the Vulture" style="max-width:120px; height:auto;" />
       </td>
@@ -940,7 +922,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/PcXmm5rNE7CSCxqXTnFfuN8XQLxegGSnH2LgRz2Ar-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzE3/OTEtMTMzNzg4OTE0/MC0xNTY2LmpwZWc.jpeg" alt="Cover for You will not survive" style="max-width:120px; height:auto;" />
       </td>
@@ -959,7 +941,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/397fdeb5f6e942fbb9a09a5d78acd5a9.png" alt="Cover for Prey to the World" style="max-width:120px; height:auto;" />
       </td>
@@ -978,7 +960,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/XWXkzeEx2bXsHvNDifxYTwFhg2HbXcX5IjrLz1H71lQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTg5/NjEtMTQyMjExNjE0/MC0zMjgyLmpwZWc.jpeg" alt="Cover for Live the Storm" style="max-width:120px; height:auto;" />
       </td>
@@ -997,7 +979,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
       </td>
       <td>2008</td>
@@ -1015,7 +997,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
       </td>
       <td>2008-05</td>
@@ -1030,13 +1012,13 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 11</li>
+            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 10</li>
             <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4d6724b988c4a213de6f9c5ab46cab1.png" alt="Cover for Comalive" style="max-width:120px; height:auto;" />
       </td>
@@ -1055,7 +1037,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/53ae84597b52426a88c1b232c37a33d6.png" alt="Cover for Vintage Addiction" style="max-width:120px; height:auto;" />
       </td>
@@ -1076,16 +1058,15 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>46</td>
       <td>
-          <img src="https://i.discogs.com/0QtvCvvsTLFW34dsW3l_0dNCRlc_1rkZ5TDwZusHhcI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTU2/MzAtMTMyODc0NTQ4/Mi5qcGVn.jpeg" alt="Cover for Antimaster" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/ocXqxOC2QWXCvxr74UCPt3-kUiF_mMwNh3v0-I4Jy6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MzY1/NTgtMTQyODYxNTYw/Ni03ODcwLmpwZWc.jpeg" alt="Cover for Пёс Войны" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
-      <td>antimaster</td>
-      <td>Antimaster</td>
+      <td>4scums</td>
+      <td>Пёс Войны</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crust" | relative_url }}">crust</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a></li>
         </ul>
       </td>
@@ -1095,7 +1076,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>84</td>
       <td>
           <img src="https://i.discogs.com/04As8tBHge3hmjyYFoR1RcxXfMS3w6nXYgG-PzyGia4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODIw/MDEtMTI2NzAwOTU0/MC5qcGVn.jpeg" alt="Cover for From Ashes Rise&#x2F;Victims Split" style="max-width:120px; height:auto;" />
       </td>
@@ -1114,15 +1095,16 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>85</td>
       <td>
-          <img src="https://i.discogs.com/ocXqxOC2QWXCvxr74UCPt3-kUiF_mMwNh3v0-I4Jy6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MzY1/NTgtMTQyODYxNTYw/Ni03ODcwLmpwZWc.jpeg" alt="Cover for Пёс Войны" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/0QtvCvvsTLFW34dsW3l_0dNCRlc_1rkZ5TDwZusHhcI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTU2/MzAtMTMyODc0NTQ4/Mi5qcGVn.jpeg" alt="Cover for Antimaster" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
-      <td>4scums</td>
-      <td>Пёс Войны</td>
+      <td>antimaster</td>
+      <td>Antimaster</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crust" | relative_url }}">crust</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a></li>
         </ul>
       </td>
@@ -1132,7 +1114,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/iq0cywytqrxTkOxwov8M-SynBue92JK430GIBZ6Y5PQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODk1/ODQtMTMxMDY1MzA2/OC5qcGVn.jpeg" alt="Cover for Dis Means War" style="max-width:120px; height:auto;" />
       </td>
@@ -1152,7 +1134,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
       </td>
       <td>2011-02-18</td>
@@ -1169,7 +1151,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/cdac5c91c1b2a302ea4e63fff7e244b3.png" alt="Cover for Darker Handcraft" style="max-width:120px; height:auto;" />
       </td>
@@ -1189,7 +1171,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ade8f66e80b24cb9cc222f5b3ff353cd.png" alt="Cover for The Tokeover EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1210,7 +1192,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/KM_-UsRCnPRqSsqty1PQl25Uu1KSRxtlxMAvtO62egM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMTU5/NDctMTMzMjc5MDEx/OC5naWY.jpeg" alt="Cover for Dårarnas paradis" style="max-width:120px; height:auto;" />
       </td>
@@ -1230,26 +1212,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>39</td>
-      <td>
-          <img src="https://i.discogs.com/q92ht7R5rbl7-8nByTgKJ6YIpPkuRacx_cXwVmb3JmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Nzk2/MjYtMTYxODU2MTA1/Mi02NTU2LmpwZWc.jpeg" alt="Cover for Failure" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012</td>
-      <td>Drip of Lies</td>
-      <td>Failure</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crust" | relative_url }}">crust</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/TNjpV4LYEc_lTKuf26a9zZldu41rP1HcknbOEVZfBFA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTcx/OTgtMTM0MDA2OTEy/My03Njk3LnBuZw.jpeg" alt="Cover for Mindless Nation" style="max-width:120px; height:auto;" />
       </td>
@@ -1268,7 +1231,26 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>61</td>
+      <td>
+          <img src="https://i.discogs.com/q92ht7R5rbl7-8nByTgKJ6YIpPkuRacx_cXwVmb3JmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Nzk2/MjYtMTYxODU2MTA1/Mi02NTU2LmpwZWc.jpeg" alt="Cover for Failure" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Drip of Lies</td>
+      <td>Failure</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crust" | relative_url }}">crust</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/9_O1QBPiBwQESrqdh_yMtkgPvaFzvmwpsaaWVQjRGQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDM3/OTctMTMzMzAzMzYw/MS5qcGVn.jpeg" alt="Cover for Cop Problem" style="max-width:120px; height:auto;" />
       </td>
@@ -1288,7 +1270,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b1742eacd5f948b6b16d6626b09f3eeb.png" alt="Cover for Damned" style="max-width:120px; height:auto;" />
       </td>
@@ -1307,7 +1289,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/u8Oq5GW70K7RtF7VANxHpue1GEkp74yYTmPdecQ3Z8Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzAz/NjEtMTM1NDIyMTg2/OC03NTQyLmpwZWc.jpeg" alt="Cover for Julistus EP" style="max-width:120px; height:auto;" />
       </td>
@@ -1327,7 +1309,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/bX-TAZO5yhuI4-fTBrQOVPLu6ZadR2RPvK6pAVPZi0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNTk1/MjYtMTQyNDQ1ODc2/Mi00NDIyLmpwZWc.jpeg" alt="Cover for Edelweiss" style="max-width:120px; height:auto;" />
       </td>
@@ -1346,7 +1328,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac681ed462634629806f8e6263485460.png" alt="Cover for Downfall Of Gaia &#x2F; In The Hearts Of Emperors Split" style="max-width:120px; height:auto;" />
       </td>
@@ -1368,7 +1350,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>60</td>
       <td>
       </td>
       <td>2013</td>
@@ -1385,7 +1367,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/_mMPOTSbmndXac7VM_zaTAktoRUe0Rey1nC4lHxNyHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNzQ2/NTMtMTM4OTMxMTY2/OC0yODE3LmpwZWc.jpeg" alt="Cover for Blazing Eye" style="max-width:120px; height:auto;" />
       </td>
@@ -1404,7 +1386,29 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>100</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/876ab28507374b8ccb559f7de66e5f33.png" alt="Cover for Bedtime for humanity" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2013</td>
+      <td>Lautstürmer</td>
+      <td>Bedtime for humanity</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crust" | relative_url }}">crust</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/d-beat" | relative_url }}">d-beat</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
       <td>
           <img src="https://i.discogs.com/ZXyoCY3EizQBS4P-y2kUHjIwDJ_Nak3WYXcMaqzagi8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzg1/MTc0LTE0OTY0MjAw/NTMtNzY1My5qcGVn.jpeg" alt="Cover for Life, Death... Rebirth" style="max-width:120px; height:auto;" />
       </td>
@@ -1421,7 +1425,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7a770e58a91665d188de3ab9ceee0fa.png" alt="Cover for Arnaut pavle" style="max-width:120px; height:auto;" />
       </td>
@@ -1440,7 +1444,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>58</td>
       <td>
       </td>
       <td>2013-03-31</td>
@@ -1458,7 +1462,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://i.discogs.com/dVSEZmuAh2QfI1w_XAR49OKqW9ih9ci_LrmDik8dGs4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NjM2/NDYtMTM2NTU5MTMw/Mi03Nzk0LmpwZWc.jpeg" alt="Cover for Killing For Nothing" style="max-width:120px; height:auto;" />
       </td>
@@ -1477,7 +1481,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/85T-RiMmerZPThOk5tKCMFivEpTlLC1hMUTFTMIpgLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzg4/NjA1LTE1MDQzNDU0/NTAtODA0Mi5qcGVn.jpeg" alt="Cover for concepted well" style="max-width:120px; height:auto;" />
       </td>
@@ -1496,7 +1500,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/OS4qY_s-ELT8hnI9gaZam0IgVMGG0NlQC8LkAiVkJFs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODUz/NTQtMTQwODEwNTA4/My03NTgyLmpwZWc.jpeg" alt="Cover for In Turmoil" style="max-width:120px; height:auto;" />
       </td>
@@ -1522,14 +1526,14 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rabm" | relative_url }}">rabm</a> # 57</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 30</li>
+            <li> <a href="{{ "/tags/rabm" | relative_url }}">rabm</a> # 44</li>
             <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 58</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>92</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/38f686215c91d9665e429060bd6e2fbc.png" alt="Cover for Actual Hell" style="max-width:120px; height:auto;" />
       </td>
@@ -1549,7 +1553,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>88</td>
       <td>
           <img src="https://i.discogs.com/1X8IHZBkt4fUJC5Mii3WT6aU7Gyb7rGdirkCIGhOml4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjc3/ODktMTM1Nzc2MzI4/OS0xNzc0LmpwZWc.jpeg" alt="Cover for Satyagraha" style="max-width:120px; height:auto;" />
       </td>
@@ -1567,7 +1571,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>33</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7240d48c5fa92cf804c799bfd51b49a.png" alt="Cover for Demo 2015" style="max-width:120px; height:auto;" />
       </td>
@@ -1585,7 +1589,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/CSJZOCpMI7HjcoUZydnotzlJAS-gqYA-oQxoTlSj70I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNzQ1/MzEtMTQ3Nzc2Njc2/MC0zNTM0LmpwZWc.jpeg" alt="Cover for I Want to Die Suffering" style="max-width:120px; height:auto;" />
       </td>
@@ -1603,7 +1607,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/dEArV6Ra_gR-EhrTfm02SPg4RHcjTlsORV_YIL0AKZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxODU4/ODYtMTQ1Njc0OTE0/NC02MDc1LmpwZWc.jpeg" alt="Cover for Eternal Downfall" style="max-width:120px; height:auto;" />
       </td>
@@ -1623,7 +1627,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/MQhkOEobzog9vrZsHwO7utkI9Me7W_5Kpzvbuz-Elug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTI4/NTQtMTQ3NDIxNDE1/NS01MDYwLmpwZWc.jpeg" alt="Cover for Sirens" style="max-width:120px; height:auto;" />
       </td>
@@ -1642,7 +1646,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e04ab0f949a57b5f552b0dd147648ac4.png" alt="Cover for Inferno" style="max-width:120px; height:auto;" />
       </td>
@@ -1662,7 +1666,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://i.discogs.com/Ep90F1G-MdgtJ7JV4mrmH7okr5vGaxvt0DkZyhsuHbA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjQz/MzYtMTQ3OTI5ODI0/Ny00NTM1LmpwZWc.jpeg" alt="Cover for Nihilism" style="max-width:120px; height:auto;" />
       </td>
@@ -1681,7 +1685,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbd959c4bc644e3c51b77d69c5e9506b.png" alt="Cover for Run With the Hunted" style="max-width:120px; height:auto;" />
       </td>
@@ -1700,7 +1704,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/PSiJiT0cYQBJe-cL0HyqBnHu5CIsB3kvcCM0jLQLQEE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTcz/Njc2LTE1MDAxNjA0/MDEtMjY3NC5qcGVn.jpeg" alt="Cover for Cellar Dweller" style="max-width:120px; height:auto;" />
       </td>
@@ -1718,7 +1722,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>66</td>
       <td>
           <img src="https://i.discogs.com/8t2uQdPHapZEtcRLuqYGcoO-LwsdV9mrN63uWcgWyxY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzE5/Nzc3LTE1NTIwMDc0/MTctOTIyMS5qcGVn.jpeg" alt="Cover for ANOTHER REALITY ANOTHER FEARS" style="max-width:120px; height:auto;" />
       </td>
@@ -1737,7 +1741,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>94</td>
       <td>
           <img src="https://i.discogs.com/sQNk93EKWREfhPVsdDKhek6d9MnNBTYPghwxy0HE9Iw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzA3/MjAxLTE1MjA5OTcx/MjktNzU2Ny5qcGVn.jpeg" alt="Cover for At leve som hvis der var et håb" style="max-width:120px; height:auto;" />
       </td>
@@ -1756,7 +1760,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/08f8c34cca9c14990f93fbb04743e3a2.png" alt="Cover for LP" style="max-width:120px; height:auto;" />
       </td>
@@ -1779,7 +1783,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://i.discogs.com/EHGcPMnUBGPJ_vhl6d7uR3oIk3T5Vx6oIxcgF8NJywc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MTk1/MDQtMTQyOTUxMDcy/OC00NTM4LnBuZw.jpeg" alt="Cover for The Avhath Rites" style="max-width:120px; height:auto;" />
       </td>
@@ -1799,7 +1803,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>35</td>
       <td>
           <img src="https://i.discogs.com/oGCczBPlGIPUjjd2VNAbKC8kEXM6LLED7r7WevjhiUg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjY3/MzczLTE1NTg2MjYx/MzYtMzQ4Ny5qcGVn.jpeg" alt="Cover for What We Leave Behind" style="max-width:120px; height:auto;" />
       </td>
@@ -1817,7 +1821,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://i.discogs.com/UtimO0Lh3gPTG2aMBJxbVwziWQUOEbvKNNApiaOB1s8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU0/MjM2LTE1NzA4MTU1/MjgtOTUyMC5qcGVn.jpeg" alt="Cover for Some Kind of War" style="max-width:120px; height:auto;" />
       </td>
@@ -1832,12 +1836,12 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 14</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/JmA_2koXSjn3FUW3PGjQ5EsV2Aj1i-AwixTodtoEuuk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTA5/NjAwLTE2MTM4NTI1/MzctNjY0MS5qcGVn.jpeg" alt="Cover for Hantise" style="max-width:120px; height:auto;" />
       </td>
@@ -1857,7 +1861,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/z-uLmXYJNJHoX6RHSYefvEMS9-0nPxrOVgNL0CkG-cc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjIy/MDAxLTE2MTQ1MDMx/NTEtODUzMy5qcGVn.jpeg" alt="Cover for 1집" style="max-width:120px; height:auto;" />
       </td>
@@ -1876,7 +1880,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/393bea25cd6c1a16601e8b877ab5fe98.png" alt="Cover for Sense Of Dread" style="max-width:120px; height:auto;" />
       </td>
@@ -1898,7 +1902,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc0b41e850522133fc3810bf38ab8283.png" alt="Cover for Shooting Star" style="max-width:120px; height:auto;" />
       </td>
@@ -1918,7 +1922,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>54</td>
       <td>
       </td>
       <td></td>
@@ -1936,7 +1940,7 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>97</td>
       <td>
       </td>
       <td></td>
@@ -1959,8 +1963,8 @@ D-beat is a raw, aggressive punk drumming style characterized by a relentless ga
 - [crust]({{ "/tags/crust" | relative_url }})
 - [hardcore punk]({{ "/tags/hardcore-punk" | relative_url }})
 - [hardcore]({{ "/tags/hardcore" | relative_url }})
-- [metal]({{ "/tags/metal" | relative_url }})
 - [grindcore]({{ "/tags/grindcore" | relative_url }})
+- [metal]({{ "/tags/metal" | relative_url }})
 - [black metal]({{ "/tags/black-metal" | relative_url }})
 - [swedish]({{ "/tags/swedish" | relative_url }})
 - [sweden]({{ "/tags/sweden" | relative_url }})

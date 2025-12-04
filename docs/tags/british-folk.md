@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-12T02:06:27.891Z
+date: 2025-12-04T04:29:43.163Z
 permalink: tags/british-folk
 title: british folk
 ---
 
 ## british folk
 
-Last updated: <time datetime="2025-11-12T02:06:27.891Z">Wed Nov 12 2025 04:06:27 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:29:43.163Z">Thu Dec 04 2025 06:29:43 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -46,7 +46,7 @@ British folk encompasses traditional and contemporary music rooted in the storyt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 52</li>
+            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -84,6 +84,7 @@ British folk encompasses traditional and contemporary music rooted in the storyt
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -155,6 +156,7 @@ British folk encompasses traditional and contemporary music rooted in the storyt
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -175,7 +177,7 @@ British folk encompasses traditional and contemporary music rooted in the storyt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 67</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -196,7 +198,7 @@ British folk encompasses traditional and contemporary music rooted in the storyt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 65</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -291,6 +293,27 @@ British folk encompasses traditional and contemporary music rooted in the storyt
       </td>
     </tr>
     <tr>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/X8I1y7OwEpr1M12ilT1wUc28Par3YIqLx3KRwZf06VQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDEx/MzQtMTIwNzgzNzgz/NC5qcGVn.jpeg" alt="Cover for Fog On The Tyne" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1971</td>
+      <td>Lindisfarne</td>
+      <td>Fog On The Tyne</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 98</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>33</td>
       <td>
           <img src="https://i.discogs.com/Rbx151JwSuNr2vpJ0U3sR4AxfrLrila3cRNODvVI_vg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDc5/NTctMTQwMjIzNTEy/Ni01MzIyLmpwZWc.jpeg" alt="Cover for Songs from Wasties Orchard" style="max-width:120px; height:auto;" />
@@ -369,26 +392,6 @@ British folk encompasses traditional and contemporary music rooted in the storyt
       </td>
     </tr>
     <tr>
-      <td>100</td>
-      <td>
-          <img src="https://i.discogs.com/X8I1y7OwEpr1M12ilT1wUc28Par3YIqLx3KRwZf06VQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDEx/MzQtMTIwNzgzNzgz/NC5qcGVn.jpeg" alt="Cover for Fog On The Tyne" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1971</td>
-      <td>Lindisfarne</td>
-      <td>Fog On The Tyne</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>48</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9eeb4a38202741a18aa1aebbac313358.png" alt="Cover for Rosemary Lane" style="max-width:120px; height:auto;" />
@@ -410,6 +413,7 @@ British folk encompasses traditional and contemporary music rooted in the storyt
     <tr>
       <td>37</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8e78e56e7c0446a9a76d3f61b7569ad2.png" alt="Cover for Angel Delight" style="max-width:120px; height:auto;" />
       </td>
       <td>1971-06</td>
       <td>Fairport Convention</td>
@@ -439,7 +443,7 @@ British folk encompasses traditional and contemporary music rooted in the storyt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 77</li>
+            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -553,7 +557,7 @@ British folk encompasses traditional and contemporary music rooted in the storyt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 67</li>
+            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -592,7 +596,7 @@ British folk encompasses traditional and contemporary music rooted in the storyt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 60</li>
+            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -713,7 +717,7 @@ British folk encompasses traditional and contemporary music rooted in the storyt
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/SYbZZlW1rlJlVGd6x8GSmLv-fQ6rvm1ZdU3juS9-i_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTc5/NDE5LTE1NjU0NDA1/NDMtNDA3MC5qcGVn.jpeg" alt="Cover for Wide Blue Yonder" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea84cda24b17e7cc11608c7fb7020d74.png" alt="Cover for Wide Blue Yonder" style="max-width:120px; height:auto;" />
       </td>
       <td>1987-09</td>
       <td>Oysterband</td>
@@ -728,7 +732,7 @@ British folk encompasses traditional and contemporary music rooted in the storyt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 68</li>
+            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -749,7 +753,7 @@ British folk encompasses traditional and contemporary music rooted in the storyt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 71</li>
+            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -787,7 +791,7 @@ British folk encompasses traditional and contemporary music rooted in the storyt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 21</li>
+            <li> <a href="{{ "/tags/irish-folk" | relative_url }}">irish folk</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -903,7 +907,7 @@ British folk encompasses traditional and contemporary music rooted in the storyt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 53</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -967,6 +971,7 @@ British folk encompasses traditional and contemporary music rooted in the storyt
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0ddb317dfba41225705542eec235c81d.png" alt="Cover for Trawler" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-10-17</td>
       <td>Oysterband</td>
@@ -1016,7 +1021,7 @@ British folk encompasses traditional and contemporary music rooted in the storyt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 66</li>
+            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1113,7 +1118,7 @@ British folk encompasses traditional and contemporary music rooted in the storyt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 59</li>
+            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1146,7 +1151,7 @@ British folk encompasses traditional and contemporary music rooted in the storyt
       <td>Mock Tudor</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-folk" | relative_url }}">british folk</a></li>
         </ul>
       </td>
       <td>
@@ -1265,7 +1270,7 @@ British folk encompasses traditional and contemporary music rooted in the storyt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 95</li>
+            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1287,7 +1292,7 @@ British folk encompasses traditional and contemporary music rooted in the storyt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 67</li>
+            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1405,7 +1410,7 @@ British folk encompasses traditional and contemporary music rooted in the storyt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 5</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1537,7 +1542,7 @@ British folk encompasses traditional and contemporary music rooted in the storyt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 27</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 28</li>
             <li> <a href="{{ "/tags/ambient-folk-noir" | relative_url }}">ambient folk noir</a> # 95</li>
         </ul>
       </td>
@@ -1578,7 +1583,7 @@ British folk encompasses traditional and contemporary music rooted in the storyt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 69</li>
+            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1656,7 +1661,7 @@ British folk encompasses traditional and contemporary music rooted in the storyt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 50</li>
+            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1756,7 +1761,7 @@ British folk encompasses traditional and contemporary music rooted in the storyt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 89</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1794,7 +1799,7 @@ British folk encompasses traditional and contemporary music rooted in the storyt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 94</li>
+            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1833,7 +1838,7 @@ British folk encompasses traditional and contemporary music rooted in the storyt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 55</li>
+            <li> <a href="{{ "/tags/english-folk" | relative_url }}">english folk</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1860,11 +1865,11 @@ British folk encompasses traditional and contemporary music rooted in the storyt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 9</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 10</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 18</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 22</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 37</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 67</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 79</li>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 82</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1927,7 +1932,7 @@ British folk encompasses traditional and contemporary music rooted in the storyt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 22</li>
+            <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1955,7 +1960,7 @@ British folk encompasses traditional and contemporary music rooted in the storyt
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 41</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 60</li>
             <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 80</li>
         </ul>
       </td>
@@ -1963,6 +1968,7 @@ British folk encompasses traditional and contemporary music rooted in the storyt
     <tr>
       <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e76f71497880439da9e897eff821eeb8.png" alt="Cover for Open up your Heart" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Opaque Nature</td>

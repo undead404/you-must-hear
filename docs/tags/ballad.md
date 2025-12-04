@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T10:11:30.457Z
+date: 2025-12-04T04:30:05.966Z
 permalink: tags/ballad
 title: ballad
 ---
 
 ## ballad
 
-Last updated: <time datetime="2025-11-14T10:11:30.457Z">Fri Nov 14 2025 12:11:30 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:30:05.966Z">Thu Dec 04 2025 06:30:05 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -81,7 +81,7 @@ Ballad music is a type of song that typically tells a story, often with a narrat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 46</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -105,7 +105,7 @@ Ballad music is a type of song that typically tells a story, often with a narrat
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/K-VkW3kcNm_6800NTBpTwwxQo-_3P0lQzdCAC3_IST0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODA2/OTQtMTU2MTg3OTUz/My0zNTM0LmpwZWc.jpeg" alt="Cover for Midnight Lady" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fc7ecc82dd18950a75c222b0d8032ddc.png" alt="Cover for Midnight Lady" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Chris Norman</td>
@@ -210,7 +210,7 @@ Ballad music is a type of song that typically tells a story, often with a narrat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 89</li>
+            <li> <a href="{{ "/tags/new-jack-swing" | relative_url }}">new jack swing</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -231,8 +231,8 @@ Ballad music is a type of song that typically tells a story, often with a narrat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 41</li>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 95</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 6</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -314,9 +314,9 @@ Ballad music is a type of song that typically tells a story, often with a narrat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 27</li>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 83</li>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 94</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 7</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 16</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -338,7 +338,7 @@ Ballad music is a type of song that typically tells a story, often with a narrat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 47</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -361,8 +361,8 @@ Ballad music is a type of song that typically tells a story, often with a narrat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 91</li>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 99</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 2</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -460,10 +460,10 @@ Ballad music is a type of song that typically tells a story, often with a narrat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 7</li>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 93</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 96</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 100</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 1</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 5</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 20</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 94</li>
             <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 100</li>
         </ul>
       </td>
@@ -504,7 +504,7 @@ Ballad music is a type of song that typically tells a story, often with a narrat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 48</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -699,7 +699,7 @@ Ballad music is a type of song that typically tells a story, often with a narrat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 70</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -743,7 +743,7 @@ Ballad music is a type of song that typically tells a story, often with a narrat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 46</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -768,7 +768,7 @@ Ballad music is a type of song that typically tells a story, often with a narrat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 51</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -924,7 +924,7 @@ Ballad music is a type of song that typically tells a story, often with a narrat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 77</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -945,7 +945,7 @@ Ballad music is a type of song that typically tells a story, often with a narrat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 84</li>
+            <li> <a href="{{ "/tags/eurovision" | relative_url }}">eurovision</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1003,8 +1003,8 @@ Ballad music is a type of song that typically tells a story, often with a narrat
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 1</li>
             <li> <a href="{{ "/tags/indonesia" | relative_url }}">indonesia</a> # 100</li>
-            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1090,9 +1090,10 @@ Ballad music is a type of song that typically tells a story, often with a narrat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 37</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 39</li>
-            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 75</li>
+            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 21</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 41</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 44</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1152,7 +1153,7 @@ Ballad music is a type of song that typically tells a story, often with a narrat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 84</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1171,7 +1172,7 @@ Ballad music is a type of song that typically tells a story, often with a narrat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 20</li>
+            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1192,7 +1193,7 @@ Ballad music is a type of song that typically tells a story, often with a narrat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 60</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1228,7 +1229,6 @@ Ballad music is a type of song that typically tells a story, often with a narrat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/girlgroup" | relative_url }}">girlgroup</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1255,9 +1255,9 @@ Ballad music is a type of song that typically tells a story, often with a narrat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 49</li>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 50</li>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 97</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 4</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 53</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1281,7 +1281,7 @@ Ballad music is a type of song that typically tells a story, often with a narrat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 41</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1470,8 +1470,8 @@ Ballad music is a type of song that typically tells a story, often with a narrat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 45</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 91</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 8</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 53</li>
             <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 98</li>
         </ul>
       </td>
@@ -1519,19 +1519,18 @@ Ballad music is a type of song that typically tells a story, often with a narrat
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/13b92f58d904682dbda17e601ecf403e.png" alt="Cover for Song Request 신청곡 (feat. SUGA of BTS)" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-01-22</td>
       <td>Lee So Ra</td>
       <td>Song Request 신청곡 (feat. SUGA of BTS)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/korean" | relative_url }}">korean</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 88</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1651,6 +1650,7 @@ Ballad music is a type of song that typically tells a story, often with a narrat
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/k-pop" | relative_url }}">k-pop</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1690,7 +1690,7 @@ Ballad music is a type of song that typically tells a story, often with a narrat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 76</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1714,11 +1714,11 @@ Ballad music is a type of song that typically tells a story, often with a narrat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 80</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 91</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 94</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 1</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 4</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 85</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 93</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 99</li>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1743,7 +1743,7 @@ Ballad music is a type of song that typically tells a story, often with a narrat
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/D3TWoHIJJOwRL6OCYxw_tIGi5wgMjcHNZ4fZVThrWok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDI4/NDgtMTQ3NzU2NDQx/OC03ODM2LmpwZWc.jpeg" alt="Cover for Broadway-Blues-Ballads" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/830749d8d79bf137f9c64960e102e690.png" alt="Cover for Broadway-Blues-Ballads" style="max-width:120px; height:auto;" />
       </td>
       <td>2021</td>
       <td>Nina Simone</td>
@@ -1763,9 +1763,9 @@ Ballad music is a type of song that typically tells a story, often with a narrat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 18</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 33</li>
-            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 87</li>
+            <li> <a href="{{ "/tags/gospel" | relative_url }}">gospel</a> # 14</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 51</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1788,9 +1788,9 @@ Ballad music is a type of song that typically tells a story, often with a narrat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 4</li>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 72</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 76</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 18</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 19</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 19</li>
             <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 99</li>
         </ul>
       </td>
@@ -1838,7 +1838,7 @@ Ballad music is a type of song that typically tells a story, often with a narrat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 33</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1858,13 +1858,13 @@ Ballad music is a type of song that typically tells a story, often with a narrat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 57</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 61</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 2</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 8</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 15</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 27</li>
             <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 71</li>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 85</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 72</li>
             <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 93</li>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 93</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1907,8 +1907,8 @@ Ballad music is a type of song that typically tells a story, often with a narrat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 12</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 50</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 13</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 49</li>
             <li> <a href="{{ "/tags/mariachi" | relative_url }}">mariachi</a> # 100</li>
         </ul>
       </td>
@@ -1949,14 +1949,14 @@ Ballad music is a type of song that typically tells a story, often with a narrat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 51</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/zqn4VSS1QkeG69EhTzvdGrCClxU6QaLqlnmPrttbpSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODk1/NTkwLTE2ODI1NTk1/NTQtOTUyMS5qcGVn.jpeg" alt="Cover for Part of Your World (From &quot;The Little Mermaid&quot;)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/22a1ce016d8b8ef9336c7e4e4a0cdf4c.png" alt="Cover for Part of Your World (From &quot;The Little Mermaid&quot;)" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-04-26</td>
       <td>Halle</td>
@@ -2010,7 +2010,7 @@ Ballad music is a type of song that typically tells a story, often with a narrat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 14</li>
+            <li> <a href="{{ "/tags/korean" | relative_url }}">korean</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -2031,6 +2031,7 @@ Ballad music is a type of song that typically tells a story, often with a narrat
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 97</li>
         </ul>
       </td>
     </tr>

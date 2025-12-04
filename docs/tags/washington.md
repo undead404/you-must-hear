@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T06:29:32.184Z
+date: 2025-12-04T04:29:54.695Z
 permalink: tags/washington
 title: washington
 ---
 
 ## washington
 
-Last updated: <time datetime="2025-11-25T06:29:32.184Z">Tue Nov 25 2025 08:29:32 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:29:54.695Z">Thu Dec 04 2025 06:29:54 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -561,7 +561,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mastersinger" | relative_url }}">mastersinger</a> # 30</li>
+            <li> <a href="{{ "/tags/mastersinger" | relative_url }}">mastersinger</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -677,7 +677,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 4</li>
+            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -946,8 +946,8 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 8</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 34</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 67</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1061,9 +1061,9 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 90</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 5</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 49</li>
             <li> <a href="{{ "/tags/riot-grrrl" | relative_url }}">riot grrrl</a> # 95</li>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1086,9 +1086,9 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 1</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 5</li>
             <li> <a href="{{ "/tags/riot-grrrl" | relative_url }}">riot grrrl</a> # 75</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 96</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1224,8 +1224,8 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 39</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 54</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1252,7 +1252,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 16</li>
+            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1319,9 +1319,9 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 13</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 32</li>
             <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 57</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1351,10 +1351,10 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
         <ul>
             <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 19</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 26</li>
-            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 36</li>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 52</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 27</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 48</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 65</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 74</li>
+            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 65</li>
             <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 81</li>
         </ul>
       </td>
@@ -1395,7 +1395,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 37</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1434,11 +1434,11 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       <td>
         <ul>
             <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 10</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 14</li>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 17</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 28</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 15</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 46</li>
             <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 51</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 73</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1474,15 +1474,15 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 34</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 7</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 17</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 19</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 33</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 39</li>
             <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 44</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 62</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 62</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 65</li>
             <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 70</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 82</li>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 84</li>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1506,7 +1506,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 24</li>
+            <li> <a href="{{ "/tags/glam-punk" | relative_url }}">glam punk</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1613,16 +1613,16 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 21</li>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 64</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 66</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 4</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 6</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 10</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 20</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 65</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 67</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 75</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 76</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 81</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 80</li>
             <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 87</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 91</li>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 95</li>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1648,7 +1648,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 20</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1897,7 +1897,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 10</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -2053,7 +2053,7 @@ The &quot;washington&quot; tag encompasses music created by artists from Washing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 6</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 95</li>
         </ul>
       </td>
     </tr>

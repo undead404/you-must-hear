@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T06:31:29.284Z
+date: 2025-12-04T04:33:16.574Z
 permalink: tags/karlsruhe
 title: karlsruhe
 ---
 
 ## karlsruhe
 
-Last updated: <time datetime="2025-11-25T06:31:29.284Z">Tue Nov 25 2025 08:31:29 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:33:16.574Z">Thu Dec 04 2025 06:33:16 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -115,7 +115,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 33</li>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 68</li>
             <li> <a href="{{ "/tags/harmonica-blues" | relative_url }}">harmonica blues</a> # 85</li>
             <li> <a href="{{ "/tags/chicago-blues" | relative_url }}">chicago blues</a> # 92</li>
         </ul>
@@ -305,7 +305,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 100</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -361,7 +361,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 34</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -382,7 +382,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 76</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1473,7 +1473,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 35</li>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 66</li>
             <li> <a href="{{ "/tags/harmonica-blues" | relative_url }}">harmonica blues</a> # 75</li>
         </ul>
       </td>
@@ -1607,7 +1607,7 @@ Karlsruhe represents the influential British blues-rock guitar tradition that em
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 98</li>
+            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 3</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T09:11:38.081Z
+date: 2025-12-04T04:32:50.376Z
 permalink: tags/industrial-death-metal
 title: industrial death metal
 ---
 
 ## industrial death metal
 
-Last updated: <time datetime="2025-11-26T09:11:38.081Z">Wed Nov 26 2025 11:11:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:32:50.376Z">Thu Dec 04 2025 06:32:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -98,6 +98,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -230,7 +231,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 8</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -249,7 +250,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 57</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 44</li>
             <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 68</li>
         </ul>
       </td>
@@ -270,14 +271,14 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 41</li>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 47</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/JdyCH0xeeqhDAt6AzejptpIwOLqdf3vaMk-nI8IkLEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTEz/MjQtMTU2ODEzNTYx/MS04Nzc1LmpwZWc.jpeg" alt="Cover for embryo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9279e378babce24cd1cc8ed02b5912c7.png" alt="Cover for embryo" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Embryo</td>
@@ -351,9 +352,9 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 15</li>
             <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 21</li>
             <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 39</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -442,13 +443,13 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4eb299fba5cc7002b9946fdb972407ca.png" alt="Cover for Hate, Dominate, Congregate, Eliminate" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-08-25</td>
       <td>The Project Hate MCMXCIX</td>
@@ -459,7 +460,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 5</li>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -478,7 +479,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 37</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -500,7 +501,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 22</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -540,7 +541,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 81</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -598,8 +599,8 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 32</li>
             <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 52</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -618,7 +619,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 41</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -657,7 +658,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 27</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -693,7 +694,6 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -791,8 +791,8 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 23</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 82</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 19</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -848,14 +848,15 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 14</li>
             <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 26</li>
+            <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/affb185548c7aa10db8f876dce77b14e.png" alt="Cover for In Hora Mortis Nostræ" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-09-15</td>
       <td>The Project Hate MCMXCIX</td>
@@ -903,7 +904,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a> # 30</li>
+            <li> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -924,7 +925,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 90</li>
+            <li> <a href="{{ "/tags/cyber-metal" | relative_url }}">cyber metal</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -960,7 +961,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 30</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -985,6 +986,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e07eb0cbf124ac997e938ec08963a71.png" alt="Cover for Innocent" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-12-12</td>
       <td>Cypecore</td>
@@ -997,7 +999,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 16</li>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1019,8 +1021,8 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       <td>
         <ul>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 35</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 51</li>
-            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 60</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 48</li>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1155,7 +1157,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 10</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1176,13 +1178,14 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/uQGx3a3uGRYQARXMp-QfrB7GUs5fsOnkNdV2SgtCfL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDE4/OTItMTI5OTAxMDQz/OS5qcGVn.jpeg" alt="Cover for Take the Consequence" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/843be48745c694517e9eb6e3668884fa.png" alt="Cover for Take the Consequence" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-12-03</td>
       <td>Cypecore</td>
@@ -1195,7 +1198,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 35</li>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1259,7 +1262,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/1kIfikzmzaQhU_KedJrAWiiJ-aRcGLAxqGn2O8sYiGc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MjEy/ODYtMTMzMzczNDg1/OS5qcGVn.jpeg" alt="Cover for Bleeding the New Apocalypse (Cum Victriciis in Manibus Armis)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3f6b1604ad64aeeba6e91fad411b4e3.png" alt="Cover for Bleeding the New Apocalypse (Cum Victriciis in Manibus Armis)" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-02-14</td>
       <td>The Project Hate MCMXCIX</td>
@@ -1530,7 +1533,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/iGM2PqJw5wb3a-M1oqyNyBdyHqjcnXmmiQ_HwEyuHI4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc2/Nzg2LTE2NjM1MDE1/MTgtNzA1OS5qcGVn.jpeg" alt="Cover for A Step Beyond Divinity" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7216c2547652ce0b98079285d64fa01c.png" alt="Cover for A Step Beyond Divinity" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-04-25</td>
       <td>Embryo</td>
@@ -1601,7 +1604,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a> # 37</li>
+            <li> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1760,7 +1763,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 43</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1844,7 +1847,7 @@ Industrial death metal fuses the brutal aggression and guttural vocals of death 
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/2imVdVHyreCL07V2QziLHS2UuTg1FnxvmGXGGbH6yTk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTIz/MzMtMTI0MzY1ODUw/NS5qcGVn.jpeg" alt="Cover for A Vivid Shade On Misery" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a79aee8ccdc63258a8347c3e0904a037.png" alt="Cover for A Vivid Shade On Misery" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-03-17</td>
       <td>Embryo</td>

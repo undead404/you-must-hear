@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-20T02:44:06.068Z
+date: 2025-12-04T04:29:16.180Z
 permalink: tags/exotica
 title: exotica
 ---
 
 ## exotica
 
-Last updated: <time datetime="2025-11-20T02:44:06.068Z">Thu Nov 20 2025 04:44:06 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:29:16.180Z">Thu Dec 04 2025 06:29:16 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,7 +44,7 @@ Exotica is a mid-century genre that conjures imaginary tropical paradises throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 15</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -145,9 +145,9 @@ Exotica is a mid-century genre that conjures imaginary tropical paradises throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 41</li>
-            <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 86</li>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 90</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 11</li>
+            <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 15</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -172,7 +172,7 @@ Exotica is a mid-century genre that conjures imaginary tropical paradises throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 72</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -230,7 +230,7 @@ Exotica is a mid-century genre that conjures imaginary tropical paradises throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 81</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -373,7 +373,7 @@ Exotica is a mid-century genre that conjures imaginary tropical paradises throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 19</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -418,9 +418,9 @@ Exotica is a mid-century genre that conjures imaginary tropical paradises throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 44</li>
-            <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 89</li>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 92</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 9</li>
+            <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 12</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -459,7 +459,7 @@ Exotica is a mid-century genre that conjures imaginary tropical paradises throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 79</li>
+            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -485,7 +485,7 @@ Exotica is a mid-century genre that conjures imaginary tropical paradises throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 58</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -591,7 +591,7 @@ Exotica is a mid-century genre that conjures imaginary tropical paradises throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 7</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -626,7 +626,8 @@ Exotica is a mid-century genre that conjures imaginary tropical paradises throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 15</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 5</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -671,7 +672,7 @@ Exotica is a mid-century genre that conjures imaginary tropical paradises throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 84</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -768,7 +769,7 @@ Exotica is a mid-century genre that conjures imaginary tropical paradises throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 31</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -941,7 +942,7 @@ Exotica is a mid-century genre that conjures imaginary tropical paradises throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 52</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1019,13 +1020,13 @@ Exotica is a mid-century genre that conjures imaginary tropical paradises throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 33</li>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 33</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 6</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 35</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 43</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 63</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 67</li>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 95</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 45</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 48</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 50</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 65</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 68</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 95</li>
         </ul>
       </td>
@@ -1112,11 +1113,12 @@ Exotica is a mid-century genre that conjures imaginary tropical paradises throug
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 15</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 22</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 33</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 38</li>
             <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 54</li>
-            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 86</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 62</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1322,8 +1324,8 @@ Exotica is a mid-century genre that conjures imaginary tropical paradises throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 12</li>
-            <li> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a> # 80</li>
+            <li> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a> # 21</li>
+            <li> <a href="{{ "/tags/sunshine-pop" | relative_url }}">sunshine pop</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1350,8 +1352,8 @@ Exotica is a mid-century genre that conjures imaginary tropical paradises throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 69</li>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 77</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 22</li>
+            <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1446,8 +1448,8 @@ Exotica is a mid-century genre that conjures imaginary tropical paradises throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 40</li>
-            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 63</li>
+            <li> <a href="{{ "/tags/smooth-jazz" | relative_url }}">smooth jazz</a> # 41</li>
+            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1487,8 +1489,8 @@ Exotica is a mid-century genre that conjures imaginary tropical paradises throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 6</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 59</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 41</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1612,17 +1614,16 @@ Exotica is a mid-century genre that conjures imaginary tropical paradises throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 1</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 5</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 6</li>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 18</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 18</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 30</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 31</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 36</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 36</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 44</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 57</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 65</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 69</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 71</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 80</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 82</li>
             <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 93</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1640,13 +1641,13 @@ Exotica is a mid-century genre that conjures imaginary tropical paradises throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 1</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 17</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 18</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 19</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 21</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 23</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 78</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 80</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 82</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 84</li>
             <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 88</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1798,9 +1799,9 @@ Exotica is a mid-century genre that conjures imaginary tropical paradises throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 20</li>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 97</li>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 98</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 3</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 4</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1818,13 +1819,13 @@ Exotica is a mid-century genre that conjures imaginary tropical paradises throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 3</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 18</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 19</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 21</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 24</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 25</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 76</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 77</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 81</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 83</li>
             <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 89</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1843,14 +1844,14 @@ Exotica is a mid-century genre that conjures imaginary tropical paradises throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 8</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/deq1J7NaoxqG-n_J57vviCd9bPLH5U5rYhqsR9Fdi7Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjI5/MTA0LTE1NTc4NDk0/MTctODYxMi5qcGVn.jpeg" alt="Cover for You&#39;re Not from Around Here" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7d9d5a0bc6d1b691f81d8869085bd1e.png" alt="Cover for You&#39;re Not from Around Here" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Various Artists</td>
@@ -1866,7 +1867,8 @@ Exotica is a mid-century genre that conjures imaginary tropical paradises throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 33</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 65</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -2014,9 +2016,9 @@ Exotica is a mid-century genre that conjures imaginary tropical paradises throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 1</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 6</li>
             <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 86</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2047,10 +2049,10 @@ Exotica is a mid-century genre that conjures imaginary tropical paradises throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 12</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 16</li>
             <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 17</li>
-            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 79</li>
+            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 22</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -2067,16 +2069,16 @@ Exotica is a mid-century genre that conjures imaginary tropical paradises throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 1</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 2</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 13</li>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 15</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 27</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 28</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 32</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 32</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 42</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 59</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 69</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 73</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 73</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 83</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 87</li>
             <li> <a href="{{ "/tags/patriotic" | relative_url }}">patriotic</a> # 92</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -2100,9 +2102,9 @@ Exotica is a mid-century genre that conjures imaginary tropical paradises throug
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 1</li>
-            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 26</li>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 67</li>
+            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 27</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 31</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 98</li>
         </ul>
       </td>
     </tr>

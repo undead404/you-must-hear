@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T16:48:22.643Z
+date: 2025-12-04T04:30:33.767Z
 permalink: tags/tropical-house
 title: tropical house
 ---
 
 ## tropical house
 
-Last updated: <time datetime="2025-11-17T16:48:22.643Z">Mon Nov 17 2025 18:48:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:30:33.767Z">Thu Dec 04 2025 06:30:33 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -100,7 +100,7 @@ Tropical house is a subgenre of electronic dance music (EDM) that originated in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 78</li>
+            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -123,10 +123,10 @@ Tropical house is a subgenre of electronic dance music (EDM) that originated in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 58</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 63</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 88</li>
-            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 100</li>
+            <li> <a href="{{ "/tags/chillout" | relative_url }}">chillout</a> # 1</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 13</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 36</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -166,8 +166,8 @@ Tropical house is a subgenre of electronic dance music (EDM) that originated in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 93</li>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 99</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 2</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -278,10 +278,10 @@ Tropical house is a subgenre of electronic dance music (EDM) that originated in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 61</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 98</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 100</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 100</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 1</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 1</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 3</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -308,8 +308,8 @@ Tropical house is a subgenre of electronic dance music (EDM) that originated in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 33</li>
-            <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 92</li>
+            <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 9</li>
+            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 68</li>
             <li> <a href="{{ "/tags/melodic-techno" | relative_url }}">melodic techno</a> # 98</li>
         </ul>
       </td>
@@ -330,7 +330,7 @@ Tropical house is a subgenre of electronic dance music (EDM) that originated in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 98</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -408,8 +408,8 @@ Tropical house is a subgenre of electronic dance music (EDM) that originated in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 44</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 64</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 35</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -429,7 +429,7 @@ Tropical house is a subgenre of electronic dance music (EDM) that originated in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 64</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -451,7 +451,7 @@ Tropical house is a subgenre of electronic dance music (EDM) that originated in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 51</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -473,7 +473,7 @@ Tropical house is a subgenre of electronic dance music (EDM) that originated in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 76</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -495,9 +495,9 @@ Tropical house is a subgenre of electronic dance music (EDM) that originated in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 62</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 87</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 96</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 5</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 14</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -524,14 +524,14 @@ Tropical house is a subgenre of electronic dance music (EDM) that originated in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 86</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 98</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 99</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 99</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 99</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 99</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 2</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 2</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 2</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 2</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 2</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 3</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 13</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 99</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -567,7 +567,7 @@ Tropical house is a subgenre of electronic dance music (EDM) that originated in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 40</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -581,16 +581,11 @@ Tropical house is a subgenre of electronic dance music (EDM) that originated in 
       <td>Phoenix (Deluxe Edition)</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 71</li>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 83</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -702,7 +697,7 @@ Tropical house is a subgenre of electronic dance music (EDM) that originated in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 93</li>
+            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -746,7 +741,7 @@ Tropical house is a subgenre of electronic dance music (EDM) that originated in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 7</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -792,13 +787,13 @@ Tropical house is a subgenre of electronic dance music (EDM) that originated in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 9</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 10</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 26</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 52</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 54</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 55</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 55</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 27</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 46</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 47</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 47</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 49</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 88</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -820,8 +815,8 @@ Tropical house is a subgenre of electronic dance music (EDM) that originated in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 60</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 83</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 39</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -968,7 +963,7 @@ Tropical house is a subgenre of electronic dance music (EDM) that originated in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 69</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1044,7 +1039,7 @@ Tropical house is a subgenre of electronic dance music (EDM) that originated in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 95</li>
+            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1064,7 +1059,7 @@ Tropical house is a subgenre of electronic dance music (EDM) that originated in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 25</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1138,7 +1133,7 @@ Tropical house is a subgenre of electronic dance music (EDM) that originated in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 88</li>
+            <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1175,7 +1170,7 @@ Tropical house is a subgenre of electronic dance music (EDM) that originated in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 50</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1317,11 +1312,11 @@ Tropical house is a subgenre of electronic dance music (EDM) that originated in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 4</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 9</li>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 78</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 84</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 88</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 12</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 13</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 14</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 80</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 86</li>
             <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 95</li>
         </ul>
       </td>
@@ -1342,7 +1337,7 @@ Tropical house is a subgenre of electronic dance music (EDM) that originated in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 98</li>
+            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1364,7 +1359,7 @@ Tropical house is a subgenre of electronic dance music (EDM) that originated in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 90</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1423,7 +1418,7 @@ Tropical house is a subgenre of electronic dance music (EDM) that originated in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 59</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1464,7 +1459,7 @@ Tropical house is a subgenre of electronic dance music (EDM) that originated in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 38</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1567,11 +1562,11 @@ Tropical house is a subgenre of electronic dance music (EDM) that originated in 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 1</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 8</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 36</li>
             <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 50</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 65</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 93</li>
             <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 93</li>
-            <li> <a href="{{ "/tags/chill-house" | relative_url }}">chill house</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1686,7 +1681,7 @@ Tropical house is a subgenre of electronic dance music (EDM) that originated in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 20</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1730,10 +1725,10 @@ Tropical house is a subgenre of electronic dance music (EDM) that originated in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 23</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 33</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 57</li>
-            <li> <a href="{{ "/tags/norge" | relative_url }}">norge</a> # 98</li>
+            <li> <a href="{{ "/tags/norge" | relative_url }}">norge</a> # 3</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 34</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 44</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1754,8 +1749,8 @@ Tropical house is a subgenre of electronic dance music (EDM) that originated in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 84</li>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 95</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 4</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1782,14 +1777,14 @@ Tropical house is a subgenre of electronic dance music (EDM) that originated in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 84</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 96</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 98</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 98</li>
-            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 98</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 98</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 3</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 3</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 3</li>
+            <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 3</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 3</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 5</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 15</li>
             <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 98</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1867,7 +1862,7 @@ Tropical house is a subgenre of electronic dance music (EDM) that originated in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 6</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1886,7 +1881,7 @@ Tropical house is a subgenre of electronic dance music (EDM) that originated in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 79</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1904,8 +1899,9 @@ Tropical house is a subgenre of electronic dance music (EDM) that originated in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 3</li>
-            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 91</li>
+            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 9</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 79</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1927,9 +1923,9 @@ Tropical house is a subgenre of electronic dance music (EDM) that originated in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 51</li>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 85</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 95</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 6</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 16</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -2003,7 +1999,7 @@ Tropical house is a subgenre of electronic dance music (EDM) that originated in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 45</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -2063,8 +2059,8 @@ Tropical house is a subgenre of electronic dance music (EDM) that originated in 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 18</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 58</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 19</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 68</li>
         </ul>
       </td>
     </tr>

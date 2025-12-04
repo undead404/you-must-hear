@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-31T05:57:20.492Z
+date: 2025-12-04T04:34:31.408Z
 permalink: tags/comedian
 title: comedian
 ---
 
 ## comedian
 
-Last updated: <time datetime="2025-10-31T05:57:20.492Z">Fri Oct 31 2025 07:57:20 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:34:31.408Z">Thu Dec 04 2025 06:34:31 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -48,7 +48,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 22</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -73,7 +73,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       <td>
         <ul>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 16</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 42</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -98,7 +98,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       <td>
         <ul>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 20</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 44</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -123,7 +123,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       <td>
         <ul>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 7</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 38</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -148,7 +148,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       <td>
         <ul>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 29</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 51</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -174,8 +174,8 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 38</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 46</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 63</li>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 97</li>
         </ul>
       </td>
@@ -201,7 +201,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       <td>
         <ul>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 31</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 54</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -228,7 +228,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       <td>
         <ul>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 25</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 47</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -308,7 +308,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 2</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -405,7 +405,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 65</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 36</li>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 95</li>
         </ul>
       </td>
@@ -437,7 +437,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 15</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -482,7 +482,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       <td>
         <ul>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 15</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 41</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -506,7 +506,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 4</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -531,7 +531,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       <td>
         <ul>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 36</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 56</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -551,7 +551,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-show" | relative_url }}">live show</a> # 73</li>
+            <li> <a href="{{ "/tags/live-show" | relative_url }}">live show</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -569,9 +569,9 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 23</li>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 57</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 65</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -594,8 +594,8 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 32</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 51</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 69</li>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 88</li>
         </ul>
       </td>
@@ -640,7 +640,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 16</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -662,9 +662,9 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 8</li>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 32</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 49</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 93</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -690,9 +690,9 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 16</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 42</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 59</li>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 85</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 42</li>
             <li> <a href="{{ "/tags/western-new-york" | relative_url }}">western new york</a> # 86</li>
         </ul>
       </td>
@@ -734,7 +734,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 34</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -757,7 +757,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 31</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -775,7 +775,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       <td>
         <ul>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 24</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 45</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -799,10 +799,10 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 4</li>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 29</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 57</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 40</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 87</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -826,8 +826,8 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 39</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 45</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 62</li>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 100</li>
         </ul>
       </td>
@@ -849,7 +849,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 12</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -881,11 +881,12 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 15</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 22</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 32</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 37</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 46</li>
-            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 87</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 33</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 52</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 62</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -909,7 +910,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 19</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -926,10 +927,10 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 6</li>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 31</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 53</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 44</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 84</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1023,7 +1024,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 5</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1047,7 +1048,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 26</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1110,7 +1111,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 14</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1134,7 +1135,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 18</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1157,7 +1158,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 23</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1180,8 +1181,8 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 26</li>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 66</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1203,7 +1204,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 72</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 29</li>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 76</li>
         </ul>
       </td>
@@ -1245,7 +1246,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 25</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1287,8 +1288,8 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 34</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 49</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 67</li>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 92</li>
         </ul>
       </td>
@@ -1332,10 +1333,10 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 35</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 11</li>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 39</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 62</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 80</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1358,8 +1359,8 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 28</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 57</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 73</li>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 74</li>
         </ul>
       </td>
@@ -1384,10 +1385,10 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 30</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 12</li>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 40</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 68</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 79</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1432,7 +1433,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       <td>
         <ul>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 22</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 61</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1474,7 +1475,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 20</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1517,7 +1518,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       <td>
         <ul>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 17</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 43</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1540,9 +1541,9 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 22</li>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 56</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 66</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1566,10 +1567,11 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 1</li>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 19</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 66</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 31</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 91</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 100</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1594,7 +1596,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       <td>
         <ul>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 35</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 55</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1659,7 +1661,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 6</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1682,7 +1684,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 1</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1705,8 +1707,8 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 37</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 47</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 64</li>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 96</li>
         </ul>
       </td>
@@ -1732,7 +1734,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       <td>
         <ul>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 26</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 49</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1756,9 +1758,9 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 25</li>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 61</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 62</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1782,10 +1784,10 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 9</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 19</li>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 51</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 71</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 82</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1815,11 +1817,11 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 24</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 15</li>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 45</li>
             <li> <a href="{{ "/tags/broadway" | relative_url }}">broadway</a> # 61</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 74</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 86</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 76</li>
             <li> <a href="{{ "/tags/musical-theater" | relative_url }}">musical theater</a> # 95</li>
             <li> <a href="{{ "/tags/showtune" | relative_url }}">showtune</a> # 100</li>
         </ul>
@@ -1844,7 +1846,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 52</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1868,8 +1870,8 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 33</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 50</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 68</li>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 91</li>
         </ul>
       </td>
@@ -1895,7 +1897,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       <td>
         <ul>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 13</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 40</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1919,7 +1921,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 15</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1942,7 +1944,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 35</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1965,7 +1967,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 10</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -2012,7 +2014,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 8</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -2034,7 +2036,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 17</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -2060,10 +2062,10 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 5</li>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 30</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 54</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 43</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 85</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -2087,7 +2089,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 46</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -2111,10 +2113,10 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 25</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 14</li>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 44</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 74</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 75</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -2136,7 +2138,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 13</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -2181,7 +2183,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 28</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -2204,7 +2206,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 60</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -2227,7 +2229,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 7</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -2258,10 +2260,10 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 11</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 11</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 14</li>
-            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 80</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 16</li>
+            <li> <a href="{{ "/tags/acid-folk" | relative_url }}">acid folk</a> # 22</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 88</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -2285,7 +2287,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 29</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -2307,7 +2309,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 30</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -2329,7 +2331,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       <td>
         <ul>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 6</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 31</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -2351,7 +2353,7 @@ The &quot;comedian&quot; tag identifies audio content centered on spoken-word co
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 58</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 43</li>
         </ul>
       </td>
     </tr>

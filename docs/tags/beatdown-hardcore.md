@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T08:59:34.877Z
+date: 2025-12-04T04:30:00.567Z
 permalink: tags/beatdown-hardcore
 title: beatdown hardcore
 ---
 
 ## beatdown hardcore
 
-Last updated: <time datetime="2025-11-26T08:59:34.877Z">Wed Nov 26 2025 10:59:34 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:30:00.567Z">Thu Dec 04 2025 06:30:00 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -63,7 +63,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 44</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -183,7 +183,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 91</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -291,7 +291,6 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rac" | relative_url }}">rac</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a></li>
@@ -308,29 +307,28 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 13</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 11</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 14</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 25</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 29</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 30</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 33</li>
-            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 34</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 38</li>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 40</li>
             <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 41</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 52</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 53</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 48</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 50</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 53</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 59</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 61</li>
+            <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 67</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 68</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 70</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 71</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 72</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 75</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 77</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 79</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 81</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 81</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 82</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 83</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 87</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 90</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 88</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 91</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 93</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 94</li>
@@ -440,32 +438,31 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 3</li>
             <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 8</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 16</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 21</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 15</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 16</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 19</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 24</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 25</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 37</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 46</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 53</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 54</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 55</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 61</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 64</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 68</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 68</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 69</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 69</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 69</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 69</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 74</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 76</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 82</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 85</li>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 86</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 83</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 85</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 86</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 86</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 86</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 90</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 91</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 92</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -507,7 +504,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 33</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -603,26 +600,25 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       <td>
         <ul>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 5</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 19</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 22</li>
             <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 29</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 37</li>
             <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 38</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 39</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 46</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 42</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 49</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 51</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 52</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 54</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 57</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 53</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 57</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 64</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 66</li>
             <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 73</li>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 75</li>
             <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 75</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 75</li>
             <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 76</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 79</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 79</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 81</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 82</li>
             <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 83</li>
             <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 86</li>
         </ul>
@@ -701,8 +697,8 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 59</li>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 82</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 19</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -815,8 +811,8 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 79</li>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 87</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 14</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -893,7 +889,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 83</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -951,8 +947,8 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 47</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 96</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 5</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 54</li>
             <li> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a> # 99</li>
         </ul>
       </td>
@@ -990,8 +986,8 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 19</li>
             <li> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a> # 71</li>
-            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1029,7 +1025,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 52</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1208,7 +1204,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 14</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1229,7 +1225,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 56</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1289,7 +1285,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 61</li>
+            <li> <a href="{{ "/tags/nyhc" | relative_url }}">nyhc</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1364,7 +1360,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 77</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1461,7 +1457,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 35</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1502,7 +1498,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 75</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1674,8 +1670,8 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 67</li>
-            <li> <a href="{{ "/tags/southern-metal" | relative_url }}">southern metal</a> # 99</li>
+            <li> <a href="{{ "/tags/southern-metal" | relative_url }}">southern metal</a> # 2</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1817,7 +1813,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       <td>
         <ul>
             <li> <a href="{{ "/tags/metallic-hardcore" | relative_url }}">metallic hardcore</a> # 24</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 36</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1966,7 +1962,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 88</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -2082,7 +2078,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 47</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -2101,7 +2097,7 @@ Beatdown hardcore is an aggressive subgenre of hardcore punk characterized by sl
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 6</li>
+            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 96</li>
         </ul>
       </td>
     </tr>

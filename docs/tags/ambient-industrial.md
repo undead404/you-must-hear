@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-26T03:17:10.543Z
+date: 2025-12-04T04:32:38.183Z
 permalink: tags/ambient-industrial
 title: ambient industrial
 ---
 
 ## ambient industrial
 
-Last updated: <time datetime="2025-10-26T03:17:10.543Z">Sun Oct 26 2025 05:17:10 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T04:32:38.183Z">Thu Dec 04 2025 06:32:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/xcWf8xA2FImijdKZPnWfbAM9t6lLM5qHR-wP49mcfNE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMzk5/LTEwNzM2MzA0NzUu/anBn.jpeg" alt="Cover for Symphony For A Genocide" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/288f8b285ae14a1fbf6c0ffd162850c9.png" alt="Cover for Symphony For A Genocide" style="max-width:120px; height:auto;" />
       </td>
       <td>1981</td>
       <td>M.B.</td>
@@ -52,7 +52,7 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/P8JPJuvOW6t0NHnTtBuSOKCdbHAH6vZw7-EpTmZ5l3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzcw/OTQtMTE4Njc3ODg3/Ni5qcGVn.jpeg" alt="Cover for Death House" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4596870082552eb8522c932da9c2a1e.png" alt="Cover for Death House" style="max-width:120px; height:auto;" />
       </td>
       <td>1982</td>
       <td>Attrition</td>
@@ -105,7 +105,7 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 15</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -148,7 +148,7 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 58</li>
-            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 77</li>
+            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 78</li>
             <li> <a href="{{ "/tags/experimental-noise" | relative_url }}">experimental noise</a> # 89</li>
         </ul>
       </td>
@@ -178,7 +178,7 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/NhF0UA5QcYdTzPEx05_sCfEK-kCPDSIfygyYoLJfm94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDMz/MC0xMTUzNjc3MDU0/LmpwZWc.jpeg" alt="Cover for Fac-Totum" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e3f3c59c1ca11bfe8f7b6c58840b3ce.png" alt="Cover for Fac-Totum" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Die Sonne Satan</td>
@@ -287,6 +287,7 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
     <tr>
       <td>44</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe3002efeab045aec5d3302ddf5d9c0c.png" alt="Cover for Sense Geometry" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-12-05</td>
       <td>Vladimír Hirsch</td>
@@ -319,13 +320,14 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 20</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>42</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e04b3276d09782beaf565ce7c69cfc22.png" alt="Cover for Astral Disaster" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-01</td>
       <td>Coil</td>
@@ -360,7 +362,8 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 52</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 1</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 53</li>
             <li> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a> # 71</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 89</li>
         </ul>
@@ -369,7 +372,7 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/LtMRDHKpsy_yo_CjgsFKWWfvYR5H67MSsflO2TGIQWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMDcz/MC0xNTYzMTI0NjQ4/LTMwODQuanBlZw.jpeg" alt="Cover for The Wreckoming" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c52edb996c7e6cb21e1b7cd8190a26d.png" alt="Cover for The Wreckoming" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Leakh</td>
@@ -389,6 +392,7 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
     <tr>
       <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7e102be005c4c31a230411ac3856037.png" alt="Cover for Geometrie nevědomí" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Zygote (CZ)</td>
@@ -402,7 +406,7 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 42</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -427,7 +431,7 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/HZIdvSvc681MBA8flJyWqtww4kL1xOPRG9FZnG7xy-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNzQ2/Ni0xNTI1Nzg4MTQ2/LTE5ODYuanBlZw.jpeg" alt="Cover for The Spirit Room" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/45b253fdde0be0a42dc62d6cf2cf265a.png" alt="Cover for The Spirit Room" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-02-04</td>
       <td>Michelle Branch</td>
@@ -525,9 +529,9 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 3</li>
             <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 66</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 79</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -554,6 +558,7 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
     <tr>
       <td>59</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/81b44c1b797e1c614d20d1133a650296.png" alt="Cover for Hotel Paper" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-06-24</td>
       <td>Michelle Branch</td>
@@ -616,18 +621,18 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 5</li>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 14</li>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 19</li>
             <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 52</li>
             <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 65</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 85</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 90</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/BQKA23--4zSBZUaxIAq7dxE5YgkZUCHQ8ayOwsjIxFk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzUx/MC0xMTA2NTY4MDA3/LmpwZw.jpeg" alt="Cover for Prima dell&#39;Aurora" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/52356633d59ba58450f5ef70750ee6f7.png" alt="Cover for Prima dell&#39;Aurora" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Ain Soph</td>
@@ -702,18 +707,20 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
       <td>
         <ul>
             <li> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a> # 6</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 8</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 63</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 72</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 74</li>
             <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 86</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 92</li>
-            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 97</li>
             <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 97</li>
+            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>23</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa7eca5f29253884f18ccc9cf3c9f335.png" alt="Cover for The Ape of Naples" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-12</td>
       <td>Coil</td>
@@ -725,14 +732,14 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 51</li>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 81</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 35</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/53ad8075d2f64368861a8a20c12eebe6.png" alt="Cover for Ethos" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Aghiatrias</td>
@@ -744,7 +751,7 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 5</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -810,6 +817,7 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40bb454bb7a64f4c98075f5589a6c50e.png" alt="Cover for Concert Industriel Pour Orgue" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-16</td>
       <td>Vladimír Hirsch</td>
@@ -825,14 +833,14 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 29</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/xMg3HIm9pDGWRWvjwOpWHRPFBNgXWnF0RoXIlFrzs1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTIw/ODczLTE1NzkzODgz/MzAtMTI5Ni5qcGVn.jpeg" alt="Cover for Part Two - The Endless Not" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c9ed4be84d7269916834598699fcbe3.png" alt="Cover for Part Two - The Endless Not" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-04-02</td>
       <td>Throbbing Gristle</td>
@@ -847,14 +855,15 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 48</li>
-            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 82</li>
+            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 52</li>
+            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2817adf7a1ac0b5d940afa4853da0e64.png" alt="Cover for Part Two: The Endless Not" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-04-02</td>
       <td>Throbbing Gristle</td>
@@ -926,7 +935,7 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 65</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 66</li>
             <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 89</li>
         </ul>
       </td>
@@ -1034,22 +1043,17 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
     <tr>
       <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d5bc07e355524e68999d99bf65700516.png" alt="Cover for Ghosts I-IV" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-03-02</td>
       <td>Nine Inch Nails</td>
       <td>Ghosts I-IV</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 75 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 7</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 11</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1066,7 +1070,7 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 30</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 29</li>
             <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 74</li>
         </ul>
       </td>
@@ -1124,9 +1128,10 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 5</li>
             <li> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a> # 9</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 60</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 62</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 65</li>
             <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 80</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 87</li>
             <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 92</li>
@@ -1198,7 +1203,7 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/vn-PT9_4SvZ8WxMVirkUvmMW8cd1aeMFu22fEe-ydRs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzg4/NzQtMTI0OTc2NTkw/MC5qcGVn.jpeg" alt="Cover for The Sound Theory" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/41872ab78238af00202ee79a922f1d93.png" alt="Cover for The Sound Theory" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-04-14</td>
       <td>Ashley Mayhem</td>
@@ -1224,6 +1229,7 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
     <tr>
       <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b24116d0275d0fef8804d003250a640e.png" alt="Cover for The Intangible Coherence" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-03</td>
       <td>Unmorph</td>
@@ -1266,7 +1272,7 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
     <tr>
       <td>5</td>
       <td>
-          <img src="https://i.discogs.com/BPg8YVvzkamp-R8kA8f6cQBTca2W7fr0u9N15TNOID4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDk4/NTItMTI3NjAwNjk1/NC5qcGVn.jpeg" alt="Cover for Jet Pilot" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2538a0c7c44ab6d3a6c82452dedb92ea.png" alt="Cover for Jet Pilot" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-07-07</td>
       <td>Ashley Mayhem</td>
@@ -1310,6 +1316,7 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
     <tr>
       <td>22</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/898bf652dfeb5a30b606e88df8cb4801.png" alt="Cover for For Marie" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-09-23</td>
       <td>The Peach Tree</td>
@@ -1329,7 +1336,7 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melbourne" | relative_url }}">melbourne</a> # 67</li>
+            <li> <a href="{{ "/tags/melbourne" | relative_url }}">melbourne</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1352,7 +1359,7 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/Tscu4wYypmOCr3E7d_8OqGcAZgBTJtOXoi9BLAmsXm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODE5/MzItMTI3NDIzNDA2/NC5wbmc.jpeg" alt="Cover for Dance of the Twilight Stars" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/190dd7a5722f4df8af677f7304054374.png" alt="Cover for Dance of the Twilight Stars" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01-01</td>
       <td>Hoyland</td>
@@ -1393,6 +1400,7 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
     <tr>
       <td>10</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd6a63b1e0402114a05ba5ff125b762a.png" alt="Cover for The Machine &#x2F; neXus" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-06-07</td>
       <td>Her Ethic</td>
@@ -1407,7 +1415,7 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 12</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1539,6 +1547,7 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/701532df12c54dc094c87f131ed07ad2.png" alt="Cover for Labour Division" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-05-28</td>
       <td>Forward Strategy Group</td>
@@ -1560,6 +1569,7 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10b5d826e18a4427b7a02b4759257536.png" alt="Cover for September Cell" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06</td>
       <td>Vatican Shadow</td>
@@ -1621,6 +1631,7 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/24e11b65df544e14ce10807e4553cbca.png" alt="Cover for Endessiah" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-31</td>
       <td>Treha Sektori</td>
@@ -1724,6 +1735,7 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6cb5198af70a27977936793693beb902.png" alt="Cover for Incubation" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-03-04</td>
       <td>Function</td>
@@ -1737,14 +1749,14 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 68</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>1</td>
       <td>
-          <img src="https://i.discogs.com/pRGMNYVtKns1zQC2PGa1RRMjRPHpW2ROcyKZYTc-cG8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODM5/MjUtMTM2MzQ1Mjg5/NS05ODY1LnBuZw.jpeg" alt="Cover for Sonology Of The Ground" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/59051e5a42274b00911f902753ba2021.png" alt="Cover for Sonology Of The Ground" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-03-09</td>
       <td>The Elderbranch Campaign</td>
@@ -1812,6 +1824,7 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
     <tr>
       <td>76</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/def24206718460990334cc8789d45c53.png" alt="Cover for Tuned to a Dead Channel" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-06-17</td>
       <td>Central Industrial</td>
@@ -1945,7 +1958,7 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 32</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1973,6 +1986,7 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
     <tr>
       <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/718dbea321d3ae3b159b1e512af13437.png" alt="Cover for Under Siege" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-05</td>
       <td>100Blumen</td>
@@ -1993,7 +2007,7 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/P8q4PwFGoFipznjl_i6lSlIYfwRPs8B3wUGFo9U9T0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzkw/MTA4LTE1ODE2NDU2/MDktOTg2MC5qcGVn.jpeg" alt="Cover for Not My God" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9a021c014a481faf894442eda2dbf168.png" alt="Cover for Not My God" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-02-14</td>
       <td>Not My God</td>
@@ -2014,8 +2028,8 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 75</li>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 87</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 11</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 71</li>
             <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 98</li>
         </ul>
       </td>
@@ -2037,14 +2051,15 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 73</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 7</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/lLukUQaBkv0Oo9h-e2DlG132Lcc5PR5_ny1KnPF6Wds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTkz/ODU1LTE2MzQ5MjQ4/NDAtNjQ4My5qcGVn.jpeg" alt="Cover for SIMULACRA" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/715ae3bef02c613a3e60a5a4113e144e.png" alt="Cover for SIMULACRA" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-10-15</td>
       <td>Not My God</td>
@@ -2088,7 +2103,7 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 12</li>
+            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -2155,13 +2170,14 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 27</li>
+            <li> <a href="{{ "/tags/welsh" | relative_url }}">welsh</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7250324c302109c723bcc16c80f73fe1.png" alt="Cover for One Point" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Unmorph</td>
@@ -2222,8 +2238,8 @@ Ambient industrial blends the atmospheric textures of ambient music with the har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 21</li>
             <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 48</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 78</li>
         </ul>
       </td>
     </tr>

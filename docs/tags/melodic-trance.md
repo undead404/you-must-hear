@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-21T03:17:38.721Z
+date: 2025-12-04T04:32:43.901Z
 permalink: tags/melodic-trance
 title: melodic trance
 ---
 
 ## melodic trance
 
-Last updated: <time datetime="2025-10-21T03:17:38.721Z">Tue Oct 21 2025 06:17:38 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T04:32:43.901Z">Thu Dec 04 2025 06:32:43 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,6 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for I know why" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Various Artists</td>
@@ -68,8 +67,8 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 56</li>
-            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 57</li>
+            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 43</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -96,13 +95,14 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 89</li>
+            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d34c3024eb6b423a3d3a6d36b055979.png" alt="Cover for 76" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-06-30</td>
       <td>Armin van Buuren</td>
@@ -114,7 +114,7 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 17</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -136,7 +136,7 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       <td>
         <ul>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 7</li>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 26</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -156,7 +156,7 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 84</li>
+            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -175,15 +175,15 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 31</li>
-            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 72</li>
+            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 29</li>
+            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>10</td>
       <td>
-          <img src="https://i.discogs.com/pH5fvqREVxQA7i_nVhl4fU6jcOAP4f7oHR6-Qhwi8yg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MjYz/ODItMTQyNTQwNTA2/MS05MTUxLmpwZWc.jpeg" alt="Cover for Live Your Dream" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/937d2c7045364973b3af7d7983eee038.png" alt="Cover for Live Your Dream" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-07-30</td>
       <td>The Entranced</td>
@@ -241,7 +241,7 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 14</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 87</li>
             <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 90</li>
         </ul>
       </td>
@@ -311,7 +311,7 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 29</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 72</li>
             <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 94</li>
         </ul>
       </td>
@@ -319,7 +319,7 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/gLNjcvL1xzLOAb899ep_9lufqjBBsyK6a9b3gzZfDHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTgw/MjAtMTMxNjYyMDYz/Ni5qcGVn.jpeg" alt="Cover for Electronic Damage" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1bf66a215fc944988dc6efe591a4e674.png" alt="Cover for Electronic Damage" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Lips Desire</td>
@@ -359,8 +359,8 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 44</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 49</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 46</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 48</li>
             <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 57</li>
         </ul>
       </td>
@@ -386,14 +386,14 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 7</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/2A32RI8SmOrobfz53t2vBTWQluRwDw3IAOgAmoW1e6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTAx/NTAtMTI1NDU5MjE1/MS5qcGVn.jpeg" alt="Cover for Anjunabeats Volume 9" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/89cc0d9d42922b074c6a5c3373e44223.png" alt="Cover for Anjunabeats Volume 9" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Above &amp; Beyond</td>
@@ -418,14 +418,14 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 79</li>
+            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/PQkTHo-VfWAVBj6fcZO-2eEWiH3Zm-aMe70PXiEFkvQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODU0/OTMtMTM0ODA2NTY5/OS02ODAyLmpwZWc.jpeg" alt="Cover for Universal Religion Chapter 5" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ec34c4e590b4ce38e9cd6fca54bce93.png" alt="Cover for Universal Religion Chapter 5" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Armin van Buuren</td>
@@ -469,7 +469,7 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 73</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 27</li>
             <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 96</li>
         </ul>
       </td>
@@ -477,7 +477,7 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/lAuSN4Gn5_D2-yi3IAv9IOMvXaBjNHBPf-z-IYHOlvc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODc3/NTMtMTIzNjk4MDc2/MC5qcGVn.jpeg" alt="Cover for A State Of Trance 500" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98ffdea87975470c90ed236b9b1c9fed.png" alt="Cover for A State Of Trance 500" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03-23</td>
       <td>Cosmic Gate</td>
@@ -498,7 +498,7 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 65</li>
+            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -519,34 +519,32 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 53</li>
+            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/185b939cc9d14a7eca3f2dad2f68b9c9.png" alt="Cover for Future Memories" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-01</td>
       <td>ATB</td>
       <td>Future Memories</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trance" | relative_url }}">trance</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 49</li>
+            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 76</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>15</td>
       <td>
-          <img src="https://i.discogs.com/PHSc_-nNujIcNFqXCZJREG7pZwj06CpwuKB5wYDxHdg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzY1/MTkwLTE2ODY1ODk3/NjctOTUzMy5qcGVn.jpeg" alt="Cover for Tranceposition" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f1e2ad54fde6b1af638494564330199a.png" alt="Cover for Tranceposition" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-22</td>
       <td>McBlaze</td>
@@ -586,8 +584,8 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 28</li>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 82</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 18</li>
+            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 72</li>
             <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 98</li>
         </ul>
       </td>
@@ -614,7 +612,7 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
     <tr>
       <td>19</td>
       <td>
-          <img src="https://i.discogs.com/HDxUNVLCyFlVHl6NRpTt47um_NxZStJ9DcO3MKx6LGQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDA0/NDYtMTI0NzA0NjY0/NC5qcGVn.jpeg" alt="Cover for Volume I" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9464f4268083401f92ee060251ca07d6.png" alt="Cover for Volume I" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-07-01</td>
       <td>ShearStress</td>
@@ -658,7 +656,7 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/x4e50bQdivryNYZMgNWfUKfrTmQ25hL9MP_iPK_JZu4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzI5/NTQ4LTE2MzkzNTUx/ODAtNDE5Ni5qcGVn.jpeg" alt="Cover for Undiscovered" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/74a4ca0ceacaa3ffad62f9e9d8d6755d.png" alt="Cover for Undiscovered" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Alexander James</td>
@@ -677,7 +675,7 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       <td>
         <ul>
             <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 40</li>
-            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 73</li>
+            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -703,7 +701,7 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 69</li>
+            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -728,7 +726,7 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 72</li>
+            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -754,7 +752,7 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 70</li>
+            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -806,7 +804,7 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 66</li>
+            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -831,14 +829,14 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 60</li>
+            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/IZEadZTnyStaj92CYsXZrHpHpgrbZPQYtbBogpB08Gw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MjY2/NjYtMTQyNTQwODI3/Ni0yNzM5LmpwZWc.jpeg" alt="Cover for Total confusion&#x2F;Losing you" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1b6f836c3597412098adfb4f18982ad5.png" alt="Cover for Total confusion&#x2F;Losing you" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-08-21</td>
       <td>The Entranced</td>
@@ -850,7 +848,7 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 64</li>
+            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -871,14 +869,14 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 26</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/JnFiFuS9SUbukN20VijcIJEUez3ga7r7b3n6H4Nq5yc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDEz/NzktMTQzOTMxNDQ2/NS04NTczLmpwZWc.jpeg" alt="Cover for Mirage (The Remixes)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/feffa8e22fb74e598a8a586643128d29.png" alt="Cover for Mirage (The Remixes)" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-09-11</td>
       <td>Armin van Buuren</td>
@@ -899,6 +897,7 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76e59e81ce117e4de6a931de0c6dafcb.png" alt="Cover for 10 Years of Anjunabeats" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-01-17</td>
       <td>Above &amp; Beyond</td>
@@ -920,8 +919,8 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 9</li>
-            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 71</li>
+            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 72</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -993,6 +992,7 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
     <tr>
       <td>53</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cace148b2bfd4a258f3b2ae4fdda7ffa.png" alt="Cover for United Destination 2011" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-04-29</td>
       <td>Dash Berlin</td>
@@ -1030,13 +1030,14 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 34</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ff4eb389a094ca8a74fb6e296139ff4.png" alt="Cover for Group Therapy" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06-06</td>
       <td>Above &amp; Beyond</td>
@@ -1048,10 +1049,10 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 3</li>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 6</li>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 31</li>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 57</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 35</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 95</li>
+            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1138,7 +1139,7 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 8</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1158,13 +1159,14 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 74</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 26</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9aa7c2e3dc434695aa6db99528fdb0c1.png" alt="Cover for A State of Trance 2012" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03-01</td>
       <td>Armin van Buuren</td>
@@ -1184,15 +1186,15 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 40</li>
-            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 81</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 61</li>
+            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/UKKCcCljyRCYL1FOpli2FHIWWyYJyIasTsOZ068vh_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTc1/NDAtMTM0MTU3MTk0/MC0xMzE1LmpwZWc.jpeg" alt="Cover for A State of Trance 500" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/de0dc1078a7a44c7800208b285f0b5f7.png" alt="Cover for A State of Trance 500" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-07-06</td>
       <td>Andy Moor</td>
@@ -1311,7 +1313,7 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 5</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1332,7 +1334,7 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 41</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1371,7 +1373,7 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 61</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1500,7 +1502,7 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 21</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 80</li>
             <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 92</li>
         </ul>
       </td>
@@ -1532,7 +1534,7 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 28</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1593,7 +1595,7 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 51</li>
+            <li> <a href="{{ "/tags/melodic-house" | relative_url }}">melodic house</a> # 49</li>
             <li> <a href="{{ "/tags/melodic-techno" | relative_url }}">melodic techno</a> # 56</li>
         </ul>
       </td>
@@ -1617,7 +1619,7 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 67</li>
+            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1643,13 +1645,14 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 71</li>
+            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>31</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0199005c7221e32406a3c2a609f6233f.png" alt="Cover for Closer" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Susana feat Jorn Van Deynhoven</td>
@@ -1669,7 +1672,7 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 74</li>
+            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1694,7 +1697,7 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 77</li>
+            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1844,8 +1847,8 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 1</li>
             <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 88</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1867,8 +1870,8 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 12</li>
             <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 89</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1891,7 +1894,7 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 23</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 78</li>
             <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 93</li>
         </ul>
       </td>
@@ -1913,7 +1916,7 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 69</li>
+            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1934,7 +1937,7 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 70</li>
+            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1955,13 +1958,14 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 71</li>
+            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/75699fc67a594398ab6b39742b19a17c.png" alt="Cover for A Tribute To Life" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Dennis Sheperd featuring Hysteria!</td>
@@ -2125,6 +2129,7 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
     <tr>
       <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3ab74c4c181542a389415990a5f25f23.png" alt="Cover for Light" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Marcus Schossow &amp; Reeves Feat. Emma Hewitt</td>
@@ -2245,6 +2250,7 @@ Melodic trance emphasizes uplifting, emotional melodies and euphoric breakdowns 
     <tr>
       <td>62</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c7e135818ad72388c22d815d1a2bf12.png" alt="Cover for Trance Music (2000 - 2004)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Marat Schacht</td>
