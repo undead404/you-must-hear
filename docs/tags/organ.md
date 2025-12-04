@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-19T20:25:48.338Z
+date: 2025-12-03T20:46:52.443Z
 permalink: tags/organ
 title: organ
 ---
 
 ## organ
 
-Last updated: <time datetime="2025-11-19T20:25:48.338Z">Wed Nov 19 2025 22:25:48 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T20:46:52.443Z">Wed Dec 03 2025 22:46:52 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -68,6 +68,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
     <tr>
       <td>55</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c3d86030cd6c630260405709d332af5.png" alt="Cover for Blue Bash!" style="max-width:120px; height:auto;" />
       </td>
       <td>1963</td>
       <td>Kenny Burrell &amp; Jimmy Smith</td>
@@ -155,7 +156,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 34</li>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 67</li>
             <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 95</li>
         </ul>
       </td>
@@ -368,7 +369,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/xxFfu7wR8irXyitHwy2lIhAo_GCyZ_hgQwZfvxZZVLI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTkx/MTQtMTM1NDcxNTg2/My0zOTE5LmpwZWc.jpeg" alt="Cover for The Doors [Remastered]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/33c30334fa224bff9b6da15ffe5a8a33.png" alt="Cover for The Doors [Remastered]" style="max-width:120px; height:auto;" />
       </td>
       <td>1969-07</td>
       <td>The Doors</td>
@@ -485,7 +486,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 14</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -593,9 +594,6 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       <td>Ambrosia</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/organ" | relative_url }}">organ</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
       <td>
@@ -812,7 +810,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/_QJiszc_z7RK4y0pxwdzdDeH4EwuigTLScoViQc2JKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjc1/MjAtMTQxNDIyOTQx/OC04OTMyLmpwZWc.jpeg" alt="Cover for The Cat &amp; Other Great Themes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d24e71056ed5b36f73de3f9f84f4dedb.png" alt="Cover for The Cat &amp; Other Great Themes" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Jimmy Smith</td>
@@ -952,7 +950,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/na1vcObDOCRKtXQg7ILwjEJYQFd_tI64MrCXqKKTOZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MjA3/OTMtMTQxODc3NTEy/Ni04MzgzLmpwZWc.jpeg" alt="Cover for Renegade Gentleman" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/745f04e4fcda44d585429564c5f2b924.png" alt="Cover for Renegade Gentleman" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Larry Carlton</td>
@@ -1357,8 +1355,8 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 66</li>
             <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 75</li>
+            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1438,6 +1436,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
     <tr>
       <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40bb454bb7a64f4c98075f5589a6c50e.png" alt="Cover for Concert Industriel Pour Orgue" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-16</td>
       <td>Vladimír Hirsch</td>
@@ -1555,7 +1554,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 8</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1579,7 +1578,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 39</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 62</li>
             <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 77</li>
         </ul>
       </td>
@@ -1647,6 +1646,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
     <tr>
       <td>29</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5019eb8b8da456dbd2c737271986150.png" alt="Cover for Translucent Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-24</td>
       <td>Ray Manzarek &amp; Roy Rogers</td>
@@ -1887,7 +1887,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       <td>
         <ul>
             <li> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a> # 10</li>
-            <li> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a> # 14</li>
+            <li> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a> # 15</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 38</li>
         </ul>
       </td>
@@ -1924,7 +1924,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a> # 28</li>
+            <li> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a> # 29</li>
             <li> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a> # 29</li>
             <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 48</li>
         </ul>
@@ -1945,8 +1945,8 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 6</li>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 57</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 11</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1973,7 +1973,7 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 83</li>
+            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -2005,10 +2005,10 @@ The organ tag encompasses music featuring pipe organs, electronic organs, or Ham
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 9</li>
-            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 38</li>
             <li> <a href="{{ "/tags/hammond" | relative_url }}">hammond</a> # 45</li>
             <li> <a href="{{ "/tags/accordion" | relative_url }}">accordion</a> # 53</li>
+            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 63</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 91</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T11:15:22.467Z
+date: 2025-12-03T20:46:47.077Z
 permalink: tags/country-christmas
 title: country christmas
 ---
 
 ## country christmas
 
-Last updated: <time datetime="2025-11-15T11:15:22.467Z">Sat Nov 15 2025 13:15:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T20:46:47.077Z">Wed Dec 03 2025 22:46:47 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -169,7 +169,7 @@ Country Christmas blends traditional holiday themes with the warm instrumentatio
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 46</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -230,7 +230,7 @@ Country Christmas blends traditional holiday themes with the warm instrumentatio
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/n06BcoFRHCqBwWk4L0049Wvly2IpVl0JsNIMyBETZJ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDgw/NjctMTM1ODk2MDk4/MS0zOTc2LmpwZWc.jpeg" alt="Cover for Alabama Christmas" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/097de6f7ba1396bf689061c8eea9d53e.png" alt="Cover for Alabama Christmas" style="max-width:120px; height:auto;" />
       </td>
       <td>1985-09</td>
       <td>Alabama</td>
@@ -706,6 +706,7 @@ Country Christmas blends traditional holiday themes with the warm instrumentatio
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b90fc750e7fa576dd6f0b442ccd8fa7.png" alt="Cover for Honky Tonk Christmas" style="max-width:120px; height:auto;" />
       </td>
       <td>1993-10-12</td>
       <td>Alan Jackson</td>
@@ -884,6 +885,7 @@ Country Christmas blends traditional holiday themes with the warm instrumentatio
     <tr>
       <td>84</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9a2e58d3365efbd4d8bf0c98bb48236.png" alt="Cover for Come on Christmas" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-08-25</td>
       <td>Dwight Yoakam</td>
@@ -953,7 +955,7 @@ Country Christmas blends traditional holiday themes with the warm instrumentatio
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/_R-hu-U9NA5GYbjE_uQdLuVnh6RGFDFY76RiG-0Q5N4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDA1/MTItMTM4NDYwNzM1/OS05MDYyLmpwZWc.jpeg" alt="Cover for White Christmas" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/47730b17b6a2433c814ddab792f4b8cc.png" alt="Cover for White Christmas" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-08-29</td>
       <td>Martina McBride</td>
@@ -1184,6 +1186,7 @@ Country Christmas blends traditional holiday themes with the warm instrumentatio
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/74af17de3438a59a3d7c960ce1dcd2cc.png" alt="Cover for Classic Christmas" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-10-17</td>
       <td>Billy Gilman</td>
@@ -1272,6 +1275,7 @@ Country Christmas blends traditional holiday themes with the warm instrumentatio
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d0a76187999f6900b1fa1f1d5f19b3d7.png" alt="Cover for Christmas with Johnny Cash" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-09-16</td>
       <td>Johnny Cash</td>

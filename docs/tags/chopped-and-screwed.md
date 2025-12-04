@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T10:19:33.773Z
+date: 2025-12-03T20:30:18.351Z
 permalink: tags/chopped-and-screwed
 title: chopped and screwed
 ---
 
 ## chopped and screwed
 
-Last updated: <time datetime="2025-11-23T10:19:33.773Z">Sun Nov 23 2025 12:19:33 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T20:30:18.351Z">Wed Dec 03 2025 22:30:18 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -196,7 +196,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 78</li>
+            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -261,7 +261,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/h1Lq416-GueFCn-4IguT5BOI7JQeXMKybwQn7wEImZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjY1/MjUtMTUzNTg1Njkx/NC04MzAxLmpwZWc.jpeg" alt="Cover for All Screwed Up, Vol. II" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/38f1743f675791e5ad518fabddc5e14a.png" alt="Cover for All Screwed Up, Vol. II" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>DJ Screw</td>
@@ -310,7 +310,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 11</li>
+            <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -417,7 +417,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 43</li>
+            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -617,7 +617,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 18</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -670,15 +670,13 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       <td>Mista Thug Isolation</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 10</li>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 14</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 53</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 92</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 47</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 86</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -780,8 +778,8 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 28</li>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 79</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 21</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1236,10 +1234,10 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 63</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 16</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 69</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 73</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 84</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 89</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1253,17 +1251,11 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       <td>SAVAGE MODE II [CHOPPED NOT SLOPPED]</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 36</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 83</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1430,8 +1422,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 73</li>
-            <li> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a> # 95</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1449,7 +1440,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 90</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1482,20 +1473,10 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       <td>Wicca Phase Springs Eternal &#x2F; Pillars Of Ivory Split</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chopped-and-screwed" | relative_url }}">chopped and screwed</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap" | relative_url }}">trap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 39</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1566,7 +1547,7 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 3</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -2028,8 +2009,8 @@ Chopped and screwed is a remixing technique originating from Houston hip-hop tha
 - [houston rap]({{ "/tags/houston-rap" | relative_url }})
 - [cloud rap]({{ "/tags/cloud-rap" | relative_url }})
 - [trap]({{ "/tags/trap" | relative_url }})
-- [witch house]({{ "/tags/witch-house" | relative_url }})
 - [southern rap]({{ "/tags/southern-rap" | relative_url }})
+- [witch house]({{ "/tags/witch-house" | relative_url }})
 - [southern hip hop]({{ "/tags/southern-hip-hop" | relative_url }})
-- [gangsta rap]({{ "/tags/gangsta-rap" | relative_url }})
 - [texas]({{ "/tags/texas" | relative_url }})
+- [gangsta rap]({{ "/tags/gangsta-rap" | relative_url }})
