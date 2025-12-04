@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T10:18:01.528Z
+date: 2025-12-03T19:06:49.371Z
 permalink: tags/avant-garde-jazz
 title: avant-garde jazz
 ---
 
 ## avant-garde jazz
 
-Last updated: <time datetime="2025-11-23T10:18:01.528Z">Sun Nov 23 2025 12:18:01 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T19:06:49.371Z">Wed Dec 03 2025 21:06:49 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
   </thead>
   <tbody>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/bc769fada9d24dfdcd7fcf63645f045a.png" alt="Cover for Jazz By Sun Ra" style="max-width:120px; height:auto;" />
       </td>
@@ -47,7 +47,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
       </td>
       <td>1958</td>
@@ -65,7 +65,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/b272e74942641e61ccbf0ec7e61549ea.png" alt="Cover for The Shape of Jazz to Come" style="max-width:120px; height:auto;" />
       </td>
@@ -83,7 +83,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://i.discogs.com/fvi9k0xkzAbmRdLnbABwV7AwOJQYeJRfYEspAcCJbH8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODk4/NC0xNDQyNTY3NDk0/LTI3MTUuanBlZw.jpeg" alt="Cover for Change of the Century" style="max-width:120px; height:auto;" />
       </td>
@@ -102,7 +102,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9c8016a697a4cb5aef8e2e70a57e079.png" alt="Cover for Eric Dolphy at the Five Spot" style="max-width:120px; height:auto;" />
       </td>
@@ -120,7 +120,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/1bc10681bd024639b45806f4ca797f2c.png" alt="Cover for The Black Saint and the Sinner Lady" style="max-width:120px; height:auto;" />
       </td>
@@ -135,30 +135,12 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 69</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
-      <td>
-          <img src="https://i.discogs.com/VKkc1vkhW8gZ1uyrY_p1HpINSQoUHwKbyLJbWibS9yY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1ODMw/NS0xMzEyODQxNTky/LmpwZWc.jpeg" alt="Cover for My Name Is Albert Ayler" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1964</td>
-      <td>Albert Ayler</td>
-      <td>My Name Is Albert Ayler</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>33</td>
+      <td>68</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d4ae404231462b81d20d6aa6b90b4b9.png" alt="Cover for Four For Trane" style="max-width:120px; height:auto;" />
       </td>
@@ -176,7 +158,25 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>77</td>
+      <td>
+          <img src="https://i.discogs.com/VKkc1vkhW8gZ1uyrY_p1HpINSQoUHwKbyLJbWibS9yY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1ODMw/NS0xMzEyODQxNTky/LmpwZWc.jpeg" alt="Cover for My Name Is Albert Ayler" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1964</td>
+      <td>Albert Ayler</td>
+      <td>My Name Is Albert Ayler</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef9d51dad155988610bffe34b81a5f3f.png" alt="Cover for Ascension" style="max-width:120px; height:auto;" />
       </td>
@@ -195,7 +195,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
       </td>
       <td>1965</td>
@@ -213,7 +213,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/29555acae2ed44eea3882de43a606fd9.png" alt="Cover for A Love Supreme" style="max-width:120px; height:auto;" />
       </td>
@@ -227,35 +227,15 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 60</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 18</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 31</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 41</li>
             <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 65</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 70</li>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>7</td>
-      <td>
-      </td>
-      <td>1966</td>
-      <td>Charles Mingus</td>
-      <td>Right Now: Live At The Jazz Workshop</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 16</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/182856a187d4e7b41b7c03d876f7436e.png" alt="Cover for Empyrean Isles (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -271,13 +251,33 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 99</li>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 100</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 1</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 2</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>95</td>
+      <td>
+      </td>
+      <td>1966</td>
+      <td>Charles Mingus</td>
+      <td>Right Now: Live At The Jazz Workshop</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 85</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>34</td>
       <td>
           <img src="https://i.discogs.com/niShqfADxcTh9Jz5hDCFxsaqYe1Y5RpVa_DWJov-ptQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjY4/MTItMTMyNjkyMTkx/Mi5qcGVn.jpeg" alt="Cover for The Magic City" style="max-width:120px; height:auto;" />
       </td>
@@ -295,7 +295,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/377e4374da10a2f49ffd5f622674fa47.png" alt="Cover for Om" style="max-width:120px; height:auto;" />
       </td>
@@ -315,7 +315,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0db05ab33b7e2f3a43ec8b93c6270402.png" alt="Cover for Eddie Gale’s Ghetto Music" style="max-width:120px; height:auto;" />
       </td>
@@ -333,7 +333,27 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>29</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/37984282d2a148ee7ace8ce2929a344e.png" alt="Cover for Karma" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1969</td>
+      <td>Pharoah Sanders</td>
+      <td>Karma</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 79</li>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 80</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/de8d6a2e3fba426364d66b5335f9baa1.png" alt="Cover for Black Woman" style="max-width:120px; height:auto;" />
       </td>
@@ -352,49 +372,27 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>22</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/37984282d2a148ee7ace8ce2929a344e.png" alt="Cover for Karma" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1969</td>
-      <td>Pharoah Sanders</td>
-      <td>Karma</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 21</li>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 79</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>48</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/37c24b8bdfd0461ba8b18be49a25048a.png" alt="Cover for Mwandishi" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e926e3986f1d00dc3d2b5536b80414b5.png" alt="Cover for Journey in Satchidananda" style="max-width:120px; height:auto;" />
       </td>
       <td>1971</td>
-      <td>Herbie Hancock</td>
-      <td>Mwandishi</td>
+      <td>Alice Coltrane</td>
+      <td>Journey in Satchidananda</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 14</li>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 52</li>
-            <li> <a href="{{ "/tags/fusion-jazz" | relative_url }}">fusion jazz</a> # 77</li>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 55</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
+      <td>36</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5071429ee83290d7cdfda3b80c707958.png" alt="Cover for Thembi" style="max-width:120px; height:auto;" />
       </td>
@@ -413,13 +411,52 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>53</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e926e3986f1d00dc3d2b5536b80414b5.png" alt="Cover for Journey in Satchidananda" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/37c24b8bdfd0461ba8b18be49a25048a.png" alt="Cover for Mwandishi" style="max-width:120px; height:auto;" />
       </td>
       <td>1971</td>
-      <td>Alice Coltrane</td>
-      <td>Journey in Satchidananda</td>
+      <td>Herbie Hancock</td>
+      <td>Mwandishi</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 70 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 14</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 49</li>
+            <li> <a href="{{ "/tags/fusion-jazz" | relative_url }}">fusion jazz</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+      </td>
+      <td>1971</td>
+      <td>Sun Ra</td>
+      <td>Outer Spaceways Incorporated</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/95ace199263d4863c8b5f2df89729c19.png" alt="Cover for For Alto" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1971</td>
+      <td>Anthony Braxton</td>
+      <td>For Alto</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
@@ -427,13 +464,11 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 61</li>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>80</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/63c7a0d4612936b1a3744cf3e638b8af.png" alt="Cover for Sun Ship" style="max-width:120px; height:auto;" />
       </td>
@@ -451,24 +486,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>49</td>
-      <td>
-      </td>
-      <td>1971</td>
-      <td>Sun Ra</td>
-      <td>Outer Spaceways Incorporated</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>18</td>
+      <td>84</td>
       <td>
       </td>
       <td>1971-10-04</td>
@@ -485,7 +503,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>87</td>
       <td>
           <img src="https://i.discogs.com/jVnF0FMXGvGY4MLpRNKPaDxMABuT93AnfT86QXT1Lmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjMw/NjEtMTQ2NjAxMTg1/Mi05NzgyLmpwZWc.jpeg" alt="Cover for The Great Concert of Charles Mingus" style="max-width:120px; height:auto;" />
       </td>
@@ -502,49 +520,13 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 22</li>
-            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 36</li>
+            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 64</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 79</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>10</td>
-      <td>
-      </td>
-      <td>1972</td>
-      <td>Julius Hemphill</td>
-      <td>Dogon A.D.</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>50</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/56e942319cecaeb2ef37d53d0e09e9dc.png" alt="Cover for Black Unity" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1972</td>
-      <td>Pharoah Sanders</td>
-      <td>Black Unity</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>74</td>
+      <td>27</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9f0f8ce57e7f4588c5f866638b55bdda.png" alt="Cover for We Insist!: Freedom Now Suite" style="max-width:120px; height:auto;" />
       </td>
@@ -562,7 +544,43 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>51</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/56e942319cecaeb2ef37d53d0e09e9dc.png" alt="Cover for Black Unity" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1972</td>
+      <td>Pharoah Sanders</td>
+      <td>Black Unity</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+      </td>
+      <td>1972</td>
+      <td>Julius Hemphill</td>
+      <td>Dogon A.D.</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>32</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/91474d93e41d63d9db6b245480cbbb1b.png" alt="Cover for Space Is The Place" style="max-width:120px; height:auto;" />
       </td>
@@ -576,12 +594,12 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 4</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
       </td>
       <td>1974</td>
@@ -599,25 +617,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>16</td>
-      <td>
-          <img src="https://i.discogs.com/PV0aJskTK9gZbfNvyTsq-YkG81x8pulBwW5F0dADDRo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTg2/NS0xNTQxNDc2NDg5/LTYzMDcuanBlZw.jpeg" alt="Cover for Dark Magus" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1974</td>
-      <td>Miles Davis</td>
-      <td>Dark Magus</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7aa2688514dff8c3e34378e6bf22c576.png" alt="Cover for Supersonic Jazz" style="max-width:120px; height:auto;" />
       </td>
@@ -635,7 +635,25 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>86</td>
+      <td>
+          <img src="https://i.discogs.com/PV0aJskTK9gZbfNvyTsq-YkG81x8pulBwW5F0dADDRo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NTg2/NS0xNTQxNDc2NDg5/LTYzMDcuanBlZw.jpeg" alt="Cover for Dark Magus" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1974</td>
+      <td>Miles Davis</td>
+      <td>Dark Magus</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b612923d16cad11d3fd27d990fd3555.png" alt="Cover for Vista" style="max-width:120px; height:auto;" />
       </td>
@@ -655,15 +673,15 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 20</li>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 53</li>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 15</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 48</li>
             <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 74</li>
-            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 86</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>56</td>
+      <td>45</td>
       <td>
           <img src="https://i.discogs.com/nR2oois_lxZtnxI6N50rpA3VUSPSkXNSIxMxsc8u_wo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxOTU5/Ny0xMzU2ODc2NTQ1/LTc1NzIuanBlZw.jpeg" alt="Cover for Astigmatic (Polish Jazz)" style="max-width:120px; height:auto;" />
       </td>
@@ -681,7 +699,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>79</td>
       <td>
           <img src="https://i.discogs.com/8uzGhvRJcanqhmS8Ip4zFFxuU7v3ZQTv82rA2ydj6fU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzEy/MDYtMTIwMjM4OTUy/MS5qcGVn.jpeg" alt="Cover for Electronic Sonata For Souls Loved By Nature" style="max-width:120px; height:auto;" />
       </td>
@@ -698,32 +716,13 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 31</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 70</li>
             <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>
-          <img src="https://i.discogs.com/W095KyNrgQ2rnN6ln2utnKb0nfQpQ0cUTIulR-SW1-8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTY3/NS0xNDA3NTc5Mjkx/LTgwNTAuanBlZw.jpeg" alt="Cover for Divine Love" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1979</td>
-      <td>Wadada Leo Smith</td>
-      <td>Divine Love</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0983a83b1e9e4586a828789313805e9e.png" alt="Cover for The Lounge Lizards" style="max-width:120px; height:auto;" />
       </td>
@@ -738,12 +737,12 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 91</li>
+            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/dQ7-jWCjB2tn5desUC7Ph5iNLAT33nJmerpwgEvlHy4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjEw/ODItMTU5NjgxNjM5/My03NTI3LmpwZWc.jpeg" alt="Cover for The Night of the Purple Moon" style="max-width:120px; height:auto;" />
       </td>
@@ -760,13 +759,13 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 65</li>
-            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 94</li>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 7</li>
+            <li> <a href="{{ "/tags/bebop" | relative_url }}">bebop</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/7yNPMR3kZ62Qh8akbIhnsnHoFPDTDIdAXhYufcHtXgc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDk0/MDUtMTM2NDY3MjAx/NC00OTU0LmpwZWc.jpeg" alt="Cover for We Insist! Max Roach&#39;s Freedom Now Suite (Remastered)" style="max-width:120px; height:auto;" />
       </td>
@@ -783,30 +782,12 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 26</li>
+            <li> <a href="{{ "/tags/hard-bop" | relative_url }}">hard bop</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
-      <td>
-          <img src="https://i.discogs.com/7yNPMR3kZ62Qh8akbIhnsnHoFPDTDIdAXhYufcHtXgc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDk0/MDUtMTM2NDY3MjAx/NC00OTU0LmpwZWc.jpeg" alt="Cover for We Insist! Max Roach&#39;s Freedom Now Suite" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1986</td>
-      <td>Max Roach</td>
-      <td>We Insist! Max Roach&#39;s Freedom Now Suite</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>93</td>
+      <td>8</td>
       <td>
           <img src="https://i.discogs.com/w8uq13fuVMLQgCwwIoKd7VSWwJMdi7TDbdlQNtSrI2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDA4/NDYtMTQxNTYzNjky/OS0zMzg4LmpwZWc.jpeg" alt="Cover for We Insist! - Freedom Now Suite" style="max-width:120px; height:auto;" />
       </td>
@@ -824,7 +805,25 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>9</td>
+      <td>
+          <img src="https://i.discogs.com/7yNPMR3kZ62Qh8akbIhnsnHoFPDTDIdAXhYufcHtXgc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDk0/MDUtMTM2NDY3MjAx/NC00OTU0LmpwZWc.jpeg" alt="Cover for We Insist! Max Roach&#39;s Freedom Now Suite" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1986</td>
+      <td>Max Roach</td>
+      <td>We Insist! Max Roach&#39;s Freedom Now Suite</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/64c29e3853724aa2ca95d24f7719d328.png" alt="Cover for Enter" style="max-width:120px; height:auto;" />
       </td>
@@ -842,12 +841,12 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 56</li>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://i.discogs.com/DeyYQu_WGq1RyksX-kKCoYkoJhn8Yv9UWHMy8METePw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwODA0/MDMtMTM2OTg2NjE4/OS0yNzYxLmpwZWc.jpeg" alt="Cover for Out There (Rudy Van Gelder Remaster)" style="max-width:120px; height:auto;" />
       </td>
@@ -865,25 +864,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>
-          <img src="https://i.discogs.com/adzyjAoyPP0Hac93UNuma_V--Uhz7avo-tsPFbOByKY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjEw/NC0xMjgzNDI1MTA0/LmpwZWc.jpeg" alt="Cover for Testament" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1991</td>
-      <td>Fire!</td>
-      <td>Testament</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/60382498d82b00e4190b269815632a2c.png" alt="Cover for Atlantis" style="max-width:120px; height:auto;" />
       </td>
@@ -901,7 +882,25 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>96</td>
+      <td>
+          <img src="https://i.discogs.com/adzyjAoyPP0Hac93UNuma_V--Uhz7avo-tsPFbOByKY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjEw/NC0xMjgzNDI1MTA0/LmpwZWc.jpeg" alt="Cover for Testament" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1991</td>
+      <td>Fire!</td>
+      <td>Testament</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>74</td>
       <td>
       </td>
       <td>1992-12</td>
@@ -921,7 +920,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/84eec79932bfdde9894583b3f3a97fbd.png" alt="Cover for Expression (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -940,13 +939,13 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 12</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 72</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 29</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/rZZMEA21JyiLSb1iVBcLBmSee5c47w9A8PDDFbqMPTg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTgw/NC0xMjc4MTQ2NjI4/LmpwZWc.jpeg" alt="Cover for Torture Garden" style="max-width:120px; height:auto;" />
       </td>
@@ -966,7 +965,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/j83yICrLxBKJQvK57rcYoTBQVT7dru9HRfwUxLVmK5E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNjM5/NjYtMTM0MDI3MTM1/Ni02ODA2LmpwZWc.jpeg" alt="Cover for Trio Tapestry" style="max-width:120px; height:auto;" />
       </td>
@@ -987,7 +986,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/160c09ed6f0d01d753616cf5d2387887.png" alt="Cover for Conference of the Birds" style="max-width:120px; height:auto;" />
       </td>
@@ -1006,7 +1005,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2bf16ef0bcca4309aa4bf7d83bde73b8.png" alt="Cover for The Illinois Concert" style="max-width:120px; height:auto;" />
       </td>
@@ -1020,12 +1019,12 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 20</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>82</td>
       <td>
           <img src="https://i.discogs.com/ZkHnETI6cU-G9omHC8iLajdSXlI2t2ClQILtpVNI8W4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwODM4/MS0xMzU1NzY4NDc2/LTMyMzYuanBlZw.jpeg" alt="Cover for Strange Strings" style="max-width:120px; height:auto;" />
       </td>
@@ -1043,7 +1042,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/81bf909f634312e532e275dcc04ac8b0.png" alt="Cover for The Olatunji Concert: The Last Live Recording" style="max-width:120px; height:auto;" />
       </td>
@@ -1062,7 +1061,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>91</td>
       <td>
           <img src="https://i.discogs.com/KRmZakJBI1-o665hM6ZtJA5T80zOapAUKlxsPGsbmUU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc3/MTY5LTE0OTEyMDg4/MjAtNTQ0OS5qcGVn.jpeg" alt="Cover for Sun Ra Arkestra Meets Salah Ragab in Egypt" style="max-width:120px; height:auto;" />
       </td>
@@ -1081,7 +1080,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
       </td>
       <td>2004-07-27</td>
@@ -1097,12 +1096,12 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 91</li>
+            <li> <a href="{{ "/tags/jazz-metal" | relative_url }}">jazz metal</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>89</td>
       <td>
           <img src="https://i.discogs.com/aY76cZmMtdzzXcdtCe7ttVLREB_qx6q9-O3VS6spMUM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTk4/MS0xMzE3ODMwODc1/LmpwZWc.jpeg" alt="Cover for 1+3+1" style="max-width:120px; height:auto;" />
       </td>
@@ -1125,7 +1124,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>81</td>
       <td>
       </td>
       <td>2007-10-24</td>
@@ -1145,7 +1144,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>90</td>
+      <td>11</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/30881d460bc454d86a56815786c444ba.png" alt="Cover for Sleeping Beauty" style="max-width:120px; height:auto;" />
       </td>
@@ -1163,7 +1162,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
       </td>
       <td>2008-12-09</td>
@@ -1180,12 +1179,12 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 74</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 27</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/59e6f99cb2451d3a25d98fd48ab4acdc.png" alt="Cover for Yawiquo" style="max-width:120px; height:auto;" />
       </td>
@@ -1204,7 +1203,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>99</td>
       <td>
       </td>
       <td>2009-10-06</td>
@@ -1222,7 +1221,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
       </td>
       <td>2010-07</td>
@@ -1242,7 +1241,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
       </td>
       <td>2010-08-23</td>
@@ -1260,7 +1259,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f1077a1dd794f1a86c6dbc702624741.png" alt="Cover for Out There" style="max-width:120px; height:auto;" />
       </td>
@@ -1274,12 +1273,12 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 42</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>94</td>
       <td>
       </td>
       <td>2011</td>
@@ -1298,7 +1297,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d95a32fcba74f6ba16e83e3e2e1d2d5.png" alt="Cover for New History Warfare Vol. 2: Judges" style="max-width:120px; height:auto;" />
       </td>
@@ -1317,7 +1316,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
       </td>
       <td>2011-05-10</td>
@@ -1335,7 +1334,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/858adb4518ed2a19d6cd2a7ce2cabce1.png" alt="Cover for Out To Lunch (The Rudy Van Gelder Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1350,12 +1349,12 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 89</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5843d31e1300e1b2735b33336ebad9a.png" alt="Cover for Special Edition" style="max-width:120px; height:auto;" />
       </td>
@@ -1372,12 +1371,12 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 70</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
           <img src="https://i.discogs.com/G4IEyGtCX3wfLDfwyqrSmSXNH28uOrw_RGB1wlQHj-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDYx/Ny0xMzI3MDg2NzQz/LmpwZWc.jpeg" alt="Cover for Celestial Love" style="max-width:120px; height:auto;" />
       </td>
@@ -1397,7 +1396,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9495a6fbc65b495fc9b9b2870adee997.png" alt="Cover for Exit!" style="max-width:120px; height:auto;" />
       </td>
@@ -1415,7 +1414,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
       </td>
       <td>2013-03-25</td>
@@ -1432,7 +1431,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/WenSkJ8srWjX6SNLqdZdB0jGXCEyL3Nf4rZIE7ssZPI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDY1/Mi0xMzc4MzAwOTM4/LTQ4NzAuanBlZw.jpeg" alt="Cover for Lanquidity (Definitive Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1449,12 +1448,12 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 28</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c7bf1bc1cb0b8a861e12c4eb08e6d19e.png" alt="Cover for KOMARA" style="max-width:120px; height:auto;" />
       </td>
@@ -1473,7 +1472,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/U0eD3swkuAI7oATIpaaJMRBKcuaQYFLUetEol3HwwFs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzM2/NjQtMTQyMTQzMDU4/OC0zODcwLmpwZWc.jpeg" alt="Cover for Break Stuff" style="max-width:120px; height:auto;" />
       </td>
@@ -1488,34 +1487,12 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 69</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>
-          <img src="https://i.discogs.com/CSErhzpxc-dkzL95ubiLizSyMeriGVqcVYhboBqevkw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDQ5/NzItMTI3MjcyMDUy/Ny5qcGVn.jpeg" alt="Cover for Visits Planet Earth&#x2F;Interstellar Low Ways" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2015-04-18</td>
-      <td>Sun Ra</td>
-      <td>Visits Planet Earth&#x2F;Interstellar Low Ways</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swing" | relative_url }}">swing</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 10</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://i.discogs.com/dnN5eahuUjXsyNugiM_D-J8BOU4sMLwhpQiBSFhixJc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDAz/MTMtMTM2MTMxNTk1/Mi03Mzk1LmpwZWc.jpeg" alt="Cover for Sleeping Beauty (Expanded Edition)" style="max-width:120px; height:auto;" />
       </td>
@@ -1533,14 +1510,36 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 8</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 87</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 93</li>
             <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>100</td>
+      <td>
+          <img src="https://i.discogs.com/CSErhzpxc-dkzL95ubiLizSyMeriGVqcVYhboBqevkw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDQ5/NzItMTI3MjcyMDUy/Ny5qcGVn.jpeg" alt="Cover for Visits Planet Earth&#x2F;Interstellar Low Ways" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2015-04-18</td>
+      <td>Sun Ra</td>
+      <td>Visits Planet Earth&#x2F;Interstellar Low Ways</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swing" | relative_url }}">swing</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 91</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/1swGiUNY5mAotVXn2UXZrAHLW-wnftx-xQ1NDIJW4zM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MjA1/MzQtMTQ0MzE5MDQ3/My05MDA0LmpwZWc.jpeg" alt="Cover for Red &amp; Black Light" style="max-width:120px; height:auto;" />
       </td>
@@ -1560,7 +1559,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
           <img src="https://i.discogs.com/M85w6d09f7BSHHgopoqfxDoBjgk6zJOYlOMgLb4yNIQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTk5/NzA5LTE0OTMyODQ3/OTktOTc2MS5qcGVn.jpeg" alt="Cover for All This I Do for Glory" style="max-width:120px; height:auto;" />
       </td>
@@ -1578,7 +1577,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
           <img src="https://i.discogs.com/WWEtzajvK-LORaEQgcrDm-xZhMqrwgWJiVvVVO9TcOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjMy/MjQ0LTE0OTM4MjEx/MzItNDQ3MC5qcGVn.jpeg" alt="Cover for Towards Language" style="max-width:120px; height:auto;" />
       </td>
@@ -1596,7 +1595,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://i.discogs.com/KdNU27_yeKtZNlrgyi9z3lS8VYNAxIAnCPgQxGQxzKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTAx/ODgyLTE1MDk4ODc5/NTgtNjI0Mi5qcGVn.jpeg" alt="Cover for Unloved" style="max-width:120px; height:auto;" />
       </td>
@@ -1611,12 +1610,12 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 34</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/dBvnh1Rdlg9Y-xIpXUWsOmuKgtxxx4TnajXXzoabqCg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDU3/MjA2LTE1MzU2NTM5/NTUtMTk1Ny5qcGVn.jpeg" alt="Cover for Helsinki Songs" style="max-width:120px; height:auto;" />
       </td>
@@ -1634,7 +1633,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/584703ec62147fcd1ea8ea5fba440c3a.png" alt="Cover for Stadium" style="max-width:120px; height:auto;" />
       </td>
@@ -1652,14 +1651,14 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 11</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 14</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 79</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 87</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>6</td>
       <td>
           <img src="https://i.discogs.com/AYdUh3bHv8Ifs_q91Tct0Ltv6ai1I3OPzcoi2PaxgrI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MDE4/OTQtMTM1NTk0NTY3/OS0xOTQ2LmpwZWc.jpeg" alt="Cover for never were the way she was" style="max-width:120px; height:auto;" />
       </td>
@@ -1677,7 +1676,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
           <img src="https://i.discogs.com/TNQjm_qZPuKGYYHDRY5zaAedReRf8Ytz756DiiMcQsY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDI2/NzUwLTE1OTEzNjIw/MjQtNTIzOS5wbmc.jpeg" alt="Cover for on the tender spot of every calloused moment" style="max-width:120px; height:auto;" />
       </td>
@@ -1695,14 +1694,14 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 10</li>
             <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 86</li>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 91</li>
             <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
           <img src="https://i.discogs.com/2-r5j96DEEfvmJxM3Eo92RXpRPLJYZRCS3xxX6eqLyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTcw/OTcwLTE1OTM4MTQ0/MTAtNTI3OS5qcGVn.jpeg" alt="Cover for Éons" style="max-width:120px; height:auto;" />
       </td>
@@ -1718,14 +1717,14 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 40</li>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 45</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 41</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 56</li>
             <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/4a8716d60d583b217c9d6af9006f70ec.png" alt="Cover for DRIFT Episode 1 &quot;DUST&quot;" style="max-width:120px; height:auto;" />
       </td>
@@ -1746,13 +1745,13 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 60</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 73</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 28</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 42</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/hrmdp2ZvWVsUNqYindl8EuxOFahMSt4oEnD2g1GNRdw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjA5/Njg5LTE2Mzg1Mzgw/OTAtODM4OS5qcGVn.jpeg" alt="Cover for Liminal Space" style="max-width:120px; height:auto;" />
       </td>
@@ -1771,7 +1770,30 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>56</td>
+      <td>
+          <img src="https://i.discogs.com/FEOKOYAuxZQwPZpN9k-JrtNu8g-400ZT68JFwGJiNgk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjI0/NjE5LTE2NTAyODc2/MDEtOTU4OC5qcGVn.jpeg" alt="Cover for [self-titled]" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-04-01</td>
+      <td>Niechęć</td>
+      <td>[self-titled]</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 49</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
       <td>
           <img src="https://i.discogs.com/FEOKOYAuxZQwPZpN9k-JrtNu8g-400ZT68JFwGJiNgk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjI0/NjE5LTE2NTAyODc2/MDEtOTU4OC5qcGVn.jpeg" alt="Cover for Unsubscribe" style="max-width:120px; height:auto;" />
       </td>
@@ -1793,30 +1815,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>45</td>
-      <td>
-          <img src="https://i.discogs.com/FEOKOYAuxZQwPZpN9k-JrtNu8g-400ZT68JFwGJiNgk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNjI0/NjE5LTE2NTAyODc2/MDEtOTU4OC5qcGVn.jpeg" alt="Cover for [self-titled]" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022-04-01</td>
-      <td>Niechęć</td>
-      <td>[self-titled]</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/polish" | relative_url }}">polish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 51</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
           <img src="https://i.discogs.com/MvwQiFJ_kPtALMF6eP_EYcH673jqat3YuPnuuW094W8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzY0/NTY2LTE2NTM1OTMx/NTYtOTQyNS5qcGVn.jpeg" alt="Cover for Amaryllis" style="max-width:120px; height:auto;" />
       </td>
@@ -1836,7 +1835,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>83</td>
       <td>
           <img src="https://i.discogs.com/Whxk_Unc1cYxO8echlnnUI56jN2icG4yEGGcm6mGcPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODA2/NDk5LTE2OTQwMzM5/MzAtOTk3MS5qcGVn.jpeg" alt="Cover for New Future City Radio" style="max-width:120px; height:auto;" />
       </td>
@@ -1855,7 +1854,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
           <img src="https://i.discogs.com/tPCwpobGkSoa1azaHESm0hcVPmC3sAqJBDorvzSHAG0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjEx/ODI2LTE2ODI3MjM5/MDEtNzA4MC5qcGVn.jpeg" alt="Cover for London Brew" style="max-width:120px; height:auto;" />
       </td>
@@ -1875,7 +1874,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>23</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6d3500c78c7c9194eb997928d2df9ae.png" alt="Cover for Confidenza (Original Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
@@ -1895,7 +1894,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c9dd460be6b0a7ee2b46acb93422c5cf.png" alt="Cover for Endlessness" style="max-width:120px; height:auto;" />
       </td>
@@ -1914,66 +1913,17 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 2</li>
             <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 63</li>
             <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 71</li>
             <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 81</li>
-            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>17</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bcfba0ef949048578dd94178657e3899.png" alt="Cover for Trapeziste" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>カヒミ・カリィ</td>
-      <td>Trapeziste</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 7</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 35</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 57</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>80</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dddfb9ad5dfc4c7f9ffdf2fd68260076.png" alt="Cover for Sings" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Patty Waters</td>
-      <td>Sings</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 21</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>84</td>
-      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a51b773ea9c1c46b18ddcb29da47be0a.png" alt="Cover for Utopia" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Bremer&#x2F;McCoy</td>
@@ -1997,7 +1947,57 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>21</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dddfb9ad5dfc4c7f9ffdf2fd68260076.png" alt="Cover for Sings" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Patty Waters</td>
+      <td>Sings</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 21</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bcfba0ef949048578dd94178657e3899.png" alt="Cover for Trapeziste" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>カヒミ・カリィ</td>
+      <td>Trapeziste</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 9</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 44</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 66</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
       <td>
       </td>
       <td></td>
@@ -2014,7 +2014,7 @@ Avant-garde jazz emerged in the 1950s-60s as musicians pushed beyond traditional
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
       </td>
       <td></td>

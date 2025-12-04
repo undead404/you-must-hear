@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T05:26:39.955Z
+date: 2025-12-03T19:07:29.841Z
 permalink: tags/noise
 title: noise
 ---
 
 ## noise
 
-Last updated: <time datetime="2025-11-26T05:26:39.955Z">Wed Nov 26 2025 07:26:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T19:07:29.841Z">Wed Dec 03 2025 21:07:29 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -61,7 +61,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 50</li>
+            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -101,7 +101,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 43</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 90</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -159,8 +159,8 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 32</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 51</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 34</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -199,7 +199,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a> # 22</li>
+            <li> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -237,7 +237,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 58</li>
+            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -310,8 +310,8 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 3</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 64</li>
-            <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -367,7 +367,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 47</li>
+            <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -387,7 +387,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 31</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 30</li>
             <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 51</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 87</li>
         </ul>
@@ -408,7 +408,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 56</li>
+            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -427,7 +427,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 57</li>
+            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -447,7 +447,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 63</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -484,7 +484,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 72</li>
+            <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -540,7 +540,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 88</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -560,7 +560,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 79</li>
+            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -580,9 +580,9 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 62</li>
+            <li> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a> # 5</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 65</li>
             <li> <a href="{{ "/tags/sasscore" | relative_url }}">sasscore</a> # 88</li>
-            <li> <a href="{{ "/tags/real-post-hardcore" | relative_url }}">real post-hardcore</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -605,7 +605,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 34</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 67</li>
             <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 100</li>
         </ul>
       </td>
@@ -624,8 +624,8 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 42</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 65</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 35</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 59</li>
             <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 82</li>
             <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 85</li>
             <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 90</li>
@@ -647,7 +647,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 18</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -667,13 +667,14 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 18</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 83</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>71</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e123620142c54c6abfd724c57ab1e829.png" alt="Cover for They Were Wrong, So We Drowned" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-02-24</td>
       <td>Liars</td>
@@ -704,7 +705,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 7</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 6</li>
             <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 97</li>
         </ul>
       </td>
@@ -780,9 +781,9 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 20</li>
             <li> <a href="{{ "/tags/noise-punk" | relative_url }}">noise punk</a> # 71</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 73</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 75</li>
+            <li> <a href="{{ "/tags/noisecore" | relative_url }}">noisecore</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -900,7 +901,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 42</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1079,7 +1080,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 47</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1191,7 +1192,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 75</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1315,7 +1316,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 94</li>
+            <li> <a href="{{ "/tags/toronto" | relative_url }}">toronto</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1379,7 +1380,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 79</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1475,26 +1476,26 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 27</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 29</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 8</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 8</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 10</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 28</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 30</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 32</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 35</li>
             <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 36</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 40</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 40</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 41</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 42</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 44</li>
             <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 47</li>
             <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 54</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 57</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 68</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 61</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 76</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 78</li>
             <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 79</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 90</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 91</li>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 91</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 92</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 93</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1590,7 +1591,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 34</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 67</li>
             <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 93</li>
             <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 94</li>
         </ul>
@@ -1672,7 +1673,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 10</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1792,8 +1793,8 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 79</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 85</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 16</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1839,14 +1840,14 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 27</li>
+            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 2</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 9</li>
             <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 35</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 46</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 47</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 50</li>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 55</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 87</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 89</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 91</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 92</li>
-            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1871,9 +1872,10 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 3</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 12</li>
             <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 66</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 75</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 89</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1945,18 +1947,18 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 5</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 66</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 69</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 72</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 89</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 12</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 29</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 32</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 35</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 96</li>
             <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 97</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 99</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 100</li>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 100</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 100</li>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 100</li>
             <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 100</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 100</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 100</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 100</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 100</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1984,7 +1986,7 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 45</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -2047,25 +2049,25 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 1</li>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 4</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 5</li>
             <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 7</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 11</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 26</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 40</li>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 40</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 52</li>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 53</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 32</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 41</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 48</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 49</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 61</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 62</li>
             <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 67</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 69</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 71</li>
             <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 72</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 75</li>
             <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 75</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 76</li>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 78</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 98</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2090,9 +2092,9 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 57</li>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 80</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 84</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 14</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 21</li>
+            <li> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a> # 32</li>
             <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 97</li>
             <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 97</li>
         </ul>
@@ -2152,8 +2154,8 @@ Noise music is a genre of music that emphasizes the use of noise and dissonance,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 34</li>
             <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 66</li>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 67</li>
         </ul>
       </td>
     </tr>
