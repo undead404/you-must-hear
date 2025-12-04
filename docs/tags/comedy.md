@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T10:15:23.839Z
+date: 2025-12-03T17:42:20.053Z
 permalink: tags/comedy
 title: comedy
 ---
 
 ## comedy
 
-Last updated: <time datetime="2025-11-23T10:15:23.839Z">Sun Nov 23 2025 12:15:23 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T17:42:20.053Z">Wed Dec 03 2025 19:42:20 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -66,7 +66,7 @@ Comedy music is a genre of music that is intended to be humorous or satirical in
     <tr>
       <td>19</td>
       <td>
-          <img src="https://i.discogs.com/0nWKvayKsiXR_Z3-5JnuoaSS1sL0b3sW8KgOUcsEhY8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MDAx/ODYtMTU4OTczMjgz/MS0yMjc3LmpwZWc.jpeg" alt="Cover for Monty Python And The Holy Grail" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a5d7d954c6a06f88da7ed02e505df171.png" alt="Cover for Monty Python And The Holy Grail" style="max-width:120px; height:auto;" />
       </td>
       <td>1975-07-28</td>
       <td>Monty Python</td>
@@ -118,7 +118,7 @@ Comedy music is a genre of music that is intended to be humorous or satirical in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 95</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -138,6 +138,7 @@ Comedy music is a genre of music that is intended to be humorous or satirical in
       <td>
         <ul>
             <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 66</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -173,7 +174,7 @@ Comedy music is a genre of music that is intended to be humorous or satirical in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 84</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -231,7 +232,7 @@ Comedy music is a genre of music that is intended to be humorous or satirical in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 89</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -251,7 +252,7 @@ Comedy music is a genre of music that is intended to be humorous or satirical in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 97</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -307,15 +308,16 @@ Comedy music is a genre of music that is intended to be humorous or satirical in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 16</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 17</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 34</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 58</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d018eb46dd194b71bbc5cfb32080db96.png" alt="Cover for No Cure For Cancer" style="max-width:120px; height:auto;" />
       </td>
       <td>1993-01-12</td>
       <td>Denis Leary</td>
@@ -362,7 +364,7 @@ Comedy music is a genre of music that is intended to be humorous or satirical in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 20</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -421,7 +423,7 @@ Comedy music is a genre of music that is intended to be humorous or satirical in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 68</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -441,7 +443,7 @@ Comedy music is a genre of music that is intended to be humorous or satirical in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 98</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -460,7 +462,7 @@ Comedy music is a genre of music that is intended to be humorous or satirical in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 75</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -517,7 +519,7 @@ Comedy music is a genre of music that is intended to be humorous or satirical in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 50</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 51</li>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 69</li>
         </ul>
       </td>
@@ -573,7 +575,7 @@ Comedy music is a genre of music that is intended to be humorous or satirical in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 50</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -668,7 +670,7 @@ Comedy music is a genre of music that is intended to be humorous or satirical in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 42</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 58</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 78</li>
         </ul>
       </td>
@@ -707,7 +709,7 @@ Comedy music is a genre of music that is intended to be humorous or satirical in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 83</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -780,7 +782,7 @@ Comedy music is a genre of music that is intended to be humorous or satirical in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 79</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -983,7 +985,7 @@ Comedy music is a genre of music that is intended to be humorous or satirical in
       <td>
         <ul>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 2</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 85</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1005,9 +1007,9 @@ Comedy music is a genre of music that is intended to be humorous or satirical in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 10</li>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 37</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 42</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 91</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1046,7 +1048,7 @@ Comedy music is a genre of music that is intended to be humorous or satirical in
       <td>
         <ul>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 11</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 80</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1064,8 +1066,8 @@ Comedy music is a genre of music that is intended to be humorous or satirical in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 6</li>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 85</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 86</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1084,7 +1086,7 @@ Comedy music is a genre of music that is intended to be humorous or satirical in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 5</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1105,7 +1107,7 @@ Comedy music is a genre of music that is intended to be humorous or satirical in
       <td>
         <ul>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 15</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 70</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1164,10 +1166,10 @@ Comedy music is a genre of music that is intended to be humorous or satirical in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 1</li>
             <li> <a href="{{ "/tags/stand-up" | relative_url }}">stand-up</a> # 19</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 69</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 31</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 91</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 100</li>
             <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 100</li>
         </ul>
       </td>
@@ -1229,6 +1231,7 @@ Comedy music is a genre of music that is intended to be humorous or satirical in
     <tr>
       <td>12</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5781dc3f832e3409991fb99c33392433.png" alt="Cover for Spongebob Squarepants - Original Theme Highlights" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Various Artists</td>
@@ -1340,6 +1343,7 @@ Comedy music is a genre of music that is intended to be humorous or satirical in
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea057b5556e44c59a6e0e505647e8efc.png" alt="Cover for I Told You I Was Freaky" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-10-20</td>
       <td>Flight of the Conchords</td>
@@ -1379,10 +1383,11 @@ Comedy music is a genre of music that is intended to be humorous or satirical in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 4</li>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 17</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 23</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 78</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 87</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 25</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 89</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 97</li>
         </ul>
       </td>
@@ -1478,7 +1483,7 @@ Comedy music is a genre of music that is intended to be humorous or satirical in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 88</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1513,7 +1518,7 @@ Comedy music is a genre of music that is intended to be humorous or satirical in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 27</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1537,9 +1542,9 @@ Comedy music is a genre of music that is intended to be humorous or satirical in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 70</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 81</li>
-            <li> <a href="{{ "/tags/norge" | relative_url }}">norge</a> # 100</li>
+            <li> <a href="{{ "/tags/norge" | relative_url }}">norge</a> # 1</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 20</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1615,25 +1620,25 @@ Comedy music is a genre of music that is intended to be humorous or satirical in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 27</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 29</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 8</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 8</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 10</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 28</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 30</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 32</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 35</li>
             <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 36</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 39</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 41</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 42</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 46</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 53</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 57</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 59</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 65</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 44</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 47</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 54</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 64</li>
             <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 76</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 77</li>
             <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 78</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 79</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 90</li>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 91</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 91</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 92</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 93</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 93</li>
         </ul>
       </td>
@@ -1662,12 +1667,12 @@ Comedy music is a genre of music that is intended to be humorous or satirical in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 25</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 27</li>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 45</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 49</li>
             <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 63</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 80</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 93</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 94</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 98</li>
         </ul>
       </td>
@@ -1691,9 +1696,9 @@ Comedy music is a genre of music that is intended to be humorous or satirical in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 48</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 68</li>
-            <li> <a href="{{ "/tags/norge" | relative_url }}">norge</a> # 99</li>
+            <li> <a href="{{ "/tags/norge" | relative_url }}">norge</a> # 2</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 33</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1744,14 +1749,14 @@ Comedy music is a genre of music that is intended to be humorous or satirical in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 41</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 46</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 2</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 3</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 28</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 47</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 60</li>
             <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 65</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 74</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 85</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 87</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 95</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 98</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 99</li>
             <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 100</li>
         </ul>
       </td>
@@ -1775,7 +1780,7 @@ Comedy music is a genre of music that is intended to be humorous or satirical in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 91</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1853,11 +1858,11 @@ Comedy music is a genre of music that is intended to be humorous or satirical in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 6</li>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 54</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 60</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 86</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 95</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 89</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 96</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 100</li>
         </ul>
       </td>
@@ -1883,7 +1888,7 @@ Comedy music is a genre of music that is intended to be humorous or satirical in
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/PLHmCI3edU58I-gEEvtdZPahRYfT5QuC4V8tTVlhB6s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MzQy/MjktMTQ2NTU4NDg4/Ny03NjM2LmpwZWc.jpeg" alt="Cover for Popstar: Never Stop Never Stopping" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c906a17b442f34376c75db71e38fef6.png" alt="Cover for Popstar: Never Stop Never Stopping" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-06-03</td>
       <td>The Lonely Island</td>
@@ -2015,7 +2020,7 @@ Comedy music is a genre of music that is intended to be humorous or satirical in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 88</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -2078,25 +2083,25 @@ Comedy music is a genre of music that is intended to be humorous or satirical in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 1</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 3</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 1</li>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 4</li>
             <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 5</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 7</li>
             <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 11</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 39</li>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 40</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 40</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 41</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 48</li>
             <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 52</li>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 53</li>
             <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 62</li>
             <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 67</li>
             <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 71</li>
-            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 71</li>
             <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 72</li>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 75</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 75</li>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 75</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 76</li>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 78</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 85</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 86</li>
             <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 98</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 100</li>
         </ul>
       </td>
     </tr>

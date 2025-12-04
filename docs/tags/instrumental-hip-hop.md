@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T05:07:38.455Z
+date: 2025-12-03T17:23:41.000Z
 permalink: tags/instrumental-hip-hop
 title: instrumental hip-hop
 ---
 
 ## instrumental hip-hop
 
-Last updated: <time datetime="2025-11-26T05:07:38.455Z">Wed Nov 26 2025 07:07:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T17:23:41.000Z">Wed Dec 03 2025 19:23:41 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,7 +44,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 33</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -121,7 +121,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 35</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 66</li>
             <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 82</li>
             <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 90</li>
             <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 94</li>
@@ -439,7 +439,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 58</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -532,7 +532,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 38</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -628,8 +628,8 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 1</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 16</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 20</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -790,9 +790,9 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 9</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 30</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 43</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 45</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 71</li>
+            <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -868,12 +868,12 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 7</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 19</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 49</li>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 52</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 52</li>
             <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 56</li>
             <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 64</li>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 82</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -968,7 +968,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ukulele" | relative_url }}">ukulele</a> # 98</li>
+            <li> <a href="{{ "/tags/ukulele" | relative_url }}">ukulele</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1692,7 +1692,7 @@ Instrumental hip-hop, also known as beat music or instrumental beats, is a subge
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 16</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 84</li>
         </ul>
       </td>
     </tr>

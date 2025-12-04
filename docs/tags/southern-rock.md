@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T05:09:38.240Z
+date: 2025-12-03T17:25:38.450Z
 permalink: tags/southern-rock
 title: southern rock
 ---
 
 ## southern rock
 
-Last updated: <time datetime="2025-11-26T05:09:38.240Z">Wed Nov 26 2025 07:09:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-03T17:25:38.450Z">Wed Dec 03 2025 19:25:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -64,7 +64,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       <td>
         <ul>
             <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 39</li>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 43</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -84,7 +84,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 85</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -123,7 +123,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 6</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -198,7 +198,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 62</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -399,7 +399,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 47</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -601,7 +601,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 71</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -638,7 +638,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 99</li>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -679,7 +679,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 7</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -949,7 +949,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish-rock" | relative_url }}">spanish rock</a> # 96</li>
+            <li> <a href="{{ "/tags/spanish-rock" | relative_url }}">spanish rock</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1061,7 +1061,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 40</li>
+            <li> <a href="{{ "/tags/blues-rock" | relative_url }}">blues rock</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1152,7 +1152,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 29</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1171,7 +1171,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 1</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1252,7 +1252,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 46</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1273,7 +1273,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 43</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1331,7 +1331,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 86</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1518,7 +1518,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 63</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 38</li>
             <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 89</li>
             <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 96</li>
         </ul>
@@ -1559,8 +1559,8 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 50</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 59</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 42</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1768,10 +1768,10 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 18</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 26</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 77</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 84</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 16</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 24</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 72</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1793,7 +1793,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 5</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1833,8 +1833,8 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 9</li>
             <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 65</li>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1915,7 +1915,7 @@ Southern rock is a subgenre of rock music that originated in the Southern United
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 5</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 7</li>
         </ul>
       </td>
     </tr>
