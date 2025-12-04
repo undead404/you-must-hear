@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T03:51:56.132Z
+date: 2025-12-04T07:15:11.922Z
 permalink: tags/cantautore
 title: cantautore
 ---
 
 ## cantautore
 
-Last updated: <time datetime="2025-10-22T03:51:56.132Z">Wed Oct 22 2025 06:51:56 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T07:15:11.922Z">Thu Dec 04 2025 09:15:11 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -102,13 +102,14 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 60</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af1bf71b725e44e3bb580cb10a193842.png" alt="Cover for Rimmel" style="max-width:120px; height:auto;" />
       </td>
       <td>1975-01</td>
       <td>Francesco De Gregori</td>
@@ -119,7 +120,7 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 95</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -144,7 +145,7 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
     <tr>
       <td>19</td>
       <td>
-          <img src="https://i.discogs.com/MbWVsSLnwj-G-tffY6M_XR_Lns6zQ8fsnky6iCInRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODMy/NzMtMTQzOTAzOTEz/MS04MDExLmpwZWc.jpeg" alt="Cover for Cantacronache 1" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd950cb5e3df4298b4060271eb914318.png" alt="Cover for Cantacronache 1" style="max-width:120px; height:auto;" />
       </td>
       <td>1977</td>
       <td>Various Artists</td>
@@ -161,8 +162,8 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 17</li>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 20</li>
+            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 15</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -183,15 +184,15 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 10</li>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 55</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/t1Rc7iUaugYbvXwmkSyotkwyO9TFW8XVZSwo_zzMKHQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjcz/MDktMTY4NzYyNjM5/My0xMTUzLmpwZWc.jpeg" alt="Cover for Nuntereggae più" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/96dfbfa7634e4a13850e232c93dbcbaf.png" alt="Cover for Nuntereggae più" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>Rino Gaetano</td>
@@ -204,13 +205,14 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 91</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 9</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3afa0c09d8eca3ed8e1c0d870a797220.png" alt="Cover for La Mia Banda Suona Il Rock" style="max-width:120px; height:auto;" />
       </td>
       <td>1979</td>
       <td>Ivano Fossati</td>
@@ -227,8 +229,8 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 79</li>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 90</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 10</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 21</li>
             <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 97</li>
         </ul>
       </td>
@@ -236,7 +238,7 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/oqk935RbHsSn5gjJGPlYoDM1PITPdVx9Pw9TmkC01ew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTE1/NTgtMTI5Njc1NzE2/My5qcGVn.jpeg" alt="Cover for Gente nervosa" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40d7883573d94008a4a54416a0e1d38e.png" alt="Cover for Gente nervosa" style="max-width:120px; height:auto;" />
       </td>
       <td>1981</td>
       <td>Bernardo Lanzetti</td>
@@ -274,7 +276,7 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 18</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -314,7 +316,7 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 28</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -335,7 +337,7 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 10</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -503,7 +505,7 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 19</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -549,6 +551,7 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a66a0997e3ff460ec6c930d468342fde.png" alt="Cover for Henna" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Lucio Dalla</td>
@@ -566,8 +569,8 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 17</li>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 67</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 29</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 80</li>
             <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 85</li>
         </ul>
       </td>
@@ -609,7 +612,7 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 65</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -671,7 +674,7 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/VJ1bLyvDihJ72QJq1Zh5lTfFKfF0RxaBzq_jMxjVvIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjMy/MTMxLTE1NTc5MTY0/MzctOTI0OS5qcGVn.jpeg" alt="Cover for Canzoni A Raccolta (Time And Silence)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/147212dd0012b2d010b4d95eefd5ffe7.png" alt="Cover for Canzoni A Raccolta (Time And Silence)" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Ivano Fossati</td>
@@ -787,7 +790,7 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 52</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -809,13 +812,14 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 35</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 63</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2af3d589db5f5015f3b5b63a786c5b01.png" alt="Cover for Canzoni a manovella" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-06-09</td>
       <td>Vinicio Capossela</td>
@@ -830,7 +834,8 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 70</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 2</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -850,14 +855,14 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 76</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/5lRa9tlLDtyuUMjjyPbe6Xh6Z45FybhbXe4wCZ3Rgvo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyOTcy/OTU4LTE2NTA2NTEx/NjctOTY2My5qcGVn.jpeg" alt="Cover for Accordi E Disaccordi" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/639fa9fe9adc7ecc7b61a7077c41ed16.png" alt="Cover for Accordi E Disaccordi" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Clan Mamacè</td>
@@ -960,6 +965,7 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
     <tr>
       <td>11</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6309715f7034457eb462e402f6216a12.png" alt="Cover for Concerie" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Ennio Rega</td>
@@ -1049,18 +1055,18 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 3</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 18</li>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 34</li>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 40</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 6</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 11</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 37</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 38</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 40</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 48</li>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 50</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 52</li>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 53</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 55</li>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 63</li>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 64</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 50</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 61</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 66</li>
             <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 79</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 90</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1078,7 +1084,7 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 17</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1221,7 +1227,7 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/8dUJDbH_MCyAb0uMcZguxKB6vXmtyqSWvCVHMm-hQGI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODk1/MjEtMTI0MzQzNjIw/Ni5qcGVn.jpeg" alt="Cover for Frantic" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e4cf7421c8ace4f4c330db13f054d27.png" alt="Cover for Frantic" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03-20</td>
       <td>Gaia Riva</td>
@@ -1244,6 +1250,7 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
     <tr>
       <td>82</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/007e811534bfe3dcf6bae527044cc1b1.png" alt="Cover for Domani 21&#x2F;04.2009" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-05-08</td>
       <td>Artisti Uniti Per L&#39;Abruzzo</td>
@@ -1276,7 +1283,7 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 67</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1355,12 +1362,12 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
       <td>
         <ul>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 1</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 4</li>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 13</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 28</li>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 41</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 47</li>
             <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 50</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 56</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 60</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 71</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 88</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1385,7 +1392,7 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
     <tr>
       <td>74</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/189b5cb2a18f38c13185e4b6374e4692.png" alt="Cover for Il Sogno Eretico" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/77f4a24969d7a4192386172fb267a4fa.png" alt="Cover for Il Sogno Eretico" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03-01</td>
       <td>Caparezza</td>
@@ -1418,7 +1425,7 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 14</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1461,7 +1468,7 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/o_vXYtMIBE_sG_-o5pJzRpn6kVYWqCuZYAt-12zbhCI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjEy/Mzk0LTE1MzA2MTM0/NDMtMjA2My5qcGVn.jpeg" alt="Cover for From The Appartamento to Eternity" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9fc2aed191b64288820c50e98aa26978.png" alt="Cover for From The Appartamento to Eternity" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Strueia</td>
@@ -1516,7 +1523,7 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 76</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1552,7 +1559,7 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
             <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 20</li>
             <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 26</li>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 27</li>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 46</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 55</li>
             <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 68</li>
         </ul>
       </td>
@@ -1560,7 +1567,7 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/BEGxHMiYy5ev5yWWR-TCDY5Gx155VDnPaQlxoDhZzfM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTAy/MjAxLTE1MDk4OTk3/MjQtMjM1Ny5qcGVn.jpeg" alt="Cover for Catacatassc&#39;" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac6141aabc1e94471182543b7d74a62e.png" alt="Cover for Catacatassc&#39;" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-02-14</td>
       <td>La Bestia Carenne</td>
@@ -1574,7 +1581,7 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 25</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1594,14 +1601,14 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 22</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/51lMRaeK67IzzA7HdN7ME15_qnbJau2wG49vWmf9LM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTc4/Njk3LTE1NjkzMzU3/MTQtNzMzMy5qcGVn.jpeg" alt="Cover for Domani" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d279bb1d8d306d944f224990e6e099e.png" alt="Cover for Domani" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-09-28</td>
       <td>Tōru</td>
@@ -1674,7 +1681,7 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 33</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1695,7 +1702,7 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 9</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1718,13 +1725,14 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 8</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 95</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e0cd6ced017476db110f168a08981db.png" alt="Cover for La Donna Barbuta" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>GrockBanda</td>
@@ -1758,13 +1766,14 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 15</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e0cd6ced017476db110f168a08981db.png" alt="Cover for Ridere Senza Pietà" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>GrockBanda</td>
@@ -1796,7 +1805,7 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 32</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1833,7 +1842,7 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
       <td>
         <ul>
             <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 20</li>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 34</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1860,8 +1869,8 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 21</li>
             <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 73</li>
+            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1882,7 +1891,7 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 7</li>
+            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1906,6 +1915,7 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
     <tr>
       <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/748a0bdc179a7e6d244d22fe5ec4cd90.png" alt="Cover for Datemi tempo ci sto provando" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Giondamix</td>
@@ -1944,6 +1954,7 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
     <tr>
       <td>9</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc3568104398176ea798e59eac9fb970.png" alt="Cover for Archimede" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Cristian Albani</td>
@@ -2040,6 +2051,7 @@ Cantautore describes the Italian singer-songwriter tradition where poetic lyrics
     <tr>
       <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0094b337df82d0bfe1e8770ecab5cee2.png" alt="Cover for Maremare" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Tommaso P</td>

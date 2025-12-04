@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T03:54:56.081Z
+date: 2025-12-04T07:17:35.551Z
 permalink: tags/new-age-instrumental
 title: new age instrumental
 ---
 
 ## new age instrumental
 
-Last updated: <time datetime="2025-10-22T03:54:56.081Z">Wed Oct 22 2025 06:54:56 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T07:17:35.551Z">Thu Dec 04 2025 09:17:35 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -82,7 +82,7 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 41</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -141,7 +141,7 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 83</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -180,7 +180,7 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 21</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -269,9 +269,9 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 11</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 24</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 66</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 77</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -331,9 +331,9 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 45</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 46</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 51</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 50</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 54</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 56</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 65</li>
         </ul>
       </td>
@@ -357,14 +357,15 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 43</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 45</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 55</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91fd01b3e508428a1251f4d582d46d86.png" alt="Cover for Ten Thousand Buddhas" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-11-19</td>
       <td>Music from the World of Osho</td>
@@ -381,9 +382,9 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 100</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 100</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 100</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 1</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 1</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 1</li>
             <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 100</li>
         </ul>
       </td>
@@ -408,10 +409,10 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 20</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 30</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 35</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 66</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 71</li>
             <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 76</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 81</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 88</li>
         </ul>
       </td>
@@ -434,8 +435,8 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 89</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 92</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 10</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -457,8 +458,8 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 87</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 89</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 13</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 15</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 97</li>
         </ul>
       </td>
@@ -483,10 +484,10 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 24</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 29</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 31</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 33</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 70</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 72</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 77</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 91</li>
         </ul>
       </td>
@@ -504,8 +505,8 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 14</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 35</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 66</li>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -530,6 +531,7 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
     <tr>
       <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/66a92c497f6167003a19032b6e95a0a9.png" alt="Cover for Emotional Landscapes" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-04-08</td>
       <td>Erik Wøllo</td>
@@ -546,10 +548,10 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 20</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 26</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 27</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 30</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 74</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 75</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -577,6 +579,7 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
     <tr>
       <td>90</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c3c2b077e3924075a1f39cd8ba49c044.png" alt="Cover for Aftermath 2.0 | Archives of Peace" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-11-01</td>
       <td>Aes Dana</td>
@@ -591,9 +594,9 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 50</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 81</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 81</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 20</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 20</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -638,7 +641,7 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 52</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 49</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 54</li>
             <li> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a> # 70</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 81</li>
@@ -667,13 +670,13 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 12</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 15</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 17</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 20</li>
-            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 29</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 69</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 78</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 84</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 86</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 89</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 23</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 32</li>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 71</li>
             <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 95</li>
         </ul>
       </td>
@@ -681,7 +684,7 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/HdqorCJDV9dJ5SaDkky3LBE5lnhJlbvS1_UfYjl_CDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjcy/NjIxLTE2NjExMTAw/MTMtMTMwNi5qcGVn.jpeg" alt="Cover for Café del Mar Classic II" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/77b91dc586ee1b6ecd5bb01a5e417030.png" alt="Cover for Café del Mar Classic II" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-04-12</td>
       <td>Café Del Mar</td>
@@ -694,8 +697,8 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 7</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 64</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -721,10 +724,10 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 6</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 7</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 8</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 10</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 93</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 94</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 95</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 99</li>
         </ul>
       </td>
@@ -749,10 +752,10 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 6</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 19</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 25</li>
             <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 67</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 76</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 82</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -770,10 +773,10 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 21</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 27</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 28</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 31</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 73</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 74</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -803,10 +806,10 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       <td>
         <ul>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 33</li>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 36</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 43</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 48</li>
             <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 54</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 58</li>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -830,11 +833,11 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 13</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 25</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 30</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 32</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 34</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 69</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 71</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 76</li>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -857,9 +860,9 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 80</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 80</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 86</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 15</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 21</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 21</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 94</li>
         </ul>
       </td>
@@ -887,13 +890,13 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 9</li>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 9</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 17</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 22</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 23</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 24</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 59</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 78</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 79</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 84</li>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 92</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 92</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 42</li>
             <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 94</li>
         </ul>
       </td>
@@ -918,12 +921,12 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 34</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 42</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 46</li>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 64</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 25</li>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 37</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 55</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 59</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 67</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 74</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -947,10 +950,10 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 2</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 41</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 56</li>
             <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 59</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 60</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -975,11 +978,11 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 9</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 22</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 28</li>
             <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 71</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 73</li>
             <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 74</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 79</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 92</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 95</li>
         </ul>
       </td>
@@ -1049,8 +1052,8 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 39</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 42</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 62</li>
             <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 71</li>
             <li> <a href="{{ "/tags/indian-fusion" | relative_url }}">indian fusion</a> # 85</li>
         </ul>
@@ -1059,6 +1062,7 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
     <tr>
       <td>41</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/16e3c285ce32b3eb0b2d6136fe3e1b39.png" alt="Cover for Elevations" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Erik Wøllo</td>
@@ -1072,8 +1076,8 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 11</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 17</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 84</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1097,11 +1101,11 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 21</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 37</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 40</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 44</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 47</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 57</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 61</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 64</li>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 80</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 86</li>
         </ul>
       </td>
@@ -1109,6 +1113,7 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
     <tr>
       <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/95880b72ba54466aa96069bcd8f9b134.png" alt="Cover for Amadas Estrellas" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-02-13</td>
       <td>Achillea</td>
@@ -1120,8 +1125,8 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 35</li>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 53</li>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 36</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1145,7 +1150,7 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
     <tr>
       <td>95</td>
       <td>
-          <img src="https://i.discogs.com/tWbyTOoqaWS9NpD8YqsRaezIouIad5cshVX6Abk7Hvs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDAz/OTEtMTU0OTk2MDcw/My00NjI4LmpwZWc.jpeg" alt="Cover for Out of This World" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dabe868be889bee62ca43bd05dbb9a7a.png" alt="Cover for Out of This World" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-03-04</td>
       <td>Bryan El</td>
@@ -1160,11 +1165,11 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 9</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 14</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 56</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 60</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 41</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 45</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 82</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1188,12 +1193,12 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 47</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 49</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 54</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 18</li>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 30</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 47</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 51</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 54</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 61</li>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 71</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1211,10 +1216,10 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 51</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 55</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 42</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 46</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 50</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 56</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 59</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 80</li>
         </ul>
       </td>
@@ -1239,12 +1244,12 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 4</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 4</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 9</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 11</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 13</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 15</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 88</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 90</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 92</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 97</li>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 97</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 98</li>
         </ul>
       </td>
@@ -1284,7 +1289,7 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 8</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1310,12 +1315,12 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 24</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 43</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 34</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 39</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 41</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 44</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 60</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 62</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 67</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 57</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 77</li>
             <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 89</li>
         </ul>
       </td>
@@ -1359,16 +1364,16 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 10</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 14</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 60</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 87</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>17</td>
       <td>
-          <img src="https://i.discogs.com/TulKzJk53zEjvgPBLJi0YiIjPwJZjk74wEAqM23-4vI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTI5/ODktMTI2Njg3Mzk5/OS5qcGVn.jpeg" alt="Cover for Deep Flow" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d95555b98dfedd6282c55332fd533624.png" alt="Cover for Deep Flow" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-12-11</td>
       <td>Mirage of Deep</td>
@@ -1394,9 +1399,9 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 27</li>
             <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 45</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 49</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 52</li>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1424,17 +1429,17 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 36</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 44</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 49</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 51</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 52</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/PbmPmZPxrvlsvDEBfEwqCDdIhMXh_RzdTVQG_Axj-aM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDA0/NTUtMTU0OTk2MDg0/NS03NDc0LmpwZWc.jpeg" alt="Cover for Spiritual Evolution" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/106b8176614a42a58d20ec58a7fa4fdb.png" alt="Cover for Spiritual Evolution" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01-16</td>
       <td>Bryan El</td>
@@ -1449,10 +1454,10 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 18</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 23</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 25</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 39</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 78</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 83</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1477,6 +1482,7 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
     <tr>
       <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9cc14c55a2e7438482b4b5c048d591db.png" alt="Cover for Gateway" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-25</td>
       <td>Erik Wøllo</td>
@@ -1493,11 +1499,11 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 49</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 51</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 56</li>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 28</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 45</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 49</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 52</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 59</li>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1521,16 +1527,16 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       <td>
         <ul>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 2</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 98</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 98</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 99</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 2</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 3</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/QqpWxw3o0r7xUXWMOBEkE04R7s3aAnUbeoL3emIwCg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDEx/NzMtMTQ5OTYxNzUz/My00NTc0LmpwZWc.jpeg" alt="Cover for Sentient Genus" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cec07c1eaf0044849dfc1fd3f63c31bf.png" alt="Cover for Sentient Genus" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-11-30</td>
       <td>Australis</td>
@@ -1582,9 +1588,9 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 68</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 69</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 75</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 26</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 31</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 33</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 90</li>
         </ul>
       </td>
@@ -1607,9 +1613,9 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 54</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 43</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 47</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 57</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 58</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 79</li>
         </ul>
       </td>
@@ -1635,7 +1641,7 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 34</li>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1659,12 +1665,12 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 5</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 18</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 24</li>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 51</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 37</li>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 50</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 63</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 64</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 77</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 83</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 96</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 99</li>
         </ul>
       </td>
@@ -1688,8 +1694,8 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 12</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 18</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 83</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1708,7 +1714,7 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 19</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1760,14 +1766,14 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 23</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 25</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 28</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 38</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 41</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 45</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 47</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 49</li>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 53</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 56</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 60</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 63</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 73</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 74</li>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 78</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 86</li>
             <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 87</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 90</li>
@@ -1793,9 +1799,9 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 48</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 46</li>
             <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 50</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 55</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 53</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 60</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 78</li>
         </ul>
@@ -1848,7 +1854,7 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
         <ul>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 40</li>
             <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 48</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 50</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1872,8 +1878,8 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 20</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 34</li>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1900,11 +1906,11 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 24</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 39</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 42</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 46</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 50</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 55</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 59</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 62</li>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 77</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 85</li>
         </ul>
       </td>
@@ -1950,15 +1956,16 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 1</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 15</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 21</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 80</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 86</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f861583bd197436da403d23a7cb8ee23.png" alt="Cover for Journey" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-05-01</td>
       <td>Mythos</td>
@@ -1979,11 +1986,11 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 25</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 36</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 40</li>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 59</li>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 42</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 61</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 65</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 73</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 76</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 81</li>
         </ul>
       </td>
@@ -1991,6 +1998,7 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e4b7315ee4bdf2acf22aa75bc737a87.png" alt="Cover for Opus" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-08-30</td>
       <td>Schiller</td>
@@ -2009,11 +2017,11 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 3</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 7</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 8</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 10</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 12</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 91</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 93</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 94</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -2036,7 +2044,7 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 4</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -2059,10 +2067,10 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 28</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 33</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 35</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 38</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 66</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 68</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -2085,9 +2093,9 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 13</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 19</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 61</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 82</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -2118,15 +2126,15 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 12</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 31</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 40</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 44</li>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 62</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 75</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 26</li>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 39</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 57</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 61</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 70</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 77</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 77</li>
             <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 81</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 89</li>
             <li> <a href="{{ "/tags/zen" | relative_url }}">zen</a> # 90</li>
         </ul>
       </td>
@@ -2147,7 +2155,7 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 4</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 97</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 100</li>
         </ul>
       </td>
@@ -2174,9 +2182,9 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 35</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 44</li>
             <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 53</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 57</li>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -2201,8 +2209,8 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 29</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 42</li>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -2225,9 +2233,9 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 54</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 58</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 61</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 40</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 43</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 47</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 84</li>
         </ul>
       </td>
@@ -2259,6 +2267,7 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
     <tr>
       <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e3d72d22255342e99be5c7c0161cf7a4.png" alt="Cover for Into the Sky" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Kellplanet</td>
@@ -2282,10 +2291,10 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 4</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 9</li>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 43</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 57</li>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 58</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 92</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -2306,8 +2315,8 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 5</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 10</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 91</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -2329,9 +2338,9 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 9</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 13</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 59</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 88</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -2352,9 +2361,9 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 63</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 64</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 69</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 32</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 37</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -2377,9 +2386,9 @@ New age instrumental blends ambient textures, gentle melodies, and world music i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 76</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 77</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 90</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 11</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 24</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 25</li>
             <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 93</li>
         </ul>
       </td>

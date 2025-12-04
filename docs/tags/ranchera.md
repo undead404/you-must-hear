@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T03:48:07.027Z
+date: 2025-12-04T07:34:31.270Z
 permalink: tags/ranchera
 title: ranchera
 ---
 
 ## ranchera
 
-Last updated: <time datetime="2025-11-11T03:48:07.027Z">Tue Nov 11 2025 05:48:07 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:34:31.270Z">Thu Dec 04 2025 09:34:31 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -525,7 +525,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       <td>
         <ul>
             <li> <a href="{{ "/tags/mariachi" | relative_url }}">mariachi</a> # 17</li>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 31</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -559,13 +559,13 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 38</li>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 65</li>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 74</li>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 88</li>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 88</li>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 9</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 12</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 13</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 35</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 61</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 76</li>
             <li> <a href="{{ "/tags/mariachi" | relative_url }}">mariachi</a> # 89</li>
-            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -693,8 +693,8 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 33</li>
             <li> <a href="{{ "/tags/mariachi" | relative_url }}">mariachi</a> # 41</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -752,7 +752,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romantica" | relative_url }}">romantica</a> # 82</li>
+            <li> <a href="{{ "/tags/romantica" | relative_url }}">romantica</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1022,7 +1022,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 6</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1079,8 +1079,8 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 59</li>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 100</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 1</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1178,7 +1178,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/OSCrDG5ffifd5tEVTbIu1RKuKCUg1SIGvpE8br5Zo9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzc0/OC0xNjg0MjExNTg4/LTE2MDAuanBlZw.jpeg" alt="Cover for De Qué Sirve" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f927bf0e31b3f15ad57f090758a6f26.png" alt="Cover for De Qué Sirve" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-06-18</td>
       <td>Paulina Rubio</td>
@@ -1250,7 +1250,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 30</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1463,7 +1463,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 26</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1519,7 +1519,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 72</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1594,7 +1594,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 16</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1672,8 +1672,8 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 3</li>
-            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 87</li>
+            <li> <a href="{{ "/tags/arena-rock" | relative_url }}">arena rock</a> # 23</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1698,7 +1698,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/CvYKJucva5dMdHbXMO-qzJNp2t8ni1b1eskXkQizaEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTgw/MjUtMTMxOTMwODk0/Ny5qcGVn.jpeg" alt="Cover for Otra Cosa" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2eff4b06952f3ea692c7153a3c2d2249.png" alt="Cover for Otra Cosa" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-03-16</td>
       <td>Julieta Venegas</td>
@@ -1714,9 +1714,9 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 37</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 52</li>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 98</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 3</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 41</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1742,7 +1742,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 36</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1855,7 +1855,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 93</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1937,7 +1937,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/7wP3evlNywgU3ABZy9eaEE7ksdjZsm6BGrGUDNCw8UI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mzgx/NTctMTQ4OTAyNzEw/Mi01MjU1LmpwZWc.jpeg" alt="Cover for Yo Soy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/58fe386dd1d886fa8eed4d1561221d02.png" alt="Cover for Yo Soy" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-10-17</td>
       <td>Paulina Rubio</td>
@@ -1956,7 +1956,7 @@ Ranchera is a traditional Mexican music style characterized by passionate, theat
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/DrOtIMP2QOok_EyAuT7dcZRhYM0lTMFPTXutDfZktx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODY1/OTIyLTE2MzYxNDAy/MzItMTk1OS5qcGVn.jpeg" alt="Cover for Ve Como Ando" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e32591f9a0eb3b1a6ae7c17b0e228d51.png" alt="Cover for Ve Como Ando" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-11-05</td>
       <td>Edwin Luna y La Trakalosa de Monterrey</td>

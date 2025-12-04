@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T15:02:38.080Z
+date: 2025-12-04T08:52:10.740Z
 permalink: tags/dungeon-synth
 title: dungeon synth
 ---
 
 ## dungeon synth
 
-Last updated: <time datetime="2025-11-23T15:02:38.080Z">Sun Nov 23 2025 17:02:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T08:52:10.740Z">Thu Dec 04 2025 10:52:10 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -134,7 +134,7 @@ Dungeon synth is an atmospheric electronic music genre characterized by lo-fi sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 73</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 27</li>
             <li> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a> # 80</li>
         </ul>
       </td>
@@ -212,7 +212,7 @@ Dungeon synth is an atmospheric electronic music genre characterized by lo-fi sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 26</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -304,7 +304,7 @@ Dungeon synth is an atmospheric electronic music genre characterized by lo-fi sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 55</li>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -439,7 +439,7 @@ Dungeon synth is an atmospheric electronic music genre characterized by lo-fi sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/epic-black-metal" | relative_url }}">epic black metal</a> # 22</li>
+            <li> <a href="{{ "/tags/epic-black-metal" | relative_url }}">epic black metal</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -513,7 +513,7 @@ Dungeon synth is an atmospheric electronic music genre characterized by lo-fi sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 22</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -577,8 +577,8 @@ Dungeon synth is an atmospheric electronic music genre characterized by lo-fi sy
       <td>
         <ul>
             <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 53</li>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 57</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 60</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 58</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -768,7 +768,7 @@ Dungeon synth is an atmospheric electronic music genre characterized by lo-fi sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 58</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 43</li>
             <li> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a> # 86</li>
         </ul>
       </td>
@@ -1076,7 +1076,7 @@ Dungeon synth is an atmospheric electronic music genre characterized by lo-fi sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 26</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1405,7 +1405,7 @@ Dungeon synth is an atmospheric electronic music genre characterized by lo-fi sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 54</li>
+            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1675,7 +1675,7 @@ Dungeon synth is an atmospheric electronic music genre characterized by lo-fi sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 73</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1888,8 +1888,8 @@ Dungeon synth is an atmospheric electronic music genre characterized by lo-fi sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 18</li>
             <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 83</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1926,9 +1926,9 @@ Dungeon synth is an atmospheric electronic music genre characterized by lo-fi sy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 28</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 50</li>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 70</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 30</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 49</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 73</li>
         </ul>
       </td>
     </tr>

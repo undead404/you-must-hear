@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T03:42:12.797Z
+date: 2025-12-04T07:15:00.770Z
 permalink: tags/spacesynth
 title: spacesynth
 ---
 
 ## spacesynth
 
-Last updated: <time datetime="2025-11-11T03:42:12.797Z">Tue Nov 11 2025 05:42:12 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:15:00.770Z">Thu Dec 04 2025 09:15:00 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -93,7 +93,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 15</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -222,7 +222,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 78</li>
+            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -314,7 +314,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 79</li>
+            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -583,7 +583,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 14</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -910,9 +910,8 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 44</li>
-            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 52</li>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 73</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 1</li>
+            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -963,10 +962,10 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 14</li>
-            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 34</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 20</li>
+            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 33</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 35</li>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 57</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1012,8 +1011,8 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 42</li>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 79</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 23</li>
+            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1086,7 +1085,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 56</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1194,7 +1193,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 84</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1309,6 +1308,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
     <tr>
       <td>47</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5b15f91c6b94582c5da6100a924d881.png" alt="Cover for Gaia Omen" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-05-29</td>
       <td>Troxum</td>
@@ -1376,7 +1376,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/vFKgcCwk4wlcx5VPTVUUIycr8ZEs66gjgX74Y2jn2Bs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDkz/NjAtMTQzNDgyNTUz/NC04MzIyLmpwZWc.jpeg" alt="Cover for Pathfinder" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8bbcc0aa6b6eec2c7d1d1696749ef754.png" alt="Cover for Pathfinder" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-05-05</td>
       <td>Untitled Project Of Maks_SF</td>
@@ -1575,7 +1575,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 73</li>
+            <li> <a href="{{ "/tags/retrowave" | relative_url }}">retrowave</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1851,8 +1851,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 1</li>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 17</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1889,8 +1888,8 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 3</li>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 21</li>
+            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 2</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1925,8 +1924,8 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 4</li>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 22</li>
+            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 3</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1955,7 +1954,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 23</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1991,8 +1990,8 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 6</li>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 24</li>
+            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 5</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -2023,7 +2022,7 @@ Spacesynth is a synthesizer-driven electronic style evoking cosmic exploration a
       <td>
         <ul>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 15</li>
-            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 42</li>
+            <li> <a href="{{ "/tags/science-fiction" | relative_url }}">science fiction</a> # 60</li>
         </ul>
       </td>
     </tr>

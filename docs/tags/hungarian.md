@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T15:33:48.021Z
+date: 2025-12-04T07:13:22.508Z
 permalink: tags/hungarian
 title: hungarian
 ---
 
 ## hungarian
 
-Last updated: <time datetime="2025-10-28T15:33:48.021Z">Tue Oct 28 2025 17:33:48 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:13:22.508Z">Thu Dec 04 2025 09:13:22 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -52,6 +52,7 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
     <tr>
       <td>87</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ae09ae547ed7983ac49eb7aa86ab3cb.png" alt="Cover for Metro" style="max-width:120px; height:auto;" />
       </td>
       <td>1969</td>
       <td>Metro</td>
@@ -65,8 +66,8 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 65</li>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 80</li>
+            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 37</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -84,6 +85,7 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/magyar" | relative_url }}">magyar</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -205,7 +207,7 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 35</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -273,7 +275,7 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/243Fa4dz5MQ6Y7lkS6c_53bJ41DkQln7kkc9CiUMKYs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA0/ODktMTU0ODQ3MDg3/Mi05MDAzLnBuZw.jpeg" alt="Cover for Idő Van" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/39fed5e363878a43b4e1cb4fe456ff29.png" alt="Cover for Idő Van" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>FISH!</td>
@@ -309,7 +311,7 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 85</li>
+            <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -368,13 +370,14 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 65</li>
+            <li> <a href="{{ "/tags/acid-rock" | relative_url }}">acid rock</a> # 68</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>48</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bce6666b77d68303f5f655c908927f9f.png" alt="Cover for Nectar" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Kitka</td>
@@ -395,9 +398,9 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 22</li>
-            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 52</li>
-            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 60</li>
+            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 40</li>
+            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 48</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 77</li>
             <li> <a href="{{ "/tags/hungary" | relative_url }}">hungary</a> # 83</li>
             <li> <a href="{{ "/tags/macedonian" | relative_url }}">macedonian</a> # 89</li>
         </ul>
@@ -406,6 +409,7 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
     <tr>
       <td>22</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc3bc336752c42a5ae7de00e03040d38.png" alt="Cover for Egynek jó" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Jazz+Az</td>
@@ -594,6 +598,7 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
     <tr>
       <td>99</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f10045d259674d0691897e19a9f6b5a3.png" alt="Cover for Local Broadcast" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-09-25</td>
       <td>Žagar</td>
@@ -633,6 +638,7 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
     <tr>
       <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/381fb4e015e8453488d5f09c44cddbe3.png" alt="Cover for Lo-Tech Man, Hi-Tech World" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-12-09</td>
       <td>Neo</td>
@@ -668,7 +674,7 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
     <tr>
       <td>2</td>
       <td>
-          <img src="https://i.discogs.com/yv0RYIUIeztKDjVuRz6h_3iB_TWyy__6vkn5a3mCEd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Njgw/Ny0xMjExMzcyOTI3/LmpwZWc.jpeg" alt="Cover for Déjà Vu" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2c9c5d05f6e343119b3216d927d7c404.png" alt="Cover for Déjà Vu" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Gero</td>
@@ -731,7 +737,7 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/FPdfxIT-rzgmOjUrDITpz_gg8mUqeXMGHnAhlb061sY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMzk3/NjEtMTU2Mjk2NDUy/Mi00MDI5LmpwZWc.jpeg" alt="Cover for Élni Vagy Égni (Remastered)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/878ce2b3cb3e4090c0ad0f5a66d262fa.png" alt="Cover for Élni Vagy Égni (Remastered)" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-09-29</td>
       <td>Tankcsapda</td>
@@ -947,7 +953,7 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
       <td>
         <ul>
             <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 38</li>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 47</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 53</li>
             <li> <a href="{{ "/tags/hungary" | relative_url }}">hungary</a> # 67</li>
         </ul>
       </td>
@@ -1009,7 +1015,7 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/Rg52URPDjdWt6ndhQI7qAvaHGjeKt9fW9AdLS6S6GSY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MjI5/MTktMTQyNTMzNjQw/Ni01ODExLmpwZWc.jpeg" alt="Cover for Shorter Than Danny DeVito" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bec3d917d6f91a90726574969617270e.png" alt="Cover for Shorter Than Danny DeVito" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-08-01</td>
       <td>Bankrupt</td>
@@ -1023,8 +1029,8 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 14</li>
-            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 40</li>
+            <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 11</li>
+            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 60</li>
             <li> <a href="{{ "/tags/magyar" | relative_url }}">magyar</a> # 80</li>
         </ul>
       </td>
@@ -1087,6 +1093,7 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
     <tr>
       <td>92</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e4d2d07eee384676c6e079c62c972c06.png" alt="Cover for Regő Rejtem" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-04-02</td>
       <td>The Moon and the Nightspirit</td>
@@ -1123,7 +1130,7 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/LCtBKo7d2nViVlK962pwta_a8ZyfbUl4xYsT0BRS2XY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTI5/MDgtMTMzNjU5MjI1/Ny00MDk3LmpwZWc.jpeg" alt="Cover for Szalai Éva" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/651295f467444c0e8767f6de4934b46b.png" alt="Cover for Szalai Éva" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Kaukázus</td>
@@ -1145,7 +1152,7 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/3PPLyEnaOuuoVyHn0FWf_pTQie63sKUCjLc8FwXK2FI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDcx/MDMtMTM1MTM0MDgx/MS0yMzE1LmpwZWc.jpeg" alt="Cover for Rocket to Riot City" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b57b790c3ccf8685da62427229033546.png" alt="Cover for Rocket to Riot City" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-05-01</td>
       <td>Bankrupt</td>
@@ -1159,7 +1166,7 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 35</li>
+            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1282,7 +1289,7 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
     <tr>
       <td>21</td>
       <td>
-          <img src="https://i.discogs.com/FY3G_G91bGd5oo1PvaQXTLIf7mnqDOnURIL20MY8MwI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTE2/MzAtMTM3MzQ1NzUz/NS05MjQ3LmpwZWc.jpeg" alt="Cover for Stereoid" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f2e29c2f97f5b5805b4a8f997bcecdbb.png" alt="Cover for Stereoid" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-12-03</td>
       <td>Compact Disco</td>
@@ -1404,7 +1411,7 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/3lF0BQRG8Ztf8L2WZI3E0ztnt7LNALX3x4ub8F00938/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njkx/ODEwLTE2MjA4MDYx/MDgtNjAyNC5qcGVn.jpeg" alt="Cover for Tudományos Fantasztikus Pop" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c079f6a3f934064c0f35b9c93a886f3.png" alt="Cover for Tudományos Fantasztikus Pop" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-04-16</td>
       <td>Supernem</td>
@@ -1478,7 +1485,7 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/3HkJOiMVm3Dyi03Rf2SAueRv8qjxXJFqG2keNB1i3Qw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NjM0/MDYtMTM1MDY5NDUz/OS0zNTUyLmpwZWc.jpeg" alt="Cover for The universal wrath" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/64a4f0fdb81649d02ab7864112d2c865.png" alt="Cover for The universal wrath" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-02</td>
       <td>Nefarious</td>
@@ -1519,6 +1526,7 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/990c3dca93f4407681093c7ad94d4702.png" alt="Cover for Napisten Hava" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-09-28</td>
       <td>Dalriada</td>
@@ -1533,14 +1541,14 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 1</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>12</td>
       <td>
-          <img src="https://i.discogs.com/p6LiJHt9vo0YM9_0lfnYz2uio9WMQs0YEnA47f7b040/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODUw/MzMxLTE1NjI1Mjk3/MTUtOTUwOS5qcGVn.jpeg" alt="Cover for Érintés" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/92fe106d883c47d8969b2ffd911ba92d.png" alt="Cover for Érintés" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-01</td>
       <td>Hősök</td>
@@ -1560,6 +1568,7 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a5478ce73704c388de07d7cb6a48ef0.png" alt="Cover for Full Range" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-05</td>
       <td>Brains</td>
@@ -1597,7 +1606,7 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/u06krq-rsdF18C3a91H72OqGvGPLtJ0AGjBdXKCATEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNjIy/NzYtMTQxNTA1MjY5/Ny01ODc1LmpwZWc.jpeg" alt="Cover for Öngyötrő" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a1bd72e592a4aa0caac33c9556884dd.png" alt="Cover for Öngyötrő" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-10-17</td>
       <td>Leander Rising</td>
@@ -1637,7 +1646,7 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
     <tr>
       <td>13</td>
       <td>
-          <img src="https://i.discogs.com/zUP9m7VratG7I8asjEPYbc1X86GWDysolJer2CQb_As/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjMy/MTQtMTQzMjg0MTIw/Ny04NTEzLmpwZWc.jpeg" alt="Cover for O" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/78814fa31981d4483629d3d542e5bee8.png" alt="Cover for O" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-05-28</td>
       <td>Öröm</td>
@@ -1656,7 +1665,7 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/4-CUZB3reKtZsZWPxrWzWesJnFRDpbBwZdUA6GmHG3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NzU2/MTktMTQ3NzE0NzAy/Ny02NTc4LmpwZWc.jpeg" alt="Cover for Disco!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b669813e049d3fc1a8517ec06459b8c3.png" alt="Cover for Disco!" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-11-23</td>
       <td>Bëlga</td>
@@ -1677,7 +1686,7 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/haKinF2l1BeW4L7ZZzYP-N94TvjWszBYceAqiN43S54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDI1/NzUzLTE0OTcxODQy/NTYtMzUyNy5qcGVn.jpeg" alt="Cover for Enorellove" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d48fd5e890c8a1c8ae3475268d602a91.png" alt="Cover for Enorellove" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-01</td>
       <td>Kisé</td>
@@ -1759,7 +1768,7 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/0DREJB4siNMOa-udlGM2KF9P0Nsg3WZplSxwl9wLQWU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODM1/NTU3LTE1NDI4ODU2/NDYtNjczMi5qcGVn.jpeg" alt="Cover for The Death of Mörk" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea0d552660e040ff775fd4d12b2fc88d.png" alt="Cover for The Death of Mörk" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-31</td>
       <td>Mörk</td>
@@ -1802,7 +1811,7 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/Lr4pQfeoyY7uWVkzuU6W8RhOfeDcBrhiqe79CezBoWk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNDk0/MzMtMTM4NTgzOTgz/NC01MjkxLmpwZWc.jpeg" alt="Cover for Kapu2fa7" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/762fd11f5940c73802e9e598972d5906.png" alt="Cover for Kapu2fa7" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-06-27</td>
       <td>Figura</td>
@@ -1822,7 +1831,7 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
     <tr>
       <td>10</td>
       <td>
-          <img src="https://i.discogs.com/7OOPM6RlL89ZPdXXpfXJivjPJVd94l5X6_xNtLF0ZhY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODQ0/NDY5LTE2MzU5OTUy/NzUtMTIyNi5qcGVn.jpeg" alt="Cover for Hitori" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/71359e2d2521f50597d2743becf3bc71.png" alt="Cover for Hitori" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-07-01</td>
       <td>Hitori</td>
@@ -1844,7 +1853,7 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/II4rwr0d8P3Oi6KjWKg8HyPhMcWfl6Xi3ueLG0vx6O4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjMw/MDYwLTE1NTAzNTg2/ODUtMjY5OC5qcGVn.jpeg" alt="Cover for Our Island - Our Empire" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1066fe07bbc8427a90d0f509337483b4.png" alt="Cover for Our Island - Our Empire" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-01</td>
       <td>Insane</td>
@@ -1884,7 +1893,7 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/4GC_FiAca9gevZ9xeRAOmbjjCWv5_25GTW76L_UMuaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDMx/NTAtMTMxMTI0NjQz/MS5qcGVn.jpeg" alt="Cover for Prog Is Not a Four Letter Word" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3cbf34d57206c640c2833b869345d36f.png" alt="Cover for Prog Is Not a Four Letter Word" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Various Artists</td>
@@ -1905,7 +1914,7 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/CX38vPpExD4068iO_Mh2anev5NdQkymqa-gnfp08lQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzI5/MDU3LTE2OTg1MDcx/MzQtMzQ2MC5qcGVn.jpeg" alt="Cover for Viszlát Iván" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/47d2f66ff703543f87fee0761580a3fd.png" alt="Cover for Viszlát Iván" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-10-20</td>
       <td>Aurora</td>
@@ -1939,7 +1948,7 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 27</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1972,8 +1981,8 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 20</li>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 65</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 36</li>
+            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 82</li>
             <li> <a href="{{ "/tags/polski" | relative_url }}">polski</a> # 90</li>
         </ul>
       </td>
@@ -1981,6 +1990,7 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/73e335911a58fb560ea016ea8b047a4b.png" alt="Cover for Babaház" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>AKC Kretta</td>
@@ -2003,6 +2013,7 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a93e4196d2d04cb1776691a9f1b5d651.png" alt="Cover for Golyóálló" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Nasiimov</td>
@@ -2025,6 +2036,7 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
     <tr>
       <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6e227f33f14f16b15f08c146d47c5b4.png" alt="Cover for Dés &amp; Geszti: A Pál Utcai Fiúk (Musical)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Vígszínház Original Cast</td>
@@ -2051,8 +2063,8 @@ Hungarian music encompasses diverse styles rooted in Hungary&#39;s rich folk tra
 - [rock]({{ "/tags/rock" | relative_url }})
 - [hungary]({{ "/tags/hungary" | relative_url }})
 - [electronic]({{ "/tags/electronic" | relative_url }})
-- [folk]({{ "/tags/folk" | relative_url }})
 - [metal]({{ "/tags/metal" | relative_url }})
+- [folk]({{ "/tags/folk" | relative_url }})
 - [alternative]({{ "/tags/alternative" | relative_url }})
 - [hip-hop]({{ "/tags/hip-hop" | relative_url }})
 - [trap]({{ "/tags/trap" | relative_url }})

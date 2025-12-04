@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-16T00:43:21.958Z
+date: 2025-12-04T07:18:42.024Z
 permalink: tags/ethnic-fusion
 title: ethnic fusion
 ---
 
 ## ethnic fusion
 
-Last updated: <time datetime="2025-11-16T00:43:21.958Z">Sun Nov 16 2025 02:43:21 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:18:42.024Z">Thu Dec 04 2025 09:18:42 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,7 +47,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 30</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -103,8 +103,8 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 52</li>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 67</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 34</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 47</li>
             <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 88</li>
         </ul>
       </td>
@@ -168,7 +168,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       <td>
         <ul>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 36</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 42</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -297,14 +297,12 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 60 / 100)"> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 3</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 9</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 39</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -364,13 +362,14 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 21</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/59b52a9e375d196284ea8ed48ad98b02.png" alt="Cover for Cosmic Jugalbandi" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Suns Of Arqa</td>
@@ -384,7 +383,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 43</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -421,7 +420,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 47</li>
+            <li> <a href="{{ "/tags/vocal-trance" | relative_url }}">vocal trance</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -511,6 +510,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91fd01b3e508428a1251f4d582d46d86.png" alt="Cover for Ten Thousand Buddhas" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-11-19</td>
       <td>Music from the World of Osho</td>
@@ -527,10 +527,10 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 100</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 100</li>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 100</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 100</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 1</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 1</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 1</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -550,8 +550,8 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 3</li>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 40</li>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 61</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -570,8 +570,8 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 41</li>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 54</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 46</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -595,10 +595,10 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 20</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 30</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 35</li>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 54</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 47</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 66</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 71</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 81</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 88</li>
         </ul>
       </td>
@@ -643,7 +643,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 9</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -710,13 +710,13 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 18</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 41</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 17</li>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 19</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 36</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 43</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 45</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 58</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 65</li>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 82</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 84</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 59</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -764,10 +764,10 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 22</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 31</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 36</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 65</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 70</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 71</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 79</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 86</li>
         </ul>
       </td>
@@ -794,11 +794,11 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 8</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 21</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 27</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 34</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 65</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 67</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 74</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 80</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 93</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 96</li>
         </ul>
       </td>
@@ -825,14 +825,14 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 9</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 12</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 15</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 17</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 20</li>
-            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 29</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 69</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 78</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 84</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 86</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 89</li>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 92</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 23</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 32</li>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -891,9 +891,9 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 22</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 27</li>
             <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 43</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -917,10 +917,10 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 6</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 19</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 25</li>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 48</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 53</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 76</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 82</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -946,9 +946,9 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 2</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 21</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 25</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 76</li>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -977,11 +977,11 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 30</li>
             <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 33</li>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 36</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 43</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 48</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 58</li>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 65</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1008,14 +1008,14 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 9</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 9</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 14</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 17</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 22</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 23</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 24</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 59</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 78</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 79</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 84</li>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 87</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 92</li>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 92</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1039,7 +1039,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 68</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1063,10 +1063,10 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 2</li>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 34</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 41</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 56</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 60</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 67</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1091,11 +1091,11 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 9</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 22</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 28</li>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 50</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 51</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 73</li>
             <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 74</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 79</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 92</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 95</li>
         </ul>
       </td>
@@ -1128,7 +1128,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
     <tr>
       <td>34</td>
       <td>
-          <img src="https://i.discogs.com/HdqorCJDV9dJ5SaDkky3LBE5lnhJlbvS1_UfYjl_CDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjcy/NjIxLTE2NjExMTAw/MTMtMTMwNi5qcGVn.jpeg" alt="Cover for Café del Mar Classic III" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0e1d55335c72095fba7bd52d1cb96640.png" alt="Cover for Café del Mar Classic III" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Café Del Mar</td>
@@ -1171,12 +1171,12 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 21</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 36</li>
             <li> <a href="{{ "/tags/persian" | relative_url }}">persian</a> # 72</li>
-            <li> <a href="{{ "/tags/iranian" | relative_url }}">iranian</a> # 80</li>
             <li> <a href="{{ "/tags/iran" | relative_url }}">iran</a> # 85</li>
-            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 89</li>
             <li> <a href="{{ "/tags/farsi" | relative_url }}">farsi</a> # 89</li>
+            <li> <a href="{{ "/tags/persian-rock" | relative_url }}">persian rock</a> # 89</li>
             <li> <a href="{{ "/tags/iranian-rock" | relative_url }}">iranian rock</a> # 91</li>
         </ul>
       </td>
@@ -1184,6 +1184,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
     <tr>
       <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/95880b72ba54466aa96069bcd8f9b134.png" alt="Cover for Amadas Estrellas" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-02-13</td>
       <td>Achillea</td>
@@ -1195,8 +1196,8 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 1</li>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 54</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 38</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1234,7 +1235,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 16</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1260,12 +1261,12 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 19</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 40</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 49</li>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 67</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 22</li>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 34</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 52</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 61</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 69</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 79</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1285,7 +1286,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 47</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1306,8 +1307,8 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 28</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 45</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 55</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1396,13 +1397,13 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 24</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 43</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 24</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 34</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 39</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 41</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 44</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 60</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 62</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 67</li>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 77</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 57</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1449,8 +1450,8 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 33</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 55</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 46</li>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1483,9 +1484,9 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 17</li>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 27</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 49</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 52</li>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 74</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1509,11 +1510,11 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 17</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 30</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 35</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 36</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 40</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 65</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 66</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 71</li>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 84</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 88</li>
         </ul>
       </td>
@@ -1546,9 +1547,9 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 32</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 45</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 54</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 47</li>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1575,13 +1576,13 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 22</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 46</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 47</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 52</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 21</li>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 33</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 49</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 53</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 55</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 64</li>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 68</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 80</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1606,8 +1607,8 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 22</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 44</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 57</li>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1713,15 +1714,15 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 23</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 25</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 27</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 28</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 38</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 41</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 45</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 47</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 49</li>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 53</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 56</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 60</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 63</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 73</li>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 74</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 74</li>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 78</li>
             <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 86</li>
             <li> <a href="{{ "/tags/west-coast-underground" | relative_url }}">west coast underground</a> # 90</li>
         </ul>
@@ -1747,7 +1748,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 15</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1772,9 +1773,9 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 20</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 40</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 50</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 51</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1796,7 +1797,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 19</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1900,15 +1901,15 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 12</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 31</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 40</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 44</li>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 60</li>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 62</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 75</li>
-            <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 77</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 26</li>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 39</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 41</li>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 57</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 61</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 70</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 77</li>
+            <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 77</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 89</li>
             <li> <a href="{{ "/tags/zen" | relative_url }}">zen</a> # 90</li>
         </ul>
       </td>
@@ -1936,7 +1937,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       <td>
         <ul>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 13</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 13</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1963,7 +1964,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/Fv218Yt6EM3jP-ClXJ3DDrgz2PEHfM5hEBwvevyYUyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDI2/NDEzLTE1NjYzMzk0/ODAtNzc3Mi5qcGVn.jpeg" alt="Cover for Pandora" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/12da596f4f0156896a339da078f5deb7.png" alt="Cover for Pandora" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01-29</td>
       <td>Hugo Vázquez</td>
@@ -2019,7 +2020,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 11</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -2045,9 +2046,9 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 29</li>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 35</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 57</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 44</li>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 66</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -2087,21 +2088,22 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 16</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 61</li>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 76</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 1</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 3</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 4</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 6</li>
+            <li> <a href="{{ "/tags/eurobeat" | relative_url }}">eurobeat</a> # 8</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 12</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 16</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 25</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 37</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 77</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 77</li>
             <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 78</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 85</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 85</li>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 88</li>
-            <li> <a href="{{ "/tags/eurobeat" | relative_url }}">eurobeat</a> # 93</li>
             <li> <a href="{{ "/tags/moscow" | relative_url }}">moscow</a> # 94</li>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 94</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 96</li>
             <li> <a href="{{ "/tags/china" | relative_url }}">china</a> # 98</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 99</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2132,10 +2134,10 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 12</li>
             <li> <a href="{{ "/tags/fantasy-new-age" | relative_url }}">fantasy new age</a> # 30</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 33</li>
             <li> <a href="{{ "/tags/zen" | relative_url }}">zen</a> # 67</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 68</li>
+            <li> <a href="{{ "/tags/new-age-electronica" | relative_url }}">new age electronica</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -2181,7 +2183,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 21</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -2225,7 +2227,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 35</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -2276,16 +2278,17 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 8</li>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 20</li>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 26</li>
-            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 26</li>
+            <li> <a href="{{ "/tags/romanian" | relative_url }}">romanian</a> # 73</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 75</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 81</li>
+            <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7c4b100242af775f53d7684e0021b6af.png" alt="Cover for Laborioso Vinho" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Igapó de Almas</td>
@@ -2299,7 +2302,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/natal" | relative_url }}">natal</a> # 73</li>
+            <li> <a href="{{ "/tags/natal" | relative_url }}">natal</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -2322,10 +2325,10 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 76</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 77</li>
-            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 86</li>
-            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 90</li>
+            <li> <a href="{{ "/tags/new-age-fusion" | relative_url }}">new age fusion</a> # 11</li>
+            <li> <a href="{{ "/tags/new-age-instrumental" | relative_url }}">new age instrumental</a> # 15</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 24</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -2460,6 +2463,7 @@ Ethnic fusion blends traditional instruments, melodies, and rhythms from diverse
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0ca72a439c54845bb7a252a4d63c67f.png" alt="Cover for Mánkenni" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Mánkenni</td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T13:43:51.975Z
+date: 2025-12-04T07:13:08.807Z
 permalink: tags/death-industrial
 title: death industrial
 ---
 
 ## death industrial
 
-Last updated: <time datetime="2025-11-26T13:43:51.975Z">Wed Nov 26 2025 15:43:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:13:08.807Z">Thu Dec 04 2025 09:13:08 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -145,7 +145,7 @@ Death industrial is an extreme subgenre of industrial music characterized by har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 28</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -315,7 +315,7 @@ Death industrial is an extreme subgenre of industrial music characterized by har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 56</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -391,7 +391,7 @@ Death industrial is an extreme subgenre of industrial music characterized by har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 41</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -432,7 +432,7 @@ Death industrial is an extreme subgenre of industrial music characterized by har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 84</li>
+            <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -451,7 +451,7 @@ Death industrial is an extreme subgenre of industrial music characterized by har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 25</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -472,7 +472,7 @@ Death industrial is an extreme subgenre of industrial music characterized by har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 23</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 79</li>
             <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 88</li>
         </ul>
       </td>
@@ -710,7 +710,7 @@ Death industrial is an extreme subgenre of industrial music characterized by har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 79</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -750,7 +750,7 @@ Death industrial is an extreme subgenre of industrial music characterized by har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 57</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -773,8 +773,8 @@ Death industrial is an extreme subgenre of industrial music characterized by har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 11</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 81</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 92</li>
             <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 99</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 100</li>
         </ul>
@@ -795,7 +795,7 @@ Death industrial is an extreme subgenre of industrial music characterized by har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 28</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -818,7 +818,7 @@ Death industrial is an extreme subgenre of industrial music characterized by har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 7</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 10</li>
             <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 87</li>
         </ul>
       </td>
@@ -881,7 +881,7 @@ Death industrial is an extreme subgenre of industrial music characterized by har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 69</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 34</li>
             <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 95</li>
         </ul>
       </td>
@@ -1058,7 +1058,7 @@ Death industrial is an extreme subgenre of industrial music characterized by har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 89</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1077,7 +1077,7 @@ Death industrial is an extreme subgenre of industrial music characterized by har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 9</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1102,7 +1102,7 @@ Death industrial is an extreme subgenre of industrial music characterized by har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 13</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1131,9 +1131,9 @@ Death industrial is an extreme subgenre of industrial music characterized by har
       <td>
         <ul>
             <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 18</li>
-            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 33</li>
+            <li> <a href="{{ "/tags/progressive-breaks" | relative_url }}">progressive breaks</a> # 44</li>
             <li> <a href="{{ "/tags/indonesia" | relative_url }}">indonesia</a> # 46</li>
-            <li> <a href="{{ "/tags/progressive-breaks" | relative_url }}">progressive breaks</a> # 57</li>
+            <li> <a href="{{ "/tags/indonesian" | relative_url }}">indonesian</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1180,7 +1180,7 @@ Death industrial is an extreme subgenre of industrial music characterized by har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 29</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 72</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 77</li>
         </ul>
       </td>
@@ -1264,7 +1264,7 @@ Death industrial is an extreme subgenre of industrial music characterized by har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 82</li>
+            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1311,7 +1311,7 @@ Death industrial is an extreme subgenre of industrial music characterized by har
       <td>
         <ul>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 11</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 46</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 55</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 80</li>
         </ul>
       </td>
@@ -1332,7 +1332,7 @@ Death industrial is an extreme subgenre of industrial music characterized by har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 73</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1378,10 +1378,10 @@ Death industrial is an extreme subgenre of industrial music characterized by har
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 11</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 34</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 52</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 49</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 85</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1444,8 +1444,8 @@ Death industrial is an extreme subgenre of industrial music characterized by har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 51</li>
-            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 61</li>
+            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 40</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1468,7 +1468,7 @@ Death industrial is an extreme subgenre of industrial music characterized by har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 42</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1534,8 +1534,8 @@ Death industrial is an extreme subgenre of industrial music characterized by har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 30</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 76</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 27</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1554,7 +1554,7 @@ Death industrial is an extreme subgenre of industrial music characterized by har
       <td>
         <ul>
             <li> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a> # 14</li>
-            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 23</li>
+            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1576,7 +1576,7 @@ Death industrial is an extreme subgenre of industrial music characterized by har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 15</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 88</li>
             <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 91</li>
         </ul>
       </td>
@@ -1595,7 +1595,6 @@ Death industrial is an extreme subgenre of industrial music characterized by har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1616,9 +1615,9 @@ Death industrial is an extreme subgenre of industrial music characterized by har
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 1</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 4</li>
             <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 97</li>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 97</li>
-            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1663,11 +1662,11 @@ Death industrial is an extreme subgenre of industrial music characterized by har
       <td>
         <ul>
             <li> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a> # 3</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 33</li>
-            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 77</li>
+            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 8</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 17</li>
+            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 24</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 70</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 77</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 84</li>
-            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 92</li>
             <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 95</li>
         </ul>
       </td>
@@ -1694,13 +1693,13 @@ Death industrial is an extreme subgenre of industrial music characterized by har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 21</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 41</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 66</li>
+            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 3</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 30</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 60</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 68</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 80</li>
             <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 86</li>
             <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 96</li>
-            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1757,8 +1756,8 @@ Death industrial is an extreme subgenre of industrial music characterized by har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 81</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 88</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 13</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1781,7 +1780,7 @@ Death industrial is an extreme subgenre of industrial music characterized by har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 34</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 69</li>
             <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 75</li>
         </ul>
       </td>
@@ -1841,8 +1840,8 @@ Death industrial is an extreme subgenre of industrial music characterized by har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 4</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 48</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 7</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 55</li>
             <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 85</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 93</li>
             <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 99</li>
@@ -1869,9 +1868,9 @@ Death industrial is an extreme subgenre of industrial music characterized by har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 22</li>
+            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 11</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 71</li>
-            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 89</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1894,10 +1893,10 @@ Death industrial is an extreme subgenre of industrial music characterized by har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 36</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 32</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 37</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 44</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 54</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 71</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -2004,7 +2003,7 @@ Death industrial is an extreme subgenre of industrial music characterized by har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 99</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -2075,26 +2074,26 @@ Death industrial is an extreme subgenre of industrial music characterized by har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 9</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 11</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 9</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 11</li>
+            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 16</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 17</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 22</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 26</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 51</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 68</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 79</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 84</li>
-            <li> <a href="{{ "/tags/no-wave" | relative_url }}">no wave</a> # 85</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 88</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 88</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 89</li>
             <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 91</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 91</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 92</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 92</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>94</td>
       <td>
-          <img src="https://i.discogs.com/qd0YLz8HmGepEii_OayJCNYqaE-gvlsE2I9yFKeSVW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDk3/NjE4LTE3MTk4NjA4/MzItNjQ1OC5qcGVn.jpeg" alt="Cover for Impossible Light" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/192e205c8b2fb52404f49085eca11ecf.png" alt="Cover for Impossible Light" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-06-28</td>
       <td>Uboa</td>
@@ -2109,8 +2108,8 @@ Death industrial is an extreme subgenre of industrial music characterized by har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 4</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 73</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -2131,7 +2130,7 @@ Death industrial is an extreme subgenre of industrial music characterized by har
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 44</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 59</li>
         </ul>
       </td>
     </tr>

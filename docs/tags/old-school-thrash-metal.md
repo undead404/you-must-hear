@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-22T13:47:28.392Z
+date: 2025-12-04T07:17:28.277Z
 permalink: tags/old-school-thrash-metal
 title: old school thrash metal
 ---
 
 ## old school thrash metal
 
-Last updated: <time datetime="2025-11-22T13:47:28.392Z">Sat Nov 22 2025 15:47:28 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:17:28.277Z">Thu Dec 04 2025 09:17:28 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -62,8 +62,8 @@ Old school thrash metal is a subgenre of heavy metal music that emerged in the e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 60</li>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 81</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 18</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -102,8 +102,8 @@ Old school thrash metal is a subgenre of heavy metal music that emerged in the e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 29</li>
-            <li> <a href="{{ "/tags/blackened-thrash-metal" | relative_url }}">blackened thrash metal</a> # 80</li>
+            <li> <a href="{{ "/tags/blackened-thrash-metal" | relative_url }}">blackened thrash metal</a> # 17</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -122,7 +122,7 @@ Old school thrash metal is a subgenre of heavy metal music that emerged in the e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-thrash-metal" | relative_url }}">german thrash metal</a> # 39</li>
+            <li> <a href="{{ "/tags/german-thrash-metal" | relative_url }}">german thrash metal</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -141,7 +141,7 @@ Old school thrash metal is a subgenre of heavy metal music that emerged in the e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 39</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -160,7 +160,7 @@ Old school thrash metal is a subgenre of heavy metal music that emerged in the e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-thrash-metal" | relative_url }}">german thrash metal</a> # 21</li>
+            <li> <a href="{{ "/tags/german-thrash-metal" | relative_url }}">german thrash metal</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -198,7 +198,7 @@ Old school thrash metal is a subgenre of heavy metal music that emerged in the e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 83</li>
+            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -440,7 +440,7 @@ Old school thrash metal is a subgenre of heavy metal music that emerged in the e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-thrash-metal" | relative_url }}">german thrash metal</a> # 33</li>
+            <li> <a href="{{ "/tags/german-thrash-metal" | relative_url }}">german thrash metal</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -742,8 +742,7 @@ Old school thrash metal is a subgenre of heavy metal music that emerged in the e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 33</li>
-            <li> <a href="{{ "/tags/german-thrash-metal" | relative_url }}">german thrash metal</a> # 76</li>
+            <li> <a href="{{ "/tags/german-thrash-metal" | relative_url }}">german thrash metal</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -798,7 +797,7 @@ Old school thrash metal is a subgenre of heavy metal music that emerged in the e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 10</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -837,7 +836,7 @@ Old school thrash metal is a subgenre of heavy metal music that emerged in the e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 60</li>
+            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1041,7 +1040,7 @@ Old school thrash metal is a subgenre of heavy metal music that emerged in the e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-thrash-metal" | relative_url }}">german thrash metal</a> # 47</li>
+            <li> <a href="{{ "/tags/german-thrash-metal" | relative_url }}">german thrash metal</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1120,8 +1119,8 @@ Old school thrash metal is a subgenre of heavy metal music that emerged in the e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 6</li>
             <li> <a href="{{ "/tags/polish-metal" | relative_url }}">polish metal</a> # 66</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1324,8 +1323,8 @@ Old school thrash metal is a subgenre of heavy metal music that emerged in the e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-thrash-metal" | relative_url }}">german thrash metal</a> # 46</li>
-            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 50</li>
+            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 51</li>
+            <li> <a href="{{ "/tags/german-thrash-metal" | relative_url }}">german thrash metal</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1402,7 +1401,7 @@ Old school thrash metal is a subgenre of heavy metal music that emerged in the e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-thrash-metal" | relative_url }}">german thrash metal</a> # 83</li>
+            <li> <a href="{{ "/tags/german-thrash-metal" | relative_url }}">german thrash metal</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1505,8 +1504,8 @@ Old school thrash metal is a subgenre of heavy metal music that emerged in the e
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 31</li>
             <li> <a href="{{ "/tags/greece" | relative_url }}">greece</a> # 32</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1524,6 +1523,7 @@ Old school thrash metal is a subgenre of heavy metal music that emerged in the e
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/innovative" | relative_url }}">innovative</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/old-school-thrash-metal" | relative_url }}">old school thrash metal</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a></li>
@@ -1537,11 +1537,12 @@ Old school thrash metal is a subgenre of heavy metal music that emerged in the e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 68</li>
+            <li> <a href="{{ "/tags/innovative" | relative_url }}">innovative</a> # 8</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 25</li>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 29</li>
+            <li> <a href="{{ "/tags/technical-thrash-metal" | relative_url }}">technical thrash metal</a> # 34</li>
             <li> <a href="{{ "/tags/spanish-metal" | relative_url }}">spanish metal</a> # 69</li>
-            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 71</li>
-            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 72</li>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 72</li>
+            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1560,6 +1561,7 @@ Old school thrash metal is a subgenre of heavy metal music that emerged in the e
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1773,7 +1775,7 @@ Old school thrash metal is a subgenre of heavy metal music that emerged in the e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-thrash-metal" | relative_url }}">german thrash metal</a> # 22</li>
+            <li> <a href="{{ "/tags/german-thrash-metal" | relative_url }}">german thrash metal</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1794,7 +1796,7 @@ Old school thrash metal is a subgenre of heavy metal music that emerged in the e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 92</li>
+            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1872,6 +1874,7 @@ Old school thrash metal is a subgenre of heavy metal music that emerged in the e
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/new-jersey" | relative_url }}">new jersey</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1983,8 +1986,8 @@ Old school thrash metal is a subgenre of heavy metal music that emerged in the e
 - [speed metal]({{ "/tags/speed-metal" | relative_url }})
 - [death metal]({{ "/tags/death-metal" | relative_url }})
 - [heavy metal]({{ "/tags/heavy-metal" | relative_url }})
+- [polish]({{ "/tags/polish" | relative_url }})
+- [german metal]({{ "/tags/german-metal" | relative_url }})
 - [technical thrash metal]({{ "/tags/technical-thrash-metal" | relative_url }})
 - [extreme metal]({{ "/tags/extreme-metal" | relative_url }})
-- [german metal]({{ "/tags/german-metal" | relative_url }})
-- [polish]({{ "/tags/polish" | relative_url }})
 - [progressive metal]({{ "/tags/progressive-metal" | relative_url }})

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T03:53:35.176Z
+date: 2025-12-04T07:16:29.762Z
 permalink: tags/male-and-female
 title: male and female
 ---
 
 ## male and female
 
-Last updated: <time datetime="2025-10-22T03:53:35.176Z">Wed Oct 22 2025 06:53:35 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T07:16:29.762Z">Thu Dec 04 2025 09:16:29 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -50,7 +50,7 @@ This tag identifies tracks featuring both male and female vocalists performing t
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/v5S7ouvQDEtTdAiR9Du8IpjY1vTwD75BRMdgej_m06Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Nzg0/MjAtMTM1OTkyOTI0/MS00MTkxLmpwZWc.jpeg" alt="Cover for Hear Me Calling (Maxi Single)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6b9ca6090f884a1aada88dc2c0e04bb9.png" alt="Cover for Hear Me Calling (Maxi Single)" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Ace of Base</td>
@@ -239,7 +239,6 @@ This tag identifies tracks featuring both male and female vocalists performing t
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/c_k0TCOn4cJxCViSqrkc5t0c1VxBsBfeARtViFUboVU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODIw/My0xNjIwMTU2NTUw/LTk1NzAuanBlZw.jpeg" alt="Cover for Must Be Love?" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Impact</td>
@@ -297,7 +296,7 @@ This tag identifies tracks featuring both male and female vocalists performing t
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/V5jguHvw4aCL1sA9THVWdzILipNIYUPz313wznOyAa0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NDg1/NC0xMTI5NzE0NzE3/LmpwZWc.jpeg" alt="Cover for Dance Now!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d98dc65a1ae74df09d56b18485a2bb62.png" alt="Cover for Dance Now!" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Ron Simpson</td>
@@ -507,7 +506,7 @@ This tag identifies tracks featuring both male and female vocalists performing t
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/uj9MqsOngsJcaP7tu51dNSP8lOh4PrJSl_54fQRJGHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTUy/Mi0xMTgwODYyNDcx/LmpwZWc.jpeg" alt="Cover for It Feels Like Summer" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd21d8cdf17347ab9b9c16bd38052fc3.png" alt="Cover for It Feels Like Summer" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Aquarius</td>
@@ -527,7 +526,7 @@ This tag identifies tracks featuring both male and female vocalists performing t
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/dspRE8WSZ911XJxWFJsq6w04aJMZfF3seZdTbnnCino/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTQw/OS0xMzAwNTI0MDY2/LmpwZWc.jpeg" alt="Cover for (Oh Oh Oh There Is) Nobody" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/643533ba00904b89b362e449e51b08fb.png" alt="Cover for (Oh Oh Oh There Is) Nobody" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Hysterie</td>
@@ -605,7 +604,7 @@ This tag identifies tracks featuring both male and female vocalists performing t
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/5i9Br6JBHi5VQbl8k895rGX2_GBESGyxpieLXsdfgbs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTMw/OC0xNDM4NjkxNjky/LTE4MjEuanBlZw.jpeg" alt="Cover for I can only give you my Heart" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ec20112aab3a45afbf4ca959e75c303a.png" alt="Cover for I can only give you my Heart" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Major T.</td>
@@ -626,7 +625,7 @@ This tag identifies tracks featuring both male and female vocalists performing t
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/TPqjMQrlTkrsU_atoeaIRX4w1cTMoXSy70OSBzhmpgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDEx/Mi0xNjgzMjA3OTI2/LTEzODIuanBlZw.jpeg" alt="Cover for Gotta Dance With The Music" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab7bcc7d88964f5d96cc81c7ca9cc96e.png" alt="Cover for Gotta Dance With The Music" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Echo Bass</td>
@@ -684,7 +683,7 @@ This tag identifies tracks featuring both male and female vocalists performing t
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/BUT3LEP_rg4VxUtw-yX9omyVboMwcCyqa4HWT9XldCI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTEw/Ny0xNTg4MzA3NjI2/LTg3NDAuanBlZw.jpeg" alt="Cover for Make My Day" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/323dd42ee4b749859c208aaeb4333aa1.png" alt="Cover for Make My Day" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Nevada</td>
@@ -727,7 +726,7 @@ This tag identifies tracks featuring both male and female vocalists performing t
     <tr>
       <td>12</td>
       <td>
-          <img src="https://i.discogs.com/fPC0Lp3V4a5e2RWbr_XTIxa-DHV3k4yUbQYfum1OOXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3Mzgy/OS0xMTY4NDQxOTgz/LmpwZWc.jpeg" alt="Cover for Dancing (All Night Long)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cde41b78de524257b89999a61de8cd9a.png" alt="Cover for Dancing (All Night Long)" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-04-25</td>
       <td>P.O. Box</td>
@@ -766,7 +765,7 @@ This tag identifies tracks featuring both male and female vocalists performing t
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/-5f9Ue-eN0NNNAxmuuT5pb6xikj-217TsF-MMtLlKTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjcx/NS0xMjUzODEwMjI0/LmpwZWc.jpeg" alt="Cover for Starship Race" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/69a2eac15c0c44c384065c21715fcea9.png" alt="Cover for Starship Race" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-10-03</td>
       <td>Touch el Arab</td>
@@ -843,7 +842,7 @@ This tag identifies tracks featuring both male and female vocalists performing t
     <tr>
       <td>17</td>
       <td>
-          <img src="https://i.discogs.com/X0tIviYB4POExBIbQZ0GOqQdqLoNGyTix6r4B2-V70c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjY2/OTgtMTI0MDI1NDM2/Ni5qcGVn.jpeg" alt="Cover for It&#39;s Gonna B" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b64be098808e426683c3303c4a26ca51.png" alt="Cover for It&#39;s Gonna B" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Doctor Soul</td>
@@ -863,7 +862,7 @@ This tag identifies tracks featuring both male and female vocalists performing t
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/25cnAZUvn96ZC2Fm7WUcqyiNUYgAlg5Rras0-RX4pl4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjkx/MC0xNTk2MDk1MjEy/LTEwNzIuanBlZw.jpeg" alt="Cover for Gotta Dance With The Music (Remix)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d623a05409b4da680aa38804d8f181d.png" alt="Cover for Gotta Dance With The Music (Remix)" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Echo Bass</td>
@@ -1149,7 +1148,7 @@ This tag identifies tracks featuring both male and female vocalists performing t
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/l6VQnl1w8-RfN6CpU9pM2bplRVByyTsm-REh_blT2h8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDE3/Mi0xMjE1ODU2NTIz/LmpwZWc.jpeg" alt="Cover for Holiday In The Land Of Love" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b76235e342ea4245a7329ba39192f1e0.png" alt="Cover for Holiday In The Land Of Love" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>DJ Company</td>
@@ -1189,7 +1188,7 @@ This tag identifies tracks featuring both male and female vocalists performing t
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/GM87uxBt0oL2wQs0vQ7NLbbKYV9iRxCbXHGBQpGv0no/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MzU1/Ni0xNTc3MDM5NDA2/LTQyMDcuanBlZw.jpeg" alt="Cover for This Must Be a Dream" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c266caf574694f66ba9d7b72432f62a0.png" alt="Cover for This Must Be a Dream" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-07-13</td>
       <td>Basic Element</td>
@@ -1286,7 +1285,7 @@ This tag identifies tracks featuring both male and female vocalists performing t
     <tr>
       <td>42</td>
       <td>
-          <img src="https://i.discogs.com/Vz9gedZSGkZiqR6WgMeHWY9yQ0IcVXIcPJcvvNw2UWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDE3/MjUtMTIzNDIxNjgw/Ny5qcGVn.jpeg" alt="Cover for Take Me 2 The Top" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e335e27c413f463ab820c92e358ef18f.png" alt="Cover for Take Me 2 The Top" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Switch</td>
@@ -1306,7 +1305,7 @@ This tag identifies tracks featuring both male and female vocalists performing t
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/Ytbxgq6zs49hFiKFVMDqVYZ48RLW_FJo_o14xlRhN1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTMw/NzctMTQ1NjM1Nzc5/NS0yNjA5LmpwZWc.jpeg" alt="Cover for Let Me Be" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0bbc136936ae40aa9bffe13893a3081f.png" alt="Cover for Let Me Be" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Apex</td>
@@ -1345,7 +1344,7 @@ This tag identifies tracks featuring both male and female vocalists performing t
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/RNMstOnAMFtlG8WIX3NHbNMX1Y_Yru8iUPSkBLQ2DpU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDM3/Ni0xMjIzNzM1MDg2/LmpwZWc.jpeg" alt="Cover for Beatman" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e69bbf115ab45fcace3dfff2940f6bc.png" alt="Cover for Beatman" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Nadia</td>
@@ -1365,7 +1364,7 @@ This tag identifies tracks featuring both male and female vocalists performing t
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/6F9-JsWhhgg5ggbrl_g049sbfYb4kUJTA4iUuhex3Cg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzU3/NDYtMTI1NDE3MzIx/OC5qcGVn.jpeg" alt="Cover for New Love Dimension" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7aef1a238cb0821403acc6eed8ebd2e.png" alt="Cover for New Love Dimension" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Mr. Jam</td>
@@ -1407,7 +1406,7 @@ This tag identifies tracks featuring both male and female vocalists performing t
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/FgHYXH9nSCSt5AvBfBb3rsZTiluDZwPn6CfZ6g4HGXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NDk5/LTEzNTI0NzQ0NTkt/OTg1Ny5qcGVn.jpeg" alt="Cover for Music for Money" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da7bd42e06f349f7beff2a2638771c13.png" alt="Cover for Music for Money" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-09-09</td>
       <td>Ice MC</td>
@@ -1446,7 +1445,7 @@ This tag identifies tracks featuring both male and female vocalists performing t
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/gHhANKPRycAi0JbKryo4MVvyT6KKq_Ryg9xBR_1jIJc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTE2/NzE4LTE2NDczMzc3/MzgtMTIzMC5qcGVn.jpeg" alt="Cover for People - The Album" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e9f3e9d7358c433cb7e72c01c3558254.png" alt="Cover for People - The Album" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>The Soundlovers</td>
@@ -1467,7 +1466,7 @@ This tag identifies tracks featuring both male and female vocalists performing t
     <tr>
       <td>3</td>
       <td>
-          <img src="https://i.discogs.com/TIxwf0NgzGTKVgfrqEyIrex9ugXvQtpOZct2fT9Ke9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTgz/Ni0xNDU0NDQ3MzYz/LTE5NTguanBlZw.jpeg" alt="Cover for D.I.S.C.O. (Maxi Single)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f4c2b0887bc4f55a5f982ee4f1432a5.png" alt="Cover for D.I.S.C.O. (Maxi Single)" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-02</td>
       <td>N-Trance</td>
@@ -1507,6 +1506,7 @@ This tag identifies tracks featuring both male and female vocalists performing t
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/249be30facc643a38c7dd471522f794b.png" alt="Cover for Planet Colors" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-02-05</td>
       <td>DJ Bobo</td>
@@ -1545,7 +1545,7 @@ This tag identifies tracks featuring both male and female vocalists performing t
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/HnSxNSLWv0citRhlOqqPdUaafC6bIuFbjxjkdkToO0s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MzAx/NTYtMTM3OTc2MDc0/OS0yNTY4LmpwZWc.jpeg" alt="Cover for Da Capo - In Da Mix" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/115f0cbda0604d1bb42b9a100ce4b9f0.png" alt="Cover for Da Capo - In Da Mix" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Ace of Base</td>
@@ -1566,7 +1566,7 @@ This tag identifies tracks featuring both male and female vocalists performing t
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/-lA49PacWPRKQSLL3kiwR4p4TMlmSUJ4RRNP0pQZ3WQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjQw/MjYtMTU2NzQ1ODcx/Ni03Mjk3LmpwZWc.jpeg" alt="Cover for Click Your Heart" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40dd5802d32b1e85d32752a399dea645.png" alt="Cover for Click Your Heart" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Alcazar</td>
@@ -1587,6 +1587,7 @@ This tag identifies tracks featuring both male and female vocalists performing t
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4019c181862d7090a6832abf13c7fa94.png" alt="Cover for Forever &amp; One Day" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-07-30</td>
       <td>Mr. President</td>
@@ -1625,6 +1626,7 @@ This tag identifies tracks featuring both male and female vocalists performing t
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79969b89b377419099c88eb14e86c8ec.png" alt="Cover for Uno" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Paps &#39;N&#39; Skar</td>
@@ -1643,7 +1645,7 @@ This tag identifies tracks featuring both male and female vocalists performing t
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/kFMjJIekBj1AIKZbms4Z9BNDjZbVA6ywbxqG2WnrhtQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MDcz/My0xMTgwODU4MTMx/LmpwZWc.jpeg" alt="Cover for Vampires" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/45cb6b121d5a4357a233c0a5ad4bf415.png" alt="Cover for Vampires" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-05-11</td>
       <td>DJ Bobo</td>
@@ -1663,14 +1665,13 @@ This tag identifies tracks featuring both male and female vocalists performing t
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/qihR5qkLxL8N9lG6n89VpVkte4OrpgTPv4WSAM4ByJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2Mzg4/NDktMTM5ODY0NDEw/Ny02Njc3LmpwZWc.jpeg" alt="Cover for Rare Trax" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cfd38887c0294ccf84e87db9889d671c.png" alt="Cover for Rare Trax" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>DJ Bobo</td>
       <td>Rare Trax</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-and-female" | relative_url }}">male and female</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
         </ul>
       </td>
@@ -1701,7 +1702,7 @@ This tag identifies tracks featuring both male and female vocalists performing t
     <tr>
       <td>35</td>
       <td>
-          <img src="https://i.discogs.com/JUgElck1Fh_Sva13m3dOFCB1hjLB8zMcVigV23muphQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDU1/MzAtMTM5NTEwMzYy/NS0xMzAyLmpwZWc.jpeg" alt="Cover for From Brazil With Love (Calboy&#39;s Remixes)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e969a1b1ef95425080b8f7b2d58c4be8.png" alt="Cover for From Brazil With Love (Calboy&#39;s Remixes)" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-07-24</td>
       <td>Alcazar</td>
@@ -1720,7 +1721,7 @@ This tag identifies tracks featuring both male and female vocalists performing t
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/H_MV4Jdkcun9GvlKsfdBvhnC6B7jy_oORbXoYmRzyaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTM3/Mjk5LTE2Mjk1MTYw/NjgtOTYxNy5qcGVn.jpeg" alt="Cover for Slow and Steady Wins the Race" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/083dedd4410e4685ac4592ec1a8b42e3.png" alt="Cover for Slow and Steady Wins the Race" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Jonka</td>
@@ -1745,7 +1746,7 @@ This tag identifies tracks featuring both male and female vocalists performing t
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 22</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1790,7 +1791,7 @@ This tag identifies tracks featuring both male and female vocalists performing t
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/ak7CKM_f_MlGQyQrX6GEoWqOCd06mYoAo19EiCHQK3U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTk2/MDcxLTE2NTIzMjIy/NTAtNzUxMC5qcGVn.jpeg" alt="Cover for Ever More" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef6623035f92481abd8ff8f770368cb8.png" alt="Cover for Ever More" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-10-07</td>
       <td>Zodiac</td>
@@ -1829,7 +1830,7 @@ This tag identifies tracks featuring both male and female vocalists performing t
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/J7djp2KbE9Q_g3iRDWJMoOM1JiSqCFucq4FH7GO7yD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzkw/MTctMTM1ODg5MjUy/OC04MDAxLmpwZWc.jpeg" alt="Cover for Mistyczne Slowa" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c6dc606f02224bbbaf20bf6df52ec5ce.png" alt="Cover for Mistyczne Slowa" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-11-27</td>
       <td>Afterlife</td>
@@ -1867,6 +1868,7 @@ This tag identifies tracks featuring both male and female vocalists performing t
     <tr>
       <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3cb00a88170476290a64026f0e90062.png" alt="Cover for Self Control" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Alex feat. Iffectz &amp; Marwa</td>
@@ -1887,6 +1889,7 @@ This tag identifies tracks featuring both male and female vocalists performing t
     <tr>
       <td>34</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/61549a54b33e4918a202595f49251afb.png" alt="Cover for Realidad (Single)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Conexão Midi</td>
@@ -1924,26 +1927,6 @@ This tag identifies tracks featuring both male and female vocalists performing t
       </td>
     </tr>
     <tr>
-      <td>93</td>
-      <td>
-      </td>
-      <td></td>
-      <td>Conexão Midi</td>
-      <td>The Next Generation</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dance" | relative_url }}">dance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/eurodance" | relative_url }}">eurodance</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-and-female" | relative_url }}">male and female</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/pop" | relative_url }}">pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>13</td>
       <td>
       </td>
@@ -1966,6 +1949,23 @@ This tag identifies tracks featuring both male and female vocalists performing t
       <td></td>
       <td>Claudja, Gottsha &amp; Mr. Jam</td>
       <td>Projeto Brasil</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/515cdd65e982937fa31c3e8329f2e987.png" alt="Cover for The Next Generation" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Conexão Midi</td>
+      <td>The Next Generation</td>
       <td>
         <ul>
         </ul>

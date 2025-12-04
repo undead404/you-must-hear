@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-24T15:42:35.934Z
+date: 2025-12-04T07:49:46.366Z
 permalink: tags/italiano
 title: italiano
 ---
 
 ## italiano
 
-Last updated: <time datetime="2025-10-24T15:42:35.934Z">Fri Oct 24 2025 18:42:35 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T07:49:46.366Z">Thu Dec 04 2025 09:49:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,7 +44,7 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 88</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -64,7 +64,7 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 85</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -82,7 +82,7 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 70</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -100,7 +100,7 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 55</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -121,8 +121,8 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 10</li>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 81</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 20</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -240,7 +240,7 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/kKUxWnqcFvqq6ZIhAKTKk2NzQZAX7tiJFIfflN5jSB4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMTk5/Ni0xMjY3Mjc1NzEz/LmpwZWc.jpeg" alt="Cover for A Great Lump" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/704afbe8c1393922a57d52020d3470eb.png" alt="Cover for A Great Lump" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>S·Core</td>
@@ -274,14 +274,14 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 86</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 15</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>19</td>
       <td>
-          <img src="https://i.discogs.com/j5IXYFp8948UfKViTB9phXmvVSuroyVTGn_aQPl3lUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MzM2/MS0xNjY1NTIwNjE0/LTY1NzIuanBlZw.jpeg" alt="Cover for Cuore Agitati" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8848999af937ebcdddf1650fa445b8a4.png" alt="Cover for Cuore Agitati" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Eros Ramazzotti</td>
@@ -304,6 +304,7 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
     <tr>
       <td>17</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1d461ec9951e9fefecd6a1d521246d2.png" alt="Cover for The Realm" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>C&#39;hantal</td>
@@ -325,7 +326,7 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
       <td>
         <ul>
             <li> <a href="{{ "/tags/nederlands" | relative_url }}">nederlands</a> # 20</li>
-            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 60</li>
+            <li> <a href="{{ "/tags/hard-house" | relative_url }}">hard house</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -387,14 +388,14 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 76</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>44</td>
       <td>
-          <img src="https://i.discogs.com/eoHpATnu4Ad-TsVoH5kry2DFQ2PwKtAOc6jcoepBO3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MjQ1/LTE2MTMzODIxODct/Nzg2Ni5qcGVn.jpeg" alt="Cover for Biohazard" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a4994782a3bc5fcf24d7a2e034ded36e.png" alt="Cover for Biohazard" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Lassigue Bendthaus</td>
@@ -416,7 +417,7 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/NhF0UA5QcYdTzPEx05_sCfEK-kCPDSIfygyYoLJfm94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDMz/MC0xMTUzNjc3MDU0/LmpwZWc.jpeg" alt="Cover for Fac-Totum" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9e3f3c59c1ca11bfe8f7b6c58840b3ce.png" alt="Cover for Fac-Totum" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Die Sonne Satan</td>
@@ -434,13 +435,14 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
       <td>
         <ul>
             <li> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a> # 24</li>
-            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 63</li>
+            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8471fc14c63147f6ad91d66da3e4296e.png" alt="Cover for Il Bandito E Il Campione" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Francesco De Gregori</td>
@@ -451,7 +453,7 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 82</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -479,6 +481,7 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
     <tr>
       <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/676ed08bb45f91a780107b722a1f9275.png" alt="Cover for Biagio Antonacci" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Biagio Antonacci</td>
@@ -498,9 +501,9 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 26</li>
             <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 49</li>
             <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 60</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -640,7 +643,7 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 39</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -665,7 +668,7 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/50gtWkAvvRDdIiRK-PwTTUkY1Ij9tB7tYwBsS7btCug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjUx/NTI3LTE3MDY2ODk1/NzgtODc0NC5qcGVn.jpeg" alt="Cover for Bandiera Rossa" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8af0c3a1fbae4ff58075aa4b5de14bbf.png" alt="Cover for Bandiera Rossa" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Fonola Band</td>
@@ -758,6 +761,7 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f870ccfddd1d4649bf759021063e5776.png" alt="Cover for Scienza doppia H" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Colle Der Fomento</td>
@@ -777,7 +781,7 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/Zych-HivGUcvyMVBmev8mofD_XLJXKvf4NwAKvlMtPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzQx/NDAtMTM2ODM5OTU2/OS04NjAzLmpwZWc.jpeg" alt="Cover for Forza, Campione" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c139983a90b84cc386ea72eb992f704e.png" alt="Cover for Forza, Campione" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Nino D&#39;Angelo</td>
@@ -849,7 +853,7 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/1Fpvh1Cc5uo3i489FI0qJmn00VoPuMCl2Az5Kb7GGvs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTg3/MS0xMTk0NDcwODI2/LmpwZWc.jpeg" alt="Cover for Rosso relativo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/610ddde6763e47b7c7216b25cdc4108b.png" alt="Cover for Rosso relativo" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-06-28</td>
       <td>Tiziano Ferro</td>
@@ -863,10 +867,10 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 29</li>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 50</li>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 64</li>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 95</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 5</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 37</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 51</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -907,13 +911,14 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 57</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 44</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/553d6438d9f3496fa5b2b9ac488d2882.png" alt="Cover for Oceano" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Lisa</td>
@@ -947,7 +952,7 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 96</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -971,9 +976,9 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 21</li>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 77</li>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 85</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 16</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 23</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1052,7 +1057,7 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 22</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1077,6 +1082,7 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
     <tr>
       <td>83</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f4b2a49400d48b1c8d8b3c75b5211ee.png" alt="Cover for Bula Bula" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-01-13</td>
       <td>Mina</td>
@@ -1140,7 +1146,7 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/XJUHDzrnZ3oZUbVJGDpfSycUYMHxjg2pRoqoeo3t370/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTkz/MjUtMTQ5OTI2ODI5/OC0xMTUxLmpwZWc.jpeg" alt="Cover for Live in Paris" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5641c3f4977def092a424cab553ea163.png" alt="Cover for Live in Paris" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Laura Pausini</td>
@@ -1152,7 +1158,7 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 70</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 71</li>
             <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 72</li>
         </ul>
       </td>
@@ -1229,24 +1235,25 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 3</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 18</li>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 34</li>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 40</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 52</li>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 53</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 55</li>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 63</li>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 64</li>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 76</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 6</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 11</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 25</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 37</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 38</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 40</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 48</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 50</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 61</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 66</li>
             <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 79</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 90</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>6</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aeab943fe5e4465194a3f43e3a1f9d45.png" alt="Cover for Nel niente sotto il sole" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-11-24</td>
       <td>Vinicio Capossela</td>
@@ -1266,7 +1273,7 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 42</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1285,8 +1292,8 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 10</li>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 65</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 12</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1342,7 +1349,7 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 97</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1362,7 +1369,7 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 51</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1443,7 +1450,7 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/_gyskSzHi_j-YqruzdjYTWW5pj2MkeT0hlWHeTZYl7U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjY4/NzYxLTE1Mzk2OTk1/NjEtMzYzMy5qcGVn.jpeg" alt="Cover for L&#39;ultima recita" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ce8b34c8d394be0af15fe7278ac40b0.png" alt="Cover for L&#39;ultima recita" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Verderame</td>
@@ -1475,7 +1482,7 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
     <tr>
       <td>36</td>
       <td>
-          <img src="https://i.discogs.com/-QhQvkJauk6SghBxAhCRejoZV0GItYds8McGze_ELvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTUx/MjYtMTMxMTc5NDU0/OS5qcGVn.jpeg" alt="Cover for Simulacra" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3775e5711abe1e22a4428448c48606ce.png" alt="Cover for Simulacra" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Sigillum S</td>
@@ -1588,20 +1595,20 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 4</li>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 13</li>
-            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 28</li>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 41</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 47</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 49</li>
             <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 50</li>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 52</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 56</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 60</li>
+            <li> <a href="{{ "/tags/pagan-folk" | relative_url }}">pagan folk</a> # 71</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 88</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/HuVfocKDjjm15JetqnBL8Sr3GaFwARG_HJIoY3Dy260/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTIz/NjktMTMwODg0NjYz/OC5qcGVn.jpeg" alt="Cover for Honeysuckle" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9310f2eac982c68597eb2f80f1606b3.png" alt="Cover for Honeysuckle" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-06</td>
       <td>Alio Die</td>
@@ -1649,7 +1656,6 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
       <td>Anteprime</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/beethoven" | relative_url }}">beethoven</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/classical" | relative_url }}">classical</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/flute" | relative_url }}">flute</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/harp" | relative_url }}">harp</a></li>
@@ -1664,7 +1670,7 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 11</li>
+            <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1688,7 +1694,7 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/7QJ22NDVUrW-U8xiV3G-KLj6PAUf1kr7ZDq_Ng6CpsI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzEz/MTM1LTE1MzY4NzI1/NDUtOTE4MC5qcGVn.jpeg" alt="Cover for Roma California" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/91827d40b26003096b167f505802d8fc.png" alt="Cover for Roma California" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Davide Esposito</td>
@@ -1729,17 +1735,17 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 14</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 38</li>
-            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 42</li>
-            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 59</li>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 41</li>
+            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 59</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 61</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>24</td>
       <td>
-          <img src="https://i.discogs.com/1QIqqvtjjcJPZuXxVcfDTDIXUHX1TotazgUlqPetBlM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTQz/NDQtMTQyNzE4OTAy/My04Nzk4LmpwZWc.jpeg" alt="Cover for Absence Generator" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/266535cef25a46ab9f9684d32cf5ff10.png" alt="Cover for Absence Generator" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-03-23</td>
       <td>Violet Poison</td>
@@ -1809,8 +1815,8 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
         <ul>
             <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 20</li>
             <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 26</li>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 46</li>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 62</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 39</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 55</li>
             <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 68</li>
         </ul>
       </td>
@@ -1837,7 +1843,7 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/lvp5GE0kt02dojxhFiLnU-gg803jAlv8zIV3HqNqYF0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjU5/OTEtMTYwMTAxNDM4/Ni0xODQyLmpwZWc.jpeg" alt="Cover for Uchronie" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd3a986fc42da95db39670bb1c8e6ac3.png" alt="Cover for Uchronie" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-10-20</td>
       <td>Gëinst</td>
@@ -1859,7 +1865,7 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
     <tr>
       <td>46</td>
       <td>
-          <img src="https://i.discogs.com/8euM6yqDWmVINmKH-mCP8dHCEcLH9TGQh6Jg2xH_gIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MjAx/MzktMTQ4MDI1NjUx/NC02Njc0LmpwZWc.jpeg" alt="Cover for Φ (Phi)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9d9de2884ab9340cc6a1b0cabc8ece8b.png" alt="Cover for Φ (Phi)" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-10-21</td>
       <td>Mai Mai Mai</td>
@@ -1921,7 +1927,7 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
     <tr>
       <td>12</td>
       <td>
-          <img src="https://i.discogs.com/5QZ-aDrJ76VzE75Rsg7TMi6wBRt5zCq-t8GbHUdwQ8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzkz/NjI4LTE1NTMzNjQ0/NDctOTE5MC5qcGVn.jpeg" alt="Cover for Messing With Occult Science EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d86df06523cf65c7ea94ce1f564725bb.png" alt="Cover for Messing With Occult Science EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-11-10</td>
       <td>Dykore</td>
@@ -1941,7 +1947,7 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/7RxJbsrFaE7dqgMKcdci_CyQanD3XaczKhXn70LfrI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzI0/MDI0LTE1MjEzMDE3/MzQtMjg3NC5qcGVn.jpeg" alt="Cover for Mental Violence EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5496b918f88481bfac033d8c7d9195e8.png" alt="Cover for Mental Violence EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-12-18</td>
       <td>Panic Dispenser</td>
@@ -2021,7 +2027,7 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/Odo7Qba-csL3I29WfNQYd_z_3EIIMBNdAZtDTpAFYuk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDI1/MDg2LTE1OTEzMzgy/MDYtNjY3Ni5qcGVn.jpeg" alt="Cover for Hell 999" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10e75a8006eb775ca01d6e6f81f15c2c.png" alt="Cover for Hell 999" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-06-19</td>
       <td>Brecc</td>
@@ -2134,7 +2140,7 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 17</li>
+            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -2154,7 +2160,7 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 68</li>
+            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -2196,12 +2202,12 @@ Italian pop music that encompasses the melodic traditions and lyrical sophistica
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 20</li>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 28</li>
+            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 32</li>
+            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 33</li>
             <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 36</li>
-            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 40</li>
-            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 68</li>
-            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 69</li>
+            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 61</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 75</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 80</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-17T22:49:10.372Z
+date: 2025-12-04T07:16:41.460Z
 permalink: tags/northern-soul
 title: northern soul
 ---
 
 ## northern soul
 
-Last updated: <time datetime="2025-11-17T22:49:10.372Z">Tue Nov 18 2025 00:49:10 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:16:41.460Z">Thu Dec 04 2025 09:16:41 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -290,7 +290,7 @@ Northern soul is a rare groove dance movement that emerged in 1960s-70s UK clubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 53</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -826,7 +826,7 @@ Northern soul is a rare groove dance movement that emerged in 1960s-70s UK clubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 39</li>
+            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -845,7 +845,7 @@ Northern soul is a rare groove dance movement that emerged in 1960s-70s UK clubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 53</li>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -902,7 +902,7 @@ Northern soul is a rare groove dance movement that emerged in 1960s-70s UK clubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 37</li>
+            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1198,6 +1198,28 @@ Northern soul is a rare groove dance movement that emerged in 1960s-70s UK clubs
       </td>
     </tr>
     <tr>
+      <td>62</td>
+      <td>
+          <img src="https://i.discogs.com/V-skov50CQ0Ze8fyNLqOc8iqDxCLSZKexLonm8Xl_Jw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzE3/ODgtMTQyOTkzMDM2/Mi0yOTE4LmpwZWc.jpeg" alt="Cover for Timi Yuro - The Very Best Of" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006</td>
+      <td>Timi Yuro</td>
+      <td>Timi Yuro - The Very Best Of</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/northern-soul" | relative_url }}">northern soul</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a> # 3</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>24</td>
       <td>
           <img src="https://i.discogs.com/yL2WML1oZrui8zc18XMjxweXzKhR0N7oQJjtyK6DCNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTc2/OTUxLTE3MjQ2NjAy/NTAtMzcwNC5qcGVn.jpeg" alt="Cover for The Number 1 Soul Collection" style="max-width:120px; height:auto;" />
@@ -1237,27 +1259,6 @@ Northern soul is a rare groove dance movement that emerged in 1960s-70s UK clubs
       </td>
     </tr>
     <tr>
-      <td>62</td>
-      <td>
-          <img src="https://i.discogs.com/V-skov50CQ0Ze8fyNLqOc8iqDxCLSZKexLonm8Xl_Jw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MzE3/ODgtMTQyOTkzMDM2/Mi0yOTE4LmpwZWc.jpeg" alt="Cover for Timi Yuro - The Very Best Of" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2006</td>
-      <td>Timi Yuro</td>
-      <td>Timi Yuro - The Very Best Of</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/blue-eyed-soul" | relative_url }}">blue-eyed soul</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/northern-soul" | relative_url }}">northern soul</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/soul" | relative_url }}">soul</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>41</td>
       <td>
           <img src="https://i.discogs.com/k3scvscl-ae8Jx-N_LUsuHdHXYQPzeoHWD2MJvsH8xw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMjU2/NS0xMTg5OTQxODA0/LmpwZWc.jpeg" alt="Cover for The Motown Anthology" style="max-width:120px; height:auto;" />
@@ -1285,24 +1286,19 @@ Northern soul is a rare groove dance movement that emerged in 1960s-70s UK clubs
       <td>The Heavens</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britain" | relative_url }}">britain</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british" | relative_url }}">british</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/leeds" | relative_url }}">leeds</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/northern-soul" | relative_url }}">northern soul</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 62</li>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 72</li>
-            <li> <a href="{{ "/tags/leeds" | relative_url }}">leeds</a> # 85</li>
+            <li> <a href="{{ "/tags/leeds" | relative_url }}">leeds</a> # 16</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 29</li>
+            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 63</li>
             <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 93</li>
         </ul>
       </td>
@@ -1788,7 +1784,7 @@ Northern soul is a rare groove dance movement that emerged in 1960s-70s UK clubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 32</li>
+            <li> <a href="{{ "/tags/british-rock" | relative_url }}">british rock</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1806,7 +1802,7 @@ Northern soul is a rare groove dance movement that emerged in 1960s-70s UK clubs
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 14</li>
+            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 88</li>
         </ul>
       </td>
     </tr>

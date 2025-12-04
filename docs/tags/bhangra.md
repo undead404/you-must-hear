@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T02:19:20.044Z
+date: 2025-12-04T07:13:50.267Z
 permalink: tags/bhangra
 title: bhangra
 ---
 
 ## bhangra
 
-Last updated: <time datetime="2025-10-22T02:19:20.044Z">Wed Oct 22 2025 05:19:20 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T07:13:50.267Z">Thu Dec 04 2025 09:13:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -113,12 +113,12 @@ Bhangra is an energetic music style originating from Punjab, characterized by th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 7</li>
-            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 45</li>
+            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 56</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 79</li>
             <li> <a href="{{ "/tags/punjabi" | relative_url }}">punjabi</a> # 80</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 88</li>
             <li> <a href="{{ "/tags/uk-bhangra" | relative_url }}">uk bhangra</a> # 92</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -142,7 +142,7 @@ Bhangra is an energetic music style originating from Punjab, characterized by th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 35</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 64</li>
             <li> <a href="{{ "/tags/punjabi" | relative_url }}">punjabi</a> # 86</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 87</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 93</li>
@@ -218,10 +218,10 @@ Bhangra is an energetic music style originating from Punjab, characterized by th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 13</li>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 25</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 76</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 81</li>
             <li> <a href="{{ "/tags/punjabi" | relative_url }}">punjabi</a> # 83</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 86</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 90</li>
         </ul>
       </td>
@@ -383,9 +383,9 @@ Bhangra is an energetic music style originating from Punjab, characterized by th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 69</li>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 72</li>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 76</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 25</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 27</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -431,14 +431,15 @@ Bhangra is an energetic music style originating from Punjab, characterized by th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 34</li>
-            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 43</li>
+            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 58</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/384b0005ca2993df5201757220da5505.png" alt="Cover for Legalised" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Panjabi MC</td>
@@ -508,19 +509,18 @@ Bhangra is an energetic music style originating from Punjab, characterized by th
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d2a9a7fe5f54cee8f5190e577e4aae6.png" alt="Cover for Tunak Tunak Tun" style="max-width:120px; height:auto;" />
       </td>
       <td>1998-02-28</td>
       <td>Daler Mehndi</td>
       <td>Tunak Tunak Tun</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indian" | relative_url }}">indian</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 100</li>
+            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -650,7 +650,7 @@ Bhangra is an energetic music style originating from Punjab, characterized by th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 19</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -771,6 +771,7 @@ Bhangra is an energetic music style originating from Punjab, characterized by th
     <tr>
       <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9edd686c224a9b63c0bfdb082ea496c6.png" alt="Cover for Monsoon Wedding" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Mychael Danna</td>
@@ -783,7 +784,7 @@ Bhangra is an energetic music style originating from Punjab, characterized by th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 78</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -876,11 +877,11 @@ Bhangra is an energetic music style originating from Punjab, characterized by th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 6</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 76</li>
             <li> <a href="{{ "/tags/punjabi" | relative_url }}">punjabi</a> # 78</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 86</li>
             <li> <a href="{{ "/tags/uk-bhangra" | relative_url }}">uk bhangra</a> # 90</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1070,6 +1071,7 @@ Bhangra is an energetic music style originating from Punjab, characterized by th
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d15b8607d529dbb7ecd01d4dab7877a1.png" alt="Cover for Mundian to Bach Ke" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-11-25</td>
       <td>Panjabi MC</td>
@@ -1183,8 +1185,8 @@ Bhangra is an energetic music style originating from Punjab, characterized by th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 63</li>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 73</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 28</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 36</li>
             <li> <a href="{{ "/tags/punjabi" | relative_url }}">punjabi</a> # 94</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 97</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 99</li>
@@ -1220,7 +1222,7 @@ Bhangra is an energetic music style originating from Punjab, characterized by th
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/d0RKQGb1dRAttDcYR3fe6hU_NYRAd9s7pOTxlVqPgdU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDk3/MC0xMTcxMjY2ODQw/LmpwZWc.jpeg" alt="Cover for The Album" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6572e0e394c41b9b0f61f7b7c0faef0.png" alt="Cover for The Album" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-05-05</td>
       <td>Panjabi MC</td>
@@ -1475,7 +1477,7 @@ Bhangra is an energetic music style originating from Punjab, characterized by th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 70</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 29</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 99</li>
         </ul>
       </td>
@@ -1622,7 +1624,7 @@ Bhangra is an energetic music style originating from Punjab, characterized by th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 65</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 34</li>
             <li> <a href="{{ "/tags/punjabi" | relative_url }}">punjabi</a> # 95</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 98</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 100</li>
@@ -1779,8 +1781,8 @@ Bhangra is an energetic music style originating from Punjab, characterized by th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 38</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 61</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1817,7 +1819,7 @@ Bhangra is an energetic music style originating from Punjab, characterized by th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 82</li>
+            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 19</li>
             <li> <a href="{{ "/tags/pakistani" | relative_url }}">pakistani</a> # 99</li>
         </ul>
       </td>
@@ -2266,9 +2268,9 @@ Bhangra is an energetic music style originating from Punjab, characterized by th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 31</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 51</li>
             <li> <a href="{{ "/tags/punjabi" | relative_url }}">punjabi</a> # 58</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 70</li>
             <li> <a href="{{ "/tags/punjabi-bhangra" | relative_url }}">punjabi bhangra</a> # 72</li>
         </ul>
       </td>
@@ -2288,7 +2290,7 @@ Bhangra is an energetic music style originating from Punjab, characterized by th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 40</li>
+            <li> <a href="{{ "/tags/india" | relative_url }}">india</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -2308,7 +2310,7 @@ Bhangra is an energetic music style originating from Punjab, characterized by th
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 54</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 47</li>
         </ul>
       </td>
     </tr>

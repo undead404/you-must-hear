@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-22T13:48:36.785Z
+date: 2025-12-04T07:19:08.290Z
 permalink: tags/yoga
 title: yoga
 ---
 
 ## yoga
 
-Last updated: <time datetime="2025-11-22T13:48:36.785Z">Sat Nov 22 2025 15:48:36 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:19:08.290Z">Thu Dec 04 2025 09:19:08 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -159,7 +159,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 91</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -597,7 +597,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 72</li>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -672,7 +672,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 91</li>
+            <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -693,7 +693,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 3</li>
+            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -715,7 +715,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 50</li>
+            <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -736,7 +736,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 78</li>
+            <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -795,7 +795,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 71</li>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -836,7 +836,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 38</li>
+            <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -855,7 +855,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 99</li>
+            <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -970,7 +970,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 67</li>
+            <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 34</li>
             <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 71</li>
         </ul>
       </td>
@@ -1070,7 +1070,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 84</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 17</li>
             <li> <a href="{{ "/tags/indian-fusion" | relative_url }}">indian fusion</a> # 98</li>
         </ul>
       </td>
@@ -1094,7 +1094,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 59</li>
+            <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1252,8 +1252,8 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 39</li>
-            <li> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a> # 59</li>
+            <li> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a> # 42</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1301,7 +1301,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/native-american" | relative_url }}">native american</a> # 2</li>
+            <li> <a href="{{ "/tags/native-american" | relative_url }}">native american</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1401,8 +1401,8 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 14</li>
-            <li> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a> # 43</li>
+            <li> <a href="{{ "/tags/progressive-ambient" | relative_url }}">progressive ambient</a> # 58</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1482,7 +1482,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 41</li>
+            <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1522,7 +1522,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 2</li>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1605,8 +1605,8 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 20</li>
-            <li> <a href="{{ "/tags/balearic" | relative_url }}">balearic</a> # 60</li>
+            <li> <a href="{{ "/tags/balearic" | relative_url }}">balearic</a> # 41</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1682,7 +1682,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 28</li>
+            <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1701,7 +1701,7 @@ Yoga music encompasses calming, meditative soundscapes designed to facilitate mi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 56</li>
+            <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 45</li>
         </ul>
       </td>
     </tr>

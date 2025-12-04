@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T14:23:37.977Z
+date: 2025-12-04T08:40:09.439Z
 permalink: tags/japanese-metal
 title: japanese metal
 ---
 
 ## japanese metal
 
-Last updated: <time datetime="2025-11-26T14:23:37.977Z">Wed Nov 26 2025 16:23:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T08:40:09.439Z">Thu Dec 04 2025 10:40:09 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,7 +47,7 @@ Japanese metal, or heavy metal music from Japan, emerged in the mid-to-late 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 46</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -184,7 +184,7 @@ Japanese metal, or heavy metal music from Japan, emerged in the mid-to-late 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 39</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -204,7 +204,7 @@ Japanese metal, or heavy metal music from Japan, emerged in the mid-to-late 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 45</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -266,7 +266,7 @@ Japanese metal, or heavy metal music from Japan, emerged in the mid-to-late 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 21</li>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -310,7 +310,7 @@ Japanese metal, or heavy metal music from Japan, emerged in the mid-to-late 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 16</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -451,7 +451,7 @@ Japanese metal, or heavy metal music from Japan, emerged in the mid-to-late 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 33</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -474,7 +474,7 @@ Japanese metal, or heavy metal music from Japan, emerged in the mid-to-late 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 5</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -583,7 +583,7 @@ Japanese metal, or heavy metal music from Japan, emerged in the mid-to-late 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 34</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -605,7 +605,7 @@ Japanese metal, or heavy metal music from Japan, emerged in the mid-to-late 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 15</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -650,7 +650,7 @@ Japanese metal, or heavy metal music from Japan, emerged in the mid-to-late 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 63</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -714,7 +714,7 @@ Japanese metal, or heavy metal music from Japan, emerged in the mid-to-late 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 21</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -811,7 +811,7 @@ Japanese metal, or heavy metal music from Japan, emerged in the mid-to-late 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 29</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -918,7 +918,7 @@ Japanese metal, or heavy metal music from Japan, emerged in the mid-to-late 1970
       <td>
         <ul>
             <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 13</li>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 51</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1034,9 +1034,9 @@ Japanese metal, or heavy metal music from Japan, emerged in the mid-to-late 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 6</li>
-            <li> <a href="{{ "/tags/blackened-thrash-metal" | relative_url }}">blackened thrash metal</a> # 69</li>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 70</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 31</li>
+            <li> <a href="{{ "/tags/blackened-thrash-metal" | relative_url }}">blackened thrash metal</a> # 32</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1181,7 +1181,7 @@ Japanese metal, or heavy metal music from Japan, emerged in the mid-to-late 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 7</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1209,10 +1209,10 @@ Japanese metal, or heavy metal music from Japan, emerged in the mid-to-late 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 10</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 15</li>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 84</li>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 84</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 12</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 16</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 17</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1253,8 +1253,8 @@ Japanese metal, or heavy metal music from Japan, emerged in the mid-to-late 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 5</li>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 80</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 21</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1272,7 +1272,7 @@ Japanese metal, or heavy metal music from Japan, emerged in the mid-to-late 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 27</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1318,7 +1318,7 @@ Japanese metal, or heavy metal music from Japan, emerged in the mid-to-late 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 32</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1392,9 +1392,9 @@ Japanese metal, or heavy metal music from Japan, emerged in the mid-to-late 1970
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 25</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 27</li>
             <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 57</li>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 74</li>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 75</li>
             <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 94</li>
         </ul>
       </td>
@@ -1510,7 +1510,7 @@ Japanese metal, or heavy metal music from Japan, emerged in the mid-to-late 1970
       <td>
         <ul>
             <li> <a href="{{ "/tags/melodic-power-metal" | relative_url }}">melodic power metal</a> # 35</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 41</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1640,7 +1640,7 @@ Japanese metal, or heavy metal music from Japan, emerged in the mid-to-late 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 65</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1679,8 +1679,8 @@ Japanese metal, or heavy metal music from Japan, emerged in the mid-to-late 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 40</li>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 56</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 45</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1745,7 +1745,7 @@ Japanese metal, or heavy metal music from Japan, emerged in the mid-to-late 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 38</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1769,7 +1769,7 @@ Japanese metal, or heavy metal music from Japan, emerged in the mid-to-late 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 41</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1794,7 +1794,7 @@ Japanese metal, or heavy metal music from Japan, emerged in the mid-to-late 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 43</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1818,7 +1818,7 @@ Japanese metal, or heavy metal music from Japan, emerged in the mid-to-late 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 14</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1862,7 +1862,7 @@ Japanese metal, or heavy metal music from Japan, emerged in the mid-to-late 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 23</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1888,8 +1888,8 @@ Japanese metal, or heavy metal music from Japan, emerged in the mid-to-late 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 61</li>
-            <li> <a href="{{ "/tags/blackened-speed-metal" | relative_url }}">blackened speed metal</a> # 85</li>
+            <li> <a href="{{ "/tags/blackened-speed-metal" | relative_url }}">blackened speed metal</a> # 15</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1932,7 +1932,7 @@ Japanese metal, or heavy metal music from Japan, emerged in the mid-to-late 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 26</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1956,7 +1956,7 @@ Japanese metal, or heavy metal music from Japan, emerged in the mid-to-late 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 58</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1980,10 +1980,10 @@ Japanese metal, or heavy metal music from Japan, emerged in the mid-to-late 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 28</li>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 80</li>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 85</li>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 94</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 7</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 16</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 29</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -2025,7 +2025,7 @@ Japanese metal, or heavy metal music from Japan, emerged in the mid-to-late 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 18</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -2052,11 +2052,11 @@ Japanese metal, or heavy metal music from Japan, emerged in the mid-to-late 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 78</li>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 79</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 12</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 16</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 22</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 23</li>
             <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 85</li>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 85</li>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -2081,7 +2081,7 @@ Japanese metal, or heavy metal music from Japan, emerged in the mid-to-late 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 57</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -2108,10 +2108,10 @@ Japanese metal, or heavy metal music from Japan, emerged in the mid-to-late 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 82</li>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 87</li>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 90</li>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 95</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 6</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 11</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 14</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -2135,10 +2135,10 @@ Japanese metal, or heavy metal music from Japan, emerged in the mid-to-late 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 40</li>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 96</li>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 97</li>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 99</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 2</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 4</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 5</li>
+            <li> <a href="{{ "/tags/asian" | relative_url }}">asian</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -2161,7 +2161,7 @@ Japanese metal, or heavy metal music from Japan, emerged in the mid-to-late 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 80</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -2185,7 +2185,7 @@ Japanese metal, or heavy metal music from Japan, emerged in the mid-to-late 1970
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 11</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 90</li>
         </ul>
       </td>
     </tr>

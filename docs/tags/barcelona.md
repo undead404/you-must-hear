@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-31T17:50:50.969Z
+date: 2025-12-04T07:15:51.572Z
 permalink: tags/barcelona
 title: barcelona
 ---
 
 ## barcelona
 
-Last updated: <time datetime="2025-10-31T17:50:50.969Z">Fri Oct 31 2025 19:50:50 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:15:51.572Z">Thu Dec 04 2025 09:15:51 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -109,7 +109,7 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 83</li>
+            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -134,6 +134,7 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
     <tr>
       <td>52</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0a80067b285ad5ce1a93c62802f6482d.png" alt="Cover for Home Demos - Volume One" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-09-16</td>
       <td>Peter Clifton Solés</td>
@@ -169,14 +170,14 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 31</li>
+            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/6pAtNwuSB96EE5FFQkbbsmZyJ6di4kPLFjosDNr854w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDE5/NDYtMTMwMTY3MzUw/NS5qcGVn.jpeg" alt="Cover for Mondo Difficile" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e1772bb189ae7d165c9289a91f7aeb3.png" alt="Cover for Mondo Difficile" style="max-width:120px; height:auto;" />
       </td>
       <td>2000</td>
       <td>Tonino Carotone</td>
@@ -189,7 +190,7 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 68</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -260,7 +261,7 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/catalan" | relative_url }}">catalan</a> # 14</li>
+            <li> <a href="{{ "/tags/catalan" | relative_url }}">catalan</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -296,7 +297,7 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 38</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -342,8 +343,8 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 88</li>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 93</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 8</li>
+            <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -367,7 +368,7 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 37</li>
+            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -389,7 +390,7 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 62</li>
+            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -415,7 +416,7 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/aTD5BISa6ZFC3PWBUH8A8HiTUiNhcTEgoTqWlM81IQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjUx/NzctMTYxNzI3MDI5/NS0yMTE4LmpwZWc.jpeg" alt="Cover for Solos Contra Todos" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4227265b5e9d4f83cf0b0fb8a71108e9.png" alt="Cover for Solos Contra Todos" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Ultimo Asalto</td>
@@ -464,10 +465,10 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 7</li>
-            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 10</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 46</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 74</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 26</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 54</li>
+            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 90</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -517,8 +518,8 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 25</li>
-            <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 51</li>
+            <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 50</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -581,29 +582,6 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
       </td>
     </tr>
     <tr>
-      <td>84</td>
-      <td>
-          <img src="https://i.discogs.com/8M27UyLj6PGt2zS3emvawplzOZm8XoL1e1Li_5SaLlo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDA4/OTUtMTMzODQ5MDI1/My0yODc1LmpwZWc.jpeg" alt="Cover for Deus Ex Machina" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>The Moebius Curve</td>
-      <td>Deus Ex Machina</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 35</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>40</td>
       <td>
           <img src="https://i.discogs.com/CjBryzONUUCAoUzS50lR6PDYwGdKQh73KgMvJ_TPpto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDA3/OTEtMTIzMzk1ODE3/Ny5qcGVn.jpeg" alt="Cover for For a few pussies more..." style="max-width:120px; height:auto;" />
@@ -628,7 +606,7 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/cteFpHlOlg2GURgP8pSCgBou6Hu-1Db5nW-gGUN6dfE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTQx/MjItMTI0NTA5MTYx/MS5qcGVn.jpeg" alt="Cover for Thelemáticos" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/24bd803b820e44a2ab8e4e71dcbdb79f.png" alt="Cover for Thelemáticos" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Thelemáticos</td>
@@ -667,8 +645,8 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 67</li>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 77</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 24</li>
+            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -698,8 +676,32 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
       </td>
     </tr>
     <tr>
+      <td>84</td>
+      <td>
+          <img src="https://i.discogs.com/8M27UyLj6PGt2zS3emvawplzOZm8XoL1e1Li_5SaLlo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDA4/OTUtMTMzODQ5MDI1/My0yODc1LmpwZWc.jpeg" alt="Cover for Deus Ex Machina" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007-12</td>
+      <td>The Moebius Curve</td>
+      <td>Deus Ex Machina</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/barcelona" | relative_url }}">barcelona</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 37</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>96</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21c6c035a3c7b70f69c3a26efbe5677f.png" alt="Cover for Cosa Astral" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Coconot</td>
@@ -715,8 +717,8 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 22</li>
-            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 64</li>
+            <li> <a href="{{ "/tags/tropicalia" | relative_url }}">tropicalia</a> # 65</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -774,7 +776,7 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 62</li>
+            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -817,10 +819,10 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 31</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 38</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 40</li>
             <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 50</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 61</li>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 63</li>
-            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 70</li>
             <li> <a href="{{ "/tags/mediterranean" | relative_url }}">mediterranean</a> # 88</li>
         </ul>
       </td>
@@ -891,7 +893,7 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/ZGTj3NkfdV4n7Ygb5cUjHgt0jU9pLf3iK88TgdGwBgc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3OTI1/NjQtMTQyNjcyMTg1/Ni05ODE5LmpwZWc.jpeg" alt="Cover for Barcelona Diaries" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea445596dcdd44fe856dd9eadcfb71f8.png" alt="Cover for Barcelona Diaries" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-12-16</td>
       <td>André Wall</td>
@@ -910,7 +912,7 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/lv0XzYGAdaoGxKPti_FfBRO0gDGW5GH-XzIszbtivQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTcw/NTEwLTE1MTExNTQ0/NjUtNzQ4OS5qcGVn.jpeg" alt="Cover for A l&#39;esquena d&#39;un elefant" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b265e93970de4601ad62c0b1765d93bb.png" alt="Cover for A l&#39;esquena d&#39;un elefant" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-12</td>
       <td>Ivette Nadal</td>
@@ -924,7 +926,7 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautor" | relative_url }}">cantautor</a> # 32</li>
+            <li> <a href="{{ "/tags/cantautor" | relative_url }}">cantautor</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1005,7 +1007,7 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/ZfLGLmevDfaCGgjwYBtUR3wxSrd-Uubm2KoFuPLsB_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjQ2/OTQtMTM0MzQ4NjU3/NS05MjgyLmpwZWc.jpeg" alt="Cover for Not Quite Bohemian" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/35249caa60dc457f966bba44124997d4.png" alt="Cover for Not Quite Bohemian" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-04-27</td>
       <td>Tibursky</td>
@@ -1021,15 +1023,15 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 22</li>
-            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 49</li>
+            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 52</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/jbincha74Hx_sTYaVT7vOc3rhDxjHoujFb0svVHrWW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjk2/ODc0LTE1NDAyMzM5/ODUtMzM3My5wbmc.jpeg" alt="Cover for No se deja hablar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0dd065aad1ca7da444a51ea5866c72dd.png" alt="Cover for No se deja hablar" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-06-04</td>
       <td>Pulserismo</td>
@@ -1095,7 +1097,7 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/Lb6cUJrvd6xTX09gKYduikImTaSVDXLTrM1vyU86pNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NjUy/MjMtMTM1MDc1Njg2/OS05ODY0LmpwZWc.jpeg" alt="Cover for Doméstico EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6236f6b0718f47e89a85eda9677e82c4.png" alt="Cover for Doméstico EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Cocolixe</td>
@@ -1161,7 +1163,6 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
     <tr>
       <td>16</td>
       <td>
-          <img src="https://i.discogs.com/7C8OSmDLHG8dCrXdc1ZkAqM71jX0Ii5CM6cB_8X5BaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMjM4/MzctMTM1NjA4MDQy/Ni01ODI3LmpwZWc.jpeg" alt="Cover for Cavan" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-12-21</td>
       <td>Gumbel</td>
@@ -1189,8 +1190,8 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/catalan" | relative_url }}">catalan</a> # 7</li>
             <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 21</li>
+            <li> <a href="{{ "/tags/catalan" | relative_url }}">catalan</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1310,7 +1311,6 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
     <tr>
       <td>26</td>
       <td>
-          <img src="https://i.discogs.com/zvEUkUWV3SHij96u5Gq5aVqFpsXcHooiMX2PXCN9ITs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NzMz/OTUtMTM2ODc4Mzc3/My0zMjU0LmpwZWc.jpeg" alt="Cover for Pedralbes" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-19</td>
       <td>Híbrida, Nen i Cavall</td>
@@ -1321,7 +1321,7 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 31</li>
+            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1349,9 +1349,9 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 6</li>
-            <li> <a href="{{ "/tags/catalan" | relative_url }}">catalan</a> # 48</li>
+            <li> <a href="{{ "/tags/catalan" | relative_url }}">catalan</a> # 53</li>
             <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 80</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1378,7 +1378,7 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/f-55iTi0zqL8JE2IFFw3n5BS2vzBuS0GHcQ9r21Qzxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTA1/NTk2LTE1NDgxNTIx/NDgtNDY1Ny5qcGVn.jpeg" alt="Cover for El Brillo de la Ciudad" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/89b6da523773440d8e201ac6cd40ca00.png" alt="Cover for El Brillo de la Ciudad" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-11-30</td>
       <td>Tripulante</td>
@@ -1443,6 +1443,7 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4cedca2d0a1c4066c06d83ef58d773e1.png" alt="Cover for Here Comes Now" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-08-04</td>
       <td>Stephon Alexander &amp; Rioux</td>
@@ -1461,14 +1462,14 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 7</li>
+            <li> <a href="{{ "/tags/minimal-wave" | relative_url }}">minimal wave</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/BQrQj4EteHbfSoV0wM5hxfbXkSHuBubVcMSnt89zReg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTA2/ODItMTQzMzk0MjUz/NC03NzMxLmpwZWc.jpeg" alt="Cover for Rome EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf7e08c30dca40ce828c298575f14a5f.png" alt="Cover for Rome EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-05-25</td>
       <td>Boreals</td>
@@ -1492,7 +1493,7 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/eUpsf3d5P0z-JVZd6Uh5k83xTwbPquvi-caTMK_PgEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTcw/NjYyLTE1MTExNjA1/MzQtNTk1Ny5qcGVn.jpeg" alt="Cover for Mestres i Amics" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d4eb922fe43643119518fed30e5df7f5.png" alt="Cover for Mestres i Amics" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Ivette Nadal</td>
@@ -1512,7 +1513,7 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
     <tr>
       <td>17</td>
       <td>
-          <img src="https://i.discogs.com/Vdmg9BB33LszpHvBTER3iVRHhzoOIpp1J-abrHQKevE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjE0/MzE3LTE2Njg4NjM1/OTctNDk4NS5qcGVn.jpeg" alt="Cover for II" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/946cf97516d3b2dff813a2ebe455ea55.png" alt="Cover for II" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Ava Adore</td>
@@ -1535,7 +1536,7 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/Vdmg9BB33LszpHvBTER3iVRHhzoOIpp1J-abrHQKevE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjE0/MzE3LTE2Njg4NjM1/OTctNDk4NS5qcGVn.jpeg" alt="Cover for I" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/25957a09b50d6b3208f47a5f64165cbc.png" alt="Cover for I" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Ava Adore</td>
@@ -1558,7 +1559,7 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
     <tr>
       <td>27</td>
       <td>
-          <img src="https://i.discogs.com/Vdmg9BB33LszpHvBTER3iVRHhzoOIpp1J-abrHQKevE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjE0/MzE3LTE2Njg4NjM1/OTctNDk4NS5qcGVn.jpeg" alt="Cover for III" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/726c6c490a018652f161f1076939f07c.png" alt="Cover for III" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Ava Adore</td>
@@ -1581,7 +1582,7 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/gMOctG34Ew5VZ9KY6Iul_P92I3G61mcT2HKgOvYMR84/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE3/MDc1LTE0OTUyMTgx/NDAtODI2Mi5qcGVn.jpeg" alt="Cover for Muses" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6bda52474472676f58ce380f8065614e.png" alt="Cover for Muses" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-11</td>
       <td>audiolepsia</td>
@@ -1621,7 +1622,7 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
     <tr>
       <td>3</td>
       <td>
-          <img src="https://i.discogs.com/fGvPo7zxKFY8CgxZPdxPGDMah7Re6jK_uUA817GkxU4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTE0/NTcxLTE2NTgwNzc3/NzMtMzU4MC5qcGVn.jpeg" alt="Cover for Oh, Little Sea!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/62ab15dca54fa3b575eb1bb45ed87bf2.png" alt="Cover for Oh, Little Sea!" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>Secondbest</td>
@@ -1700,7 +1701,7 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
     <tr>
       <td>19</td>
       <td>
-          <img src="https://i.discogs.com/q0ghI16r_FJQdH2w4_uXepCrrOlSUDWtEOa86-To2XM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTcw/NjE2LTE2MzY4NTM0/MjctNzgxOS5qcGVn.jpeg" alt="Cover for Planeta Crunch" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3316c7a23ce042a6c2c69e38921c0505.png" alt="Cover for Planeta Crunch" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-12-21</td>
       <td>Red Pèrill</td>
@@ -1762,7 +1763,7 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/zasrcrOOFXXAXBYztlck1VKgWxKQX3MXsNT3jlyswnA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODEw/NDk3LTE2NjYwMDgw/MzctOTQ3NS5qcGVn.jpeg" alt="Cover for Confines de la Cordura" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7f52734e3385b992c1bcaaf08c475761.png" alt="Cover for Confines de la Cordura" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-26</td>
       <td>Cruz</td>
@@ -1783,7 +1784,7 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
     <tr>
       <td>6</td>
       <td>
-          <img src="https://i.discogs.com/pmR8IfLrtU7p2GVHwmfh5Ofepm8XCMt2vSSjAx3Q7M4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDg2/NzExLTE2NzEyMzMy/NjgtMzY5OS5qcGVn.jpeg" alt="Cover for Swamp Money" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4f92895337b642fe0730aa63de3628d3.png" alt="Cover for Swamp Money" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-12-16</td>
       <td>Swamp Money</td>
@@ -1824,13 +1825,14 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 21</li>
+            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 80</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>22</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dcab6c4ff23314f5c6ab651934408230.png" alt="Cover for I A Pendre Pel Cul!" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Antitank</td>
@@ -1846,7 +1848,7 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/catalan" | relative_url }}">catalan</a> # 12</li>
+            <li> <a href="{{ "/tags/catalan" | relative_url }}">catalan</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1890,7 +1892,7 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/catalan" | relative_url }}">catalan</a> # 15</li>
+            <li> <a href="{{ "/tags/catalan" | relative_url }}">catalan</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1920,9 +1922,9 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 33</li>
-            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 42</li>
-            <li> <a href="{{ "/tags/puerto-rico" | relative_url }}">puerto rico</a> # 58</li>
+            <li> <a href="{{ "/tags/puerto-rico" | relative_url }}">puerto rico</a> # 43</li>
+            <li> <a href="{{ "/tags/disco-house" | relative_url }}">disco house</a> # 62</li>
+            <li> <a href="{{ "/tags/funky-house" | relative_url }}">funky house</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1943,13 +1945,14 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 61</li>
+            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>4</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2507eef50abe9a9cec2aa73f49491dd.png" alt="Cover for Home Demos - Volume Two" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Peter Clifton Solés</td>
@@ -1972,6 +1975,7 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
     <tr>
       <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f619434eaf8f56e0acbe298a57a0c93c.png" alt="Cover for Time Stretching" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Concomitance</td>
@@ -2132,6 +2136,7 @@ The &quot;barcelona&quot; tag captures the vibrant, multicultural sound emerging
     <tr>
       <td>25</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ae50cd2d0ef985047f84042e4aa025d4.png" alt="Cover for L&#39;Offense" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>butano bazaar</td>

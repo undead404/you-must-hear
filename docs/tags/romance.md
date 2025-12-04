@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T14:01:05.192Z
+date: 2025-12-04T07:16:56.594Z
 permalink: tags/romance
 title: romance
 ---
 
 ## romance
 
-Last updated: <time datetime="2025-11-26T14:01:05.192Z">Wed Nov 26 2025 16:01:05 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:16:56.594Z">Thu Dec 04 2025 09:16:56 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -142,11 +142,11 @@ Last updated: <time datetime="2025-11-26T14:01:05.192Z">Wed Nov 26 2025 16:01:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 28</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 53</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 56</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 56</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 56</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 57</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 72</li>
             <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 81</li>
             <li> <a href="{{ "/tags/british-invasion" | relative_url }}">british invasion</a> # 89</li>
         </ul>
@@ -206,12 +206,12 @@ Last updated: <time datetime="2025-11-26T14:01:05.192Z">Wed Nov 26 2025 16:01:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 11</li>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 76</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 24</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 89</li>
-            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 90</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 90</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 90</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 90</li>
+            <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 90</li>
             <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 94</li>
         </ul>
       </td>
@@ -234,7 +234,7 @@ Last updated: <time datetime="2025-11-26T14:01:05.192Z">Wed Nov 26 2025 16:01:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 67</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -255,7 +255,7 @@ Last updated: <time datetime="2025-11-26T14:01:05.192Z">Wed Nov 26 2025 16:01:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 57</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -308,12 +308,12 @@ Last updated: <time datetime="2025-11-26T14:01:05.192Z">Wed Nov 26 2025 16:01:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 17</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 43</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 46</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 46</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 47</li>
             <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 75</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -367,9 +367,9 @@ Last updated: <time datetime="2025-11-26T14:01:05.192Z">Wed Nov 26 2025 16:01:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 34</li>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 96</li>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 98</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 3</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 4</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 67</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 100</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 100</li>
             <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 100</li>
@@ -492,8 +492,8 @@ Last updated: <time datetime="2025-11-26T14:01:05.192Z">Wed Nov 26 2025 16:01:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 15</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 36</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 65</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -520,7 +520,7 @@ Last updated: <time datetime="2025-11-26T14:01:05.192Z">Wed Nov 26 2025 16:01:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 67</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 33</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 84</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 85</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 85</li>
@@ -694,12 +694,12 @@ Last updated: <time datetime="2025-11-26T14:01:05.192Z">Wed Nov 26 2025 16:01:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 19</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 45</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 48</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 48</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 49</li>
             <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 77</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -931,7 +931,7 @@ Last updated: <time datetime="2025-11-26T14:01:05.192Z">Wed Nov 26 2025 16:01:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 42</li>
+            <li> <a href="{{ "/tags/rock-nacional" | relative_url }}">rock nacional</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -959,12 +959,12 @@ Last updated: <time datetime="2025-11-26T14:01:05.192Z">Wed Nov 26 2025 16:01:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 49</li>
+            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 19</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 51</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 68</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 71</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 71</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 71</li>
-            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 82</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 71</li>
             <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 86</li>
         </ul>
       </td>
@@ -1007,7 +1007,7 @@ Last updated: <time datetime="2025-11-26T14:01:05.192Z">Wed Nov 26 2025 16:01:05
       <td>
         <ul>
             <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 17</li>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 82</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1026,7 +1026,7 @@ Last updated: <time datetime="2025-11-26T14:01:05.192Z">Wed Nov 26 2025 16:01:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 69</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1079,11 +1079,11 @@ Last updated: <time datetime="2025-11-26T14:01:05.192Z">Wed Nov 26 2025 16:01:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 22</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 48</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 51</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 51</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 52</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 78</li>
             <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 80</li>
         </ul>
       </td>
@@ -1169,7 +1169,7 @@ Last updated: <time datetime="2025-11-26T14:01:05.192Z">Wed Nov 26 2025 16:01:05
       <td>
         <ul>
             <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 35</li>
-            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 40</li>
+            <li> <a href="{{ "/tags/italo-disco" | relative_url }}">italo disco</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1221,11 +1221,11 @@ Last updated: <time datetime="2025-11-26T14:01:05.192Z">Wed Nov 26 2025 16:01:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 11</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 37</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 40</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 40</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 41</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1376,12 +1376,12 @@ Last updated: <time datetime="2025-11-26T14:01:05.192Z">Wed Nov 26 2025 16:01:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 46</li>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 85</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 15</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 55</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 92</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 93</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 93</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 93</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 93</li>
             <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 98</li>
         </ul>
       </td>
@@ -1440,12 +1440,12 @@ Last updated: <time datetime="2025-11-26T14:01:05.192Z">Wed Nov 26 2025 16:01:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 18</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 44</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 47</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 47</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 48</li>
             <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 76</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1551,13 +1551,13 @@ Last updated: <time datetime="2025-11-26T14:01:05.192Z">Wed Nov 26 2025 16:01:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 1</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 31</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 34</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 34</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 35</li>
             <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 61</li>
             <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 70</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1686,7 +1686,7 @@ Last updated: <time datetime="2025-11-26T14:01:05.192Z">Wed Nov 26 2025 16:01:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagode" | relative_url }}">pagode</a> # 77</li>
+            <li> <a href="{{ "/tags/pagode" | relative_url }}">pagode</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1746,8 +1746,8 @@ Last updated: <time datetime="2025-11-26T14:01:05.192Z">Wed Nov 26 2025 16:01:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 72</li>
-            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 80</li>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 21</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1770,9 +1770,9 @@ Last updated: <time datetime="2025-11-26T14:01:05.192Z">Wed Nov 26 2025 16:01:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 71</li>
-            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 88</li>
-            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 95</li>
+            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 6</li>
+            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 11</li>
+            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1810,8 +1810,8 @@ Last updated: <time datetime="2025-11-26T14:01:05.192Z">Wed Nov 26 2025 16:01:05
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pagode" | relative_url }}">pagode</a> # 13</li>
             <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 54</li>
-            <li> <a href="{{ "/tags/pagode" | relative_url }}">pagode</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1829,7 +1829,7 @@ Last updated: <time datetime="2025-11-26T14:01:05.192Z">Wed Nov 26 2025 16:01:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 76</li>
+            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1901,11 +1901,11 @@ Last updated: <time datetime="2025-11-26T14:01:05.192Z">Wed Nov 26 2025 16:01:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 36</li>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 82</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 18</li>
+            <li> <a href="{{ "/tags/disco" | relative_url }}">disco</a> # 65</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 91</li>
-            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 92</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 92</li>
+            <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 92</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 92</li>
             <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 97</li>
         </ul>
@@ -2102,7 +2102,7 @@ Last updated: <time datetime="2025-11-26T14:01:05.192Z">Wed Nov 26 2025 16:01:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 48</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 52</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 67</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 70</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 70</li>
@@ -2139,6 +2139,7 @@ Last updated: <time datetime="2025-11-26T14:01:05.192Z">Wed Nov 26 2025 16:01:05
     <tr>
       <td>67</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2fc33c7cd2331f9ad39b207268020a87.png" alt="Cover for The Awesome Album" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-19</td>
       <td>Mouse Rat</td>
@@ -2171,17 +2172,17 @@ Last updated: <time datetime="2025-11-26T14:01:05.192Z">Wed Nov 26 2025 16:01:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 22</li>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 29</li>
-            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 33</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 50</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 66</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 67</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 72</li>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 84</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 1</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 4</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 17</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 29</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 32</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 35</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 51</li>
+            <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 68</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 72</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 77</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 95</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 97</li>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2226,7 +2227,7 @@ Last updated: <time datetime="2025-11-26T14:01:05.192Z">Wed Nov 26 2025 16:01:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 41</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 60</li>
             <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 79</li>
             <li> <a href="{{ "/tags/boston" | relative_url }}">boston</a> # 90</li>
         </ul>
@@ -2255,12 +2256,12 @@ Last updated: <time datetime="2025-11-26T14:01:05.192Z">Wed Nov 26 2025 16:01:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 21</li>
             <li> <a href="{{ "/tags/mucajai" | relative_url }}">mucajai</a> # 47</li>
             <li> <a href="{{ "/tags/caracarai" | relative_url }}">caracarai</a> # 50</li>
             <li> <a href="{{ "/tags/boa-vista" | relative_url }}">boa vista</a> # 50</li>
             <li> <a href="{{ "/tags/roraima" | relative_url }}">roraima</a> # 51</li>
             <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 79</li>
+            <li> <a href="{{ "/tags/california" | relative_url }}">california</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -2300,8 +2301,8 @@ Last updated: <time datetime="2025-11-26T14:01:05.192Z">Wed Nov 26 2025 16:01:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 54</li>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 87</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 14</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -2371,7 +2372,7 @@ Last updated: <time datetime="2025-11-26T14:01:05.192Z">Wed Nov 26 2025 16:01:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 65</li>
+            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 36</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 85</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 92</li>
         </ul>
@@ -2412,9 +2413,9 @@ Last updated: <time datetime="2025-11-26T14:01:05.192Z">Wed Nov 26 2025 16:01:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 1</li>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 9</li>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 27</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 2</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 74</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -2434,8 +2435,8 @@ Last updated: <time datetime="2025-11-26T14:01:05.192Z">Wed Nov 26 2025 16:01:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 42</li>
-            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 78</li>
+            <li> <a href="{{ "/tags/rnb" | relative_url }}">rnb</a> # 23</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -2459,7 +2460,7 @@ Last updated: <time datetime="2025-11-26T14:01:05.192Z">Wed Nov 26 2025 16:01:05
       <td>
         <ul>
             <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 2</li>
-            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 89</li>
+            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -2500,9 +2501,9 @@ Last updated: <time datetime="2025-11-26T14:01:05.192Z">Wed Nov 26 2025 16:01:05
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 85</li>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 91</li>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 97</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 4</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 10</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 16</li>
         </ul>
       </td>
     </tr>

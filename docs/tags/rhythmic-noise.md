@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T14:00:22.047Z
+date: 2025-12-04T07:15:56.756Z
 permalink: tags/rhythmic-noise
 title: rhythmic noise
 ---
 
 ## rhythmic noise
 
-Last updated: <time datetime="2025-11-26T14:00:22.047Z">Wed Nov 26 2025 16:00:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:15:56.756Z">Thu Dec 04 2025 09:15:56 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -93,7 +93,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 70</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -115,8 +115,8 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 49</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 84</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 86</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 94</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 97</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 95</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 98</li>
             <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 99</li>
             <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 99</li>
         </ul>
@@ -160,13 +160,14 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 5</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 42</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 43</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 58</li>
             <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 79</li>
-            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 96</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 99</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 100</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 88</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 99</li>
             <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 100</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -246,7 +247,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 38</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 41</li>
             <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 98</li>
         </ul>
       </td>
@@ -266,7 +267,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 30</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -306,8 +307,8 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 37</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 70</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 31</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -333,7 +334,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 21</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -354,7 +355,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 41</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 60</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 61</li>
         </ul>
       </td>
@@ -396,7 +397,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 55</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -415,7 +416,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 77</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -478,11 +479,11 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 17</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 28</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 36</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 53</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 63</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 71</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 93</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 84</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 94</li>
             <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 95</li>
         </ul>
       </td>
@@ -502,8 +503,8 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 68</li>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 76</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 25</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -580,7 +581,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 56</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 45</li>
             <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 94</li>
         </ul>
       </td>
@@ -637,7 +638,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 13</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -676,7 +677,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 55</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -696,7 +697,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 50</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -803,12 +804,12 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 5</li>
             <li> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a> # 6</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 74</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 8</li>
+            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 9</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 27</li>
             <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 86</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 92</li>
-            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 92</li>
             <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 97</li>
             <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 97</li>
         </ul>
@@ -951,7 +952,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 67</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -972,7 +973,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 58</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1013,8 +1014,8 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 14</li>
-            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 52</li>
+            <li> <a href="{{ "/tags/dark-electro" | relative_url }}">dark electro</a> # 49</li>
+            <li> <a href="{{ "/tags/aggrotech" | relative_url }}">aggrotech</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1109,7 +1110,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 65</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 35</li>
             <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 98</li>
         </ul>
       </td>
@@ -1130,7 +1131,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 71</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1229,8 +1230,8 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 19</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 26</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 23</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1267,11 +1268,11 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 2</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 5</li>
             <li> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a> # 9</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 65</li>
+            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 16</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 36</li>
             <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 80</li>
-            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 85</li>
             <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 87</li>
             <li> <a href="{{ "/tags/ambient-electronica" | relative_url }}">ambient electronica</a> # 92</li>
             <li> <a href="{{ "/tags/industrial-noise" | relative_url }}">industrial noise</a> # 94</li>
@@ -1380,8 +1381,8 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 63</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 66</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 35</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1421,7 +1422,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 49</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 52</li>
             <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 97</li>
         </ul>
       </td>
@@ -1482,7 +1483,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 93</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1524,7 +1525,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 62</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1573,7 +1574,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       <td>
         <ul>
             <li> <a href="{{ "/tags/darkpsy" | relative_url }}">darkpsy</a> # 2</li>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 81</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 20</li>
             <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 96</li>
         </ul>
       </td>
@@ -1631,7 +1632,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 34</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1734,7 +1735,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 66</li>
+            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1792,7 +1793,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 36</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1816,9 +1817,9 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 5</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 19</li>
             <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 79</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 82</li>
-            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1842,11 +1843,11 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 60</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 88</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 3</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 10</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 41</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 89</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 91</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 98</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1890,9 +1891,9 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 54</li>
-            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 80</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 88</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 13</li>
+            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 21</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 47</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 89</li>
             <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 93</li>
             <li> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a> # 98</li>
@@ -1919,8 +1920,8 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 56</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 76</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 27</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1966,7 +1967,7 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 61</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1993,11 +1994,11 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       <td>
         <ul>
             <li> <a href="{{ "/tags/ritual-industrial" | relative_url }}">ritual industrial</a> # 3</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 33</li>
-            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 77</li>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 83</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 84</li>
-            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 92</li>
+            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 8</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 17</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 18</li>
+            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 24</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 70</li>
             <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 95</li>
         </ul>
       </td>
@@ -2042,8 +2043,8 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 34</li>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 82</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 19</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -2066,9 +2067,9 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 71</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 73</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 99</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 2</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 26</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -2096,10 +2097,10 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 47</li>
-            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 53</li>
-            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 78</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 85</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 16</li>
+            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 23</li>
+            <li> <a href="{{ "/tags/martial-industrial" | relative_url }}">martial industrial</a> # 48</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 54</li>
             <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 86</li>
             <li> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a> # 95</li>
         </ul>
@@ -2125,8 +2126,8 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 58</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 89</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 12</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -2149,10 +2150,10 @@ Rhythmic noise fuses harsh industrial textures with driving, often aggressive be
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 32</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 43</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 44</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 54</li>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 58</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 71</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 47</li>
         </ul>
       </td>
     </tr>

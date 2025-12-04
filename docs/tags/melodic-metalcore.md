@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T14:14:37.964Z
+date: 2025-12-04T07:21:05.115Z
 permalink: tags/melodic-metalcore
 title: melodic metalcore
 ---
 
 ## melodic metalcore
 
-Last updated: <time datetime="2025-11-26T14:14:37.964Z">Wed Nov 26 2025 16:14:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:21:05.115Z">Thu Dec 04 2025 09:21:05 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,9 +47,9 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 50</li>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 89</li>
-            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 93</li>
+            <li> <a href="{{ "/tags/sleaze-rock" | relative_url }}">sleaze rock</a> # 8</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 11</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -88,7 +88,7 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 59</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -106,8 +106,8 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 37</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 77</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 24</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -126,9 +126,9 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 2</li>
+            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 38</li>
             <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 46</li>
-            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 63</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -147,7 +147,7 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 72</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -168,9 +168,9 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 15</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 50</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 68</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 32</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 51</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -208,27 +208,6 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>92</td>
-      <td>
-          <img src="https://i.discogs.com/cJA7z7yAxnBy4NIj8ZDqTFWtIxtCaR4D8eqVMp9qj4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYz/NzIyLTE1OTU0OTYz/NjgtNzkyMi5qcGVn.jpeg" alt="Cover for Destruction or Strength" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>As I Lay Dying</td>
-      <td>Destruction or Strength</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -355,7 +334,7 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 27</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -383,9 +362,9 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 10</li>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 84</li>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 84</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 12</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 16</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 17</li>
             <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 99</li>
         </ul>
       </td>
@@ -409,9 +388,9 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 42</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 44</li>
             <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 56</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 57</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -492,8 +471,8 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 17</li>
             <li> <a href="{{ "/tags/trancecore" | relative_url }}">trancecore</a> # 72</li>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -603,10 +582,10 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 12</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 6</li>
             <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 55</li>
             <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 76</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 95</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -704,7 +683,7 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 79</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -747,8 +726,8 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 25</li>
-            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 89</li>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 12</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 65</li>
             <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 97</li>
         </ul>
       </td>
@@ -834,27 +813,6 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
     </tr>
     <tr>
-      <td>94</td>
-      <td>
-          <img src="https://i.discogs.com/-S9xZmDYecRYAjoVCN7RTV3LveB8HGogAclr-D6xqI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTIx/MzY1LTE2MjM1NDk5/NzMtOTQwMS5qcGVn.jpeg" alt="Cover for Roots Below" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2011-11-21</td>
-      <td>As I Lay Dying</td>
-      <td>Roots Below</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 11</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/938e68ad20d8e86e6739e15944ef03fc.png" alt="Cover for Each And Every Word Leaves Me Here Alone" style="max-width:120px; height:auto;" />
@@ -934,25 +892,6 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
     </tr>
     <tr>
-      <td>91</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/347e3bbb0f298f3838fb679a17ed5080.png" alt="Cover for Redefined" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012</td>
-      <td>As I Lay Dying</td>
-      <td>Redefined</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>63</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/93417f5b7b11e48cfc808dbb6108daeb.png" alt="Cover for True Defiance" style="max-width:120px; height:auto;" />
@@ -969,7 +908,7 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 41</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -988,25 +927,6 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>88</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/02a5eb460d960a6b1e96040561abc148.png" alt="Cover for My Own Grave" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012-06-25</td>
-      <td>As I Lay Dying</td>
-      <td>My Own Grave</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1069,8 +989,8 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 33</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 75</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 25</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 68</li>
             <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 95</li>
         </ul>
       </td>
@@ -1091,7 +1011,7 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 79</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1172,7 +1092,7 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 44</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1197,7 +1117,7 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 49</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1222,7 +1142,7 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 68</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1247,7 +1167,7 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 92</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1295,7 +1215,7 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 59</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1320,7 +1240,7 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 63</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1424,10 +1344,10 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 3</li>
             <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 35</li>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 37</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 43</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 58</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 63</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1470,7 +1390,7 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 62</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 38</li>
             <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 82</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 83</li>
         </ul>
@@ -1514,7 +1434,7 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 31</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1539,7 +1459,7 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 58</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1564,7 +1484,7 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 91</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1633,6 +1553,25 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
     </tr>
     <tr>
+      <td>88</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/02a5eb460d960a6b1e96040561abc148.png" alt="Cover for My Own Grave" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-06-06</td>
+      <td>As I Lay Dying</td>
+      <td>My Own Grave</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 39</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>73</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6263d4894565cf864f4e07272459527.png" alt="Cover for Gravity" style="max-width:120px; height:auto;" />
@@ -1673,14 +1612,14 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 1</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 22</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 29</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 78</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 85</li>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 88</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 90</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 11</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 12</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 15</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 23</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 69</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 79</li>
             <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 97</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1703,10 +1642,10 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 33</li>
             <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 36</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 53</li>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 62</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 38</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 48</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1769,7 +1708,7 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 64</li>
+            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1794,9 +1733,9 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 34</li>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 60</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 76</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 25</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 40</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 66</li>
             <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 97</li>
         </ul>
       </td>
@@ -1843,11 +1782,30 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 48</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 60</li>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 71</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 77</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 24</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 29</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 41</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 53</li>
             <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 88</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/347e3bbb0f298f3838fb679a17ed5080.png" alt="Cover for Redefined" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019-04-11</td>
+      <td>As I Lay Dying</td>
+      <td>Redefined</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1872,7 +1830,7 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 58</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 42</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 78</li>
             <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 80</li>
         </ul>
@@ -1894,6 +1852,27 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       <td>
         <ul>
             <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 26</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://i.discogs.com/cJA7z7yAxnBy4NIj8ZDqTFWtIxtCaR4D8eqVMp9qj4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjYz/NzIyLTE1OTU0OTYz/NjgtNzkyMi5qcGVn.jpeg" alt="Cover for Destruction or Strength" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2020-03-27</td>
+      <td>As I Lay Dying</td>
+      <td>Destruction or Strength</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1931,6 +1910,27 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://i.discogs.com/-S9xZmDYecRYAjoVCN7RTV3LveB8HGogAclr-D6xqI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MTIx/MzY1LTE2MjM1NDk5/NzMtOTQwMS5qcGVn.jpeg" alt="Cover for Roots Below" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2021-09-24</td>
+      <td>As I Lay Dying</td>
+      <td>Roots Below</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metal" | relative_url }}">metal</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1973,8 +1973,8 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 13</li>
             <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 45</li>
-            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -2078,9 +2078,9 @@ Melodic metalcore is a subgenre of metalcore that blends elements of melodic dea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 57</li>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 72</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 84</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 17</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 28</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 44</li>
             <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 98</li>
         </ul>
       </td>

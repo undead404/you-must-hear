@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-22T13:48:42.137Z
+date: 2025-12-04T07:19:13.693Z
 permalink: tags/vocal-jazz
 title: vocal jazz
 ---
 
 ## vocal jazz
 
-Last updated: <time datetime="2025-11-22T13:48:42.137Z">Sat Nov 22 2025 15:48:42 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:19:13.693Z">Thu Dec 04 2025 09:19:13 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -61,8 +61,8 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 62</li>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 87</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 12</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -81,8 +81,8 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 98</li>
-            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 100</li>
+            <li> <a href="{{ "/tags/cool-jazz" | relative_url }}">cool jazz</a> # 1</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -124,7 +124,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 24</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -161,9 +161,9 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 34</li>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 84</li>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 92</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 7</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 17</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -258,7 +258,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 36</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -313,7 +313,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 78</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -348,7 +348,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 79</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -367,7 +367,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 5</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -388,7 +388,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 71</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -408,8 +408,8 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 74</li>
-            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 77</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 24</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -448,7 +448,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 89</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -468,7 +468,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 95</li>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -531,10 +531,10 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 61</li>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 3</li>
+            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 9</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 40</li>
             <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 83</li>
-            <li> <a href="{{ "/tags/spiritual-jazz" | relative_url }}">spiritual jazz</a> # 92</li>
-            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -590,7 +590,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 63</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -608,7 +608,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 63</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -719,7 +719,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 81</li>
+            <li> <a href="{{ "/tags/a-capella" | relative_url }}">a capella</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -758,8 +758,8 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 82</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 82</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 19</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -779,7 +779,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 79</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -820,7 +820,8 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 82</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 19</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1069,8 +1070,8 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 65</li>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 95</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 5</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1089,7 +1090,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 99</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1109,7 +1110,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mastersinger" | relative_url }}">mastersinger</a> # 96</li>
+            <li> <a href="{{ "/tags/mastersinger" | relative_url }}">mastersinger</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1131,7 +1132,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crooners" | relative_url }}">crooners</a> # 95</li>
+            <li> <a href="{{ "/tags/crooners" | relative_url }}">crooners</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1152,7 +1153,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 80</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1205,8 +1206,8 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 26</li>
-            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 89</li>
+            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 12</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 58</li>
             <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 96</li>
             <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 99</li>
         </ul>
@@ -1302,7 +1303,6 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1339,7 +1339,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 92</li>
+            <li> <a href="{{ "/tags/svenskt" | relative_url }}">svenskt</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1436,8 +1436,8 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 2</li>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 15</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 84</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1456,7 +1456,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 10</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1493,7 +1493,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 12</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1608,7 +1608,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 78</li>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1701,14 +1701,14 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 71</li>
+            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>88</td>
       <td>
-          <img src="https://i.discogs.com/p1yRQUpxPMrgpdj9F5vwgVc8aLId_QWeAj7OY470S28/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTQ3/NzQtMTM2OTA0Njcy/OS01MzMyLmpwZWc.jpeg" alt="Cover for This Time I&#39;m Swingin&#39;" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/345404b835a741acc1e06c2abcbbd63e.png" alt="Cover for This Time I&#39;m Swingin&#39;" style="max-width:120px; height:auto;" />
       </td>
       <td>2017</td>
       <td>Dean Martin</td>
@@ -1721,7 +1721,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 82</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1815,8 +1815,8 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 37</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 92</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 8</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 56</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 98</li>
         </ul>
       </td>
@@ -1835,8 +1835,8 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 55</li>
-            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 88</li>
+            <li> <a href="{{ "/tags/traditional-pop" | relative_url }}">traditional pop</a> # 11</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1875,8 +1875,8 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 83</li>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 93</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 8</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1916,8 +1916,8 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 97</li>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 100</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 1</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1938,7 +1938,7 @@ Vocal jazz is a form of jazz music that features singers or vocalists performing
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 80</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 21</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-22T13:43:51.117Z
+date: 2025-12-04T07:12:25.616Z
 permalink: tags/venezuela
 title: venezuela
 ---
 
 ## venezuela
 
-Last updated: <time datetime="2025-11-22T13:43:51.117Z">Sat Nov 22 2025 15:43:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:12:25.616Z">Thu Dec 04 2025 09:12:25 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -287,7 +287,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romantica" | relative_url }}">romantica</a> # 93</li>
+            <li> <a href="{{ "/tags/romantica" | relative_url }}">romantica</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -313,7 +313,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/nkfJybRIFMrNkVcsUGtskz7hM6uyUVyNsiyAD2LlvRY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTc2/OTgtMTQyNTk3MTA3/Ny05ODQ0LmpwZWc.jpeg" alt="Cover for Escalofrio" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dd1e6816ddbe454eb0d3aa8012bf2877.png" alt="Cover for Escalofrio" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Paul Gillman</td>
@@ -366,7 +366,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romantica" | relative_url }}">romantica</a> # 71</li>
+            <li> <a href="{{ "/tags/romantica" | relative_url }}">romantica</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -836,7 +836,6 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/G1aecFZdypJW17L3RAi5XFvVxLZ6SwsuDCBM8FaYF1c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDk3/ODktMTQ0NDQ5NDkw/OS0xOTA3LmpwZWc.jpeg" alt="Cover for Acid Girlzzz Demo" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-10-13</td>
       <td>Todosantos</td>
@@ -858,9 +857,9 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 21</li>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 29</li>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 35</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 37</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 72</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -888,10 +887,10 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 17</li>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 35</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 55</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 68</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 20</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 33</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 45</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -912,7 +911,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 52</li>
+            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -954,7 +953,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 65</li>
+            <li> <a href="{{ "/tags/acid-jazz" | relative_url }}">acid jazz</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -995,27 +994,6 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>100</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee298625884489a75f8da00c31036f43.png" alt="Cover for Muerte" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012</td>
-      <td>Canserbero</td>
-      <td>Muerte</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1068,6 +1046,24 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ee298625884489a75f8da00c31036f43.png" alt="Cover for Muerte" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012</td>
+      <td>Canserbero</td>
+      <td>Muerte</td>
+      <td>
+        <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a></li>
         </ul>
       </td>
@@ -1219,7 +1215,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/7WyVpXpsxmYi1nQt05WrQd6HAxu53Ddz95uc75AQYPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzI0/NjAtMTM0OTY4MjM1/MC0zMTU1LmpwZWc.jpeg" alt="Cover for Terminal" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/295008d46a0a4c98a6fe73fea3db97bb.png" alt="Cover for Terminal" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-11-03</td>
       <td>Días de Septiembre</td>
@@ -1354,7 +1350,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/TNiRBcgH7PeGPbokRho4LFiGQpckWJI_7DZBt3bu2iY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTY2/NjI2LTE2MTY0NTAx/NTUtNjA3NS5qcGVn.jpeg" alt="Cover for Siempre Firmes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/42a89377eeb2117271eb2fc7e17ebb1c.png" alt="Cover for Siempre Firmes" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-07-01</td>
       <td>Curva Sur</td>
@@ -1465,7 +1461,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 50</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1569,24 +1565,6 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
     </tr>
     <tr>
-      <td>92</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4ece1a1230832385be64082d69414cd.png" alt="Cover for APA Y CAN" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2022-05-01</td>
-      <td>Canserbero</td>
-      <td>APA Y CAN</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>97</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/58204e3be0084f9806a1079bd94fbb1f.png" alt="Cover for Vida" style="max-width:120px; height:auto;" />
@@ -1594,6 +1572,24 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       <td>2022-05-01</td>
       <td>Canserbero</td>
       <td>Vida</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 77</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f4ece1a1230832385be64082d69414cd.png" alt="Cover for APA Y CAN" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2022-05-01</td>
+      <td>Canserbero</td>
+      <td>APA Y CAN</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/venezuela" | relative_url }}">venezuela</a></li>
@@ -1664,7 +1660,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 57</li>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1700,11 +1696,11 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 4</li>
-            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 18</li>
-            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 21</li>
-            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 27</li>
-            <li> <a href="{{ "/tags/puerto-rico" | relative_url }}">puerto rico</a> # 67</li>
+            <li> <a href="{{ "/tags/puerto-rico" | relative_url }}">puerto rico</a> # 34</li>
+            <li> <a href="{{ "/tags/bachata" | relative_url }}">bachata</a> # 74</li>
+            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 80</li>
+            <li> <a href="{{ "/tags/spain" | relative_url }}">spain</a> # 83</li>
+            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1726,8 +1722,8 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 64</li>
-            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 94</li>
+            <li> <a href="{{ "/tags/rumba" | relative_url }}">rumba</a> # 7</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1746,7 +1742,7 @@ Venezuelan music encompasses a vibrant mix of Caribbean rhythms, Andean folk tra
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 77</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 21</li>
         </ul>
       </td>
     </tr>

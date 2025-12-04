@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T12:37:10.252Z
+date: 2025-12-04T07:59:52.112Z
 permalink: tags/bitcore
 title: bitcore
 ---
 
 ## bitcore
 
-Last updated: <time datetime="2025-11-25T12:37:10.252Z">Tue Nov 25 2025 14:37:10 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:59:52.112Z">Thu Dec 04 2025 09:59:52 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -121,8 +121,8 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 6</li>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 58</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 43</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -146,8 +146,8 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 43</li>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 68</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 33</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -174,7 +174,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 35</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -307,7 +307,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 4</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -331,7 +331,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 7</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -353,7 +353,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 22</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -380,7 +380,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 19</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 80</li>
             <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 83</li>
         </ul>
       </td>
@@ -399,9 +399,9 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 10</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 14</li>
             <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 19</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 86</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -425,9 +425,9 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 38</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 73</li>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 78</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 23</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 26</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -454,7 +454,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 22</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 78</li>
             <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 84</li>
         </ul>
       </td>
@@ -482,8 +482,8 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 12</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 16</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 83</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -526,8 +526,8 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 4</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 62</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 37</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -551,8 +551,8 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 37</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 77</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 22</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -575,6 +575,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -618,9 +619,9 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 12</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 66</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 33</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 77</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -644,7 +645,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 3</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -685,7 +686,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 39</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 60</li>
             <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 77</li>
         </ul>
       </td>
@@ -709,7 +710,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 37</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -734,7 +735,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 54</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -760,8 +761,9 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 55</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 60</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 38</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 46</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -856,7 +858,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 34</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -883,7 +885,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 13</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -901,8 +903,9 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 57</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 78</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 24</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 42</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -921,6 +924,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -945,10 +949,10 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 91</li>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 93</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 97</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 97</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 4</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 4</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 8</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -972,9 +976,9 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 89</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 95</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 95</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 6</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 6</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -998,7 +1002,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 34</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1087,7 +1091,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 69</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1135,9 +1139,9 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 41</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 44</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 68</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 33</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 56</li>
+            <li> <a href="{{ "/tags/dance-punk" | relative_url }}">dance-punk</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1163,7 +1167,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 11</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1211,7 +1215,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 37</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1261,9 +1265,9 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 50</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 32</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 49</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 68</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1285,8 +1289,8 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 38</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 74</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 27</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1332,7 +1336,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 48</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1423,9 +1427,9 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 46</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 81</li>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 85</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 15</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 19</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1472,7 +1476,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 20</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1518,7 +1522,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 26</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1543,7 +1547,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 52</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1617,8 +1621,8 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 25</li>
             <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 46</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1643,7 +1647,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 65</li>
+            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1667,7 +1671,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 43</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1696,9 +1700,9 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 7</li>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 25</li>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 69</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 32</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 76</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1721,7 +1725,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 55</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1767,7 +1771,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 44</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1795,8 +1799,8 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 28</li>
             <li> <a href="{{ "/tags/alternative-electronic" | relative_url }}">alternative electronic</a> # 63</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1820,7 +1824,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 35</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1872,7 +1876,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 51</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1894,7 +1898,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 54</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1944,7 +1948,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 42</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -2011,7 +2015,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 21</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -2036,7 +2040,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 33</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -2061,7 +2065,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 15</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -2082,7 +2086,7 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 36</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -2104,8 +2108,8 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 14</li>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 67</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 34</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -2130,9 +2134,9 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 33</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 66</li>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 75</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 26</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 35</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -2154,8 +2158,8 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 36</li>
-            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 77</li>
+            <li> <a href="{{ "/tags/nintendocore" | relative_url }}">nintendocore</a> # 24</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -2179,8 +2183,8 @@ Bitcore fuses the raw energy of hardcore punk and metal with the nostalgic, pixe
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 51</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 79</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 22</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 48</li>
         </ul>
       </td>
     </tr>

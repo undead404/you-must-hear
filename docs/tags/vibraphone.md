@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T03:05:04.717Z
+date: 2025-12-04T07:14:08.920Z
 permalink: tags/vibraphone
 title: vibraphone
 ---
 
 ## vibraphone
 
-Last updated: <time datetime="2025-10-22T03:05:04.717Z">Wed Oct 22 2025 06:05:04 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T07:14:08.920Z">Thu Dec 04 2025 09:14:08 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,7 +44,7 @@ The vibraphone is a jazz mallet instrument with metal bars and motor-driven reso
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 8</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -175,7 +175,7 @@ The vibraphone is a jazz mallet instrument with metal bars and motor-driven reso
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 54</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -195,7 +195,7 @@ The vibraphone is a jazz mallet instrument with metal bars and motor-driven reso
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 4</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -235,13 +235,14 @@ The vibraphone is a jazz mallet instrument with metal bars and motor-driven reso
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 95</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9072e332e59487b967317bbe8eddbb77.png" alt="Cover for Components" style="max-width:120px; height:auto;" />
       </td>
       <td>1965</td>
       <td>Bobby Hutcherson</td>
@@ -254,7 +255,7 @@ The vibraphone is a jazz mallet instrument with metal bars and motor-driven reso
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 67</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -279,8 +280,8 @@ The vibraphone is a jazz mallet instrument with metal bars and motor-driven reso
       <td>
         <ul>
             <li> <a href="{{ "/tags/mambo" | relative_url }}">mambo</a> # 9</li>
-            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 50</li>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 92</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 10</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -346,7 +347,7 @@ The vibraphone is a jazz mallet instrument with metal bars and motor-driven reso
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/dLCgx5RYUZPXpIcFQxunxwDdOjA9Sv0-NPfOcM3DC3M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2Mzc2/NS0xMzI4NzAzMzA5/LmpwZWc.jpeg" alt="Cover for Stoned Soul Picnic" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/44f5ed3306054137ff6d2e12639ae080.png" alt="Cover for Stoned Soul Picnic" style="max-width:120px; height:auto;" />
       </td>
       <td>1968</td>
       <td>Roy Ayers</td>
@@ -379,6 +380,7 @@ The vibraphone is a jazz mallet instrument with metal bars and motor-driven reso
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -461,7 +463,7 @@ The vibraphone is a jazz mallet instrument with metal bars and motor-driven reso
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/2BbjYi_uu4DVxEvPHtEFqo8sMI55m0vv2dA-F_zwqOg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NjA3/MC0xMzAyMTg3MDg2/LmpwZWc.jpeg" alt="Cover for Sunflower" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cf10274e34fcb45ad5a5f334a085905a.png" alt="Cover for Sunflower" style="max-width:120px; height:auto;" />
       </td>
       <td>1973</td>
       <td>Milt Jackson</td>
@@ -474,7 +476,7 @@ The vibraphone is a jazz mallet instrument with metal bars and motor-driven reso
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 59</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -538,8 +540,8 @@ The vibraphone is a jazz mallet instrument with metal bars and motor-driven reso
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 11</li>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 88</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 14</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -633,7 +635,7 @@ The vibraphone is a jazz mallet instrument with metal bars and motor-driven reso
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 34</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -654,7 +656,7 @@ The vibraphone is a jazz mallet instrument with metal bars and motor-driven reso
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 18</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -679,7 +681,7 @@ The vibraphone is a jazz mallet instrument with metal bars and motor-driven reso
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/Ll17Enp2mAg6ZfsRvcUCbX28KoodOhepVvzMGwBzkPI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxOTQ1/OTAtMTM4NzExMDU2/MC02MTU3LnBuZw.jpeg" alt="Cover for Everybody Loves The Sunshine" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3b7e19202bcdc06cdd7feb49412cce3.png" alt="Cover for Everybody Loves The Sunshine" style="max-width:120px; height:auto;" />
       </td>
       <td>1982</td>
       <td>Roy Ayers</td>
@@ -692,7 +694,7 @@ The vibraphone is a jazz mallet instrument with metal bars and motor-driven reso
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 98</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -719,7 +721,7 @@ The vibraphone is a jazz mallet instrument with metal bars and motor-driven reso
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/Urk1MUNbUP4faU6BS_jbgQffBG5qGhcPCSRFpk7sm6Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNzcy/MTMtMTM4NjYxNDgz/Ny01NjQyLmpwZWc.jpeg" alt="Cover for Change Up the Groove" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9dacddef9089d1f53d7e75b3bddc6a7a.png" alt="Cover for Change Up the Groove" style="max-width:120px; height:auto;" />
       </td>
       <td>1982</td>
       <td>Roy Ayers</td>
@@ -770,7 +772,7 @@ The vibraphone is a jazz mallet instrument with metal bars and motor-driven reso
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 1</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -866,7 +868,7 @@ The vibraphone is a jazz mallet instrument with metal bars and motor-driven reso
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 7</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -907,7 +909,7 @@ The vibraphone is a jazz mallet instrument with metal bars and motor-driven reso
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 45</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -954,6 +956,7 @@ The vibraphone is a jazz mallet instrument with metal bars and motor-driven reso
     <tr>
       <td>24</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5534932a0b0f447ec42d3f90f6b086a3.png" alt="Cover for Reunion" style="max-width:120px; height:auto;" />
       </td>
       <td>1990-01</td>
       <td>Gary Burton</td>
@@ -1068,7 +1071,7 @@ The vibraphone is a jazz mallet instrument with metal bars and motor-driven reso
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/b9EeuSDj6H2o0N829OBAkwC7OPBcu1HOQIrrxdCmjTw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njg0/MTMtMTY3Mjc3NjQ4/MC01MzQ2LmpwZWc.jpeg" alt="Cover for San Francisco" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/70f390389c228ab081899947197e2c4c.png" alt="Cover for San Francisco" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-12-02</td>
       <td>Bobby Hutcherson</td>
@@ -1081,7 +1084,28 @@ The vibraphone is a jazz mallet instrument with metal bars and motor-driven reso
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 99</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 2</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/46007b2573cf49c685ed79bd477bfc0c.png" alt="Cover for A Shining Symbol" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1993</td>
+      <td>Roy Ayers</td>
+      <td>A Shining Symbol</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
+            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/vibraphone" | relative_url }}">vibraphone</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1127,25 +1151,6 @@ The vibraphone is a jazz mallet instrument with metal bars and motor-driven reso
       </td>
     </tr>
     <tr>
-      <td>94</td>
-      <td>
-      </td>
-      <td>1993</td>
-      <td>Roy Ayers</td>
-      <td>A Shining Symbol</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/funk" | relative_url }}">funk</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 64 / 100)"> <a href="{{ "/tags/vibraphone" | relative_url }}">vibraphone</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>96</td>
       <td>
           <img src="https://i.discogs.com/UKR2rC6YqYqcKqx-hHSCMSsPGIlsuI_nvqEkmzzPEj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTAz/ODMtMTUwNzIwNzc1/MS04OTQxLmpwZWc.jpeg" alt="Cover for All Star Sessions: Hot Mallets, Vol. 2" style="max-width:120px; height:auto;" />
@@ -1159,7 +1164,7 @@ The vibraphone is a jazz mallet instrument with metal bars and motor-driven reso
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 54</li>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1179,7 +1184,7 @@ The vibraphone is a jazz mallet instrument with metal bars and motor-driven reso
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 20</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1202,8 +1207,8 @@ The vibraphone is a jazz mallet instrument with metal bars and motor-driven reso
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 38</li>
             <li> <a href="{{ "/tags/mambo" | relative_url }}">mambo</a> # 60</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1225,7 +1230,7 @@ The vibraphone is a jazz mallet instrument with metal bars and motor-driven reso
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 9</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1246,7 +1251,7 @@ The vibraphone is a jazz mallet instrument with metal bars and motor-driven reso
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 81</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1288,7 +1293,7 @@ The vibraphone is a jazz mallet instrument with metal bars and motor-driven reso
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 49</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1327,7 +1332,7 @@ The vibraphone is a jazz mallet instrument with metal bars and motor-driven reso
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 55</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1621,7 +1626,7 @@ The vibraphone is a jazz mallet instrument with metal bars and motor-driven reso
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 27</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1642,7 +1647,7 @@ The vibraphone is a jazz mallet instrument with metal bars and motor-driven reso
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 53</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1700,7 +1705,7 @@ The vibraphone is a jazz mallet instrument with metal bars and motor-driven reso
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 48</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1726,7 +1731,7 @@ The vibraphone is a jazz mallet instrument with metal bars and motor-driven reso
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/Urk1MUNbUP4faU6BS_jbgQffBG5qGhcPCSRFpk7sm6Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNzcy/MTMtMTM4NjYxNDgz/Ny01NjQyLmpwZWc.jpeg" alt="Cover for The Universal Masters Collection" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50ee3233eb7e4853bec6b182efefe984.png" alt="Cover for The Universal Masters Collection" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
       <td>Roy Ayers</td>
@@ -1745,6 +1750,7 @@ The vibraphone is a jazz mallet instrument with metal bars and motor-driven reso
     <tr>
       <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4638e5eb1eb64c318a0e42f048d152f9.png" alt="Cover for Quiet Songs" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-04-26</td>
       <td>Aisha Duo</td>
@@ -1901,7 +1907,7 @@ The vibraphone is a jazz mallet instrument with metal bars and motor-driven reso
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 94</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1927,7 +1933,7 @@ The vibraphone is a jazz mallet instrument with metal bars and motor-driven reso
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/0BJC0Q6DlN2ZioPwOx9O98kbz50EMHRoVXlFVqX1Gvc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTE0/MjcxLTE2MTczNDc0/MzktNjYyNy5qcGVn.jpeg" alt="Cover for The Machine is burning and now everyone knows it could happen again" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/504d92028d48aaa0647919daab33851e.png" alt="Cover for The Machine is burning and now everyone knows it could happen again" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-04-02</td>
       <td>BRUIT ≤</td>
@@ -1949,6 +1955,7 @@ The vibraphone is a jazz mallet instrument with metal bars and motor-driven reso
     <tr>
       <td>2</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bd63b7508854958e84a27847ad4a6876.png" alt="Cover for missing teens" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Da Spooj &#x2F; James &quot;the REAL James&quot; Call &#x2F; German Cars vs American Homes</td>

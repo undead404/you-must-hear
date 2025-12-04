@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-12T18:44:23.679Z
+date: 2025-12-04T07:20:30.017Z
 permalink: tags/oregon
 title: oregon
 ---
 
 ## oregon
 
-Last updated: <time datetime="2025-11-12T18:44:23.679Z">Wed Nov 12 2025 20:44:23 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:20:30.017Z">Thu Dec 04 2025 09:20:30 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ Oregon’s music scene is diverse, reflecting the array of styles present in Ame
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/HRbBET30E8ksjeJcAZyvFRhFftyeHhTWhY2zABgjzc8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjAz/MTQtMTM0MDUzNTU3/Ni04NzIzLmpwZWc.jpeg" alt="Cover for Music Of Another Present Era" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/13b9de41210c4131c15b6c4517859fae.png" alt="Cover for Music Of Another Present Era" style="max-width:120px; height:auto;" />
       </td>
       <td>1972</td>
       <td>Oregon</td>
@@ -195,8 +195,8 @@ Oregon’s music scene is diverse, reflecting the array of styles present in Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 21</li>
-            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 87</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 75</li>
+            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -239,7 +239,7 @@ Oregon’s music scene is diverse, reflecting the array of styles present in Ame
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/_HUDCKOafb8aqsl5QMOSZhQbYSf9yP_x7TgI5PgEodg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ5/NzgxLTE1MTI3MzQ4/MjgtNDU2Mi5qcGVn.jpeg" alt="Cover for Light Years" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/181c3a61ad3742b091965ebe55a91d0d.png" alt="Cover for Light Years" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Talkative</td>
@@ -264,8 +264,8 @@ Oregon’s music scene is diverse, reflecting the array of styles present in Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 9</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 37</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 63</li>
+            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -561,7 +561,7 @@ Oregon’s music scene is diverse, reflecting the array of styles present in Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 56</li>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -626,9 +626,9 @@ Oregon’s music scene is diverse, reflecting the array of styles present in Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ragtime" | relative_url }}">ragtime</a> # 10</li>
-            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 33</li>
-            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 61</li>
+            <li> <a href="{{ "/tags/switzerland" | relative_url }}">switzerland</a> # 38</li>
+            <li> <a href="{{ "/tags/avant-prog" | relative_url }}">avant-prog</a> # 64</li>
+            <li> <a href="{{ "/tags/ragtime" | relative_url }}">ragtime</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -648,7 +648,7 @@ Oregon’s music scene is diverse, reflecting the array of styles present in Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 33</li>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -678,7 +678,7 @@ Oregon’s music scene is diverse, reflecting the array of styles present in Ame
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/XnSqby_Gh6NLAStunjsr0LHXc6Yq8WVPtC5btsseB2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUx/MDI1LTE1MTA3OTA2/NDQtMTEzMC5qcGVn.jpeg" alt="Cover for Destiny &amp; Dishonor" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/17ab9362abef672640bf2517393fe34f.png" alt="Cover for Destiny &amp; Dishonor" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-11-13</td>
       <td>Donerail</td>
@@ -701,7 +701,7 @@ Oregon’s music scene is diverse, reflecting the array of styles present in Ame
     <tr>
       <td>3</td>
       <td>
-          <img src="https://i.discogs.com/nojKDkrYIK5ZoRR3Qr-xDNN4DV0zf2rHg9S0PrAUgIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYz/Mzg2LTE2MjgyNTQy/NjMtNTU4MC5qcGVn.jpeg" alt="Cover for Cowboy Up!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98ed2a245e6041a987070129b6e89aab.png" alt="Cover for Cowboy Up!" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Amy Clawson</td>
@@ -742,10 +742,10 @@ Oregon’s music scene is diverse, reflecting the array of styles present in Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 22</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 38</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 55</li>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 55</li>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 46</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 47</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 60</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -815,9 +815,9 @@ Oregon’s music scene is diverse, reflecting the array of styles present in Ame
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 37</li>
             <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 37</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 64</li>
-            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 74</li>
+            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 73</li>
             <li> <a href="{{ "/tags/european-jazz" | relative_url }}">european jazz</a> # 99</li>
         </ul>
       </td>
@@ -899,7 +899,7 @@ Oregon’s music scene is diverse, reflecting the array of styles present in Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 63</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -942,7 +942,7 @@ Oregon’s music scene is diverse, reflecting the array of styles present in Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 5</li>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -962,7 +962,7 @@ Oregon’s music scene is diverse, reflecting the array of styles present in Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 22</li>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -987,7 +987,7 @@ Oregon’s music scene is diverse, reflecting the array of styles present in Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 38</li>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1006,14 +1006,14 @@ Oregon’s music scene is diverse, reflecting the array of styles present in Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 72</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/gPEmbB7XwYgq5bMVvBwVoylNYiDVeVB4kOtFLKfsC_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NzU0/NjMtMTQyMDE0ODA2/MS0xMDE1LmpwZWc.jpeg" alt="Cover for Hand in Hand" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/49aaa8df5e0a4b56cbf2ee4fea65592d.png" alt="Cover for Hand in Hand" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-12-10</td>
       <td>Shadowhouse</td>
@@ -1050,7 +1050,7 @@ Oregon’s music scene is diverse, reflecting the array of styles present in Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 10</li>
+            <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1073,7 +1073,7 @@ Oregon’s music scene is diverse, reflecting the array of styles present in Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 24</li>
+            <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1274,7 +1274,7 @@ Oregon’s music scene is diverse, reflecting the array of styles present in Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 45</li>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1367,7 +1367,7 @@ Oregon’s music scene is diverse, reflecting the array of styles present in Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 1</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1421,7 +1421,7 @@ Oregon’s music scene is diverse, reflecting the array of styles present in Ame
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/sUy2UN1VEuU_eqEQeztK7pHU4UxXDgT5GYAn3oMHRtE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NzMw/NTEtMTM5NjkwOTEw/Ni0yNzQ5LmpwZWc.jpeg" alt="Cover for Get Rich Or Die Crying" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3d7f1dfeef9268c77981ab78bcc43fd.png" alt="Cover for Get Rich Or Die Crying" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-10-21</td>
       <td>Noise Brigade</td>
@@ -1483,8 +1483,8 @@ Oregon’s music scene is diverse, reflecting the array of styles present in Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 11</li>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 99</li>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 2</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1528,7 +1528,7 @@ Oregon’s music scene is diverse, reflecting the array of styles present in Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 28</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1763,11 +1763,11 @@ Oregon’s music scene is diverse, reflecting the array of styles present in Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 22</li>
-            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 23</li>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 26</li>
-            <li> <a href="{{ "/tags/keyboard" | relative_url }}">keyboard</a> # 80</li>
-            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 80</li>
+            <li> <a href="{{ "/tags/keyboard" | relative_url }}">keyboard</a> # 21</li>
+            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 21</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 25</li>
+            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 78</li>
+            <li> <a href="{{ "/tags/portland" | relative_url }}">portland</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1790,7 +1790,7 @@ Oregon’s music scene is diverse, reflecting the array of styles present in Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 55</li>
+            <li> <a href="{{ "/tags/los-angeles" | relative_url }}">los angeles</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1833,7 +1833,7 @@ Oregon’s music scene is diverse, reflecting the array of styles present in Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 15</li>
+            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1874,13 +1874,14 @@ Oregon’s music scene is diverse, reflecting the array of styles present in Ame
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 41</li>
+            <li> <a href="{{ "/tags/feminist" | relative_url }}">feminist</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/31246682d855a2998a072d996f64c46f.png" alt="Cover for Whisper Out Loud" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Core13</td>
@@ -1981,6 +1982,7 @@ Oregon’s music scene is diverse, reflecting the array of styles present in Ame
     <tr>
       <td>19</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bcc89aec36474251c219112c80e2692f.png" alt="Cover for Vacant Hands" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Vigil Wolves</td>
@@ -2059,6 +2061,7 @@ Oregon’s music scene is diverse, reflecting the array of styles present in Ame
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a29e5de146d8982237f0fbe37e9d5bae.png" alt="Cover for Oxycretin" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Rank and Vile</td>

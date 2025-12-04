@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-22T13:49:56.502Z
+date: 2025-12-04T07:21:11.537Z
 permalink: tags/tishoumaren
 title: tishoumaren
 ---
 
 ## tishoumaren
 
-Last updated: <time datetime="2025-11-22T13:49:56.502Z">Sat Nov 22 2025 15:49:56 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:21:11.537Z">Thu Dec 04 2025 09:21:11 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -147,7 +147,7 @@ Tishoumaren is the hypnotic desert blues of the Tuareg people of the Sahara, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 28</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 72</li>
             <li> <a href="{{ "/tags/takamba" | relative_url }}">takamba</a> # 77</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 98</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 100</li>
@@ -709,10 +709,10 @@ Tishoumaren is the hypnotic desert blues of the Tuareg people of the Sahara, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 89</li>
+            <li> <a href="{{ "/tags/nashville" | relative_url }}">nashville</a> # 2</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 2</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 12</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 98</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 99</li>
-            <li> <a href="{{ "/tags/nashville" | relative_url }}">nashville</a> # 99</li>
             <li> <a href="{{ "/tags/takamba" | relative_url }}">takamba</a> # 100</li>
         </ul>
       </td>
@@ -1190,8 +1190,8 @@ Tishoumaren is the hypnotic desert blues of the Tuareg people of the Sahara, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 43</li>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 96</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 5</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 44</li>
             <li> <a href="{{ "/tags/takamba" | relative_url }}">takamba</a> # 96</li>
         </ul>
       </td>
@@ -1352,7 +1352,7 @@ Tishoumaren is the hypnotic desert blues of the Tuareg people of the Sahara, ble
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/algeria" | relative_url }}">algeria</a> # 100</li>
+            <li> <a href="{{ "/tags/algeria" | relative_url }}">algeria</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1477,8 +1477,8 @@ Tishoumaren is the hypnotic desert blues of the Tuareg people of the Sahara, ble
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/mali" | relative_url }}">mali</a> # 10</li>
             <li> <a href="{{ "/tags/african" | relative_url }}">african</a> # 68</li>
-            <li> <a href="{{ "/tags/mali" | relative_url }}">mali</a> # 91</li>
             <li> <a href="{{ "/tags/takamba" | relative_url }}">takamba</a> # 97</li>
         </ul>
       </td>
@@ -1626,6 +1626,7 @@ Tishoumaren is the hypnotic desert blues of the Tuareg people of the Sahara, ble
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/97cdb459500b01fcd2c840f3edec48e0.png" alt="Cover for Afrique Victime" style="max-width:120px; height:auto;" />
       </td>
       <td>2021</td>
       <td>Mdou Moctar</td>
@@ -2026,6 +2027,7 @@ Tishoumaren is the hypnotic desert blues of the Tuareg people of the Sahara, ble
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ceeff9373e08792211f041e436b10af0.png" alt="Cover for Funeral for Justice" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-05-03</td>
       <td>Mdou Moctar</td>

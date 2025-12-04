@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T20:57:25.002Z
+date: 2025-12-04T08:15:08.598Z
 permalink: tags/skate-punk
 title: skate punk
 ---
 
 ## skate punk
 
-Last updated: <time datetime="2025-11-14T20:57:25.002Z">Fri Nov 14 2025 22:57:25 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T08:15:08.598Z">Thu Dec 04 2025 10:15:08 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -61,7 +61,7 @@ Skate punk is a fast, aggressive style of punk rock that emerged from skateboard
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 80</li>
+            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -99,7 +99,7 @@ Skate punk is a fast, aggressive style of punk rock that emerged from skateboard
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 40</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -160,7 +160,7 @@ Skate punk is a fast, aggressive style of punk rock that emerged from skateboard
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 59</li>
+            <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -419,7 +419,7 @@ Skate punk is a fast, aggressive style of punk rock that emerged from skateboard
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 3</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -491,9 +491,9 @@ Skate punk is a fast, aggressive style of punk rock that emerged from skateboard
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 33</li>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 41</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 50</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 42</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 57</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -528,8 +528,8 @@ Skate punk is a fast, aggressive style of punk rock that emerged from skateboard
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 6</li>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 34</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 36</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -605,7 +605,7 @@ Skate punk is a fast, aggressive style of punk rock that emerged from skateboard
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 48</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -661,7 +661,7 @@ Skate punk is a fast, aggressive style of punk rock that emerged from skateboard
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 63</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -773,7 +773,7 @@ Skate punk is a fast, aggressive style of punk rock that emerged from skateboard
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 54</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -792,7 +792,7 @@ Skate punk is a fast, aggressive style of punk rock that emerged from skateboard
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 14</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -830,7 +830,7 @@ Skate punk is a fast, aggressive style of punk rock that emerged from skateboard
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 17</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -951,7 +951,7 @@ Skate punk is a fast, aggressive style of punk rock that emerged from skateboard
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 55</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1044,7 +1044,7 @@ Skate punk is a fast, aggressive style of punk rock that emerged from skateboard
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 14</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1066,7 +1066,7 @@ Skate punk is a fast, aggressive style of punk rock that emerged from skateboard
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 83</li>
+            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1123,7 +1123,7 @@ Skate punk is a fast, aggressive style of punk rock that emerged from skateboard
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 47</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1142,7 +1142,7 @@ Skate punk is a fast, aggressive style of punk rock that emerged from skateboard
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 86</li>
+            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1200,13 +1200,34 @@ Skate punk is a fast, aggressive style of punk rock that emerged from skateboard
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 5</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/36b5a6ef4f2a2bcd5f73f2dface65932.png" alt="Cover for From Under the Cork Tree Limited Tour Edition" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2006-07-05</td>
+      <td>Fall Out Boy</td>
+      <td>From Under the Cork Tree Limited Tour Edition</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/OcTrHr9edLGHNlui6ytDeSKNxHeeih3iyxefoqlS_bw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDYx/NTAtMTE4MzIyOTA5/My5qcGVn.jpeg" alt="Cover for Survive" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2322f438774416d94b3836e6e511a1c.png" alt="Cover for Survive" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-08-01</td>
       <td>Much the Same</td>
@@ -1256,7 +1277,7 @@ Skate punk is a fast, aggressive style of punk rock that emerged from skateboard
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 84</li>
+            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1291,7 +1312,7 @@ Skate punk is a fast, aggressive style of punk rock that emerged from skateboard
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 66</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1349,7 +1370,7 @@ Skate punk is a fast, aggressive style of punk rock that emerged from skateboard
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 83</li>
+            <li> <a href="{{ "/tags/indie-punk" | relative_url }}">indie punk</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1368,6 +1389,7 @@ Skate punk is a fast, aggressive style of punk rock that emerged from skateboard
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1426,8 +1448,8 @@ Skate punk is a fast, aggressive style of punk rock that emerged from skateboard
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 82</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 91</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 10</li>
+            <li> <a href="{{ "/tags/rock-alternativo" | relative_url }}">rock alternativo</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1543,7 +1565,7 @@ Skate punk is a fast, aggressive style of punk rock that emerged from skateboard
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 15</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1586,7 +1608,7 @@ Skate punk is a fast, aggressive style of punk rock that emerged from skateboard
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 25</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1662,7 +1684,7 @@ Skate punk is a fast, aggressive style of punk rock that emerged from skateboard
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 18</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1786,7 +1808,7 @@ Skate punk is a fast, aggressive style of punk rock that emerged from skateboard
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/jx3tsY4VgWcevEhTdE1PSxXMSQtEm1FBby9BccPtfUQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDM0/NTUzLTE2NTQ1ODcx/NjctNzc2OC5qcGVn.jpeg" alt="Cover for No Pressure (LP)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ea7118af2f77fe67676af5f75c7325d7.png" alt="Cover for No Pressure (LP)" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-06-01</td>
       <td>No Pressure</td>
@@ -1800,8 +1822,8 @@ Skate punk is a fast, aggressive style of punk rock that emerged from skateboard
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 1</li>
-            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 78</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 66</li>
+            <li> <a href="{{ "/tags/melodic-hardcore" | relative_url }}">melodic hardcore</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1858,7 +1880,7 @@ Skate punk is a fast, aggressive style of punk rock that emerged from skateboard
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horror-punk" | relative_url }}">horror punk</a> # 94</li>
+            <li> <a href="{{ "/tags/horror-punk" | relative_url }}">horror punk</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1883,26 +1905,6 @@ Skate punk is a fast, aggressive style of punk rock that emerged from skateboard
       </td>
     </tr>
     <tr>
-      <td>94</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/36b5a6ef4f2a2bcd5f73f2dface65932.png" alt="Cover for From Under the Cork Tree Limited Tour Edition" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Fall Out Boy</td>
-      <td>From Under the Cork Tree Limited Tour Edition</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 61</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/8c5d646d49982c5193400df017e2ef06.png" alt="Cover for Imunidade Musical" style="max-width:120px; height:auto;" />
@@ -1918,13 +1920,14 @@ Skate punk is a fast, aggressive style of punk rock that emerged from skateboard
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 46</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>7</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ff5c2acc44e68d3a04b161f08992129.png" alt="Cover for ...Search For The Truth" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Protest the Hero</td>

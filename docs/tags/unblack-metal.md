@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T03:57:26.342Z
+date: 2025-12-04T07:18:19.537Z
 permalink: tags/unblack-metal
 title: unblack metal
 ---
 
 ## unblack metal
 
-Last updated: <time datetime="2025-10-22T03:57:26.342Z">Wed Oct 22 2025 06:57:26 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T07:18:19.537Z">Thu Dec 04 2025 09:18:19 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -120,6 +120,7 @@ Unblack metal, also known as Christian black metal, takes the aggressive sonic e
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aecac8737cde4c2cbc51d69f9bdd6a08.png" alt="Cover for Act of Depression" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-07-04</td>
       <td>Underoath</td>
@@ -220,15 +221,10 @@ Unblack metal, also known as Christian black metal, takes the aggressive sonic e
       <td>Cries of the Past</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a></li>
-            <li style="font-size: calc(1rem * 89 / 100)"> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a></li>
-            <li style="font-size: calc(1rem * 51 / 100)"> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -432,14 +428,14 @@ Unblack metal, also known as Christian black metal, takes the aggressive sonic e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 67</li>
+            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/aJUberMEMNm_ZV2-px8l3dhn6DK4NEmC2Sogg8UPyFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDE2/MjYtMTI4NDI0NzIy/My5qcGVn.jpeg" alt="Cover for Sleeping In Light" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04b7fd81f37249b5ad7d60b6de5fdf0c.png" alt="Cover for Sleeping In Light" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Fearscape</td>
@@ -566,7 +562,7 @@ Unblack metal, also known as Christian black metal, takes the aggressive sonic e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a> # 44</li>
+            <li> <a href="{{ "/tags/symphonic-death-metal" | relative_url }}">symphonic death metal</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -639,7 +635,7 @@ Unblack metal, also known as Christian black metal, takes the aggressive sonic e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 8</li>
+            <li> <a href="{{ "/tags/progressive-black-metal" | relative_url }}">progressive black metal</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -737,7 +733,7 @@ Unblack metal, also known as Christian black metal, takes the aggressive sonic e
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/o3407HclVGigPceeeNmp57vSGlEYuGDHVvlmoHHDE3M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzcx/MDYtMTIyNjg0OTQ0/Ny5qcGVn.jpeg" alt="Cover for Scent of Divine Blood" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a91805889cec46509c96e54bd2f6d5af.png" alt="Cover for Scent of Divine Blood" style="max-width:120px; height:auto;" />
       </td>
       <td>2007</td>
       <td>Fearscape</td>
@@ -753,7 +749,7 @@ Unblack metal, also known as Christian black metal, takes the aggressive sonic e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 12</li>
+            <li> <a href="{{ "/tags/progressive-thrash-metal" | relative_url }}">progressive thrash metal</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -981,7 +977,7 @@ Unblack metal, also known as Christian black metal, takes the aggressive sonic e
     <tr>
       <td>25</td>
       <td>
-          <img src="https://i.discogs.com/R46f9DhDJCCHA3jEaplWRDQmbg-JagGT05Qbc719XHY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTc3/MTUtMTMyODgyNjc4/My5qcGVn.jpeg" alt="Cover for Extra Ecclesiam Nulla Salus" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d1f181eaa7e325b6427b21a102d95383.png" alt="Cover for Extra Ecclesiam Nulla Salus" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-04-21</td>
       <td>Toreva</td>
@@ -1108,7 +1104,7 @@ Unblack metal, also known as Christian black metal, takes the aggressive sonic e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 9</li>
+            <li> <a href="{{ "/tags/christian-metal" | relative_url }}">christian metal</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1209,7 +1205,7 @@ Unblack metal, also known as Christian black metal, takes the aggressive sonic e
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/u20-lmQU6y7zjqSzjd9dZHr3eN4RitMZbiQvLBIzyLM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODI1/NzctMTM2MDYxMzA0/Ny0yODE3LmpwZWc.jpeg" alt="Cover for Manden Med Leen" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8702071edef0d0403aadb64a7f3d1548.png" alt="Cover for Manden Med Leen" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-02-09</td>
       <td>A Hill to Die Upon</td>
@@ -1304,6 +1300,7 @@ Unblack metal, also known as Christian black metal, takes the aggressive sonic e
     <tr>
       <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ef534ed897b4fee346393653c0449e80.png" alt="Cover for BABYMETAL" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-02-26</td>
       <td>BABYMETAL</td>
@@ -1316,24 +1313,23 @@ Unblack metal, also known as Christian black metal, takes the aggressive sonic e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 7</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 10</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 15</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 15</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 31</li>
-            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 32</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 38</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 40</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 1</li>
+            <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 9</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 15</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 16</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 20</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 27</li>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 30</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 32</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 45</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 46</li>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 50</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 51</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 52</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 64</li>
-            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 71</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 74</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 81</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 84</li>
-            <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 92</li>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 100</li>
+            <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 69</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 84</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 85</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1870,10 +1866,10 @@ Unblack metal, also known as Christian black metal, takes the aggressive sonic e
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 11</li>
-            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 26</li>
-            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 66</li>
-            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 70</li>
+            <li> <a href="{{ "/tags/black-noise" | relative_url }}">black noise</a> # 31</li>
+            <li> <a href="{{ "/tags/experimental-black-metal" | relative_url }}">experimental black metal</a> # 34</li>
+            <li> <a href="{{ "/tags/avant-garde-black-metal" | relative_url }}">avant-garde black metal</a> # 72</li>
+            <li> <a href="{{ "/tags/industrial-black-metal" | relative_url }}">industrial black metal</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1901,16 +1897,16 @@ Unblack metal, also known as Christian black metal, takes the aggressive sonic e
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 2</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 2</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 2</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 6</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 89</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 95</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 95</li>
             <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 98</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 98</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 98</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 99</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 98</li>
             <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 99</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 99</li>
         </ul>
       </td>
     </tr>

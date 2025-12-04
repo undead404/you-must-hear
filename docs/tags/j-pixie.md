@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T15:36:08.958Z
+date: 2025-12-04T07:18:12.979Z
 permalink: tags/j-pixie
 title: j-pixie
 ---
 
 ## j-pixie
 
-Last updated: <time datetime="2025-10-28T15:36:08.958Z">Tue Oct 28 2025 17:36:08 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:18:12.979Z">Thu Dec 04 2025 09:18:12 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -46,7 +46,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 5</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -68,7 +68,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 13</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -112,8 +112,8 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 66</li>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 79</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 22</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -135,8 +135,8 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 34</li>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 48</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 53</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -178,11 +178,11 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 73</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 73</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 1</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 26</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 74</li>
             <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 92</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 95</li>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -202,7 +202,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 98</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -224,7 +224,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 91</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 10</li>
             <li> <a href="{{ "/tags/j-idol" | relative_url }}">j-idol</a> # 98</li>
         </ul>
       </td>
@@ -246,7 +246,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 75</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -267,7 +267,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 45</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -288,7 +288,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 80</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -349,7 +349,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 39</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -370,7 +370,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 86</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -389,8 +389,8 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 20</li>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 90</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 19</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -411,8 +411,8 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 26</li>
             <li> <a href="{{ "/tags/j-idol" | relative_url }}">j-idol</a> # 27</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -433,14 +433,14 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 89</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 11</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/1RmCoKyGitewWmR8ezcZ47CRabyqJYpPVHL_W-REzYs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTgw/OTk3LTE1OTM5Nzgx/NTktMjc3Mi5qcGVn.jpeg" alt="Cover for LIFE of DASH" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4d888c2b7942c733103d722484dcfd3.png" alt="Cover for LIFE of DASH" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-12-20</td>
       <td>Konomi Suzuki</td>
@@ -455,7 +455,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 99</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -496,7 +496,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 48</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -517,7 +517,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 73</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -538,7 +538,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 81</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -560,7 +560,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 16</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -582,7 +582,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 28</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -624,7 +624,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 96</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -645,7 +645,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 30</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -666,7 +666,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 84</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -687,7 +687,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 52</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 49</li>
             <li> <a href="{{ "/tags/j-idol" | relative_url }}">j-idol</a> # 63</li>
         </ul>
       </td>
@@ -709,7 +709,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 74</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -731,7 +731,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       <td>
         <ul>
             <li> <a href="{{ "/tags/j-idol" | relative_url }}">j-idol</a> # 19</li>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 23</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -773,8 +773,8 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 12</li>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 41</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 60</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -817,7 +817,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 15</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -839,7 +839,6 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -860,7 +859,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 22</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -881,7 +880,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 43</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -904,7 +903,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 56</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -927,7 +926,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 78</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1068,7 +1067,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 59</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1088,7 +1087,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 55</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1109,7 +1108,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 5</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1130,7 +1129,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 56</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1211,7 +1210,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 8</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1232,7 +1231,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 72</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1253,7 +1252,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 87</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 13</li>
             <li> <a href="{{ "/tags/j-idol" | relative_url }}">j-idol</a> # 97</li>
         </ul>
       </td>
@@ -1275,7 +1274,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 94</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1316,9 +1315,9 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 43</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 48</li>
             <li> <a href="{{ "/tags/j-idol" | relative_url }}">j-idol</a> # 51</li>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 53</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1339,7 +1338,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 88</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1359,7 +1358,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 77</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1380,7 +1379,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 2</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1401,7 +1400,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 4</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1422,7 +1421,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 10</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1441,7 +1440,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 10</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1461,7 +1460,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 11</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1482,7 +1481,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       <td>
         <ul>
             <li> <a href="{{ "/tags/j-idol" | relative_url }}">j-idol</a> # 4</li>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 15</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1501,7 +1500,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 44</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1521,7 +1520,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 27</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1541,8 +1540,8 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 33</li>
             <li> <a href="{{ "/tags/j-idol" | relative_url }}">j-idol</a> # 36</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1562,14 +1561,15 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 37</li>
             <li> <a href="{{ "/tags/j-idol" | relative_url }}">j-idol</a> # 44</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/636b0facca5a4370c32e0a2d8b5e7ff8.png" alt="Cover for 18 -Colorful Gift-" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>鈴木このみ</td>
@@ -1585,7 +1585,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 54</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1605,7 +1605,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 58</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 43</li>
             <li> <a href="{{ "/tags/j-idol" | relative_url }}">j-idol</a> # 69</li>
         </ul>
       </td>
@@ -1626,7 +1626,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 61</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 40</li>
             <li> <a href="{{ "/tags/j-idol" | relative_url }}">j-idol</a> # 71</li>
         </ul>
       </td>
@@ -1647,7 +1647,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 62</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 39</li>
             <li> <a href="{{ "/tags/j-idol" | relative_url }}">j-idol</a> # 73</li>
         </ul>
       </td>
@@ -1668,7 +1668,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 71</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 30</li>
             <li> <a href="{{ "/tags/j-idol" | relative_url }}">j-idol</a> # 91</li>
         </ul>
       </td>
@@ -1686,7 +1686,7 @@ J-pixie describes a bright, energetic strain of Japanese pop-rock characterized 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 93</li>
+            <li> <a href="{{ "/tags/anime-rock" | relative_url }}">anime rock</a> # 8</li>
             <li> <a href="{{ "/tags/j-idol" | relative_url }}">j-idol</a> # 99</li>
         </ul>
       </td>

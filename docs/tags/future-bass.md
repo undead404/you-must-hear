@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T14:58:37.979Z
+date: 2025-12-04T08:10:02.293Z
 permalink: tags/future-bass
 title: future bass
 ---
 
 ## future bass
 
-Last updated: <time datetime="2025-11-23T14:58:37.979Z">Sun Nov 23 2025 16:58:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T08:10:02.293Z">Thu Dec 04 2025 10:10:02 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -83,7 +83,7 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 66</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -171,9 +171,9 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 30</li>
-            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 83</li>
-            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 98</li>
+            <li> <a href="{{ "/tags/uplifting-trance" | relative_url }}">uplifting trance</a> # 2</li>
+            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 18</li>
+            <li> <a href="{{ "/tags/progressive-house" | relative_url }}">progressive house</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -195,7 +195,7 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 89</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -271,9 +271,9 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 65</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 90</li>
-            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 98</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 11</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 66</li>
+            <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -293,7 +293,7 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 62</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -350,7 +350,7 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 28</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -414,7 +414,7 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 35</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -435,7 +435,7 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 95</li>
+            <li> <a href="{{ "/tags/indie-dance" | relative_url }}">indie dance</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -456,7 +456,7 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 81</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -495,7 +495,7 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 62</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -513,7 +513,7 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 4</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -534,7 +534,7 @@ Future bass is a genre of electronic dance music that originated in the late 200
       <td>
         <ul>
             <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 21</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 31</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -620,9 +620,9 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 2</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 4</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 93</li>
             <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 96</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -700,9 +700,9 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 24</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 46</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 79</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 55</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 70</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -727,7 +727,7 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 56</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -750,7 +750,7 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 4</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -771,7 +771,7 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 98</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -795,10 +795,10 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 15</li>
+            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 25</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 27</li>
             <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 54</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 74</li>
-            <li> <a href="{{ "/tags/witch-house" | relative_url }}">witch house</a> # 75</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -856,7 +856,7 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 99</li>
+            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -878,8 +878,8 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 12</li>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 67</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 30</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -900,7 +900,7 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 98</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -956,8 +956,8 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 93</li>
-            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 100</li>
+            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 1</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -977,9 +977,9 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 77</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 85</li>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 100</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 1</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 23</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1140,7 +1140,7 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 89</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1160,7 +1160,7 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 34</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1242,9 +1242,9 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 35</li>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 46</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 53</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 42</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 46</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1265,7 +1265,7 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 98</li>
+            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1288,7 +1288,7 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 93</li>
+            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1517,7 +1517,7 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 96</li>
+            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1540,9 +1540,9 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 74</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 9</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 24</li>
             <li> <a href="{{ "/tags/bitpop" | relative_url }}">bitpop</a> # 88</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1602,7 +1602,7 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 87</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 90</li>
             <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 95</li>
         </ul>
       </td>
@@ -1628,7 +1628,7 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 22</li>
+            <li> <a href="{{ "/tags/tropical-house" | relative_url }}">tropical house</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1655,8 +1655,8 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 51</li>
-            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 80</li>
+            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 21</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1677,7 +1677,7 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 3</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1755,8 +1755,8 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 6</li>
-            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 92</li>
+            <li> <a href="{{ "/tags/chillstep" | relative_url }}">chillstep</a> # 9</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1777,7 +1777,7 @@ Future bass is a genre of electronic dance music that originated in the late 200
       <td>
         <ul>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 59</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 61</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1796,7 +1796,7 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 13</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1813,9 +1813,9 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 5</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 89</li>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 92</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 6</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 9</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 12</li>
             <li> <a href="{{ "/tags/mashcore" | relative_url }}">mashcore</a> # 98</li>
         </ul>
       </td>
@@ -1878,7 +1878,7 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 13</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1939,7 +1939,7 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 5</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1961,9 +1961,9 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 11</li>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 77</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 25</li>
             <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 83</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1986,7 +1986,7 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 44</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -2009,9 +2009,9 @@ Future bass is a genre of electronic dance music that originated in the late 200
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 8</li>
-            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 88</li>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 97</li>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 4</li>
+            <li> <a href="{{ "/tags/deep-house" | relative_url }}">deep house</a> # 13</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 89</li>
         </ul>
       </td>
     </tr>

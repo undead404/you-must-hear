@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-12T18:01:00.982Z
+date: 2025-12-04T07:12:52.199Z
 permalink: tags/harpsichord
 title: harpsichord
 ---
 
 ## harpsichord
 
-Last updated: <time datetime="2025-11-12T18:01:00.982Z">Wed Nov 12 2025 20:01:00 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:12:52.199Z">Thu Dec 04 2025 09:12:52 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -241,7 +241,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 68</li>
+            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -487,7 +487,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pipe-organ" | relative_url }}">pipe organ</a> # 20</li>
+            <li> <a href="{{ "/tags/pipe-organ" | relative_url }}">pipe organ</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -598,7 +598,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 79</li>
+            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1004,8 +1004,8 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 19</li>
-            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 44</li>
+            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 57</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1342,7 +1342,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 74</li>
+            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1419,8 +1419,8 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 55</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 71</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 56</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1737,6 +1737,7 @@ The harpsichord tag identifies music featuring this distinctive plucked keyboard
     <tr>
       <td>15</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ff860679a7f3b07df5d5fba1e183981c.png" alt="Cover for Bach: Partitas Pour Clavecin 5, 2, 6 - Vol. II" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Bruno Procopio</td>

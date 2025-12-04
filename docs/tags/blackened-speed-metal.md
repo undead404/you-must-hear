@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T15:34:08.873Z
+date: 2025-12-04T07:14:48.310Z
 permalink: tags/blackened-speed-metal
 title: blackened speed metal
 ---
 
 ## blackened speed metal
 
-Last updated: <time datetime="2025-10-28T15:34:08.873Z">Tue Oct 28 2025 17:34:08 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:14:48.310Z">Thu Dec 04 2025 09:14:48 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>10</td>
       <td>
-          <img src="https://i.discogs.com/HHDnEK6MQfkXDZqBx_e5wmiqLwH-8ZCFHDW4cbQijd4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzYy/ODc2LTE2ODE4NzM1/NzgtMzA0MS5qcGVn.jpeg" alt="Cover for Demo II" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bf72dd41e0986671181efbf1b8151194.png" alt="Cover for Demo II" style="max-width:120px; height:auto;" />
       </td>
       <td>1983</td>
       <td>Blitz</td>
@@ -65,14 +65,14 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 62</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>19</td>
       <td>
-          <img src="https://i.discogs.com/vya63A534kOq3pptZFdYZDPDVZMfSg3yqUrH1GOLBXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODU5/NDYxLTE1NDMzMzA1/NzgtNjM4OS5qcGVn.jpeg" alt="Cover for In the Sign of Evil" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb0adeaf449d6e92107c0522f2783603.png" alt="Cover for In the Sign of Evil" style="max-width:120px; height:auto;" />
       </td>
       <td>1984-05-05</td>
       <td>Sodom</td>
@@ -84,7 +84,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-thrash-metal" | relative_url }}">german thrash metal</a> # 21</li>
+            <li> <a href="{{ "/tags/german-thrash-metal" | relative_url }}">german thrash metal</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -130,7 +130,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>17</td>
       <td>
-          <img src="https://i.discogs.com/NDOVvfAPxkphKrEg85guW7M4ayBDNXRxculVR5kf_ro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQw/OTAwLTE2NjA5ODIx/NTQtNTc0NC5qcGVn.jpeg" alt="Cover for Vergeltungswaffe" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/534d3092974201eb31a0687238b91d4c.png" alt="Cover for Vergeltungswaffe" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Escola Alemã</td>
@@ -146,7 +146,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rabm" | relative_url }}">rabm</a> # 2</li>
+            <li> <a href="{{ "/tags/rabm" | relative_url }}">rabm</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -228,7 +228,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/WT2i8JufFRkDMAdBN8QliqBBPhYAox9vLecjYHizDO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzg2/NzAtMTM2Mjg3Mjg5/MC05NTA0LmpwZWc.jpeg" alt="Cover for Evil Never Dies" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f55804fec795ac0e2e85ce904935d07c.png" alt="Cover for Evil Never Dies" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-10-31</td>
       <td>Toxic Holocaust</td>
@@ -246,7 +246,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/mr6YdpZSYe1fPgv76qarFLT5W2Yys-JOzAITBK6T6r8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODA3/ODUtMTM0NDE2MDM2/OC04MDMwLmpwZWc.jpeg" alt="Cover for The True Metal" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8601dfc88a53039bb71bac571582c43b.png" alt="Cover for The True Metal" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Power From Hell</td>
@@ -258,14 +258,14 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-thrash-metal" | relative_url }}">blackened thrash metal</a> # 52</li>
+            <li> <a href="{{ "/tags/blackened-thrash-metal" | relative_url }}">blackened thrash metal</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>89</td>
       <td>
-          <img src="https://i.discogs.com/-MZKsuVfKS0xeqy45eCNkDzkY4xvMgggxHScufr9HXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzQy/NS0xMDkzOTQ5OTQw/LmpwZw.jpeg" alt="Cover for Index Case" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/985d5d66e11b1d41db6e10f6be1b47f2.png" alt="Cover for Index Case" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Wraith</td>
@@ -280,7 +280,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-thrash-metal" | relative_url }}">blackened thrash metal</a> # 48</li>
+            <li> <a href="{{ "/tags/blackened-thrash-metal" | relative_url }}">blackened thrash metal</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -307,7 +307,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>22</td>
       <td>
-          <img src="https://i.discogs.com/fQZU8S2d83IjBePh6WCrSsdJT8r2Um3ickh0hVkrpow/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDE4/NzMyLTE2MjI4NTAz/MjctMTg3MC5qcGVn.jpeg" alt="Cover for Demo I" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4b92426cd72e013e9911f58821b20be.png" alt="Cover for Demo I" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Blitz</td>
@@ -380,14 +380,14 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 82</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 17</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/-WV6u3riV_kLOkXUoe3nx2lCa-CNS2FVGR4fm5Q6H38/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTIw/OTctMTMzMDkwNDcy/OC5qcGVn.jpeg" alt="Cover for Lust and Violence" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f3e891c0f4a1b6e832fb7a6b17f42569.png" alt="Cover for Lust and Violence" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-23</td>
       <td>Power From Hell</td>
@@ -406,7 +406,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>54</td>
       <td>
-          <img src="https://i.discogs.com/vVTH6_nsZoK4QVyNVQwXI8jSekmCo_vwcTcFADUU3tE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODA2/OTgtMTY1ODY5ODAw/Ny02NzU5LmpwZWc.jpeg" alt="Cover for Turn Up The Evil" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e6a0ec43d9548448a89c7b8c0446dfd.png" alt="Cover for Turn Up The Evil" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Bonehunter</td>
@@ -428,7 +428,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/8Y6UAchfqm2GSf9yhoL2JGyv-ur7cE8Sz6DVHobnpdg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Nzg5/NDAtMTM0MTI1NDQ0/MC00NjA1LmpwZWc.jpeg" alt="Cover for Official Bootleg: The Witchhunter Decade" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4cac5615f70d34c71e0382d272b2dee.png" alt="Cover for Official Bootleg: The Witchhunter Decade" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06-18</td>
       <td>Sodom</td>
@@ -448,7 +448,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>66</td>
       <td>
-          <img src="https://i.discogs.com/YtMJt6W5AI-KWetY00Sve27ChLAnKvuj4KkL7OjSIzU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTYx/ODItMTM3NjQwNzk3/NS00NzUyLmpwZWc.jpeg" alt="Cover for Infernö Interceptörs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/490ed7094be8415cc1b887726fb979d5.png" alt="Cover for Infernö Interceptörs" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10</td>
       <td>Bunker 66</td>
@@ -511,7 +511,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>39</td>
       <td>
-          <img src="https://i.discogs.com/Pj0V28usbWR2MQJOq-m6PxeKcEQpUFvbjUzS5Kxd_Nw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU5/NjE3LTE1NzA5MTU0/NTgtNTE0NS5qcGVn.jpeg" alt="Cover for Barbatos Brutalities" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/96169e8208a16268603c9b0a0e5ab699.png" alt="Cover for Barbatos Brutalities" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-02-17</td>
       <td>Bonehunter</td>
@@ -552,7 +552,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>13</td>
       <td>
-          <img src="https://i.discogs.com/_zaBzQBowJrP5wpVP8yBbwtuGXQdI2DCs5zsJ8P80PE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzE1/NTItMTM4MjYyODM1/NC05ODQ0LmpwZWc.jpeg" alt="Cover for The Last Hope Of Humanity..." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/77e00b87c7634168c1edc68b2dfb5eda.png" alt="Cover for The Last Hope Of Humanity..." style="max-width:120px; height:auto;" />
       </td>
       <td>2013-11-19</td>
       <td>Necromessiah</td>
@@ -576,7 +576,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/t0NVoYPd5Yc8WAyVVPUG-SuXdQSwcSFdJPP5ICzMpOg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTU4/OTUtMTQ3NjgxMjMx/Ny05NTExLmpwZWc.jpeg" alt="Cover for Sex &amp; Necromancy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/89f3f112b5ee4f87cf8c50d5e8861718.png" alt="Cover for Sex &amp; Necromancy" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Bonehunter</td>
@@ -598,6 +598,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ddb65760d4664670c6fafb727a9ffb56.png" alt="Cover for Evil Night" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-03-04</td>
       <td>Diabolic Night</td>
@@ -615,7 +616,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 82</li>
+            <li> <a href="{{ "/tags/german-metal" | relative_url }}">german metal</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -634,13 +635,14 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 100</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/LAUw0C-O7D32eRLZlk_tdSInWSntEPCvc7mcVzQwRGA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTMy/OTQtMTQxMDg4NzM2/OC0xNzc4LmpwZWc.jpeg" alt="Cover for Screaming Rock Believers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/893307fe89cb4368c3d4fafa5ec5d5f1.png" alt="Cover for Screaming Rock Believers" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-09-16</td>
       <td>Bunker 66</td>
@@ -679,7 +681,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>30</td>
       <td>
-          <img src="https://i.discogs.com/rVhwhhL5LasEIxzYuHMgEWrIpVtIH1o2eh6jOM4H4lk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0MDEw/NTAtMTYwMzI1NTE1/NS0yMjA1LmpwZWc.jpeg" alt="Cover for Devil Must Be Driven Out With G.I.S.M.!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/58d8b16cc8427d3fd293351563d8dd82.png" alt="Cover for Devil Must Be Driven Out With G.I.S.M.!" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-11</td>
       <td>Bonehunter</td>
@@ -758,6 +760,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>21</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/18ede10acbc46ad3e2dbfe24ac067fe1.png" alt="Cover for Blazing Heat" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-08-11</td>
       <td>Division Speed</td>
@@ -778,7 +781,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/fNebjFxGzDqUHvN4S_H0K0Pfm14OsfPx-WhxHMkKALw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NjU0/MjAtMTQ3MjM5MzMw/Ni03OTE4LmpwZWc.jpeg" alt="Cover for Devilsweatlive" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21bde1196acf09b04309f65e70f55407.png" alt="Cover for Devilsweatlive" style="max-width:120px; height:auto;" />
       </td>
       <td>2016</td>
       <td>Bonehunter</td>
@@ -837,7 +840,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/C8n8UjmTPT_6ggfug9N7li51qrXvwsCeq_664_cwl6o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDYw/MjktMTQ3MTE5NjQ3/NC01NzA4LmpwZWc.jpeg" alt="Cover for Bewitcher" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc1ad152cf3a82b855b9feb771f6d83b.png" alt="Cover for Bewitcher" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-08-10</td>
       <td>Bewitcher</td>
@@ -853,7 +856,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-thrash-metal" | relative_url }}">blackened thrash metal</a> # 53</li>
+            <li> <a href="{{ "/tags/blackened-thrash-metal" | relative_url }}">blackened thrash metal</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -898,7 +901,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>85</td>
       <td>
-          <img src="https://i.discogs.com/vNbPm84auXvvJ3oGXSui-Eb9dB81cx58U22d1G4VZq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTk0/NjgtMTQ3MzM3NDMy/NC00OTU0LnBuZw.jpeg" alt="Cover for The Final Damnation" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/26585ad34c0ae4ace0cf0f2e2073306e.png" alt="Cover for The Final Damnation" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-10-19</td>
       <td>Abigail</td>
@@ -917,7 +920,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 61</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 40</li>
             <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 88</li>
         </ul>
       </td>
@@ -925,7 +928,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/NIgHDQkrpPsAa65IDDrzc9AqaATOop6fhNFPFiexb7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzA4/MDYtMTQ3OTQwMjMx/MS04NDMxLmpwZWc.jpeg" alt="Cover for Complete and Total Fucking Mayhem" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98af4f0b475297d65053f45352264558.png" alt="Cover for Complete and Total Fucking Mayhem" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-11-17</td>
       <td>Hellripper</td>
@@ -937,14 +940,14 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-thrash-metal" | relative_url }}">blackened thrash metal</a> # 43</li>
+            <li> <a href="{{ "/tags/blackened-thrash-metal" | relative_url }}">blackened thrash metal</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/PD3Y03iZILw7jHiUietrX9LxfZ1-Z-yiWMw2GCEJloo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg2/NTc3LTE1MzQyMjAx/NzMtNjE3OC5qcGVn.jpeg" alt="Cover for Heed the Warning" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e75ff755581274a75d7533d10515b70.png" alt="Cover for Heed the Warning" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-04-20</td>
       <td>Wraith</td>
@@ -965,7 +968,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/i8BJcBgExMgnaYyg_5Se-fG_F2udkqgb-qsR4kR6OGk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQx/NTI2LTE1MzI2MDY3/MTQtMzUxMC5wbmc.jpeg" alt="Cover for Coagulating Darkness" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/87f1d6167281b0c23ede4cb1c57c3cee.png" alt="Cover for Coagulating Darkness" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-04-24</td>
       <td>Hellripper</td>
@@ -978,15 +981,15 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-thrash-metal" | relative_url }}">blackened thrash metal</a> # 49</li>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 81</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 19</li>
+            <li> <a href="{{ "/tags/blackened-thrash-metal" | relative_url }}">blackened thrash metal</a> # 53</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/AKNWa-BqMGV43E_fzILJD4jKqz93mjI9qh64Dt7H94k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTcy/MTAzLTE1MDc1NzUw/MDMtODM1OC5qcGVn.jpeg" alt="Cover for Sweet Death and Ecstasy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7323088e078bf62a37ccf2fdb9dd00f3.png" alt="Cover for Sweet Death and Ecstasy" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-10-21</td>
       <td>Midnight</td>
@@ -1022,7 +1025,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/OoqvHkVh_1fKXrw7iMk2rh51D7Z1dP8W5dNGMoGHYSE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQ5/OTk3LTE1MjE3Mzc2/NDMtOTcxOS5qcGVn.jpeg" alt="Cover for Blood &#39;N&#39; Spikes" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dec243da6f36d82e021d2f64127aecd0.png" alt="Cover for Blood &#39;N&#39; Spikes" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-02-19</td>
       <td>Power From Hell</td>
@@ -1082,7 +1085,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/Xz87vaz2Jb0RYFDHvAbC11hvAjv1lpAL_GLCQoVavDU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTI3/MzQwLTE2MTM5MzM3/OTYtOTQ2MS5qcGVn.jpeg" alt="Cover for Chained To Hell" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/700bee5a2742c51c5f188460dd037963.png" alt="Cover for Chained To Hell" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-05</td>
       <td>Deathhammer</td>
@@ -1097,13 +1100,14 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blackened-thrash-metal" | relative_url }}">blackened thrash metal</a> # 34</li>
+            <li> <a href="{{ "/tags/blackened-thrash-metal" | relative_url }}">blackened thrash metal</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>33</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e27790e3551905fb072141414fb0bcef.png" alt="Cover for Too Fast for the Flames" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>Bewitcher</td>
@@ -1143,7 +1147,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/hbnxIyZeMqlIEtlCPbcvEGnqn3hDKI-yU-ohF73qIeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDcw/MDgwLTE1NTQ4MTk4/MTctMzE0MS5qcGVn.jpeg" alt="Cover for Black Arts &amp; Alchemy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2279accabe3df3243c11f85aff9d8953.png" alt="Cover for Black Arts &amp; Alchemy" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-04-19</td>
       <td>Hellripper</td>
@@ -1156,7 +1160,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 63</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1181,7 +1185,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/FcnzNq6cO_iJOP5X61beLWieC9AX39NilNhqcZy-v1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzYw/NDEwLTE1NjA4NzYx/MzAtMTcxMS5qcGVn.jpeg" alt="Cover for Profound Evil Presence" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e40877ab0f525e2607331c059c61c05a.png" alt="Cover for Profound Evil Presence" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-06-13</td>
       <td>Power From Hell</td>
@@ -1203,6 +1207,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>8</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b6ceaa90b4e210c524ff035a8c7bb912.png" alt="Cover for LUST FOR VIOLENCE" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-07-06</td>
       <td>Acid Mass</td>
@@ -1261,7 +1266,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/l0sd3Rl4xHi1adFAwM0zPCEjhckYc_wi96o9YhEPrv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDAw/Mzg2LTE2MjA5MTg4/MTUtMjM5OS5qcGVn.jpeg" alt="Cover for Beyond The Realm" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3c96fa731ae2b85055047a370bc1142.png" alt="Cover for Beyond The Realm" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-11-15</td>
       <td>Diabolic Night</td>
@@ -1297,7 +1302,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>98</td>
       <td>
-          <img src="https://i.discogs.com/9B5hpE_pJxhjr_BSB5sB4xC8rKBaZqIs71CULIVK7S4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzM0/MDE5LTE1ODA1NzQw/NzEtODc1OS5qcGVn.jpeg" alt="Cover for 666 Goats Carry My Chariot" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21f5a6884aac7ae2ca2170aa9a18952b.png" alt="Cover for 666 Goats Carry My Chariot" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-01-31</td>
       <td>Bütcher</td>
@@ -1313,8 +1318,8 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 48</li>
-            <li> <a href="{{ "/tags/blackened-thrash-metal" | relative_url }}">blackened thrash metal</a> # 87</li>
+            <li> <a href="{{ "/tags/blackened-thrash-metal" | relative_url }}">blackened thrash metal</a> # 9</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1338,7 +1343,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/HfuHorWALALgZNenq3Ps4vxb7YWPzX0LAtPhK_NbqhE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDE2/MDM1LTE2MDIyNzEw/MDgtNjA2OS5qcGVn.jpeg" alt="Cover for The Affair of the Poisons" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/98c802cad9f422fe9d46c6f8007c4950.png" alt="Cover for The Affair of the Poisons" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-10-09</td>
       <td>Hellripper</td>
@@ -1356,7 +1361,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/svUCmSHYuitewAFzgXsyAe0F86TtQMQvffuM9T-_zmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDk1/NTg0LTE2MTM3Njk0/NTQtOTI5Ni5qcGVn.jpeg" alt="Cover for Krvcifix Invertör" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c0a0c00e9339d121bf383f58ce8d06f9.png" alt="Cover for Krvcifix Invertör" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-02-06</td>
       <td>Hellcrash</td>
@@ -1413,7 +1418,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/6OVU3vPA6fWma6LLTl-izVm2_Dl1iWdHAJuFTy3UW58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjI2/ODU0LTE2NDk5NzIx/ODMtNDc3Mi5qcGVn.jpeg" alt="Cover for Beyond the Help of Prayers" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/10c456c6b65f3e55f40924489ac2bc12.png" alt="Cover for Beyond the Help of Prayers" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-04-30</td>
       <td>Bunker 66</td>
@@ -1449,7 +1454,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/yrrNhnsc-XqvPuwvF2wQF2knG21ZrGtskMaxa8bZhbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzY4/MjY0LTE2MzEyMDgy/NzgtNDg2MC5qcGVn.jpeg" alt="Cover for Complete Blinding Darkness" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/47c56cd42796c99dc336d3fdb13b38a8.png" alt="Cover for Complete Blinding Darkness" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-06-04</td>
       <td>GraveRipper</td>
@@ -1470,7 +1475,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>71</td>
       <td>
-          <img src="https://i.discogs.com/NPWdl54aT0I54g7ZqlTisxHztIdcV0Yj0Q7tv0bE3ZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDI0/MjQ5LTE2MjI4OTQx/ODItNTgxNC5qcGVn.jpeg" alt="Cover for Radiated Remains" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b385b69b311db92e14a8854acd2493db.png" alt="Cover for Radiated Remains" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-06-04</td>
       <td>GraveRipper</td>
@@ -1527,6 +1532,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>27</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/52c0494157569ceda63f54739e679928.png" alt="Cover for Iron Rite" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-10-01</td>
       <td>Sadistic Force</td>
@@ -1547,7 +1553,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/ApmFHKiZQTjb4sM6mOdqLo7pcTG9uBejba16CkpGXlU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDkw/MjMxLTE2NDA1Mjc5/MjAtMjUyMy5qcGVn.jpeg" alt="Cover for Black Moon Sadism" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/51530771773c05fe952b2933ad22b834.png" alt="Cover for Black Moon Sadism" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-10-01</td>
       <td>Sadistic Force</td>
@@ -1587,7 +1593,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/Hh2GH7A0Ckln4wzrxs4yPk_WWLj0Tk4e9jmgMFi2Pik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDkw/NDUwLTE2NDA1Mjkz/MzQtODAxOS5qcGVn.jpeg" alt="Cover for Pain, Sex, and Rapture" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/488af32023252bff2bc1c150f4900513.png" alt="Cover for Pain, Sex, and Rapture" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-02-03</td>
       <td>Sadistic Force</td>
@@ -1606,7 +1612,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
       <td>
           <img src="https://i.discogs.com/ApdZD6CuxghpYAQFo2DkcGOqbPuXgC1LX2HEzWEV7hI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTA3/MTYtMTMxMzQyMjI2/My5qcGVn.jpeg" alt="Cover for Rotten Blood" style="max-width:120px; height:auto;" />
       </td>
-      <td>2022-03</td>
+      <td>2022-03-11</td>
       <td>Bastard</td>
       <td>Rotten Blood</td>
       <td>
@@ -1640,7 +1646,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/yut2ufzrrTFgVuN95QXDMZliaH83c62Ax6RJbJUMzLw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTUz/Mzg5LTE2NzA0MDg3/NDctMzU1Ni5qcGVn.jpeg" alt="Cover for Faster Than the Fucking Devil" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ffd2f7d0c802bc7a4cd420eb76c622bf.png" alt="Cover for Faster Than the Fucking Devil" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-08</td>
       <td>Wraith</td>
@@ -1712,7 +1718,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a> # 55</li>
+            <li> <a href="{{ "/tags/ukrainian-black-metal" | relative_url }}">ukrainian black metal</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1744,7 +1750,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/9pT7_MGnboSqX5YBgz59MaVZ0S_v2Vdhvjwn0-j-Wc0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTIx/NzMxLTE2NzY1NjE4/MzUtMTYyNC5qcGVn.jpeg" alt="Cover for Warlocks Grim &amp; Withered Hags" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/00fc55b4647f919cf265062478eb84be.png" alt="Cover for Warlocks Grim &amp; Withered Hags" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-02-17</td>
       <td>Hellripper</td>
@@ -1801,7 +1807,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/YNSn71DUbXsPak4gcRO6Q0eBjgEq1dh7XQQwcSDnRfE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTgw/Nzk4LTE2OTM5NDUw/NjQtNjIyOC5qcGVn.jpeg" alt="Cover for Into the Grave" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a011a191d762deba82b11dff2d423770.png" alt="Cover for Into the Grave" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-06-08</td>
       <td>GraveRipper</td>
@@ -1840,7 +1846,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/YNSn71DUbXsPak4gcRO6Q0eBjgEq1dh7XQQwcSDnRfE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MTgw/Nzk4LTE2OTM5NDUw/NjQtNjIyOC5qcGVn.jpeg" alt="Cover for Seasons Dreaming Death" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6ad3b49f2c11e36c1e6f794b8a4f6237.png" alt="Cover for Seasons Dreaming Death" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-08-25</td>
       <td>GraveRipper</td>
@@ -1861,7 +1867,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>62</td>
       <td>
-          <img src="https://i.discogs.com/vJKe80wx65UVH_2qorcytIUHoWgNWyrgDUhFUrPbU0w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTMz/NzUzLTE3MDA5MjQy/NTctNTQ0NS5qcGVn.jpeg" alt="Cover for Deep Cuts &amp; Shallow Graves" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c5d396b2339b04920f2923ad21f89707.png" alt="Cover for Deep Cuts &amp; Shallow Graves" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-11-17</td>
       <td>Bewitcher</td>
@@ -1881,6 +1887,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>14</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0d61dd97318ad52a163e63ed7606ea6f.png" alt="Cover for Portraits of Dismay" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-12-15</td>
       <td>Bunker 66</td>
@@ -1901,6 +1908,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>18</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c16fbcd30be51d09d151daab8189f398.png" alt="Cover for Spell Shock (24-bit HD audio)" style="max-width:120px; height:auto;" />
       </td>
       <td>2024</td>
       <td>Bewitcher</td>
@@ -1939,6 +1947,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>94</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b00e3d6c08501163cb3e1ffefb956373.png" alt="Cover for Hellish Expectations" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-03-08</td>
       <td>Midnight</td>
@@ -1996,6 +2005,7 @@ Blackened speed metal fuses the raw velocity and riff-driven aggression of speed
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4e646c686a8adf7f1ba73a8c7e9981e1.png" alt="Cover for Fueled by Fear" style="max-width:120px; height:auto;" />
       </td>
       <td>2024-06-28</td>
       <td>Wraith</td>

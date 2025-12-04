@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-23T14:39:14.532Z
+date: 2025-12-04T07:14:18.315Z
 permalink: tags/trio
 title: trio
 ---
 
 ## trio
 
-Last updated: <time datetime="2025-11-23T14:39:14.532Z">Sun Nov 23 2025 16:39:14 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:14:18.315Z">Thu Dec 04 2025 09:14:18 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -104,9 +104,9 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 4</li>
-            <li> <a href="{{ "/tags/jazz-guitar" | relative_url }}">jazz guitar</a> # 99</li>
-            <li> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a> # 100</li>
+            <li> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a> # 1</li>
+            <li> <a href="{{ "/tags/jazz-guitar" | relative_url }}">jazz guitar</a> # 2</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -134,7 +134,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 16</li>
+            <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -326,7 +326,7 @@ A trio features three musicians performing together, creating an intimate yet dy
     <tr>
       <td>10</td>
       <td>
-          <img src="https://i.discogs.com/_HUDCKOafb8aqsl5QMOSZhQbYSf9yP_x7TgI5PgEodg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjQ5/NzgxLTE1MTI3MzQ4/MjgtNDU2Mi5qcGVn.jpeg" alt="Cover for Light Years" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/181c3a61ad3742b091965ebe55a91d0d.png" alt="Cover for Light Years" style="max-width:120px; height:auto;" />
       </td>
       <td>1989</td>
       <td>Talkative</td>
@@ -351,8 +351,8 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 38</li>
             <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 54</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -649,7 +649,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 32</li>
+            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -707,8 +707,8 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 69</li>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 70</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 31</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -751,6 +751,7 @@ A trio features three musicians performing together, creating an intimate yet dy
     <tr>
       <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/689c66ed046d44a698aeddbc39fe35cb.png" alt="Cover for Drums From The Dawn Of Time" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-09</td>
       <td>Etnoscope</td>
@@ -769,7 +770,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 32</li>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -943,7 +944,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gypsy-jazz" | relative_url }}">gypsy jazz</a> # 76</li>
+            <li> <a href="{{ "/tags/gypsy-jazz" | relative_url }}">gypsy jazz</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1023,7 +1024,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 71</li>
+            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1087,9 +1088,9 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 58</li>
+            <li> <a href="{{ "/tags/austin" | relative_url }}">austin</a> # 7</li>
+            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 43</li>
             <li> <a href="{{ "/tags/texas" | relative_url }}">texas</a> # 65</li>
-            <li> <a href="{{ "/tags/austin" | relative_url }}">austin</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1183,9 +1184,9 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 33</li>
-            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 66</li>
-            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 78</li>
+            <li> <a href="{{ "/tags/glasgow" | relative_url }}">glasgow</a> # 23</li>
+            <li> <a href="{{ "/tags/britain" | relative_url }}">britain</a> # 35</li>
+            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 69</li>
             <li> <a href="{{ "/tags/british-underground" | relative_url }}">british underground</a> # 90</li>
         </ul>
       </td>
@@ -1237,7 +1238,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 5</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1288,7 +1289,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 54</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1342,11 +1343,11 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 6</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 11</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 41</li>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 59</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 42</li>
             <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 79</li>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 90</li>
-            <li> <a href="{{ "/tags/organic-electronica" | relative_url }}">organic electronica</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1382,7 +1383,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 36</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 65</li>
             <li> <a href="{{ "/tags/north-carolina" | relative_url }}">north carolina</a> # 68</li>
         </ul>
       </td>
@@ -1410,7 +1411,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 4</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1438,8 +1439,8 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 38</li>
             <li> <a href="{{ "/tags/doomgaze" | relative_url }}">doomgaze</a> # 40</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1513,7 +1514,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       <td>
         <ul>
             <li> <a href="{{ "/tags/lithuanian" | relative_url }}">lithuanian</a> # 13</li>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 20</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1584,14 +1585,14 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 1</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/eLH4QmZhwjcxYkuSlgMgRJhQtTuUFYcp_YkV3b5jVjk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMjQ2/MDUtMTM4MjQ0NjEw/OS04MzAwLmpwZWc.jpeg" alt="Cover for Foggy Notion" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9c7802ff2dbf76f3915d7eb1b69950ce.png" alt="Cover for Foggy Notion" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Mushmouthed Talk</td>
@@ -1671,9 +1672,9 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 5</li>
-            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 31</li>
-            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 62</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 6</li>
+            <li> <a href="{{ "/tags/psychedelic-metal" | relative_url }}">psychedelic metal</a> # 39</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1787,9 +1788,9 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 45</li>
-            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 70</li>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 76</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 25</li>
+            <li> <a href="{{ "/tags/montreal" | relative_url }}">montreal</a> # 31</li>
+            <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1903,7 +1904,7 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 28</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1950,8 +1951,8 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 2</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 57</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 40</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1997,10 +1998,10 @@ A trio features three musicians performing together, creating an intimate yet dy
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 3</li>
-            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 67</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 78</li>
-            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 83</li>
+            <li> <a href="{{ "/tags/minneapolis" | relative_url }}">minneapolis</a> # 17</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 22</li>
+            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 34</li>
+            <li> <a href="{{ "/tags/jam" | relative_url }}">jam</a> # 98</li>
         </ul>
       </td>
     </tr>

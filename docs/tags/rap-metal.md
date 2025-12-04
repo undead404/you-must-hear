@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T14:06:38.382Z
+date: 2025-12-04T07:19:27.119Z
 permalink: tags/rap-metal
 title: rap metal
 ---
 
 ## rap metal
 
-Last updated: <time datetime="2025-11-26T14:06:38.382Z">Wed Nov 26 2025 16:06:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:19:27.119Z">Thu Dec 04 2025 09:19:27 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -46,7 +46,7 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 1</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -122,7 +122,7 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 74</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -216,7 +216,7 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       <td>
         <ul>
             <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 64</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 81</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -235,8 +235,8 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 42</li>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 43</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 57</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 59</li>
             <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 76</li>
         </ul>
       </td>
@@ -258,7 +258,7 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 44</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -298,7 +298,7 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 67</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 33</li>
             <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 100</li>
         </ul>
       </td>
@@ -338,7 +338,7 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 53</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 47</li>
             <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 94</li>
         </ul>
       </td>
@@ -393,7 +393,7 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 6</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 5</li>
             <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 41</li>
         </ul>
       </td>
@@ -451,7 +451,7 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 89</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 90</li>
             <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 98</li>
         </ul>
       </td>
@@ -471,8 +471,8 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       <td>
         <ul>
             <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 35</li>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 35</li>
             <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 38</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -491,7 +491,7 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 32</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 69</li>
             <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 93</li>
         </ul>
       </td>
@@ -521,8 +521,8 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 30</li>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 53</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 47</li>
+            <li> <a href="{{ "/tags/motown" | relative_url }}">motown</a> # 71</li>
             <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 73</li>
         </ul>
       </td>
@@ -595,7 +595,7 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 85</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 87</li>
             <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 92</li>
         </ul>
       </td>
@@ -651,7 +651,7 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 91</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 92</li>
             <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 97</li>
         </ul>
       </td>
@@ -726,7 +726,7 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 30</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -783,8 +783,8 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 30</li>
             <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 46</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -823,7 +823,7 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 6</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -898,7 +898,7 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 15</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -919,8 +919,8 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       <td>
         <ul>
             <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 2</li>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 32</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 49</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 52</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 69</li>
             <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 90</li>
             <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 97</li>
         </ul>
@@ -943,8 +943,8 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 39</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 48</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 53</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -968,10 +968,10 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 67</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 88</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 95</li>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 96</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 5</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 6</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 13</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1016,7 +1016,7 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 27</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1035,8 +1035,8 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 24</li>
             <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 67</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1133,7 +1133,6 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
@@ -1157,37 +1156,36 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
         <ul>
             <li> <a href="{{ "/tags/post-black-metal" | relative_url }}">post-black metal</a> # 2</li>
             <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 3</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 8</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 8</li>
             <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 9</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 18</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 10</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 12</li>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 14</li>
+            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 16</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 16</li>
             <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 22</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 27</li>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 30</li>
             <li> <a href="{{ "/tags/crossover-thrash" | relative_url }}">crossover thrash</a> # 32</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 35</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 38</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 40</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 42</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 45</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 48</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 48</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 53</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 54</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 58</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 62</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 63</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 47</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 53</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 53</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 54</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 54</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 63</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 66</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 66</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 67</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 72</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 74</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 81</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 83</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 83</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 85</li>
-            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 85</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 86</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 87</li>
-            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 87</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 89</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 91</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 92</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1231,8 +1229,8 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 33</li>
-            <li> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a> # 45</li>
+            <li> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a> # 55</li>
+            <li> <a href="{{ "/tags/russia" | relative_url }}">russia</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1390,7 +1388,6 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/sludge" | relative_url }}">sludge</a></li>
@@ -1413,29 +1410,28 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       <td>
         <ul>
             <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 9</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 11</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 16</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 19</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 24</li>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 25</li>
             <li> <a href="{{ "/tags/queercore" | relative_url }}">queercore</a> # 26</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 28</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 31</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 33</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 40</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 43</li>
+            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 28</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 34</li>
             <li> <a href="{{ "/tags/gothic-doom-metal" | relative_url }}">gothic doom metal</a> # 44</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 44</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 45</li>
             <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 49</li>
-            <li> <a href="{{ "/tags/real-screamo" | relative_url }}">real screamo</a> # 49</li>
             <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 54</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 56</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 56</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 57</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 61</li>
             <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 61</li>
             <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 70</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 70</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 72</li>
-            <li> <a href="{{ "/tags/sludgecore" | relative_url }}">sludgecore</a> # 73</li>
-            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 75</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 73</li>
             <li> <a href="{{ "/tags/black-doom-metal" | relative_url }}">black doom metal</a> # 75</li>
-            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 76</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 77</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 82</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 85</li>
+            <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 75</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1477,11 +1473,11 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 73</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 3</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 5</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 9</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 27</li>
             <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 91</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 92</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 96</li>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1503,7 +1499,7 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 45</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1521,7 +1517,7 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 90</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1589,8 +1585,8 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 41</li>
-            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 57</li>
+            <li> <a href="{{ "/tags/finnish-metal" | relative_url }}">finnish metal</a> # 44</li>
+            <li> <a href="{{ "/tags/suomi" | relative_url }}">suomi</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1648,7 +1644,7 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 48</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1669,7 +1665,7 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 70</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1689,7 +1685,7 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 10</li>
+            <li> <a href="{{ "/tags/beatdown-hardcore" | relative_url }}">beatdown hardcore</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1762,7 +1758,7 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 32</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 69</li>
             <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 89</li>
         </ul>
       </td>
@@ -1821,7 +1817,7 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 48</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1843,7 +1839,7 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 31</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1919,7 +1915,7 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 69</li>
+            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1939,10 +1935,10 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 25</li>
-            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 49</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 68</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 97</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 4</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 33</li>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 52</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1985,9 +1981,9 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 22</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 37</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 56</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 45</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 64</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -2086,7 +2082,7 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 57</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -2124,8 +2120,8 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 4</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 53</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 45</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -2143,7 +2139,7 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 23</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -2181,11 +2177,11 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 25</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 8</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 26</li>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 35</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 43</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 75</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 93</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 58</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -2205,7 +2201,7 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 66</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -2228,7 +2224,7 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 19</li>
+            <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -2248,7 +2244,7 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
         <ul>
             <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 17</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 34</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 41</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -2276,13 +2272,13 @@ Rap metal fuses aggressive hip-hop vocals and rapping with heavy metal guitar ri
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 16</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 6</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 17</li>
             <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 39</li>
-            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 55</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 77</li>
+            <li> <a href="{{ "/tags/big-beat" | relative_url }}">big beat</a> # 46</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 66</li>
             <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 82</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 84</li>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 95</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 82</li>
         </ul>
       </td>
     </tr>

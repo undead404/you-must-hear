@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-24T15:05:36.014Z
+date: 2025-12-04T07:15:06.440Z
 permalink: tags/anime-rock
 title: anime rock
 ---
 
 ## anime rock
 
-Last updated: <time datetime="2025-10-24T15:05:36.014Z">Fri Oct 24 2025 18:05:36 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T07:15:06.440Z">Thu Dec 04 2025 09:15:06 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -66,7 +66,7 @@ Anime rock blends energetic J-rock instrumentation with the emotional intensity 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 58</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 43</li>
             <li> <a href="{{ "/tags/j-idol" | relative_url }}">j-idol</a> # 67</li>
         </ul>
       </td>
@@ -93,7 +93,7 @@ Anime rock blends energetic J-rock instrumentation with the emotional intensity 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 67</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 34</li>
             <li> <a href="{{ "/tags/j-idol" | relative_url }}">j-idol</a> # 90</li>
         </ul>
       </td>
@@ -258,7 +258,7 @@ Anime rock blends energetic J-rock instrumentation with the emotional intensity 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 78</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 22</li>
             <li> <a href="{{ "/tags/j-pixie" | relative_url }}">j-pixie</a> # 79</li>
         </ul>
       </td>
@@ -281,7 +281,7 @@ Anime rock blends energetic J-rock instrumentation with the emotional intensity 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 48</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 53</li>
             <li> <a href="{{ "/tags/j-pixie" | relative_url }}">j-pixie</a> # 64</li>
         </ul>
       </td>
@@ -343,8 +343,8 @@ Anime rock blends energetic J-rock instrumentation with the emotional intensity 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 73</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 73</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 26</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 74</li>
             <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 92</li>
             <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 95</li>
             <li> <a href="{{ "/tags/j-pixie" | relative_url }}">j-pixie</a> # 100</li>
@@ -577,8 +577,8 @@ Anime rock blends energetic J-rock instrumentation with the emotional intensity 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 20</li>
             <li> <a href="{{ "/tags/j-pixie" | relative_url }}">j-pixie</a> # 57</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -667,7 +667,7 @@ Anime rock blends energetic J-rock instrumentation with the emotional intensity 
       <td>
         <ul>
             <li> <a href="{{ "/tags/j-idol" | relative_url }}">j-idol</a> # 49</li>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 51</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -688,7 +688,7 @@ Anime rock blends energetic J-rock instrumentation with the emotional intensity 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 65</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 36</li>
             <li> <a href="{{ "/tags/j-idol" | relative_url }}">j-idol</a> # 88</li>
         </ul>
       </td>
@@ -717,7 +717,7 @@ Anime rock blends energetic J-rock instrumentation with the emotional intensity 
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/1RmCoKyGitewWmR8ezcZ47CRabyqJYpPVHL_W-REzYs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTgw/OTk3LTE1OTM5Nzgx/NTktMjc3Mi5qcGVn.jpeg" alt="Cover for LIFE of DASH" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b4d888c2b7942c733103d722484dcfd3.png" alt="Cover for LIFE of DASH" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-12-20</td>
       <td>Konomi Suzuki</td>
@@ -795,7 +795,7 @@ Anime rock blends energetic J-rock instrumentation with the emotional intensity 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 81</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 20</li>
             <li> <a href="{{ "/tags/j-idol" | relative_url }}">j-idol</a> # 96</li>
         </ul>
       </td>
@@ -1042,7 +1042,7 @@ Anime rock blends energetic J-rock instrumentation with the emotional intensity 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 96</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1104,8 +1104,8 @@ Anime rock blends energetic J-rock instrumentation with the emotional intensity 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 41</li>
             <li> <a href="{{ "/tags/j-pixie" | relative_url }}">j-pixie</a> # 54</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1126,7 +1126,7 @@ Anime rock blends energetic J-rock instrumentation with the emotional intensity 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 60</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 41</li>
             <li> <a href="{{ "/tags/j-idol" | relative_url }}">j-idol</a> # 70</li>
         </ul>
       </td>
@@ -1148,7 +1148,7 @@ Anime rock blends energetic J-rock instrumentation with the emotional intensity 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 72</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1168,7 +1168,7 @@ Anime rock blends energetic J-rock instrumentation with the emotional intensity 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 47</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1188,7 +1188,7 @@ Anime rock blends energetic J-rock instrumentation with the emotional intensity 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 64</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1378,8 +1378,8 @@ Anime rock blends energetic J-rock instrumentation with the emotional intensity 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 48</li>
             <li> <a href="{{ "/tags/j-idol" | relative_url }}">j-idol</a> # 51</li>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 53</li>
             <li> <a href="{{ "/tags/j-pixie" | relative_url }}">j-pixie</a> # 67</li>
         </ul>
       </td>
@@ -1460,7 +1460,7 @@ Anime rock blends energetic J-rock instrumentation with the emotional intensity 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 36</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1560,7 +1560,7 @@ Anime rock blends energetic J-rock instrumentation with the emotional intensity 
       <td>
         <ul>
             <li> <a href="{{ "/tags/j-idol" | relative_url }}">j-idol</a> # 9</li>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 42</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1766,6 +1766,7 @@ Anime rock blends energetic J-rock instrumentation with the emotional intensity 
     <tr>
       <td>54</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/636b0facca5a4370c32e0a2d8b5e7ff8.png" alt="Cover for 18 -Colorful Gift-" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>鈴木このみ</td>

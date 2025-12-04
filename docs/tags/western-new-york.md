@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-24T15:06:39.991Z
+date: 2025-12-04T07:16:35.684Z
 permalink: tags/western-new-york
 title: western new york
 ---
 
 ## western new york
 
-Last updated: <time datetime="2025-10-24T15:06:39.991Z">Fri Oct 24 2025 18:06:39 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T07:16:35.684Z">Thu Dec 04 2025 09:16:35 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,7 +44,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 44</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -82,7 +82,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 80</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -102,7 +102,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 12</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -123,7 +123,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 75</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -143,7 +143,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 79</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -169,7 +169,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 25</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -191,7 +191,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 6</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -212,7 +212,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 88</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -238,7 +238,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 26</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -259,7 +259,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 84</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -285,7 +285,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 74</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -304,7 +304,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 83</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -324,7 +324,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 98</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -343,14 +343,14 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 100</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 1</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/38spNuprF7TeCjvTpLJcAb7-3aGcR4GoTkHxIQkJgPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTg2/MjUtMTQxNDMwMjYy/My02NzExLmpwZWc.jpeg" alt="Cover for Six-Pack Of Love" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1968d1563bc947619ba8c42f4b004500.png" alt="Cover for Six-Pack Of Love" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Peter Case</td>
@@ -367,7 +367,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 63</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -387,13 +387,14 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 68</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 33</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>91</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc8e33ccd9882922a67a91450d03b59b.png" alt="Cover for Lego My Ego" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Mercury Rev</td>
@@ -409,7 +410,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 90</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -429,7 +430,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 86</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -450,7 +451,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 14</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -470,7 +471,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 36</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -492,7 +493,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 62</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -511,7 +512,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 40</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -530,7 +531,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 46</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -548,7 +549,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 7</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -568,7 +569,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 73</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -589,7 +590,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 87</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -609,7 +610,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 65</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -630,7 +631,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 91</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -650,7 +651,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 15</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -670,7 +671,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 19</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -690,7 +691,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 28</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -710,7 +711,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 33</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -730,7 +731,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 55</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -769,7 +770,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 53</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -787,14 +788,14 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 42</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/7Tgm3tNPRdekh3D9E2k1P6b5wTcKXTSlJqXLpiq9iMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTQ1/OTAtMTQxNDMwMTIw/Ni0xNDE2LmpwZWc.jpeg" alt="Cover for Full Service, No Waiting" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8ef0e67eeeba45129a90c7f1c22570eb.png" alt="Cover for Full Service, No Waiting" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Peter Case</td>
@@ -805,7 +806,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 76</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -825,7 +826,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 81</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -851,10 +852,10 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 42</li>
-            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 59</li>
-            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 67</li>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 85</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 16</li>
+            <li> <a href="{{ "/tags/comedian" | relative_url }}">comedian</a> # 34</li>
+            <li> <a href="{{ "/tags/stand-up-comedy" | relative_url }}">stand-up comedy</a> # 42</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -874,7 +875,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 10</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -894,7 +895,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 48</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -914,7 +915,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 70</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -934,14 +935,14 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 71</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>90</td>
       <td>
-          <img src="https://i.discogs.com/Hu_0dvGVeOfex4abUvWhwk8bIslZSXOnMCYRVcUkj1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NjUx/My0xNDM3OTIzMjY5/LTE4MTIuanBlZw.jpeg" alt="Cover for Black Session" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/869ec12c26868fa663a0f5d4888f46ce.png" alt="Cover for Black Session" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Mercury Rev</td>
@@ -955,7 +956,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 89</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -977,7 +978,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 49</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -996,7 +997,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 56</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1016,7 +1017,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 37</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1036,14 +1037,14 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 82</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/jjrmc2tXwXEjKxj5In1_a2ShwXGv13tAj7GG6IwLaI4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTY1/MjMtMTMyNDQ4MDkz/OC5qcGVn.jpeg" alt="Cover for Flying Saucer Blues" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/577ca1fa8e7849da90b54a249f6c9aad.png" alt="Cover for Flying Saucer Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-04-18</td>
       <td>Peter Case</td>
@@ -1059,7 +1060,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 66</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1079,7 +1080,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 1</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1100,7 +1101,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 3</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1120,7 +1121,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 35</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1142,7 +1143,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 51</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1160,14 +1161,14 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 58</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/32bDX_3puGj8fNuFdbAWQGPKZMtTaGOfb7kYJpG8qkU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjI2/My0xNDc0OTQ4MzEy/LTgzMTgucG5n.jpeg" alt="Cover for So Much Shouting, So Much Laughter (disc 2: Girls Singing Night)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/79e4ee58eaca417eb9271e521485ec12.png" alt="Cover for So Much Shouting, So Much Laughter (disc 2: Girls Singing Night)" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Ani DiFranco</td>
@@ -1178,7 +1179,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 64</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1199,7 +1200,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 78</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1221,7 +1222,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 92</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1260,7 +1261,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 61</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1280,7 +1281,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 69</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1300,7 +1301,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 34</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1322,7 +1323,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 5</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1342,7 +1343,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 21</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1361,7 +1362,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 38</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1381,7 +1382,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 45</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1401,7 +1402,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 54</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1421,7 +1422,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 97</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1460,7 +1461,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 39</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1480,7 +1481,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 43</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1500,7 +1501,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 22</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1520,7 +1521,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 94</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1537,8 +1538,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 1</li>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 47</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1556,7 +1556,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 59</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1576,7 +1576,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 27</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1596,7 +1596,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 32</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1616,7 +1616,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 57</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1638,8 +1638,8 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 79</li>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 99</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 2</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1658,7 +1658,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 77</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1679,7 +1679,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 20</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1702,7 +1702,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 30</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1722,7 +1722,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 60</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1759,7 +1759,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 16</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1779,7 +1779,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 72</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1817,7 +1817,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 52</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1836,7 +1836,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 96</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1857,7 +1857,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 93</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1878,7 +1878,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 67</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1897,7 +1897,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 17</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1914,7 +1914,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 18</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1934,7 +1934,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 23</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1953,7 +1953,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 24</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1978,7 +1978,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 29</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1997,7 +1997,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 31</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -2016,7 +2016,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 41</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -2039,7 +2039,7 @@ Western New York represents the diverse musical output from the Buffalo-Rocheste
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 50</li>
+            <li> <a href="{{ "/tags/buffalo" | relative_url }}">buffalo</a> # 51</li>
         </ul>
       </td>
     </tr>

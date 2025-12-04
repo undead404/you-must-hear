@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-27T18:40:05.654Z
+date: 2025-12-04T07:20:05.156Z
 permalink: tags/lieder
 title: lieder
 ---
 
 ## lieder
 
-Last updated: <time datetime="2025-10-27T18:40:05.654Z">Mon Oct 27 2025 20:40:05 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T07:20:05.156Z">Thu Dec 04 2025 09:20:05 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -81,7 +81,7 @@ Lieder refers to German art songs from the Romantic era, typically featuring a s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harpsichord" | relative_url }}">harpsichord</a> # 67</li>
+            <li> <a href="{{ "/tags/harpsichord" | relative_url }}">harpsichord</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -742,7 +742,7 @@ Lieder refers to German art songs from the Romantic era, typically featuring a s
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/VSdOQPMThrUx75QEal1lJI0T9GDp_b5Bu8k-cHt6t6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDY5/MjYtMTMwMDM4MDEy/Ny5qcGVn.jpeg" alt="Cover for Come un cammello in una grondaia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bbff4976d3eb7669fbad17ff87be39a2.png" alt="Cover for Come un cammello in una grondaia" style="max-width:120px; height:auto;" />
       </td>
       <td>1991-11-08</td>
       <td>Franco Battiato</td>
@@ -760,7 +760,7 @@ Lieder refers to German art songs from the Romantic era, typically featuring a s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 33</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -834,7 +834,7 @@ Lieder refers to German art songs from the Romantic era, typically featuring a s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 47</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -859,7 +859,7 @@ Lieder refers to German art songs from the Romantic era, typically featuring a s
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/Y51tsLFqY9n1psX721coGQ_SQNGr6SQspeyB8sYMCD4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NzU0/Ny0xMTU5ODA2NTQx/LmpwZWc.jpeg" alt="Cover for Prospero&#39;s Books" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7aa0149928e4b3890ae0f6bdd384916.png" alt="Cover for Prospero&#39;s Books" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Sarah Leonard</td>
@@ -972,9 +972,9 @@ Lieder refers to German art songs from the Romantic era, typically featuring a s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 14</li>
             <li> <a href="{{ "/tags/sacred" | relative_url }}">sacred</a> # 45</li>
             <li> <a href="{{ "/tags/oratorio" | relative_url }}">oratorio</a> # 60</li>
+            <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1412,7 +1412,7 @@ Lieder refers to German art songs from the Romantic era, typically featuring a s
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/dPzM8QvshaIt74urhIepRThqRWCNb4wAUlTMPyVcp6Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjMy/ODg2LTE2MDU3MDE3/NDgtNDI2Ni5qcGVn.jpeg" alt="Cover for Schubert: Winterreise" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ac01c2cbd01d66a6ae503a41c8837ef.png" alt="Cover for Schubert: Winterreise" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Thomas Oliemans</td>
@@ -1633,7 +1633,7 @@ Lieder refers to German art songs from the Romantic era, typically featuring a s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 60</li>
+            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 41</li>
             <li> <a href="{{ "/tags/serialism" | relative_url }}">serialism</a> # 94</li>
         </ul>
       </td>
@@ -1702,7 +1702,7 @@ Lieder refers to German art songs from the Romantic era, typically featuring a s
     <tr>
       <td>91</td>
       <td>
-          <img src="https://i.discogs.com/n6k-bu1aeTDf6x5NR3lq_19P0aY3jPzB5xPmX04BfpM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Nzgw/NTY3LTE2MjgzNjU2/OTMtNjc1OC5qcGVn.jpeg" alt="Cover for Mahler: Kindertotenlieder &#x2F; Symphony No. 4 (Ferrier) (1945, 1949)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/705dbb244e87499d92c080cfa69834bd.png" alt="Cover for Mahler: Kindertotenlieder &#x2F; Symphony No. 4 (Ferrier) (1945, 1949)" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-04-29</td>
       <td>Gustav Mahler</td>
@@ -1753,7 +1753,7 @@ Lieder refers to German art songs from the Romantic era, typically featuring a s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 12</li>
+            <li> <a href="{{ "/tags/piano-solo" | relative_url }}">piano solo</a> # 89</li>
         </ul>
       </td>
     </tr>
