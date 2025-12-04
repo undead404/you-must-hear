@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-20T08:06:02.612Z
+date: 2025-12-04T00:59:50.733Z
 permalink: tags/india
 title: india
 ---
 
 ## india
 
-Last updated: <time datetime="2025-10-20T08:06:02.612Z">Mon Oct 20 2025 11:06:02 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T00:59:50.733Z">Thu Dec 04 2025 02:59:50 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -62,7 +62,7 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 41</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -83,7 +83,7 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 25</li>
+            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -103,7 +103,7 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 64</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 37</li>
             <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 96</li>
         </ul>
       </td>
@@ -149,9 +149,9 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
       <td>
         <ul>
             <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 14</li>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 19</li>
             <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 39</li>
             <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 56</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -175,9 +175,9 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 20</li>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 30</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 22</li>
             <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 60</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 71</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 85</li>
         </ul>
       </td>
@@ -239,9 +239,9 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 58</li>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 79</li>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 89</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 22</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 60</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -261,7 +261,7 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 72</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -315,7 +315,7 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 47</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 49</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 57</li>
         </ul>
       </td>
@@ -440,7 +440,7 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/iWqonF9mtiUAKL-UW3nhQ_LwQAv46yOGDxvI5Ey4Je4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjY1/LTEzNTI5MDk2MzIt/NjYzOS5qcGVn.jpeg" alt="Cover for Journey To The Sun" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/544d48505fef11927d2de492d361c55d.png" alt="Cover for Journey To The Sun" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-06-28</td>
       <td>Adham Shaikh</td>
@@ -476,8 +476,8 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 57</li>
-            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 88</li>
+            <li> <a href="{{ "/tags/jamaican" | relative_url }}">jamaican</a> # 12</li>
+            <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -496,8 +496,8 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 34</li>
             <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 63</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -519,8 +519,8 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 69</li>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 72</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 32</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 74</li>
             <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 94</li>
         </ul>
       </td>
@@ -528,7 +528,7 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/dDc4rpQ1MHRjKRHs6Yaa5BH2A-rYZTKoNzdXEI43uBo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Mjk5/OC0xMTQ1NDczMzYw/LmpwZWc.jpeg" alt="Cover for Dreamcatcher" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb368325e3f91c0668bcff4872b52ef0.png" alt="Cover for Dreamcatcher" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Dreamcatcher</td>
@@ -543,7 +543,7 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 86</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -598,7 +598,7 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
       <td>
         <ul>
             <li> <a href="{{ "/tags/mantra" | relative_url }}">mantra</a> # 5</li>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 14</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 16</li>
             <li> <a href="{{ "/tags/indian-fusion" | relative_url }}">indian fusion</a> # 55</li>
             <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 98</li>
         </ul>
@@ -621,7 +621,7 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 19</li>
+            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 18</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 25</li>
         </ul>
       </td>
@@ -652,7 +652,7 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
     <tr>
       <td>6</td>
       <td>
-          <img src="https://i.discogs.com/3lvZhUFAKMRv--Hdwjm-OtPrq6tx5ZaCpTsZY422LhQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4OTQ4/MDItMTQ1MTE0OTM0/NS04NDA4LmpwZWc.jpeg" alt="Cover for Teabreak" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/157bb61a4127aeb24d6fdaa0b4ef187c.png" alt="Cover for Teabreak" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Mynta</td>
@@ -689,7 +689,7 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
     <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/qvzOqDTkVyT99G7ZpEi9frKN0yRBuQS1MAahO-EvAX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTY5/NS0xMTk3NTYyOTQ4/LmpwZWc.jpeg" alt="Cover for Tigers of the Raj" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/21e1f0d440aa18b3af508ca29bb27292.png" alt="Cover for Tigers of the Raj" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>James Asher</td>
@@ -760,7 +760,7 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a> # 66</li>
+            <li> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -780,7 +780,7 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 91</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 92</li>
             <li> <a href="{{ "/tags/sitar" | relative_url }}">sitar</a> # 94</li>
         </ul>
       </td>
@@ -788,6 +788,7 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/54e8f2bf4ebedfdd80884042a9e80510.png" alt="Cover for Sky Kisses Earth" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Prem Joshua</td>
@@ -800,7 +801,7 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 30</li>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -837,7 +838,7 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 77</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -858,7 +859,7 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 43</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 59</li>
             <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 66</li>
         </ul>
       </td>
@@ -940,9 +941,9 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 84</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 2</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 85</li>
             <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 94</li>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 99</li>
             <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 100</li>
         </ul>
       </td>
@@ -950,6 +951,7 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/579fe7574ad3cf3ed4b17e84c0153659.png" alt="Cover for Tala Matrix" style="max-width:120px; height:auto;" />
       </td>
       <td>2000-09-12</td>
       <td>Tabla Beat Science</td>
@@ -961,9 +963,9 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 4</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 1</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 6</li>
             <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 60</li>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -981,7 +983,7 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 29</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1008,6 +1010,7 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6c2df749ca9f4eb28392b759147045ee.png" alt="Cover for Realize" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-07-31</td>
       <td>Karsh Kale</td>
@@ -1026,7 +1029,7 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/RzX8GEgY47_FKgOeJ8-SXAbC8SAP8RM-J1Wz9nXGU0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjc2/OTA5LTE1NDE2NzU4/MTctOTI5Mi5qcGVn.jpeg" alt="Cover for Redesign: Realize Remixed" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0f73239f584b46af9d89ea313b093c31.png" alt="Cover for Redesign: Realize Remixed" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Karsh Kale</td>
@@ -1062,15 +1065,15 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 22</li>
-            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 44</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 23</li>
+            <li> <a href="{{ "/tags/meditation" | relative_url }}">meditation</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/Tiv5pACxpI8WcydSqtwnh7lOGzcT0X1oP-IiFF3p-4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODk1/Ni0xMTY5NTIyMDgz/LmpwZWc.jpeg" alt="Cover for Now" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/05eb019847c245f989cb882f5ad61156.png" alt="Cover for Now" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-07-09</td>
       <td>Bhagavan Das</td>
@@ -1128,7 +1131,7 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 63</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 65</li>
             <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 90</li>
             <li> <a href="{{ "/tags/punjabi" | relative_url }}">punjabi</a> # 94</li>
             <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 97</li>
@@ -1179,7 +1182,7 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/61ebpy_uJZJxH2bZb41jztCcx1Ojzxu-JH9jMl15mL0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDA3/OS0xMTQxNTIxNjM3/LmpwZWc.jpeg" alt="Cover for Bassic Instinct No. 3" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/540514c1069b45c6d040c2bb5dd94a72.png" alt="Cover for Bassic Instinct No. 3" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-02-10</td>
       <td>Athome Project</td>
@@ -1221,6 +1224,7 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
     <tr>
       <td>69</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/02bae9aabd634e3ab73eaa44795b625c.png" alt="Cover for Liberation" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-06-01</td>
       <td>Karsh Kale</td>
@@ -1239,7 +1243,7 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
     <tr>
       <td>81</td>
       <td>
-          <img src="https://i.discogs.com/AZqV5OKF9xTYWETPAszECTHyoIS8gtTTZP-1ZAw-lRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMjI3/MDctMTQzNDIxOTAw/NS0zNTQwLmpwZWc.jpeg" alt="Cover for Dakini Lounge: Prem Joshua Remixed" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/882b11233c9c0f02565a3f3be169884f.png" alt="Cover for Dakini Lounge: Prem Joshua Remixed" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-09-16</td>
       <td>Prem Joshua</td>
@@ -1272,9 +1276,9 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 81</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 20</li>
             <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 90</li>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 90</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 91</li>
             <li> <a href="{{ "/tags/flute" | relative_url }}">flute</a> # 95</li>
         </ul>
       </td>
@@ -1354,8 +1358,8 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 2</li>
             <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 84</li>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1432,7 +1436,7 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 21</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 23</li>
             <li> <a href="{{ "/tags/indian-classical" | relative_url }}">indian classical</a> # 64</li>
             <li> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a> # 96</li>
         </ul>
@@ -1457,17 +1461,17 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 2</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 38</li>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 42</li>
-            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 46</li>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 63</li>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 73</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 77</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 12</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 24</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 38</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 39</li>
+            <li> <a href="{{ "/tags/indian" | relative_url }}">indian</a> # 48</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 55</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 72</li>
             <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 88</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 89</li>
-            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 94</li>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 97</li>
+            <li> <a href="{{ "/tags/ethno" | relative_url }}">ethno</a> # 95</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 95</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1611,7 +1615,7 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 87</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1710,7 +1714,7 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 89</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 88</li>
             <li> <a href="{{ "/tags/piano-trio" | relative_url }}">piano trio</a> # 92</li>
         </ul>
       </td>
@@ -1751,7 +1755,7 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 50</li>
+            <li> <a href="{{ "/tags/bollywood" | relative_url }}">bollywood</a> # 51</li>
             <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 71</li>
         </ul>
       </td>
@@ -1759,7 +1763,7 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/ZlnSDepc1azHhGTus_ZXnMDrxMY-k01FnzCfSvx4-XM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mzc1/MDAtMTM2NzcxNDgw/MC00NzgzLmpwZWc.jpeg" alt="Cover for Another Quiet Day" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5e78439430724b1480a54864a9ffd05a.png" alt="Cover for Another Quiet Day" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-12-17</td>
       <td>The Eternal Twilight</td>
@@ -1777,8 +1781,8 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 28</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 46</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 51</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1837,13 +1841,14 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/nkvl08UMoIqDnqVdgO17qaiju-WptWJM_WY4zq6hPmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDM1/MDA2LTE1MjY5ODc5/MzMtMzM3Ni5qcGVn.jpeg" alt="Cover for Agyat Ishvar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/38e9b4b78e617620fd04e105a87311e5.png" alt="Cover for Agyat Ishvar" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-05-18</td>
       <td>Aparthiva Raktadhara</td>
@@ -1859,7 +1864,7 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 1</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1933,7 +1938,7 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 24</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 25</li>
             <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 70</li>
         </ul>
       </td>
@@ -2047,6 +2052,7 @@ Music tagged as &quot;india&quot; encompasses traditional and contemporary sound
     <tr>
       <td>22</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ceb4154d71c102ab1f065988e7cc572.png" alt="Cover for Duara Bada Chhail Lagda" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Various Artists - T-Series</td>

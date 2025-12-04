@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T07:04:38.120Z
+date: 2025-12-04T01:01:13.887Z
 permalink: tags/bedroom-pop
 title: bedroom pop
 ---
 
 ## bedroom pop
 
-Last updated: <time datetime="2025-11-26T07:04:38.120Z">Wed Nov 26 2025 09:04:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T01:01:13.887Z">Thu Dec 04 2025 03:01:13 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -61,7 +61,7 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 95</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -89,14 +89,14 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 27</li>
-            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 53</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 72</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 76</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 85</li>
-            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 85</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 89</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 95</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 6</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 12</li>
+            <li> <a href="{{ "/tags/conscious-hip-hop" | relative_url }}">conscious hip hop</a> # 16</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 16</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 29</li>
+            <li> <a href="{{ "/tags/jazz-rap" | relative_url }}">jazz rap</a> # 48</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 74</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -114,7 +114,7 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 84</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -136,8 +136,8 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 45</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 81</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 20</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 54</li>
             <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 87</li>
         </ul>
       </td>
@@ -191,7 +191,7 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 74</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -227,7 +227,6 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -245,8 +244,8 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 20</li>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 85</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 15</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 79</li>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 87</li>
         </ul>
       </td>
@@ -265,8 +264,8 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 60</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 74</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 26</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -320,9 +319,9 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 29</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 77</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 95</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 6</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 24</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -349,13 +348,13 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 19</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 21</li>
-            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 52</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 1</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 10</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 31</li>
+            <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 47</li>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 62</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 69</li>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 91</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 100</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 77</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -374,7 +373,7 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 98</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -415,7 +414,7 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 70</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -468,8 +467,8 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 88</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 93</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 38</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -491,8 +490,8 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 34</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 95</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 5</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -564,11 +563,11 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 33</li>
-            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 37</li>
+            <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 64</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 67</li>
             <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 75</li>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 76</li>
-            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 87</li>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 80</li>
+            <li> <a href="{{ "/tags/garage-rock-revival" | relative_url }}">garage rock revival</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -586,7 +585,8 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 81</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 20</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -621,7 +621,7 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 93</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 8</li>
             <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 100</li>
         </ul>
       </td>
@@ -642,7 +642,7 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 23</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -680,8 +680,8 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 16</li>
             <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 54</li>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -704,10 +704,10 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 95</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 96</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 96</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 96</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 5</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 5</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 5</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 96</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 96</li>
         </ul>
       </td>
@@ -726,8 +726,8 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 66</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 100</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 35</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -787,8 +787,8 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 14</li>
             <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 74</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -830,10 +830,10 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 53</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 81</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 3</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 20</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 54</li>
             <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 94</li>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 97</li>
             <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 99</li>
         </ul>
       </td>
@@ -858,10 +858,10 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 80</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 96</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 98</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 99</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 2</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 3</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 5</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -879,8 +879,6 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 63</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -899,7 +897,7 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 43</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -922,25 +920,6 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
     </tr>
     <tr>
-      <td>53</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b1ae32f1b1b9870036633ed83458ce7.png" alt="Cover for Blouse" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2019</td>
-      <td>Clairo</td>
-      <td>Blouse</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 90</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 96</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>100</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/84370fe020dc941a41897d984d75e87c.png" alt="Cover for f song" style="max-width:120px; height:auto;" />
@@ -959,9 +938,9 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 96</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 99</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 99</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 2</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 2</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 5</li>
             <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 100</li>
         </ul>
       </td>
@@ -985,6 +964,23 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
     </tr>
     <tr>
+      <td>53</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4b1ae32f1b1b9870036633ed83458ce7.png" alt="Cover for Blouse" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2019</td>
+      <td>Clairo</td>
+      <td>Blouse</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>66</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/a2250559abbd61df35e3ce8314f34c16.png" alt="Cover for M for Empathy" style="max-width:120px; height:auto;" />
@@ -998,7 +994,7 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 4</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1035,11 +1031,11 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 50</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 22</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 23</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 51</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 62</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 76</li>
             <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 77</li>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 78</li>
             <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 96</li>
         </ul>
       </td>
@@ -1059,7 +1055,7 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 44</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1095,8 +1091,8 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 78</li>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 100</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 7</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1121,8 +1117,8 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 65</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 88</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 13</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1146,7 +1142,7 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       <td>
         <ul>
             <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 29</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 66</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 34</li>
             <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 67</li>
         </ul>
       </td>
@@ -1171,10 +1167,10 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 80</li>
-            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 87</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 90</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 95</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 6</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 11</li>
+            <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 14</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1216,8 +1212,8 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 14</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 95</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 5</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1293,7 +1289,7 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 39</li>
+            <li> <a href="{{ "/tags/chillwave" | relative_url }}">chillwave</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1370,7 +1366,7 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 61</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1388,10 +1384,10 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 2</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 27</li>
             <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 69</li>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 74</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 97</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1410,7 +1406,7 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 12</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1428,7 +1424,7 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 47</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1452,9 +1448,9 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 57</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 83</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 92</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 8</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 18</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1486,11 +1482,11 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 6</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 7</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 8</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 16</li>
             <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 73</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 85</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 93</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 94</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 95</li>
             <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 97</li>
         </ul>
       </td>
@@ -1514,10 +1510,10 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 96</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 98</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 100</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 100</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 1</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 1</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 3</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1592,10 +1588,6 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 22</li>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 55</li>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 68</li>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1633,7 +1625,7 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 13</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1653,13 +1645,13 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 2</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 8</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 15</li>
             <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 16</li>
             <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 71</li>
             <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 72</li>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 85</li>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 93</li>
             <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 93</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1695,6 +1687,7 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1712,7 +1705,7 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 87</li>
+            <li> <a href="{{ "/tags/city-pop" | relative_url }}">city pop</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1733,11 +1726,11 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 1</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 2</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 11</li>
             <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 88</li>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 90</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 99</li>
             <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 100</li>
-            <li> <a href="{{ "/tags/2-step" | relative_url }}">2-step</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1755,7 +1748,7 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 52</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1796,7 +1789,7 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 18</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 19</li>
             <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 59</li>
         </ul>
       </td>
@@ -1839,7 +1832,7 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 85</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1874,8 +1867,6 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 17</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1917,8 +1908,8 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 17</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 84</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 16</li>
+            <li> <a href="{{ "/tags/slowcore" | relative_url }}">slowcore</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1944,10 +1935,10 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 51</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 18</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 50</li>
             <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 62</li>
             <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 71</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1965,7 +1956,7 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 24</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1985,14 +1976,14 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 47</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 70</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 89</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 1</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 5</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 12</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 31</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 51</li>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 95</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 96</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 99</li>
             <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 99</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 100</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2028,9 +2019,9 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 94</li>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 98</li>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 98</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 9</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 16</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -2059,8 +2050,8 @@ Bedroom pop is a subgenre of indie pop that originated in the early 2010s, chara
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 75</li>
-            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 90</li>
+            <li> <a href="{{ "/tags/post-punk-revival" | relative_url }}">post-punk revival</a> # 11</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 26</li>
             <li> <a href="{{ "/tags/punk-pop" | relative_url }}">punk pop</a> # 98</li>
         </ul>
       </td>

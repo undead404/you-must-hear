@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T12:54:21.960Z
+date: 2025-12-04T01:01:45.712Z
 permalink: tags/pagan-folk
 title: pagan folk
 ---
 
 ## pagan folk
 
-Last updated: <time datetime="2025-11-15T12:54:21.960Z">Sat Nov 15 2025 14:54:21 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T01:01:45.712Z">Thu Dec 04 2025 03:01:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -140,7 +140,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       <td>
         <ul>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 29</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 31</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 29</li>
             <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 50</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 81</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 90</li>
@@ -162,14 +162,14 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 69</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 70</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/s6Umeu4NZMP0QzwcFjRsQWbja97jOxR061jSIlAlhM8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NjM2/ODgtMTI0ODYyNjI5/Mi5qcGVn.jpeg" alt="Cover for Белое Сердце" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/63f3adce365e47e1a86a12e74f348a4a.png" alt="Cover for Белое Сердце" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Амулет</td>
@@ -267,25 +267,25 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 10</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 43</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 51</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 57</li>
-            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 70</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 13</li>
+            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 15</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 15</li>
+            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 16</li>
+            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 16</li>
+            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 24</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 42</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 46</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 58</li>
+            <li> <a href="{{ "/tags/electro-house" | relative_url }}">electro house</a> # 72</li>
             <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 72</li>
-            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 73</li>
-            <li> <a href="{{ "/tags/drum-and-bass" | relative_url }}">drum and bass</a> # 74</li>
-            <li> <a href="{{ "/tags/norway" | relative_url }}">norway</a> # 84</li>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 85</li>
-            <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 85</li>
-            <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 86</li>
+            <li> <a href="{{ "/tags/norwegian" | relative_url }}">norwegian</a> # 77</li>
+            <li> <a href="{{ "/tags/house" | relative_url }}">house</a> # 82</li>
             <li> <a href="{{ "/tags/nordic" | relative_url }}">nordic</a> # 86</li>
             <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 87</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 88</li>
             <li> <a href="{{ "/tags/bassline" | relative_url }}">bassline</a> # 89</li>
             <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 93</li>
-            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 96</li>
             <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 97</li>
+            <li> <a href="{{ "/tags/celtic" | relative_url }}">celtic</a> # 98</li>
             <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 100</li>
         </ul>
       </td>
@@ -360,8 +360,8 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 16</li>
-            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 99</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 17</li>
+            <li> <a href="{{ "/tags/greek" | relative_url }}">greek</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -405,8 +405,8 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       <td>
         <ul>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 18</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 27</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 57</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 73</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 73</li>
         </ul>
       </td>
@@ -456,11 +456,11 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 4</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 22</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 5</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 29</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 35</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 60</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 70</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -500,8 +500,8 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 34</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 61</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 62</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -576,7 +576,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 46</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -656,15 +656,15 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 5</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 6</li>
             <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 19</li>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 34</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 40</li>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 50</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 52</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 51</li>
             <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 53</li>
             <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 63</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 64</li>
+            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 66</li>
             <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 76</li>
             <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 79</li>
             <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 90</li>
@@ -723,7 +723,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 59</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 60</li>
             <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 79</li>
         </ul>
       </td>
@@ -750,10 +750,10 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 5</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 25</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 37</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 44</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 6</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 26</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 35</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -796,7 +796,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 58</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -875,7 +875,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 40</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -896,8 +896,8 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 19</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 67</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 32</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 82</li>
             <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 94</li>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 96</li>
         </ul>
@@ -906,7 +906,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/wgh4B5s5GzulubXdO7P2Nu0wg1JM0_ZNwiiQGBZ1tuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzIx/MDMtMTIzOTc4ODg4/MS5qcGVn.jpeg" alt="Cover for Ösforrás" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8d6e6a021dba4effced5a8f2b214f5ed.png" alt="Cover for Ösforrás" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03-15</td>
       <td>The Moon and the Nightspirit</td>
@@ -947,9 +947,9 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       <td>
         <ul>
             <li> <a href="{{ "/tags/neomedieval" | relative_url }}">neomedieval</a> # 42</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 43</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 49</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 52</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 49</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 50</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 58</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 62</li>
         </ul>
       </td>
@@ -1052,7 +1052,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       <td>
         <ul>
             <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 1</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 4</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 3</li>
             <li> <a href="{{ "/tags/soprano" | relative_url }}">soprano</a> # 13</li>
             <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 41</li>
             <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 50</li>
@@ -1082,9 +1082,9 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 5</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 56</li>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 57</li>
             <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 77</li>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1108,7 +1108,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 47</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1143,12 +1143,12 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 15</li>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 19</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 24</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 21</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 25</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 27</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 40</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 50</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 72</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 47</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1232,7 +1232,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 54</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1274,7 +1274,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 52</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1293,7 +1293,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 98</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1336,8 +1336,8 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 34</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 58</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 36</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1406,7 +1406,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 28</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1532,8 +1532,8 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 13</li>
             <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 84</li>
-            <li> <a href="{{ "/tags/harp" | relative_url }}">harp</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1636,7 +1636,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 20</li>
+            <li> <a href="{{ "/tags/medieval-folk" | relative_url }}">medieval folk</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1675,6 +1675,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1702,7 +1703,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       <td>
         <ul>
             <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 4</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 50</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1743,10 +1744,6 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 71</li>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 81</li>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 93</li>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1803,6 +1800,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1845,7 +1843,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 88</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1877,7 +1875,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/xCeIlWlIdYI3QAdkpToqou3AQXbGqkdfQYkuegVN_pE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTE3/MDMzLTE2OTg1Nzc1/ODQtOTg3My5qcGVn.jpeg" alt="Cover for Penta" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6d114e32ed80ecc031d1f4bfbf19c1b.png" alt="Cover for Penta" style="max-width:120px; height:auto;" />
       </td>
       <td>2020</td>
       <td>Tibetréa</td>
@@ -2124,7 +2122,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 24</li>
+            <li> <a href="{{ "/tags/ethnic-fusion" | relative_url }}">ethnic fusion</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -2143,8 +2141,8 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 18</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 49</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 50</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -2170,8 +2168,8 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       <td>
         <ul>
             <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 20</li>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 30</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 40</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 28</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -2194,7 +2192,7 @@ Pagan folk blends traditional acoustic instrumentation with themes drawn from pr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 42</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 43</li>
         </ul>
       </td>
     </tr>
