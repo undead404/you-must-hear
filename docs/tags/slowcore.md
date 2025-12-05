@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T07:26:46.232Z
+date: 2025-12-05T14:53:59.899Z
 permalink: tags/slowcore
 title: slowcore
 ---
 
 ## slowcore
 
-Last updated: <time datetime="2025-12-03T07:26:46.232Z">Wed Dec 03 2025 09:26:46 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T14:53:59.899Z">Fri Dec 05 2025 16:53:59 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -62,7 +62,7 @@ Slowcore, also known as sadcore, is a subgenre of indie rock that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 38</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -321,9 +321,9 @@ Slowcore, also known as sadcore, is a subgenre of indie rock that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 45</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 59</li>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 90</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 11</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 42</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -434,7 +434,7 @@ Slowcore, also known as sadcore, is a subgenre of indie rock that emerged in the
       <td>
         <ul>
             <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 12</li>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 43</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -474,12 +474,12 @@ Slowcore, also known as sadcore, is a subgenre of indie rock that emerged in the
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 3</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 4</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 33</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 38</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 57</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 62</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 97</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 98</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 39</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -518,10 +518,10 @@ Slowcore, also known as sadcore, is a subgenre of indie rock that emerged in the
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 6</li>
             <li> <a href="{{ "/tags/space-rock-revival" | relative_url }}">space rock revival</a> # 10</li>
             <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 25</li>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 74</li>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 95</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -672,7 +672,7 @@ Slowcore, also known as sadcore, is a subgenre of indie rock that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 75</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -842,7 +842,7 @@ Slowcore, also known as sadcore, is a subgenre of indie rock that emerged in the
       <td>
         <ul>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 36</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 51</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -882,7 +882,7 @@ Slowcore, also known as sadcore, is a subgenre of indie rock that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 24</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -919,7 +919,7 @@ Slowcore, also known as sadcore, is a subgenre of indie rock that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 67</li>
+            <li> <a href="{{ "/tags/twee-pop" | relative_url }}">twee pop</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -976,7 +976,7 @@ Slowcore, also known as sadcore, is a subgenre of indie rock that emerged in the
       <td>
         <ul>
             <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 12</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 79</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 22</li>
             <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 80</li>
         </ul>
       </td>
@@ -995,12 +995,12 @@ Slowcore, also known as sadcore, is a subgenre of indie rock that emerged in the
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 4</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 5</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 37</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 41</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 52</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 57</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 96</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 97</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 44</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1060,7 +1060,7 @@ Slowcore, also known as sadcore, is a subgenre of indie rock that emerged in the
       <td>
         <ul>
             <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 13</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 18</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1096,14 +1096,14 @@ Slowcore, also known as sadcore, is a subgenre of indie rock that emerged in the
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 2</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 3</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 26</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 29</li>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 38</li>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 67</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 69</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 31</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 34</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 62</li>
             <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 95</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 98</li>
-            <li> <a href="{{ "/tags/folk-noir" | relative_url }}">folk noir</a> # 99</li>
             <li> <a href="{{ "/tags/folk-rock" | relative_url }}">folk rock</a> # 99</li>
         </ul>
       </td>
@@ -1145,7 +1145,7 @@ Slowcore, also known as sadcore, is a subgenre of indie rock that emerged in the
       <td>
         <ul>
             <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 9</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 51</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1166,7 +1166,7 @@ Slowcore, also known as sadcore, is a subgenre of indie rock that emerged in the
       <td>
         <ul>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 4</li>
-            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 88</li>
+            <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1205,7 +1205,7 @@ Slowcore, also known as sadcore, is a subgenre of indie rock that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 75</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1224,7 +1224,7 @@ Slowcore, also known as sadcore, is a subgenre of indie rock that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 29</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1260,9 +1260,9 @@ Slowcore, also known as sadcore, is a subgenre of indie rock that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 61</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 14</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 40</li>
             <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 79</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1300,8 +1300,8 @@ Slowcore, also known as sadcore, is a subgenre of indie rock that emerged in the
       <td>
         <ul>
             <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 11</li>
-            <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 13</li>
             <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 60</li>
+            <li> <a href="{{ "/tags/new-zealand" | relative_url }}">new zealand</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1319,8 +1319,8 @@ Slowcore, also known as sadcore, is a subgenre of indie rock that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 15</li>
             <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 38</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1361,7 +1361,7 @@ Slowcore, also known as sadcore, is a subgenre of indie rock that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 31</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1397,7 +1397,7 @@ Slowcore, also known as sadcore, is a subgenre of indie rock that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 34</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1415,7 +1415,7 @@ Slowcore, also known as sadcore, is a subgenre of indie rock that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 63</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1435,9 +1435,9 @@ Slowcore, also known as sadcore, is a subgenre of indie rock that emerged in the
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 2</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 6</li>
             <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 18</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 95</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1534,11 +1534,11 @@ Slowcore, also known as sadcore, is a subgenre of indie rock that emerged in the
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 5</li>
+            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 10</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 30</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 32</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 44</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 69</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 71</li>
-            <li> <a href="{{ "/tags/protest" | relative_url }}">protest</a> # 90</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1601,10 +1601,10 @@ Slowcore, also known as sadcore, is a subgenre of indie rock that emerged in the
       <td>
         <ul>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 7</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 15</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 55</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 61</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 86</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 15</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 40</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 46</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1622,8 +1622,8 @@ Slowcore, also known as sadcore, is a subgenre of indie rock that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 20</li>
             <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 20</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1696,10 +1696,10 @@ Slowcore, also known as sadcore, is a subgenre of indie rock that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 13</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 57</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 76</li>
-            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 90</li>
+            <li> <a href="{{ "/tags/midwest-emo" | relative_url }}">midwest emo</a> # 10</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 25</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 43</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1792,9 +1792,9 @@ Slowcore, also known as sadcore, is a subgenre of indie rock that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 81</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 91</li>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 96</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 5</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 10</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1813,8 +1813,8 @@ Slowcore, also known as sadcore, is a subgenre of indie rock that emerged in the
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 34</li>
             <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 39</li>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1891,8 +1891,8 @@ Slowcore, also known as sadcore, is a subgenre of indie rock that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 52</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 73</li>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 28</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1918,7 +1918,7 @@ Slowcore, also known as sadcore, is a subgenre of indie rock that emerged in the
       <td>
         <ul>
             <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 16</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 55</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1937,7 +1937,7 @@ Slowcore, also known as sadcore, is a subgenre of indie rock that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 22</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1960,7 +1960,7 @@ Slowcore, also known as sadcore, is a subgenre of indie rock that emerged in the
         <ul>
             <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 2</li>
             <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 3</li>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 78</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1983,7 +1983,7 @@ Slowcore, also known as sadcore, is a subgenre of indie rock that emerged in the
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 32</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 70</li>
         </ul>
       </td>
     </tr>

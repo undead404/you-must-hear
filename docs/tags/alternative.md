@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T08:36:34.990Z
+date: 2025-12-05T15:25:32.978Z
 permalink: tags/alternative
 title: alternative
 ---
 
 ## alternative
 
-Last updated: <time datetime="2025-12-03T08:36:34.990Z">Wed Dec 03 2025 10:36:34 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T15:25:32.978Z">Fri Dec 05 2025 17:25:32 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -43,12 +43,12 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 24</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 43</li>
-            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 68</li>
-            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 86</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 87</li>
-            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 100</li>
+            <li> <a href="{{ "/tags/manchester" | relative_url }}">manchester</a> # 1</li>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 14</li>
+            <li> <a href="{{ "/tags/new-wave" | relative_url }}">new wave</a> # 15</li>
+            <li> <a href="{{ "/tags/post-punk" | relative_url }}">post-punk</a> # 33</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 58</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -67,8 +67,8 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 46</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 94</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 8</li>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -87,7 +87,7 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       <td>
         <ul>
             <li> <a href="{{ "/tags/ireland" | relative_url }}">ireland</a> # 15</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 83</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -107,10 +107,10 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 11</li>
-            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 31</li>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 66</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 71</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 30</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 34</li>
+            <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 70</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -129,8 +129,8 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 70</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 97</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 4</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -168,9 +168,9 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 47</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 82</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 99</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 2</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 19</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -191,8 +191,8 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 37</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 64</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 37</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -212,7 +212,7 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       <td>
         <ul>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 15</li>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 38</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -232,9 +232,9 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 60</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 67</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 96</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 5</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 34</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -254,8 +254,8 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 68</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 90</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 10</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -275,9 +275,9 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 32</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 86</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 96</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 5</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 14</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -296,9 +296,9 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 21</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 36</li>
             <li> <a href="{{ "/tags/psychedelic-pop" | relative_url }}">psychedelic pop</a> # 39</li>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 65</li>
-            <li> <a href="{{ "/tags/neo-psychedelia" | relative_url }}">neo-psychedelia</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -317,9 +317,9 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 34</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 79</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 92</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 8</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 22</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -339,7 +339,7 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 34</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -359,9 +359,9 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 9</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 12</li>
             <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 54</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 91</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -381,8 +381,8 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 91</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 98</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 3</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -402,8 +402,8 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 55</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 99</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 2</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -427,11 +427,11 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 9</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 3</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 11</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 26</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 38</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 90</li>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 98</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 61</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -451,7 +451,7 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 58</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -472,10 +472,10 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 1</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 9</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 47</li>
             <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 49</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 53</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 93</li>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -496,8 +496,8 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 45</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 86</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 15</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -517,7 +517,7 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 91</li>
+            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -537,9 +537,9 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 24</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 85</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 95</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 5</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 16</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -559,12 +559,11 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 9</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 68</li>
-            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 89</li>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 94</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 96</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 97</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 7</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 7</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 13</li>
+            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 15</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -588,12 +587,12 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 10</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 15</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 18</li>
             <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 30</li>
-            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 62</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 83</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 86</li>
+            <li> <a href="{{ "/tags/new-weird-america" | relative_url }}">new weird america</a> # 39</li>
             <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 89</li>
+            <li> <a href="{{ "/tags/freak-folk" | relative_url }}">freak folk</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -613,8 +612,8 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 99</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 100</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 1</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -635,9 +634,9 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 44</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 98</li>
-            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 99</li>
+            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 2</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 3</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -657,7 +656,7 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 86</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -696,8 +695,8 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 29</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 68</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 32</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -717,9 +716,9 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 88</li>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 96</li>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 96</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 5</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 5</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -738,9 +737,9 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 9</li>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 92</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 94</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 6</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 9</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -760,11 +759,11 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 2</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 3</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 6</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 12</li>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 88</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 89</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 95</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 98</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -784,7 +783,7 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 42</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 59</li>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 92</li>
         </ul>
       </td>
@@ -840,8 +839,8 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 25</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 79</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 21</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -862,9 +861,9 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 78</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 84</li>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 95</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 6</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 17</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -883,7 +882,7 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 47</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -903,8 +902,8 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 86</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 87</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 14</li>
+            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -925,10 +924,10 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       <td>
         <ul>
             <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 5</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 5</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 8</li>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 22</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 77</li>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 96</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -949,8 +948,8 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 15</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 94</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 7</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -971,8 +970,8 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 45</li>
             <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 49</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1014,11 +1013,11 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 1</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 1</li>
             <li> <a href="{{ "/tags/electronica" | relative_url }}">electronica</a> # 4</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 70</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 93</li>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 100</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 100</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 8</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1039,8 +1038,8 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 1</li>
             <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 1</li>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1079,11 +1078,11 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 25</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 77</li>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 82</li>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 89</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 95</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 6</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 12</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 18</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 24</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1124,8 +1123,8 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 37</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 71</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 29</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1163,11 +1162,11 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 6</li>
             <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 8</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 27</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 29</li>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 35</li>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 95</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 64</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 72</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1185,10 +1184,10 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 1</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 4</li>
             <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 18</li>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 38</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 97</li>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 100</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1206,7 +1205,7 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 21</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1227,8 +1226,8 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 84</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 97</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 4</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1249,7 +1248,7 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 8</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1287,7 +1286,7 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 97</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1307,7 +1306,7 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 21</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1329,9 +1328,9 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 4</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 8</li>
-            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 82</li>
+            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 19</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 92</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1351,11 +1350,11 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 10</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 42</li>
-            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 53</li>
-            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 53</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 98</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 3</li>
+            <li> <a href="{{ "/tags/desert-rock" | relative_url }}">desert rock</a> # 47</li>
+            <li> <a href="{{ "/tags/psychedelic-rock" | relative_url }}">psychedelic rock</a> # 48</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 60</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1391,7 +1390,7 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 66</li>
+            <li> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1412,7 +1411,7 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 91</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1433,7 +1432,7 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 83</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1471,8 +1470,8 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 7</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 10</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 92</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 94</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 98</li>
         </ul>
       </td>
@@ -1501,15 +1500,15 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 8</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 70</li>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 70</li>
-            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 95</li>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 97</li>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 98</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 100</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 100</li>
-            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 100</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 1</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 1</li>
+            <li> <a href="{{ "/tags/england" | relative_url }}">england</a> # 1</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 3</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 4</li>
+            <li> <a href="{{ "/tags/trip-hop" | relative_url }}">trip-hop</a> # 6</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 31</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 31</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1532,10 +1531,10 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 89</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 95</li>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 98</li>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 100</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 1</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 3</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 6</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1558,10 +1557,10 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 39</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 51</li>
-            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 93</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 95</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 6</li>
+            <li> <a href="{{ "/tags/britpop" | relative_url }}">britpop</a> # 8</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 49</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1580,7 +1579,7 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 99</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1637,10 +1636,10 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 68</li>
-            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 79</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 91</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 97</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 4</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 10</li>
+            <li> <a href="{{ "/tags/synthpop" | relative_url }}">synthpop</a> # 22</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1659,8 +1658,8 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 21</li>
             <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 52</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1680,7 +1679,7 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 100</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1701,8 +1700,8 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 55</li>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 85</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 16</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -1742,9 +1741,9 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 49</li>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 60</li>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 98</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 3</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 30</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1784,7 +1783,7 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       <td>
         <ul>
             <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 6</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 71</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1807,10 +1806,10 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 4</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 8</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 10</li>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 29</li>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 93</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 97</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1833,11 +1832,11 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 6</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 17</li>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 26</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 54</li>
-            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 78</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 95</li>
+            <li> <a href="{{ "/tags/indie-pop" | relative_url }}">indie pop</a> # 23</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 46</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1899,13 +1898,13 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 83</li>
-            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 91</li>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 95</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 95</li>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 97</li>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 98</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 98</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 3</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 3</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 4</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 6</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 6</li>
+            <li> <a href="{{ "/tags/neo-soul" | relative_url }}">neo-soul</a> # 9</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1923,10 +1922,10 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 1</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 5</li>
             <li> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a> # 7</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 92</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 96</li>
-            <li> <a href="{{ "/tags/jangle-pop" | relative_url }}">jangle pop</a> # 100</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1947,8 +1946,8 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 39</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 98</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 3</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1969,8 +1968,8 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 87</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 98</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 3</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -2055,18 +2054,18 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 5</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 69</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 72</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 89</li>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 97</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 100</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 100</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 100</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 100</li>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 100</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 100</li>
-            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 100</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 1</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 1</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 1</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 1</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 1</li>
+            <li> <a href="{{ "/tags/dark-ambient" | relative_url }}">dark ambient</a> # 1</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 1</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 4</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 12</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 29</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 32</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -2087,8 +2086,8 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 99</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 100</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 1</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -2108,7 +2107,7 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 95</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -2129,9 +2128,9 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 63</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 72</li>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 97</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 4</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 29</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -2151,8 +2150,8 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 89</li>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 93</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 7</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -2171,7 +2170,7 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 90</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -2192,7 +2191,7 @@ Alternative music emerged in the 1980s as a diverse umbrella term for rock-based
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 16</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 84</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T07:46:13.872Z
+date: 2025-12-05T15:09:28.331Z
 permalink: tags/francais
 title: francais
 ---
 
 ## francais
 
-Last updated: <time datetime="2025-12-03T07:46:13.872Z">Wed Dec 03 2025 09:46:13 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T15:09:28.331Z">Fri Dec 05 2025 17:09:28 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -29,7 +29,7 @@ Français is a broad category encompassing popular music sung in the French lang
   </thead>
   <tbody>
     <tr>
-      <td>25</td>
+      <td>76</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa8131ef05c2e73e44edb3fb9edc4038.png" alt="Cover for Double Tour" style="max-width:120px; height:auto;" />
       </td>
@@ -48,7 +48,7 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>32</td>
+      <td>69</td>
       <td>
           <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Piglet&#39;s Big Movie Original Soundtrack (French Version)" style="max-width:120px; height:auto;" />
       </td>
@@ -69,7 +69,7 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>70</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac63e46250384fd4cfb41ae0209d2ed7.png" alt="Cover for Marche ou Crève" style="max-width:120px; height:auto;" />
       </td>
@@ -86,13 +86,13 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 30</li>
             <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 58</li>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>77</td>
+      <td>24</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4d8a1446572d7b85a1a881866d7d17f.png" alt="Cover for Répression" style="max-width:120px; height:auto;" />
       </td>
@@ -109,12 +109,12 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 15</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>84</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1c561fc6d2e1d7cc02f6919c47f06b4.png" alt="Cover for Ainsi Soit Je" style="max-width:120px; height:auto;" />
       </td>
@@ -131,7 +131,7 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>85</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/de3dd5305848d8776a70c81bab6f591c.png" alt="Cover for Ainsi soit je..." style="max-width:120px; height:auto;" />
       </td>
@@ -145,18 +145,17 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 16</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 85</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>92</td>
+      <td>6</td>
       <td>
-          <img src="https://i.discogs.com/5vQSo55_aDAlY-fIAWMBW2LNqFMFiNBYgIMqA5T-SHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njg5/MjEtMTU0NjQwMTQy/NS04MDg1LmpwZWc.jpeg" alt="Cover for Osez Josphine" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Alain Bashung</td>
-      <td>Osez Josphine</td>
+      <td>Osez Joséphine</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/francais" | relative_url }}">francais</a></li>
@@ -170,7 +169,7 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>94</td>
+      <td>7</td>
       <td>
           <img src="https://i.discogs.com/5vQSo55_aDAlY-fIAWMBW2LNqFMFiNBYgIMqA5T-SHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njg5/MjEtMTU0NjQwMTQy/NS04MDg1LmpwZWc.jpeg" alt="Cover for Osez Josephine" style="max-width:120px; height:auto;" />
       </td>
@@ -190,12 +189,13 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>95</td>
+      <td>9</td>
       <td>
+          <img src="https://i.discogs.com/5vQSo55_aDAlY-fIAWMBW2LNqFMFiNBYgIMqA5T-SHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njg5/MjEtMTU0NjQwMTQy/NS04MDg1LmpwZWc.jpeg" alt="Cover for Osez Josphine" style="max-width:120px; height:auto;" />
       </td>
       <td>1991</td>
       <td>Alain Bashung</td>
-      <td>Osez Joséphine</td>
+      <td>Osez Josphine</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/francais" | relative_url }}">francais</a></li>
@@ -209,7 +209,7 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>34</td>
+      <td>67</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/6d4229366f3c4192c15ebfe2c27e3ab2.png" alt="Cover for I.A.B.F." style="max-width:120px; height:auto;" />
       </td>
@@ -229,7 +229,7 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>67</td>
+      <td>34</td>
       <td>
       </td>
       <td>1992</td>
@@ -248,7 +248,27 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>36</td>
+      <td>
+      </td>
+      <td>1993</td>
+      <td>Patricia Kaas</td>
+      <td>Tour de charme</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/francais" | relative_url }}">francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 85</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>82</td>
       <td>
       </td>
       <td>1993</td>
@@ -264,32 +284,12 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 46</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>65</td>
-      <td>
-      </td>
-      <td>1993</td>
-      <td>Patricia Kaas</td>
-      <td>Tour de charme</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/francais" | relative_url }}">francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 16</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>53</td>
+      <td>48</td>
       <td>
           <img src="https://i.discogs.com/kO-m8GuVCwn-o8tWE5SRxTkUVRxm3X-3RtK9Nh3EIYM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODQx/NDQtMTM3NTQ2NDI1/NC02MzY2LmpwZWc.jpeg" alt="Cover for Notre Dame De Paris" style="max-width:120px; height:auto;" />
       </td>
@@ -307,7 +307,7 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>75</td>
+      <td>26</td>
       <td>
           <img src="https://i.discogs.com/hHiAlMvS-nO8sV4GLHt1ahHs7h8AS_JOoZ2fRIOAxmY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTkt/MTIzMDE2MDA0OC5q/cGVn.jpeg" alt="Cover for Best Of Roulé" style="max-width:120px; height:auto;" />
       </td>
@@ -328,13 +328,13 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 4</li>
-            <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 81</li>
+            <li> <a href="{{ "/tags/french-house" | relative_url }}">french house</a> # 20</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>58</td>
+      <td>43</td>
       <td>
       </td>
       <td>1995-04-13</td>
@@ -347,13 +347,13 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 52</li>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 68</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 32</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>88</td>
+      <td>13</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b73990e12a4b00887d2eefba33ad51d.png" alt="Cover for Jelly Tones" style="max-width:120px; height:auto;" />
       </td>
@@ -367,14 +367,14 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 4</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 5</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 79</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 96</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>99</td>
       <td>
           <img src="https://i.discogs.com/hazrxo1HmjNBRc5K-YRAQ-0GZjp3TgVe3ARF6_5orzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzM2/NDMyLTE1ODA1ODU3/NzktNTA5My5qcGVn.jpeg" alt="Cover for Quatrième chat pitre" style="max-width:120px; height:auto;" />
       </td>
@@ -393,7 +393,7 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>94</td>
       <td>
       </td>
       <td>1997-04-28</td>
@@ -410,12 +410,12 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 36</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>40</td>
       <td>
       </td>
       <td>1998-04</td>
@@ -437,13 +437,13 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 19</li>
             <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 41</li>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>89</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/83e720b57ddbfd827442ffdf8fef931e.png" alt="Cover for Acoustique" style="max-width:120px; height:auto;" />
       </td>
@@ -459,12 +459,12 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 62</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>86</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b304257da1e423f80c467081ffaaf5d.png" alt="Cover for Haïku" style="max-width:120px; height:auto;" />
       </td>
@@ -481,12 +481,12 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 71</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 29</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>77</td>
       <td>
       </td>
       <td>1999-09</td>
@@ -503,12 +503,12 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 49</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 51</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>82</td>
+      <td>19</td>
       <td>
       </td>
       <td>2000-03-06</td>
@@ -525,7 +525,7 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>87</td>
+      <td>14</td>
       <td>
       </td>
       <td>2000-05-08</td>
@@ -540,13 +540,37 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 81</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 20</li>
             <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>66</td>
+      <td>11</td>
+      <td>
+      </td>
+      <td>2001</td>
+      <td>Françoiz Breut</td>
+      <td>Vingt à trente mille jours</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/francais" | relative_url }}">francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 33</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 45</li>
+            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 67</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>35</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/58d0e03240344f54cf482354bbf800ec.png" alt="Cover for La Vie Presque" style="max-width:120px; height:auto;" />
       </td>
@@ -568,31 +592,7 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>90</td>
-      <td>
-      </td>
-      <td>2001</td>
-      <td>Françoiz Breut</td>
-      <td>Vingt à trente mille jours</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/francais" | relative_url }}">francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 56</li>
-            <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 67</li>
-            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 68</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>28</td>
+      <td>73</td>
       <td>
           <img src="https://i.discogs.com/zijmCd6ycnEWvhxCC-Hs0FhbSRnaU_CliQUbOVCNRqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNTc3/OTktMTM1OTkxNzQ2/NS00OTY1LmpwZWc.jpeg" alt="Cover for supermarket (ER-1051)" style="max-width:120px; height:auto;" />
       </td>
@@ -616,7 +616,7 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>95</td>
       <td>
           <img src="https://i.discogs.com/ELWDoYvQp8cx3-pU9I6_XStGAreiR02NU8Nvta2wjYk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzOTA2/NzUtMTM2MzYyMzIz/NC0yMTM0LmpwZWc.jpeg" alt="Cover for Reggae Social Club" style="max-width:120px; height:auto;" />
       </td>
@@ -637,7 +637,7 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>89</td>
+      <td>12</td>
       <td>
           <img src="https://i.discogs.com/biC5uBpNuU9HXhirZ3UQXLoK6s_AKlTglJdwwcXpIOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNjkw/OC0xMTYzODE1ODcy/LmpwZWc.jpeg" alt="Cover for Desormais" style="max-width:120px; height:auto;" />
       </td>
@@ -656,7 +656,7 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>87</td>
       <td>
       </td>
       <td>2001-10-23</td>
@@ -673,12 +673,12 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 43</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 57</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>59</td>
+      <td>42</td>
       <td>
       </td>
       <td>2002</td>
@@ -695,7 +695,7 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>88</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ac12a7e856ea438397b53de2616ccf53.png" alt="Cover for Western Sous La Neige" style="max-width:120px; height:auto;" />
       </td>
@@ -714,7 +714,7 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>84</td>
+      <td>17</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/7061c915529c4d2396b1d85791328de3.png" alt="Cover for Utopie D&#39;Occase" style="max-width:120px; height:auto;" />
       </td>
@@ -728,12 +728,12 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 42</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 59</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>83</td>
+      <td>18</td>
       <td>
       </td>
       <td>2002-09-24</td>
@@ -750,13 +750,13 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 32</li>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 85</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 15</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>83</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/04ebcb43abe345c9aa6f5b934e5e3c90.png" alt="Cover for Mes Courants Electriques" style="max-width:120px; height:auto;" />
       </td>
@@ -773,13 +773,13 @@ Français is a broad category encompassing popular music sung in the French lang
       <td>
         <ul>
             <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 15</li>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 19</li>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 55</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 46</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 82</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>41</td>
+      <td>60</td>
       <td>
           <img src="https://i.discogs.com/91dviHomhuUGo_DpsUbRJU82CNcftN3iBX-kMia5u1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjA2/ODctMTIxMTIyMTQ3/OC5qcGVn.jpeg" alt="Cover for Génération Goldman" style="max-width:120px; height:auto;" />
       </td>
@@ -799,7 +799,7 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>54</td>
+      <td>47</td>
       <td>
           <img src="https://i.discogs.com/_96dtmbj4kSnUX1wCXf3zDv0pwsBefWvCxk-EHR4sfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTMx/MDgtMTQ2MzAzNjA5/OC0yMjg1LmpwZWc.jpeg" alt="Cover for Mes courants électriques..." style="max-width:120px; height:auto;" />
       </td>
@@ -817,12 +817,12 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 66</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 34</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>97</td>
+      <td>4</td>
       <td>
           <img src="https://i.discogs.com/QDUnfJ1gRIPkNamAJdYQ_Vn66n0A5kFWgCit6HFAhBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzgx/MzktMTE5ODYxOTM5/OS5qcGVn.jpeg" alt="Cover for Pièce montée des grands jours" style="max-width:120px; height:auto;" />
       </td>
@@ -843,13 +843,13 @@ Français is a broad category encompassing popular music sung in the French lang
       <td>
         <ul>
             <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 13</li>
+            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 23</li>
             <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 37</li>
-            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>57</td>
+      <td>44</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/59e1af22a1c5f4572a29a508e7b29dc0.png" alt="Cover for Grain De Sable" style="max-width:120px; height:auto;" />
       </td>
@@ -864,13 +864,13 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 24</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 92</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 9</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>81</td>
+      <td>20</td>
       <td>
           <img src="https://i.discogs.com/nqdda8sxptnBLMBep8yGOrKuFqCbatypXdONVEFufws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzI4/MTEtMTU5MjI1MzA2/OS04MjY3LmpwZWc.jpeg" alt="Cover for Street Trash" style="max-width:120px; height:auto;" />
       </td>
@@ -889,7 +889,7 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>37</td>
+      <td>64</td>
       <td>
           <img src="https://i.discogs.com/oO9SWpV3QgBtAWff_ikIPyKhepHZX8EfOybp3mF13vg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTY3/MDMtMTIzMTEwNDgy/Mi5qcGVn.jpeg" alt="Cover for Albin De La Simone" style="max-width:120px; height:auto;" />
       </td>
@@ -907,7 +907,7 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>43</td>
+      <td>58</td>
       <td>
           <img src="https://i.discogs.com/_BZNX2GL5iuQg6RAZkjVwgaC4e9EXF9tuGsVTOfYtDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Nzk4/NDEtMTQ2Mjg4NDI0/My00Mzg5LmpwZWc.jpeg" alt="Cover for En Concert" style="max-width:120px; height:auto;" />
       </td>
@@ -929,7 +929,7 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>85</td>
+      <td>16</td>
       <td>
       </td>
       <td>2004-03-01</td>
@@ -949,15 +949,15 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 36</li>
-            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 45</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 13</li>
             <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 51</li>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 87</li>
+            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 56</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>70</td>
+      <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e10df2d53c444d43a89fd209f5a5fb2e.png" alt="Cover for La Tête en Arrière" style="max-width:120px; height:auto;" />
       </td>
@@ -973,13 +973,13 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 65</li>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 74</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 26</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 36</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>49</td>
+      <td>52</td>
       <td>
       </td>
       <td>2004-05-11</td>
@@ -997,12 +997,12 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 61</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>76</td>
+      <td>25</td>
       <td>
       </td>
       <td>2004-09</td>
@@ -1018,12 +1018,12 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 8</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>51</td>
+      <td>50</td>
       <td>
       </td>
       <td>2004-10</td>
@@ -1041,29 +1041,31 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>23</td>
       <td>
-          <img src="https://i.discogs.com/70KMrGjFFVi_Cx9jV6m6K8_cPOhguyO3C0oct65Om30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTMy/NC0xNDM5MzYwODc1/LTM4NTYuanBlZw.jpeg" alt="Cover for Le Femme Chocolat" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/hRi6VW7XujvHltiYr6yVLnF9f09ydXYImKYZ_hgEQwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NjQz/NTMtMTQ3NTc2ODU1/NC03NjkyLmpwZWc.jpeg" alt="Cover for La Chance..." style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
-      <td>Olivia Ruiz</td>
-      <td>Le Femme Chocolat</td>
+      <td>Anis</td>
+      <td>La Chance...</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/francais" | relative_url }}">francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 64</li>
-            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 69</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 21</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>81</td>
       <td>
           <img src="https://i.discogs.com/GtjoAOBas6E5Nx79CYBRSThYNBSNDf9kpbNqu2UJuMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MjQ0/MTgxLTE1ODg1OTY4/NjItMzgwNS5qcGVn.jpeg" alt="Cover for Vieille ecole" style="max-width:120px; height:auto;" />
       </td>
@@ -1085,38 +1087,71 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 47</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 58</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 43</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 53</li>
             <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>78</td>
+      <td>100</td>
       <td>
-          <img src="https://i.discogs.com/hRi6VW7XujvHltiYr6yVLnF9f09ydXYImKYZ_hgEQwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NjQz/NTMtMTQ3NTc2ODU1/NC03NjkyLmpwZWc.jpeg" alt="Cover for La Chance..." style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/70KMrGjFFVi_Cx9jV6m6K8_cPOhguyO3C0oct65Om30/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTMy/NC0xNDM5MzYwODc1/LTM4NTYuanBlZw.jpeg" alt="Cover for Le Femme Chocolat" style="max-width:120px; height:auto;" />
       </td>
       <td>2005</td>
-      <td>Anis</td>
-      <td>La Chance...</td>
+      <td>Olivia Ruiz</td>
+      <td>Le Femme Chocolat</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/francais" | relative_url }}">francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 17</li>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 79</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 37</li>
+            <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 69</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>45</td>
+      <td>
+          <img src="https://i.discogs.com/F5xQ25R3zhrCoYpu-ysuPY9jma62kf4xXmElEKVT91U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzgz/MjE1LTE2NTQ1MzUw/NTYtMTQ1Ni5qcGVn.jpeg" alt="Cover for Non Merci" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2005</td>
+      <td>Albin de la Simone</td>
+      <td>Non Merci</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/francais" | relative_url }}">francais</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+      </td>
+      <td>2005</td>
+      <td>Lynda Lemay</td>
+      <td>Un paradis quelque part</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/francais" | relative_url }}">francais</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>90</td>
       <td>
           <img src="https://i.discogs.com/7vhyN9_gqF0Jd-fyvLlW4nfnEhHhaDnpWaHK3-ciZNg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDk2/NjYtMTM3OTE2NDI4/My03ODM4LmpwZWc.jpeg" alt="Cover for sans tambour ni trompette" style="max-width:120px; height:auto;" />
       </td>
@@ -1137,42 +1172,7 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>33</td>
-      <td>
-      </td>
-      <td>2005</td>
-      <td>Lynda Lemay</td>
-      <td>Un paradis quelque part</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/francais" | relative_url }}">francais</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>56</td>
-      <td>
-          <img src="https://i.discogs.com/F5xQ25R3zhrCoYpu-ysuPY9jma62kf4xXmElEKVT91U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzgz/MjE1LTE2NTQ1MzUw/NTYtMTQ1Ni5qcGVn.jpeg" alt="Cover for Non Merci" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2005</td>
-      <td>Albin de la Simone</td>
-      <td>Non Merci</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/francais" | relative_url }}">francais</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>22</td>
+      <td>79</td>
       <td>
       </td>
       <td>2005-01-01</td>
@@ -1192,7 +1192,7 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>72</td>
       <td>
       </td>
       <td>2005-08-01</td>
@@ -1209,7 +1209,7 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>39</td>
+      <td>62</td>
       <td>
           <img src="https://i.discogs.com/WI1Ck19bbxzkiZ3wwfQhePhFJCaZsjiyiy3uHlIkeUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwODUy/NS0xMjgxNjM0OTI5/LmpwZWc.jpeg" alt="Cover for Dans le Decor" style="max-width:120px; height:auto;" />
       </td>
@@ -1223,12 +1223,12 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ragga-reggae" | relative_url }}">ragga-reggae</a> # 24</li>
+            <li> <a href="{{ "/tags/ragga-reggae" | relative_url }}">ragga-reggae</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>55</td>
+      <td>46</td>
       <td>
           <img src="https://i.discogs.com/4eT2sErF00JNbSw3CiFA5eX9KTaw60qGxGiPpvD_5NY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzY3/NjQtMTQzNjAyMDcz/Mi05NDkyLmpwZWc.jpeg" alt="Cover for La Vie Théodore" style="max-width:120px; height:auto;" />
       </td>
@@ -1243,13 +1243,13 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 10</li>
             <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 80</li>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>38</td>
+      <td>63</td>
       <td>
           <img src="https://i.discogs.com/m_OiXwqvNTYqXkK49jYGPTfvo5kYmLpW4R229OSITqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzQz/My0xNjY1OTMzNzg2/LTc3MTEuanBlZw.jpeg" alt="Cover for L&#39;Homme A Trois Mains" style="max-width:120px; height:auto;" />
       </td>
@@ -1267,12 +1267,12 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 54</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>47</td>
+      <td>54</td>
       <td>
           <img src="https://i.discogs.com/luufO9PWTt2ewo7_9bUVDEWUGxpuVBnPCShegjWSYZ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NDYw/MTctMTQ2MTY1OTEw/MS01MDM4LmpwZWc.jpeg" alt="Cover for Mauvaise Herbe" style="max-width:120px; height:auto;" />
       </td>
@@ -1292,7 +1292,7 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>62</td>
+      <td>39</td>
       <td>
           <img src="https://i.discogs.com/I_74yuToFcjMotzLOtJm_3wYDb-CXT_F2tJx372jPx8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyODkz/MjUtMTQxNTY2Nzcw/My00NDk4LmpwZWc.jpeg" alt="Cover for Amelie" style="max-width:120px; height:auto;" />
       </td>
@@ -1312,7 +1312,7 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>74</td>
       <td>
       </td>
       <td>2006-03-27</td>
@@ -1326,13 +1326,13 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 51</li>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 63</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 38</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 49</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>98</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/ba31e0096a1e3e985a5d0b3b9f4c1b46.png" alt="Cover for 5:55" style="max-width:120px; height:auto;" />
       </td>
@@ -1347,12 +1347,12 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 63</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>66</td>
       <td>
       </td>
       <td>2006-09-25</td>
@@ -1366,12 +1366,12 @@ Français is a broad category encompassing popular music sung in the French lang
       <td>
         <ul>
             <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 11</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 43</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>64</td>
+      <td>37</td>
       <td>
       </td>
       <td>2006-10-02</td>
@@ -1388,12 +1388,12 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 70</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>99</td>
+      <td>2</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/21dc8246fbe3771abdabcf927d2b606d.png" alt="Cover for L&#39;Idéologie Des Stars" style="max-width:120px; height:auto;" />
       </td>
@@ -1413,38 +1413,15 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 2</li>
             <li> <a href="{{ "/tags/quebec" | relative_url }}">quebec</a> # 2</li>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 77</li>
-            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 89</li>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 98</li>
+            <li> <a href="{{ "/tags/canada" | relative_url }}">canada</a> # 12</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 24</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>8</td>
-      <td>
-          <img src="https://i.discogs.com/pKEVkSc4Na2_25vFNfnBI4xpBtrOSw-YFEqxKNanl0A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzI3/MTgtMTI1NDM5NzYw/My5qcGVn.jpeg" alt="Cover for Fraise Vanille" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Helena Noguerra</td>
-      <td>Fraise Vanille</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/francais" | relative_url }}">francais</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 37</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>93</td>
       <td>
           <img src="https://i.discogs.com/M_9KDxz0d8-2p_pYsggvKYJnoPwbnoGdRXtaMbxOBUw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTM3/ODYtMTQ0NjA3MjQ2/NS0yNzc5LmpwZWc.jpeg" alt="Cover for La Lettre" style="max-width:120px; height:auto;" />
       </td>
@@ -1464,7 +1441,30 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>48</td>
+      <td>93</td>
+      <td>
+          <img src="https://i.discogs.com/pKEVkSc4Na2_25vFNfnBI4xpBtrOSw-YFEqxKNanl0A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzI3/MTgtMTI1NDM5NzYw/My5qcGVn.jpeg" alt="Cover for Fraise Vanille" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Helena Noguerra</td>
+      <td>Fraise Vanille</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/francais" | relative_url }}">francais</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/france" | relative_url }}">france</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/french" | relative_url }}">french</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 63</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>53</td>
       <td>
       </td>
       <td>2007-03-26</td>
@@ -1482,7 +1482,7 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>60</td>
+      <td>41</td>
       <td>
           <img src="https://i.discogs.com/Xgx0v34aIbtDQXO60UUZkFytTrGS7XJ1Rz7waDUDGNQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzc1/NTctMTMxODkxMjE2/Ny5qcGVn.jpeg" alt="Cover for Garçon" style="max-width:120px; height:auto;" />
       </td>
@@ -1500,7 +1500,7 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>96</td>
+      <td>5</td>
       <td>
       </td>
       <td>2007-10-08</td>
@@ -1518,7 +1518,7 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>63</td>
+      <td>38</td>
       <td>
       </td>
       <td>2007-10-15</td>
@@ -1536,13 +1536,13 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 17</li>
             <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 35</li>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>72</td>
+      <td>29</td>
       <td>
       </td>
       <td>2007-11-05</td>
@@ -1559,12 +1559,12 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 26</li>
+            <li> <a href="{{ "/tags/chanson" | relative_url }}">chanson</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>73</td>
+      <td>28</td>
       <td>
           <img src="https://i.discogs.com/Z0CqEnQy6bAYFt3zTXOkVqoiEuzFyUyGazdASrqfsbw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MTMw/MTQtMTQ5NDI3MjY0/MC01Mjk5LmpwZWc.jpeg" alt="Cover for Divine Idylle" style="max-width:120px; height:auto;" />
       </td>
@@ -1578,14 +1578,14 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 24</li>
             <li> <a href="{{ "/tags/chanson-francaise" | relative_url }}">chanson francaise</a> # 25</li>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 60</li>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 77</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 41</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>71</td>
+      <td>30</td>
       <td>
           <img src="https://i.discogs.com/0I2JeuTsGmatMSMHdqeNLfMy1XopyQ_Zjz_Eww6e_ro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDcw/OTctMTU3MDUzNjE4/My01NzM2LmpwZWc.jpeg" alt="Cover for Greatest Hits" style="max-width:120px; height:auto;" />
       </td>
@@ -1603,7 +1603,7 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>52</td>
+      <td>49</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/71336073b3d34cf0b2d8eb1e49d9962d.png" alt="Cover for L&#39;espoir" style="max-width:120px; height:auto;" />
       </td>
@@ -1621,12 +1621,12 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 63</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>42</td>
+      <td>59</td>
       <td>
       </td>
       <td>2008-03-24</td>
@@ -1639,13 +1639,13 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 12</li>
             <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 18</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 89</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>80</td>
+      <td>21</td>
       <td>
       </td>
       <td>2008-03-31</td>
@@ -1662,7 +1662,7 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>91</td>
       <td>
       </td>
       <td>2008-09-08</td>
@@ -1677,12 +1677,12 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 39</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 61</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>71</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/d8c3aa96cea94cafb6616960d218010c.png" alt="Cover for Masterpiss" style="max-width:120px; height:auto;" />
       </td>
@@ -1700,20 +1700,20 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 36</li>
-            <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 72</li>
-            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 91</li>
+            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 10</li>
+            <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 29</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 65</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>27</td>
       <td>
-          <img src="https://i.discogs.com/KbJXa-R-_q0j1wB3kc-17vQIQWcvAyfPqB0xpPhllkc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MjM1/NTEtMTQ4ODYzMTYw/NC01MzcyLmpwZWc.jpeg" alt="Cover for Ep Live" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/rfLxFuASfblLhnPG5-TnKpxDrRj3wMeSHX2dpLK9Y9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTIx/OTI1LTE2MjY0OTgy/MDctMTIyNy5qcGVn.jpeg" alt="Cover for The Rough Guide To Paris Café Music" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
-      <td>Anis</td>
-      <td>Ep Live</td>
+      <td>Various Artists</td>
+      <td>The Rough Guide To Paris Café Music</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/francais" | relative_url }}">francais</a></li>
@@ -1725,7 +1725,7 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>46</td>
+      <td>55</td>
       <td>
       </td>
       <td>2009</td>
@@ -1744,13 +1744,13 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>74</td>
+      <td>92</td>
       <td>
-          <img src="https://i.discogs.com/rfLxFuASfblLhnPG5-TnKpxDrRj3wMeSHX2dpLK9Y9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTIx/OTI1LTE2MjY0OTgy/MDctMTIyNy5qcGVn.jpeg" alt="Cover for The Rough Guide To Paris Café Music" style="max-width:120px; height:auto;" />
+          <img src="https://i.discogs.com/KbJXa-R-_q0j1wB3kc-17vQIQWcvAyfPqB0xpPhllkc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MjM1/NTEtMTQ4ODYzMTYw/NC01MzcyLmpwZWc.jpeg" alt="Cover for Ep Live" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
-      <td>Various Artists</td>
-      <td>The Rough Guide To Paris Café Music</td>
+      <td>Anis</td>
+      <td>Ep Live</td>
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/francais" | relative_url }}">francais</a></li>
@@ -1762,7 +1762,7 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>36</td>
+      <td>65</td>
       <td>
           <img src="https://i.discogs.com/EUZWckDRC_DHNYD7QfaI1gIq3boZBXl-r9S6JYqedmY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMTY0/NzMtMTQ3MzMyODIz/MC05NDQ0LmpwZWc.jpeg" alt="Cover for The Ugly Army" style="max-width:120px; height:auto;" />
       </td>
@@ -1806,18 +1806,18 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 26</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 26</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 28</li>
             <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 33</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 62</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 64</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 37</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 39</li>
             <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 67</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 72</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 75</li>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>79</td>
+      <td>22</td>
       <td>
       </td>
       <td>2009-10-13</td>
@@ -1832,12 +1832,12 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 91</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>96</td>
       <td>
           <img src="https://i.discogs.com/JzyindiZOz6waOcggmlTD00F6Ih0MdFt2-Tj-5k4sPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjIx/OTAtMTQxNTgwNDE2/Ni0xMTYxLmpwZWc.jpeg" alt="Cover for Contreband" style="max-width:120px; height:auto;" />
       </td>
@@ -1866,15 +1866,15 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 55</li>
+            <li> <a href="{{ "/tags/mass" | relative_url }}">mass</a> # 7</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 46</li>
             <li> <a href="{{ "/tags/rock-francais" | relative_url }}">rock francais</a> # 67</li>
-            <li> <a href="{{ "/tags/mass" | relative_url }}">mass</a> # 94</li>
             <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>91</td>
+      <td>10</td>
       <td>
       </td>
       <td>2010-03-21</td>
@@ -1890,12 +1890,12 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 62</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 39</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>97</td>
       <td>
           <img src="https://i.discogs.com/2CHsaNQTC39nmKouu8QZFu6x4R6-2N8aP1mZuWDrnC4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzEz/MzktMTMyOTAzMzM2/Ni5qcGVn.jpeg" alt="Cover for Les illusions d&#39;une route, vol. 1 : Barcelone" style="max-width:120px; height:auto;" />
       </td>
@@ -1912,7 +1912,7 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>68</td>
+      <td>33</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/829c60b83a0c452eb65196e299f7753e.png" alt="Cover for Oui Mais... Non" style="max-width:120px; height:auto;" />
       </td>
@@ -1931,12 +1931,12 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 72</li>
+            <li> <a href="{{ "/tags/francophone" | relative_url }}">francophone</a> # 28</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>98</td>
+      <td>3</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/0b23de3cad394dabaa5c4302ea6742aa.png" alt="Cover for Cardioid" style="max-width:120px; height:auto;" />
       </td>
@@ -1955,12 +1955,12 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 76</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 25</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>50</td>
+      <td>51</td>
       <td>
           <img src="https://i.discogs.com/jR7eS_HGVXzE50W9zaq23XJMB3_tOx-rKt-gXUJomu8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTM3/NTQtMTMyNDMzODQ2/NC5qcGVn.jpeg" alt="Cover for 78" style="max-width:120px; height:auto;" />
       </td>
@@ -1980,7 +1980,7 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>69</td>
+      <td>32</td>
       <td>
           <img src="https://i.discogs.com/eJBcMF8bGWB1Qr1Mf62ojLOtdeJeqobQTgoWmvIhWLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDU3/ODgtMTMyNjcxNDQz/MS5qcGVn.jpeg" alt="Cover for Du Temps" style="max-width:120px; height:auto;" />
       </td>
@@ -1999,7 +1999,7 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>44</td>
+      <td>57</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/e15fb7372ae53efa5d206a93865d10db.png" alt="Cover for Auto Express - EP" style="max-width:120px; height:auto;" />
       </td>
@@ -2022,7 +2022,7 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>78</td>
       <td>
           <img src="https://i.discogs.com/feos3Nbwd2deHSuaGv0IfYepEHxkiKbzRzsIt1hmGHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTYx/MTktMTYyNjgxMDIz/Ny0yOTc3LmpwZWc.jpeg" alt="Cover for Fatals Picards Country Club" style="max-width:120px; height:auto;" />
       </td>
@@ -2042,7 +2042,7 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>75</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/9fc9f435dbcce9701fcb7e306e5dfc2e.png" alt="Cover for Unchained Symphony" style="max-width:120px; height:auto;" />
       </td>
@@ -2059,12 +2059,12 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 71</li>
+            <li> <a href="{{ "/tags/hardcore-techno" | relative_url }}">hardcore techno</a> # 30</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>86</td>
+      <td>15</td>
       <td>
           <img src="https://i.discogs.com/Fdon-Uv9D23XAmeiqYF0RcuTJDnhD-UDQ_0VAk-3Ro4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDI5/MjU3LTE2MDIxNjk2/OTEtNTcxMy5qcGVn.jpeg" alt="Cover for Carla Bruni" style="max-width:120px; height:auto;" />
       </td>
@@ -2082,7 +2082,7 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>100</td>
+      <td>1</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/dc9aa2db64afc1b7de6bc9d36f29fbb5.png" alt="Cover for Nonante-cinq la suite" style="max-width:120px; height:auto;" />
       </td>
@@ -2104,22 +2104,22 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 11</li>
             <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 11</li>
             <li> <a href="{{ "/tags/french-pop" | relative_url }}">french pop</a> # 12</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 16</li>
+            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 39</li>
             <li> <a href="{{ "/tags/european" | relative_url }}">european</a> # 48</li>
             <li> <a href="{{ "/tags/europe" | relative_url }}">europe</a> # 49</li>
-            <li> <a href="{{ "/tags/european-pop" | relative_url }}">european pop</a> # 62</li>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 85</li>
-            <li> <a href="{{ "/tags/belgian" | relative_url }}">belgian</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>56</td>
       <td>
       </td>
       <td></td>
-      <td>Louis Garrel &amp; Grégoire Leprince-Ringuet</td>
+      <td>Louis Garrel &amp; Ludivine Sagnier</td>
       <td>Les Chansons D&#39;amour (B.O)</td>
       <td>
         <ul>
@@ -2133,7 +2133,7 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>40</td>
+      <td>61</td>
       <td>
       </td>
       <td></td>
@@ -2151,11 +2151,11 @@ Français is a broad category encompassing popular music sung in the French lang
       </td>
     </tr>
     <tr>
-      <td>45</td>
+      <td>80</td>
       <td>
       </td>
       <td></td>
-      <td>Louis Garrel &amp; Ludivine Sagnier</td>
+      <td>Louis Garrel &amp; Grégoire Leprince-Ringuet</td>
       <td>Les Chansons D&#39;amour (B.O)</td>
       <td>
         <ul>
