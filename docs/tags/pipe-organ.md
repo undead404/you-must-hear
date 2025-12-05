@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T09:30:37.136Z
+date: 2025-12-04T17:40:33.886Z
 permalink: tags/pipe-organ
 title: pipe organ
 ---
 
 ## pipe organ
 
-Last updated: <time datetime="2025-11-18T09:30:37.136Z">Tue Nov 18 2025 11:30:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T17:40:33.886Z">Thu Dec 04 2025 19:40:33 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -114,7 +114,7 @@ Pipe organ music refers to music that is specifically written for the pipe organ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 69</li>
+            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -169,8 +169,8 @@ Pipe organ music refers to music that is specifically written for the pipe organ
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 5</li>
             <li> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a> # 21</li>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -331,7 +331,7 @@ Pipe organ music refers to music that is specifically written for the pipe organ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 40</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -370,7 +370,7 @@ Pipe organ music refers to music that is specifically written for the pipe organ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harpsichord" | relative_url }}">harpsichord</a> # 49</li>
+            <li> <a href="{{ "/tags/harpsichord" | relative_url }}">harpsichord</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -498,7 +498,7 @@ Pipe organ music refers to music that is specifically written for the pipe organ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 33</li>
+            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -611,7 +611,7 @@ Pipe organ music refers to music that is specifically written for the pipe organ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 21</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -668,8 +668,8 @@ Pipe organ music refers to music that is specifically written for the pipe organ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 87</li>
-            <li> <a href="{{ "/tags/conductor" | relative_url }}">conductor</a> # 92</li>
+            <li> <a href="{{ "/tags/conductor" | relative_url }}">conductor</a> # 9</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -705,7 +705,7 @@ Pipe organ music refers to music that is specifically written for the pipe organ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 43</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1078,7 +1078,7 @@ Pipe organ music refers to music that is specifically written for the pipe organ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-francaise" | relative_url }}">musique francaise</a> # 72</li>
+            <li> <a href="{{ "/tags/musique-francaise" | relative_url }}">musique francaise</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1205,7 +1205,7 @@ Pipe organ music refers to music that is specifically written for the pipe organ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 26</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1310,7 +1310,7 @@ Pipe organ music refers to music that is specifically written for the pipe organ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 49</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1403,7 +1403,7 @@ Pipe organ music refers to music that is specifically written for the pipe organ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musique-francaise" | relative_url }}">musique francaise</a> # 66</li>
+            <li> <a href="{{ "/tags/musique-francaise" | relative_url }}">musique francaise</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1553,8 +1553,7 @@ Pipe organ music refers to music that is specifically written for the pipe organ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 56</li>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 98</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1626,7 +1625,7 @@ Pipe organ music refers to music that is specifically written for the pipe organ
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 100</li>
+            <li> <a href="{{ "/tags/organ" | relative_url }}">organ</a> # 1</li>
         </ul>
       </td>
     </tr>

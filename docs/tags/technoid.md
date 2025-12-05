@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T18:37:48.556Z
+date: 2025-12-04T17:23:57.012Z
 permalink: tags/technoid
 title: technoid
 ---
 
 ## technoid
 
-Last updated: <time datetime="2025-11-25T18:37:48.556Z">Tue Nov 25 2025 20:37:48 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T17:23:57.012Z">Thu Dec 04 2025 19:23:57 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -51,7 +51,7 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vancouver" | relative_url }}">vancouver</a> # 41</li>
+            <li> <a href="{{ "/tags/vancouver" | relative_url }}">vancouver</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -107,7 +107,7 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 60</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -151,8 +151,8 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 39</li>
-            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 95</li>
+            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 6</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -200,8 +200,8 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 7</li>
-            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 68</li>
+            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 33</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -269,8 +269,8 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 9</li>
-            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 83</li>
+            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 18</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -308,7 +308,7 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 77</li>
+            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -331,7 +331,7 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 58</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -350,13 +350,13 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 49</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 84</li>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 85</li>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 93</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 94</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 97</li>
-            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 99</li>
+            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 2</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 3</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 6</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 8</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 17</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 52</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -376,7 +376,7 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 27</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -421,13 +421,14 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 39</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 43</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 79</li>
-            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 96</li>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 98</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 99</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 100</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 1</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 3</li>
+            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 5</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 13</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 22</li>
+            <li> <a href="{{ "/tags/digital-hardcore" | relative_url }}">digital hardcore</a> # 42</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 58</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -448,7 +449,7 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 20</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -469,7 +470,7 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 23</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -493,15 +494,15 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 17</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 43</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 57</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 84</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/mCx_S3MdN-3D7YN0OKQG-UbujzLMdaaKImRbQFbeMMI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTU5/LTEyODY2MDQwMzYu/anBlZw.jpeg" alt="Cover for Mechanophobia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/522673d27b8f48909ad2e8f02e59a300.png" alt="Cover for Mechanophobia" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>16-17</td>
@@ -517,7 +518,7 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 6</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -537,7 +538,7 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 70</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -604,8 +605,8 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 38</li>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 83</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 18</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -626,7 +627,7 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 18</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -688,7 +689,7 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 16</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -735,7 +736,7 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 52</li>
+            <li> <a href="{{ "/tags/schranz" | relative_url }}">schranz</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -757,7 +758,7 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 35</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -818,7 +819,7 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 67</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -870,7 +871,7 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 76</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -931,7 +932,7 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a> # 4</li>
+            <li> <a href="{{ "/tags/tribal-industrial" | relative_url }}">tribal industrial</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1105,7 +1106,7 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 79</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -1143,8 +1144,8 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 8</li>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 18</li>
             <li> <a href="{{ "/tags/dark-electronic" | relative_url }}">dark electronic</a> # 49</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1165,7 +1166,7 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 82</li>
+            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1289,7 +1290,7 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 86</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1426,7 +1427,7 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 45</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1446,7 +1447,7 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 46</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1466,7 +1467,7 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 54</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1525,7 +1526,7 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 65</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1545,7 +1546,7 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 64</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1567,7 +1568,7 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 4</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1606,8 +1607,8 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 88</li>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 89</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 12</li>
+            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1627,7 +1628,7 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 79</li>
+            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 22</li>
             <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 82</li>
         </ul>
       </td>
@@ -1657,9 +1658,8 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       <td>
         <ul>
             <li> <a href="{{ "/tags/darkpsy" | relative_url }}">darkpsy</a> # 2</li>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 71</li>
-            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 78</li>
-            <li> <a href="{{ "/tags/steampunk" | relative_url }}">steampunk</a> # 82</li>
+            <li> <a href="{{ "/tags/harsh-ebm" | relative_url }}">harsh ebm</a> # 20</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1743,7 +1743,7 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 24</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1860,9 +1860,9 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 14</li>
+            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 11</li>
             <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 62</li>
-            <li> <a href="{{ "/tags/ambient-noise" | relative_url }}">ambient noise</a> # 90</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1919,7 +1919,7 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 3</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1946,6 +1946,7 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/dbd0c1c4ea244968c95d8476a6efd254.png" alt="Cover for Auferstehung" style="max-width:120px; height:auto;" />
       </td>
       <td>2014</td>
       <td>Oake</td>
@@ -1963,7 +1964,7 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 73</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1987,7 +1988,7 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 27</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -2076,8 +2077,8 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 24</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 51</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 49</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -2096,7 +2097,7 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 11</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -2124,6 +2125,7 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
     <tr>
       <td>36</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7ad0f8e6ed744e2f88cfe1fbf91b846d.png" alt="Cover for Recompense" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>ampersanded</td>
@@ -2193,9 +2195,9 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 8</li>
-            <li> <a href="{{ "/tags/braindance" | relative_url }}">braindance</a> # 45</li>
-            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 58</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 9</li>
+            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 43</li>
+            <li> <a href="{{ "/tags/braindance" | relative_url }}">braindance</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -2272,9 +2274,9 @@ Technoid music is a genre that emerged in the 1990s, primarily in Germany. It is
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 11</li>
-            <li> <a href="{{ "/tags/braindance" | relative_url }}">braindance</a> # 60</li>
-            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 67</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 12</li>
+            <li> <a href="{{ "/tags/epic-trance" | relative_url }}">epic trance</a> # 34</li>
+            <li> <a href="{{ "/tags/braindance" | relative_url }}">braindance</a> # 41</li>
         </ul>
       </td>
     </tr>
