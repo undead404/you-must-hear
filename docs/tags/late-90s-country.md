@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T00:04:53.935Z
+date: 2025-12-04T18:51:44.882Z
 permalink: tags/late-90s-country
 title: late 90s country
 ---
 
 ## late 90s country
 
-Last updated: <time datetime="2025-11-24T00:04:53.935Z">Mon Nov 24 2025 02:04:53 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T18:51:44.882Z">Thu Dec 04 2025 20:51:44 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -66,7 +66,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 5</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 3</li>
             <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 91</li>
             <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 93</li>
         </ul>
@@ -352,7 +352,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 40</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -429,6 +429,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1056,7 +1057,7 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 68</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1824,10 +1825,10 @@ Late 90s country represents the genre&#39;s polished, pop-influenced evolution a
 - [country]({{ "/tags/country" | relative_url }})
 - [contemporary country]({{ "/tags/contemporary-country" | relative_url }})
 - [country pop]({{ "/tags/country-pop" | relative_url }})
-- [folk]({{ "/tags/folk" | relative_url }})
-- [contemporary folk]({{ "/tags/contemporary-folk" | relative_url }})
 - [female vocalists]({{ "/tags/female-vocalists" | relative_url }})
+- [folk]({{ "/tags/folk" | relative_url }})
 - [americana]({{ "/tags/americana" | relative_url }})
+- [contemporary folk]({{ "/tags/contemporary-folk" | relative_url }})
 - [traditional country]({{ "/tags/traditional-country" | relative_url }})
+- [alt-country]({{ "/tags/alt-country" | relative_url }})
 - [atlanta]({{ "/tags/atlanta" | relative_url }})
-- [bluegrass]({{ "/tags/bluegrass" | relative_url }})

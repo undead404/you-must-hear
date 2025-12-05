@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T00:15:44.680Z
+date: 2025-12-04T19:24:32.281Z
 permalink: tags/alt-pop
 title: alt pop
 ---
 
 ## alt pop
 
-Last updated: <time datetime="2025-11-24T00:15:44.680Z">Mon Nov 24 2025 02:15:44 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T19:24:32.281Z">Thu Dec 04 2025 21:24:32 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -88,7 +88,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 29</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -102,11 +102,6 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       <td>Requiem for a Fatty</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
         </ul>
       </td>
       <td>
@@ -157,10 +152,10 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 43</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 77</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 85</li>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 98</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 3</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 12</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 16</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -213,9 +208,9 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 11</li>
-            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 52</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 53</li>
+            <li> <a href="{{ "/tags/scotland" | relative_url }}">scotland</a> # 49</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 55</li>
+            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -265,13 +260,12 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 1</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 34</li>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 42</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 42</li>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 43</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 49</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 68</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 33</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 43</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 52</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 59</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 59</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -349,12 +343,12 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 31</li>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 35</li>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 38</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 39</li>
-            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 59</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 69</li>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 40</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 40</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 64</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 66</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 70</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -387,13 +381,13 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       <td>
         <ul>
             <li> <a href="{{ "/tags/goth-rock" | relative_url }}">goth rock</a> # 8</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 38</li>
-            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 39</li>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 45</li>
-            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 45</li>
-            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 46</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 61</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 74</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 26</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 40</li>
+            <li> <a href="{{ "/tags/depressive-rock" | relative_url }}">depressive rock</a> # 46</li>
+            <li> <a href="{{ "/tags/indie-emo" | relative_url }}">indie emo</a> # 56</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 56</li>
+            <li> <a href="{{ "/tags/techno-industrial" | relative_url }}">techno-industrial</a> # 62</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -417,7 +411,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 25</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -466,13 +460,13 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 34</li>
-            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 36</li>
-            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 60</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 64</li>
-            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 66</li>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 75</li>
-            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 75</li>
+            <li> <a href="{{ "/tags/french-rock" | relative_url }}">french rock</a> # 26</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 26</li>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 33</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 37</li>
+            <li> <a href="{{ "/tags/alternative-folk" | relative_url }}">alternative folk</a> # 62</li>
+            <li> <a href="{{ "/tags/francais" | relative_url }}">francais</a> # 65</li>
+            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -493,8 +487,8 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 17</li>
             <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 71</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -651,25 +645,6 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
       <td>
         <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>52</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/042d413da41808d48ce4ac6edb917ee1.png" alt="Cover for Pacific Daydream" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2016-03-10</td>
-      <td>Weezer</td>
-      <td>Pacific Daydream</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -863,7 +838,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/wales" | relative_url }}">wales</a> # 11</li>
+            <li> <a href="{{ "/tags/wales" | relative_url }}">wales</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -885,6 +860,25 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
       <td>
         <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/042d413da41808d48ce4ac6edb917ee1.png" alt="Cover for Pacific Daydream" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2017-10-27</td>
+      <td>Weezer</td>
+      <td>Pacific Daydream</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/power-pop" | relative_url }}">power pop</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1146,8 +1140,8 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 56</li>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 72</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 28</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1226,13 +1220,13 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 16</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 63</li>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 71</li>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 72</li>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 85</li>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 93</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 99</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 2</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 8</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 15</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 27</li>
+            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 29</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 30</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1431,10 +1425,10 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 85</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 91</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 97</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 99</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 2</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 4</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 9</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1494,7 +1488,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 58</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1512,10 +1506,10 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 27</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 34</li>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 44</li>
             <li> <a href="{{ "/tags/mother" | relative_url }}">mother</a> # 54</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 57</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 67</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1533,7 +1527,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 68</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1557,8 +1551,8 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 83</li>
-            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 95</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 18</li>
+            <li> <a href="{{ "/tags/orchestral" | relative_url }}">orchestral</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1632,14 +1626,14 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 46</li>
-            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 69</li>
-            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 77</li>
-            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 89</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 1</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 5</li>
+            <li> <a href="{{ "/tags/indietronica" | relative_url }}">indietronica</a> # 12</li>
+            <li> <a href="{{ "/tags/bedroom-pop" | relative_url }}">bedroom pop</a> # 18</li>
+            <li> <a href="{{ "/tags/alternative-pop" | relative_url }}">alternative pop</a> # 31</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 51</li>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 95</li>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 96</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 99</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1698,7 +1692,7 @@ Alt pop blends mainstream pop accessibility with indie and alternative music&#39
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vancouver" | relative_url }}">vancouver</a> # 32</li>
+            <li> <a href="{{ "/tags/vancouver" | relative_url }}">vancouver</a> # 69</li>
         </ul>
       </td>
     </tr>

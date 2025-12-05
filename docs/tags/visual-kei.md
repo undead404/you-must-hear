@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-27T03:15:51.213Z
+date: 2025-12-04T19:24:38.514Z
 permalink: tags/visual-kei
 title: visual kei
 ---
 
 ## visual kei
 
-Last updated: <time datetime="2025-11-27T03:15:51.213Z">Thu Nov 27 2025 05:15:51 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T19:24:38.514Z">Thu Dec 04 2025 21:24:38 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -90,7 +90,7 @@ Visual kei is a Japanese rock movement originating in the 1980s that emphasizes 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 81</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 20</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 87</li>
         </ul>
       </td>
@@ -267,7 +267,7 @@ Visual kei is a Japanese rock movement originating in the 1980s that emphasizes 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 88</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 13</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 92</li>
         </ul>
       </td>
@@ -286,7 +286,7 @@ Visual kei is a Japanese rock movement originating in the 1980s that emphasizes 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 90</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 11</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 91</li>
         </ul>
       </td>
@@ -305,22 +305,20 @@ Visual kei is a Japanese rock movement originating in the 1980s that emphasizes 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 63</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 38</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/VgHvn-AwXW2NcJHARMH7phCe3loaRVIZp2bfykNEePc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTg1/OS0xMjY0OTMxMjk1/LmpwZWc.jpeg" alt="Cover for SEXY STREAM LINER" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f9fb7ad33c5ccbcadc9278e3ca661ca6.png" alt="Cover for SEXY STREAM LINER" style="max-width:120px; height:auto;" />
       </td>
       <td>1997-12-10</td>
       <td>BUCK-TICK</td>
       <td>SEXY STREAM LINER</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a></li>
@@ -328,7 +326,7 @@ Visual kei is a Japanese rock movement originating in the 1980s that emphasizes 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 91</li>
+            <li> <a href="{{ "/tags/cyberpunk" | relative_url }}">cyberpunk</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -367,12 +365,12 @@ Visual kei is a Japanese rock movement originating in the 1980s that emphasizes 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 82</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 89</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 90</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 93</li>
-            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 97</li>
-            <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 98</li>
+            <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 3</li>
+            <li> <a href="{{ "/tags/doujin" | relative_url }}">doujin</a> # 4</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 8</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 10</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 12</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 19</li>
             <li> <a href="{{ "/tags/doujin-ongaku" | relative_url }}">doujin ongaku</a> # 100</li>
         </ul>
       </td>
@@ -456,8 +454,8 @@ Visual kei is a Japanese rock movement originating in the 1980s that emphasizes 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 25</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 84</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 17</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -534,7 +532,7 @@ Visual kei is a Japanese rock movement originating in the 1980s that emphasizes 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 65</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -574,7 +572,7 @@ Visual kei is a Japanese rock movement originating in the 1980s that emphasizes 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 23</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -655,7 +653,7 @@ Visual kei is a Japanese rock movement originating in the 1980s that emphasizes 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 89</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -693,8 +691,8 @@ Visual kei is a Japanese rock movement originating in the 1980s that emphasizes 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 54</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 89</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 12</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -754,7 +752,7 @@ Visual kei is a Japanese rock movement originating in the 1980s that emphasizes 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 34</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -775,9 +773,9 @@ Visual kei is a Japanese rock movement originating in the 1980s that emphasizes 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 33</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 68</li>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 86</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 15</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 33</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -814,7 +812,7 @@ Visual kei is a Japanese rock movement originating in the 1980s that emphasizes 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 71</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -834,7 +832,7 @@ Visual kei is a Japanese rock movement originating in the 1980s that emphasizes 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 57</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -877,12 +875,12 @@ Visual kei is a Japanese rock movement originating in the 1980s that emphasizes 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 2</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 9</li>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 34</li>
-            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 61</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 61</li>
-            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 89</li>
+            <li> <a href="{{ "/tags/boy-band" | relative_url }}">boy band</a> # 10</li>
+            <li> <a href="{{ "/tags/asian-pop" | relative_url }}">asian pop</a> # 40</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 40</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 53</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 92</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1041,10 +1039,10 @@ Visual kei is a Japanese rock movement originating in the 1980s that emphasizes 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 15</li>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 84</li>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 84</li>
-            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 99</li>
+            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 2</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 16</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 17</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1065,7 +1063,7 @@ Visual kei is a Japanese rock movement originating in the 1980s that emphasizes 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 85</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1160,7 +1158,7 @@ Visual kei is a Japanese rock movement originating in the 1980s that emphasizes 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 71</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1227,8 +1225,8 @@ Visual kei is a Japanese rock movement originating in the 1980s that emphasizes 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 21</li>
-            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 72</li>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 29</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 80</li>
             <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 98</li>
         </ul>
       </td>
@@ -1252,7 +1250,7 @@ Visual kei is a Japanese rock movement originating in the 1980s that emphasizes 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 91</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1330,11 +1328,11 @@ Visual kei is a Japanese rock movement originating in the 1980s that emphasizes 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 66</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 82</li>
-            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 88</li>
+            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 8</li>
+            <li> <a href="{{ "/tags/gothic-pop" | relative_url }}">gothic pop</a> # 11</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 19</li>
+            <li> <a href="{{ "/tags/dark-pop" | relative_url }}">dark pop</a> # 32</li>
             <li> <a href="{{ "/tags/poetry" | relative_url }}">poetry</a> # 91</li>
-            <li> <a href="{{ "/tags/dream-folk" | relative_url }}">dream folk</a> # 91</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 93</li>
         </ul>
       </td>
@@ -1385,12 +1383,12 @@ Visual kei is a Japanese rock movement originating in the 1980s that emphasizes 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 4</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 17</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 23</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 66</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 76</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 97</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 4</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 25</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 35</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 78</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 84</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1413,9 +1411,9 @@ Visual kei is a Japanese rock movement originating in the 1980s that emphasizes 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 19</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 35</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 88</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 13</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 64</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1437,7 +1435,7 @@ Visual kei is a Japanese rock movement originating in the 1980s that emphasizes 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 53</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1538,7 +1536,7 @@ Visual kei is a Japanese rock movement originating in the 1980s that emphasizes 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 75</li>
+            <li> <a href="{{ "/tags/symphonic-power-metal" | relative_url }}">symphonic power metal</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1584,12 +1582,12 @@ Visual kei is a Japanese rock movement originating in the 1980s that emphasizes 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 27</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 45</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 49</li>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 63</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 79</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 80</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 21</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 22</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 38</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 52</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 56</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 74</li>
             <li> <a href="{{ "/tags/poptron" | relative_url }}">poptron</a> # 98</li>
         </ul>
       </td>
@@ -1672,10 +1670,10 @@ Visual kei is a Japanese rock movement originating in the 1980s that emphasizes 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 89</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 92</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 94</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 99</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 2</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 7</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 8</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1694,7 +1692,7 @@ Visual kei is a Japanese rock movement originating in the 1980s that emphasizes 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 30</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1727,15 +1725,15 @@ Visual kei is a Japanese rock movement originating in the 1980s that emphasizes 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 41</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 47</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 59</li>
-            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 65</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 73</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 95</li>
-            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 98</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 99</li>
-            <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 100</li>
+            <li> <a href="{{ "/tags/rechtsrock" | relative_url }}">rechtsrock</a> # 1</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 2</li>
+            <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 3</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 6</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 28</li>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 35</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 42</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 54</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1763,12 +1761,12 @@ Visual kei is a Japanese rock movement originating in the 1980s that emphasizes 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 13</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 53</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 55</li>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 57</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 59</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 87</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 14</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 42</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 44</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 44</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 48</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1820,12 +1818,12 @@ Visual kei is a Japanese rock movement originating in the 1980s that emphasizes 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 7</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 54</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 60</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 83</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 86</li>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 100</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 1</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 15</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 18</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 41</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 47</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1872,7 +1870,7 @@ Visual kei is a Japanese rock movement originating in the 1980s that emphasizes 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 58</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1896,10 +1894,10 @@ Visual kei is a Japanese rock movement originating in the 1980s that emphasizes 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 29</li>
-            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 64</li>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 85</li>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 94</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 7</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 16</li>
+            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 37</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1922,7 +1920,8 @@ Visual kei is a Japanese rock movement originating in the 1980s that emphasizes 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 85</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 16</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1960,7 +1959,7 @@ Visual kei is a Japanese rock movement originating in the 1980s that emphasizes 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 12</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -2063,19 +2062,19 @@ Visual kei is a Japanese rock movement originating in the 1980s that emphasizes 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 14</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 45</li>
+            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 3</li>
+            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 4</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 5</li>
+            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 6</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 9</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 14</li>
+            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 18</li>
+            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 32</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 56</li>
             <li> <a href="{{ "/tags/breakcore" | relative_url }}">breakcore</a> # 67</li>
-            <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 69</li>
-            <li> <a href="{{ "/tags/russian" | relative_url }}">russian</a> # 81</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 87</li>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 92</li>
-            <li> <a href="{{ "/tags/miami-bass" | relative_url }}">miami bass</a> # 95</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 87</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 95</li>
             <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 96</li>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 96</li>
-            <li> <a href="{{ "/tags/russian-metal" | relative_url }}">russian metal</a> # 97</li>
-            <li> <a href="{{ "/tags/russian-pop" | relative_url }}">russian pop</a> # 98</li>
             <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 99</li>
         </ul>
       </td>
@@ -2133,7 +2132,7 @@ Visual kei is a Japanese rock movement originating in the 1980s that emphasizes 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 91</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -2154,7 +2153,7 @@ Visual kei is a Japanese rock movement originating in the 1980s that emphasizes 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 99</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 2</li>
         </ul>
       </td>
     </tr>

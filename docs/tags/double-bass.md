@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-07T18:30:46.059Z
+date: 2025-12-04T18:36:00.547Z
 permalink: tags/double-bass
 title: double bass
 ---
 
 ## double bass
 
-Last updated: <time datetime="2025-11-07T18:30:46.059Z">Fri Nov 07 2025 20:30:46 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T18:36:00.547Z">Thu Dec 04 2025 20:36:00 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,7 +47,7 @@ Double bass music refers to music that prominently features the double bass as a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 15</li>
+            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -89,7 +89,7 @@ Double bass music refers to music that prominently features the double bass as a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 26</li>
+            <li> <a href="{{ "/tags/trio" | relative_url }}">trio</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -182,7 +182,7 @@ Double bass music refers to music that prominently features the double bass as a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-double-bass" | relative_url }}">jazz double bass</a> # 85</li>
+            <li> <a href="{{ "/tags/jazz-double-bass" | relative_url }}">jazz double bass</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -314,7 +314,7 @@ Double bass music refers to music that prominently features the double bass as a
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/tMQh3zyTlxCEGjHO3ex-9F3HjgDC9IcUmIWp6E1mOHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzc2/NTMtMTU2MzI2NDk0/My02MzkxLmpwZWc.jpeg" alt="Cover for Miroslav Vitous Group" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aa2e9bbb144b462694f7143c32154fc3.png" alt="Cover for Miroslav Vitous Group" style="max-width:120px; height:auto;" />
       </td>
       <td>1994-07-25</td>
       <td>Miroslav Vitous</td>
@@ -516,7 +516,7 @@ Double bass music refers to music that prominently features the double bass as a
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/irg_WgLP9u0hJHcxnRFoTk9HWQI9U4UT-MN1cRkE4HE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjQz/MjItMTM0Njg1MDM2/My05Mjc1LmpwZWc.jpeg" alt="Cover for Nocturne" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f6f46adae7074883aff681f3ba7f1240.png" alt="Cover for Nocturne" style="max-width:120px; height:auto;" />
       </td>
       <td>2001-04-18</td>
       <td>Charlie Haden</td>
@@ -604,7 +604,7 @@ Double bass music refers to music that prominently features the double bass as a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 30</li>
+            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -624,7 +624,7 @@ Double bass music refers to music that prominently features the double bass as a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-double-bass" | relative_url }}">jazz double bass</a> # 80</li>
+            <li> <a href="{{ "/tags/jazz-double-bass" | relative_url }}">jazz double bass</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -678,7 +678,7 @@ Double bass music refers to music that prominently features the double bass as a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 47</li>
+            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -696,7 +696,7 @@ Double bass music refers to music that prominently features the double bass as a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 69</li>
+            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -714,9 +714,10 @@ Double bass music refers to music that prominently features the double bass as a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 76</li>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 90</li>
-            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 99</li>
+            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 1</li>
+            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 12</li>
+            <li> <a href="{{ "/tags/vocal-jazz" | relative_url }}">vocal jazz</a> # 23</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -758,7 +759,7 @@ Double bass music refers to music that prominently features the double bass as a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 93</li>
+            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -826,7 +827,7 @@ Double bass music refers to music that prominently features the double bass as a
     <tr>
       <td>84</td>
       <td>
-          <img src="https://i.discogs.com/KvZmmgIp_Tb4vutbVV1sJZM-xiKSLGpLl4kGtHv_11E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODM4/NDc0LTE1MDUxMzY3/MjMtNjgxNC5qcGVn.jpeg" alt="Cover for Downright Upright" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eca9cfecd8cb952272f1cc3090d51076.png" alt="Cover for Downright Upright" style="max-width:120px; height:auto;" />
       </td>
       <td>2006-03-24</td>
       <td>Brian Bromberg</td>
@@ -839,7 +840,7 @@ Double bass music refers to music that prominently features the double bass as a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 74</li>
+            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -861,8 +862,8 @@ Double bass music refers to music that prominently features the double bass as a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 90</li>
-            <li> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a> # 92</li>
+            <li> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a> # 9</li>
+            <li> <a href="{{ "/tags/piano-jazz" | relative_url }}">piano jazz</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -883,7 +884,7 @@ Double bass music refers to music that prominently features the double bass as a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 84</li>
+            <li> <a href="{{ "/tags/microtonal" | relative_url }}">microtonal</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -966,7 +967,7 @@ Double bass music refers to music that prominently features the double bass as a
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/Yt3vIlfKphsAbgoPhff_rlVCHnT7Gt5n_7m-mfNihGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjQ2/ODQ5LTE2NDE2MDIx/NzMtOTQ4OC5qcGVn.jpeg" alt="Cover for Notes Home" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f46e05defde2d12fae21588a776e6380.png" alt="Cover for Notes Home" style="max-width:120px; height:auto;" />
       </td>
       <td>2008-06-01</td>
       <td>David MacKenzie &amp; Josh Johnston</td>
@@ -1157,9 +1158,9 @@ Double bass music refers to music that prominently features the double bass as a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 35</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 64</li>
-            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 74</li>
+            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 28</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 37</li>
+            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 67</li>
             <li> <a href="{{ "/tags/european-jazz" | relative_url }}">european jazz</a> # 99</li>
         </ul>
       </td>
@@ -1188,9 +1189,9 @@ Double bass music refers to music that prominently features the double bass as a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 7</li>
-            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 39</li>
-            <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 47</li>
+            <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 53</li>
+            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 66</li>
+            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 94</li>
             <li> <a href="{{ "/tags/european-jazz" | relative_url }}">european jazz</a> # 95</li>
         </ul>
       </td>
@@ -1238,7 +1239,7 @@ Double bass music refers to music that prominently features the double bass as a
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/VrO7JRfYp7Y9GqM-_YRRzOUF6fp6bfAr7D41c0JLBjM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNDgz/MTEtMTM1OTY1OTE0/Ny04MDQxLmpwZWc.jpeg" alt="Cover for Ein" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1395c4a068764e049293dad043ecbe62.png" alt="Cover for Ein" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-06-01</td>
       <td>Rudhira</td>
@@ -1255,7 +1256,7 @@ Double bass music refers to music that prominently features the double bass as a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 60</li>
+            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1269,21 +1270,24 @@ Double bass music refers to music that prominently features the double bass as a
       <td>Avant Gardens</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
-            <li style="font-size: calc(1rem * 84.93150684931507 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
-            <li style="font-size: calc(1rem * 84.93150684931507 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/innovative" | relative_url }}">innovative</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a></li>
+            <li style="font-size: calc(1rem * 73 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a></li>
+            <li style="font-size: calc(1rem * 62 / 100)"> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 39</li>
+            <li> <a href="{{ "/tags/innovative" | relative_url }}">innovative</a> # 4</li>
+            <li> <a href="{{ "/tags/synth-rock" | relative_url }}">synth rock</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>56</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/199c2d751acc40b4b06c08cac124b345.png" alt="Cover for Jacques Russell" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-11-06</td>
       <td>The Silver Fish</td>
@@ -1307,7 +1311,7 @@ Double bass music refers to music that prominently features the double bass as a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a> # 5</li>
+            <li> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1378,22 +1382,18 @@ Double bass music refers to music that prominently features the double bass as a
     <tr>
       <td>100</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ce1c302ea937461ec6111bbc7309a4ad.png" alt="Cover for Almah" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-11-04</td>
       <td>Avishai Cohen</td>
       <td>Almah</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/viola" | relative_url }}">viola</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 46</li>
-            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 100</li>
+            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1436,7 +1436,7 @@ Double bass music refers to music that prominently features the double bass as a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 58</li>
+            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1498,7 +1498,7 @@ Double bass music refers to music that prominently features the double bass as a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 49</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1540,7 +1540,6 @@ Double bass music refers to music that prominently features the double bass as a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1583,7 +1582,7 @@ Double bass music refers to music that prominently features the double bass as a
     <tr>
       <td>55</td>
       <td>
-          <img src="https://i.discogs.com/H3m_Wlp6WQev6FrUIt6dw8b-uQkd2rRMFXVVGbXzUYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MjA3/MTctMTQ2OTQ2NzMw/Mi0zMzEyLnBuZw.jpeg" alt="Cover for Mixtape 001" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/14b6583c86ac45210396e0898854ab8a.png" alt="Cover for Mixtape 001" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-01-05</td>
       <td>El Ten Eleven</td>
@@ -1694,8 +1693,8 @@ Double bass music refers to music that prominently features the double bass as a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sheffield" | relative_url }}">sheffield</a> # 2</li>
-            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 21</li>
+            <li> <a href="{{ "/tags/trip" | relative_url }}">trip</a> # 80</li>
+            <li> <a href="{{ "/tags/sheffield" | relative_url }}">sheffield</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1720,7 +1719,7 @@ Double bass music refers to music that prominently features the double bass as a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a> # 15</li>
+            <li> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1740,7 +1739,7 @@ Double bass music refers to music that prominently features the double bass as a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a> # 25</li>
+            <li> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1761,7 +1760,7 @@ Double bass music refers to music that prominently features the double bass as a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 43</li>
+            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1901,6 +1900,7 @@ Double bass music refers to music that prominently features the double bass as a
     <tr>
       <td>38</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/745d346ef4262474dab72ec3576cd41e.png" alt="Cover for Our Rich Heritage" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Solid Brown</td>
@@ -1922,6 +1922,7 @@ Double bass music refers to music that prominently features the double bass as a
     <tr>
       <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2ca9b8451b604c98b22c2d9619386fe1.png" alt="Cover for Warsynium I" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Warsynium</td>
