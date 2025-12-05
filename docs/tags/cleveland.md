@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-14T23:30:23.285Z
+date: 2025-12-04T22:42:45.834Z
 permalink: tags/cleveland
 title: cleveland
 ---
 
 ## cleveland
 
-Last updated: <time datetime="2025-11-14T23:30:23.285Z">Sat Nov 15 2025 01:30:23 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T22:42:45.834Z">Fri Dec 05 2025 00:42:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -50,8 +50,8 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 38</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 63</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 39</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -128,7 +128,7 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 7</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -194,15 +194,15 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 12</li>
-            <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 46</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 13</li>
+            <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 54</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/sx3USqcd_Lb-WXAy6DXuwo932bxHCM4tQ0j8YVREg8s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MjU4/NS0xMTU4MjYxODUx/LmpwZWc.jpeg" alt="Cover for Abomination" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/968c67dd4c5a2e26261ddf548439987e.png" alt="Cover for Abomination" style="max-width:120px; height:auto;" />
       </td>
       <td>1996</td>
       <td>Ascension</td>
@@ -312,7 +312,7 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 22</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -387,7 +387,7 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 12</li>
+            <li> <a href="{{ "/tags/estonia" | relative_url }}">estonia</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -428,9 +428,8 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 16</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 52</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 72</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 2</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -453,7 +452,7 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 11</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -480,8 +479,8 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 35</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 60</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 36</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -505,8 +504,8 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 41</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 65</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 42</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -534,9 +533,9 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 15</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 48</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 71</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 49</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 72</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -562,10 +561,10 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 41</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 65</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 22</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 32</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 58</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 74</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 77</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 81</li>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 91</li>
         </ul>
@@ -632,9 +631,9 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 6</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 47</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 70</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 48</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 71</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -739,9 +738,9 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 4</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 45</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 68</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 46</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 69</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -768,9 +767,9 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 56</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 73</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 87</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 26</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 41</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 86</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 89</li>
         </ul>
       </td>
@@ -797,8 +796,8 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 51</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 65</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 33</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 45</li>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 78</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 87</li>
         </ul>
@@ -807,7 +806,7 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/rQ2MsOcRzusvbe5B9VVX-gtdha8QjyNb1tHjf9Cpxuk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NDE3/MDQtMTQxOTMwMTc0/OC03NTAyLmpwZWc.jpeg" alt="Cover for Lost Boys" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c1609837bba6438294e9c2dabc7da41d.png" alt="Cover for Lost Boys" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-16</td>
       <td>Strangers To Wolves</td>
@@ -845,8 +844,10 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 18</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 73</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 80</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 99</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -889,7 +890,7 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 23</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -930,7 +931,7 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 58</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -958,7 +959,7 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
     <tr>
       <td>3</td>
       <td>
-          <img src="https://i.discogs.com/l2e5_LDsezxFo82hSuYk61kxcaMvxhlHhit2VHkBfhc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDQ0/ODcyLTE1NzQ2NDQ1/NTAtODg4MC5qcGVn.jpeg" alt="Cover for Everyn" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ab99ac5d6b66ee2a6c3fb3090e7e19e1.png" alt="Cover for Everyn" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-05-19</td>
       <td>Everyn</td>
@@ -1002,8 +1003,8 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 34</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 59</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 35</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1030,10 +1031,10 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 29</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 58</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 39</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 68</li>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 86</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 90</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 89</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 90</li>
         </ul>
       </td>
@@ -1061,10 +1062,10 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 80</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 83</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 12</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 15</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 20</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 84</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 88</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 97</li>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 99</li>
         </ul>
@@ -1090,9 +1091,9 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 24</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 17</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 61</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 84</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1116,7 +1117,7 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 7</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1139,7 +1140,7 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 32</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1164,16 +1165,16 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 80</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 19</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 92</li>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 96</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 97</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/J-YRXfW5T8DKz9DbRcUJtZl_6CCDJrEvMKen3Eexzlc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjI2/NDkyLTE1MDEyMDUw/NTktMzYwMy5qcGVn.jpeg" alt="Cover for The Cowboy Album" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b9c0a7baa3cbaa82d9b729bcde863594.png" alt="Cover for The Cowboy Album" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-07-30</td>
       <td>The Cowboy</td>
@@ -1216,29 +1217,6 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
     </tr>
     <tr>
-      <td>19</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed0d5e385bdf44f0af42e42d6a7627f6.png" alt="Cover for Bitch I&#39;m From Cleveland 3" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2018-09-08</td>
-      <td>Machine Gun Kelly</td>
-      <td>Bitch I&#39;m From Cleveland 3</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 1</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>31</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/53c12a7294e552791bdf5f9671dda847.png" alt="Cover for Stamp of Approval" style="max-width:120px; height:auto;" />
@@ -1259,7 +1237,29 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 13</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 14</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed0d5e385bdf44f0af42e42d6a7627f6.png" alt="Cover for Bitch I&#39;m From Cleveland 3" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2018-09-08</td>
+      <td>Machine Gun Kelly</td>
+      <td>Bitch I&#39;m From Cleveland 3</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rap" | relative_url }}">rap</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
         </ul>
       </td>
     </tr>
@@ -1316,11 +1316,13 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 53</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 57</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 1</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 1</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 21</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 38</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 45</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 85</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 95</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 99</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 100</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 100</li>
         </ul>
       </td>
@@ -1328,7 +1330,7 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/cL-JdJ5P_fwuf-aFupFpYoPq4PjzwFLN5dq6VxCwqOc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzYy/NTA4LTE1NzI5OTAz/NTgtMjM0OS5qcGVn.jpeg" alt="Cover for Binary Enigma" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/faf24b4759445dd491b79687efc9fb6c.png" alt="Cover for Binary Enigma" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-11-03</td>
       <td>ZETA</td>
@@ -1371,10 +1373,10 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 5</li>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 17</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 27</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 18</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 72</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 76</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1402,11 +1404,11 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 15</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 54</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 69</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 30</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 43</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 81</li>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 82</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 86</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 85</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 88</li>
         </ul>
       </td>
@@ -1431,7 +1433,7 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 17</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1458,7 +1460,7 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 23</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1482,8 +1484,8 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 3</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 33</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 4</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1506,7 +1508,7 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 43</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1532,7 +1534,7 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 52</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1580,7 +1582,7 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 83</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1607,9 +1609,9 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 32</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 49</li>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 49</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 50</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 60</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 82</li>
         </ul>
       </td>
@@ -1643,11 +1645,11 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 40</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 92</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 93</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 99</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 7</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 8</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 55</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 99</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1673,8 +1675,8 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 13</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 41</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 14</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1696,7 +1698,7 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 55</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1723,8 +1725,8 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 68</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 78</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 21</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 30</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 91</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 92</li>
         </ul>
@@ -1750,9 +1752,9 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 82</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 94</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 17</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 94</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1847,8 +1849,8 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 26</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 54</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 27</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1875,7 +1877,7 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 48</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 49</li>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 73</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 82</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 86</li>
@@ -1911,10 +1913,10 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 70</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 81</li>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 93</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 18</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 28</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 93</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1962,8 +1964,8 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 37</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 61</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 38</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -2041,7 +2043,7 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 35</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -2063,7 +2065,7 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 6</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -2086,7 +2088,7 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 17</li>
+            <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -2196,6 +2198,7 @@ The Cleveland tag represents the diverse musical output from Ohio&#39;s gritty i
     <tr>
       <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f69b24e27ad648ba9cc4a4960e9fd256.png" alt="Cover for RX P.M." style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Psycho Metal</td>

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-11T04:21:13.299Z
+date: 2025-12-04T22:42:34.127Z
 permalink: tags/polski
 title: polski
 ---
 
 ## polski
 
-Last updated: <time datetime="2025-11-11T04:21:13.299Z">Tue Nov 11 2025 06:21:13 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T22:42:34.127Z">Fri Dec 05 2025 00:42:34 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -51,7 +51,6 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
     <tr>
       <td>6</td>
       <td>
-          <img src="https://i.discogs.com/rhl3gd8qKDJ1n5a8I1Wv85sVeCaAyivtQpUMK7N_A-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTY3/MTMzLTE0OTI3ODM1/MzUtODEwNy5qcGVn.jpeg" alt="Cover for Dances of Poland: A Treasury of Harpsichord Music" style="max-width:120px; height:auto;" />
       </td>
       <td>1952-06</td>
       <td>Wanda Landowska</td>
@@ -161,8 +160,8 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 28</li>
-            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 38</li>
+            <li> <a href="{{ "/tags/new-beat" | relative_url }}">new beat</a> # 62</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -187,6 +186,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/52acaec3cd8541e7df95b11cb81d9ab5.png" alt="Cover for Disease" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>G.G.F.H.</td>
@@ -290,9 +290,9 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       <td>
         <ul>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 18</li>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 19</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 21</li>
-            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 70</li>
+            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 31</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 79</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -517,7 +517,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 61</li>
+            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 40</li>
             <li> <a href="{{ "/tags/national-socialist" | relative_url }}">national socialist</a> # 89</li>
         </ul>
       </td>
@@ -602,7 +602,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 3</li>
+            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -669,7 +669,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/1N4sCPFUAzC6WabsWvSfDC7cK3uayp6NvFqnJHB40Mk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODI2/MDItMTQxODQ3MDIx/OS0yNjU3LmpwZWc.jpeg" alt="Cover for Stygian Concrete Works" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cc40055cc66944b2c4f1f1cbcf742adc.png" alt="Cover for Stygian Concrete Works" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-09-13</td>
       <td>Keepsakes</td>
@@ -690,7 +690,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
     <tr>
       <td>28</td>
       <td>
-          <img src="https://i.discogs.com/kr8tleZvQiNfKjrDEHX-qHtsAr7FmHz3okl3ftYwouo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzI5/NDU0LTE2NzgxNDI1/ODEtNDQ4Ni5qcGVn.jpeg" alt="Cover for xxxxx​.​.​.​." style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1cc9c92a0bbba9a5b39b5d2f47c1c452.png" alt="Cover for xxxxx​.​.​.​." style="max-width:120px; height:auto;" />
       </td>
       <td>2014-10-13</td>
       <td>END 519</td>
@@ -751,7 +751,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/5UIgIG_wM2-NqXGRgfsWY7GOZ9bKdElGGnpfTQPRIeA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3OTM5/OTUtMTUxOTA0NDYz/NC03NTQzLmpwZWc.jpeg" alt="Cover for BARDZO CIEPŁE LATO" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/01439c7be7b8ec1bc747c306547a386c.png" alt="Cover for BARDZO CIEPŁE LATO" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-11-23</td>
       <td>mchy i porosty</td>
@@ -768,7 +768,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 35</li>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -795,7 +795,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
     <tr>
       <td>57</td>
       <td>
-          <img src="https://i.discogs.com/yaNJGTCD70kkGzcum29bWCAxHa0nnlfnDvC77-b1DiM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTE4/MjAtMTQ3MjkwMDky/MS00NDc4LmpwZWc.jpeg" alt="Cover for Odio y Desprecio" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e7643316673af660b7abf85a6865a915.png" alt="Cover for Odio y Desprecio" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-07-07</td>
       <td>Slaughtered Saint</td>
@@ -840,12 +840,12 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 24</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 53</li>
+            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 18</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 25</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 38</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 48</li>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 61</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 62</li>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 77</li>
-            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 83</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1069,7 +1069,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
     <tr>
       <td>99</td>
       <td>
-          <img src="https://i.discogs.com/xZePdMkv66V-yJ8nARf1Ozh9JD_VovFVwTOYquWQWs8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDI3/ODUtMTQ3OTkzNDk0/Ny01NDg2LmpwZWc.jpeg" alt="Cover for Lunaris" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04350bca604884809895156cc9930f64.png" alt="Cover for Lunaris" style="max-width:120px; height:auto;" />
       </td>
       <td>2022-09-15</td>
       <td>Arkona</td>
@@ -1090,12 +1090,12 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 73</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 79</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 82</li>
+            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 9</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 9</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 18</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 22</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 28</li>
             <li> <a href="{{ "/tags/polish-black-metal" | relative_url }}">polish black metal</a> # 89</li>
-            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 92</li>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1875,8 +1875,8 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 21</li>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 42</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 59</li>
+            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1902,8 +1902,8 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 12</li>
-            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 69</li>
+            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 32</li>
+            <li> <a href="{{ "/tags/poland" | relative_url }}">poland</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1936,9 +1936,9 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 19</li>
-            <li> <a href="{{ "/tags/hungarian" | relative_url }}">hungarian</a> # 36</li>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 65</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 36</li>
+            <li> <a href="{{ "/tags/hungarian" | relative_url }}">hungarian</a> # 65</li>
+            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1960,7 +1960,7 @@ Polish music is rich and diverse, with a history that spans from the 13th centur
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 73</li>
+            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 28</li>
         </ul>
       </td>
     </tr>

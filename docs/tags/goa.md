@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T09:35:53.629Z
+date: 2025-12-04T22:59:04.174Z
 permalink: tags/goa
 title: goa
 ---
 
 ## goa
 
-Last updated: <time datetime="2025-11-18T09:35:53.629Z">Tue Nov 18 2025 11:35:53 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T22:59:04.174Z">Fri Dec 05 2025 00:59:04 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -62,7 +62,7 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 41</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -172,7 +172,7 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 27</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -209,7 +209,7 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 87</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -229,7 +229,7 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 84</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -248,7 +248,7 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 92</li>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -287,7 +287,7 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 88</li>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -360,8 +360,8 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 63</li>
-            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 82</li>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 19</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -381,8 +381,8 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 20</li>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 80</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 20</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -420,7 +420,7 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 95</li>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -440,8 +440,8 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 19</li>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 79</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 21</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -459,8 +459,8 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 32</li>
-            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 68</li>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 33</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -479,7 +479,7 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 25</li>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -572,7 +572,7 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 91</li>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -592,8 +592,8 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 43</li>
-            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 94</li>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 7</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -613,8 +613,8 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 62</li>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 81</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 19</li>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -634,8 +634,8 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 17</li>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 21</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 80</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -688,8 +688,8 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 95</li>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 99</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 6</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -709,8 +709,8 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 56</li>
-            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 76</li>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 25</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -750,8 +750,8 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 63</li>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 92</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 8</li>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -772,8 +772,8 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 49</li>
-            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 99</li>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 1</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -794,8 +794,8 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 4</li>
             <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 49</li>
-            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -887,8 +887,8 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 18</li>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 82</li>
-            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -928,10 +928,10 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 9</li>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 23</li>
-            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 75</li>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 75</li>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 26</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 26</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 78</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -950,7 +950,7 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 3</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -968,7 +968,7 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 37</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -987,7 +987,7 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 17</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1028,7 +1028,7 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 30</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1047,7 +1047,8 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 74</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 27</li>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1066,7 +1067,7 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 59</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1085,7 +1086,7 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 29</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1124,7 +1125,7 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 68</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1178,7 +1179,7 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 36</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1197,7 +1198,7 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 35</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1217,7 +1218,7 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 60</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1254,7 +1255,7 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 76</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1291,7 +1292,7 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 13</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1331,9 +1332,9 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 35</li>
-            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 65</li>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 91</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 9</li>
+            <li> <a href="{{ "/tags/trance" | relative_url }}">trance</a> # 36</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1406,7 +1407,7 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 86</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1426,7 +1427,7 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 64</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1445,7 +1446,7 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 73</li>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1490,13 +1491,13 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 3</li>
+            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 3</li>
+            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 4</li>
+            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 4</li>
             <li> <a href="{{ "/tags/new-age-electronic" | relative_url }}">new age electronic</a> # 4</li>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 45</li>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 80</li>
-            <li> <a href="{{ "/tags/new-age-ambiant" | relative_url }}">new age ambiant</a> # 97</li>
-            <li> <a href="{{ "/tags/ethereal-new-age" | relative_url }}">ethereal new age</a> # 97</li>
-            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 98</li>
-            <li> <a href="{{ "/tags/chill-new-age" | relative_url }}">chill new age</a> # 98</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 20</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1554,13 +1555,13 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       <td>
         <ul>
             <li> <a href="{{ "/tags/darkpsy" | relative_url }}">darkpsy</a> # 1</li>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 4</li>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 19</li>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 27</li>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 33</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 28</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 29</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 29</li>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 45</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 70</li>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 72</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 68</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 79</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1582,7 +1583,7 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 28</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1640,13 +1641,13 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 8</li>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 31</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 49</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 71</li>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 81</li>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 84</li>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 86</li>
+            <li> <a href="{{ "/tags/ambient-techno" | relative_url }}">ambient techno</a> # 10</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 15</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 16</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 19</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 30</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 52</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1681,8 +1682,8 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 61</li>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 97</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 4</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1704,7 +1705,7 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 78</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1725,7 +1726,7 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 57</li>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1746,7 +1747,7 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 84</li>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1769,8 +1770,8 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 61</li>
-            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 72</li>
+            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 29</li>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1790,7 +1791,7 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 98</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1810,7 +1811,7 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 94</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1832,7 +1833,7 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 72</li>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1856,8 +1857,8 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 58</li>
-            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 68</li>
+            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 33</li>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1880,9 +1881,9 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 97</li>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 100</li>
-            <li> <a href="{{ "/tags/didgeridoo" | relative_url }}">didgeridoo</a> # 100</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 1</li>
+            <li> <a href="{{ "/tags/didgeridoo" | relative_url }}">didgeridoo</a> # 1</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1905,7 +1906,7 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 71</li>
+            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1947,9 +1948,9 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 4</li>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 36</li>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 39</li>
-            <li> <a href="{{ "/tags/progressive-psytrance" | relative_url }}">progressive psytrance</a> # 97</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1971,7 +1972,7 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 64</li>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1991,7 +1992,7 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 95</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -2012,8 +2013,8 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 7</li>
-            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 66</li>
+            <li> <a href="{{ "/tags/rave" | relative_url }}">rave</a> # 6</li>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -2033,7 +2034,7 @@ Goa is a psychedelic trance subgenre that emerged from the beach parties of Goa,
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 78</li>
+            <li> <a href="{{ "/tags/goa-trance" | relative_url }}">goa trance</a> # 23</li>
         </ul>
       </td>
     </tr>

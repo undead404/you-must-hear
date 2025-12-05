@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T09:35:46.830Z
+date: 2025-12-04T22:58:34.354Z
 permalink: tags/serbia
 title: serbia
 ---
 
 ## serbia
 
-Last updated: <time datetime="2025-11-18T09:35:46.830Z">Tue Nov 18 2025 11:35:46 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T22:58:34.354Z">Fri Dec 05 2025 00:58:34 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -258,7 +258,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
     <tr>
       <td>75</td>
       <td>
-          <img src="https://i.discogs.com/K60Vo-zkwJpLU40Jy725TSZyPbmKEoyhj4blEFtV4Ns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTUz/NzQtMTI1ODY1OTM5/NS5qcGVn.jpeg" alt="Cover for Traumatic Memories" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a3a34f57bd704ff49668edd31ca0d714.png" alt="Cover for Traumatic Memories" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Bloodbath</td>
@@ -278,7 +278,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
     <tr>
       <td>20</td>
       <td>
-          <img src="https://i.discogs.com/5nefiXj2-xLa32iqDg4rFEYLCqafSQPC9YuAHtiz43k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzQ0/Ny0xMTkxNDE1NzM1/LmpwZWc.jpeg" alt="Cover for The Upcoming Devastation" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eaa313dccda4453cc52076221f9f71e7.png" alt="Cover for The Upcoming Devastation" style="max-width:120px; height:auto;" />
       </td>
       <td>1995</td>
       <td>Prisoner</td>
@@ -386,7 +386,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       <td>
         <ul>
             <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 37</li>
-            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 57</li>
+            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 43</li>
             <li> <a href="{{ "/tags/serbian" | relative_url }}">serbian</a> # 64</li>
             <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 82</li>
         </ul>
@@ -430,9 +430,9 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 13</li>
             <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 65</li>
             <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 65</li>
-            <li> <a href="{{ "/tags/klezmer" | relative_url }}">klezmer</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -900,9 +900,9 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 20</li>
+            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 41</li>
             <li> <a href="{{ "/tags/serbian" | relative_url }}">serbian</a> # 50</li>
-            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 60</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -958,7 +958,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/zN3eMeNUNwmx0ReXCwaY0e6Z1wJxPCDqc6MhugqMd0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NjA4/NTMtMTQwNDczMTM3/OC03OTc1LmpwZWc.jpeg" alt="Cover for Speed Metal Je Živ" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d88e73297eb4300c3c772d381f1d2a5.png" alt="Cover for Speed Metal Je Živ" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Horror Piknik</td>
@@ -1059,7 +1059,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/FSFKZH9DC4BUZmNHNVbbrsliogoFQ7la9n50pi2MKvA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0Njkw/NzMtMTQ2MjIwOTcw/Mi01MDMxLmpwZWc.jpeg" alt="Cover for One More Time" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5845c2c29efd9ab3c6af2810d6213842.png" alt="Cover for One More Time" style="max-width:120px; height:auto;" />
       </td>
       <td>2015</td>
       <td>Enemy Inside</td>
@@ -1268,7 +1268,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/DVDoOmxxera--cj456a-viZ1j0w0UQYM5ZM4PYQ29h0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2Njk5/NzYtMTYwOTE3OTQw/Mi0xODIxLmpwZWc.jpeg" alt="Cover for Lunar &#x2F; Solar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a5b814f906b041e79c00e0633f9bf94.png" alt="Cover for Lunar &#x2F; Solar" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-01-15</td>
       <td>All My Sins</td>
@@ -1427,7 +1427,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
     <tr>
       <td>80</td>
       <td>
-          <img src="https://i.discogs.com/6jm5Bj-yBQq8ppcpyi1LQzOjObLzsSERa5RYU8Gl-LQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU4/NzUyLTE1Mzc2MDQy/MTEtOTU5NC5qcGVn.jpeg" alt="Cover for Pra Sila - Vukov Totem" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3e0ec46a38483a4c61a3832e12e27ce6.png" alt="Cover for Pra Sila - Vukov Totem" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-09-23</td>
       <td>All My Sins</td>
@@ -1466,7 +1466,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       <td>
         <ul>
             <li> <a href="{{ "/tags/gypsy" | relative_url }}">gypsy</a> # 36</li>
-            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 56</li>
+            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 44</li>
             <li> <a href="{{ "/tags/serbian" | relative_url }}">serbian</a> # 65</li>
             <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 81</li>
         </ul>
@@ -1530,7 +1530,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 17</li>
+            <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1593,7 +1593,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 89</li>
+            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1750,7 +1750,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a> # 22</li>
+            <li> <a href="{{ "/tags/jazz-trio" | relative_url }}">jazz trio</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1861,7 +1861,7 @@ Serbian music encompasses a diverse sonic landscape blending Balkan folk traditi
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 20</li>
+            <li> <a href="{{ "/tags/romania" | relative_url }}">romania</a> # 82</li>
         </ul>
       </td>
     </tr>
