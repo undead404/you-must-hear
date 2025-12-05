@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T14:01:07.753Z
+date: 2025-12-05T00:56:46.226Z
 permalink: tags/pakistani
 title: pakistani
 ---
 
 ## pakistani
 
-Last updated: <time datetime="2025-10-22T14:01:07.753Z">Wed Oct 22 2025 17:01:07 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-05T00:56:46.226Z">Fri Dec 05 2025 02:56:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -217,7 +217,7 @@ Pakistani music blends traditional South Asian musical heritage with contemporar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 39</li>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -280,7 +280,7 @@ Pakistani music blends traditional South Asian musical heritage with contemporar
     <tr>
       <td>69</td>
       <td>
-          <img src="https://i.discogs.com/Aq1fAFt2NdccApc6jMHyecjjg-29FBBDyDc3Fol3voQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODcz/MC0xMjg5NTk3Njg2/LmpwZWc.jpeg" alt="Cover for Thousand Thoughts" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6aea3eb2ba334609b88da96edaf4666a.png" alt="Cover for Thousand Thoughts" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Bohemia</td>
@@ -295,7 +295,7 @@ Pakistani music blends traditional South Asian musical heritage with contemporar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punjabi" | relative_url }}">punjabi</a> # 22</li>
+            <li> <a href="{{ "/tags/punjabi" | relative_url }}">punjabi</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -350,8 +350,8 @@ Pakistani music blends traditional South Asian musical heritage with contemporar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 10</li>
-            <li> <a href="{{ "/tags/punjabi" | relative_url }}">punjabi</a> # 92</li>
+            <li> <a href="{{ "/tags/punjabi" | relative_url }}">punjabi</a> # 9</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -408,7 +408,7 @@ Pakistani music blends traditional South Asian musical heritage with contemporar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 31</li>
+            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -446,14 +446,15 @@ Pakistani music blends traditional South Asian musical heritage with contemporar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 44</li>
-            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 79</li>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 22</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>95</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/60d8ff1968294867bd9004fc73c4d373.png" alt="Cover for El Costumbre" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Jorge Reyes</td>
@@ -470,7 +471,7 @@ Pakistani music blends traditional South Asian musical heritage with contemporar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 53</li>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -632,8 +633,8 @@ Pakistani music blends traditional South Asian musical heritage with contemporar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 27</li>
-            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 70</li>
+            <li> <a href="{{ "/tags/chant" | relative_url }}">chant</a> # 31</li>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 74</li>
             <li> <a href="{{ "/tags/hindustani" | relative_url }}">hindustani</a> # 83</li>
         </ul>
       </td>
@@ -994,7 +995,7 @@ Pakistani music blends traditional South Asian musical heritage with contemporar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 75</li>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1075,7 +1076,7 @@ Pakistani music blends traditional South Asian musical heritage with contemporar
     <tr>
       <td>79</td>
       <td>
-          <img src="https://i.discogs.com/tFtK67a0BaeLVWmpWrZXPlHeBsaKZ1oMNrBWw4W6zvs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjE3/MzItMTU4ODIyMDAy/Mi0zMzI4LmpwZWc.jpeg" alt="Cover for Sampooran" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a7a71e28141cf4cdc2cd9ecb89f6956f.png" alt="Cover for Sampooran" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Mekaal Hasan Band</td>
@@ -1089,14 +1090,14 @@ Pakistani music blends traditional South Asian musical heritage with contemporar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 64</li>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 37</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/CEqyWKpUSY0cMExoDctpla0Fh_MKOiMyPR7fX4Z-Li8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDA3/NzU4LTE1NDYzNTc4/NjUtNjk4MS5qcGVn.jpeg" alt="Cover for Saagar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5b70147181a4470bc70296f51e01ebef.png" alt="Cover for Saagar" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Fuzon</td>
@@ -1110,7 +1111,7 @@ Pakistani music blends traditional South Asian musical heritage with contemporar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 52</li>
+            <li> <a href="{{ "/tags/hindi" | relative_url }}">hindi</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1525,15 +1526,15 @@ Pakistani music blends traditional South Asian musical heritage with contemporar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 82</li>
-            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 95</li>
+            <li> <a href="{{ "/tags/bhangra" | relative_url }}">bhangra</a> # 6</li>
+            <li> <a href="{{ "/tags/asia" | relative_url }}">asia</a> # 19</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>8</td>
       <td>
-          <img src="https://i.discogs.com/P0tN5gewofw-PVQsmtRR8jeQ8qJJK7BGfiquDuZWO1A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzIw/NTgyLTE2MTI4MDA3/NTEtNzgwMy5qcGVn.jpeg" alt="Cover for Coke Studio Season 6" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/783b52a5423b43d1c35b703408ccc83d.png" alt="Cover for Coke Studio Season 6" style="max-width:120px; height:auto;" />
       </td>
       <td>2007-03-01</td>
       <td>Abrar-Ul-Haq</td>
@@ -1604,7 +1605,7 @@ Pakistani music blends traditional South Asian musical heritage with contemporar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 15</li>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1625,8 +1626,8 @@ Pakistani music blends traditional South Asian musical heritage with contemporar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 70</li>
-            <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 70</li>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 31</li>
+            <li> <a href="{{ "/tags/desi" | relative_url }}">desi</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1665,7 +1666,7 @@ Pakistani music blends traditional South Asian musical heritage with contemporar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 17</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1703,8 +1704,8 @@ Pakistani music blends traditional South Asian musical heritage with contemporar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 2</li>
             <li> <a href="{{ "/tags/ghazal" | relative_url }}">ghazal</a> # 72</li>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1723,7 +1724,7 @@ Pakistani music blends traditional South Asian musical heritage with contemporar
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 25</li>
+            <li> <a href="{{ "/tags/sufi" | relative_url }}">sufi</a> # 76</li>
         </ul>
       </td>
     </tr>

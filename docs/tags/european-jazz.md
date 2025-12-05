@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-16T08:58:33.375Z
+date: 2025-12-05T00:47:45.941Z
 permalink: tags/european-jazz
 title: european jazz
 ---
 
 ## european jazz
 
-Last updated: <time datetime="2025-11-16T08:58:33.375Z">Sun Nov 16 2025 10:58:33 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T00:47:45.941Z">Fri Dec 05 2025 02:47:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -84,7 +84,7 @@ European jazz emerged as a distinctive approach that blends American jazz tradit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 49</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1079,29 +1079,6 @@ European jazz emerged as a distinctive approach that blends American jazz tradit
       </td>
     </tr>
     <tr>
-      <td>100</td>
-      <td>
-          <img src="https://i.discogs.com/bCq1NuNsTP1yycZnWqjterCKL-2T8pZBabjkXDz9GnM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzc4/MDgtMTM1MzE3Mjcz/OC0yNjA4LmpwZWc.jpeg" alt="Cover for Piano" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2007</td>
-      <td>Jan Johansson</td>
-      <td>Piano</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/european-jazz" | relative_url }}">european jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/piano" | relative_url }}">piano</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/jazz-piano" | relative_url }}">jazz piano</a> # 49</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>9</td>
       <td>
           <img src="https://i.discogs.com/J1ifEwu552LTNeSHrpFfXBuf8LfUepLCDUAiMJg9cE4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzk2/MjkyLTE2MzU2ODE3/MjYtMjU3NC5qcGVn.jpeg" alt="Cover for Porta del Vento" style="max-width:120px; height:auto;" />
@@ -1182,6 +1159,23 @@ European jazz emerged as a distinctive approach that blends American jazz tradit
       </td>
     </tr>
     <tr>
+      <td>100</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8602cd34dfee4bbcbe419d531a9c8105.png" alt="Cover for Piano" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2007</td>
+      <td>Jan Johansson</td>
+      <td>Piano</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
       <td>52</td>
       <td>
       </td>
@@ -1197,7 +1191,7 @@ European jazz emerged as a distinctive approach that blends American jazz tradit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 19</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1293,8 +1287,8 @@ European jazz emerged as a distinctive approach that blends American jazz tradit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 28</li>
-            <li> <a href="{{ "/tags/piano-trio" | relative_url }}">piano trio</a> # 80</li>
+            <li> <a href="{{ "/tags/piano-trio" | relative_url }}">piano trio</a> # 21</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1440,10 +1434,10 @@ European jazz emerged as a distinctive approach that blends American jazz tradit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 7</li>
-            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 37</li>
-            <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 47</li>
-            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 87</li>
+            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 13</li>
+            <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 53</li>
+            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 66</li>
+            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1470,10 +1464,10 @@ European jazz emerged as a distinctive approach that blends American jazz tradit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 34</li>
-            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 37</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 64</li>
-            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 72</li>
+            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 28</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 37</li>
+            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 64</li>
+            <li> <a href="{{ "/tags/oregon" | relative_url }}">oregon</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1663,7 +1657,7 @@ European jazz emerged as a distinctive approach that blends American jazz tradit
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a> # 19</li>
+            <li> <a href="{{ "/tags/quartet" | relative_url }}">quartet</a> # 83</li>
         </ul>
       </td>
     </tr>

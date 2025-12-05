@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T00:57:39.339Z
+date: 2025-12-05T00:41:19.625Z
 permalink: tags/deconstructed-club
 title: deconstructed club
 ---
 
 ## deconstructed club
 
-Last updated: <time datetime="2025-11-24T00:57:39.339Z">Mon Nov 24 2025 02:57:39 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T00:41:19.625Z">Fri Dec 05 2025 02:41:19 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,7 +44,7 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 68</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -86,9 +86,9 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 6</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 46</li>
-            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 50</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 14</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 44</li>
+            <li> <a href="{{ "/tags/synth-punk" | relative_url }}">synth punk</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -106,16 +106,16 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 5</li>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 29</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 78</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 21</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 30</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 94</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>100</td>
       <td>
-          <img src="https://i.discogs.com/cfEgv_v0a_yivPtJkBERKBFeAX74qGawK4qKy19jP9g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTQ3/NDItMTMwOTAwODg0/NC5qcGVn.jpeg" alt="Cover for KICK ii" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ad1db1d1a6a56f372ddd52b199c9afd0.png" alt="Cover for KICK ii" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-05</td>
       <td>Arca</td>
@@ -127,8 +127,8 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 83</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 91</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 9</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -149,7 +149,7 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 41</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -172,10 +172,10 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 66</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 87</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 90</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 97</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 4</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 11</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 14</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -243,8 +243,6 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       <td>That&#39;s Harakiri</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a></li>
         </ul>
       </td>
       <td>
@@ -268,8 +266,8 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 81</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 96</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 5</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -346,9 +344,9 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a> # 17</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 42</li>
             <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 53</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 59</li>
-            <li> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -369,7 +367,7 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 5</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -390,7 +388,7 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 58</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -435,7 +433,7 @@ Deconstructed club is an experimental electronic genre that takes elements of da
     <tr>
       <td>40</td>
       <td>
-          <img src="https://i.discogs.com/cNqnfmYBLtWFwm5364kNMIEDsPlUhTpgX_ayeJF1in8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Mjcx/NDgtMTQ0NzUzMzEw/OS04Mzk5LmpwZWc.jpeg" alt="Cover for Agitations" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f90d339a0dcf41f54c8deab1cc56bc85.png" alt="Cover for Agitations" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-11-13</td>
       <td>Lotic</td>
@@ -460,8 +458,6 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       <td>Mutant</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a></li>
-            <li style="font-size: calc(1rem * 54 / 100)"> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a></li>
         </ul>
       </td>
       <td>
@@ -510,10 +506,10 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 1</li>
-            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 6</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 16</li>
-            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 88</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 85</li>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 90</li>
+            <li> <a href="{{ "/tags/dance-pop" | relative_url }}">dance-pop</a> # 95</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -538,7 +534,7 @@ Deconstructed club is an experimental electronic genre that takes elements of da
     <tr>
       <td>17</td>
       <td>
-          <img src="https://i.discogs.com/eL5Qu2whMH1mTPWrD2xvLxQMUlI-_LvDbdWGzIGstLQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NjU3/NDMtMTQ4MTA1MzI3/Ni04Njg4LmpwZWc.jpeg" alt="Cover for Furiosa" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/01d37d1eb703361dea53f0859e01fb2c.png" alt="Cover for Furiosa" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-06-17</td>
       <td>Kablam</td>
@@ -557,7 +553,7 @@ Deconstructed club is an experimental electronic genre that takes elements of da
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/pWsbscFbX3vvUH7xajsr3Sx2qzPumRGrkfx_x-MdI60/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MzU4/NTQtMTQ2NzY1Mjg0/MC01NjkwLmpwZWc.jpeg" alt="Cover for Entrañas" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e986fa5aaa146ae07229f8d34af71da4.png" alt="Cover for Entrañas" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-07-04</td>
       <td>Arca</td>
@@ -573,15 +569,15 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 1</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 42</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 59</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 99</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>23</td>
       <td>
-          <img src="https://i.discogs.com/x9lawV9ehiF74fgBdnPL4j6qameGRyX17Lou4DDqHx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNDcx/MjktMTQ3Mzg1MDAx/NC05MTY2LmpwZWc.jpeg" alt="Cover for Ψ" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b7d1e1e7288d2ec8d5d3dfe8b3c9bdfd.png" alt="Cover for Ψ" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-09-16</td>
       <td>patten</td>
@@ -614,8 +610,8 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 69</li>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 86</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 14</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -657,7 +653,7 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 29</li>
+            <li> <a href="{{ "/tags/vocaloid" | relative_url }}">vocaloid</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -693,9 +689,9 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 19</li>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 22</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 30</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 71</li>
+            <li> <a href="{{ "/tags/hardcore-hip-hop" | relative_url }}">hardcore hip hop</a> # 72</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -716,7 +712,8 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 83</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 1</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -757,10 +754,10 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 3</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 28</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 28</li>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 76</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 25</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 30</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 71</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -782,8 +779,8 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 11</li>
             <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 89</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -806,9 +803,9 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 1</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 9</li>
             <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 91</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 92</li>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -828,7 +825,7 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 76</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -849,7 +846,7 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 18</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -887,10 +884,10 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 5</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 13</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 54</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 94</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 7</li>
+            <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 7</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 58</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -964,7 +961,7 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 11</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -984,7 +981,7 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 77</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -998,17 +995,16 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       <td>1000 gecs</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 12</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 34</li>
-            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 52</li>
-            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 82</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 83</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 99</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 9</li>
+            <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 18</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 41</li>
+            <li> <a href="{{ "/tags/electronic-pop" | relative_url }}">electronic pop</a> # 48</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 63</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1030,8 +1026,8 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 88</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 90</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 11</li>
+            <li> <a href="{{ "/tags/future-bass" | relative_url }}">future bass</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1071,12 +1067,12 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 5</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 23</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 33</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 68</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 81</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 81</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 19</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 20</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 32</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 67</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 77</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1095,9 +1091,9 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 25</li>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 58</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 60</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 41</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 43</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 76</li>
             <li> <a href="{{ "/tags/art-pop" | relative_url }}">art pop</a> # 93</li>
         </ul>
       </td>
@@ -1105,7 +1101,7 @@ Deconstructed club is an experimental electronic genre that takes elements of da
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/TMtXCrEnpp5QLiCNgjgwHNg_-nXtnaEnodDd4rqUhVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDE5/NTIzLTE1NzQxNzM2/MTEtNzIyNS5qcGVn.jpeg" alt="Cover for Exhaust" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4d444ad6e7d791a753d18d95dfe9c8ec.png" alt="Cover for Exhaust" style="max-width:120px; height:auto;" />
       </td>
       <td>2019-11-13</td>
       <td>Lee Gamble</td>
@@ -1180,11 +1176,11 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 2</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 39</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 45</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 77</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 89</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 22</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 56</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 62</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 73</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1206,19 +1202,19 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 18</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 64</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 71</li>
-            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 73</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 96</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 99</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 2</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 3</li>
+            <li> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a> # 28</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 30</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 36</li>
+            <li> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a> # 81</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>65</td>
       <td>
-          <img src="https://i.discogs.com/FDhrE308YNnotEgmqMEw1wtyZpTXa9GSuS1hW6CIYwE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzA5/MjM3LTE1ODk1MzY3/NTktODAxMC5qcGVn.jpeg" alt="Cover for Fight! Fight! Fight!" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c706f1d8c64d48d75a616bc65fc9edac.png" alt="Cover for Fight! Fight! Fight!" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-05-15</td>
       <td>Two Fingers</td>
@@ -1249,7 +1245,7 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 87</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1295,14 +1291,14 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 27</li>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 35</li>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 50</li>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 55</li>
-            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 87</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 88</li>
-            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 91</li>
-            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 99</li>
+            <li> <a href="{{ "/tags/future-house" | relative_url }}">future house</a> # 2</li>
+            <li> <a href="{{ "/tags/spoken-word" | relative_url }}">spoken word</a> # 9</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 13</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 46</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 46</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 51</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 66</li>
+            <li> <a href="{{ "/tags/ebm" | relative_url }}">ebm</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1324,8 +1320,8 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 94</li>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 98</li>
+            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 2</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1413,10 +1409,10 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 1</li>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 84</li>
-            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 85</li>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 96</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 5</li>
+            <li> <a href="{{ "/tags/lgbt" | relative_url }}">lgbt</a> # 16</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 17</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1434,8 +1430,8 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 59</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 67</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 11</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1455,8 +1451,8 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 37</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 79</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 61</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1475,8 +1471,8 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 67</li>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 75</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 25</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1521,7 +1517,7 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 1</li>
+            <li> <a href="{{ "/tags/bass" | relative_url }}">bass</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1539,8 +1535,8 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 58</li>
-            <li> <a href="{{ "/tags/progressive-breaks" | relative_url }}">progressive breaks</a> # 91</li>
+            <li> <a href="{{ "/tags/progressive-breaks" | relative_url }}">progressive breaks</a> # 10</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1560,7 +1556,7 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 15</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1598,8 +1594,8 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 31</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 95</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 5</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1623,10 +1619,10 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 40</li>
-            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 43</li>
-            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 78</li>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 83</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 18</li>
+            <li> <a href="{{ "/tags/experimental-hip-hop" | relative_url }}">experimental hip hop</a> # 23</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 41</li>
+            <li> <a href="{{ "/tags/alternative-rnb" | relative_url }}">alternative rnb</a> # 44</li>
             <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 97</li>
         </ul>
       </td>
@@ -1667,7 +1663,7 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 47</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1696,10 +1692,10 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 17</li>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 72</li>
-            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 74</li>
-            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 91</li>
+            <li> <a href="{{ "/tags/digicore" | relative_url }}">digicore</a> # 26</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 29</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 82</li>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1719,7 +1715,7 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 60</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1746,7 +1742,7 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 43</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1772,9 +1768,9 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 3</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 20</li>
             <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 65</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 81</li>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1815,9 +1811,9 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 13</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 56</li>
-            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 75</li>
+            <li> <a href="{{ "/tags/gabber" | relative_url }}">gabber</a> # 26</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 45</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1848,7 +1844,7 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 36</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1867,8 +1863,8 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 8</li>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 95</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 18</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1910,9 +1906,9 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 19</li>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 29</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 58</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 43</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 71</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1931,7 +1927,25 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 8</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 17</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/63ddeb74b4b83b73a7accd81b3771f60.png" alt="Cover for M&#39;Lady" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Dorian Electra</td>
+      <td>M&#39;Lady</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1950,7 +1964,7 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 80</li>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1975,12 +1989,12 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 3</li>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 57</li>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 59</li>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 65</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 73</li>
-            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 88</li>
+            <li> <a href="{{ "/tags/hard-dance" | relative_url }}">hard dance</a> # 13</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 28</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 36</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 42</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 45</li>
+            <li> <a href="{{ "/tags/hardstyle" | relative_url }}">hardstyle</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -2002,8 +2016,8 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 52</li>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 61</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 40</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -2025,9 +2039,9 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 62</li>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 64</li>
-            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 94</li>
+            <li> <a href="{{ "/tags/tech-trance" | relative_url }}">tech trance</a> # 6</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 37</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -2047,8 +2061,26 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 95</li>
-            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 98</li>
+            <li> <a href="{{ "/tags/industrial-hardcore" | relative_url }}">industrial hardcore</a> # 3</li>
+            <li> <a href="{{ "/tags/power-noise" | relative_url }}">power noise</a> # 6</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/00b8116958325d54ce0f74793fe52792.png" alt="Cover for Puta &#x2F; Sola" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Arca</td>
+      <td>Puta &#x2F; Sola</td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -2070,9 +2102,9 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 22</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 84</li>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 92</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 9</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 77</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -2094,9 +2126,9 @@ Deconstructed club is an experimental electronic genre that takes elements of da
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 65</li>
+            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 4</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 36</li>
             <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 95</li>
-            <li> <a href="{{ "/tags/hard-trance" | relative_url }}">hard trance</a> # 97</li>
             <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 98</li>
         </ul>
       </td>
@@ -2135,40 +2167,6 @@ Deconstructed club is an experimental electronic genre that takes elements of da
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/electropop" | relative_url }}">electropop</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>21</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/63ddeb74b4b83b73a7accd81b3771f60.png" alt="Cover for M&#39;Lady" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Dorian Electra</td>
-      <td>M&#39;Lady</td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>68</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/00b8116958325d54ce0f74793fe52792.png" alt="Cover for Puta &#x2F; Sola" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Arca</td>
-      <td>Puta &#x2F; Sola</td>
-      <td>
-        <ul>
         </ul>
       </td>
       <td>

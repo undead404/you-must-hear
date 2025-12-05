@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T13:22:21.290Z
+date: 2025-12-05T00:41:46.304Z
 permalink: tags/tunisia
 title: tunisia
 ---
 
 ## tunisia
 
-Last updated: <time datetime="2025-10-22T13:22:21.290Z">Wed Oct 22 2025 16:22:21 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-05T00:41:46.304Z">Fri Dec 05 2025 02:41:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,7 +47,7 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 75</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 26</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 76</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 82</li>
         </ul>
@@ -73,8 +73,8 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       <td>
         <ul>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 33</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 37</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 44</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -142,7 +142,7 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 67</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 34</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 68</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 75</li>
         </ul>
@@ -166,7 +166,7 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rai" | relative_url }}">rai</a> # 87</li>
+            <li> <a href="{{ "/tags/rai" | relative_url }}">rai</a> # 14</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 95</li>
         </ul>
       </td>
@@ -186,8 +186,8 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       <td>
         <ul>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 24</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 27</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 33</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -210,7 +210,7 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 70</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 31</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 71</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 78</li>
         </ul>
@@ -233,7 +233,7 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 77</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 24</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 84</li>
         </ul>
       </td>
@@ -257,7 +257,7 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 51</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 50</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 53</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 58</li>
         </ul>
@@ -283,8 +283,8 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 17</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 83</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 84</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 89</li>
         </ul>
       </td>
@@ -292,7 +292,6 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
     <tr>
       <td>82</td>
       <td>
-          <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for The Orient Meets Funks Brothers and Souls Sisters" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Various Artists</td>
@@ -309,7 +308,7 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 74</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 27</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 75</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 81</li>
         </ul>
@@ -335,9 +334,9 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 5</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 6</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 13</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -359,7 +358,7 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 73</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 28</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 73</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 80</li>
         </ul>
@@ -385,8 +384,8 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       <td>
         <ul>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 20</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 22</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 29</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -408,7 +407,7 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 62</li>
+            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -432,10 +431,10 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 58</li>
-            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 94</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 1</li>
+            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 7</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 42</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 100</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -457,7 +456,7 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 59</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 42</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 61</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 65</li>
         </ul>
@@ -482,9 +481,9 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 10</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 11</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 18</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -509,10 +508,10 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 49</li>
+            <li> <a href="{{ "/tags/rai" | relative_url }}">rai</a> # 39</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 50</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 52</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 56</li>
-            <li> <a href="{{ "/tags/rai" | relative_url }}">rai</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -531,8 +530,8 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       <td>
         <ul>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 14</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 15</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 22</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -555,7 +554,7 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 72</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 29</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 72</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 79</li>
         </ul>
@@ -564,7 +563,7 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
     <tr>
       <td>86</td>
       <td>
-          <img src="https://i.discogs.com/R9Z7bBylXgNWD0UhWv216CNFLILd7aYAZpPjEFmFT64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0OTM3/Ny0xMTQzMjQ1MjMx/LmpwZWc.jpeg" alt="Cover for Thimar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/48cb55e424cb43a5b28581724409a0fb.png" alt="Cover for Thimar" style="max-width:120px; height:auto;" />
       </td>
       <td>1995-01</td>
       <td>Anouar Brahem</td>
@@ -577,8 +576,8 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 63</li>
-            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 82</li>
+            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 19</li>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -600,9 +599,9 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 2</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 4</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 10</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -625,9 +624,9 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 7</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 8</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 15</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -650,7 +649,7 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 64</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 37</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 65</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 71</li>
         </ul>
@@ -719,8 +718,8 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       <td>
         <ul>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 31</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 35</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 42</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -744,8 +743,8 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       <td>
         <ul>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 32</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 36</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 43</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -767,7 +766,7 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 79</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 22</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 80</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 86</li>
         </ul>
@@ -793,9 +792,9 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 47</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 47</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 54</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -818,8 +817,8 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 16</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 84</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 85</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 90</li>
         </ul>
       </td>
@@ -843,10 +842,10 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 57</li>
-            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 93</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 2</li>
+            <li> <a href="{{ "/tags/oud" | relative_url }}">oud</a> # 8</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 43</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 99</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -870,8 +869,8 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       <td>
         <ul>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 19</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 21</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 27</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -896,9 +895,9 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       <td>
         <ul>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 28</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 32</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 39</li>
-            <li> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a> # 45</li>
+            <li> <a href="{{ "/tags/hebrew" | relative_url }}">hebrew</a> # 56</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -921,7 +920,7 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 76</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 25</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 77</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 83</li>
         </ul>
@@ -967,9 +966,9 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 3</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 5</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 11</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -993,8 +992,8 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       <td>
         <ul>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 37</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 40</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 47</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1016,9 +1015,9 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 8</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 9</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 16</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1043,9 +1042,9 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       <td>
         <ul>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 17</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 19</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 25</li>
-            <li> <a href="{{ "/tags/rai" | relative_url }}">rai</a> # 42</li>
+            <li> <a href="{{ "/tags/rai" | relative_url }}">rai</a> # 59</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1069,8 +1068,8 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       <td>
         <ul>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 27</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 31</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 38</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1093,8 +1092,8 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 48</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 49</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 53</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 55</li>
         </ul>
       </td>
@@ -1117,7 +1116,7 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 82</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 19</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 87</li>
         </ul>
       </td>
@@ -1141,7 +1140,7 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 63</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 38</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 64</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 70</li>
         </ul>
@@ -1166,8 +1165,8 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 11</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 90</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 90</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 94</li>
         </ul>
       </td>
@@ -1192,8 +1191,8 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       <td>
         <ul>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 15</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 16</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 23</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1215,8 +1214,8 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 26</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 95</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 6</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 74</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 97</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 98</li>
         </ul>
@@ -1289,9 +1288,9 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 9</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 10</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 17</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1315,8 +1314,8 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       <td>
         <ul>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 23</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 25</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 32</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1340,8 +1339,8 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       <td>
         <ul>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 29</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 33</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 40</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1363,9 +1362,9 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 46</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 46</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 53</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1388,9 +1387,9 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rai" | relative_url }}">rai</a> # 84</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 9</li>
+            <li> <a href="{{ "/tags/rai" | relative_url }}">rai</a> # 17</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 92</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 92</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 95</li>
         </ul>
       </td>
@@ -1415,9 +1414,9 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 20</li>
-            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 78</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 86</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 15</li>
+            <li> <a href="{{ "/tags/arabic" | relative_url }}">arabic</a> # 22</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1441,8 +1440,8 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       <td>
         <ul>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 36</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 39</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 46</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1465,7 +1464,7 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 50</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 51</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 51</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 57</li>
         </ul>
@@ -1491,8 +1490,8 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       <td>
         <ul>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 12</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 12</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 19</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1535,7 +1534,7 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 65</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 36</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 66</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 73</li>
         </ul>
@@ -1562,8 +1561,8 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       <td>
         <ul>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 44</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 45</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 52</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1587,7 +1586,7 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 57</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 44</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 59</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 63</li>
         </ul>
@@ -1614,10 +1613,10 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 18</li>
             <li> <a href="{{ "/tags/takamba" | relative_url }}">takamba</a> # 33</li>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 34</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 67</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 82</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 83</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 88</li>
         </ul>
       </td>
@@ -1636,8 +1635,8 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       <td>
         <ul>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 34</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 38</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 45</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1661,8 +1660,8 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       <td>
         <ul>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 26</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 30</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 37</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1751,8 +1750,8 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 4</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 12</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1774,9 +1773,9 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 6</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 7</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 14</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1800,8 +1799,8 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       <td>
         <ul>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 13</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 14</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 21</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1825,8 +1824,8 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       <td>
         <ul>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 16</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 18</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 24</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1849,8 +1848,8 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       <td>
         <ul>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 18</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 20</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 26</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1873,8 +1872,8 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       <td>
         <ul>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 21</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 23</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 30</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1898,8 +1897,8 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       <td>
         <ul>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 22</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 24</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 31</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1917,8 +1916,8 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       <td>
         <ul>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 25</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 29</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 36</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1942,8 +1941,8 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       <td>
         <ul>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 30</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 34</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 41</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1964,8 +1963,8 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 43</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 49</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1982,9 +1981,9 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 52</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 46</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 49</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 54</li>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 55</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 59</li>
         </ul>
       </td>
@@ -2011,11 +2010,11 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 31</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 53</li>
+            <li> <a href="{{ "/tags/algeria" | relative_url }}">algeria</a> # 31</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 48</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 55</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 60</li>
-            <li> <a href="{{ "/tags/algeria" | relative_url }}">algeria</a> # 70</li>
+            <li> <a href="{{ "/tags/oriental" | relative_url }}">oriental</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -2037,7 +2036,7 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 54</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 47</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 56</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 61</li>
         </ul>
@@ -2061,7 +2060,7 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 56</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 45</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 58</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 62</li>
         </ul>
@@ -2088,8 +2087,8 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lute" | relative_url }}">lute</a> # 51</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 60</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 41</li>
+            <li> <a href="{{ "/tags/lute" | relative_url }}">lute</a> # 50</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 66</li>
         </ul>
       </td>
@@ -2113,7 +2112,7 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 61</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 40</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 63</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 67</li>
         </ul>
@@ -2157,7 +2156,7 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 68</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 33</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 69</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 76</li>
         </ul>
@@ -2182,9 +2181,9 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 69</li>
+            <li> <a href="{{ "/tags/algeria" | relative_url }}">algeria</a> # 24</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 32</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 70</li>
-            <li> <a href="{{ "/tags/algeria" | relative_url }}">algeria</a> # 77</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 77</li>
         </ul>
       </td>
@@ -2207,8 +2206,8 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 14</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 86</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 87</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 91</li>
         </ul>
       </td>
@@ -2232,9 +2231,9 @@ Music from Tunisia blends North African, Arab, and Mediterranean influences, fea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 9</li>
-            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 73</li>
-            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 94</li>
+            <li> <a href="{{ "/tags/north-africa" | relative_url }}">north africa</a> # 7</li>
+            <li> <a href="{{ "/tags/beat" | relative_url }}">beat</a> # 74</li>
+            <li> <a href="{{ "/tags/africa" | relative_url }}">africa</a> # 91</li>
             <li> <a href="{{ "/tags/maghreb" | relative_url }}">maghreb</a> # 96</li>
             <li> <a href="{{ "/tags/morocco" | relative_url }}">morocco</a> # 97</li>
         </ul>

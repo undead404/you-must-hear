@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T18:48:45.808Z
+date: 2025-12-05T00:50:45.913Z
 permalink: tags/melodic-hardcore
 title: melodic hardcore
 ---
 
 ## melodic hardcore
 
-Last updated: <time datetime="2025-11-25T18:48:45.808Z">Tue Nov 25 2025 20:48:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T00:50:45.913Z">Fri Dec 05 2025 02:50:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -118,7 +118,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 18</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -139,7 +139,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 74</li>
+            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -179,7 +179,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 51</li>
+            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -267,7 +267,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 4</li>
+            <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -340,8 +340,8 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 16</li>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 20</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 21</li>
+            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -457,8 +457,8 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 43</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 52</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 49</li>
+            <li> <a href="{{ "/tags/southern-rock" | relative_url }}">southern rock</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -550,7 +550,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 97</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -642,7 +642,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 96</li>
+            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -680,7 +680,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 12</li>
+            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -894,7 +894,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 89</li>
+            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -917,9 +917,9 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 48</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 54</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 59</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 42</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 44</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -956,8 +956,9 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 40</li>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 69</li>
+            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 61</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 70</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1066,7 +1067,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 81</li>
+            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1121,7 +1122,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 67</li>
+            <li> <a href="{{ "/tags/uk-hardcore" | relative_url }}">uk hardcore</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1157,7 +1158,6 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1250,7 +1250,6 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1345,7 +1344,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 61</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1364,8 +1363,8 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 1</li>
-            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 86</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 14</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1406,9 +1405,9 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 33</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 71</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 97</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 4</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 25</li>
+            <li> <a href="{{ "/tags/british" | relative_url }}">british</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1465,7 +1464,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 36</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1522,7 +1521,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 77</li>
+            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1605,9 +1604,10 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 37</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 43</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 69</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 32</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 58</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 63</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1643,7 +1643,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 96</li>
+            <li> <a href="{{ "/tags/happy-hardcore" | relative_url }}">happy hardcore</a> # 5</li>
             <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 96</li>
         </ul>
       </td>
@@ -1670,8 +1670,8 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 92</li>
-            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 94</li>
+            <li> <a href="{{ "/tags/straight-edge" | relative_url }}">straight edge</a> # 7</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1710,7 +1710,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 35</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1755,9 +1755,9 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 10</li>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 44</li>
-            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 96</li>
+            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 5</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 56</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1781,7 +1781,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 35</li>
+            <li> <a href="{{ "/tags/stoner-rock" | relative_url }}">stoner rock</a> # 66</li>
             <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 92</li>
         </ul>
       </td>
@@ -1809,13 +1809,14 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 20</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 29</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 74</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 84</li>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 88</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 90</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 100</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 1</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 11</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 12</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 15</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 23</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 69</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 79</li>
+            <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1861,11 +1862,11 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 32</li>
-            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 57</li>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 71</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 77</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 90</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 11</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 24</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 29</li>
+            <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 41</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1884,7 +1885,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 98</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1905,8 +1906,8 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 13</li>
-            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 91</li>
+            <li> <a href="{{ "/tags/skate-punk" | relative_url }}">skate punk</a> # 10</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1929,7 +1930,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 99</li>
+            <li> <a href="{{ "/tags/anthem-emo" | relative_url }}">anthem emo</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1950,7 +1951,7 @@ Melodic hardcore is a subgenre of punk rock and hardcore punk that incorporates 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 10</li>
+            <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 85</li>
         </ul>
       </td>
     </tr>

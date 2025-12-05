@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-22T23:06:05.083Z
+date: 2025-12-05T01:08:46.165Z
 permalink: tags/pop-metal
 title: pop metal
 ---
 
 ## pop metal
 
-Last updated: <time datetime="2025-11-22T23:06:05.083Z">Sun Nov 23 2025 01:06:05 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T01:08:46.165Z">Fri Dec 05 2025 03:08:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -158,7 +158,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 85</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -197,8 +197,8 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 58</li>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 89</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 12</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -294,8 +294,8 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 75</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 98</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 3</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -370,8 +370,8 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 15</li>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 93</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 8</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -529,8 +529,8 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 78</li>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 95</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 6</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -695,8 +695,8 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 35</li>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 51</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 50</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -833,7 +833,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 79</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -871,7 +871,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 100</li>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -890,7 +890,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 17</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -927,7 +927,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 21</li>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -946,10 +946,10 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 11</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 71</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 78</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 95</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 6</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 23</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 76</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -970,7 +970,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 87</li>
+            <li> <a href="{{ "/tags/dancecore" | relative_url }}">dancecore</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1006,7 +1006,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 97</li>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1030,9 +1030,9 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 24</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 74</li>
-            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 88</li>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 12</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 27</li>
+            <li> <a href="{{ "/tags/swedish" | relative_url }}">swedish</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1067,7 +1067,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 40</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1086,7 +1086,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 30</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1164,8 +1164,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 58</li>
-            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 75</li>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1206,7 +1205,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 9</li>
+            <li> <a href="{{ "/tags/industrial-death-metal" | relative_url }}">industrial death metal</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1242,8 +1241,8 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 75</li>
-            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 81</li>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 20</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1262,14 +1261,14 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 98</li>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 3</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>18</td>
       <td>
-          <img src="https://i.discogs.com/obWf89Rrg3fBEN8TJjxwoFgq57ntt6nNW5u2QobMHVs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTAx/MTUtMTQxMzgwMzQ4/NS01NjM3LmpwZWc.jpeg" alt="Cover for Massive Addictive [Bonus Tracks]" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/db5893b7b54f4282c2d8584275162552.png" alt="Cover for Massive Addictive [Bonus Tracks]" style="max-width:120px; height:auto;" />
       </td>
       <td>2014-10-17</td>
       <td>Amaranthe</td>
@@ -1313,7 +1312,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/D1voVpdeAsWCJKGdNOUZJdeA5gshQCJ29MLNO8Hz3EQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDcw/NTc5LTE2ODMzOTM1/NTMtNDEzNC5qcGVn.jpeg" alt="Cover for Flash Back" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2db6ffc514faa95ffaa64d2d801c52fd.png" alt="Cover for Flash Back" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-07-01</td>
       <td>Undead Corporation</td>
@@ -1367,15 +1366,15 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 7</li>
-            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 68</li>
+            <li> <a href="{{ "/tags/melodic-metal" | relative_url }}">melodic metal</a> # 30</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 90</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/1XPalG0BqXer6w8CBDPlKRZOLHbg62L_EoA08H8cZUg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTcw/OTktMTY4MjIxMDM1/MS02NjIzLmpwZWc.jpeg" alt="Cover for Maximalism" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/553d7cba675fc2fc78e0daeeffe25374.png" alt="Cover for Maximalism" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-10-19</td>
       <td>Amaranthe</td>
@@ -1387,14 +1386,14 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 92</li>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 7</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/1XPalG0BqXer6w8CBDPlKRZOLHbg62L_EoA08H8cZUg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMTcw/OTktMTY4MjIxMDM1/MS02NjIzLmpwZWc.jpeg" alt="Cover for Maximalism (Deluxe Edition)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/06bc5800b9c853f27aa6bf3e59b40f4b.png" alt="Cover for Maximalism (Deluxe Edition)" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-10-19</td>
       <td>Amaranthe</td>
@@ -1427,8 +1426,8 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 16</li>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 76</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 21</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1455,11 +1454,11 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 78</li>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 79</li>
-            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 85</li>
-            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 89</li>
-            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 96</li>
+            <li> <a href="{{ "/tags/japanese-metal" | relative_url }}">japanese metal</a> # 5</li>
+            <li> <a href="{{ "/tags/duo" | relative_url }}">duo</a> # 12</li>
+            <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 16</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 22</li>
+            <li> <a href="{{ "/tags/japanese-pop" | relative_url }}">japanese pop</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1497,7 +1496,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 38</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1515,7 +1514,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 21</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1535,7 +1534,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 57</li>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1560,10 +1559,11 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 11</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 23</li>
-            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 93</li>
-            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 94</li>
+            <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 5</li>
+            <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 6</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 76</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 82</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1617,7 +1617,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 64</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1657,8 +1657,8 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 64</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 66</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 33</li>
+            <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1677,9 +1677,9 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 3</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 65</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 88</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 11</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 12</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1732,13 +1732,15 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/love-metal" | relative_url }}">love metal</a></li>
             <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 24</li>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 99</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 2</li>
+            <li> <a href="{{ "/tags/love-metal" | relative_url }}">love metal</a> # 21</li>
+            <li> <a href="{{ "/tags/gothic-rock" | relative_url }}">gothic rock</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1859,7 +1861,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 37</li>
+            <li> <a href="{{ "/tags/dark-rock" | relative_url }}">dark rock</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1878,7 +1880,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 18</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1901,7 +1903,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 41</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1919,7 +1921,7 @@ Pop metal fuses the accessibility and melodic hooks of pop music with the heavy 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 48</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 51</li>
         </ul>
       </td>
     </tr>

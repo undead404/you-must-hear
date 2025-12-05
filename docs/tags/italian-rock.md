@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-02T17:27:56.923Z
+date: 2025-12-05T00:49:47.461Z
 permalink: tags/italian-rock
 title: italian rock
 ---
 
 ## italian rock
 
-Last updated: <time datetime="2025-11-02T17:27:56.923Z">Sun Nov 02 2025 19:27:56 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T00:49:47.461Z">Fri Dec 05 2025 02:49:47 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -100,7 +100,7 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 28</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -141,7 +141,7 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/LoOQk0h8gpt4QaWuJDlc7Y6fFtvIJyPHhoPy9xT_l9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjkw/NTctMTM5ODIwMzU3/Mi05OTgyLmpwZWc.jpeg" alt="Cover for Seni E Coseni" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a2464eff87b4207b6d453ba39d88f74.png" alt="Cover for Seni E Coseni" style="max-width:120px; height:auto;" />
       </td>
       <td>1981</td>
       <td>Ivan Graziani</td>
@@ -201,6 +201,7 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
     <tr>
       <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5c16eb9fea1c629320b66507113eb2ba.png" alt="Cover for Nove" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>Ivan Graziani</td>
@@ -221,6 +222,7 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
     <tr>
       <td>65</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/377d39ded1594a59f94c5904ca114f85.png" alt="Cover for Va Bene, Va Bene Così" style="max-width:120px; height:auto;" />
       </td>
       <td>1984</td>
       <td>Vasco Rossi</td>
@@ -237,6 +239,7 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2cf093ee4f96f959c8e972bae6975367.png" alt="Cover for Cuori agitati" style="max-width:120px; height:auto;" />
       </td>
       <td>1985</td>
       <td>Eros Ramazzotti</td>
@@ -256,7 +259,7 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
     <tr>
       <td>41</td>
       <td>
-          <img src="https://i.discogs.com/1p3jgQPYhL912k0ZyUFOAgTAw7K7TF32qnUik_3zdyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTYx/ODEtMTIzMjA0NTMx/Ni5qcGVn.jpeg" alt="Cover for 17 Re" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a9d69bf26fa631bf6396b5506b7d74a.png" alt="Cover for 17 Re" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Litfiba</td>
@@ -309,7 +312,7 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
     <tr>
       <td>9</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d836efe7ad80408684e6bd3480daea90.png" alt="Cover for Litfiba 3" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/6a45f2870ea61b991b2017e4eddd369b.png" alt="Cover for Litfiba 3" style="max-width:120px; height:auto;" />
       </td>
       <td>1988</td>
       <td>Litfiba</td>
@@ -327,6 +330,7 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
     <tr>
       <td>85</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/35af08444ab4aeaa2bc9ef2ecd0a0b86.png" alt="Cover for Fisiognomica" style="max-width:120px; height:auto;" />
       </td>
       <td>1988-04-09</td>
       <td>Franco Battiato</td>
@@ -385,7 +389,7 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 62</li>
+            <li> <a href="{{ "/tags/comedy-rock" | relative_url }}">comedy rock</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -425,13 +429,14 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 1</li>
+            <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/81b8b0f548384da8be4fde32559d8d1c.png" alt="Cover for The los Sri Lanka Parakramabahu Brothers featuring Elio e le Storie Tese" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Elio e le Storie Tese</td>
@@ -449,15 +454,15 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 39</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 70</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 27</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>92</td>
       <td>
-          <img src="https://i.discogs.com/9bjCyLv15idApGoznxaPei8xRvZEDb2zwSfSeknnoBM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzgx/NTEtMTI2NDI2NjQ4/NC5qcGVn.jpeg" alt="Cover for Ligabue" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/73bb381701f003a0ba82b89bfec1d8c4.png" alt="Cover for Ligabue" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Luciano Ligabue</td>
@@ -471,7 +476,7 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 68</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -495,6 +500,7 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
     <tr>
       <td>61</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7a85c8a36aa926bba61fd8047fbc43f5.png" alt="Cover for Ma che film la vita" style="max-width:120px; height:auto;" />
       </td>
       <td>1992-10-03</td>
       <td>Nomadi</td>
@@ -571,13 +577,34 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 99</li>
+            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 2</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e29b8101a6994162c193ded5a4e36345.png" alt="Cover for Spirito" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1994</td>
+      <td>Litfiba</td>
+      <td>Spirito</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 98</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>49</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/676ed08bb45f91a780107b722a1f9275.png" alt="Cover for Biagio Antonacci" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Biagio Antonacci</td>
@@ -597,9 +624,9 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 25</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 60</li>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 61</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 37</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 40</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -626,28 +653,9 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
       </td>
     </tr>
     <tr>
-      <td>29</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e29b8101a6994162c193ded5a4e36345.png" alt="Cover for Spirito" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1994</td>
-      <td>Litfiba</td>
-      <td>Spirito</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>56</td>
       <td>
-          <img src="https://i.discogs.com/1CXE914jtTqYymUB0BXtf_1nLmp5fZa8xv41sjltGe4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NTM3/NDAtMTQ1MjY1OTY0/My0xOTQ0LmpwZWc.jpeg" alt="Cover for A che ora è la fine del mondo?" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c26d930c4f442041cc37f08aa86e4770.png" alt="Cover for A che ora è la fine del mondo?" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Luciano Ligabue</td>
@@ -668,7 +676,7 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
     <tr>
       <td>93</td>
       <td>
-          <img src="https://i.discogs.com/aZRlhoWeRd7kEY_hUYGe-Yjbv4z96OYxaJcoD9gHF3U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTAw/MjgtMTM2NTMxODYw/Ny0xMzE0LmpwZWc.jpeg" alt="Cover for Lorenzo 1994" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fce5e9e7a5324575c5546f6237f193e1.png" alt="Cover for Lorenzo 1994" style="max-width:120px; height:auto;" />
       </td>
       <td>1994</td>
       <td>Jovanotti</td>
@@ -699,7 +707,7 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 92</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -758,7 +766,7 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 15</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -779,34 +787,14 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 81</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>67</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/07cea64600246f769a403292c35c6691.png" alt="Cover for Peerla" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1998</td>
-      <td>Elio e le Storie Tese</td>
-      <td>Peerla</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a></li>
-            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 20</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/PlIkcWRsB1o8LIpNrhdvEMxyrZXn3lGfWYDQbSN1FXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTc3/MS0xNjQ5MjI5MzA3/LTExODEuanBlZw.jpeg" alt="Cover for Acidoacida" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1c1b0a218c7c223840bc8b9a1b3d8d7a.png" alt="Cover for Acidoacida" style="max-width:120px; height:auto;" />
       </td>
       <td>1998</td>
       <td>Prozac+</td>
@@ -823,6 +811,7 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -841,6 +830,27 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 96</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/07cea64600246f769a403292c35c6691.png" alt="Cover for Peerla" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1998</td>
+      <td>Elio e le Storie Tese</td>
+      <td>Peerla</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a></li>
+            <li style="font-size: calc(1rem * 66 / 100)"> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a></li>
         </ul>
       </td>
       <td>
@@ -868,7 +878,7 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/GBaASipimEmpKVAFLqChN5BdjklHKLqO_Ewp-ordyuU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjM3/MTItMTM3NDc1Mzcw/My05ODM5LmpwZWc.jpeg" alt="Cover for Il Parco Dei Sogni" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e5851f15975ac1ac688938eb44ca07a7.png" alt="Cover for Il Parco Dei Sogni" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Francesca Chiara</td>
@@ -909,6 +919,7 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
     <tr>
       <td>86</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4c3e5d6def6f4e68b60741001f4cb63d.png" alt="Cover for Reset" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-01-25</td>
       <td>Negrita</td>
@@ -923,7 +934,7 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 39</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1007,14 +1018,15 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 28</li>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 36</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 59</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 73</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a037b71fab59e699bbf6b36ace6b3dc0.png" alt="Cover for Finalmente vi odio davvero" style="max-width:120px; height:auto;" />
       </td>
       <td>2001</td>
       <td>Skruigners</td>
@@ -1049,14 +1061,14 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 57</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 40</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>37</td>
       <td>
-          <img src="https://i.discogs.com/J9EVde6N9gYA8VYn0nYmCQIa7K9ofQptF4DPWgoGG40/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjE0/MDktMTM5MjIxNDM3/MC04NjQ4LmpwZWc.jpeg" alt="Cover for Hero" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/92c714330280748bece93858b8c4c9b9.png" alt="Cover for Hero" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Hero</td>
@@ -1079,14 +1091,14 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 44</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 56</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>2</td>
       <td>
-          <img src="https://i.discogs.com/nzGvEseFiFrYXTYWbbyz8-Dzv6r2YuY0c83FbUfsAT8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTY2/NjUxLTE1ODQ4NDI3/NzktNTQyNy5qcGVn.jpeg" alt="Cover for Soundcheck for a Missing Movie" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da334fb745e363f09e943859f5c0f72d.png" alt="Cover for Soundcheck for a Missing Movie" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>HC-B</td>
@@ -1130,7 +1142,7 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
     <tr>
       <td>21</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c4a2384accb74ad7bb870334bac838b1.png" alt="Cover for Le Vibrazioni" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fa04ec901679e5350fa71af2eafbb096.png" alt="Cover for Le Vibrazioni" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-05</td>
       <td>Le Vibrazioni</td>
@@ -1142,7 +1154,7 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 85</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1200,7 +1212,7 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 83</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1221,7 +1233,7 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 43</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1250,6 +1262,7 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
     <tr>
       <td>4</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/aec141a45822443dabade1e7b8c6c2e9.png" alt="Cover for firenze-lugano no stop" style="max-width:120px; height:auto;" />
       </td>
       <td>2004-07-20</td>
       <td>Ivan Graziani</td>
@@ -1327,6 +1340,7 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
     <tr>
       <td>97</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/80c6b1b1dc6448d181ba6b6c406b8bcc.png" alt="Cover for Mentre tutto scorre" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-03-04</td>
       <td>Negramaro</td>
@@ -1344,6 +1358,7 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
     <tr>
       <td>89</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/764e2c7353553ba62ef48adc1c0a8693.png" alt="Cover for Le Vibrazioni II" style="max-width:120px; height:auto;" />
       </td>
       <td>2005-03</td>
       <td>Le Vibrazioni</td>
@@ -1363,8 +1378,8 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 44</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 91</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 7</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1400,7 +1415,7 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 73</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1447,15 +1462,15 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 32</li>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 37</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 64</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 67</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/XJUHDzrnZ3oZUbVJGDpfSycUYMHxjg2pRoqoeo3t370/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTkz/MjUtMTQ5OTI2ODI5/OC0xMTUxLmpwZWc.jpeg" alt="Cover for Live in Paris" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5641c3f4977def092a424cab553ea163.png" alt="Cover for Live in Paris" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Laura Pausini</td>
@@ -1467,15 +1482,15 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 49</li>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 70</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 52</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 71</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>71</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/82fed89d3766bf32f6f1edd88d6870c6.png" alt="Cover for Officine Meccaniche" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1548b7f3d2b1bce5a68e556ad7af7f2d.png" alt="Cover for Officine Meccaniche" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Le Vibrazioni</td>
@@ -1548,15 +1563,15 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 59</li>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 92</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 8</li>
+            <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 60</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/Wnc0_0VPQufE7wFjnLKQ9RdBDo1BGnQS3D1tFluR_6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDY4/MjAtMTU5MDc5Mzcz/NS02ODA2LmpwZWc.jpeg" alt="Cover for Tutte le belle canzoni di Natale" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e37bc920aa8a518310738dfaaf6ab030.png" alt="Cover for Tutte le belle canzoni di Natale" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Elio e le Storie Tese</td>
@@ -1574,8 +1589,8 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 12</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 53</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 44</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1622,7 +1637,7 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
     <tr>
       <td>12</td>
       <td>
-          <img src="https://i.discogs.com/8dUJDbH_MCyAb0uMcZguxKB6vXmtyqSWvCVHMm-hQGI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODk1/MjEtMTI0MzQzNjIw/Ni5qcGVn.jpeg" alt="Cover for Frantic" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/2e4cf7421c8ace4f4c330db13f054d27.png" alt="Cover for Frantic" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-03-20</td>
       <td>Gaia Riva</td>
@@ -1638,14 +1653,14 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 58</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 43</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>19</td>
       <td>
-          <img src="https://i.discogs.com/qj3K1JQjLo3suJWSAZduC80I5qLKYzWvWA2CvYqzC3g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzYx/MTc4LTE1MTQ5NDM5/MTUtMzc1MS5qcGVn.jpeg" alt="Cover for Respiro" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/c44621df147d493eb482494ee8487ec6.png" alt="Cover for Respiro" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-12-11</td>
       <td>Le Vibrazioni</td>
@@ -1666,7 +1681,7 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
     <tr>
       <td>15</td>
       <td>
-          <img src="https://i.discogs.com/_gyskSzHi_j-YqruzdjYTWW5pj2MkeT0hlWHeTZYl7U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjY4/NzYxLTE1Mzk2OTk1/NjEtMzYzMy5qcGVn.jpeg" alt="Cover for L&#39;ultima recita" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ce8b34c8d394be0af15fe7278ac40b0.png" alt="Cover for L&#39;ultima recita" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Verderame</td>
@@ -1691,7 +1706,7 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 23</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1709,13 +1724,14 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 23</li>
+            <li> <a href="{{ "/tags/italiana" | relative_url }}">italiana</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/82d34c05448a4e969e759bea7a23e610.png" alt="Cover for Le Strade Del Tempo" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-01-22</td>
       <td>Le Vibrazioni</td>
@@ -1751,8 +1767,8 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 1</li>
-            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 6</li>
+            <li> <a href="{{ "/tags/europop" | relative_url }}">europop</a> # 4</li>
+            <li> <a href="{{ "/tags/italy" | relative_url }}">italy</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1773,8 +1789,8 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 13</li>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 76</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 19</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1801,7 +1817,7 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
     <tr>
       <td>38</td>
       <td>
-          <img src="https://i.discogs.com/bp_rxjbsU7rDyenH5XcO-tCPDG1Mc4UFcP80pTfw2wU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTI1/MTMtMTQ4OTY5MDMx/MS04Nzc0LmpwZWc.jpeg" alt="Cover for Sul tetto del mondo" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3f4bc7ee15464fb1a57f1478ec9f590e.png" alt="Cover for Sul tetto del mondo" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-03-15</td>
       <td>Modena City Ramblers</td>
@@ -1824,7 +1840,7 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/CwerStt_d-KTDsIcGpjvdfcL8xvRpVTJdNuX0rkp-Fo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzY2/NzgtMTUxNDUwMzI1/OS03NjI2LmpwZWc.jpeg" alt="Cover for Esco Dal Mio Corpo e Ho Molta Paura" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9befb8ed17e0406c87dc4db7b0508c8a.png" alt="Cover for Esco Dal Mio Corpo e Ho Molta Paura" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Elio e le Storie Tese</td>
@@ -1844,8 +1860,8 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 40</li>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 71</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 26</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1872,6 +1888,7 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
     <tr>
       <td>1</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a08bca9ffd3a4d00cd207c1d5806d80f.png" alt="Cover for terzo tempo" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-09-18</td>
       <td>Nomadi</td>
@@ -1890,14 +1907,14 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 10</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 91</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>53</td>
       <td>
-          <img src="https://i.discogs.com/oT-dnFI5S5RKvH5l9hDCJL9mOI52_q-bVdABFepsWGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NDgw/NjEtMTM2ODAzMzEw/My02ODEwLmpwZWc.jpeg" alt="Cover for Complesso del Primo Maggio" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/90a943e98c4444e4989b75a9bcd007cf.png" alt="Cover for Complesso del Primo Maggio" style="max-width:120px; height:auto;" />
       </td>
       <td>2013-04-12</td>
       <td>Elio e le Storie Tese</td>
@@ -1915,7 +1932,7 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 87</li>
+            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1937,7 +1954,7 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 58</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1970,18 +1987,18 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 26</li>
-            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 27</li>
-            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 46</li>
-            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 62</li>
-            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 68</li>
+            <li> <a href="{{ "/tags/italian-folk" | relative_url }}">italian folk</a> # 33</li>
+            <li> <a href="{{ "/tags/cantautore" | relative_url }}">cantautore</a> # 39</li>
+            <li> <a href="{{ "/tags/cantautori" | relative_url }}">cantautori</a> # 55</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 73</li>
+            <li> <a href="{{ "/tags/italiano" | relative_url }}">italiano</a> # 74</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>10</td>
       <td>
-          <img src="https://i.discogs.com/6TfvU_FFWcgG7xU5ZeY3P1UeCJX2uLUvzwjnS2BTlz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Mjk0/MDctMTQ5Mzg4OTg0/OS0yOTA3LmpwZWc.jpeg" alt="Cover for Il senso della vita" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/adf28d8e868dde04e88f788a51d3f55b.png" alt="Cover for Il senso della vita" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-10-28</td>
       <td>Ghost</td>
@@ -2004,7 +2021,7 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/qcR13rINz58z1zvku00Pkj5EV5WQ0Bg1to17cigDLms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjMz/ODMzLTE1MzkwOTgy/NTItOTQxOS5qcGVn.jpeg" alt="Cover for Radiofreccia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/da8a48489b8c8c3b3a5e2e1e0803b61a.png" alt="Cover for Radiofreccia" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-26</td>
       <td>Luciano Ligabue</td>
@@ -2026,7 +2043,7 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/zIryPYKo5cZsm-YkRUcldhj8meCa5BXUZ7VMEMPiLL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzgz/MzktMTM4MzkwNjM1/NS02Mjc3LmpwZWc.jpeg" alt="Cover for Mondovisione" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b0eb31ccc8f443d5c3efaa95211994f8.png" alt="Cover for Mondovisione" style="max-width:120px; height:auto;" />
       </td>
       <td>2018-10-26</td>
       <td>Luciano Ligabue</td>
@@ -2047,7 +2064,7 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/TxzPbDMouC3sdVpfQPwtQwZc99JBBwzK8sPHZCKdrXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjY0/MDIwLTE2Mjc1NDI5/NjktMzAxMy5qcGVn.jpeg" alt="Cover for L&#39;estate Mi É Venuta A Prendere" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b713c553a58804a016f5142992a39f74.png" alt="Cover for L&#39;estate Mi É Venuta A Prendere" style="max-width:120px; height:auto;" />
       </td>
       <td>2019</td>
       <td>Foreverboymush</td>
@@ -2080,7 +2097,7 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 94</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 3</li>
             <li> <a href="{{ "/tags/italian" | relative_url }}">italian</a> # 100</li>
         </ul>
       </td>
@@ -2103,13 +2120,14 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 21</li>
+            <li> <a href="{{ "/tags/italian-pop" | relative_url }}">italian pop</a> # 77</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>32</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/53cf65f9e03e466047f72a79e9049c69.png" alt="Cover for Rec in Rum" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Nico Guzzi</td>
@@ -2125,7 +2143,7 @@ Italian rock blends international rock influences with Italy&#39;s rich melodic 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 30</li>
+            <li> <a href="{{ "/tags/pop-italiano" | relative_url }}">pop italiano</a> # 69</li>
         </ul>
       </td>
     </tr>

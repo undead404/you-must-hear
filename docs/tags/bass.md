@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-25T18:51:05.809Z
+date: 2025-12-05T01:10:45.972Z
 permalink: tags/bass
 title: bass
 ---
 
 ## bass
 
-Last updated: <time datetime="2025-11-25T18:51:05.809Z">Tue Nov 25 2025 20:51:05 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T01:10:45.972Z">Fri Dec 05 2025 03:10:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -262,8 +262,8 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 49</li>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 86</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 15</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -341,7 +341,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 24</li>
+            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -378,8 +378,8 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 36</li>
             <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 59</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -426,7 +426,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       <td>
         <ul>
             <li> <a href="{{ "/tags/jazz-rock" | relative_url }}">jazz rock</a> # 22</li>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 42</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -466,7 +466,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 100</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -487,7 +487,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 18</li>
+            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -505,7 +505,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 92</li>
+            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -586,7 +586,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a> # 98</li>
+            <li> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -605,7 +605,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 86</li>
+            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -679,7 +679,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 60</li>
+            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -716,7 +716,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 63</li>
+            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -735,7 +735,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 63</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -829,8 +829,8 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 17</li>
             <li> <a href="{{ "/tags/iceland" | relative_url }}">iceland</a> # 74</li>
+            <li> <a href="{{ "/tags/icelandic" | relative_url }}">icelandic</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -868,7 +868,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 52</li>
+            <li> <a href="{{ "/tags/drumstep" | relative_url }}">drumstep</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -968,7 +968,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 17</li>
+            <li> <a href="{{ "/tags/breakbeat" | relative_url }}">breakbeat</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1178,8 +1178,8 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 49</li>
-            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 70</li>
+            <li> <a href="{{ "/tags/contemporary-jazz" | relative_url }}">contemporary jazz</a> # 31</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1226,13 +1226,13 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 19</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 22</li>
-            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 37</li>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 58</li>
-            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 87</li>
-            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 89</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 92</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 9</li>
+            <li> <a href="{{ "/tags/deutschpop" | relative_url }}">deutschpop</a> # 12</li>
+            <li> <a href="{{ "/tags/hollywood" | relative_url }}">hollywood</a> # 14</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 42</li>
+            <li> <a href="{{ "/tags/new-rave" | relative_url }}">new rave</a> # 64</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 79</li>
+            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1253,7 +1253,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 82</li>
+            <li> <a href="{{ "/tags/uk-funky" | relative_url }}">uk funky</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1296,7 +1296,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 94</li>
+            <li> <a href="{{ "/tags/dubstep" | relative_url }}">dubstep</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1316,8 +1316,8 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 47</li>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 69</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 27</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1429,7 +1429,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 20</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1453,8 +1453,8 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 24</li>
-            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 64</li>
+            <li> <a href="{{ "/tags/footwork" | relative_url }}">footwork</a> # 35</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1475,7 +1475,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 78</li>
+            <li> <a href="{{ "/tags/belgium" | relative_url }}">belgium</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1531,16 +1531,16 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 14</li>
-            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 36</li>
-            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 76</li>
-            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 78</li>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 88</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 90</li>
-            <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 96</li>
-            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 97</li>
-            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 97</li>
-            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 100</li>
+            <li> <a href="{{ "/tags/drum" | relative_url }}">drum</a> # 1</li>
+            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 4</li>
+            <li> <a href="{{ "/tags/deutschpunk" | relative_url }}">deutschpunk</a> # 4</li>
+            <li> <a href="{{ "/tags/liedermacher" | relative_url }}">liedermacher</a> # 5</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 10</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 13</li>
+            <li> <a href="{{ "/tags/deutschrap" | relative_url }}">deutschrap</a> # 23</li>
+            <li> <a href="{{ "/tags/deutschrock" | relative_url }}">deutschrock</a> # 25</li>
+            <li> <a href="{{ "/tags/dancehall" | relative_url }}">dancehall</a> # 65</li>
+            <li> <a href="{{ "/tags/electroclash" | relative_url }}">electroclash</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1560,7 +1560,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 83</li>
+            <li> <a href="{{ "/tags/juke" | relative_url }}">juke</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1580,7 +1580,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 96</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1600,7 +1600,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 70</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1703,7 +1703,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 67</li>
+            <li> <a href="{{ "/tags/bass-house" | relative_url }}">bass house</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1745,7 +1745,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 41</li>
+            <li> <a href="{{ "/tags/uk-garage" | relative_url }}">uk garage</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1768,7 +1768,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 41</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1846,9 +1846,9 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 12</li>
-            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 56</li>
-            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 74</li>
+            <li> <a href="{{ "/tags/london" | relative_url }}">london</a> # 27</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 44</li>
+            <li> <a href="{{ "/tags/bubblegum-bass" | relative_url }}">bubblegum bass</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1911,9 +1911,9 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 96</li>
-            <li> <a href="{{ "/tags/horn" | relative_url }}">horn</a> # 100</li>
-            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 100</li>
+            <li> <a href="{{ "/tags/horn" | relative_url }}">horn</a> # 1</li>
+            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 1</li>
+            <li> <a href="{{ "/tags/percussion" | relative_url }}">percussion</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1959,7 +1959,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 44</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1981,7 +1981,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 36</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -2026,7 +2026,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 74</li>
+            <li> <a href="{{ "/tags/uk-hip-hop" | relative_url }}">uk hip hop</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -2048,8 +2048,8 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 62</li>
-            <li> <a href="{{ "/tags/riddim" | relative_url }}">riddim</a> # 90</li>
+            <li> <a href="{{ "/tags/riddim" | relative_url }}">riddim</a> # 11</li>
+            <li> <a href="{{ "/tags/brostep" | relative_url }}">brostep</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -2069,7 +2069,7 @@ Bass music is a diverse electronic genre characterized by heavy, deep low-freque
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 81</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 20</li>
         </ul>
       </td>
     </tr>

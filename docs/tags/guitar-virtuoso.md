@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-22T22:05:01.590Z
+date: 2025-12-05T00:57:46.115Z
 permalink: tags/guitar-virtuoso
 title: guitar virtuoso
 ---
 
 ## guitar virtuoso
 
-Last updated: <time datetime="2025-11-22T22:05:01.590Z">Sun Nov 23 2025 00:05:01 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T00:57:46.115Z">Fri Dec 05 2025 02:57:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -60,8 +60,8 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fusion-jazz" | relative_url }}">fusion jazz</a> # 51</li>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 70</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 30</li>
+            <li> <a href="{{ "/tags/fusion-jazz" | relative_url }}">fusion jazz</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -97,7 +97,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 80</li>
+            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -117,7 +117,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 45</li>
+            <li> <a href="{{ "/tags/glam-metal" | relative_url }}">glam metal</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -143,6 +143,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
     <tr>
       <td>75</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/403750fcfdc9100c79ee0a25b3e94631.png" alt="Cover for Not of This Earth" style="max-width:120px; height:auto;" />
       </td>
       <td>1986</td>
       <td>Joe Satriani</td>
@@ -193,7 +194,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 91</li>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -211,7 +212,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 64</li>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -265,7 +266,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 48</li>
+            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 53</li>
             <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 100</li>
         </ul>
       </td>
@@ -286,8 +287,8 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 40</li>
-            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 97</li>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 4</li>
+            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -307,8 +308,8 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 1</li>
             <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 20</li>
-            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -345,8 +346,8 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 14</li>
-            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 99</li>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 2</li>
+            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -540,11 +541,11 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 42</li>
+            <li> <a href="{{ "/tags/flamenco-guitar" | relative_url }}">flamenco guitar</a> # 1</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 8</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 11</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 59</li>
             <li> <a href="{{ "/tags/flamenco" | relative_url }}">flamenco</a> # 66</li>
-            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 90</li>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 93</li>
-            <li> <a href="{{ "/tags/flamenco-guitar" | relative_url }}">flamenco guitar</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -564,7 +565,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 54</li>
+            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 47</li>
             <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 97</li>
         </ul>
       </td>
@@ -572,7 +573,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/hlgyVBIMFwkExhc6XGB8krnxnKXipLETl-7wNHwsm7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDgz/MC0xNDMwNTE3MzA4/LTY0MTQuanBlZw.jpeg" alt="Cover for The Extremist" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/886149f98c6d2f8c35045b65d96314ac.png" alt="Cover for The Extremist" style="max-width:120px; height:auto;" />
       </td>
       <td>1992</td>
       <td>Joe Satriani</td>
@@ -585,7 +586,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 56</li>
+            <li> <a href="{{ "/tags/electric-guitar" | relative_url }}">electric guitar</a> # 45</li>
             <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 98</li>
         </ul>
       </td>
@@ -665,7 +666,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/UmEcDrthOwrpj6Uyf7Nq_9m_NSoodlx1oKeWTpUYoJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTIz/MTgxLTE2MDM4MTgy/NjQtNzA2OS5qcGVn.jpeg" alt="Cover for The Jimi Hendrix Experience" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7303c3e935e242a3c27bd3ab59a774f6.png" alt="Cover for The Jimi Hendrix Experience" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Jimi Hendrix</td>
@@ -713,7 +714,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 13</li>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1125,8 +1126,8 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 59</li>
-            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 86</li>
+            <li> <a href="{{ "/tags/melodic-rock" | relative_url }}">melodic rock</a> # 16</li>
+            <li> <a href="{{ "/tags/hair-metal" | relative_url }}">hair metal</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1144,7 +1145,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/karlsruhe" | relative_url }}">karlsruhe</a> # 95</li>
+            <li> <a href="{{ "/tags/karlsruhe" | relative_url }}">karlsruhe</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1223,7 +1224,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       <td>
         <ul>
             <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 26</li>
-            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 31</li>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1242,7 +1243,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 64</li>
+            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1262,7 +1263,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/karlsruhe" | relative_url }}">karlsruhe</a> # 57</li>
+            <li> <a href="{{ "/tags/karlsruhe" | relative_url }}">karlsruhe</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1301,7 +1302,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/karlsruhe" | relative_url }}">karlsruhe</a> # 86</li>
+            <li> <a href="{{ "/tags/karlsruhe" | relative_url }}">karlsruhe</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1320,8 +1321,8 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 13</li>
-            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 92</li>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 9</li>
+            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1359,8 +1360,8 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 13</li>
             <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 65</li>
-            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1379,7 +1380,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 84</li>
+            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1421,10 +1422,10 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 4</li>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 38</li>
-            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 57</li>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 100</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 1</li>
+            <li> <a href="{{ "/tags/latin" | relative_url }}">latin</a> # 5</li>
+            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 43</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1442,7 +1443,6 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1479,7 +1479,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fusion-jazz" | relative_url }}">fusion jazz</a> # 93</li>
+            <li> <a href="{{ "/tags/fusion-jazz" | relative_url }}">fusion jazz</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1518,7 +1518,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 17</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -1537,7 +1537,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 9</li>
+            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1557,7 +1557,8 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 5</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 96</li>
+            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1631,7 +1632,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 72</li>
+            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 29</li>
             <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 95</li>
         </ul>
       </td>
@@ -1676,7 +1677,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 56</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1695,7 +1696,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 99</li>
+            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1714,7 +1715,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 24</li>
+            <li> <a href="{{ "/tags/guitar-rock" | relative_url }}">guitar rock</a> # 77</li>
             <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 87</li>
         </ul>
       </td>
@@ -1734,8 +1735,8 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 68</li>
-            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 85</li>
+            <li> <a href="{{ "/tags/acoustic-rock" | relative_url }}">acoustic rock</a> # 17</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1757,8 +1758,8 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 1</li>
             <li> <a href="{{ "/tags/instrumental-rock" | relative_url }}">instrumental rock</a> # 68</li>
-            <li> <a href="{{ "/tags/guitarist" | relative_url }}">guitarist</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1777,7 +1778,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 81</li>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1799,7 +1800,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 97</li>
+            <li> <a href="{{ "/tags/shred" | relative_url }}">shred</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1839,7 +1840,7 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 55</li>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1879,8 +1880,8 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 88</li>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 96</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 5</li>
+            <li> <a href="{{ "/tags/tishoumaren" | relative_url }}">tishoumaren</a> # 13</li>
             <li> <a href="{{ "/tags/takamba" | relative_url }}">takamba</a> # 96</li>
         </ul>
       </td>
@@ -1919,8 +1920,8 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 94</li>
-            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 95</li>
+            <li> <a href="{{ "/tags/neo-classical-metal" | relative_url }}">neo-classical metal</a> # 6</li>
+            <li> <a href="{{ "/tags/progressive-power-metal" | relative_url }}">progressive power metal</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1970,8 +1971,8 @@ Guitar virtuoso showcases exceptional technical mastery and innovation on the gu
 - [instrumental]({{ "/tags/instrumental" | relative_url }})
 - [rock]({{ "/tags/rock" | relative_url }})
 - [blues]({{ "/tags/blues" | relative_url }})
-- [blues rock]({{ "/tags/blues-rock" | relative_url }})
 - [instrumental rock]({{ "/tags/instrumental-rock" | relative_url }})
+- [blues rock]({{ "/tags/blues-rock" | relative_url }})
 - [oldies]({{ "/tags/oldies" | relative_url }})
 - [jazz]({{ "/tags/jazz" | relative_url }})
 - [hard rock]({{ "/tags/hard-rock" | relative_url }})

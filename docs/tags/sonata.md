@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-28T21:29:35.423Z
+date: 2025-12-05T02:32:04.269Z
 permalink: tags/sonata
 title: sonata
 ---
 
 ## sonata
 
-Last updated: <time datetime="2025-10-28T21:29:35.423Z">Tue Oct 28 2025 23:29:35 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T02:32:04.269Z">Fri Dec 05 2025 04:32:04 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -65,7 +65,7 @@ A sonata is a multi-movement instrumental composition that emerged during the Ba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a> # 40</li>
+            <li> <a href="{{ "/tags/waltz" | relative_url }}">waltz</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -107,7 +107,7 @@ A sonata is a multi-movement instrumental composition that emerged during the Ba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harpsichord" | relative_url }}">harpsichord</a> # 9</li>
+            <li> <a href="{{ "/tags/harpsichord" | relative_url }}">harpsichord</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -203,7 +203,7 @@ A sonata is a multi-movement instrumental composition that emerged during the Ba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-sonata" | relative_url }}">piano sonata</a> # 97</li>
+            <li> <a href="{{ "/tags/piano-sonata" | relative_url }}">piano sonata</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -221,10 +221,10 @@ A sonata is a multi-movement instrumental composition that emerged during the Ba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 16</li>
-            <li> <a href="{{ "/tags/piano-sonata" | relative_url }}">piano sonata</a> # 18</li>
-            <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 64</li>
+            <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 37</li>
             <li> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a> # 73</li>
+            <li> <a href="{{ "/tags/piano-sonata" | relative_url }}">piano sonata</a> # 83</li>
+            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -353,7 +353,7 @@ A sonata is a multi-movement instrumental composition that emerged during the Ba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/serialism" | relative_url }}">serialism</a> # 44</li>
+            <li> <a href="{{ "/tags/serialism" | relative_url }}">serialism</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -502,7 +502,7 @@ A sonata is a multi-movement instrumental composition that emerged during the Ba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 84</li>
+            <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -524,7 +524,7 @@ A sonata is a multi-movement instrumental composition that emerged during the Ba
       <td>
         <ul>
             <li> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a> # 32</li>
-            <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 42</li>
+            <li> <a href="{{ "/tags/czech-classical" | relative_url }}">czech classical</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -586,8 +586,8 @@ A sonata is a multi-movement instrumental composition that emerged during the Ba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 35</li>
-            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 88</li>
+            <li> <a href="{{ "/tags/chamber" | relative_url }}">chamber</a> # 11</li>
+            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -687,7 +687,7 @@ A sonata is a multi-movement instrumental composition that emerged during the Ba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-sonata" | relative_url }}">piano sonata</a> # 31</li>
+            <li> <a href="{{ "/tags/piano-sonata" | relative_url }}">piano sonata</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -877,7 +877,7 @@ A sonata is a multi-movement instrumental composition that emerged during the Ba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/recorder" | relative_url }}">recorder</a> # 66</li>
+            <li> <a href="{{ "/tags/recorder" | relative_url }}">recorder</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -937,7 +937,7 @@ A sonata is a multi-movement instrumental composition that emerged during the Ba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oboe" | relative_url }}">oboe</a> # 15</li>
+            <li> <a href="{{ "/tags/oboe" | relative_url }}">oboe</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1069,7 +1069,7 @@ A sonata is a multi-movement instrumental composition that emerged during the Ba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 26</li>
+            <li> <a href="{{ "/tags/classical-piano" | relative_url }}">classical piano</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1091,7 +1091,7 @@ A sonata is a multi-movement instrumental composition that emerged during the Ba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/string-quartet" | relative_url }}">string quartet</a> # 8</li>
+            <li> <a href="{{ "/tags/string-quartet" | relative_url }}">string quartet</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1147,7 +1147,7 @@ A sonata is a multi-movement instrumental composition that emerged during the Ba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-sonata" | relative_url }}">piano sonata</a> # 85</li>
+            <li> <a href="{{ "/tags/piano-sonata" | relative_url }}">piano sonata</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1321,7 +1321,7 @@ A sonata is a multi-movement instrumental composition that emerged during the Ba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 81</li>
+            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1401,7 +1401,7 @@ A sonata is a multi-movement instrumental composition that emerged during the Ba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-sonata" | relative_url }}">piano sonata</a> # 13</li>
+            <li> <a href="{{ "/tags/piano-sonata" | relative_url }}">piano sonata</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1421,7 +1421,7 @@ A sonata is a multi-movement instrumental composition that emerged during the Ba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-sonata" | relative_url }}">piano sonata</a> # 14</li>
+            <li> <a href="{{ "/tags/piano-sonata" | relative_url }}">piano sonata</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1442,7 +1442,7 @@ A sonata is a multi-movement instrumental composition that emerged during the Ba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-sonata" | relative_url }}">piano sonata</a> # 20</li>
+            <li> <a href="{{ "/tags/piano-sonata" | relative_url }}">piano sonata</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1459,7 +1459,7 @@ A sonata is a multi-movement instrumental composition that emerged during the Ba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-sonata" | relative_url }}">piano sonata</a> # 24</li>
+            <li> <a href="{{ "/tags/piano-sonata" | relative_url }}">piano sonata</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1482,7 +1482,7 @@ A sonata is a multi-movement instrumental composition that emerged during the Ba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-sonata" | relative_url }}">piano sonata</a> # 46</li>
+            <li> <a href="{{ "/tags/piano-sonata" | relative_url }}">piano sonata</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1510,7 +1510,7 @@ A sonata is a multi-movement instrumental composition that emerged during the Ba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano-sonata" | relative_url }}">piano sonata</a> # 49</li>
+            <li> <a href="{{ "/tags/piano-sonata" | relative_url }}">piano sonata</a> # 52</li>
             <li> <a href="{{ "/tags/classical-composer" | relative_url }}">classical composer</a> # 70</li>
             <li> <a href="{{ "/tags/italian-baroque" | relative_url }}">italian baroque</a> # 80</li>
         </ul>
@@ -1531,7 +1531,7 @@ A sonata is a multi-movement instrumental composition that emerged during the Ba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oboe" | relative_url }}">oboe</a> # 73</li>
+            <li> <a href="{{ "/tags/oboe" | relative_url }}">oboe</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1548,7 +1548,7 @@ A sonata is a multi-movement instrumental composition that emerged during the Ba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 12</li>
+            <li> <a href="{{ "/tags/clarinet" | relative_url }}">clarinet</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1668,9 +1668,9 @@ A sonata is a multi-movement instrumental composition that emerged during the Ba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 18</li>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 21</li>
-            <li> <a href="{{ "/tags/string-quartet" | relative_url }}">string quartet</a> # 46</li>
+            <li> <a href="{{ "/tags/string-quartet" | relative_url }}">string quartet</a> # 55</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 82</li>
+            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1689,8 +1689,8 @@ A sonata is a multi-movement instrumental composition that emerged during the Ba
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 35</li>
-            <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 40</li>
+            <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 60</li>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 66</li>
             <li> <a href="{{ "/tags/classical-violin" | relative_url }}">classical violin</a> # 84</li>
             <li> <a href="{{ "/tags/violin-sonata" | relative_url }}">violin sonata</a> # 91</li>
         </ul>
@@ -1829,6 +1829,7 @@ A sonata is a multi-movement instrumental composition that emerged during the Ba
     <tr>
       <td>43</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b669aa8378421063a6cb77519be1f21.png" alt="Cover for Symphony of Sadness" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Chronamut</td>

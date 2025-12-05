@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-18T09:38:45.840Z
+date: 2025-12-05T00:51:45.906Z
 permalink: tags/berlin-school
 title: berlin school
 ---
 
 ## berlin school
 
-Last updated: <time datetime="2025-11-18T09:38:45.840Z">Tue Nov 18 2025 11:38:45 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T00:51:45.906Z">Fri Dec 05 2025 02:51:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -42,7 +42,7 @@ Berlin School is a subgenre of electronic music that originated in West Germany 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 82</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -62,8 +62,8 @@ Berlin School is a subgenre of electronic music that originated in West Germany 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 53</li>
-            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 82</li>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 18</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -82,7 +82,7 @@ Berlin School is a subgenre of electronic music that originated in West Germany 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 1</li>
+            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -280,8 +280,8 @@ Berlin School is a subgenre of electronic music that originated in West Germany 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 12</li>
-            <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 76</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 15</li>
+            <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -306,8 +306,8 @@ Berlin School is a subgenre of electronic music that originated in West Germany 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 10</li>
-            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 66</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 13</li>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -653,9 +653,9 @@ Berlin School is a subgenre of electronic music that originated in West Germany 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 13</li>
-            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 33</li>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 58</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 15</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 60</li>
+            <li> <a href="{{ "/tags/minimalism" | relative_url }}">minimalism</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -959,7 +959,7 @@ Berlin School is a subgenre of electronic music that originated in West Germany 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 37</li>
+            <li> <a href="{{ "/tags/tolkien" | relative_url }}">tolkien</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -979,7 +979,7 @@ Berlin School is a subgenre of electronic music that originated in West Germany 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 31</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1003,8 +1003,8 @@ Berlin School is a subgenre of electronic music that originated in West Germany 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 61</li>
-            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 90</li>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 11</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1122,7 +1122,7 @@ Berlin School is a subgenre of electronic music that originated in West Germany 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 85</li>
+            <li> <a href="{{ "/tags/ambience" | relative_url }}">ambience</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1205,8 +1205,8 @@ Berlin School is a subgenre of electronic music that originated in West Germany 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 4</li>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 8</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 94</li>
+            <li> <a href="{{ "/tags/synthesizer" | relative_url }}">synthesizer</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1427,7 +1427,7 @@ Berlin School is a subgenre of electronic music that originated in West Germany 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 59</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1510,8 +1510,8 @@ Berlin School is a subgenre of electronic music that originated in West Germany 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 4</li>
             <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 87</li>
-            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1591,7 +1591,7 @@ Berlin School is a subgenre of electronic music that originated in West Germany 
     <tr>
       <td>87</td>
       <td>
-          <img src="https://i.discogs.com/6o_NQKDQaa2YNwO4tA0s-FyNY3ZhFGqga2e4QZDas_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NzQ4/MjMtMTQ0ODQ5ODA4/My0xMTUyLmpwZWc.jpeg" alt="Cover for Jodorowsky&#39;s Dune (Original Soundtrack)" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e1f036862e394c96e3354f17c06405f9.png" alt="Cover for Jodorowsky&#39;s Dune (Original Soundtrack)" style="max-width:120px; height:auto;" />
       </td>
       <td>2015-11-13</td>
       <td>Kurt Stenzel</td>
@@ -1644,7 +1644,7 @@ Berlin School is a subgenre of electronic music that originated in West Germany 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 48</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -1688,8 +1688,8 @@ Berlin School is a subgenre of electronic music that originated in West Germany 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 20</li>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 65</li>
+            <li> <a href="{{ "/tags/krautrock" | relative_url }}">krautrock</a> # 24</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1753,7 +1753,7 @@ Berlin School is a subgenre of electronic music that originated in West Germany 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 48</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -1777,9 +1777,9 @@ Berlin School is a subgenre of electronic music that originated in West Germany 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 8</li>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 36</li>
-            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 74</li>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 26</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 38</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1874,7 +1874,6 @@ Berlin School is a subgenre of electronic music that originated in West Germany 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1942,10 +1941,10 @@ Berlin School is a subgenre of electronic music that originated in West Germany 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 14</li>
-            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 28</li>
-            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 35</li>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 61</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 40</li>
+            <li> <a href="{{ "/tags/experimental-pop" | relative_url }}">experimental pop</a> # 64</li>
+            <li> <a href="{{ "/tags/avant-pop" | relative_url }}">avant-pop</a> # 73</li>
+            <li> <a href="{{ "/tags/space-ambient" | relative_url }}">space ambient</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -2029,8 +2028,8 @@ Berlin School is a subgenre of electronic music that originated in West Germany 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 44</li>
-            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 79</li>
+            <li> <a href="{{ "/tags/progressive-death-metal" | relative_url }}">progressive death metal</a> # 20</li>
+            <li> <a href="{{ "/tags/space-rock" | relative_url }}">space rock</a> # 52</li>
         </ul>
       </td>
     </tr>

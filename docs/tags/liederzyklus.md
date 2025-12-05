@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T14:42:39.704Z
+date: 2025-12-05T01:04:45.942Z
 permalink: tags/liederzyklus
 title: liederzyklus
 ---
 
 ## liederzyklus
 
-Last updated: <time datetime="2025-10-22T14:42:39.704Z">Wed Oct 22 2025 17:42:39 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-05T01:04:45.942Z">Fri Dec 05 2025 03:04:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -62,7 +62,7 @@ Liederzyklus, German for &quot;song cycle,&quot; refers to a collection of art s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conductor" | relative_url }}">conductor</a> # 74</li>
+            <li> <a href="{{ "/tags/conductor" | relative_url }}">conductor</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -100,7 +100,7 @@ Liederzyklus, German for &quot;song cycle,&quot; refers to a collection of art s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lieder" | relative_url }}">lieder</a> # 88</li>
+            <li> <a href="{{ "/tags/lieder" | relative_url }}">lieder</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -245,7 +245,7 @@ Liederzyklus, German for &quot;song cycle,&quot; refers to a collection of art s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lieder" | relative_url }}">lieder</a> # 81</li>
+            <li> <a href="{{ "/tags/lieder" | relative_url }}">lieder</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -266,7 +266,7 @@ Liederzyklus, German for &quot;song cycle,&quot; refers to a collection of art s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lieder" | relative_url }}">lieder</a> # 89</li>
+            <li> <a href="{{ "/tags/lieder" | relative_url }}">lieder</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -284,7 +284,7 @@ Liederzyklus, German for &quot;song cycle,&quot; refers to a collection of art s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lieder" | relative_url }}">lieder</a> # 95</li>
+            <li> <a href="{{ "/tags/lieder" | relative_url }}">lieder</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -357,7 +357,7 @@ Liederzyklus, German for &quot;song cycle,&quot; refers to a collection of art s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lieder" | relative_url }}">lieder</a> # 77</li>
+            <li> <a href="{{ "/tags/lieder" | relative_url }}">lieder</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -413,7 +413,7 @@ Liederzyklus, German for &quot;song cycle,&quot; refers to a collection of art s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/conductor" | relative_url }}">conductor</a> # 28</li>
+            <li> <a href="{{ "/tags/conductor" | relative_url }}">conductor</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -788,6 +788,7 @@ Liederzyklus, German for &quot;song cycle,&quot; refers to a collection of art s
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a69b87b37fa441f7b4520f9442f65ae2.png" alt="Cover for The Very Best Of Janet Baker" style="max-width:120px; height:auto;" />
       </td>
       <td>2002-02-18</td>
       <td>Dame Janet Baker</td>
@@ -820,7 +821,7 @@ Liederzyklus, German for &quot;song cycle,&quot; refers to a collection of art s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lieder" | relative_url }}">lieder</a> # 41</li>
+            <li> <a href="{{ "/tags/lieder" | relative_url }}">lieder</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -914,7 +915,7 @@ Liederzyklus, German for &quot;song cycle,&quot; refers to a collection of art s
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lieder" | relative_url }}">lieder</a> # 67</li>
+            <li> <a href="{{ "/tags/lieder" | relative_url }}">lieder</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1012,7 +1013,7 @@ Liederzyklus, German for &quot;song cycle,&quot; refers to a collection of art s
     <tr>
       <td>76</td>
       <td>
-          <img src="https://i.discogs.com/4aQabtBgT0JhUdCDjYLWspnsN-eQS5emERn39qPduVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQ3/NTkyLTE0OTQxMDQy/OTctNzcwMy5qcGVn.jpeg" alt="Cover for Christa Ludwig: The art of Christa Ludwig" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0dbaf883631c4fd3bd73f03353c395b1.png" alt="Cover for Christa Ludwig: The art of Christa Ludwig" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Christa Ludwig</td>
@@ -1048,7 +1049,7 @@ Liederzyklus, German for &quot;song cycle,&quot; refers to a collection of art s
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/VpX95LoyhQ_8pP_dle1J1bxLDRrhqR4GlZdrCNOmvgk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU0/MDg2LTE1NDEzMTYw/NTMtNDgyNi5qcGVn.jpeg" alt="Cover for Mahler: Das Lied von der Erde" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ecd7b4b3cc5440e492e3ad44e0bbf818.png" alt="Cover for Mahler: Das Lied von der Erde" style="max-width:120px; height:auto;" />
       </td>
       <td>2010</td>
       <td>Jessye Norman</td>
@@ -1526,6 +1527,7 @@ Liederzyklus, German for &quot;song cycle,&quot; refers to a collection of art s
     <tr>
       <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e9edd9d3da540588075af3a55274d5d.png" alt="Cover for Lieder Vol.4 (Mahler&#x2F;Schönberg&#x2F;Milhaud)" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Brigitte Fassbaender&#x2F;Irwin Gage&#x2F;Aribert Reimann</td>
@@ -1669,6 +1671,7 @@ Liederzyklus, German for &quot;song cycle,&quot; refers to a collection of art s
     <tr>
       <td>78</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/796dfaa6405a3d7982a750686f5645ef.png" alt="Cover for Icon: Dame Janet Baker" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Dame Janet Baker</td>
@@ -1768,6 +1771,7 @@ Liederzyklus, German for &quot;song cycle,&quot; refers to a collection of art s
     <tr>
       <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1674b95066574caea53c6649c5d58ac4.png" alt="Cover for Strauss, R.: Four Last Songs; 6 Orchestral Songs" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Jessye Norman [Soprano]</td>
@@ -1832,6 +1836,7 @@ Liederzyklus, German for &quot;song cycle,&quot; refers to a collection of art s
     <tr>
       <td>58</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed4b0675df484d84975c3424b0a05c74.png" alt="Cover for Berlioz: Nuits D&#39;Été, Op.7, etc" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Dame Janet Baker</td>

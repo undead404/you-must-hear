@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T01:05:38.059Z
+date: 2025-12-05T00:48:45.937Z
 permalink: tags/rockabilly
 title: rockabilly
 ---
 
 ## rockabilly
 
-Last updated: <time datetime="2025-11-24T01:05:38.059Z">Mon Nov 24 2025 03:05:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T00:48:45.937Z">Fri Dec 05 2025 02:48:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -45,7 +45,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 99</li>
+            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -65,7 +65,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 41</li>
+            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -89,7 +89,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 61</li>
+            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -108,7 +108,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 79</li>
+            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -184,7 +184,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 72</li>
+            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -244,8 +244,8 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 41</li>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 78</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 23</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -282,7 +282,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 89</li>
+            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -303,7 +303,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 43</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -558,24 +558,6 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
     </tr>
     <tr>
-      <td>28</td>
-      <td>
-          <img src="https://i.discogs.com/IbzKlWloLCM47paJf90m6B2BBW2iJ2XnVNssuoVPIMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4OTk0/ODEtMTU2NzUyMDEw/OC0xNjIzLmpwZWc.jpeg" alt="Cover for Let&#39;s Have a Party" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1988</td>
-      <td>Wanda Jackson</td>
-      <td>Let&#39;s Have a Party</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>91</td>
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/2243346ae46c498098cea361be628b83.png" alt="Cover for Mystery Girl" style="max-width:120px; height:auto;" />
@@ -587,6 +569,25 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rock" | relative_url }}">rock</a></li>
             <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 86</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>
+          <img src="https://i.discogs.com/IbzKlWloLCM47paJf90m6B2BBW2iJ2XnVNssuoVPIMg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4OTk0/ODEtMTU2NzUyMDEw/OC0xNjIzLmpwZWc.jpeg" alt="Cover for Let&#39;s Have a Party" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1988</td>
+      <td>Wanda Jackson</td>
+      <td>Let&#39;s Have a Party</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/rockabilly" | relative_url }}">rockabilly</a></li>
         </ul>
       </td>
       <td>
@@ -612,8 +613,8 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 95</li>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 96</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 5</li>
+            <li> <a href="{{ "/tags/honky-tonk" | relative_url }}">honky tonk</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -634,7 +635,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 91</li>
+            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -653,8 +654,8 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 40</li>
-            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 84</li>
+            <li> <a href="{{ "/tags/college-rock" | relative_url }}">college rock</a> # 17</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 61</li>
             <li> <a href="{{ "/tags/roots-rock" | relative_url }}">roots rock</a> # 100</li>
         </ul>
       </td>
@@ -694,7 +695,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 78</li>
+            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -808,7 +809,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 45</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -881,7 +882,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 62</li>
+            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -901,8 +902,8 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 77</li>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 95</li>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 6</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -980,8 +981,8 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 74</li>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 94</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 6</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1055,7 +1056,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 22</li>
+            <li> <a href="{{ "/tags/swing" | relative_url }}">swing</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1076,8 +1077,8 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 12</li>
             <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 71</li>
+            <li> <a href="{{ "/tags/polish" | relative_url }}">polish</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1132,7 +1133,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 86</li>
+            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1151,7 +1152,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 55</li>
+            <li> <a href="{{ "/tags/big-band" | relative_url }}">big band</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1171,7 +1172,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 58</li>
+            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 42</li>
             <li> <a href="{{ "/tags/psychobilly" | relative_url }}">psychobilly</a> # 64</li>
         </ul>
       </td>
@@ -1227,7 +1228,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 42</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1264,7 +1265,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 11</li>
+            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1284,7 +1285,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 11</li>
+            <li> <a href="{{ "/tags/oldies" | relative_url }}">oldies</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1609,7 +1610,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 43</li>
+            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1631,7 +1632,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 64</li>
+            <li> <a href="{{ "/tags/garage" | relative_url }}">garage</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1652,8 +1653,8 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 67</li>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 81</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 21</li>
+            <li> <a href="{{ "/tags/usa" | relative_url }}">usa</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1787,7 +1788,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 46</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1865,7 +1866,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 10</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1887,7 +1888,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 83</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1941,7 +1942,7 @@ Rockabilly is an energetic fusion of rock and roll with country and hillbilly mu
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 38</li>
+            <li> <a href="{{ "/tags/rock-n-roll" | relative_url }}">rock n roll</a> # 62</li>
         </ul>
       </td>
     </tr>

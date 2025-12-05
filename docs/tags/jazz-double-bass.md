@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-22T22:56:36.616Z
+date: 2025-12-05T00:59:45.922Z
 permalink: tags/jazz-double-bass
 title: jazz double bass
 ---
 
 ## jazz double bass
 
-Last updated: <time datetime="2025-11-22T22:56:36.616Z">Sun Nov 23 2025 00:56:36 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T00:59:45.922Z">Fri Dec 05 2025 02:59:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -258,7 +258,7 @@ Jazz double bass refers to music prominently featuring the upright bass as a lea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harmolodic" | relative_url }}">harmolodic</a> # 96</li>
+            <li> <a href="{{ "/tags/harmolodic" | relative_url }}">harmolodic</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -295,7 +295,7 @@ Jazz double bass refers to music prominently featuring the upright bass as a lea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/harmolodic" | relative_url }}">harmolodic</a> # 68</li>
+            <li> <a href="{{ "/tags/harmolodic" | relative_url }}">harmolodic</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -551,7 +551,7 @@ Jazz double bass refers to music prominently featuring the upright bass as a lea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 69</li>
+            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -679,7 +679,7 @@ Jazz double bass refers to music prominently featuring the upright bass as a lea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 66</li>
+            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -862,7 +862,7 @@ Jazz double bass refers to music prominently featuring the upright bass as a lea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 8</li>
+            <li> <a href="{{ "/tags/world-fusion" | relative_url }}">world fusion</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1160,7 +1160,7 @@ Jazz double bass refers to music prominently featuring the upright bass as a lea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 30</li>
+            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1180,7 +1180,7 @@ Jazz double bass refers to music prominently featuring the upright bass as a lea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 75</li>
+            <li> <a href="{{ "/tags/double-bass" | relative_url }}">double bass</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1202,8 +1202,8 @@ Jazz double bass refers to music prominently featuring the upright bass as a lea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polish-jazz" | relative_url }}">polish jazz</a> # 27</li>
-            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 42</li>
+            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 59</li>
+            <li> <a href="{{ "/tags/polish-jazz" | relative_url }}">polish jazz</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1457,7 +1457,7 @@ Jazz double bass refers to music prominently featuring the upright bass as a lea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 57</li>
+            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1571,7 +1571,7 @@ Jazz double bass refers to music prominently featuring the upright bass as a lea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 51</li>
+            <li> <a href="{{ "/tags/modern-jazz" | relative_url }}">modern jazz</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1610,7 +1610,7 @@ Jazz double bass refers to music prominently featuring the upright bass as a lea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 45</li>
+            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -1650,7 +1650,7 @@ Jazz double bass refers to music prominently featuring the upright bass as a lea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 39</li>
+            <li> <a href="{{ "/tags/jazz-bass" | relative_url }}">jazz bass</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1784,7 +1784,7 @@ Jazz double bass refers to music prominently featuring the upright bass as a lea
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 4</li>
+            <li> <a href="{{ "/tags/jazz-saxophone" | relative_url }}">jazz saxophone</a> # 97</li>
         </ul>
       </td>
     </tr>

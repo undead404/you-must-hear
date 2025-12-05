@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-27T05:21:09.039Z
+date: 2025-12-05T00:55:46.062Z
 permalink: tags/dark-ambient
 title: dark ambient
 ---
 
 ## dark ambient
 
-Last updated: <time datetime="2025-11-27T05:21:09.039Z">Thu Nov 27 2025 07:21:09 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T00:55:46.062Z">Fri Dec 05 2025 02:55:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -81,7 +81,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 34</li>
+            <li> <a href="{{ "/tags/instrumental-hip-hop" | relative_url }}">instrumental hip-hop</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -139,7 +139,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a> # 34</li>
+            <li> <a href="{{ "/tags/medieval-ambient" | relative_url }}">medieval ambient</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -158,7 +158,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 51</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -178,10 +178,10 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 2</li>
+            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 3</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 5</li>
             <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 64</li>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 96</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -325,8 +325,8 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 28</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 34</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 67</li>
+            <li> <a href="{{ "/tags/darkwave" | relative_url }}">darkwave</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -362,7 +362,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 76</li>
+            <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -454,7 +454,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 9</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -474,7 +474,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 60</li>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -529,7 +529,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 51</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -567,7 +567,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 78</li>
+            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -589,7 +589,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 40</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -644,7 +644,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 25</li>
+            <li> <a href="{{ "/tags/neoclassical" | relative_url }}">neoclassical</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -699,8 +699,8 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 8</li>
-            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 52</li>
+            <li> <a href="{{ "/tags/sludge-metal" | relative_url }}">sludge metal</a> # 49</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -779,8 +779,8 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 15</li>
-            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 89</li>
+            <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 11</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -798,7 +798,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 90</li>
+            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -854,7 +854,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 89</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -931,8 +931,8 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 7</li>
             <li> <a href="{{ "/tags/neofolk" | relative_url }}">neofolk</a> # 35</li>
-            <li> <a href="{{ "/tags/apocalyptic-folk" | relative_url }}">apocalyptic folk</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1025,7 +1025,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 37</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1064,8 +1064,8 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 71</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 83</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 18</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1093,7 +1093,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/dPqBYDmf74OGyYFbWJXTL_heIfBrvXt6yprgG4Kprfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzkw/NTctMTU1ODEyMDUw/OS0xNTk5LmpwZWc.jpeg" alt="Cover for Eye of the Soundscape" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3c948d1fdb77519a69edf7beb9b68645.png" alt="Cover for Eye of the Soundscape" style="max-width:120px; height:auto;" />
       </td>
       <td>2009</td>
       <td>Riverside</td>
@@ -1107,7 +1107,8 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 99</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 2</li>
+            <li> <a href="{{ "/tags/industrial-rock" | relative_url }}">industrial rock</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1129,7 +1130,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 9</li>
+            <li> <a href="{{ "/tags/synthwave" | relative_url }}">synthwave</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1149,7 +1150,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 71</li>
+            <li> <a href="{{ "/tags/ethnic" | relative_url }}">ethnic</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1241,7 +1242,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 16</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1259,9 +1260,9 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 14</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 66</li>
-            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 73</li>
+            <li> <a href="{{ "/tags/post-dubstep" | relative_url }}">post-dubstep</a> # 28</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 35</li>
+            <li> <a href="{{ "/tags/downtempo" | relative_url }}">downtempo</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1297,7 +1298,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 91</li>
+            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1388,7 +1389,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 18</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1426,7 +1427,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 89</li>
+            <li> <a href="{{ "/tags/ritual-ambient" | relative_url }}">ritual ambient</a> # 12</li>
             <li> <a href="{{ "/tags/drone-ambient" | relative_url }}">drone ambient</a> # 99</li>
         </ul>
       </td>
@@ -1465,7 +1466,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 100</li>
+            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1484,7 +1485,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 68</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1524,9 +1525,9 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 58</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 82</li>
-            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 86</li>
+            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 15</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 19</li>
+            <li> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1589,7 +1590,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 84</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1612,9 +1613,9 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 22</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 81</li>
-            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/ambient-black-metal" | relative_url }}">ambient black metal</a> # 1</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 17</li>
+            <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1653,7 +1654,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 79</li>
+            <li> <a href="{{ "/tags/sweden" | relative_url }}">sweden</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1674,7 +1675,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a> # 94</li>
+            <li> <a href="{{ "/tags/dungeon-synth" | relative_url }}">dungeon synth</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1695,11 +1696,11 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 4</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 55</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 93</li>
+            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 1</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 7</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 8</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 46</li>
             <li> <a href="{{ "/tags/musique-concrete" | relative_url }}">musique concrete</a> # 99</li>
-            <li> <a href="{{ "/tags/death-industrial" | relative_url }}">death industrial</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1719,7 +1720,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 67</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1762,8 +1763,8 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 76</li>
-            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 100</li>
+            <li> <a href="{{ "/tags/ambient-industrial" | relative_url }}">ambient industrial</a> # 1</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1788,10 +1789,10 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 18</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 12</li>
             <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 66</li>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 75</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 89</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 77</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1812,7 +1813,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 92</li>
+            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1843,18 +1844,18 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 5</li>
-            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 66</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 69</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 72</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 89</li>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 97</li>
-            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 100</li>
-            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 100</li>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 100</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 1</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 1</li>
+            <li> <a href="{{ "/tags/drone" | relative_url }}">drone</a> # 1</li>
+            <li> <a href="{{ "/tags/noise" | relative_url }}">noise</a> # 1</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 1</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 4</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 12</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 29</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 32</li>
+            <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 35</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 96</li>
             <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 100</li>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 100</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1895,7 +1896,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 85</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1953,9 +1954,9 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 3</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 20</li>
             <li> <a href="{{ "/tags/vaporwave" | relative_url }}">vaporwave</a> # 26</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 81</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1977,7 +1978,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 88</li>
+            <li> <a href="{{ "/tags/dark-jazz" | relative_url }}">dark jazz</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1998,7 +1999,7 @@ Dark ambient music is a subgenre of ambient music that features a darker, more f
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 1</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 97</li>
         </ul>
       </td>
     </tr>

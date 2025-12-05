@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T01:11:37.965Z
+date: 2025-12-05T00:54:45.911Z
 permalink: tags/comedy-rock
 title: comedy rock
 ---
 
 ## comedy rock
 
-Last updated: <time datetime="2025-11-24T01:11:37.965Z">Mon Nov 24 2025 03:11:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T00:54:45.911Z">Fri Dec 05 2025 02:54:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -85,7 +85,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 54</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -104,7 +104,8 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 56</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 45</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -200,7 +201,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 57</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -220,7 +221,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 48</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -240,7 +241,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 64</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -263,7 +264,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 84</li>
+            <li> <a href="{{ "/tags/italian-rock" | relative_url }}">italian rock</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -356,9 +357,9 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 58</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 65</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 68</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 33</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 34</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -382,7 +383,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 6</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -436,7 +437,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 82</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -475,7 +476,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 53</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -495,7 +496,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 9</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -504,7 +505,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       <td>
           <img src="https://lastfm.freetls.fastly.net/i/u/34s/323c312e0e60aaf40d8f207c97a0c27f.png" alt="Cover for Chef Aid: The South Park Album" style="max-width:120px; height:auto;" />
       </td>
-      <td>1998-11-03</td>
+      <td>1998-11-24</td>
       <td>Various Artists</td>
       <td>Chef Aid: The South Park Album</td>
       <td>
@@ -520,7 +521,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 92</li>
+            <li> <a href="{{ "/tags/thrashcore" | relative_url }}">thrashcore</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -541,7 +542,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 42</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 45</li>
             <li> <a href="{{ "/tags/brazilian-rock" | relative_url }}">brazilian rock</a> # 65</li>
         </ul>
       </td>
@@ -562,8 +563,8 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 3</li>
-            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 14</li>
+            <li> <a href="{{ "/tags/electropunk" | relative_url }}">electropunk</a> # 86</li>
+            <li> <a href="{{ "/tags/humour" | relative_url }}">humour</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -637,7 +638,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 92</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -737,7 +738,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 94</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -780,8 +781,8 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 17</li>
-            <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 84</li>
+            <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 17</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -803,8 +804,8 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 21</li>
-            <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 85</li>
+            <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 16</li>
+            <li> <a href="{{ "/tags/art-punk" | relative_url }}">art punk</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -879,7 +880,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 23</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -951,8 +952,8 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 6</li>
-            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 82</li>
+            <li> <a href="{{ "/tags/comedy" | relative_url }}">comedy</a> # 19</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -994,7 +995,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 10</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1012,9 +1013,9 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 10</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 14</li>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 26</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 74</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 86</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1053,7 +1054,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 25</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1110,7 +1111,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 12</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1169,7 +1170,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 37</li>
+            <li> <a href="{{ "/tags/bitcore" | relative_url }}">bitcore</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1192,7 +1193,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 6</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1268,7 +1269,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 60</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1330,7 +1331,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a> # 80</li>
+            <li> <a href="{{ "/tags/estonian" | relative_url }}">estonian</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1352,7 +1353,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 58</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1429,9 +1430,9 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 3</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 7</li>
             <li> <a href="{{ "/tags/crunkcore" | relative_url }}">crunkcore</a> # 64</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 93</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1450,8 +1451,8 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       <td>
         <ul>
             <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 7</li>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 19</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 28</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 72</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1477,8 +1478,8 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 41</li>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 82</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 19</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1501,9 +1502,9 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 1</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 6</li>
             <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 76</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 94</li>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1541,7 +1542,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 77</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1563,8 +1564,8 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 59</li>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 87</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 14</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1588,7 +1589,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 68</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1606,8 +1607,8 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 88</li>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 98</li>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 3</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1630,9 +1631,9 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 2</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 9</li>
             <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 74</li>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 91</li>
-            <li> <a href="{{ "/tags/baltimore" | relative_url }}">baltimore</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1658,7 +1659,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 11</li>
+            <li> <a href="{{ "/tags/parody" | relative_url }}">parody</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1741,7 +1742,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 28</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1764,7 +1765,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 42</li>
+            <li> <a href="{{ "/tags/electronicore" | relative_url }}">electronicore</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -1849,7 +1850,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 38</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1910,7 +1911,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 79</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -1932,8 +1933,8 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 52</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 65</li>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 35</li>
+            <li> <a href="{{ "/tags/garage-punk" | relative_url }}">garage punk</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1955,7 +1956,7 @@ Comedy rock blends rock music&#39;s instrumentation and energy with humorous lyr
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a> # 71</li>
+            <li> <a href="{{ "/tags/russian-alternative" | relative_url }}">russian alternative</a> # 29</li>
         </ul>
       </td>
     </tr>

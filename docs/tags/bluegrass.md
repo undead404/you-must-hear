@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T02:13:37.989Z
+date: 2025-12-05T01:26:12.482Z
 permalink: tags/bluegrass
 title: bluegrass
 ---
 
 ## bluegrass
 
-Last updated: <time datetime="2025-11-24T02:13:37.989Z">Mon Nov 24 2025 04:13:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T01:26:12.482Z">Fri Dec 05 2025 03:26:12 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -83,9 +83,9 @@ Bluegrass is an acoustic American roots music style characterized by fast tempos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 5</li>
-            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 93</li>
-            <li> <a href="{{ "/tags/late-90s-country" | relative_url }}">late 90s country</a> # 100</li>
+            <li> <a href="{{ "/tags/late-90s-country" | relative_url }}">late 90s country</a> # 1</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 3</li>
+            <li> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -229,7 +229,7 @@ Bluegrass is an acoustic American roots music style characterized by fast tempos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 87</li>
+            <li> <a href="{{ "/tags/post-bop" | relative_url }}">post-bop</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -354,7 +354,7 @@ Bluegrass is an acoustic American roots music style characterized by fast tempos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 85</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -450,7 +450,7 @@ Bluegrass is an acoustic American roots music style characterized by fast tempos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a> # 100</li>
+            <li> <a href="{{ "/tags/fiddle" | relative_url }}">fiddle</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -648,7 +648,7 @@ Bluegrass is an acoustic American roots music style characterized by fast tempos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 36</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -762,7 +762,7 @@ Bluegrass is an acoustic American roots music style characterized by fast tempos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 92</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -890,7 +890,7 @@ Bluegrass is an acoustic American roots music style characterized by fast tempos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 71</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -927,7 +927,7 @@ Bluegrass is an acoustic American roots music style characterized by fast tempos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 87</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1038,7 +1038,7 @@ Bluegrass is an acoustic American roots music style characterized by fast tempos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 86</li>
+            <li> <a href="{{ "/tags/alt-country" | relative_url }}">alt-country</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1170,7 +1170,7 @@ Bluegrass is an acoustic American roots music style characterized by fast tempos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 99</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1224,8 +1224,8 @@ Bluegrass is an acoustic American roots music style characterized by fast tempos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 25</li>
-            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 97</li>
+            <li> <a href="{{ "/tags/roots" | relative_url }}">roots</a> # 4</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1265,7 +1265,7 @@ Bluegrass is an acoustic American roots music style characterized by fast tempos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 80</li>
+            <li> <a href="{{ "/tags/jam-band" | relative_url }}">jam band</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1306,7 +1306,7 @@ Bluegrass is an acoustic American roots music style characterized by fast tempos
     <tr>
       <td>33</td>
       <td>
-          <img src="https://i.discogs.com/Xnkm2bQ8z_5FuqNeHmWTKJIkClJczkPFDTbYA4o6Hi8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTQw/MTQtMTQ4OTE2MTEy/MS0yMDM5LmpwZWc.jpeg" alt="Cover for O Brother, Where Art Thou?" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1e72b79ac3d4d488c2910ee05c75e50.png" alt="Cover for O Brother, Where Art Thou?" style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Ralph Stanley</td>
@@ -1409,7 +1409,7 @@ Bluegrass is an acoustic American roots music style characterized by fast tempos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 50</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1434,9 +1434,9 @@ Bluegrass is an acoustic American roots music style characterized by fast tempos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 9</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 98</li>
-            <li> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a> # 99</li>
+            <li> <a href="{{ "/tags/slide-guitar" | relative_url }}">slide guitar</a> # 2</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 3</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1473,7 +1473,7 @@ Bluegrass is an acoustic American roots music style characterized by fast tempos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 22</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1512,7 +1512,7 @@ Bluegrass is an acoustic American roots music style characterized by fast tempos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 94</li>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1534,7 +1534,7 @@ Bluegrass is an acoustic American roots music style characterized by fast tempos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 100</li>
+            <li> <a href="{{ "/tags/celtic-folk" | relative_url }}">celtic folk</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1560,9 +1560,9 @@ Bluegrass is an acoustic American roots music style characterized by fast tempos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 39</li>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 48</li>
-            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 97</li>
+            <li> <a href="{{ "/tags/spiritual" | relative_url }}">spiritual</a> # 4</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 45</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1653,7 +1653,7 @@ Bluegrass is an acoustic American roots music style characterized by fast tempos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 38</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -1788,10 +1788,10 @@ Bluegrass is an acoustic American roots music style characterized by fast tempos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 17</li>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 76</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 78</li>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 95</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 6</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 19</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 19</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -1851,9 +1851,9 @@ Bluegrass is an acoustic American roots music style characterized by fast tempos
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 14</li>
-            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 94</li>
-            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 100</li>
+            <li> <a href="{{ "/tags/banjo" | relative_url }}">banjo</a> # 1</li>
+            <li> <a href="{{ "/tags/finland" | relative_url }}">finland</a> # 7</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 86</li>
         </ul>
       </td>
     </tr>

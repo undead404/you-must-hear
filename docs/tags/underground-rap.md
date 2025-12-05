@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-22T22:57:25.050Z
+date: 2025-12-05T01:06:45.947Z
 permalink: tags/underground-rap
 title: underground rap
 ---
 
 ## underground rap
 
-Last updated: <time datetime="2025-11-22T22:57:25.050Z">Sun Nov 23 2025 00:57:25 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T01:06:45.947Z">Fri Dec 05 2025 03:06:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -48,7 +48,7 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 62</li>
+            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -89,8 +89,8 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 77</li>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 93</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 8</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -132,9 +132,9 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 9</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 67</li>
-            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 92</li>
+            <li> <a href="{{ "/tags/atlanta" | relative_url }}">atlanta</a> # 9</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 30</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -153,7 +153,7 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 2</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -180,11 +180,11 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 71</li>
-            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 74</li>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 91</li>
-            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 95</li>
-            <li> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a> # 99</li>
+            <li> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a> # 2</li>
+            <li> <a href="{{ "/tags/san-francisco" | relative_url }}">san francisco</a> # 5</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 10</li>
+            <li> <a href="{{ "/tags/g-funk" | relative_url }}">g-funk</a> # 23</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -205,8 +205,8 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 50</li>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 53</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 48</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -226,7 +226,7 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 38</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -246,11 +246,12 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 34</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 37</li>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 43</li>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 81</li>
-            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 88</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 14</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 55</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 60</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 64</li>
+            <li> <a href="{{ "/tags/east-coast" | relative_url }}">east coast</a> # 89</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -273,9 +274,9 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 61</li>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 88</li>
-            <li> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a> # 97</li>
+            <li> <a href="{{ "/tags/oakland" | relative_url }}">oakland</a> # 4</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 12</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -330,8 +331,8 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 46</li>
-            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 97</li>
+            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 3</li>
+            <li> <a href="{{ "/tags/east-coast-hip-hop" | relative_url }}">east coast hip hop</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -352,7 +353,7 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 85</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -373,7 +374,8 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 70</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 31</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -395,8 +397,8 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 55</li>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 60</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 41</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -417,7 +419,7 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 82</li>
+            <li> <a href="{{ "/tags/german-rap" | relative_url }}">german rap</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -437,7 +439,7 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 10</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -461,7 +463,7 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 97</li>
+            <li> <a href="{{ "/tags/seattle" | relative_url }}">seattle</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -483,7 +485,7 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 32</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 66</li>
             <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 86</li>
         </ul>
       </td>
@@ -503,7 +505,7 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 91</li>
+            <li> <a href="{{ "/tags/turntablism" | relative_url }}">turntablism</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -581,9 +583,9 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 53</li>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 65</li>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 71</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 24</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 36</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -603,7 +605,7 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 69</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -629,10 +631,10 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 9</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 30</li>
-            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 57</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 68</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 33</li>
+            <li> <a href="{{ "/tags/berlin" | relative_url }}">berlin</a> # 43</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 69</li>
+            <li> <a href="{{ "/tags/breaks" | relative_url }}">breaks</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -691,8 +693,8 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 90</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 97</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 4</li>
+            <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -712,8 +714,8 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 45</li>
-            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 52</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 46</li>
+            <li> <a href="{{ "/tags/michigan" | relative_url }}">michigan</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -731,8 +733,8 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 54</li>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 56</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 43</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -769,7 +771,7 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 12</li>
+            <li> <a href="{{ "/tags/horrorcore" | relative_url }}">horrorcore</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -787,7 +789,7 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 42</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -827,7 +829,8 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 35</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 59</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -849,7 +852,7 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 33</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -941,7 +944,8 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 36</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 58</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -961,8 +965,8 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 52</li>
-            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 90</li>
+            <li> <a href="{{ "/tags/houston" | relative_url }}">houston</a> # 11</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1004,8 +1008,8 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 78</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 93</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 8</li>
+            <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1042,7 +1046,7 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 19</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1062,7 +1066,7 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 58</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1105,7 +1109,7 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 28</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -1149,9 +1153,9 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 17</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 15</li>
             <li> <a href="{{ "/tags/chicago" | relative_url }}">chicago</a> # 61</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 86</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1172,7 +1176,7 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 71</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1190,7 +1194,7 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 70</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1210,8 +1214,8 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 35</li>
-            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 95</li>
+            <li> <a href="{{ "/tags/philadelphia" | relative_url }}">philadelphia</a> # 5</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -1305,7 +1309,7 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 25</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 73</li>
             <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 83</li>
         </ul>
       </td>
@@ -1327,8 +1331,8 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 19</li>
-            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 69</li>
+            <li> <a href="{{ "/tags/bay-area" | relative_url }}">bay area</a> # 31</li>
+            <li> <a href="{{ "/tags/west-coast-rap" | relative_url }}">west coast rap</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1349,7 +1353,7 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a> # 88</li>
+            <li> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1369,7 +1373,7 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 26</li>
+            <li> <a href="{{ "/tags/east-coast-rap" | relative_url }}">east coast rap</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1441,7 +1445,7 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 49</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1498,7 +1502,7 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a> # 61</li>
+            <li> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1555,7 +1559,7 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 36</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 63</li>
             <li> <a href="{{ "/tags/brooklyn" | relative_url }}">brooklyn</a> # 67</li>
         </ul>
       </td>
@@ -1576,7 +1580,7 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 29</li>
+            <li> <a href="{{ "/tags/west-coast-hip-hop" | relative_url }}">west coast hip hop</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1597,7 +1601,7 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 93</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1623,12 +1627,12 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 41</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 66</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 8</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 22</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 32</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 58</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 74</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 77</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 81</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1650,7 +1654,7 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a> # 74</li>
+            <li> <a href="{{ "/tags/russian-rap" | relative_url }}">russian rap</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1671,7 +1675,7 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 30</li>
+            <li> <a href="{{ "/tags/alternative-hip-hop" | relative_url }}">alternative hip hop</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1697,10 +1701,10 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 52</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 65</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 13</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 33</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 45</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 87</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1719,7 +1723,7 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 58</li>
+            <li> <a href="{{ "/tags/grime" | relative_url }}">grime</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1742,7 +1746,7 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 28</li>
+            <li> <a href="{{ "/tags/hardcore-rap" | relative_url }}">hardcore rap</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1763,7 +1767,7 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 56</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 41</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 84</li>
         </ul>
       </td>
@@ -1804,7 +1808,7 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 99</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1886,11 +1890,11 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 30</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 59</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 9</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 39</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 68</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 89</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 90</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1917,12 +1921,12 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 80</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 2</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 12</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 15</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 20</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 84</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 84</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 88</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 97</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1945,8 +1949,8 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 5</li>
-            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 20</li>
+            <li> <a href="{{ "/tags/jazz-hop" | relative_url }}">jazz hop</a> # 81</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1969,7 +1973,7 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 97</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1996,10 +2000,10 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 6</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 27</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 17</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 72</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 76</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 84</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -2027,12 +2031,12 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 17</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 55</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 69</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 12</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 30</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 43</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 81</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 85</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 88</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -2055,8 +2059,8 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 81</li>
-            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 88</li>
+            <li> <a href="{{ "/tags/rap-francais" | relative_url }}">rap francais</a> # 13</li>
+            <li> <a href="{{ "/tags/french-rap" | relative_url }}">french rap</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -2077,8 +2081,8 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 11</li>
-            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 60</li>
+            <li> <a href="{{ "/tags/drumless" | relative_url }}">drumless</a> # 66</li>
+            <li> <a href="{{ "/tags/boom-bap" | relative_url }}">boom bap</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -2105,10 +2109,10 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 32</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 49</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 15</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 50</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 60</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 82</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -2135,10 +2139,10 @@ Underground rap is hip-hop created outside mainstream commercial channels, prior
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 14</li>
             <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 49</li>
             <li> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a> # 82</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 86</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 87</li>
         </ul>
       </td>
     </tr>
