@@ -1,18 +1,24 @@
 ---
 category: list
-date: 2025-12-05T15:25:32.978Z
+date: 2025-12-05T16:35:05.533Z
 permalink: tags
 title: All music tags ever known
 ---
 
 ## All music tags ever known
 
-Last updated: <time datetime="2025-12-05T15:25:32.978Z">Fri Dec 05 2025 17:25:32 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T16:35:05.533Z">Fri Dec 05 2025 18:35:05 GMT+0200 (Eastern European Standard Time)</time>
 
 ### In update order, from most recent to oldest
 
 | Tag | Updated at |
 |---|---|
+| [industrial techno]({{ "tags/industrial-techno" | relative_url }}) | <time datetime="2025-12-05T16:35:05.533Z">Fri Dec 05 2025 18:35:05 GMT+0200 (Eastern European Standard Time)</time> |
+| [west coast hip hop]({{ "tags/west-coast-hip-hop" | relative_url }}) | <time datetime="2025-12-05T16:17:48.248Z">Fri Dec 05 2025 18:17:48 GMT+0200 (Eastern European Standard Time)</time> |
+| [metal]({{ "tags/metal" | relative_url }}) | <time datetime="2025-12-05T16:00:48.740Z">Fri Dec 05 2025 18:00:48 GMT+0200 (Eastern European Standard Time)</time> |
+| [microtonal]({{ "tags/microtonal" | relative_url }}) | <time datetime="2025-12-05T15:43:45.898Z">Fri Dec 05 2025 17:43:45 GMT+0200 (Eastern European Standard Time)</time> |
+| [skacore]({{ "tags/skacore" | relative_url }}) | <time datetime="2025-12-05T15:43:37.675Z">Fri Dec 05 2025 17:43:37 GMT+0200 (Eastern European Standard Time)</time> |
+| [alternative metal]({{ "tags/alternative-metal" | relative_url }}) | <time datetime="2025-12-05T15:25:45.929Z">Fri Dec 05 2025 17:25:45 GMT+0200 (Eastern European Standard Time)</time> |
 | [alternative]({{ "tags/alternative" | relative_url }}) | <time datetime="2025-12-05T15:25:32.978Z">Fri Dec 05 2025 17:25:32 GMT+0200 (Eastern European Standard Time)</time> |
 | [delta blues]({{ "tags/delta-blues" | relative_url }}) | <time datetime="2025-12-05T15:09:45.894Z">Fri Dec 05 2025 17:09:45 GMT+0200 (Eastern European Standard Time)</time> |
 | [francais]({{ "tags/francais" | relative_url }}) | <time datetime="2025-12-05T15:09:28.331Z">Fri Dec 05 2025 17:09:28 GMT+0200 (Eastern European Standard Time)</time> |
@@ -1371,9 +1377,3 @@ Last updated: <time datetime="2025-12-05T15:25:32.978Z">Fri Dec 05 2025 17:25:32
 | [grunge]({{ "tags/grunge" | relative_url }}) | <time datetime="2025-12-03T09:27:35.572Z">Wed Dec 03 2025 11:27:35 GMT+0200 (Eastern European Standard Time)</time> |
 | [dark rock]({{ "tags/dark-rock" | relative_url }}) | <time datetime="2025-12-03T09:27:30.077Z">Wed Dec 03 2025 11:27:30 GMT+0200 (Eastern European Standard Time)</time> |
 | [emo]({{ "tags/emo" | relative_url }}) | <time datetime="2025-12-03T09:27:20.539Z">Wed Dec 03 2025 11:27:20 GMT+0200 (Eastern European Standard Time)</time> |
-| [industrial techno]({{ "tags/industrial-techno" | relative_url }}) | <time datetime="2025-12-03T09:26:43.486Z">Wed Dec 03 2025 11:26:43 GMT+0200 (Eastern European Standard Time)</time> |
-| [west coast hip hop]({{ "tags/west-coast-hip-hop" | relative_url }}) | <time datetime="2025-12-03T09:26:33.954Z">Wed Dec 03 2025 11:26:33 GMT+0200 (Eastern European Standard Time)</time> |
-| [metal]({{ "tags/metal" | relative_url }}) | <time datetime="2025-12-03T09:26:22.248Z">Wed Dec 03 2025 11:26:22 GMT+0200 (Eastern European Standard Time)</time> |
-| [microtonal]({{ "tags/microtonal" | relative_url }}) | <time datetime="2025-12-03T09:26:15.965Z">Wed Dec 03 2025 11:26:15 GMT+0200 (Eastern European Standard Time)</time> |
-| [skacore]({{ "tags/skacore" | relative_url }}) | <time datetime="2025-12-03T09:12:30.530Z">Wed Dec 03 2025 11:12:30 GMT+0200 (Eastern European Standard Time)</time> |
-| [alternative metal]({{ "tags/alternative-metal" | relative_url }}) | <time datetime="2025-12-03T08:56:46.814Z">Wed Dec 03 2025 10:56:46 GMT+0200 (Eastern European Standard Time)</time> |

@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T08:56:46.814Z
+date: 2025-12-05T15:25:45.929Z
 permalink: tags/alternative-metal
 title: alternative metal
 ---
 
 ## alternative metal
 
-Last updated: <time datetime="2025-12-03T08:56:46.814Z">Wed Dec 03 2025 10:56:46 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T15:25:45.929Z">Fri Dec 05 2025 17:25:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -44,7 +44,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 90</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -63,8 +63,8 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 49</li>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 99</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 2</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -85,8 +85,8 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 41</li>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 100</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 1</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -123,7 +123,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 6</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -142,7 +142,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 91</li>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -199,8 +199,8 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 42</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 95</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 6</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -218,7 +218,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 75</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -237,7 +237,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 69</li>
+            <li> <a href="{{ "/tags/grunge" | relative_url }}">grunge</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -275,8 +275,8 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 81</li>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 100</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 1</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -294,7 +294,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 93</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -313,8 +313,8 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 73</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 97</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 5</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -333,8 +333,8 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 63</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 94</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 7</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -356,9 +356,9 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 1</li>
             <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 19</li>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 60</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 99</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -376,9 +376,9 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 35</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 38</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 88</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 13</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 62</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -397,7 +397,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 79</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -416,8 +416,8 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 22</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 84</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 17</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -435,7 +435,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 38</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -455,8 +455,8 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 49</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 89</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 12</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -474,7 +474,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 71</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -492,8 +492,8 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 76</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 95</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 6</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -532,8 +532,8 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 87</li>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 95</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 6</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -552,7 +552,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 83</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -570,7 +570,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 48</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -589,7 +589,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 91</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -624,7 +624,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 61</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -660,7 +660,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 74</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -696,9 +696,9 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 79</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 8</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 22</li>
             <li> <a href="{{ "/tags/alternative" | relative_url }}">alternative</a> # 87</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -734,7 +734,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 7</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -753,7 +753,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 43</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -806,7 +806,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 28</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -824,7 +824,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 87</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -846,10 +846,10 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 23</li>
-            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 32</li>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 96</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 99</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 2</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 5</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 69</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -887,7 +887,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 92</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -909,8 +909,8 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 4</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 78</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 23</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -930,8 +930,8 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 7</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 76</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 25</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -949,7 +949,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 55</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -968,8 +968,8 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 8</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 82</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 19</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -987,8 +987,8 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 3</li>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 22</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 79</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1008,7 +1008,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 5</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1027,7 +1027,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 94</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1045,7 +1045,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 70</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1063,7 +1063,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 76</li>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1084,7 +1084,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       <td>
         <ul>
             <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 2</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 25</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1157,11 +1157,11 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 2</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 49</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 90</li>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 97</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 100</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 1</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 4</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 11</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 52</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1216,8 +1216,8 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 9</li>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 75</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 29</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1255,8 +1255,8 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 70</li>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 98</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 3</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1274,7 +1274,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 83</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1312,7 +1312,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 75</li>
+            <li> <a href="{{ "/tags/australian" | relative_url }}">australian</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1332,11 +1332,12 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 24</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 26</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 5</li>
             <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 32</li>
             <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 57</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 96</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 75</li>
+            <li> <a href="{{ "/tags/hyperpop" | relative_url }}">hyperpop</a> # 76</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1355,8 +1356,8 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 18</li>
             <li> <a href="{{ "/tags/modern-metal" | relative_url }}">modern metal</a> # 43</li>
+            <li> <a href="{{ "/tags/modern-melodic-death-metal" | relative_url }}">modern melodic death metal</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -1393,8 +1394,8 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 7</li>
             <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 53</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1432,7 +1433,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 86</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1493,9 +1494,9 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       <td>
         <ul>
             <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 5</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 28</li>
             <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 33</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 67</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 73</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -1515,7 +1516,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 72</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1538,10 +1539,10 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 36</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 53</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 8</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 48</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 64</li>
             <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 68</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1563,10 +1564,11 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 35</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 64</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 90</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 97</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 4</li>
+            <li> <a href="{{ "/tags/metal" | relative_url }}">metal</a> # 4</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 11</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 37</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1587,8 +1589,8 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 6</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 34</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 67</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1607,7 +1609,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 10</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1627,7 +1629,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       <td>
         <ul>
             <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 19</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 76</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1647,7 +1649,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 97</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1688,8 +1690,8 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 68</li>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 100</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 1</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1727,8 +1729,8 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 7</li>
             <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 80</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1763,7 +1765,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 37</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 57</li>
             <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 81</li>
         </ul>
       </td>
@@ -1785,11 +1787,11 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 4</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 5</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 8</li>
             <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 11</li>
             <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 43</li>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 93</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 96</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1809,7 +1811,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 51</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1829,7 +1831,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 25</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -1873,10 +1875,10 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 23</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 41</li>
             <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 41</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 60</li>
             <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 78</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1932,9 +1934,9 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 2</li>
             <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 7</li>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 64</li>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 99</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1977,7 +1979,7 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       <td>
         <ul>
             <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 5</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 91</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1997,8 +1999,8 @@ Alternative metal blends heavy metal&#39;s aggression with influences from grung
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 15</li>
             <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 66</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 86</li>
         </ul>
       </td>
     </tr>

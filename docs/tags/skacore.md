@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T09:12:30.530Z
+date: 2025-12-05T15:43:37.675Z
 permalink: tags/skacore
 title: skacore
 ---
 
 ## skacore
 
-Last updated: <time datetime="2025-12-03T09:12:30.530Z">Wed Dec 03 2025 11:12:30 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T15:43:37.675Z">Fri Dec 05 2025 17:43:37 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -84,7 +84,8 @@ Skacore fuses the upbeat offbeat rhythms and horn sections of ska with the aggre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 71</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 30</li>
+            <li> <a href="{{ "/tags/punk-revival" | relative_url }}">punk revival</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -122,7 +123,7 @@ Skacore fuses the upbeat offbeat rhythms and horn sections of ska with the aggre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 5</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -142,7 +143,7 @@ Skacore fuses the upbeat offbeat rhythms and horn sections of ska with the aggre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 59</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -181,7 +182,7 @@ Skacore fuses the upbeat offbeat rhythms and horn sections of ska with the aggre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 33</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -201,7 +202,7 @@ Skacore fuses the upbeat offbeat rhythms and horn sections of ska with the aggre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 41</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -220,7 +221,7 @@ Skacore fuses the upbeat offbeat rhythms and horn sections of ska with the aggre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 82</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -240,8 +241,8 @@ Skacore fuses the upbeat offbeat rhythms and horn sections of ska with the aggre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 89</li>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 97</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 4</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -314,8 +315,8 @@ Skacore fuses the upbeat offbeat rhythms and horn sections of ska with the aggre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 73</li>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 75</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 25</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -365,7 +366,7 @@ Skacore fuses the upbeat offbeat rhythms and horn sections of ska with the aggre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 29</li>
+            <li> <a href="{{ "/tags/frenchcore" | relative_url }}">frenchcore</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -524,8 +525,8 @@ Skacore fuses the upbeat offbeat rhythms and horn sections of ska with the aggre
       <td>
         <ul>
             <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 7</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 10</li>
             <li> <a href="{{ "/tags/hardcore-punk" | relative_url }}">hardcore punk</a> # 18</li>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -644,7 +645,7 @@ Skacore fuses the upbeat offbeat rhythms and horn sections of ska with the aggre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 19</li>
+            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -681,7 +682,7 @@ Skacore fuses the upbeat offbeat rhythms and horn sections of ska with the aggre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 79</li>
+            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 22</li>
         </ul>
       </td>
     </tr>
@@ -767,8 +768,8 @@ Skacore fuses the upbeat offbeat rhythms and horn sections of ska with the aggre
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 26</li>
             <li> <a href="{{ "/tags/anarcho-punk" | relative_url }}">anarcho-punk</a> # 63</li>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -817,7 +818,7 @@ Skacore fuses the upbeat offbeat rhythms and horn sections of ska with the aggre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boston" | relative_url }}">boston</a> # 48</li>
+            <li> <a href="{{ "/tags/boston" | relative_url }}">boston</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -914,7 +915,7 @@ Skacore fuses the upbeat offbeat rhythms and horn sections of ska with the aggre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 47</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -934,7 +935,7 @@ Skacore fuses the upbeat offbeat rhythms and horn sections of ska with the aggre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 54</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -956,7 +957,7 @@ Skacore fuses the upbeat offbeat rhythms and horn sections of ska with the aggre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/catalan" | relative_url }}">catalan</a> # 63</li>
+            <li> <a href="{{ "/tags/catalan" | relative_url }}">catalan</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1038,8 +1039,8 @@ Skacore fuses the upbeat offbeat rhythms and horn sections of ska with the aggre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rocksteady" | relative_url }}">rocksteady</a> # 40</li>
-            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 67</li>
+            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 33</li>
+            <li> <a href="{{ "/tags/rocksteady" | relative_url }}">rocksteady</a> # 61</li>
             <li> <a href="{{ "/tags/jamaica" | relative_url }}">jamaica</a> # 81</li>
         </ul>
       </td>
@@ -1080,7 +1081,7 @@ Skacore fuses the upbeat offbeat rhythms and horn sections of ska with the aggre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 64</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1332,7 +1333,7 @@ Skacore fuses the upbeat offbeat rhythms and horn sections of ska with the aggre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 41</li>
+            <li> <a href="{{ "/tags/jazzcore" | relative_url }}">jazzcore</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1436,7 +1437,7 @@ Skacore fuses the upbeat offbeat rhythms and horn sections of ska with the aggre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 47</li>
+            <li> <a href="{{ "/tags/polska" | relative_url }}">polska</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1839,7 +1840,7 @@ Skacore fuses the upbeat offbeat rhythms and horn sections of ska with the aggre
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 3</li>
+            <li> <a href="{{ "/tags/easycore" | relative_url }}">easycore</a> # 98</li>
         </ul>
       </td>
     </tr>

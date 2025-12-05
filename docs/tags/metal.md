@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-12-03T09:26:22.248Z
+date: 2025-12-05T16:00:48.740Z
 permalink: tags/metal
 title: metal
 ---
 
 ## metal
 
-Last updated: <time datetime="2025-12-03T09:26:22.248Z">Wed Dec 03 2025 11:26:22 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T16:00:48.740Z">Fri Dec 05 2025 18:00:48 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -45,7 +45,7 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 59</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -64,8 +64,8 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 43</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 68</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 33</li>
+            <li> <a href="{{ "/tags/speed-metal" | relative_url }}">speed metal</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -85,7 +85,7 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 97</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -103,7 +103,7 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 78</li>
+            <li> <a href="{{ "/tags/glam-rock" | relative_url }}">glam rock</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -181,9 +181,9 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 15</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 98</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 100</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 1</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 3</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -201,8 +201,8 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 52</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 98</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 3</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -242,8 +242,8 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 84</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 99</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 2</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -261,9 +261,9 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-hard-rock" | relative_url }}">melodic hard rock</a> # 68</li>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 69</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 78</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 23</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 32</li>
+            <li> <a href="{{ "/tags/melodic-hard-rock" | relative_url }}">melodic hard rock</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -283,8 +283,8 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 6</li>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 26</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -304,9 +304,9 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 39</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 71</li>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 96</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 5</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 30</li>
+            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -326,7 +326,7 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       <td>
         <ul>
             <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 3</li>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 42</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -364,8 +364,8 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 3</li>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 82</li>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 92</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 9</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -385,8 +385,8 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 31</li>
-            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 35</li>
+            <li> <a href="{{ "/tags/power-metal" | relative_url }}">power metal</a> # 67</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -424,7 +424,7 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 1</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 73</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -443,7 +443,7 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 81</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -461,7 +461,7 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 77</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -481,7 +481,7 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 8</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 84</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -501,7 +501,7 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 1</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -522,8 +522,7 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 97</li>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 100</li>
+            <li> <a href="{{ "/tags/deutschland" | relative_url }}">deutschland</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -579,8 +578,8 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       <td>
         <ul>
             <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 1</li>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 94</li>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 99</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 2</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -600,7 +599,7 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 83</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -619,7 +618,7 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 5</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 76</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -637,7 +636,7 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 62</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -676,8 +675,8 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 6</li>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 24</li>
-            <li> <a href="{{ "/tags/hard-rock" | relative_url }}">hard rock</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -732,7 +731,7 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 100</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -753,9 +752,9 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 55</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 55</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 93</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 8</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 46</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -773,8 +772,8 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 1</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 77</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 24</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -834,7 +833,7 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 49</li>
+            <li> <a href="{{ "/tags/visual-kei" | relative_url }}">visual kei</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -855,7 +854,7 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 4</li>
-            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 7</li>
+            <li> <a href="{{ "/tags/alternative-rock" | relative_url }}">alternative rock</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -877,7 +876,7 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       <td>
         <ul>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 35</li>
-            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 53</li>
+            <li> <a href="{{ "/tags/blackgaze" | relative_url }}">blackgaze</a> # 48</li>
             <li> <a href="{{ "/tags/shoegaze" | relative_url }}">shoegaze</a> # 75</li>
         </ul>
       </td>
@@ -898,7 +897,7 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       <td>
         <ul>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 7</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 8</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -917,7 +916,7 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 99</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -939,9 +938,9 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 29</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 34</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 59</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 42</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -1000,7 +999,7 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       <td>
         <ul>
             <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 2</li>
-            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 62</li>
+            <li> <a href="{{ "/tags/progressive-rock" | relative_url }}">progressive rock</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1021,9 +1020,9 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 7</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 50</li>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 51</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 85</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1064,8 +1063,8 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 85</li>
-            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 99</li>
+            <li> <a href="{{ "/tags/finnish" | relative_url }}">finnish</a> # 2</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1087,8 +1086,8 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 52</li>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 78</li>
+            <li> <a href="{{ "/tags/german" | relative_url }}">german</a> # 49</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -1108,11 +1107,11 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 2</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 1</li>
+            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 4</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 11</li>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 69</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 90</li>
-            <li> <a href="{{ "/tags/funk-metal" | relative_url }}">funk metal</a> # 97</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 100</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1136,10 +1135,10 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 4</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 5</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 6</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 13</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 95</li>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 96</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1162,9 +1161,9 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 3</li>
             <li> <a href="{{ "/tags/folk-metal" | relative_url }}">folk metal</a> # 35</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 37</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 98</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1182,7 +1181,7 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 21</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1218,8 +1217,8 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 9</li>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 44</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1238,10 +1237,10 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 55</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 76</li>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 78</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 95</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 6</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 23</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 25</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1304,11 +1303,11 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 1</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 1</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 74</li>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 80</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 99</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 100</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 2</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 21</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1332,9 +1331,9 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       <td>
         <ul>
             <li> <a href="{{ "/tags/female-fronted-metal" | relative_url }}">female fronted metal</a> # 3</li>
-            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 35</li>
-            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 91</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 98</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 3</li>
+            <li> <a href="{{ "/tags/symphonic-metal" | relative_url }}">symphonic metal</a> # 10</li>
+            <li> <a href="{{ "/tags/female-vocalists" | relative_url }}">female vocalists</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1389,7 +1388,7 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 56</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1410,8 +1409,8 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 7</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 64</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 38</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1436,11 +1435,11 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 3</li>
+            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 3</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 5</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 9</li>
-            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 91</li>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 96</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 98</li>
-            <li> <a href="{{ "/tags/christian-rock" | relative_url }}">christian rock</a> # 98</li>
+            <li> <a href="{{ "/tags/english" | relative_url }}">english</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1479,22 +1478,22 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       <td>
         <ul>
             <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 1</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 8</li>
             <li> <a href="{{ "/tags/japanoise" | relative_url }}">japanoise</a> # 9</li>
-            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 16</li>
-            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 16</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 17</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 15</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 20</li>
+            <li> <a href="{{ "/tags/unblack-metal" | relative_url }}">unblack metal</a> # 22</li>
             <li> <a href="{{ "/tags/true-metal" | relative_url }}">true metal</a> # 27</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 32</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 46</li>
-            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 50</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 52</li>
-            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 64</li>
+            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 30</li>
+            <li> <a href="{{ "/tags/true-black-metal" | relative_url }}">true black metal</a> # 37</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 49</li>
+            <li> <a href="{{ "/tags/j-metal" | relative_url }}">j-metal</a> # 51</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 54</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 69</li>
-            <li> <a href="{{ "/tags/orthodox-black-metal" | relative_url }}">orthodox black metal</a> # 71</li>
-            <li> <a href="{{ "/tags/unblack-metal" | relative_url }}">unblack metal</a> # 79</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 81</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 86</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 69</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 84</li>
+            <li> <a href="{{ "/tags/skramz" | relative_url }}">skramz</a> # 85</li>
+            <li> <a href="{{ "/tags/j-rock" | relative_url }}">j-rock</a> # 85</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1534,9 +1533,9 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       <td>
         <ul>
             <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 2</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 12</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 73</li>
-            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 97</li>
+            <li> <a href="{{ "/tags/idol" | relative_url }}">idol</a> # 4</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 28</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1556,7 +1555,7 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 69</li>
+            <li> <a href="{{ "/tags/electronic" | relative_url }}">electronic</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -1575,9 +1574,9 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 20</li>
+            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 24</li>
             <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 42</li>
-            <li> <a href="{{ "/tags/rap" | relative_url }}">rap</a> # 77</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1602,12 +1601,12 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 1</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 2</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 4</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 16</li>
             <li> <a href="{{ "/tags/post-hardcore" | relative_url }}">post-hardcore</a> # 27</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 71</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 85</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 98</li>
-            <li> <a href="{{ "/tags/emocore" | relative_url }}">emocore</a> # 100</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1628,8 +1627,8 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 87</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 95</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 6</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1654,8 +1653,8 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 89</li>
-            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 93</li>
+            <li> <a href="{{ "/tags/rap-metal" | relative_url }}">rap metal</a> # 8</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1677,10 +1676,11 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 4</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 11</li>
             <li> <a href="{{ "/tags/alternative-metal" | relative_url }}">alternative metal</a> # 13</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 64</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 90</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 97</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 37</li>
+            <li> <a href="{{ "/tags/rock" | relative_url }}">rock</a> # 40</li>
         </ul>
       </td>
     </tr>
@@ -1701,7 +1701,7 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 11</li>
+            <li> <a href="{{ "/tags/trap" | relative_url }}">trap</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1723,7 +1723,7 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       <td>
         <ul>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 2</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 96</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1742,7 +1742,7 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 42</li>
+            <li> <a href="{{ "/tags/industrial" | relative_url }}">industrial</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1824,70 +1824,70 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 2</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 2</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 2</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 2</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 2</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 2</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 3</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 2</li>
+            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 2</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 2</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 2</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 2</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 2</li>
+            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 2</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 2</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 2</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 2</li>
             <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 3</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 3</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 3</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 3</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 3</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 3</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 3</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 3</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 3</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 3</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 3</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 4</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 4</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 4</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 4</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 5</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 5</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 5</li>
             <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 5</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 5</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 5</li>
-            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 7</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 6</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 7</li>
+            <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 7</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 7</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 7</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 8</li>
+            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 9</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 9</li>
             <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 11</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 11</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 11</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 13</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 14</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 16</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 21</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 17</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 20</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 20</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 20</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 22</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 22</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 26</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 36</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 45</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 47</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 47</li>
             <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 48</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 54</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 66</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 79</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 79</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 81</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 81</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 81</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 83</li>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 87</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 88</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 90</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 90</li>
-            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 92</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 94</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 94</li>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 95</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 95</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 96</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 96</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 96</li>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 96</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 97</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 98</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 98</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 98</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 98</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 98</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 98</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 98</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 99</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 99</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 99</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 99</li>
-            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 99</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 99</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 54</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 80</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 85</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 99</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 99</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 99</li>
-            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1908,7 +1908,7 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       <td>
         <ul>
             <li> <a href="{{ "/tags/kawaii-metal" | relative_url }}">kawaii metal</a> # 3</li>
-            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 70</li>
+            <li> <a href="{{ "/tags/j-pop" | relative_url }}">j-pop</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -1927,9 +1927,9 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 11</li>
-            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 84</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 89</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 12</li>
+            <li> <a href="{{ "/tags/pop-metal" | relative_url }}">pop metal</a> # 17</li>
+            <li> <a href="{{ "/tags/electro-industrial" | relative_url }}">electro-industrial</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1950,7 +1950,7 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 92</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -1973,10 +1973,10 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 4</li>
+            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 6</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 9</li>
-            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 49</li>
-            <li> <a href="{{ "/tags/trap-metal" | relative_url }}">trap metal</a> # 95</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 96</li>
+            <li> <a href="{{ "/tags/punk-rock" | relative_url }}">punk rock</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -2003,11 +2003,11 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 2</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 9</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 34</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 60</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 65</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 92</li>
-            <li> <a href="{{ "/tags/christian-metalcore" | relative_url }}">christian metalcore</a> # 99</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 35</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -2027,7 +2027,7 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 55</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -2066,7 +2066,7 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 94</li>
+            <li> <a href="{{ "/tags/melodic-metalcore" | relative_url }}">melodic metalcore</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -2089,8 +2089,8 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       <td>
         <ul>
             <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 2</li>
-            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 69</li>
-            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 74</li>
+            <li> <a href="{{ "/tags/japan" | relative_url }}">japan</a> # 27</li>
+            <li> <a href="{{ "/tags/japanese" | relative_url }}">japanese</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -2172,68 +2172,68 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 3</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 3</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 3</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 3</li>
+            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 3</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 3</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 4</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 3</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 3</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 3</li>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 3</li>
+            <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 3</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 3</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 3</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 4</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 4</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 4</li>
             <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 4</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 4</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 4</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 4</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 4</li>
+            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 4</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 5</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 5</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 5</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 5</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 5</li>
-            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 6</li>
             <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 6</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 6</li>
+            <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 6</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 6</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 7</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 7</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 7</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 7</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 8</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 8</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 10</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 11</li>
-            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 12</li>
+            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 10</li>
             <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 12</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 16</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 12</li>
+            <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 12</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 13</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 13</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 17</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 18</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 19</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 30</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 44</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 49</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 58</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 71</li>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 72</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 73</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 73</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 19</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 21</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 24</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 28</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 28</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 30</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 43</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 51</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 57</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 72</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 74</li>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 80</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 82</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 84</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 85</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 87</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 87</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 88</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 90</li>
-            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 91</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 89</li>
             <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 92</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 92</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 93</li>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 93</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 94</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 94</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 94</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 95</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 95</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 96</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 96</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 96</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 96</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 97</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 97</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 97</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 97</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 97</li>
-            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 97</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 97</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 98</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 98</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 98</li>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 98</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 98</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -2251,7 +2251,7 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 38</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -2276,11 +2276,11 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 1</li>
-            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 14</li>
+            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 21</li>
             <li> <a href="{{ "/tags/screamo" | relative_url }}">screamo</a> # 27</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 72</li>
-            <li> <a href="{{ "/tags/hardcore" | relative_url }}">hardcore</a> # 79</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 29</li>
+            <li> <a href="{{ "/tags/emo" | relative_url }}">emo</a> # 83</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -2298,8 +2298,8 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 47</li>
-            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 63</li>
+            <li> <a href="{{ "/tags/experimental-rock" | relative_url }}">experimental rock</a> # 38</li>
+            <li> <a href="{{ "/tags/american" | relative_url }}">american</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -2383,72 +2383,72 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 1</li>
+            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 1</li>
+            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 1</li>
+            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 1</li>
+            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 1</li>
+            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 1</li>
             <li> <a href="{{ "/tags/neoclassical-darkwave" | relative_url }}">neoclassical darkwave</a> # 1</li>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 1</li>
+            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 1</li>
+            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 1</li>
             <li> <a href="{{ "/tags/black-death-metal" | relative_url }}">black death metal</a> # 1</li>
+            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 1</li>
             <li> <a href="{{ "/tags/nerdcore" | relative_url }}">nerdcore</a> # 1</li>
-            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 1</li>
+            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 1</li>
             <li> <a href="{{ "/tags/atmospheric-black-metal" | relative_url }}">atmospheric black metal</a> # 1</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 1</li>
+            <li> <a href="{{ "/tags/melodic-black-metal" | relative_url }}">melodic black metal</a> # 1</li>
+            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 1</li>
+            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 1</li>
+            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 1</li>
+            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 1</li>
+            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 1</li>
+            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 1</li>
+            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 2</li>
+            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 2</li>
+            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 2</li>
+            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 2</li>
+            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 2</li>
+            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 2</li>
+            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 2</li>
             <li> <a href="{{ "/tags/skinhead" | relative_url }}">skinhead</a> # 3</li>
+            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 3</li>
             <li> <a href="{{ "/tags/blackened-death-metal" | relative_url }}">blackened death metal</a> # 3</li>
+            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 3</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 3</li>
+            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 3</li>
             <li> <a href="{{ "/tags/nightcore" | relative_url }}">nightcore</a> # 4</li>
+            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 4</li>
+            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 4</li>
             <li> <a href="{{ "/tags/deathgrind" | relative_url }}">deathgrind</a> # 4</li>
+            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 4</li>
+            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 4</li>
+            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 4</li>
+            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 5</li>
+            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 5</li>
             <li> <a href="{{ "/tags/symphonic-black-metal" | relative_url }}">symphonic black metal</a> # 5</li>
+            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 6</li>
+            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 6</li>
             <li> <a href="{{ "/tags/phonk" | relative_url }}">phonk</a> # 6</li>
+            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 7</li>
+            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 7</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 9</li>
             <li> <a href="{{ "/tags/brutal-death-metal" | relative_url }}">brutal death metal</a> # 11</li>
+            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 12</li>
+            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 12</li>
+            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 13</li>
+            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 16</li>
             <li> <a href="{{ "/tags/death-metal" | relative_url }}">death metal</a> # 16</li>
+            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 21</li>
+            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 22</li>
             <li> <a href="{{ "/tags/black-metal" | relative_url }}">black metal</a> # 25</li>
+            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 30</li>
             <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 31</li>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 49</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 60</li>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 62</li>
-            <li> <a href="{{ "/tags/thrash-metal" | relative_url }}">thrash metal</a> # 71</li>
-            <li> <a href="{{ "/tags/melodic-death-metal" | relative_url }}">melodic death metal</a> # 80</li>
-            <li> <a href="{{ "/tags/nsbm" | relative_url }}">nsbm</a> # 80</li>
-            <li> <a href="{{ "/tags/plugg" | relative_url }}">plugg</a> # 85</li>
-            <li> <a href="{{ "/tags/deathcore" | relative_url }}">deathcore</a> # 88</li>
-            <li> <a href="{{ "/tags/goregrind" | relative_url }}">goregrind</a> # 89</li>
-            <li> <a href="{{ "/tags/groove-metal" | relative_url }}">groove metal</a> # 89</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 92</li>
-            <li> <a href="{{ "/tags/post-metal" | relative_url }}">post-metal</a> # 93</li>
-            <li> <a href="{{ "/tags/country-pop" | relative_url }}">country pop</a> # 93</li>
-            <li> <a href="{{ "/tags/gothic-metal" | relative_url }}">gothic metal</a> # 94</li>
-            <li> <a href="{{ "/tags/old-school-death-metal" | relative_url }}">old school death metal</a> # 94</li>
-            <li> <a href="{{ "/tags/gorenoise" | relative_url }}">gorenoise</a> # 95</li>
-            <li> <a href="{{ "/tags/doom-metal" | relative_url }}">doom metal</a> # 95</li>
-            <li> <a href="{{ "/tags/post-grunge" | relative_url }}">post-grunge</a> # 96</li>
-            <li> <a href="{{ "/tags/brutal-deathcore" | relative_url }}">brutal deathcore</a> # 97</li>
-            <li> <a href="{{ "/tags/harsh-noise" | relative_url }}">harsh noise</a> # 97</li>
-            <li> <a href="{{ "/tags/true-norwegian-black-metal" | relative_url }}">true norwegian black metal</a> # 97</li>
-            <li> <a href="{{ "/tags/grindcore" | relative_url }}">grindcore</a> # 97</li>
-            <li> <a href="{{ "/tags/war-metal" | relative_url }}">war metal</a> # 98</li>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 98</li>
-            <li> <a href="{{ "/tags/viking-metal" | relative_url }}">viking metal</a> # 98</li>
-            <li> <a href="{{ "/tags/harsh-noise-wall" | relative_url }}">harsh noise wall</a> # 98</li>
-            <li> <a href="{{ "/tags/raw-black-metal" | relative_url }}">raw black metal</a> # 98</li>
-            <li> <a href="{{ "/tags/pagan-black-metal" | relative_url }}">pagan black metal</a> # 99</li>
-            <li> <a href="{{ "/tags/drone-metal" | relative_url }}">drone metal</a> # 99</li>
-            <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 99</li>
-            <li> <a href="{{ "/tags/nwobhm" | relative_url }}">nwobhm</a> # 99</li>
-            <li> <a href="{{ "/tags/cybergrind" | relative_url }}">cybergrind</a> # 99</li>
-            <li> <a href="{{ "/tags/power-electronics" | relative_url }}">power electronics</a> # 99</li>
-            <li> <a href="{{ "/tags/hatecore" | relative_url }}">hatecore</a> # 99</li>
-            <li> <a href="{{ "/tags/slamming-brutal-death-metal" | relative_url }}">slamming brutal death metal</a> # 100</li>
-            <li> <a href="{{ "/tags/finnish-black-metal" | relative_url }}">finnish black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/suicidal-black-metal" | relative_url }}">suicidal black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/funeral-doom-metal" | relative_url }}">funeral doom metal</a> # 100</li>
-            <li> <a href="{{ "/tags/swedish-death-metal" | relative_url }}">swedish death metal</a> # 100</li>
-            <li> <a href="{{ "/tags/depressive-black-metal" | relative_url }}">depressive black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/pagan-metal" | relative_url }}">pagan metal</a> # 100</li>
-            <li> <a href="{{ "/tags/russian-black-metal" | relative_url }}">russian black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/depressive-suicidal-black-metal" | relative_url }}">depressive suicidal black metal</a> # 100</li>
-            <li> <a href="{{ "/tags/death-doom-metal" | relative_url }}">death doom metal</a> # 100</li>
-            <li> <a href="{{ "/tags/usbm" | relative_url }}">usbm</a> # 100</li>
-            <li> <a href="{{ "/tags/blackened-crust" | relative_url }}">blackened crust</a> # 100</li>
-            <li> <a href="{{ "/tags/norwegian-black-metal" | relative_url }}">norwegian black metal</a> # 100</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 39</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 41</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 52</li>
             <li> <a href="{{ "/tags/death-n-roll" | relative_url }}">death n roll</a> # 100</li>
-            <li> <a href="{{ "/tags/avant-garde-metal" | relative_url }}">avant-garde metal</a> # 100</li>
-            <li> <a href="{{ "/tags/porngrind" | relative_url }}">porngrind</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2490,7 +2490,7 @@ Metal is a high-energy rock genre characterized by distorted electric guitars, a
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 100</li>
+            <li> <a href="{{ "/tags/heavy-metal" | relative_url }}">heavy metal</a> # 1</li>
         </ul>
       </td>
     </tr>
