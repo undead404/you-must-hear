@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T10:24:46.663Z
+date: 2025-12-04T20:15:15.888Z
 permalink: tags/american-classical
 title: american classical
 ---
 
 ## american classical
 
-Last updated: <time datetime="2025-10-22T10:24:46.663Z">Wed Oct 22 2025 13:24:46 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T20:15:15.888Z">Thu Dec 04 2025 22:15:15 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -42,7 +42,7 @@ American classical encompasses concert music composed in the United States from 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a> # 43</li>
+            <li> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -117,7 +117,7 @@ American classical encompasses concert music composed in the United States from 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/string-quartet" | relative_url }}">string quartet</a> # 65</li>
+            <li> <a href="{{ "/tags/string-quartet" | relative_url }}">string quartet</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -412,7 +412,7 @@ American classical encompasses concert music composed in the United States from 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a> # 76</li>
+            <li> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -448,7 +448,7 @@ American classical encompasses concert music composed in the United States from 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 34</li>
+            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -546,7 +546,7 @@ American classical encompasses concert music composed in the United States from 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 18</li>
+            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1081,7 +1081,7 @@ American classical encompasses concert music composed in the United States from 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a> # 47</li>
+            <li> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1537,7 +1537,7 @@ American classical encompasses concert music composed in the United States from 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a> # 90</li>
+            <li> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1575,7 +1575,7 @@ American classical encompasses concert music composed in the United States from 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 71</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1592,7 +1592,7 @@ American classical encompasses concert music composed in the United States from 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a> # 82</li>
+            <li> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1648,7 +1648,7 @@ American classical encompasses concert music composed in the United States from 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 58</li>
+            <li> <a href="{{ "/tags/viola" | relative_url }}">viola</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1665,8 +1665,8 @@ American classical encompasses concert music composed in the United States from 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a> # 23</li>
-            <li> <a href="{{ "/tags/ballet" | relative_url }}">ballet</a> # 52</li>
+            <li> <a href="{{ "/tags/ballet" | relative_url }}">ballet</a> # 49</li>
+            <li> <a href="{{ "/tags/trombone" | relative_url }}">trombone</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1683,7 +1683,7 @@ American classical encompasses concert music composed in the United States from 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ballet" | relative_url }}">ballet</a> # 60</li>
+            <li> <a href="{{ "/tags/ballet" | relative_url }}">ballet</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -1700,7 +1700,7 @@ American classical encompasses concert music composed in the United States from 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a> # 58</li>
+            <li> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1717,7 +1717,7 @@ American classical encompasses concert music composed in the United States from 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a> # 91</li>
+            <li> <a href="{{ "/tags/late-romantic" | relative_url }}">late romantic</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1813,6 +1813,7 @@ American classical encompasses concert music composed in the United States from 
     <tr>
       <td>68</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cb619a36b7764597c546cfc46e88d47e.png" alt="Cover for PISTON: The Incredible Flutist &#x2F; Fantasy for English Horn, Harph and Strings" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Walter Piston</td>

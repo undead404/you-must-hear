@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T00:23:37.965Z
+date: 2025-12-04T20:15:46.343Z
 permalink: tags/atlanta
 title: atlanta
 ---
 
 ## atlanta
 
-Last updated: <time datetime="2025-11-24T00:23:37.965Z">Mon Nov 24 2025 02:23:37 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T20:15:46.343Z">Thu Dec 04 2025 22:15:46 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -173,8 +173,8 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 16</li>
-            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 70</li>
+            <li> <a href="{{ "/tags/memphis-rap" | relative_url }}">memphis rap</a> # 30</li>
+            <li> <a href="{{ "/tags/southern-hip-hop" | relative_url }}">southern hip hop</a> # 84</li>
             <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 85</li>
         </ul>
       </td>
@@ -230,12 +230,12 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 23</li>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 36</li>
-            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 63</li>
-            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 71</li>
-            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 71</li>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 75</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 26</li>
+            <li> <a href="{{ "/tags/ambient-rock" | relative_url }}">ambient rock</a> # 30</li>
+            <li> <a href="{{ "/tags/experimental-folk" | relative_url }}">experimental folk</a> # 30</li>
+            <li> <a href="{{ "/tags/one-man-band" | relative_url }}">one man band</a> # 38</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 65</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -289,9 +289,9 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 25</li>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 32</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 39</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 62</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 69</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -346,10 +346,10 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 1</li>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 55</li>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 58</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 66</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 35</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 41</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 44</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -404,9 +404,9 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 48</li>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 51</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 59</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 42</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 48</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -465,7 +465,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/late-90s-country" | relative_url }}">late 90s country</a> # 55</li>
+            <li> <a href="{{ "/tags/late-90s-country" | relative_url }}">late 90s country</a> # 46</li>
         </ul>
       </td>
     </tr>
@@ -540,12 +540,12 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 43</li>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 78</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 80</li>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 81</li>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 81</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 92</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 8</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 18</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 19</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 21</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 23</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 59</li>
         </ul>
       </td>
     </tr>
@@ -621,8 +621,8 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 63</li>
-            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 80</li>
+            <li> <a href="{{ "/tags/southern-rap" | relative_url }}">southern rap</a> # 21</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -642,8 +642,8 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 11</li>
-            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 51</li>
+            <li> <a href="{{ "/tags/hip-hop" | relative_url }}">hip-hop</a> # 49</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -911,8 +911,8 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 18</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 30</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 71</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -971,7 +971,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 87</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -1019,7 +1019,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 78</li>
+            <li> <a href="{{ "/tags/one-man-project" | relative_url }}">one man project</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1085,8 +1085,8 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 35</li>
-            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 65</li>
+            <li> <a href="{{ "/tags/experimental-indie" | relative_url }}">experimental indie</a> # 36</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1151,9 +1151,9 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 63</li>
-            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 70</li>
-            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 83</li>
+            <li> <a href="{{ "/tags/avant-rock" | relative_url }}">avant-rock</a> # 18</li>
+            <li> <a href="{{ "/tags/american-underground" | relative_url }}">american underground</a> # 31</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -1391,7 +1391,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 54</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -1557,7 +1557,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 80</li>
+            <li> <a href="{{ "/tags/gangsta-rap" | relative_url }}">gangsta rap</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1734,9 +1734,9 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 28</li>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 34</li>
-            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 43</li>
+            <li> <a href="{{ "/tags/drill-n-bass" | relative_url }}">drill n bass</a> # 58</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 67</li>
+            <li> <a href="{{ "/tags/drill-and-bass" | relative_url }}">drill and bass</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1903,7 +1903,7 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 12</li>
+            <li> <a href="{{ "/tags/animals" | relative_url }}">animals</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1923,8 +1923,8 @@ Atlanta hip-hop emerged from Georgia&#39;s capital as a distinctive Southern rap
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 24</li>
-            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 40</li>
+            <li> <a href="{{ "/tags/crunk" | relative_url }}">crunk</a> # 61</li>
+            <li> <a href="{{ "/tags/dirty-south" | relative_url }}">dirty south</a> # 77</li>
         </ul>
       </td>
     </tr>

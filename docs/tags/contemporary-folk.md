@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-22T18:19:02.772Z
+date: 2025-12-04T19:43:39.922Z
 permalink: tags/contemporary-folk
 title: contemporary folk
 ---
 
 ## contemporary folk
 
-Last updated: <time datetime="2025-11-22T18:19:02.772Z">Sat Nov 22 2025 20:19:02 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T19:43:39.922Z">Thu Dec 04 2025 21:43:39 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -122,7 +122,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 22</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -146,9 +146,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 5</li>
+            <li> <a href="{{ "/tags/late-90s-country" | relative_url }}">late 90s country</a> # 1</li>
+            <li> <a href="{{ "/tags/contemporary-country" | relative_url }}">contemporary country</a> # 3</li>
             <li> <a href="{{ "/tags/bluegrass" | relative_url }}">bluegrass</a> # 91</li>
-            <li> <a href="{{ "/tags/late-90s-country" | relative_url }}">late 90s country</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -188,7 +188,8 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 73</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 23</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -247,8 +248,8 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 8</li>
             <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 79</li>
-            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -310,8 +311,8 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 6</li>
             <li> <a href="{{ "/tags/progressive-folk" | relative_url }}">progressive folk</a> # 86</li>
-            <li> <a href="{{ "/tags/symphonic-prog" | relative_url }}">symphonic prog</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -329,8 +330,8 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 5</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 96</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 5</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -367,7 +368,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 54</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -386,7 +387,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 58</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -425,9 +426,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 44</li>
-            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 65</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 82</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 16</li>
+            <li> <a href="{{ "/tags/lo-fi-indie" | relative_url }}">lo-fi indie</a> # 36</li>
+            <li> <a href="{{ "/tags/sadcore" | relative_url }}">sadcore</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -533,15 +534,15 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 32</li>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 35</li>
-            <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 40</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 50</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 58</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 69</li>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 69</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 76</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 79</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 22</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 25</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 32</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 32</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 43</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 44</li>
+            <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 60</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 66</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -604,18 +605,18 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 32</li>
-            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 50</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 57</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 57</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 57</li>
-            <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 57</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 73</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 77</li>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 79</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 82</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 84</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 93</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 6</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 17</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 19</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 22</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 24</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 28</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 38</li>
+            <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 42</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 43</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 44</li>
+            <li> <a href="{{ "/tags/remixes" | relative_url }}">remixes</a> # 51</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -655,9 +656,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 56</li>
-            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 64</li>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 76</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 25</li>
+            <li> <a href="{{ "/tags/glitch-pop" | relative_url }}">glitch pop</a> # 31</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -682,6 +683,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
     <tr>
       <td>3</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5186c079b882462c8532591bae91231a.png" alt="Cover for Saint Marie EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Piano Magic</td>
@@ -719,8 +721,8 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 32</li>
             <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 49</li>
-            <li> <a href="{{ "/tags/slacker-rock" | relative_url }}">slacker rock</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -777,7 +779,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 95</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -801,7 +803,8 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 99</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 2</li>
+            <li> <a href="{{ "/tags/blues" | relative_url }}">blues</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -878,10 +881,10 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 25</li>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 38</li>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 39</li>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 43</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 57</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 62</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 63</li>
+            <li> <a href="{{ "/tags/dark-folk" | relative_url }}">dark folk</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -931,18 +934,18 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 5</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 37</li>
-            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 37</li>
-            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 52</li>
-            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 55</li>
-            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 71</li>
-            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 71</li>
-            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 77</li>
-            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 80</li>
-            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 81</li>
-            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 88</li>
-            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 91</li>
+            <li> <a href="{{ "/tags/minnesota" | relative_url }}">minnesota</a> # 9</li>
+            <li> <a href="{{ "/tags/harmonica" | relative_url }}">harmonica</a> # 13</li>
+            <li> <a href="{{ "/tags/diy" | relative_url }}">diy</a> # 20</li>
+            <li> <a href="{{ "/tags/improvisation" | relative_url }}">improvisation</a> # 21</li>
+            <li> <a href="{{ "/tags/nouvelle-scene-francaise" | relative_url }}">nouvelle scene francaise</a> # 24</li>
+            <li> <a href="{{ "/tags/ndw" | relative_url }}">ndw</a> # 30</li>
+            <li> <a href="{{ "/tags/speedcore" | relative_url }}">speedcore</a> # 30</li>
+            <li> <a href="{{ "/tags/chaotic-hardcore" | relative_url }}">chaotic hardcore</a> # 42</li>
+            <li> <a href="{{ "/tags/japanese-rock" | relative_url }}">japanese rock</a> # 46</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 63</li>
+            <li> <a href="{{ "/tags/mashup" | relative_url }}">mashup</a> # 64</li>
+            <li> <a href="{{ "/tags/schlager" | relative_url }}">schlager</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -962,7 +965,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 52</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -1043,7 +1046,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 29</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1064,7 +1067,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 86</li>
+            <li> <a href="{{ "/tags/dark-cabaret" | relative_url }}">dark cabaret</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1102,8 +1105,8 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 32</li>
-            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 65</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 61</li>
+            <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1117,19 +1120,12 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       <td>Ambivalence Avenue</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/idm" | relative_url }}">idm</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/folk" | relative_url }}">folk</a></li>
-            <li style="font-size: calc(1rem * 56.00000000000001 / 100)"> <a href="{{ "/tags/post-rock" | relative_url }}">post-rock</a></li>
         </ul>
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 72</li>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 89</li>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 89</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 91</li>
+            <li> <a href="{{ "/tags/folktronica" | relative_url }}">folktronica</a> # 28</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1173,7 +1169,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 93</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -1197,9 +1193,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 22</li>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 97</li>
-            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 100</li>
+            <li> <a href="{{ "/tags/acoustic-blues" | relative_url }}">acoustic blues</a> # 1</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 4</li>
+            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1226,6 +1222,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
     <tr>
       <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/431e80a16d8c4e8db59e046a1a50f05d.png" alt="Cover for Home Recordings" style="max-width:120px; height:auto;" />
       </td>
       <td>2010-05-06</td>
       <td>Piano Magic</td>
@@ -1276,7 +1273,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 49</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1300,11 +1297,11 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 16</li>
-            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 75</li>
-            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 96</li>
-            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 100</li>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 100</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 1</li>
+            <li> <a href="{{ "/tags/country-blues" | relative_url }}">country blues</a> # 1</li>
+            <li> <a href="{{ "/tags/christian" | relative_url }}">christian</a> # 5</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 20</li>
+            <li> <a href="{{ "/tags/ballad" | relative_url }}">ballad</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1399,7 +1396,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 72</li>
+            <li> <a href="{{ "/tags/gothic-country" | relative_url }}">gothic country</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1479,7 +1476,8 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 73</li>
+            <li> <a href="{{ "/tags/avant-folk" | relative_url }}">avant-folk</a> # 28</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -1498,7 +1496,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 51</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1554,7 +1552,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 74</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 27</li>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 96</li>
         </ul>
       </td>
@@ -1693,8 +1691,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 82</li>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 98</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 3</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 16</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1795,9 +1794,9 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 12</li>
-            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 92</li>
-            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 94</li>
+            <li> <a href="{{ "/tags/outlaw-country" | relative_url }}">outlaw country</a> # 6</li>
+            <li> <a href="{{ "/tags/western" | relative_url }}">western</a> # 9</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1818,7 +1817,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 44</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1837,7 +1836,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 28</li>
+            <li> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1934,7 +1933,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 91</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 10</li>
             <li> <a href="{{ "/tags/indie-folk" | relative_url }}">indie folk</a> # 98</li>
         </ul>
       </td>
@@ -1942,7 +1941,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
     <tr>
       <td>72</td>
       <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/af1c7e3dd80d32303c08807f930855e5.png" alt="Cover for Chemtrails Over the Country Club" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bda1fe1948b1afab36686c743a65b232.png" alt="Cover for Chemtrails Over the Country Club" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-03-19</td>
       <td>Lana Del Rey</td>
@@ -1955,11 +1954,11 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 2</li>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 62</li>
-            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 65</li>
-            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 93</li>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 97</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 4</li>
+            <li> <a href="{{ "/tags/americana" | relative_url }}">americana</a> # 8</li>
+            <li> <a href="{{ "/tags/folk" | relative_url }}">folk</a> # 30</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 34</li>
+            <li> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1979,7 +1978,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 100</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -2035,7 +2034,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 72</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -2056,7 +2055,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 18</li>
+            <li> <a href="{{ "/tags/chamber-folk" | relative_url }}">chamber folk</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -2075,7 +2074,7 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 16</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -2098,30 +2097,6 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       </td>
     </tr>
     <tr>
-      <td>30</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/091bd004d75491e76ca8a0c3e345091e.png" alt="Cover for Borrowed Tongue" style="max-width:120px; height:auto;" />
-      </td>
-      <td></td>
-      <td>Minhwi Lee</td>
-      <td>Borrowed Tongue</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/chamber-pop" | relative_url }}">chamber pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/dream-pop" | relative_url }}">dream pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/folk-pop" | relative_url }}">folk pop</a> # 3</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td>7</td>
       <td>
       </td>
@@ -2131,6 +2106,25 @@ Contemporary folk blends acoustic instrumentation with modern songwriting sensib
       <td>
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/091bd004d75491e76ca8a0c3e345091e.png" alt="Cover for Borrowed Tongue" style="max-width:120px; height:auto;" />
+      </td>
+      <td></td>
+      <td>Minhwi Lee</td>
+      <td>Borrowed Tongue</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/contemporary-folk" | relative_url }}">contemporary folk</a></li>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/psychedelic-folk" | relative_url }}">psychedelic folk</a></li>
         </ul>
       </td>
       <td>

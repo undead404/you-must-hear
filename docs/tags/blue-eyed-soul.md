@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-27T04:47:14.979Z
+date: 2025-12-04T20:31:09.138Z
 permalink: tags/blue-eyed-soul
 title: blue-eyed soul
 ---
 
 ## blue-eyed soul
 
-Last updated: <time datetime="2025-11-27T04:47:14.979Z">Thu Nov 27 2025 06:47:14 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-04T20:31:09.138Z">Thu Dec 04 2025 22:31:09 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,8 +47,8 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 20</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 58</li>
-            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -83,7 +83,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 70</li>
+            <li> <a href="{{ "/tags/rhythm-and-blues" | relative_url }}">rhythm and blues</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -105,7 +105,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classic-country" | relative_url }}">classic country</a> # 89</li>
+            <li> <a href="{{ "/tags/classic-country" | relative_url }}">classic country</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -124,7 +124,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 19</li>
+            <li> <a href="{{ "/tags/singer-songwriter" | relative_url }}">singer-songwriter</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -161,8 +161,8 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 54</li>
-            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 95</li>
+            <li> <a href="{{ "/tags/traditional-country" | relative_url }}">traditional country</a> # 6</li>
+            <li> <a href="{{ "/tags/country" | relative_url }}">country</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -184,6 +184,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/easy-listening" | relative_url }}">easy listening</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -336,7 +337,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       <td>
         <ul>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 29</li>
-            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 60</li>
+            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -361,8 +362,8 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 23</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 56</li>
-            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -388,8 +389,8 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 13</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 71</li>
-            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -443,7 +444,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 71</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -468,9 +469,9 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 18</li>
+            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 2</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 82</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 93</li>
-            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -569,8 +570,8 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 10</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 77</li>
-            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -608,8 +609,8 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 1</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 96</li>
+            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -632,8 +633,8 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 7</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 80</li>
-            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -676,7 +677,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       <td>
         <ul>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 31</li>
-            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 62</li>
+            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -696,10 +697,10 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 37</li>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 49</li>
+            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 27</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 52</li>
             <li> <a href="{{ "/tags/album-rock" | relative_url }}">album rock</a> # 55</li>
-            <li> <a href="{{ "/tags/classic-rock" | relative_url }}">classic rock</a> # 73</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 63</li>
         </ul>
       </td>
     </tr>
@@ -718,7 +719,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 58</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 41</li>
         </ul>
       </td>
     </tr>
@@ -738,7 +739,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 48</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -856,7 +857,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 4</li>
+            <li> <a href="{{ "/tags/sophisti-pop" | relative_url }}">sophisti-pop</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1071,7 +1072,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/northern-soul" | relative_url }}">northern soul</a> # 98</li>
+            <li> <a href="{{ "/tags/northern-soul" | relative_url }}">northern soul</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1173,8 +1174,8 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 58</li>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 85</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 16</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1216,7 +1217,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/northern-soul" | relative_url }}">northern soul</a> # 62</li>
+            <li> <a href="{{ "/tags/northern-soul" | relative_url }}">northern soul</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1264,8 +1265,8 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 15</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 64</li>
-            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1287,7 +1288,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 68</li>
+            <li> <a href="{{ "/tags/new-orleans" | relative_url }}">new orleans</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -1314,8 +1315,8 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 33</li>
-            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 86</li>
+            <li> <a href="{{ "/tags/acoustic-pop" | relative_url }}">acoustic pop</a> # 14</li>
+            <li> <a href="{{ "/tags/contemporary-rnb" | relative_url }}">contemporary rnb</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1334,8 +1335,8 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 9</li>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 24</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 76</li>
+            <li> <a href="{{ "/tags/philly-soul" | relative_url }}">philly soul</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1402,12 +1403,12 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 76</li>
-            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 89</li>
-            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 99</li>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 100</li>
-            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 100</li>
-            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 100</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 1</li>
+            <li> <a href="{{ "/tags/duet" | relative_url }}">duet</a> # 1</li>
+            <li> <a href="{{ "/tags/piano-rock" | relative_url }}">piano rock</a> # 1</li>
+            <li> <a href="{{ "/tags/pop-soul" | relative_url }}">pop soul</a> # 2</li>
+            <li> <a href="{{ "/tags/soft-rock" | relative_url }}">soft rock</a> # 11</li>
+            <li> <a href="{{ "/tags/pop-rock" | relative_url }}">pop rock</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1431,7 +1432,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       <td>
         <ul>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 33</li>
-            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 63</li>
+            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1455,8 +1456,8 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 34</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 42</li>
-            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -1479,8 +1480,8 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 12</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 76</li>
-            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1499,7 +1500,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 76</li>
+            <li> <a href="{{ "/tags/soul" | relative_url }}">soul</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1583,8 +1584,8 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 37</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 37</li>
-            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1623,7 +1624,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 72</li>
+            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1664,7 +1665,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 87</li>
+            <li> <a href="{{ "/tags/boogie" | relative_url }}">boogie</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -1742,8 +1743,8 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 6</li>
             <li> <a href="{{ "/tags/yacht-rock" | relative_url }}">yacht rock</a> # 84</li>
-            <li> <a href="{{ "/tags/westcoast" | relative_url }}">westcoast</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1762,7 +1763,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 74</li>
+            <li> <a href="{{ "/tags/teen-pop" | relative_url }}">teen pop</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1817,8 +1818,8 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 25</li>
-            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 74</li>
+            <li> <a href="{{ "/tags/funk-rock" | relative_url }}">funk rock</a> # 27</li>
+            <li> <a href="{{ "/tags/art-rock" | relative_url }}">art rock</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1856,7 +1857,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 25</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -2027,7 +2028,7 @@ Blue-eyed soul is R&amp;B and soul music performed by white artists, emerging in
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 82</li>
+            <li> <a href="{{ "/tags/alternative-dance" | relative_url }}">alternative dance</a> # 19</li>
         </ul>
       </td>
     </tr>

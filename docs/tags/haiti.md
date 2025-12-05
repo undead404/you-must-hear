@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-22T10:22:37.640Z
+date: 2025-12-04T19:42:49.152Z
 permalink: tags/haiti
 title: haiti
 ---
 
 ## haiti
 
-Last updated: <time datetime="2025-10-22T10:22:37.640Z">Wed Oct 22 2025 13:22:37 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-04T19:42:49.152Z">Thu Dec 04 2025 21:42:49 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -31,7 +31,7 @@ The &quot;haiti&quot; tag encompasses music rooted in Haitian culture, blending 
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/m-EqHrBOkSRNV86oRY65SY8QXlkjUgUJNT6Jsn1Ch-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjEz/NzMtMTQwMTk0MjI5/Ny03NDcwLmpwZWc.jpeg" alt="Cover for Haitian Folk Songs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/212fc89b8a0546db00fd541f66979c42.png" alt="Cover for Haitian Folk Songs" style="max-width:120px; height:auto;" />
       </td>
       <td>1954</td>
       <td>Lolita Cuevas</td>
@@ -1200,8 +1200,8 @@ The &quot;haiti&quot; tag encompasses music rooted in Haitian culture, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 58</li>
-            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 65</li>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 36</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1242,10 +1242,10 @@ The &quot;haiti&quot; tag encompasses music rooted in Haitian culture, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 11</li>
-            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 21</li>
-            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 23</li>
-            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 53</li>
+            <li> <a href="{{ "/tags/microsound" | relative_url }}">microsound</a> # 47</li>
+            <li> <a href="{{ "/tags/techstep" | relative_url }}">techstep</a> # 79</li>
+            <li> <a href="{{ "/tags/dark-industrial" | relative_url }}">dark industrial</a> # 80</li>
+            <li> <a href="{{ "/tags/darkstep" | relative_url }}">darkstep</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1467,7 +1467,7 @@ The &quot;haiti&quot; tag encompasses music rooted in Haitian culture, blending 
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/W3isUqdcnt4yz55YobazAIzF1rdSJDIJrVkcGJF5wnk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODE0/MjEtMTM1NDYxOTA4/NC02MjY0LmpwZWc.jpeg" alt="Cover for Home" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7e60c75debeb45e4c5bf3cc4028c15cd.png" alt="Cover for Home" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-03-01</td>
       <td>Carlton Rara</td>
@@ -1555,7 +1555,7 @@ The &quot;haiti&quot; tag encompasses music rooted in Haitian culture, blending 
     <tr>
       <td>97</td>
       <td>
-          <img src="https://i.discogs.com/xHU3tmSW18unDQ3x7K6Ms1tY_TxzCLc_VR6aTiRKQvA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTEy/OTA3LTE1NTAxNDUw/ODctNjY3My5qcGVn.jpeg" alt="Cover for Vari-Colored Songs" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/797f8d2d535e421fc2aa1bd3381ff8a6.png" alt="Cover for Vari-Colored Songs" style="max-width:120px; height:auto;" />
       </td>
       <td>2023-09-12</td>
       <td>Leyla McCalla</td>
@@ -1572,7 +1572,7 @@ The &quot;haiti&quot; tag encompasses music rooted in Haitian culture, blending 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 83</li>
+            <li> <a href="{{ "/tags/traditional" | relative_url }}">traditional</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1800,6 +1800,7 @@ The &quot;haiti&quot; tag encompasses music rooted in Haitian culture, blending 
     <tr>
       <td>93</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/eef70268dc64eb89967d4a3fc32bff7c.png" alt="Cover for Toto Bissainthe chante Haïti" style="max-width:120px; height:auto;" />
       </td>
       <td></td>
       <td>Toto Bissainthe</td>
