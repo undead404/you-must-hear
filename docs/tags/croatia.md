@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-10-25T06:04:46.121Z
+date: 2025-12-05T05:30:45.887Z
 permalink: tags/croatia
 title: croatia
 ---
 
 ## croatia
 
-Last updated: <time datetime="2025-10-25T06:04:46.121Z">Sat Oct 25 2025 09:04:46 GMT+0300 (Eastern European Summer Time)</time>
+Last updated: <time datetime="2025-12-05T05:30:45.887Z">Fri Dec 05 2025 07:30:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -65,7 +65,7 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 85</li>
+            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -85,14 +85,14 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 91</li>
+            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 10</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/Q5n-m5QbXqdfR2tSBUwaEB0QMnU3XNoYFvx0UPIVt98/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE2/MjgtMTE4NjEyODUw/Ni5qcGVn.jpeg" alt="Cover for ritam strasti" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/9353ecc40819f622bc37fc10f1949a6b.png" alt="Cover for ritam strasti" style="max-width:120px; height:auto;" />
       </td>
       <td>1982</td>
       <td>Boa</td>
@@ -114,7 +114,7 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
     <tr>
       <td>59</td>
       <td>
-          <img src="https://i.discogs.com/rwTGAh1q7QAAcdvaWU8U_O5htHU4fd8YMjBMdxfCBh8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMTA2/NC0xMTYxMTc2NzMy/LmpwZWc.jpeg" alt="Cover for Govor tijela" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1a478a6ff97444dd85646a72338bda26.png" alt="Cover for Govor tijela" style="max-width:120px; height:auto;" />
       </td>
       <td>1983-12</td>
       <td>Boa</td>
@@ -152,7 +152,7 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
     <tr>
       <td>43</td>
       <td>
-          <img src="https://i.discogs.com/G-Gd2xOBPTsPV7R32J7LVr1uOSnlY4iBzzERG5XxY3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDk3/My0xMzE1NzYzMDA1/LmpwZWc.jpeg" alt="Cover for Prvi val" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8264c95a07bd30612137ac86e05f99cf.png" alt="Cover for Prvi val" style="max-width:120px; height:auto;" />
       </td>
       <td>1990</td>
       <td>Boa</td>
@@ -208,7 +208,7 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
     <tr>
       <td>52</td>
       <td>
-          <img src="https://i.discogs.com/-hxY0dVcDVxze5-RdGhYNvwAC4YPTZzt9djDlb8c7Vw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Mzg0/NjktMTQyMTUzMzc5/Mi00MDE5LmpwZWc.jpeg" alt="Cover for Pobjedimo laž" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/50e658e3715e7ab64a787535b309fb2a.png" alt="Cover for Pobjedimo laž" style="max-width:120px; height:auto;" />
       </td>
       <td>1997</td>
       <td>Nula</td>
@@ -224,7 +224,7 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 32</li>
+            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -283,7 +283,7 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 43</li>
+            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -305,14 +305,14 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 97</li>
+            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 4</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>48</td>
       <td>
-          <img src="https://i.discogs.com/HfSBt_dnurIuEU044crOlyCMe415Z0AfAfI8yA0Raqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjY4/NjktMTU3NDk1NjUy/MS0xNjEyLmpwZWc.jpeg" alt="Cover for Volim Biti Zaljubljena" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5d9d613e5e1446dfa59fb84a6b915bf1.png" alt="Cover for Volim Biti Zaljubljena" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Lana</td>
@@ -332,6 +332,7 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
     <tr>
       <td>66</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ecfb8c3d5f8a4967ae25d25ac509a299.png" alt="Cover for Suspicious Cargo" style="max-width:120px; height:auto;" />
       </td>
       <td>1999</td>
       <td>Peach Pit</td>
@@ -364,14 +365,14 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 55</li>
+            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 46</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>61</td>
       <td>
-          <img src="https://i.discogs.com/HFb-TFAP8guwFpQNVHk-PXW3ss5GpNP-aFpz5R__if8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MTI4/MjktMTQ2MTEwNDMx/NS0zNDM2LmpwZWc.jpeg" alt="Cover for Godina majmuna" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6dad27c0325421b67814b571e00d019.png" alt="Cover for Godina majmuna" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Debeli Precjednik</td>
@@ -386,14 +387,14 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 39</li>
+            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 62</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>78</td>
       <td>
-          <img src="https://i.discogs.com/lB3Yshzn6qLXw8_lm7CnTdbwqdRkuT0NjHYaK9NELjg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NDQw/NDItMTU2Njk5ODc4/Ni05NjI5LmpwZWc.jpeg" alt="Cover for Svoga tijela gospodar" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/882383520df4550d79a7af68f90de459.png" alt="Cover for Svoga tijela gospodar" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Mikrofonija</td>
@@ -408,15 +409,15 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 22</li>
-            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 60</li>
+            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 41</li>
+            <li> <a href="{{ "/tags/melodic-punk" | relative_url }}">melodic punk</a> # 78</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>64</td>
       <td>
-          <img src="https://i.discogs.com/qX_WWmGRvpcB5ghCYspFWdsDpbuW0V6r9xkjN-KV2pw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzQ1/NjQtMTMwMzE2MzMy/NS5qcGVn.jpeg" alt="Cover for Last Minute Call" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/ed332cf909bc43288963f727d0fa0724.png" alt="Cover for Last Minute Call" style="max-width:120px; height:auto;" />
       </td>
       <td>2002</td>
       <td>Deafness By Noise</td>
@@ -468,14 +469,14 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 15</li>
+            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 86</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>67</td>
       <td>
-          <img src="https://i.discogs.com/0mY_-ndX96gafxjbIoBiziNVtd00-Fta8HNirXnccXE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjYx/MDQtMTE5Nzk4NzAz/NC5qcGVn.jpeg" alt="Cover for Doba vodenjaka" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/e46fb8facf4a4ee88f1ea6568d1c7cd2.png" alt="Cover for Doba vodenjaka" style="max-width:120px; height:auto;" />
       </td>
       <td>2003</td>
       <td>Šajeta</td>
@@ -495,7 +496,7 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 41</li>
+            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -533,7 +534,7 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 77</li>
+            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -578,7 +579,7 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
     <tr>
       <td>49</td>
       <td>
-          <img src="https://i.discogs.com/Tv4ko_lVKK2G_Hjgj85H4XfJjtBcPv7WxgwNezPW5Dg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjM5/OTItMTE5NzU1NzY1/Ny5qcGVn.jpeg" alt="Cover for Androida" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/494603131132ddcb71ec7c7665b3229e.png" alt="Cover for Androida" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Putokazi</td>
@@ -597,7 +598,7 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/R1La1azuoNpTC7LYgXvv3kn6C5kVxb7QWIOkhSQqPwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTE1/NzQtMTMzNDk1Nzg2/Ny5qcGVn.jpeg" alt="Cover for Kao nekad" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b42f3944dcc946b4868dc1216901be2b.png" alt="Cover for Kao nekad" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Boa</td>
@@ -637,7 +638,7 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
     <tr>
       <td>74</td>
       <td>
-          <img src="https://i.discogs.com/NGNPLdP8m4nq0oH9_oDr9wNldeu8QLZzlm6p7puNpfE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4Mjcw/MDctMTQyNzQ2NTMw/MS03NDk5LmpwZWc.jpeg" alt="Cover for 1 Razlog" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/f348309b0a8248d79aab09effa5e338f.png" alt="Cover for 1 Razlog" style="max-width:120px; height:auto;" />
       </td>
       <td>2004</td>
       <td>Lana</td>
@@ -669,7 +670,7 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 76</li>
+            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -815,6 +816,7 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
     <tr>
       <td>80</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a1d6f906cdf14beacbee7037191d0b26.png" alt="Cover for Jaded" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Jaded</td>
@@ -844,7 +846,7 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 81</li>
+            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -865,7 +867,7 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 46</li>
+            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -885,7 +887,7 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 78</li>
+            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1048,13 +1050,14 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 43</li>
+            <li> <a href="{{ "/tags/ibiza" | relative_url }}">ibiza</a> # 58</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>40</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/7fe808b4d27b4eb9b85e4dbd9f7d972f.png" alt="Cover for Prva kuja u svemiru" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Kajla</td>
@@ -1070,7 +1073,7 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 19</li>
+            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1090,13 +1093,14 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 70</li>
+            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 31</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>98</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5ecaf9a370414274944aa52ce2eeafff.png" alt="Cover for Zdravo Marijo" style="max-width:120px; height:auto;" />
       </td>
       <td>2008</td>
       <td>Severina</td>
@@ -1109,7 +1113,7 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 95</li>
+            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1263,13 +1267,14 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 35</li>
+            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 66</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>51</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/5f61511524f84523ba720e3f98110f91.png" alt="Cover for Još Ti Nije Kasno..." style="max-width:120px; height:auto;" />
       </td>
       <td>2011</td>
       <td>Krešo i kisele kiše</td>
@@ -1287,7 +1292,7 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 29</li>
+            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1357,7 +1362,7 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
     <tr>
       <td>58</td>
       <td>
-          <img src="https://i.discogs.com/SRDk56WaGmFQJDIq5ulpebqp3ZstcyNG-XfRqojMFis/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTk0/OTYtMTMxNTcxMjEw/MC5qcGVn.jpeg" alt="Cover for Halfasleep" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/3b6508038f434e72a759a7e276e611a0.png" alt="Cover for Halfasleep" style="max-width:120px; height:auto;" />
       </td>
       <td>2011-05-23</td>
       <td>Shaita</td>
@@ -1378,8 +1383,8 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 36</li>
-            <li> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a> # 75</li>
+            <li> <a href="{{ "/tags/darkcore" | relative_url }}">darkcore</a> # 26</li>
+            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -1399,14 +1404,14 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 89</li>
+            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>47</td>
       <td>
-          <img src="https://i.discogs.com/-AMb_0NxnAzEl-WGjJJSMCwFGt0A6dLV3tzBAV1nyAQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxODY0/ODEtMTQ3NjI5MzMw/OS03Nzg4LmpwZWc.jpeg" alt="Cover for Cream EP" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d6a0bbbc688d40f186676a5bbf080260.png" alt="Cover for Cream EP" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-07-07</td>
       <td>The Wallies</td>
@@ -1446,7 +1451,7 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
     <tr>
       <td>83</td>
       <td>
-          <img src="https://i.discogs.com/TYQqKkprQJn0S2I8nD1GrkOit21vzssFXFaTYwDWOYU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjgw/NTItMTY1NzUyMzEy/NS02Mzg2LmpwZWc.jpeg" alt="Cover for Su Bolje Majke" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/44acc6acda8c4395bafaf78d2a00008c.png" alt="Cover for Su Bolje Majke" style="max-width:120px; height:auto;" />
       </td>
       <td>2012-10-23</td>
       <td>Kurve</td>
@@ -1460,13 +1465,14 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 69</li>
+            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 32</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>28</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a50b67cbcd044473884d956a58756db6.png" alt="Cover for Prespavana Tragedija" style="max-width:120px; height:auto;" />
       </td>
       <td>2013</td>
       <td>Pokret Otpora</td>
@@ -1482,7 +1488,7 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 8</li>
+            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1601,6 +1607,7 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
     <tr>
       <td>35</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/36d94336942a9ef303e13c39c7027bcf.png" alt="Cover for Summerth" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-01-24</td>
       <td>Go Run Donkey Hot!</td>
@@ -1621,7 +1628,7 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
     <tr>
       <td>96</td>
       <td>
-          <img src="https://i.discogs.com/YRqqgyVnRa55263DP698FlPo4dnqZbZCqQA17MssLrY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0ODM2/NDktMTQ4MjI5MTU2/NS0xMDA5LmpwZWc.jpeg" alt="Cover for Moderna Žena" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b608e88cac5879f83c6d95fe87e4db27.png" alt="Cover for Moderna Žena" style="max-width:120px; height:auto;" />
       </td>
       <td>2016-12-10</td>
       <td>Jelena Rozga</td>
@@ -1638,8 +1645,8 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 33</li>
-            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 94</li>
+            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 7</li>
+            <li> <a href="{{ "/tags/balkan" | relative_url }}">balkan</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1689,7 +1696,7 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
     <tr>
       <td>77</td>
       <td>
-          <img src="https://i.discogs.com/fwGGHR6JdNMlJn26H6MCgUpfP_d7a7vJQ7GMLdTMXlk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjY4/NTUtMTQwMjA3MzQ3/NS05MTU4LmpwZWc.jpeg" alt="Cover for Lana" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/549dc20dc1bd40a2b81b0fc280022184.png" alt="Cover for Lana" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-06-08</td>
       <td>Lana</td>
@@ -1761,7 +1768,7 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 11</li>
+            <li> <a href="{{ "/tags/croatian" | relative_url }}">croatian</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1802,7 +1809,7 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 23</li>
+            <li> <a href="{{ "/tags/black-ambient" | relative_url }}">black ambient</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1884,7 +1891,7 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
     <tr>
       <td>9</td>
       <td>
-          <img src="https://i.discogs.com/1vdhwM1t6K3F1B-7y17Efr7YEW24tJeo9URroQEW92Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzIx/NTI5LTE2MTg1Nzc4/MDktNTYwMS5qcGVn.jpeg" alt="Cover for Barren Land" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/073c42774176c8f1fd6e13849f62ab65.png" alt="Cover for Barren Land" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-04-15</td>
       <td>Billie Joan</td>
@@ -1923,14 +1930,14 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 89</li>
+            <li> <a href="{{ "/tags/serbia" | relative_url }}">serbia</a> # 12</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>50</td>
       <td>
-          <img src="https://i.discogs.com/jXNjVyE02Q-rNkILcpzqGuAq1xxCSaL7qJO_CMAUOTA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjkx/ODg5LTE2MzkwODk5/MzUtMzI5NS5qcGVn.jpeg" alt="Cover for Manifest pobune" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1d48daecf5f69c7dbb4217fc52f7df3b.png" alt="Cover for Manifest pobune" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-11</td>
       <td>Kriva Istina</td>
@@ -1952,6 +1959,7 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
     <tr>
       <td>13</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/cced025bdea3bfe226f1b0d78858a95b.png" alt="Cover for Pomelo Chess Society" style="max-width:120px; height:auto;" />
       </td>
       <td>2021-12-10</td>
       <td>Pomelo Chess Society</td>
@@ -1995,7 +2003,7 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
     <tr>
       <td>6</td>
       <td>
-          <img src="https://i.discogs.com/lB-sJBd_jopMdaAe8_enDHBhRT9YRVRf89kcPeXYBmo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk2/NTgtMTQ5MDA5MDQ5/MS0yNTM3LmpwZWc.jpeg" alt="Cover for Music from the Island of Krk, Yugoslavia" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0c540204b006ba0ae26c551ae0c843a6.png" alt="Cover for Music from the Island of Krk, Yugoslavia" style="max-width:120px; height:auto;" />
       </td>
       <td>2023</td>
       <td>Various Artists</td>
@@ -2044,7 +2052,7 @@ This tag encompasses music from Croatia&#39;s diverse musical landscape, blendin
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 29</li>
+            <li> <a href="{{ "/tags/technoid" | relative_url }}">technoid</a> # 71</li>
         </ul>
       </td>
     </tr>

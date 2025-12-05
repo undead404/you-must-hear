@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-24T06:29:38.100Z
+date: 2025-12-05T06:24:57.336Z
 permalink: tags/latin
 title: latin
 ---
 
 ## latin
 
-Last updated: <time datetime="2025-11-24T06:29:38.100Z">Mon Nov 24 2025 08:29:38 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T06:24:57.336Z">Fri Dec 05 2025 08:24:57 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,7 +47,7 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 22</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 79</li>
         </ul>
       </td>
     </tr>
@@ -68,7 +68,7 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 90</li>
+            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -92,9 +92,9 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 29</li>
-            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 52</li>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 89</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 12</li>
+            <li> <a href="{{ "/tags/ska-punk" | relative_url }}">ska punk</a> # 48</li>
+            <li> <a href="{{ "/tags/ska" | relative_url }}">ska</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -114,7 +114,7 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 90</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -134,8 +134,8 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 15</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 81</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 18</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -153,7 +153,7 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 62</li>
+            <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -171,8 +171,8 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 15</li>
-            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 84</li>
+            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 17</li>
+            <li> <a href="{{ "/tags/adult-contemporary" | relative_url }}">adult contemporary</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -211,9 +211,9 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 45</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 60</li>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 92</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 9</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 40</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 47</li>
         </ul>
       </td>
     </tr>
@@ -249,11 +249,11 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 14</li>
-            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 70</li>
-            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 79</li>
-            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 99</li>
-            <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 100</li>
+            <li> <a href="{{ "/tags/cuban" | relative_url }}">cuban</a> # 1</li>
+            <li> <a href="{{ "/tags/cuba" | relative_url }}">cuba</a> # 2</li>
+            <li> <a href="{{ "/tags/bolero" | relative_url }}">bolero</a> # 22</li>
+            <li> <a href="{{ "/tags/latin-jazz" | relative_url }}">latin jazz</a> # 31</li>
+            <li> <a href="{{ "/tags/jazz" | relative_url }}">jazz</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -273,7 +273,7 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 3</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -294,8 +294,8 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 20</li>
-            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 96</li>
+            <li> <a href="{{ "/tags/lounge" | relative_url }}">lounge</a> # 5</li>
+            <li> <a href="{{ "/tags/french" | relative_url }}">french</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -314,7 +314,7 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 75</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -370,7 +370,7 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 68</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -393,9 +393,9 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 8</li>
-            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 45</li>
-            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 95</li>
+            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 6</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 12</li>
+            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -470,7 +470,7 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 98</li>
+            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -490,8 +490,8 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 39</li>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 90</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 11</li>
+            <li> <a href="{{ "/tags/pop" | relative_url }}">pop</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -533,9 +533,9 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 73</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 81</li>
-            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 89</li>
+            <li> <a href="{{ "/tags/argentina" | relative_url }}">argentina</a> # 11</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 20</li>
+            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -557,10 +557,10 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 66</li>
-            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 69</li>
-            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 84</li>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 91</li>
+            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 17</li>
+            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 31</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 34</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -580,7 +580,7 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 93</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 8</li>
         </ul>
       </td>
     </tr>
@@ -599,9 +599,9 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 4</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 12</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 70</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 15</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 30</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -655,7 +655,7 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/puerto-rico" | relative_url }}">puerto rico</a> # 95</li>
+            <li> <a href="{{ "/tags/puerto-rico" | relative_url }}">puerto rico</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -678,10 +678,10 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 65</li>
-            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 68</li>
-            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 83</li>
-            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 90</li>
+            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 18</li>
+            <li> <a href="{{ "/tags/unplugged" | relative_url }}">unplugged</a> # 32</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 35</li>
+            <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -706,7 +706,7 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 56</li>
+            <li> <a href="{{ "/tags/reggae" | relative_url }}">reggae</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -763,8 +763,8 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 17</li>
             <li> <a href="{{ "/tags/rock-en-espanol" | relative_url }}">rock en espanol</a> # 65</li>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 84</li>
         </ul>
       </td>
     </tr>
@@ -802,9 +802,9 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 21</li>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 83</li>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 97</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 4</li>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 18</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -857,10 +857,10 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 30</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 60</li>
-            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 76</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 87</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 14</li>
+            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 25</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 62</li>
+            <li> <a href="{{ "/tags/espanol" | relative_url }}">espanol</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -904,10 +904,10 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 38</li>
-            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 58</li>
-            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 84</li>
-            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 100</li>
+            <li> <a href="{{ "/tags/international" | relative_url }}">international</a> # 1</li>
+            <li> <a href="{{ "/tags/guitar-virtuoso" | relative_url }}">guitar virtuoso</a> # 17</li>
+            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 43</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -949,9 +949,9 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 9</li>
-            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 46</li>
-            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 96</li>
+            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 5</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 13</li>
+            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -988,9 +988,9 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 8</li>
-            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 17</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 31</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 34</li>
+            <li> <a href="{{ "/tags/romance" | relative_url }}">romance</a> # 84</li>
+            <li> <a href="{{ "/tags/latin-rock" | relative_url }}">latin rock</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1028,7 +1028,7 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 63</li>
+            <li> <a href="{{ "/tags/alternativo" | relative_url }}">alternativo</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1050,7 +1050,7 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       <td>
         <ul>
             <li> <a href="{{ "/tags/mambo" | relative_url }}">mambo</a> # 2</li>
-            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 90</li>
+            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1070,7 +1070,7 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 99</li>
+            <li> <a href="{{ "/tags/mexican" | relative_url }}">mexican</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -1093,7 +1093,7 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 15</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -1130,8 +1130,8 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 24</li>
-            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 98</li>
+            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 3</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1154,9 +1154,9 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 47</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 58</li>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 94</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 7</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 54</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1176,7 +1176,7 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 72</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1197,8 +1197,8 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 98</li>
-            <li> <a href="{{ "/tags/bosta" | relative_url }}">bosta</a> # 100</li>
+            <li> <a href="{{ "/tags/bosta" | relative_url }}">bosta</a> # 1</li>
+            <li> <a href="{{ "/tags/latino" | relative_url }}">latino</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1219,7 +1219,7 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 69</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1243,9 +1243,9 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 4</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 46</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 71</li>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 97</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1284,7 +1284,7 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 79</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1306,8 +1306,8 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 15</li>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 30</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 31</li>
+            <li> <a href="{{ "/tags/electro" | relative_url }}">electro</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1325,8 +1325,8 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 2</li>
-            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 61</li>
+            <li> <a href="{{ "/tags/samba" | relative_url }}">samba</a> # 40</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1349,9 +1349,9 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 10</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 48</li>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 91</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 10</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 50</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1372,7 +1372,7 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 76</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1413,7 +1413,7 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 73</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1431,8 +1431,8 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 44</li>
-            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 85</li>
+            <li> <a href="{{ "/tags/edm" | relative_url }}">edm</a> # 16</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1453,7 +1453,7 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 98</li>
+            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1475,8 +1475,8 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 87</li>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 97</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 4</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 88</li>
         </ul>
       </td>
     </tr>
@@ -1499,7 +1499,7 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 81</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -1541,9 +1541,9 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 5</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 46</li>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 90</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 11</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 48</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -1567,10 +1567,10 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 93</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 94</li>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 99</li>
-            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 100</li>
+            <li> <a href="{{ "/tags/brazilian-pop" | relative_url }}">brazilian pop</a> # 1</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 2</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 8</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1591,8 +1591,8 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 94</li>
-            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 99</li>
+            <li> <a href="{{ "/tags/cumbia" | relative_url }}">cumbia</a> # 2</li>
+            <li> <a href="{{ "/tags/mexico" | relative_url }}">mexico</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -1615,9 +1615,9 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 5</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 66</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 91</li>
-            <li> <a href="{{ "/tags/brazil" | relative_url }}">brazil</a> # 96</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1637,7 +1637,7 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 67</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 34</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 67</li>
         </ul>
       </td>
@@ -1663,11 +1663,11 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 46</li>
-            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 82</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 2</li>
+            <li> <a href="{{ "/tags/funk" | relative_url }}">funk</a> # 19</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 55</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 96</li>
             <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 99</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1710,8 +1710,8 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 85</li>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 96</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 5</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1733,16 +1733,16 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 29</li>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 86</li>
-            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 100</li>
+            <li> <a href="{{ "/tags/latin-america" | relative_url }}">latin america</a> # 1</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 14</li>
+            <li> <a href="{{ "/tags/dance" | relative_url }}">dance</a> # 72</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>45</td>
       <td>
-          <img src="https://i.discogs.com/2HR_WLxeMhHD69BYLDmUi-o5EjUdwi9ZxSVXe3PELNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTQw/NDU1LTE1ODcyMTA2/NjAtMTY1NS5qcGVn.jpeg" alt="Cover for Por Primera Vez" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/39ace303916f26993e2c89d79631d222.png" alt="Cover for Por Primera Vez" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-04-17</td>
       <td>Camilo</td>
@@ -1757,7 +1757,7 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       <td>
         <ul>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 36</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 62</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1796,8 +1796,8 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 1</li>
             <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 100</li>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -1820,7 +1820,7 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 84</li>
+            <li> <a href="{{ "/tags/spanish" | relative_url }}">spanish</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1859,8 +1859,8 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 31</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 55</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 32</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -1879,7 +1879,7 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 22</li>
+            <li> <a href="{{ "/tags/reggaeton" | relative_url }}">reggaeton</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1962,7 +1962,7 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 47</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -2025,7 +2025,7 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 75</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 76</li>
         </ul>
       </td>
     </tr>
@@ -2053,11 +2053,11 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 34</li>
-            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 45</li>
-            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 47</li>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 57</li>
-            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 64</li>
+            <li> <a href="{{ "/tags/bossa-nova" | relative_url }}">bossa nova</a> # 36</li>
+            <li> <a href="{{ "/tags/male-vocalists" | relative_url }}">male vocalists</a> # 43</li>
+            <li> <a href="{{ "/tags/brazilian" | relative_url }}">brazilian</a> # 56</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 59</li>
+            <li> <a href="{{ "/tags/mpb" | relative_url }}">mpb</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -2077,7 +2077,7 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 99</li>
+            <li> <a href="{{ "/tags/colombia" | relative_url }}">colombia</a> # 2</li>
         </ul>
       </td>
     </tr>
@@ -2098,8 +2098,8 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 93</li>
-            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 98</li>
+            <li> <a href="{{ "/tags/pop-latino" | relative_url }}">pop latino</a> # 3</li>
+            <li> <a href="{{ "/tags/latin-pop" | relative_url }}">latin pop</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -2119,7 +2119,7 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 100</li>
+            <li> <a href="{{ "/tags/merengue" | relative_url }}">merengue</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -2138,7 +2138,7 @@ Latin music is a genre that encompasses a wide range of styles and rhythms that 
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 93</li>
+            <li> <a href="{{ "/tags/salsa" | relative_url }}">salsa</a> # 8</li>
         </ul>
       </td>
     </tr>

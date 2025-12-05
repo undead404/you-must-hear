@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-15T00:58:41.888Z
+date: 2025-12-05T05:28:45.923Z
 permalink: tags/ohio
 title: ohio
 ---
 
 ## ohio
 
-Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T05:28:45.923Z">Fri Dec 05 2025 07:28:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -50,15 +50,15 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 63</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 74</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 27</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 64</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>73</td>
       <td>
-          <img src="https://i.discogs.com/z7y8g_6fE8LldVkRz67X8qbif-B77cX3o2pG234GTi0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzEx/NjctMTE4ODkxNTQx/Mi5qcGVn.jpeg" alt="Cover for Fool Around" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/42493c9e100993061c3325a01dbbf9d6.png" alt="Cover for Fool Around" style="max-width:120px; height:auto;" />
       </td>
       <td>1978</td>
       <td>Rachel Sweet</td>
@@ -77,7 +77,7 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
     <tr>
       <td>29</td>
       <td>
-          <img src="https://i.discogs.com/kyQfCLzmpGSfIDm2YyGZUc7h0KFlBlkPFeMprenZtDg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NTk2/NC0xMTU0NTQ5ODEz/LmpwZWc.jpeg" alt="Cover for Good Thang" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/fe909fbc33a54b178ec1a9a082456baa.png" alt="Cover for Good Thang" style="max-width:120px; height:auto;" />
       </td>
       <td>1978-10</td>
       <td>Faze-O</td>
@@ -174,6 +174,7 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
     <tr>
       <td>79</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/a6b5c35e6f0b44dfb2611a0d29d3d323.png" alt="Cover for Sandbox" style="max-width:120px; height:auto;" />
       </td>
       <td>1987</td>
       <td>Guided by Voices</td>
@@ -285,7 +286,7 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 68</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 33</li>
         </ul>
       </td>
     </tr>
@@ -306,7 +307,7 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 48</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -401,17 +402,13 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
     <tr>
       <td>88</td>
       <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/8cd0b7254a5e4e51772fb6d45090006c.png" alt="Cover for Vampire on Titus" style="max-width:120px; height:auto;" />
       </td>
       <td>1993</td>
       <td>Guided by Voices</td>
       <td>Vampire on Titus</td>
       <td>
         <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-pop" | relative_url }}">noise pop</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/noise-rock" | relative_url }}">noise rock</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a></li>
         </ul>
       </td>
       <td>
@@ -460,28 +457,8 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 46</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 51</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>77</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04edc38decce18aed1b80fc9479b8044.png" alt="Cover for Alien Lanes" style="max-width:120px; height:auto;" />
-      </td>
-      <td>1995-04-04</td>
-      <td>Guided by Voices</td>
-      <td>Alien Lanes</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/indie-rock" | relative_url }}">indie rock</a></li>
-            <li style="font-size: calc(1rem * 81 / 100)"> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-            <li> <a href="{{ "/tags/lo-fi" | relative_url }}">lo-fi</a> # 33</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 50</li>
+            <li> <a href="{{ "/tags/concert" | relative_url }}">concert</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -497,6 +474,23 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
         <ul>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/american" | relative_url }}">american</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/ohio" | relative_url }}">ohio</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/04edc38decce18aed1b80fc9479b8044.png" alt="Cover for Alien Lanes" style="max-width:120px; height:auto;" />
+      </td>
+      <td>1995-04-04</td>
+      <td>Guided by Voices</td>
+      <td>Alien Lanes</td>
+      <td>
+        <ul>
         </ul>
       </td>
       <td>
@@ -557,7 +551,7 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 11</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -602,7 +596,7 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
     <tr>
       <td>60</td>
       <td>
-          <img src="https://i.discogs.com/Cwos76_LTNWbmlZ2bjYyY7klouZ7isBUTk8iQ9yDBBk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNTU2/My0xMjIzNTQ0NDI2/LmpwZWc.jpeg" alt="Cover for Not in My Airforce" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/bdd0c1b570be41ce861c33006b31093c.png" alt="Cover for Not in My Airforce" style="max-width:120px; height:auto;" />
       </td>
       <td>1996-09-10</td>
       <td>Robert Pollard</td>
@@ -672,7 +666,7 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 4</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -729,14 +723,14 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 14</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 87</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>68</td>
       <td>
-          <img src="https://i.discogs.com/k6E8gZBSwlwXG4Tm06yW_5YxSRzrbges1Xsaof2e1AM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTIy/MTQtMTE5MjkxODQy/NS5qcGVn.jpeg" alt="Cover for Styles We Paid For" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/b3302320c9657388020ca02949fd8b93.png" alt="Cover for Styles We Paid For" style="max-width:120px; height:auto;" />
       </td>
       <td>1999-09</td>
       <td>Guided by Voices</td>
@@ -812,8 +806,8 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 23</li>
-            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 49</li>
+            <li> <a href="{{ "/tags/surf-rock" | relative_url }}">surf rock</a> # 46</li>
+            <li> <a href="{{ "/tags/country-rock" | relative_url }}">country rock</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -838,7 +832,7 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
     <tr>
       <td>63</td>
       <td>
-          <img src="https://i.discogs.com/VmlT7j3odl6A9m1h1MYXHVeEdUaA5qINQEm0djOjBj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzYz/NjkzLTE1NDE0ODM1/MjktNjIxOC5qcGVn.jpeg" alt="Cover for Earth Man Blues" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/0939f16df2a036438eb4ab04425a0f59.png" alt="Cover for Earth Man Blues" style="max-width:120px; height:auto;" />
       </td>
       <td>2003-08-19</td>
       <td>Guided by Voices</td>
@@ -878,7 +872,7 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
     <tr>
       <td>32</td>
       <td>
-          <img src="https://i.discogs.com/Bmfi9ovjvbnUihjna4FKX1kEm2003qsecqpkR1PSHbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NjIx/NjEtMTM3NDY5MjE1/Ny0xODY0LmpwZWc.jpeg" alt="Cover for Discount Fireworks: A Collection" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/d7e455438888309075fa87d0addbf844.png" alt="Cover for Discount Fireworks: A Collection" style="max-width:120px; height:auto;" />
       </td>
       <td>2006</td>
       <td>Over the Rhine</td>
@@ -968,7 +962,7 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a> # 71</li>
+            <li> <a href="{{ "/tags/lobit" | relative_url }}">lobit</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -992,10 +986,10 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 82</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 85</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 88</li>
-            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 92</li>
+            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 9</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 13</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 15</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1076,15 +1070,15 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 35</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 7</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 13</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 17</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 19</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 31</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 36</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 39</li>
             <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 44</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 62</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 65</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 70</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 81</li>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 84</li>
-            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 89</li>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 94</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 68</li>
         </ul>
       </td>
     </tr>
@@ -1104,7 +1098,7 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 20</li>
+            <li> <a href="{{ "/tags/abstract-hip-hop" | relative_url }}">abstract hip hop</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1158,16 +1152,16 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 21</li>
-            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 64</li>
-            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 66</li>
-            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 76</li>
-            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 81</li>
-            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 87</li>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 90</li>
-            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 95</li>
-            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 95</li>
-            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 97</li>
+            <li> <a href="{{ "/tags/tabla" | relative_url }}">tabla</a> # 4</li>
+            <li> <a href="{{ "/tags/washington" | relative_url }}">washington</a> # 6</li>
+            <li> <a href="{{ "/tags/jewish" | relative_url }}">jewish</a> # 6</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 10</li>
+            <li> <a href="{{ "/tags/pagan" | relative_url }}">pagan</a> # 14</li>
+            <li> <a href="{{ "/tags/paris" | relative_url }}">paris</a> # 20</li>
+            <li> <a href="{{ "/tags/rac" | relative_url }}">rac</a> # 25</li>
+            <li> <a href="{{ "/tags/new-york" | relative_url }}">new york</a> # 34</li>
+            <li> <a href="{{ "/tags/australia" | relative_url }}">australia</a> # 65</li>
+            <li> <a href="{{ "/tags/contemporary-christian" | relative_url }}">contemporary christian</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1212,10 +1206,10 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 28</li>
-            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 51</li>
-            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 65</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 70</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 31</li>
+            <li> <a href="{{ "/tags/us-indie" | relative_url }}">us indie</a> # 36</li>
+            <li> <a href="{{ "/tags/american-indie" | relative_url }}">american indie</a> # 50</li>
+            <li> <a href="{{ "/tags/america" | relative_url }}">america</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1238,7 +1232,7 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 50</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1265,8 +1259,8 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 60</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 72</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 29</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1290,8 +1284,8 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 65</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 75</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 26</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1319,9 +1313,9 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 15</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 71</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 78</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 23</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 72</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1347,12 +1341,12 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 41</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 65</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 77</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 8</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 10</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 22</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 32</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 58</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 81</li>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 91</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 93</li>
         </ul>
       </td>
     </tr>
@@ -1418,9 +1412,9 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 6</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 70</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 77</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 24</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 71</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1464,16 +1458,16 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 4</li>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 68</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 76</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 25</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 69</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 93</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>72</td>
       <td>
-          <img src="https://i.discogs.com/SAPiGRp2SFXKXBF_ySFDZ3h3D6BFIJ4_81aRifnovEM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTY1/OTYtMTM0NDc4MTc2/Ni01NzkwLmpwZWc.jpeg" alt="Cover for Worms and Dirt" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/afe8b96f54f74b129b829dba9fe0fa07.png" alt="Cover for Worms and Dirt" style="max-width:120px; height:auto;" />
       </td>
       <td>2012</td>
       <td>Homewrecker</td>
@@ -1489,8 +1483,8 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 39</li>
-            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 40</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 60</li>
+            <li> <a href="{{ "/tags/crust" | relative_url }}">crust</a> # 61</li>
         </ul>
       </td>
     </tr>
@@ -1517,10 +1511,10 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 56</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 73</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 10</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 26</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 41</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 89</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -1544,7 +1538,7 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 12</li>
+            <li> <a href="{{ "/tags/new-york-city" | relative_url }}">new york city</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -1570,7 +1564,7 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 62</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 39</li>
         </ul>
       </td>
     </tr>
@@ -1632,7 +1626,7 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 8</li>
+            <li> <a href="{{ "/tags/powerviolence" | relative_url }}">powerviolence</a> # 95</li>
         </ul>
       </td>
     </tr>
@@ -1680,8 +1674,8 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 59</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 71</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 30</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -1708,12 +1702,12 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 80</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 83</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 88</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 2</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 2</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 12</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 15</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 20</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 97</li>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 99</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1740,11 +1734,11 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 29</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 58</li>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 86</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 9</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 15</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 39</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 68</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 90</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1805,16 +1799,16 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 24</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 82</li>
-            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 84</li>
+            <li> <a href="{{ "/tags/midwest" | relative_url }}">midwest</a> # 17</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 19</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 75</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>11</td>
       <td>
-          <img src="https://i.discogs.com/H3QuuSs5ewqyvSRj_o56zhcqSgpNCOT4TQ_d6sIcxkw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjY2/MzMzLTE0OTQzNjM5/ODQtNTkwMS5qcGVn.jpeg" alt="Cover for Genre : Sadboy" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/76e6d8327ead7a5c816c7dad9a1a3539.png" alt="Cover for Genre : Sadboy" style="max-width:120px; height:auto;" />
       </td>
       <td>2017-05-12</td>
       <td>Machine Gun Kelly</td>
@@ -1831,7 +1825,7 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 36</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1916,11 +1910,13 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 53</li>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 57</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 98</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 99</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 100</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 1</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 1</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 3</li>
+            <li> <a href="{{ "/tags/pop-rap" | relative_url }}">pop rap</a> # 21</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 38</li>
+            <li> <a href="{{ "/tags/pop-punk" | relative_url }}">pop punk</a> # 45</li>
+            <li> <a href="{{ "/tags/cloud-rap" | relative_url }}">cloud rap</a> # 85</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 100</li>
         </ul>
       </td>
@@ -1988,12 +1984,12 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 15</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 54</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 69</li>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 82</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 12</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 19</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 30</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 43</li>
+            <li> <a href="{{ "/tags/underground-hip-hop" | relative_url }}">underground hip-hop</a> # 81</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 88</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 89</li>
         </ul>
       </td>
     </tr>
@@ -2017,8 +2013,8 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 17</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 89</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 11</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 71</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 98</li>
         </ul>
       </td>
@@ -2045,7 +2041,7 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
     <tr>
       <td>70</td>
       <td>
-          <img src="https://i.discogs.com/bZsXKsGQKffs7XNbjJ-hXBJ0fYVqKO1Zovu1S2khQJY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzM5/MjY2LTE1OTY4OTc5/MDYtNTg3NS5qcGVn.jpeg" alt="Cover for Mirrored Aztec" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/40663f6403e9565499386961daa5f12a.png" alt="Cover for Mirrored Aztec" style="max-width:120px; height:auto;" />
       </td>
       <td>2020-08-21</td>
       <td>Guided by Voices</td>
@@ -2081,8 +2077,8 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 33</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 44</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 35</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 57</li>
         </ul>
       </td>
     </tr>
@@ -2115,11 +2111,11 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 40</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 92</li>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 93</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 1</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 7</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 8</li>
+            <li> <a href="{{ "/tags/emo-rap" | relative_url }}">emo rap</a> # 55</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 99</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2145,8 +2141,8 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 41</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 52</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 43</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -2173,10 +2169,10 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 68</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 78</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 7</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 21</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 30</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 91</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -2200,9 +2196,9 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 82</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 4</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 17</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 94</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -2225,7 +2221,7 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 53</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -2266,7 +2262,7 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 75</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -2294,8 +2290,8 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 54</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 63</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 38</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 56</li>
         </ul>
       </td>
     </tr>
@@ -2322,10 +2318,10 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 48</li>
-            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 73</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 14</li>
+            <li> <a href="{{ "/tags/underground-rap" | relative_url }}">underground rap</a> # 28</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 49</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 86</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -2358,10 +2354,10 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 70</li>
-            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 81</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 5</li>
+            <li> <a href="{{ "/tags/alternative-rap" | relative_url }}">alternative rap</a> # 18</li>
+            <li> <a href="{{ "/tags/rap-rock" | relative_url }}">rap rock</a> # 28</li>
             <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 93</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 96</li>
         </ul>
       </td>
     </tr>
@@ -2386,8 +2382,8 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 61</li>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 73</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 28</li>
+            <li> <a href="{{ "/tags/midwest-rap" | relative_url }}">midwest rap</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -2409,7 +2405,7 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 47</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -2432,7 +2428,7 @@ Last updated: <time datetime="2025-11-15T00:58:41.888Z">Sat Nov 15 2025 02:58:41
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 57</li>
+            <li> <a href="{{ "/tags/cleveland" | relative_url }}">cleveland</a> # 44</li>
         </ul>
       </td>
     </tr>

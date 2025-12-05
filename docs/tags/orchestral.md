@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T02:00:08.832Z
+date: 2025-12-05T05:33:55.214Z
 permalink: tags/orchestral
 title: orchestral
 ---
 
 ## orchestral
 
-Last updated: <time datetime="2025-11-26T02:00:08.832Z">Wed Nov 26 2025 04:00:08 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T05:33:55.214Z">Fri Dec 05 2025 07:33:55 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -50,9 +50,9 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 86</li>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 90</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 93</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 8</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 11</li>
+            <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -96,9 +96,9 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 89</li>
-            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 92</li>
-            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 94</li>
+            <li> <a href="{{ "/tags/exotica" | relative_url }}">exotica</a> # 7</li>
+            <li> <a href="{{ "/tags/space-age-pop" | relative_url }}">space age pop</a> # 9</li>
+            <li> <a href="{{ "/tags/proto-vaporwave" | relative_url }}">proto-vaporwave</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -123,11 +123,11 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 56</li>
-            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 84</li>
-            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 96</li>
-            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 100</li>
-            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 100</li>
+            <li> <a href="{{ "/tags/soul-jazz" | relative_url }}">soul jazz</a> # 1</li>
+            <li> <a href="{{ "/tags/chamber-jazz" | relative_url }}">chamber jazz</a> # 1</li>
+            <li> <a href="{{ "/tags/classical-crossover" | relative_url }}">classical crossover</a> # 5</li>
+            <li> <a href="{{ "/tags/jazz-funk" | relative_url }}">jazz-funk</a> # 17</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -146,8 +146,8 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 42</li>
-            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 91</li>
+            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 10</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -165,7 +165,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 95</li>
+            <li> <a href="{{ "/tags/czech" | relative_url }}">czech</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -187,7 +187,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a> # 76</li>
+            <li> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -227,7 +227,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a> # 92</li>
+            <li> <a href="{{ "/tags/baroque" | relative_url }}">baroque</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -288,7 +288,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 72</li>
+            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -308,7 +308,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 9</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -329,8 +329,8 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 97</li>
-            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 100</li>
+            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 1</li>
+            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -351,7 +351,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 20</li>
+            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 81</li>
         </ul>
       </td>
     </tr>
@@ -374,7 +374,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 52</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 48</li>
         </ul>
       </td>
     </tr>
@@ -397,7 +397,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 56</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -419,9 +419,9 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 33</li>
-            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 91</li>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 98</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 2</li>
+            <li> <a href="{{ "/tags/irish" | relative_url }}">irish</a> # 9</li>
+            <li> <a href="{{ "/tags/acoustic" | relative_url }}">acoustic</a> # 65</li>
         </ul>
       </td>
     </tr>
@@ -442,8 +442,8 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 63</li>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 94</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 7</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -499,7 +499,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 83</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -538,7 +538,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 68</li>
+            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -556,7 +556,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 84</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -582,9 +582,9 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 47</li>
-            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 86</li>
-            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 90</li>
+            <li> <a href="{{ "/tags/rock-opera" | relative_url }}">rock opera</a> # 11</li>
+            <li> <a href="{{ "/tags/symphonic-rock" | relative_url }}">symphonic rock</a> # 15</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 53</li>
         </ul>
       </td>
     </tr>
@@ -642,8 +642,8 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 74</li>
-            <li> <a href="{{ "/tags/harpsichord" | relative_url }}">harpsichord</a> # 99</li>
+            <li> <a href="{{ "/tags/harpsichord" | relative_url }}">harpsichord</a> # 2</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -663,7 +663,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 31</li>
+            <li> <a href="{{ "/tags/world" | relative_url }}">world</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -683,7 +683,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 15</li>
+            <li> <a href="{{ "/tags/contemporary-classical" | relative_url }}">contemporary classical</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -703,7 +703,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 94</li>
+            <li> <a href="{{ "/tags/contemporary-instrumental" | relative_url }}">contemporary instrumental</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -722,7 +722,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 62</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -748,9 +748,9 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 31</li>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 95</li>
-            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 100</li>
+            <li> <a href="{{ "/tags/acoustic-guitar" | relative_url }}">acoustic guitar</a> # 1</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 5</li>
+            <li> <a href="{{ "/tags/ethereal" | relative_url }}">ethereal</a> # 71</li>
         </ul>
       </td>
     </tr>
@@ -807,7 +807,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 74</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -843,7 +843,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 36</li>
+            <li> <a href="{{ "/tags/musical" | relative_url }}">musical</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -923,8 +923,8 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 27</li>
-            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 99</li>
+            <li> <a href="{{ "/tags/choral" | relative_url }}">choral</a> # 2</li>
+            <li> <a href="{{ "/tags/new-age" | relative_url }}">new age</a> # 73</li>
         </ul>
       </td>
     </tr>
@@ -944,7 +944,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 100</li>
+            <li> <a href="{{ "/tags/live-recording" | relative_url }}">live recording</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1004,7 +1004,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 96</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 5</li>
         </ul>
       </td>
     </tr>
@@ -1022,7 +1022,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 65</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 36</li>
         </ul>
       </td>
     </tr>
@@ -1040,7 +1040,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 82</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1114,8 +1114,8 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 78</li>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 87</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 14</li>
+            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -1164,8 +1164,8 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 44</li>
-            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 92</li>
+            <li> <a href="{{ "/tags/germany" | relative_url }}">germany</a> # 8</li>
+            <li> <a href="{{ "/tags/chiptune" | relative_url }}">chiptune</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1205,7 +1205,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 94</li>
+            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1246,10 +1246,10 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 30</li>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 94</li>
-            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 98</li>
-            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 99</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 6</li>
+            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 49</li>
+            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 60</li>
+            <li> <a href="{{ "/tags/alternative-country" | relative_url }}">alternative country</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1271,7 +1271,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 100</li>
+            <li> <a href="{{ "/tags/choir" | relative_url }}">choir</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -1294,8 +1294,8 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 4</li>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 85</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 16</li>
+            <li> <a href="{{ "/tags/instrumental" | relative_url }}">instrumental</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1355,8 +1355,8 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 96</li>
-            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 100</li>
+            <li> <a href="{{ "/tags/brass" | relative_url }}">brass</a> # 1</li>
+            <li> <a href="{{ "/tags/strings" | relative_url }}">strings</a> # 4</li>
         </ul>
       </td>
     </tr>
@@ -1376,7 +1376,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 76</li>
+            <li> <a href="{{ "/tags/classical" | relative_url }}">classical</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -1433,10 +1433,10 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 32</li>
-            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 59</li>
-            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 77</li>
-            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 84</li>
+            <li> <a href="{{ "/tags/denmark" | relative_url }}">denmark</a> # 16</li>
+            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 24</li>
+            <li> <a href="{{ "/tags/danish" | relative_url }}">danish</a> # 42</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1456,7 +1456,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 86</li>
+            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1631,7 +1631,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 98</li>
+            <li> <a href="{{ "/tags/composer" | relative_url }}">composer</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -1674,7 +1674,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 14</li>
+            <li> <a href="{{ "/tags/france" | relative_url }}">france</a> # 87</li>
         </ul>
       </td>
     </tr>
@@ -1714,7 +1714,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 56</li>
+            <li> <a href="{{ "/tags/piano" | relative_url }}">piano</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1754,8 +1754,8 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 95</li>
-            <li> <a href="{{ "/tags/conductor" | relative_url }}">conductor</a> # 98</li>
+            <li> <a href="{{ "/tags/conductor" | relative_url }}">conductor</a> # 3</li>
+            <li> <a href="{{ "/tags/symphony" | relative_url }}">symphony</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -1790,7 +1790,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 51</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -1810,7 +1810,7 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 21</li>
+            <li> <a href="{{ "/tags/opera" | relative_url }}">opera</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -1852,8 +1852,8 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 83</li>
-            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 97</li>
+            <li> <a href="{{ "/tags/alt-pop" | relative_url }}">alt pop</a> # 4</li>
+            <li> <a href="{{ "/tags/baroque-pop" | relative_url }}">baroque pop</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1911,9 +1911,9 @@ Orchestral music features large ensembles of strings, brass, woodwinds, and perc
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 6</li>
-            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 45</li>
-            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 76</li>
+            <li> <a href="{{ "/tags/orchestra" | relative_url }}">orchestra</a> # 25</li>
+            <li> <a href="{{ "/tags/ethereal-wave" | relative_url }}">ethereal wave</a> # 46</li>
+            <li> <a href="{{ "/tags/electronic-rock" | relative_url }}">electronic rock</a> # 94</li>
         </ul>
       </td>
     </tr>

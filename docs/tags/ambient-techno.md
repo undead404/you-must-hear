@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T01:29:44.954Z
+date: 2025-12-05T05:29:45.918Z
 permalink: tags/ambient-techno
 title: ambient techno
 ---
 
 ## ambient techno
 
-Last updated: <time datetime="2025-11-26T01:29:44.954Z">Wed Nov 26 2025 03:29:44 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T05:29:45.918Z">Fri Dec 05 2025 07:29:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -47,9 +47,9 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 69</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 77</li>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 83</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 18</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 24</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -74,8 +74,8 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 39</li>
-            <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 83</li>
+            <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 18</li>
+            <li> <a href="{{ "/tags/tribal" | relative_url }}">tribal</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -112,8 +112,8 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 71</li>
-            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 83</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 15</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -168,7 +168,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 76</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -191,7 +191,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 70</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -228,7 +228,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 12</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 67</li>
         </ul>
       </td>
     </tr>
@@ -252,8 +252,8 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 23</li>
-            <li> <a href="{{ "/tags/sheffield" | relative_url }}">sheffield</a> # 99</li>
+            <li> <a href="{{ "/tags/sheffield" | relative_url }}">sheffield</a> # 2</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -272,8 +272,8 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 68</li>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 94</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 7</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 34</li>
         </ul>
       </td>
     </tr>
@@ -292,7 +292,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 90</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 9</li>
         </ul>
       </td>
     </tr>
@@ -311,8 +311,8 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 71</li>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 97</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 4</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -331,8 +331,8 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 9</li>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 38</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 63</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -377,9 +377,9 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 75</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 82</li>
-            <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 91</li>
+            <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 10</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 19</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -415,7 +415,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 52</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 37</li>
         </ul>
       </td>
     </tr>
@@ -458,7 +458,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 89</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -479,7 +479,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 100</li>
+            <li> <a href="{{ "/tags/deep-ambient" | relative_url }}">deep ambient</a> # 1</li>
         </ul>
       </td>
     </tr>
@@ -539,7 +539,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 86</li>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 16</li>
         </ul>
       </td>
     </tr>
@@ -560,7 +560,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 51</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -603,7 +603,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 93</li>
+            <li> <a href="{{ "/tags/acid-techno" | relative_url }}">acid techno</a> # 7</li>
         </ul>
       </td>
     </tr>
@@ -631,8 +631,8 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 73</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 88</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 13</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -655,9 +655,9 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 67</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 72</li>
-            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 77</li>
+            <li> <a href="{{ "/tags/electroacoustic" | relative_url }}">electroacoustic</a> # 24</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 29</li>
+            <li> <a href="{{ "/tags/post-industrial" | relative_url }}">post-industrial</a> # 32</li>
         </ul>
       </td>
     </tr>
@@ -697,8 +697,8 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 80</li>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 92</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 9</li>
+            <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -721,7 +721,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/detroit-techno" | relative_url }}">detroit techno</a> # 72</li>
+            <li> <a href="{{ "/tags/detroit-techno" | relative_url }}">detroit techno</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -780,7 +780,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 51</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 49</li>
         </ul>
       </td>
     </tr>
@@ -798,7 +798,8 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 47</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 41</li>
+            <li> <a href="{{ "/tags/ambient" | relative_url }}">ambient</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -827,7 +828,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 56</li>
+            <li> <a href="{{ "/tags/nu-jazz" | relative_url }}">nu jazz</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -853,9 +854,9 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 38</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 78</li>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 79</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 22</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 23</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 62</li>
         </ul>
       </td>
     </tr>
@@ -910,7 +911,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 91</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -937,8 +938,8 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 72</li>
-            <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 80</li>
+            <li> <a href="{{ "/tags/tribal-ambient" | relative_url }}">tribal ambient</a> # 21</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -1020,7 +1021,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 91</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 10</li>
         </ul>
       </td>
     </tr>
@@ -1041,13 +1042,13 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 4</li>
-            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 31</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 49</li>
-            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 71</li>
-            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 81</li>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 85</li>
-            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 86</li>
+            <li> <a href="{{ "/tags/psydub" | relative_url }}">psydub</a> # 15</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 16</li>
+            <li> <a href="{{ "/tags/psychill" | relative_url }}">psychill</a> # 19</li>
+            <li> <a href="{{ "/tags/downbeat" | relative_url }}">downbeat</a> # 30</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 52</li>
+            <li> <a href="{{ "/tags/psybient" | relative_url }}">psybient</a> # 70</li>
+            <li> <a href="{{ "/tags/goa" | relative_url }}">goa</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1092,11 +1093,11 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 62</li>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 87</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 90</li>
-            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 92</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 94</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 7</li>
+            <li> <a href="{{ "/tags/soundscape" | relative_url }}">soundscape</a> # 9</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 11</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 14</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 38</li>
         </ul>
       </td>
     </tr>
@@ -1115,7 +1116,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 73</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1141,7 +1142,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
     <tr>
       <td>14</td>
       <td>
-          <img src="https://i.discogs.com/YAW80fQ5f-AhDGg96lcZsCoI8UnyQAp9M6LDGpZB1co/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODY3/MDQtMTMwMDk5MjIz/Ny5qcGVn.jpeg" alt="Cover for Music For A Film" style="max-width:120px; height:auto;" />
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/4ffd876c7b910e2bd083b88ff039ca9a.png" alt="Cover for Music For A Film" style="max-width:120px; height:auto;" />
       </td>
       <td>2009-11</td>
       <td>The Silk Demise</td>
@@ -1158,8 +1159,8 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-breaks" | relative_url }}">progressive breaks</a> # 82</li>
-            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 84</li>
+            <li> <a href="{{ "/tags/illbient" | relative_url }}">illbient</a> # 17</li>
+            <li> <a href="{{ "/tags/progressive-breaks" | relative_url }}">progressive breaks</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1180,9 +1181,9 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 65</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 69</li>
-            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 88</li>
+            <li> <a href="{{ "/tags/deep-techno" | relative_url }}">deep techno</a> # 13</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 32</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 35</li>
         </ul>
       </td>
     </tr>
@@ -1223,7 +1224,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 35</li>
+            <li> <a href="{{ "/tags/progressive-electronic" | relative_url }}">progressive electronic</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -1244,8 +1245,8 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 21</li>
-            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 74</li>
+            <li> <a href="{{ "/tags/dub" | relative_url }}">dub</a> # 27</li>
+            <li> <a href="{{ "/tags/techno" | relative_url }}">techno</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1290,8 +1291,8 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 59</li>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 96</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 4</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1333,9 +1334,9 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 1</li>
-            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 53</li>
-            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 59</li>
+            <li> <a href="{{ "/tags/industrial-hip-hop" | relative_url }}">industrial hip hop</a> # 42</li>
+            <li> <a href="{{ "/tags/glitch-hop" | relative_url }}">glitch hop</a> # 47</li>
+            <li> <a href="{{ "/tags/glitch" | relative_url }}">glitch</a> # 94</li>
         </ul>
       </td>
     </tr>
@@ -1375,8 +1376,8 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 27</li>
             <li> <a href="{{ "/tags/microhouse" | relative_url }}">microhouse</a> # 68</li>
-            <li> <a href="{{ "/tags/ambient-house" | relative_url }}">ambient house</a> # 75</li>
         </ul>
       </td>
     </tr>
@@ -1396,7 +1397,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 71</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 30</li>
         </ul>
       </td>
     </tr>
@@ -1416,8 +1417,8 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 46</li>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 100</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 1</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1437,7 +1438,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 2</li>
+            <li> <a href="{{ "/tags/future-garage" | relative_url }}">future garage</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -1540,9 +1541,9 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 82</li>
-            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 96</li>
-            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 96</li>
+            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 5</li>
+            <li> <a href="{{ "/tags/rhythmic-noise" | relative_url }}">rhythmic noise</a> # 5</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1561,7 +1562,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 86</li>
+            <li> <a href="{{ "/tags/deconstructed-club" | relative_url }}">deconstructed club</a> # 15</li>
         </ul>
       </td>
     </tr>
@@ -1581,7 +1582,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 75</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1621,7 +1622,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 90</li>
+            <li> <a href="{{ "/tags/deep-and-dark" | relative_url }}">deep and dark</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -1690,7 +1691,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 32</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -1731,9 +1732,9 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 33</li>
-            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 91</li>
-            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 97</li>
+            <li> <a href="{{ "/tags/breakbeat-hardcore" | relative_url }}">breakbeat hardcore</a> # 4</li>
+            <li> <a href="{{ "/tags/jungle" | relative_url }}">jungle</a> # 10</li>
+            <li> <a href="{{ "/tags/idm" | relative_url }}">idm</a> # 52</li>
         </ul>
       </td>
     </tr>
@@ -1756,7 +1757,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 83</li>
+            <li> <a href="{{ "/tags/indie-electronic" | relative_url }}">indie electronic</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1776,7 +1777,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 75</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 26</li>
         </ul>
       </td>
     </tr>
@@ -1805,12 +1806,12 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 15</li>
-            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 61</li>
-            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 87</li>
-            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 88</li>
-            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 90</li>
-            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 94</li>
+            <li> <a href="{{ "/tags/experimental-techno" | relative_url }}">experimental techno</a> # 6</li>
+            <li> <a href="{{ "/tags/dark-techno" | relative_url }}">dark techno</a> # 11</li>
+            <li> <a href="{{ "/tags/experimental-electronic" | relative_url }}">experimental electronic</a> # 13</li>
+            <li> <a href="{{ "/tags/ambient-electronic" | relative_url }}">ambient electronic</a> # 14</li>
+            <li> <a href="{{ "/tags/industrial-techno" | relative_url }}">industrial techno</a> # 40</li>
+            <li> <a href="{{ "/tags/coldwave" | relative_url }}">coldwave</a> # 85</li>
         </ul>
       </td>
     </tr>
@@ -1834,8 +1835,8 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 46</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 70</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 31</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -1950,8 +1951,8 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 24</li>
-            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 96</li>
+            <li> <a href="{{ "/tags/tech-house" | relative_url }}">tech house</a> # 5</li>
+            <li> <a href="{{ "/tags/ambient-pop" | relative_url }}">ambient pop</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -1994,7 +1995,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 2</li>
+            <li> <a href="{{ "/tags/minimal-techno" | relative_url }}">minimal techno</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -2032,7 +2033,7 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 95</li>
+            <li> <a href="{{ "/tags/ambient-trance" | relative_url }}">ambient trance</a> # 6</li>
         </ul>
       </td>
     </tr>
@@ -2058,8 +2059,9 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 3</li>
-            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 48</li>
+            <li> <a href="{{ "/tags/plunderphonics" | relative_url }}">plunderphonics</a> # 53</li>
+            <li> <a href="{{ "/tags/sampling" | relative_url }}">sampling</a> # 97</li>
+            <li> <a href="{{ "/tags/hypnagogic-pop" | relative_url }}">hypnagogic pop</a> # 100</li>
         </ul>
       </td>
     </tr>
@@ -2083,10 +2085,10 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 4</li>
+            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 7</li>
+            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 8</li>
             <li> <a href="{{ "/tags/progressive-trance" | relative_url }}">progressive trance</a> # 16</li>
-            <li> <a href="{{ "/tags/outsider-house" | relative_url }}">outsider house</a> # 93</li>
-            <li> <a href="{{ "/tags/acid-house" | relative_url }}">acid house</a> # 94</li>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -2153,9 +2155,9 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 35</li>
-            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 35</li>
-            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 57</li>
+            <li> <a href="{{ "/tags/field-recordings" | relative_url }}">field recordings</a> # 44</li>
+            <li> <a href="{{ "/tags/sound-collage" | relative_url }}">sound collage</a> # 66</li>
+            <li> <a href="{{ "/tags/avant-garde-jazz" | relative_url }}">avant-garde jazz</a> # 66</li>
         </ul>
       </td>
     </tr>
@@ -2176,8 +2178,8 @@ Ambient techno blends the atmospheric textures of ambient music with techno&#39;
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 30</li>
-            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 76</li>
+            <li> <a href="{{ "/tags/ambient-dub" | relative_url }}">ambient dub</a> # 25</li>
+            <li> <a href="{{ "/tags/dub-techno" | relative_url }}">dub techno</a> # 70</li>
         </ul>
       </td>
     </tr>

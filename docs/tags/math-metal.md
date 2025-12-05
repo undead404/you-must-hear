@@ -1,13 +1,13 @@
 ---
 category: genre
-date: 2025-11-26T01:02:09.868Z
+date: 2025-12-05T05:27:45.905Z
 permalink: tags/math-metal
 title: math metal
 ---
 
 ## math metal
 
-Last updated: <time datetime="2025-11-26T01:02:09.868Z">Wed Nov 26 2025 03:02:09 GMT+0200 (Eastern European Standard Time)</time>
+Last updated: <time datetime="2025-12-05T05:27:45.905Z">Fri Dec 05 2025 07:27:45 GMT+0200 (Eastern European Standard Time)</time>
 
 ### Description
 
@@ -104,7 +104,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 56</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -123,9 +123,9 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 23</li>
-            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 50</li>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 71</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 30</li>
+            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 51</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -164,8 +164,8 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 15</li>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 94</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 7</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -201,7 +201,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 78</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 23</li>
         </ul>
       </td>
     </tr>
@@ -247,7 +247,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 70</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 31</li>
         </ul>
       </td>
     </tr>
@@ -288,7 +288,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 88</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -307,9 +307,9 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 32</li>
-            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 57</li>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 86</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 15</li>
+            <li> <a href="{{ "/tags/swedish-metal" | relative_url }}">swedish metal</a> # 45</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 69</li>
         </ul>
       </td>
     </tr>
@@ -366,8 +366,8 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 24</li>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 73</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 28</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -386,8 +386,8 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 41</li>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 69</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 29</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 60</li>
         </ul>
       </td>
     </tr>
@@ -409,7 +409,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 98</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 3</li>
         </ul>
       </td>
     </tr>
@@ -432,7 +432,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 87</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 14</li>
         </ul>
       </td>
     </tr>
@@ -452,10 +452,10 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 14</li>
-            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 29</li>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 63</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 93</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 8</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 38</li>
+            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 72</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -474,7 +474,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 3</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 98</li>
         </ul>
       </td>
     </tr>
@@ -493,7 +493,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 77</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -511,9 +511,9 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 43</li>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 49</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 79</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 22</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 52</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 58</li>
         </ul>
       </td>
     </tr>
@@ -552,8 +552,8 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 72</li>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 80</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 21</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 29</li>
         </ul>
       </td>
     </tr>
@@ -613,7 +613,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 9</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -669,7 +669,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 51</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 50</li>
         </ul>
       </td>
     </tr>
@@ -689,7 +689,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 2</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 99</li>
         </ul>
       </td>
     </tr>
@@ -746,8 +746,8 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 27</li>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 86</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 15</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -806,7 +806,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 77</li>
+            <li> <a href="{{ "/tags/technical-death-metal" | relative_url }}">technical death metal</a> # 24</li>
         </ul>
       </td>
     </tr>
@@ -863,7 +863,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 27</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 74</li>
         </ul>
       </td>
     </tr>
@@ -881,8 +881,8 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 10</li>
-            <li> <a href="{{ "/tags/bounce" | relative_url }}">bounce</a> # 48</li>
+            <li> <a href="{{ "/tags/bounce" | relative_url }}">bounce</a> # 53</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 91</li>
         </ul>
       </td>
     </tr>
@@ -901,7 +901,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 20</li>
+            <li> <a href="{{ "/tags/instrumental-metal" | relative_url }}">instrumental metal</a> # 80</li>
         </ul>
       </td>
     </tr>
@@ -941,26 +941,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 80</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>68</td>
-      <td>
-          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1788c5274c6b4d27af39d2e13308cc04.png" alt="Cover for Колесницы Богов" style="max-width:120px; height:auto;" />
-      </td>
-      <td>2012</td>
-      <td>The Korea</td>
-      <td>Колесницы Богов</td>
-      <td>
-        <ul>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/djent" | relative_url }}">djent</a></li>
-            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 21</li>
         </ul>
       </td>
     </tr>
@@ -979,10 +960,10 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 19</li>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 74</li>
-            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 78</li>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 96</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 5</li>
+            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 23</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 27</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 82</li>
         </ul>
       </td>
     </tr>
@@ -996,6 +977,25 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       <td>Acid Mist Tomorrow</td>
       <td>
         <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>
+          <img src="https://lastfm.freetls.fastly.net/i/u/34s/1788c5274c6b4d27af39d2e13308cc04.png" alt="Cover for Колесницы Богов" style="max-width:120px; height:auto;" />
+      </td>
+      <td>2012-03-30</td>
+      <td>The Korea</td>
+      <td>Колесницы Богов</td>
+      <td>
+        <ul>
+            <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/djent" | relative_url }}">djent</a></li>
             <li style="font-size: calc(1rem * 100 / 100)"> <a href="{{ "/tags/math-metal" | relative_url }}">math metal</a></li>
         </ul>
       </td>
@@ -1059,7 +1059,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 83</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 18</li>
         </ul>
       </td>
     </tr>
@@ -1077,7 +1077,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 11</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 90</li>
         </ul>
       </td>
     </tr>
@@ -1097,7 +1097,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 9</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1116,7 +1116,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 76</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 25</li>
         </ul>
       </td>
     </tr>
@@ -1154,7 +1154,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 18</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 83</li>
         </ul>
       </td>
     </tr>
@@ -1178,7 +1178,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 81</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 20</li>
         </ul>
       </td>
     </tr>
@@ -1215,7 +1215,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 15</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 86</li>
         </ul>
       </td>
     </tr>
@@ -1233,7 +1233,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 57</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1260,10 +1260,10 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 2</li>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 25</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 31</li>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 93</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 8</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 69</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 76</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 97</li>
         </ul>
       </td>
     </tr>
@@ -1309,10 +1309,10 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 54</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 60</li>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 62</li>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 96</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 5</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 39</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 41</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 45</li>
         </ul>
       </td>
     </tr>
@@ -1334,7 +1334,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 84</li>
+            <li> <a href="{{ "/tags/technical-metal" | relative_url }}">technical metal</a> # 17</li>
         </ul>
       </td>
     </tr>
@@ -1398,9 +1398,9 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 23</li>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 37</li>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 53</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 48</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 64</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 78</li>
         </ul>
       </td>
     </tr>
@@ -1419,7 +1419,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 74</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 27</li>
         </ul>
       </td>
     </tr>
@@ -1482,7 +1482,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 46</li>
+            <li> <a href="{{ "/tags/progressive-deathcore" | relative_url }}">progressive deathcore</a> # 55</li>
         </ul>
       </td>
     </tr>
@@ -1505,7 +1505,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 29</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 72</li>
         </ul>
       </td>
     </tr>
@@ -1527,7 +1527,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 24</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 77</li>
         </ul>
       </td>
     </tr>
@@ -1571,9 +1571,9 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 16</li>
-            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 33</li>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 88</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 13</li>
+            <li> <a href="{{ "/tags/soundtrack" | relative_url }}">soundtrack</a> # 60</li>
+            <li> <a href="{{ "/tags/industrial-metal" | relative_url }}">industrial metal</a> # 70</li>
         </ul>
       </td>
     </tr>
@@ -1593,9 +1593,9 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 37</li>
-            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 69</li>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 75</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 26</li>
+            <li> <a href="{{ "/tags/extreme-metal" | relative_url }}">extreme metal</a> # 32</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 64</li>
         </ul>
       </td>
     </tr>
@@ -1641,7 +1641,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 27</li>
+            <li> <a href="{{ "/tags/progressive-metalcore" | relative_url }}">progressive metalcore</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -1662,10 +1662,10 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 4</li>
-            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 44</li>
-            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 68</li>
-            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 96</li>
+            <li> <a href="{{ "/tags/moshcore" | relative_url }}">moshcore</a> # 5</li>
+            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 33</li>
+            <li> <a href="{{ "/tags/nu-metal" | relative_url }}">nu metal</a> # 57</li>
+            <li> <a href="{{ "/tags/metalcore" | relative_url }}">metalcore</a> # 92</li>
         </ul>
       </td>
     </tr>
@@ -1733,10 +1733,10 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 55</li>
-            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 61</li>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 64</li>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 97</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 4</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 37</li>
+            <li> <a href="{{ "/tags/rapcore" | relative_url }}">rapcore</a> # 40</li>
+            <li> <a href="{{ "/tags/mathcore" | relative_url }}">mathcore</a> # 44</li>
         </ul>
       </td>
     </tr>
@@ -1776,7 +1776,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 82</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 19</li>
         </ul>
       </td>
     </tr>
@@ -1797,7 +1797,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 59</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 42</li>
         </ul>
       </td>
     </tr>
@@ -1818,7 +1818,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 58</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1843,9 +1843,9 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 50</li>
-            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 75</li>
-            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 86</li>
+            <li> <a href="{{ "/tags/fusion" | relative_url }}">fusion</a> # 15</li>
+            <li> <a href="{{ "/tags/jazz-fusion" | relative_url }}">jazz fusion</a> # 25</li>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 51</li>
         </ul>
       </td>
     </tr>
@@ -1870,10 +1870,10 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 89</li>
-            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 92</li>
-            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 96</li>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 100</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 1</li>
+            <li> <a href="{{ "/tags/progressive-pop" | relative_url }}">progressive pop</a> # 5</li>
+            <li> <a href="{{ "/tags/math-rock" | relative_url }}">math rock</a> # 8</li>
+            <li> <a href="{{ "/tags/progressive-metal" | relative_url }}">progressive metal</a> # 12</li>
         </ul>
       </td>
     </tr>
@@ -1898,9 +1898,9 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 58</li>
-            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 83</li>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 94</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 7</li>
+            <li> <a href="{{ "/tags/8-bit" | relative_url }}">8-bit</a> # 17</li>
+            <li> <a href="{{ "/tags/psytrance" | relative_url }}">psytrance</a> # 43</li>
         </ul>
       </td>
     </tr>
@@ -1942,7 +1942,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 47</li>
+            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 54</li>
         </ul>
       </td>
     </tr>
@@ -2025,7 +2025,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 73</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 28</li>
         </ul>
       </td>
     </tr>
@@ -2068,7 +2068,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 90</li>
+            <li> <a href="{{ "/tags/djent" | relative_url }}">djent</a> # 11</li>
         </ul>
       </td>
     </tr>
@@ -2088,7 +2088,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 88</li>
+            <li> <a href="{{ "/tags/experimental-metal" | relative_url }}">experimental metal</a> # 13</li>
         </ul>
       </td>
     </tr>
@@ -2110,7 +2110,7 @@ Math metal is a technically complex subgenre of heavy metal characterized by odd
       </td>
       <td>
         <ul>
-            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 91</li>
+            <li> <a href="{{ "/tags/nu-metalcore" | relative_url }}">nu metalcore</a> # 10</li>
         </ul>
       </td>
     </tr>
